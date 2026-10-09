@@ -125,8 +125,8 @@ jobs:
             echo "**Version ${tag}**, built from commit ${GITHUB_SHA}."
             echo
             echo "The patcher only: it is not the game and it cannot get it for you. Point it at your own decrypted"
-            echo "copy of Medarot 9 (Kuwagata Ver.) and its 1.3.0 update, pick a language, and it installs the"
-            echo "translation into Azahar or makes a ZIP for the SD card of a real 3DS (Luma3DS)."
+            echo "copy of Medarot 9 (Kabuto Ver. or Kuwagata Ver.) and its 1.3.0 update, pick a language, and it"
+            echo "installs the translation into Azahar or makes a ZIP for the SD card of a real 3DS (Luma3DS)."
             echo
             echo "Windows: run the .exe (SmartScreen: 'More info' > 'Run anyway'). macOS: unzip, right-click the"
             echo "app > Open the first time (it is not notarized); the app is universal, Intel and Apple Silicon."
