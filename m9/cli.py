@@ -69,6 +69,15 @@ def cmd_install(a, cfg):
     return 0
 
 
+def _luma_path(mod, f):
+    """Path inside the SD card for Luma3DS game patching: romfs/ as it is, and code.bin at the title folder's root
+    (Luma3DS reads /luma/titles/<title>/code.bin, not exefs/code.bin as Azahar does)."""
+    rel = f.relative_to(mod).as_posix()
+    if rel.startswith('exefs/'):
+        rel = rel[len('exefs/'):]
+    return f'luma/titles/{mod.name}/{rel}'
+
+
 def cmd_zip(a, cfg):
     mod = _build(a, cfg)
     DIST.mkdir(exist_ok=True)
@@ -76,7 +85,7 @@ def cmd_zip(a, cfg):
     with zipfile.ZipFile(z, 'w', zipfile.ZIP_DEFLATED) as zf:
         for f in sorted(mod.rglob('*')):
             if f.is_file():
-                zf.write(f, f'luma/titles/{mod.name}/' + f.relative_to(mod).as_posix())
+                zf.write(f, _luma_path(mod, f))
     print(f'{z}: unzip it at the root of your SD card (Luma3DS: enable "game patching").')
     return 0
 

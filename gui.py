@@ -20,6 +20,15 @@ from m9.config import Config, azahar_mods  # noqa: E402
 GAME_TYPES = [('3DS game', '*.3ds *.cci *.cia *.cxi'), ('All files', '*')]
 
 
+def _luma_path(mod, f):
+    """Path inside the SD card for Luma3DS game patching: romfs/ as it is, and code.bin at the title folder's root
+    (Luma3DS reads /luma/titles/<title>/code.bin, not exefs/code.bin as Azahar does)."""
+    rel = f.relative_to(mod).as_posix()
+    if rel.startswith('exefs/'):
+        rel = rel[len('exefs/'):]
+    return f'luma/titles/{mod.name}/{rel}'
+
+
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
@@ -106,7 +115,7 @@ class App(tk.Tk):
                 with zipfile.ZipFile(z, 'w', zipfile.ZIP_DEFLATED) as zf:
                     for f in sorted(mod.rglob('*')):
                         if f.is_file():
-                            zf.write(f, f'luma/titles/{mod.name}/' + f.relative_to(mod).as_posix())
+                            zf.write(f, _luma_path(mod, f))
                 self._say(f'Done: {z}. Unzip it at the root of your SD card and enable game patching in Luma3DS.')
             else:
                 self._say(f'Done: {mod}')

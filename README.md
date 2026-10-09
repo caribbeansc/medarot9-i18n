@@ -52,8 +52,12 @@ repository and contains nothing from the game.
      (right click the game → *Dump RomFS*);
    - its **1.3.0 update** (`.cia`, or a dumped folder): required, the translation is made for it.
 2. Pick a language and click **Install into Azahar** (it writes the mod into Azahar's `load/mods/` folder), or
-   **ZIP for SD card** for a real 3DS: unzip it at the root of the SD card and turn on *Enable game patching* in the
-   Luma3DS menu.
+   **ZIP for SD card** for a real 3DS with Luma3DS:
+   - **unzip** it at the root of the SD card (it creates `luma/titles/<title>/` with `romfs/` and `code.bin`);
+   - hold **SELECT** while turning the console on and enable **"Enable game patching"** (once);
+   - the game and its 1.3.0 update are installed on the console as usual (FBI installs `.cia` files; a `.3ds`/`.cci`
+     is a cartridge dump, not something to install). The decrypted copy is only what the patcher reads on your
+     computer.
 3. Start the game. Nothing else changes: your saves stay the same, and removing the mod folder gives you the
    Japanese game back.
 
