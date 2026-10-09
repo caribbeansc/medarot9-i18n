@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_teach_fb_101_s01_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ed9dd8dbb708",
+   "t": "Enfermera Escolar"
+  },
+  {
+   "i": 1035,
+   "src": "2280ad2bd9ae",
+   "t": "Vaya, "
+  },
+  {
+   "i": 1037,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1040,
+   "src": "8c90f32dd895",
+   "t": "Tu primera clase, buen trabajo."
+  },
+  {
+   "i": 1048,
+   "src": "6577546f1dd5",
+   "t": "Si vas a ver los clubes, ve derecho"
+  },
+  {
+   "i": 1051,
+   "src": "453d28699aab",
+   "t": "por el camino opuesto. Ahí están."
+  }
+ ]
+}

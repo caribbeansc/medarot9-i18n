@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc01_meda_161_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9df26106b0f4",
+   "t": "Oye "
+  },
+  {
+   "i": 1036,
+   "src": "610e9bd6f061",
+   "t": "Mañana cuento contigo en la entrevista."
+  },
+  {
+   "i": 1063,
+   "src": "432ba9c1264a",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1069,
+   "src": "1ea3389b1337",
+   "t": "¿Qué me estás pidiendo que haga?"
+  },
+  {
+   "i": 1078,
+   "src": "b8193a32bb07",
+   "t": "Según el resultado, podría perder mis"
+  },
+  {
+   "i": 1081,
+   "src": "f2e41027cdc8",
+   "t": "vacaciones de verano. Así que..."
+  },
+  {
+   "i": 1100,
+   "src": "3a0977f899d1",
+   "t": "¿Sin vacaciones de verano?"
+  },
+  {
+   "i": 1103,
+   "src": "0dfe0f5d63af",
+   "t": "Eso sería un problema, así que lo haré."
+  },
+  {
+   "i": 1124,
+   "src": "99a7f7c9691f",
+   "t": "Y bien, ¿qué hago?"
+  },
+  {
+   "i": 1130,
+   "src": "f8c4c69aa014",
+   "t": "Y bien, ¿qué necesito hacer?"
+  },
+  {
+   "i": 1139,
+   "src": "e3e9848937c8",
+   "t": "Mmm..."
+  }
+ ]
+}

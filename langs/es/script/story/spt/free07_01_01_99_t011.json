@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/free07_01_01_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "88eccaa58aa4",
+   "t": "¡{{mission|cap}} ' ' completada!"
+  },
+  {
+   "i": 1011,
+   "src": "913e0c661d21",
+   "t": "¡Los logros del {{exploration_club}}\naumentaron!"
+  }
+ ]
+}

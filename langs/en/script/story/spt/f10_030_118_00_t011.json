@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f10_030_118_00_t011.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1042,
+   "src": "3533abc1216c",
+   "t": "D-d-dismissed?!"
+  },
+  {
+   "i": 1057,
+   "src": "e0aa2b759c18",
+   "t": "That's absurd!"
+  },
+  {
+   "i": 1060,
+   "src": "911dcc18f726",
+   "t": "I..."
+  },
+  {
+   "i": 1067,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1073,
+   "src": "e6edf25f6c58",
+   "t": "The committee will likely impose some"
+  },
+  {
+   "i": 1076,
+   "src": "6f5e7f8a5329",
+   "t": "disciplinary action on you later."
+  },
+  {
+   "i": 1084,
+   "src": "7e0a99a68601",
+   "t": "Until then, you're free to roam\nthe academy as you please."
+  },
+  {
+   "i": 1092,
+   "src": "d42a7652c093",
+   "t": "As long as you don't interfere with us,"
+  },
+  {
+   "i": 1095,
+   "src": "791e7733076a",
+   "t": "you may continue as acting {{principal|cap}}."
+  },
+  {
+   "i": 1103,
+   "src": "f92ac467e6c7",
+   "t": "If the man himself permits it, that is."
+  },
+  {
+   "i": 1110,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1116,
+   "src": "d39f142c9d80",
+   "t": "The man himself...?"
+  }
+ ]
+}

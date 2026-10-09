@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f04_030_115_00_t011.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "93127179240d",
+   "t": "Ah, eras tú, {{mio}}."
+  },
+  {
+   "i": 1043,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1052,
+   "src": "d4a4fc9311a3",
+   "t": "Perdón por ser solo yo."
+  },
+  {
+   "i": 1063,
+   "src": "663bd4c1f594",
+   "t": "Vamos, "
+  },
+  {
+   "i": 1065,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  }
+ ]
+}

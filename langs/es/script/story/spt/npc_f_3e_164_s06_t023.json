@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t023.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "40d3709f703c",
+   "t": "Oh, ¿en serio?"
+  },
+  {
+   "i": 1038,
+   "src": "a6811158dd17",
+   "t": "Qué lástima, quería contárselo a alguien."
+  },
+  {
+   "i": 1046,
+   "src": "a8a349516821",
+   "t": "Si alguna vez quieres que te cuente,"
+  },
+  {
+   "i": 1049,
+   "src": "2ca1c1cc7b26",
+   "t": "solo avísame. Aquí estaré esperando~."
+  }
+ ]
+}

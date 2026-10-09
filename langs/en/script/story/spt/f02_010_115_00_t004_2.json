@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f02_010_115_00_t004_2.spt",
+ "lines": [
+  {
+   "i": 1126,
+   "src": "ad7b8f99481c",
+   "t": "...Never mind."
+  },
+  {
+   "i": 1131,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1140,
+   "src": "7e031891feea",
+   "t": "Why not?!"
+  },
+  {
+   "i": 1151,
+   "src": "d39cdc41575d",
+   "t": "I'm not in the mood."
+  },
+  {
+   "i": 1159,
+   "src": "1d8899904b98",
+   "t": "Besides, I'm in the {{exploration_club}}."
+  },
+  {
+   "i": 1162,
+   "src": "277dc563ff60",
+   "t": "Hunting culprits isn't my job... probably."
+  },
+  {
+   "i": 1167,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1176,
+   "src": "56ff28bfdc11",
+   "t": "So if my "
+  },
+  {
+   "i": 1178,
+   "src": "a1432ffee269",
+   "t": " gets hurt,"
+  },
+  {
+   "i": 1181,
+   "src": "07933fe1a8a9",
+   "t": "you don't care what happens, is that it? "
+  },
+  {
+   "i": 1190,
+   "src": "eb4b7aee9b86",
+   "t": "... got hurt badly, "
+  },
+  {
+   "i": 1193,
+   "src": "54e185637253",
+   "t": "So you'll take responsibility?!  "
+  },
+  {
+   "i": 1204,
+   "src": "6dab001d2978",
+   "t": "Why does it have to end up like this?!"
+  },
+  {
+   "i": 1212,
+   "src": "e8afc91063d9",
+   "t": "Anyway, I just joined, you know."
+  },
+  {
+   "i": 1215,
+   "src": "cfb370c37b65",
+   "t": "I can't decide something like that\nmyself."
+  },
+  {
+   "i": 1223,
+   "src": "2f359b54e063",
+   "t": "If you're asking, talk to the President."
+  },
+  {
+   "i": 1226,
+   "src": "795e53245f07",
+   "t": "Then at least I could-"
+  },
+  {
+   "i": 1242,
+   "src": "529266a8b07a",
+   "t": "Sure."
+  },
+  {
+   "i": 1261,
+   "src": "fed537c5ae87",
+   "t": "Huh?"
+  },
+  {
+   "i": 1277,
+   "src": "95fe58d00537",
+   "t": "But there's a {{condition_rotation}}."
+  }
+ ]
+}

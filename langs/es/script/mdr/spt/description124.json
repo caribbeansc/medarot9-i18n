@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description124.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4f5e97559026",
+   "t": "Disparador"
+  },
+  {
+   "i": 11,
+   "src": "d5cf9f6a5596",
+   "t": "El <c:ffff00>ataque<c> que da pie a un <c:ffff00>ataque combinado<c>.\n\nSi se enlaza un ataque de <c:ffff00>fuego cruzado<c> antes o\ndespués de él, se forma el ataque combinado.\n\nSolo los ataques con <c:ffff00>técnica<c> normal pueden ser\ndisparador: las técnicas con <c:ffff00>subhabilidad<c> y la\n<c:ffff00>{{medaforce}}<c> no lo son. En un <c:ffff00>combo<c>, lo es la primera\ntécnica incluida."
+  }
+ ]
+}

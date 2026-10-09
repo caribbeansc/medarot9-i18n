@@ -1,0 +1,38 @@
+{
+ "rel": "mdr/tex/bt_ranking_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    17,
+    0,
+    82,
+    15
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    24,
+    0,
+    74,
+    14
+   ],
+   "erase": "none",
+   "text": "Ranking",
+   "font": "compact-rounded-heavy",
+   "cap": 8,
+   "tracking": 0.5,
+   "baseline": 10,
+   "fill": {
+    "top": "#3A4355",
+    "bottom": "#0C1324"
+   },
+   "stroke": "#FFFFFF",
+   "stroke_w": 1,
+   "align": "left",
+   "pad": 0
+  }
+ ]
+}

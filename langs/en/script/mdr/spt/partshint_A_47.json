@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_47.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "502044a29e51",
+   "t": "<c:00ff00>{{mf}}:<c> Regenerate\nRestores every destroyed\n{{part}} of your whole team.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

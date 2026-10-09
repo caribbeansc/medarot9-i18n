@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free08_02_01_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "The quest I'm working on now is"
+  },
+  {
+   "i": 1004,
+   "src": "48140e2d42f8",
+   "t": "'{{medalia}} Gathering: Blocked Mountain\nPath'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Check the Quest app for details."
+  }
+ ]
+}

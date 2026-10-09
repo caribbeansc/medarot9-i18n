@@ -1,0 +1,235 @@
+{
+ "file": "story/spt/f09_140_230_00_t012.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "7e8b87555197",
+   "t": "What happened..."
+  },
+  {
+   "i": 1045,
+   "src": "61889643855b",
+   "t": "What is the meaning of this?"
+  },
+  {
+   "i": 1055,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1061,
+   "src": "da15f95c635e",
+   "t": "Meaning? It's just like you see, {{robo}}."
+  },
+  {
+   "i": 1064,
+   "src": "e086dcd4290c",
+   "t": "Outsiders go away, {{robo}}! {{robo|cap}} {{robo}}!"
+  },
+  {
+   "i": 1078,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1087,
+   "src": "32d559c62309",
+   "t": "Huh? Who's the outsider here?"
+  },
+  {
+   "i": 1090,
+   "src": "04549397c3be",
+   "t": "Whatever, just hurry up and get out of--"
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1109,
+   "src": "e352594c38d2",
+   "t": "Easy, easy, {{mio}}-kun."
+  },
+  {
+   "i": 1112,
+   "src": "bf6feafa671d",
+   "t": "Um..."
+  },
+  {
+   "i": 1133,
+   "src": "368b9f40d394",
+   "t": "Excuse me."
+  },
+  {
+   "i": 1136,
+   "src": "8e73fb245ff8",
+   "t": "We're looking for a male {{student}}."
+  },
+  {
+   "i": 1144,
+   "src": "0b6670dde28f",
+   "t": "He wears the same uniform as us,"
+  },
+  {
+   "i": 1147,
+   "src": "77aad6f9a808",
+   "t": "a bit shorter than me,"
+  },
+  {
+   "i": 1155,
+   "src": "9bb1c1509348",
+   "t": "blue hair tied back for some mysterious\nreason,"
+  },
+  {
+   "i": 1158,
+   "src": "25dfa13c4911",
+   "t": "and always has a dazed, just-woke-up\nface..."
+  },
+  {
+   "i": 1165,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1171,
+   "src": "dbb38221c5a7",
+   "t": "So, someone like you?"
+  },
+  {
+   "i": 1181,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1187,
+   "src": "c5cf37f8c347",
+   "t": "Yes, someone like me."
+  },
+  {
+   "i": 1195,
+   "src": "c07401cc3f9c",
+   "t": "Does that ring a bell?"
+  },
+  {
+   "i": 1202,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1208,
+   "src": "a753a7c01c23",
+   "t": "Well, if so,"
+  },
+  {
+   "i": 1211,
+   "src": "a96cf03f0832",
+   "t": "you should've said that from the start,\n{{robo}}."
+  },
+  {
+   "i": 1222,
+   "src": "8bdad1e74fb7",
+   "t": "I met that kid here this morning, {{robo}}."
+  },
+  {
+   "i": 1225,
+   "src": "983429803e99",
+   "t": "He was talking with the boss about\nsomething, {{robo}}."
+  },
+  {
+   "i": 1232,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1238,
+   "src": "78776d17af54",
+   "t": "And?"
+  },
+  {
+   "i": 1245,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1251,
+   "src": "a7310a8e2f3c",
+   "t": "That's all, {{robo}}."
+  },
+  {
+   "i": 1259,
+   "src": "6246a0c5beff",
+   "t": "He was gone when I came back, {{robo}}."
+  },
+  {
+   "i": 1262,
+   "src": "149862855a98",
+   "t": "He probably went back carrying a\nbroken {{medabot}}, robo."
+  },
+  {
+   "i": 1280,
+   "src": "0129da00e2a7",
+   "t": "I can't squeeze out more info even\nupside down, {{robo}}."
+  },
+  {
+   "i": 1287,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1293,
+   "src": "510548dfa472",
+   "t": "Looks that way, yeah."
+  },
+  {
+   "i": 1310,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1319,
+   "src": "110db6950ef6",
+   "t": "...What do we do?"
+  },
+  {
+   "i": 1329,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1338,
+   "src": "56fd959fc36c",
+   "t": "Can't be helped."
+  },
+  {
+   "i": 1341,
+   "src": "b9054af466fc",
+   "t": "Let's try somewhere else."
+  },
+  {
+   "i": 1351,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1357,
+   "src": "e36f2d17dab6",
+   "t": "Somewhere else... the port, then."
+  },
+  {
+   "i": 1371,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1380,
+   "src": "de323af59d04",
+   "t": "Let's hurry."
+  }
+ ]
+}

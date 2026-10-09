@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free08_01_01_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "3141dbe6302b",
+   "t": "{{mission|cap}} '{{medalia}} Gathering: {{crater}}'\nstarted!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "f932b36cc8c2",
+   "t": "From the summit of the {{outer_rim}},"
+  },
+  {
+   "i": 1046,
+   "src": "8fcf66c2c92b",
+   "t": "we need to descend into the inner\ncrater."
+  },
+  {
+   "i": 1054,
+   "src": "e22d904db715",
+   "t": "Cross the suspension bridge from the\nMountain"
+  },
+  {
+   "i": 1057,
+   "src": "394cab7ce82f",
+   "t": "and Forest area and aim for the shrine\nsummit."
+  }
+ ]
+}

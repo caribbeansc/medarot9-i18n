@@ -1,0 +1,134 @@
+{
+ "rel": "mdr/tex/win_arl.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    305,
+    25,
+    86,
+    14
+   ],
+   "erase_box": [
+    304,
+    24,
+    88,
+    16
+   ],
+   "sample_box": [
+    304,
+    24,
+    88,
+    16
+   ],
+   "font": "sf-rounded-heavy",
+   "cap": 9,
+   "baseline": 37.5,
+   "fill": "auto-grad",
+   "stroke": null,
+   "align": "left",
+   "crisp": 0.3,
+   "text": "Photo Album"
+  },
+  {
+   "box": [
+    36,
+    7,
+    66,
+    13
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    30,
+    6,
+    48,
+    14
+   ],
+   "font": "sf-cond",
+   "cap": 8,
+   "baseline": 18.5,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#9DAAA3"
+   },
+   "stroke": null,
+   "align": "left",
+   "crisp": 0.3,
+   "text": "Date Taken"
+  },
+  {
+   "box": [
+    304,
+    41,
+    16,
+    14
+   ],
+   "erase_box": [
+    304,
+    40,
+    16,
+    16
+   ],
+   "sample_box": [
+    304,
+    40,
+    16,
+    16
+   ],
+   "font": "din",
+   "cap": 7,
+   "baseline": 52,
+   "fill": "#C8C8C8",
+   "stroke": "#272B28",
+   "stroke_w": 0.8,
+   "crisp": 0.4,
+   "text": "pics"
+  },
+  {
+   "erase_box": [
+    [
+     285,
+     56,
+     203,
+     9
+    ],
+    [
+     287,
+     65,
+     201,
+     15
+    ]
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    290,
+    65,
+    194,
+    14
+   ],
+   "sample_box": [
+    288,
+    64,
+    200,
+    16
+   ],
+   "erase": "none",
+   "font": "sf-rounded",
+   "cap": 9,
+   "baseline": 76.5,
+   "fill": "#F4F4F4",
+   "stroke": "#000000E6",
+   "stroke_w": 1.5,
+   "align": "left",
+   "crisp": 0.4,
+   "text": "Delete photos: mark / unmark"
+  }
+ ]
+}

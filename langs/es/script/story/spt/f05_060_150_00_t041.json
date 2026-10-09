@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f05_060_150_00_t041.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "c5fb82b40a99",
+   "t": "¡Si esperamos así, se hará de noche!"
+  },
+  {
+   "i": 1041,
+   "src": "2ace40dd9cfa",
+   "t": "Y no tendremos tiempo de estudiar."
+  },
+  {
+   "i": 1052,
+   "src": "8ed0c6893188",
+   "t": "A mí me da igual, pero... Ryoma-kun y"
+  },
+  {
+   "i": 1056,
+   "src": "67b69f41f34f",
+   "t": "-kun, ¿ustedes van a estar bien?"
+  },
+  {
+   "i": 1077,
+   "src": "8c2027c2eec5",
+   "t": "Vamos a entrar."
+  }
+ ]
+}

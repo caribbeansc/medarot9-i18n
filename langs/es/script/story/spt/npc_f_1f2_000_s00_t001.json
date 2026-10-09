@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_1f2_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2fcba1bd9f86",
+   "t": "{{suiro}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

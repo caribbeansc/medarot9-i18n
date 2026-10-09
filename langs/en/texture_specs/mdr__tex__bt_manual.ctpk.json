@@ -1,0 +1,39 @@
+{
+ "rel": "mdr/tex/bt_manual.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    46,
+    12,
+    122,
+    24
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    44,
+    5,
+    126,
+    31
+   ],
+   "text": "Make Original",
+   "font": "compact-rounded-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#000000",
+    "blur": 1.2,
+    "opacity": 0.55
+   },
+   "repeat": [
+    [
+     0,
+     40
+    ]
+   ]
+  }
+ ]
+}

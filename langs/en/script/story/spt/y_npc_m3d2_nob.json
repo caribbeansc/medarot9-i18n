@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3d2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2b1fd07bd562",
+   "t": "{{homare}}"
+  },
+  {
+   "i": 1035,
+   "src": "29cf321f603e",
+   "t": "Sorry, I'm kinda busy right now."
+  },
+  {
+   "i": 1038,
+   "src": "34040a5445ef",
+   "t": "Later."
+  }
+ ]
+}

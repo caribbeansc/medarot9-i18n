@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_m_1e_117_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1038,
+   "src": "f8733a5b73c7",
+   "t": "No te preocupes por eso,"
+  },
+  {
+   "i": 1042,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1050,
+   "src": "c73c434ce16f",
+   "t": "Por cierto, ¿qué hace exactamente el\n{{exploration_club}}?"
+  },
+  {
+   "i": 1058,
+   "src": "e4062b76b0e7",
+   "t": "Como se llama Club de Exploración,"
+  },
+  {
+   "i": 1061,
+   "src": "d9ce128ea832",
+   "t": "¡seguro exploran toda clase de lugares!"
+  },
+  {
+   "i": 1069,
+   "src": "369956a8aaff",
+   "t": "Explorar, eh... Ahora que lo pienso,"
+  },
+  {
+   "i": 1072,
+   "src": "93702978db75",
+   "t": "casi nunca he salido de la escuela."
+  },
+  {
+   "i": 1080,
+   "src": "87ad5eaf3b09",
+   "t": "¿Cómo será afuera de la escuela?"
+  },
+  {
+   "i": 1083,
+   "src": "9e536d1f4c1e",
+   "t": "Cuéntame todo cuando vayas."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "file": "mdr/spt/mdr_tuto_focus.spt",
+ "lines": [
+  {
+   "i": 1161,
+   "src": "627df48f8687",
+   "t": "Consulta la información de la {{medal}}"
+  },
+  {
+   "i": 1168,
+   "src": "951e3f03644f",
+   "t": "Configura tus {{medabot|pl}}"
+  },
+  {
+   "i": 1175,
+   "src": "db8ad828bbd8",
+   "t": "Consulta la información de las {{part|pl}}"
+  },
+  {
+   "i": 1182,
+   "src": "d1b4382069b6",
+   "t": "Consulta los correos recibidos"
+  },
+  {
+   "i": 1189,
+   "src": "7a0d8b57af1d",
+   "t": "Consulta el mapa"
+  },
+  {
+   "i": 1196,
+   "src": "e502fd3bad01",
+   "t": "Consulta y usa tus objetos"
+  },
+  {
+   "i": 1203,
+   "src": "6d93a72efde8",
+   "t": "Escucha la música"
+  },
+  {
+   "i": 1210,
+   "src": "e3f6c388c478",
+   "t": "Consulta {{medabot|pl}} y {{medal|pl}} vistos"
+  },
+  {
+   "i": 1217,
+   "src": "e520e86fb186",
+   "t": "Consulta tus datos"
+  },
+  {
+   "i": 1224,
+   "src": "c777f8debe12",
+   "t": "Guarda tu aventura hasta ahora"
+  },
+  {
+   "i": 1231,
+   "src": "a51efcbba00c",
+   "t": "Haz {{robattle|pl}} e intercambia {{part|pl}}"
+  },
+  {
+   "i": 1238,
+   "src": "de9e7e548b60",
+   "t": "Consulta tus notas de detective"
+  }
+ ]
+}

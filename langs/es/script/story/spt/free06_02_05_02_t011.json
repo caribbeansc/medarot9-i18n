@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/free06_02_05_02_t011.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "b0e9b0c613d0",
+   "t": "¡Es aquí!"
+  },
+  {
+   "i": 1042,
+   "src": "db005e5bba3e",
+   "t": "Más allá de esto..."
+  },
+  {
+   "i": 1054,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1063,
+   "src": "761edcf824e9",
+   "t": "Justo en medio del océano."
+  },
+  {
+   "i": 1070,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1079,
+   "src": "b981e645740f",
+   "t": "Habrá que buscar con un\n{{medabot}} {{submarine}}."
+  },
+  {
+   "i": 1091,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1104,
+   "src": "b1c82373c510",
+   "t": "¡Sí, déjamelo a mí!"
+  },
+  {
+   "i": 1107,
+   "src": "cda7efcc8b79",
+   "t": "¡Allá voy!"
+  }
+ ]
+}

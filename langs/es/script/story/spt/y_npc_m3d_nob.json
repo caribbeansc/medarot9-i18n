@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3d_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "6778d5724a95",
+   "t": "{{dusty}}"
+  },
+  {
+   "i": 1035,
+   "src": "a0663fe82b01",
+   "t": "Perdón, ahora estoy un poco ocupado."
+  },
+  {
+   "i": 1038,
+   "src": "34040a5445ef",
+   "t": "Hasta la próxima."
+  }
+ ]
+}

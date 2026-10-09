@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_1f_130_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "ecce990f544f",
+   "t": "Nobody's coming... "
+  },
+  {
+   "i": 1038,
+   "src": "8a94b19d684b",
+   "t": "Are they still looking for {{medalia}}?"
+  },
+  {
+   "i": 1046,
+   "src": "28e7898b6be6",
+   "t": "They said they'd come back once they\nfound one."
+  },
+  {
+   "i": 1049,
+   "src": "be9ecc699e48",
+   "t": "Well, with this many people searching,\nit's bound to run out soon--"
+  },
+  {
+   "i": 1070,
+   "src": "708bb4cb270d",
+   "t": "Ah... oh, you were talking to me?"
+  },
+  {
+   "i": 1073,
+   "src": "05fbe5477878",
+   "t": "I was spacing out and didn't notice."
+  },
+  {
+   "i": 1081,
+   "src": "8138f70e7407",
+   "t": "Being able to zone out in the middle of\na run"
+  },
+  {
+   "i": 1084,
+   "src": "8f2f510fa3c9",
+   "t": "means I've really grown. Wahaha."
+  }
+ ]
+}

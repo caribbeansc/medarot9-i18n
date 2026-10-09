@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description40.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b326d5fe8d42",
+   "t": "{{evade}} ({{response}})"
+  },
+  {
+   "i": 11,
+   "src": "ef26128c068e",
+   "t": "A <c:ffff00>{{response}}<c> that quickly dodges the {{opponent}}'s\n<c:ffff00>attack<c> just before it lands.\nUnlike <c:ffff00>defending<c>, it depends on probability: the\nhigher the <c:ffff00>Evasion Power<c>, the easier it is to\nsucceed. On success, no <c:ffff00>{{damage}}<c> or effects such as\n<c:ffff00>negative statuses<c> are received; on failure, the <c:ffff00>legs<c>\n<c:ffff00>{{part}}<c> takes {{damage}}.\nThe {{damage}} taken is reduced slightly by the normal\n<c:ffff00>Defense Power<c>."
+  }
+ ]
+}

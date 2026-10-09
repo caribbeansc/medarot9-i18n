@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f01_040_117_00_t002.spt",
+ "lines": [
+  {
+   "i": 1132,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1143,
+   "src": "9c466fc0770a",
+   "t": "Let me introduce him."
+  },
+  {
+   "i": 1158,
+   "src": "f3b17d54ae2a",
+   "t": "Starting today, he'll be studying with us."
+  },
+  {
+   "i": 1162,
+   "src": "e2afc9028e0d",
+   "t": "-kun."
+  },
+  {
+   "i": 1171,
+   "src": "82b418e8943d",
+   "t": "-kun"
+  },
+  {
+   "i": 1174,
+   "src": "2d6779d884d7",
+   "t": "He just arrived on the island today."
+  },
+  {
+   "i": 1182,
+   "src": "71ccf96daaaf",
+   "t": "You've all been here a week longer."
+  },
+  {
+   "i": 1185,
+   "src": "c1af5f665b30",
+   "t": "Please teach him lots of things."
+  },
+  {
+   "i": 1201,
+   "src": "c1602197d851",
+   "t": "Okay."
+  },
+  {
+   "i": 1215,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1226,
+   "src": "87c56704f0ac",
+   "t": "I'm Kotobuki,"
+  },
+  {
+   "i": 1229,
+   "src": "9595847c2947",
+   "t": "and I'll be your {{homeroom_teacher}}."
+  },
+  {
+   "i": 1240,
+   "src": "937d4d22e2e0",
+   "t": "Actually, I'm new here this year too."
+  },
+  {
+   "i": 1243,
+   "src": "d358095349de",
+   "t": "So I'm a newcomer, just like you."
+  },
+  {
+   "i": 1258,
+   "src": "031f5f13c9d4",
+   "t": "Let's study together."
+  },
+  {
+   "i": 1261,
+   "src": "ccbe3afe66e2",
+   "t": "Nice to meet you, "
+  },
+  {
+   "i": 1263,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1281,
+   "src": "405c33314b45",
+   "t": "Yes, it's a pleasure!"
+  },
+  {
+   "i": 1289,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1298,
+   "src": "7983e244abd7",
+   "t": "Now, please take your seat. "
+  },
+  {
+   "i": 1301,
+   "src": "7a4a2af661b2",
+   "t": "Yours is at the very back by the\nwindow."
+  }
+ ]
+}

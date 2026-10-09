@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_56.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6784a7eb5942",
+   "t": "<c:00ff00>Leg Trait:<c> {{acrobatics}}\nWith both arm {{part|pl}} intact,\n{{mobility}} stat +10.\nWith one {{arm_part}}\ndestroyed,\n{{mobility}} stat +5."
+  }
+ ]
+}

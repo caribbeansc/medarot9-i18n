@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_7.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "86fa1a60b3d6",
+   "t": "<c:00ff00>{{mf}}:<c> {{non_evasive}}\nStops the whole opposing\nteam from evading or\ndefending.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

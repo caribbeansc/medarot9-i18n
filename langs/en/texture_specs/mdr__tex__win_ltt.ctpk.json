@@ -1,0 +1,33 @@
+{
+ "rel": "mdr/tex/win_ltt.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    2,
+    1,
+    60,
+    12
+   ],
+   "erase_box": [
+    2,
+    1,
+    60,
+    12
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 1,
+   "text": "Rotation",
+   "font": "sf-rounded-heavy",
+   "cap": 8.5,
+   "tracking": 0,
+   "fill": "#9BECF6",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 0.5
+  }
+ ]
+}

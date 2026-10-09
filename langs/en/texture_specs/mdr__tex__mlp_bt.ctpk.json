@@ -1,0 +1,286 @@
+{
+ "rel": "mdr/tex/mlp_bt.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf-rounded-heavy",
+  "cap": 11,
+  "fill": "#FFFFFF",
+  "align": "center",
+  "valign": "middle",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    104,
+    55,
+    30,
+    8
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    14,
+    60,
+    124,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    12,
+    62,
+    128,
+    17
+   ],
+   "text": "Internet Battle",
+   "stroke": "#2A0014D8",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 1,
+    "dy": 1.5,
+    "color": "#000000",
+    "opacity": 0.55
+   }
+  },
+  {
+   "box": [
+    256,
+    55,
+    30,
+    8
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    166,
+    60,
+    124,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    164,
+    62,
+    128,
+    17
+   ],
+   "text": "Internet Battle",
+   "stroke": "#6A1F4590",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 1,
+    "dy": 1.5,
+    "color": "#000000",
+    "opacity": 0.3
+   }
+  },
+  {
+   "box": [
+    391,
+    56,
+    30,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    318,
+    60,
+    124,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    316,
+    62,
+    128,
+    17
+   ],
+   "text": "Local Battle",
+   "stroke": "#06143AD8",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 1,
+    "dy": 1.5,
+    "color": "#000000",
+    "opacity": 0.55
+   }
+  },
+  {
+   "box": [
+    82,
+    144,
+    28,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    14,
+    148,
+    124,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    12,
+    150,
+    128,
+    17
+   ],
+   "text": "Part Transfer",
+   "stroke": "#032A03D8",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 1,
+    "dy": 1.5,
+    "color": "#000000",
+    "opacity": 0.55
+   }
+  },
+  {
+   "box": [
+    234,
+    144,
+    28,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    166,
+    148,
+    124,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    164,
+    150,
+    128,
+    17
+   ],
+   "text": "Part Transfer",
+   "stroke": "#1F5A1C90",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 1,
+    "dy": 1.5,
+    "color": "#000000",
+    "opacity": 0.3
+   }
+  },
+  {
+   "box": [
+    391,
+    143,
+    30,
+    8
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    318,
+    148,
+    124,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    316,
+    150,
+    128,
+    17
+   ],
+   "text": "Local Battle",
+   "stroke": "#2A3C7890",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 1,
+    "dy": 1.5,
+    "color": "#000000",
+    "opacity": 0.3
+   }
+  },
+  {
+   "box": [
+    82,
+    232,
+    28,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    14,
+    236,
+    124,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    12,
+    238,
+    128,
+    17
+   ],
+   "text": "Change Name",
+   "stroke": "#3A1200D8",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 1,
+    "dy": 1.5,
+    "color": "#000000",
+    "opacity": 0.55
+   }
+  },
+  {
+   "box": [
+    234,
+    232,
+    28,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    166,
+    236,
+    124,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    164,
+    238,
+    128,
+    17
+   ],
+   "text": "Change Name",
+   "stroke": "#7A3A1E90",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 1,
+    "dy": 1.5,
+    "color": "#000000",
+    "opacity": 0.3
+   }
+  }
+ ]
+}

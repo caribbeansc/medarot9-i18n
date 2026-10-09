@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/memo4.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "6ae09f9f8f4f",
+   "t": "Visitemos varios clubes."
+  },
+  {
+   "i": 32,
+   "src": "e8b1eef5f4cc",
+   "t": "1 Primera vez en el {{club_building}}\n"
+  },
+  {
+   "i": 42,
+   "src": "71806e101844",
+   "t": "1 Primera vez en el Club Medabot\n"
+  },
+  {
+   "i": 52,
+   "src": "c9ed9c724ef4",
+   "t": "1 Imposible {{join_the_club}}\n"
+  },
+  {
+   "i": 62,
+   "src": "163d24d2369f",
+   "t": "1 Escalera sospechosa\n"
+  }
+ ]
+}

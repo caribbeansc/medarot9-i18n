@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_163.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "50a377c1869d",
+   "t": "<c:00ff00>Action:<c> {{cooling_plant}}\nSets a device that raises\nthe\n{{cooldown}} stat of the\n{{part|pl}} of the whole allied\nteam. Setting it\nrepeatedly raises its\n{{armor}} and the boost."
+  }
+ ]
+}

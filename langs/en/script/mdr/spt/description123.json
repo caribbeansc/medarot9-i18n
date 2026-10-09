@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description123.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c32d25c6d076",
+   "t": "CF Stance"
+  },
+  {
+   "i": 11,
+   "src": "7d2568c78e67",
+   "t": "The standby state of a <c:ffff00>Crossfire<c> <c:ffff00>attack<c> for\nperforming a <c:ffff00>combo attack<c> with allies.\nIn the CF Stance, no other <c:ffff00>act<c> can be performed and\nthe Medabot becomes <c:ffff00>unable to evade<c>. When an {{ally_battle_term}}\nfinishes {{prep}} on their <c:ffff00>trigger<c> attack, the combo\nattack is carried out.\nIt also ends if allies act 3 times or a set time\npasses: a normal attack is made and <c:ffff00>{{cooldown}}<c>\nbegins."
+  }
+ ]
+}

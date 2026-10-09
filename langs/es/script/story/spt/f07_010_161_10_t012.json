@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f07_010_161_10_t012.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "be1f70497f75",
+   "t": "Al presidente lo están regañando de\nnuevo, ¿eh?"
+  },
+  {
+   "i": 1043,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1052,
+   "src": "c6b93ee5906a",
+   "t": "¿Qué hizo esta vez?"
+  },
+  {
+   "i": 1059,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1068,
+   "src": "5dce5fd11f2a",
+   "t": "Seguramente es por el {{culture_festival}}."
+  },
+  {
+   "i": 1081,
+   "src": "d1330c54a11b",
+   "t": "¡Un {{culture_festival}}!"
+  },
+  {
+   "i": 1084,
+   "src": "aa8b1eaa6e96",
+   "t": "¿¡De verdad hay uno!?"
+  },
+  {
+   "i": 1092,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1101,
+   "src": "018b41dd114b",
+   "t": "¿No lo dijeron en la ceremonia?"
+  },
+  {
+   "i": 1104,
+   "src": "7f8c832dda22",
+   "t": "¿No lo escuchaste?"
+  }
+ ]
+}

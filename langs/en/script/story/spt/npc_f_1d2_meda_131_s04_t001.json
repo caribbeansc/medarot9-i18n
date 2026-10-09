@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1d2_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "416cbae31c81",
+   "t": "{{jiras_jidas}}"
+  },
+  {
+   "i": 1038,
+   "src": "570bcb76604c",
+   "t": "The new {{part|pl}} feel really good."
+  },
+  {
+   "i": 1041,
+   "src": "afcb0609711c",
+   "t": "I wonder if {{master}} will use them\nproperly."
+  }
+ ]
+}

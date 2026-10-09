@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "7cdc0f47e00b",
+   "t": "Now, I'd better finish my survey\nrecords..."
+  },
+  {
+   "i": 1038,
+   "src": "a80ecc15eecd",
+   "t": "If I leave it a while, I'll forget."
+  }
+ ]
+}

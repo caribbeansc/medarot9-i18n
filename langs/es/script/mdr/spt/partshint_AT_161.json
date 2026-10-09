@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_161.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2b2346e983ee",
+   "t": "<c:00ff00>Técnica:<c>Planta Reparación\nColoca un dispositivo que\nrepone el {{armor}} de\ntodas las {{part|pl}} del\nequipo al terminar cada\n{{cooldown}}. Si se coloca\nvarias veces, aumentan el\n{{armor}} y la\n{{recover}}."
+  }
+ ]
+}

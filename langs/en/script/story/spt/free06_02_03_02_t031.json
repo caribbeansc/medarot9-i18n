@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_03_02_t031.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "1425d4b49073",
+   "t": "Ah, the {{medalia}}!"
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "a7575006e770",
+   "t": "It's what that guy dropped earlier."
+  },
+  {
+   "i": 1050,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1056,
+   "src": "c6b765e1ffd2",
+   "t": "Good, mission accomplished."
+  },
+  {
+   "i": 1059,
+   "src": "2ab7a05de4dc",
+   "t": "Let's go back."
+  }
+ ]
+}

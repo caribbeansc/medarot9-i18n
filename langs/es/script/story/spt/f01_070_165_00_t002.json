@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f01_070_165_00_t002.spt",
+ "lines": [
+  {
+   "i": 898,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 909,
+   "src": "ddd21fa69c16",
+   "t": "¿Qué causó todo este alboroto?"
+  },
+  {
+   "i": 916,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 922,
+   "src": "23df2346d290",
+   "t": "Este tipo no deja de arruinar nuestro\nentrenamiento."
+  },
+  {
+   "i": 929,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 935,
+   "src": "8181e2a17283",
+   "t": "¿Él?"
+  },
+  {
+   "i": 945,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 951,
+   "src": "2e8273f16f14",
+   "t": "El tipo que entró a mi {{class}} hoy."
+  },
+  {
+   "i": 954,
+   "src": "bec9d5476353",
+   "t": "El famoso--"
+  },
+  {
+   "i": 961,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 967,
+   "src": "cbdb49bf43e4",
+   "t": "Ah, el alumno becado."
+  },
+  {
+   "i": 970,
+   "src": "c872b0f740b3",
+   "t": "He oído de él."
+  },
+  {
+   "i": 978,
+   "src": "491383d8bdb3",
+   "t": "¿Quieres unirte al {{club}}?"
+  }
+ ]
+}

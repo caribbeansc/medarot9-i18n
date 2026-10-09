@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_112.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e9ee448a2559",
+   "t": "<c:00ff00>Técnica:<c>{{light_repair}}\nRecupera un poco el {{damage}}\nde una {{part}} de un\n{{medabot}} {{ally_battle_term}}."
+  }
+ ]
+}

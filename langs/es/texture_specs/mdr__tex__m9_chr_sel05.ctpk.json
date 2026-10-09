@@ -1,0 +1,394 @@
+{
+ "rel": "mdr/tex/m9_chr_sel05.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0
+ },
+ "styles": {
+  "menta": {
+   "font": "sf",
+   "cap": 9,
+   "fill": "#66FFBB",
+   "stroke": "#115577",
+   "stroke_w": 1.0,
+   "crisp": 0.3
+  },
+  "placa": {
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#222222",
+   "stroke": "#FFFFFF",
+   "stroke_w": 1.0,
+   "crisp": 0.4
+  },
+  "gris": {
+   "font": "sf-cond",
+   "cap": 8,
+   "fill": "#CCCCCC",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "crisp": 0.3
+  }
+ },
+ "items": [
+  {
+   "box": [
+    117,
+    1,
+    62,
+    14
+   ],
+   "erase_box": [
+    115,
+    0,
+    66,
+    15
+   ],
+   "text": "Robobatalla",
+   "style": "menta",
+   "baseline": 12
+  },
+  {
+   "box": [
+    33,
+    136,
+    120,
+    41
+   ],
+   "erase_box": [
+    28,
+    137,
+    128,
+    45
+   ],
+   "text": "Listo",
+   "font": "sf-rounded-heavy",
+   "cap": 27,
+   "fill": "#44996699",
+   "stroke": "#00552277",
+   "stroke_w": 1.0,
+   "crisp": 0.0,
+   "baseline": 169
+  },
+  {
+   "box": [
+    183,
+    153,
+    60,
+    16
+   ],
+   "erase_box": [
+    184,
+    152,
+    59,
+    18
+   ],
+   "text": "Condiciones",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": {
+    "top": "#FFDD55",
+    "bottom": "#FFFF77"
+   },
+   "stroke": "#884411",
+   "stroke_w": 1.0,
+   "crisp": 0.0
+  },
+  {
+   "box": [
+    194,
+    171,
+    42,
+    14
+   ],
+   "erase_box": [
+    193,
+    170,
+    42,
+    16
+   ],
+   "text": "Inicio",
+   "style": "menta",
+   "cap": 9
+  },
+  {
+   "box": [
+    100,
+    192,
+    66,
+    15
+   ],
+   "erase_box": [
+    98,
+    192,
+    65,
+    13
+   ],
+   "text": "Listo",
+   "style": "placa",
+   "thr": 75,
+   "grow": 1,
+   "keep": [
+    [
+     159,
+     198,
+     4,
+     7
+    ],
+    [
+     158,
+     204,
+     1,
+     1
+    ]
+   ]
+  },
+  {
+   "box": [
+    100,
+    227,
+    66,
+    15
+   ],
+   "erase_box": [
+    98,
+    227,
+    65,
+    13
+   ],
+   "text": "Listo",
+   "style": "placa",
+   "thr": 75,
+   "grow": 1,
+   "keep": [
+    [
+     159,
+     233,
+     4,
+     7
+    ],
+    [
+     158,
+     239,
+     1,
+     1
+    ]
+   ]
+  },
+  {
+   "box": [
+    86,
+    261,
+    30,
+    18
+   ],
+   "erase_box": [
+    90,
+    260,
+    37,
+    18
+   ],
+   "text": "Volver",
+   "style": "placa",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    140,
+    261,
+    29,
+    18
+   ],
+   "erase_box": [
+    140,
+    260,
+    42,
+    18
+   ],
+   "text": "Aceptar",
+   "style": "placa",
+   "cap": 8
+  },
+  {
+   "box": [
+    75,
+    408,
+    26,
+    12
+   ],
+   "erase_box": [
+    73,
+    407,
+    30,
+    13
+   ],
+   "text": "No",
+   "style": "placa",
+   "cap": 9,
+   "grow": 2,
+   "thr": 25
+  },
+  {
+   "box": [
+    130,
+    408,
+    24,
+    12
+   ],
+   "erase_box": [
+    128,
+    407,
+    28,
+    13
+   ],
+   "text": "Si",
+   "style": "placa",
+   "cap": 9,
+   "grow": 2,
+   "thr": 25
+  },
+  {
+   "box": [
+    170,
+    402,
+    62,
+    17
+   ],
+   "erase_box": [
+    169,
+    401,
+    64,
+    19
+   ],
+   "text": "Lider",
+   "font": "sf-rounded-heavy",
+   "cap": 12,
+   "fill": {
+    "top": "#FFFF99",
+    "bottom": "#FFFFFF"
+   },
+   "stroke": "#CC4400",
+   "stroke_w": 2.0,
+   "crisp": 0.0
+  },
+  {
+   "box": [
+    24,
+    426,
+    52,
+    16
+   ],
+   "erase_box": [
+    22,
+    426,
+    56,
+    15
+   ],
+   "text": "TIENDA",
+   "style": "menta",
+   "cap": 9.5,
+   "tracking": 0.3
+  },
+  {
+   "box": [
+    0,
+    479,
+    25,
+    13
+   ],
+   "erase_box": [
+    0,
+    479,
+    25,
+    13
+   ],
+   "text": "Venta",
+   "style": "gris"
+  },
+  {
+   "box": [
+    26,
+    479,
+    25,
+    13
+   ],
+   "erase_box": [
+    26,
+    479,
+    25,
+    13
+   ],
+   "text": "Total",
+   "style": "gris"
+  },
+  {
+   "box": [
+    52,
+    479,
+    25,
+    13
+   ],
+   "erase_box": [
+    52,
+    479,
+    25,
+    13
+   ],
+   "text": "Precio",
+   "style": "gris"
+  },
+  {
+   "box": [
+    47,
+    292,
+    170,
+    13
+   ],
+   "erase_box": [
+    38,
+    291,
+    182,
+    16
+   ],
+   "text": "Elige al Medabot lider",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#FFFFFF",
+   "stroke": "#777777",
+   "stroke_w": 0.8,
+   "crisp": 0.3
+  },
+  {
+   "box": [
+    64,
+    444,
+    7,
+    7
+   ],
+   "erase_box": [
+    64,
+    444,
+    7,
+    7
+   ],
+   "erase": "solid:#000000",
+   "text": "Y",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#AAAAAA",
+   "stroke": null,
+   "crisp": 0.0
+  }
+ ],
+ "protect": [
+  [
+   80,
+   256,
+   2,
+   36
+  ]
+ ]
+}

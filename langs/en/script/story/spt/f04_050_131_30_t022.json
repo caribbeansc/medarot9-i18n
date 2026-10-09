@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f04_050_131_30_t022.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "ffd6a4ae1009",
+   "t": "The team behind Round 1's big upset."
+  },
+  {
+   "i": 1038,
+   "src": "e505a08bcb66",
+   "t": "Was that victory a mere fluke, or...?!"
+  },
+  {
+   "i": 1046,
+   "src": "086c0e4838f2",
+   "t": "This match will test their true worth!"
+  },
+  {
+   "i": 1049,
+   "src": "e2c352bee0da",
+   "t": "Team {{exploration_club}}!"
+  }
+ ]
+}

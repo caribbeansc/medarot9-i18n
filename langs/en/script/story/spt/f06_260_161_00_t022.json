@@ -1,0 +1,285 @@
+{
+ "file": "story/spt/f06_260_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1037,
+   "src": "82f64cbd02fc",
+   "t": "I've memorized the whole design\nperfectly."
+  },
+  {
+   "i": 1040,
+   "src": "4c82174a113e",
+   "t": "My PC can stand in for the server."
+  },
+  {
+   "i": 1048,
+   "src": "1af108a691a2",
+   "t": "I can recover it in a day~."
+  },
+  {
+   "i": 1059,
+   "src": "de5659abe7bf",
+   "t": "A-a day..."
+  },
+  {
+   "i": 1062,
+   "src": "7c6883282cca",
+   "t": "As expected of a genius girl..."
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "72ee1a063274",
+   "t": "Let's not do that, {{main}}-chan."
+  },
+  {
+   "i": 1080,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1089,
+   "src": "403f3e2e6873",
+   "t": "Why not?"
+  },
+  {
+   "i": 1096,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1105,
+   "src": "165cdb7471b1",
+   "t": "If you get caught, you'll really\nget expelled this time."
+  },
+  {
+   "i": 1112,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1121,
+   "src": "5e7997ff14b5",
+   "t": "Mmm."
+  },
+  {
+   "i": 1129,
+   "src": "3faaf0da07c8",
+   "t": "Okay."
+  },
+  {
+   "i": 1132,
+   "src": "21c624b54503",
+   "t": "I'll stop."
+  },
+  {
+   "i": 1139,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1145,
+   "src": "78042ebee20c",
+   "t": "You give up that easily?"
+  },
+  {
+   "i": 1152,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1158,
+   "src": "9e90cd86bab6",
+   "t": "Yes."
+  },
+  {
+   "i": 1169,
+   "src": "b18397e89cc5",
+   "t": "Because it's already finished."
+  },
+  {
+   "i": 1172,
+   "src": "8e036014f9f1",
+   "t": "And it was fun!"
+  },
+  {
+   "i": 1179,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1188,
+   "src": "f16c06792e6a",
+   "t": "I agree, {{main}}-chan. The thrill is in"
+  },
+  {
+   "i": 1191,
+   "src": "d5752b8c5d60",
+   "t": "finishing it. Everything after is a bonus."
+  },
+  {
+   "i": 1201,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1210,
+   "src": "c68aa3e88303",
+   "t": "Right."
+  },
+  {
+   "i": 1217,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1226,
+   "src": "b6d41a978c06",
+   "t": "If you say so. It's a shame I can't go"
+  },
+  {
+   "i": 1229,
+   "src": "804bd67bd97e",
+   "t": "searching for {{medalia|pl}} anymore,\nthough..."
+  },
+  {
+   "i": 1236,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1242,
+   "src": "8f99723b76b8",
+   "t": "You do love fieldwork, don't you,\n{{ryoma}}-kun."
+  },
+  {
+   "i": 1250,
+   "src": "1540288b9cef",
+   "t": "But this is a problem."
+  },
+  {
+   "i": 1260,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1266,
+   "src": "f4021704d3a6",
+   "t": "What is?"
+  },
+  {
+   "i": 1278,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1284,
+   "src": "295e23f75764",
+   "t": "The hard drive the {{principal|cap}}"
+  },
+  {
+   "i": 1287,
+   "src": "352a53eb068d",
+   "t": "yanked out and took away."
+  },
+  {
+   "i": 1295,
+   "src": "e6313babbfd3",
+   "t": "Besides the detection {{app}}, it held"
+  },
+  {
+   "i": 1298,
+   "src": "5b2fa268903c",
+   "t": "lots of other important data."
+  },
+  {
+   "i": 1308,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1317,
+   "src": "71327faf407d",
+   "t": "Like what?"
+  },
+  {
+   "i": 1324,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1333,
+   "src": "adf7e497e9ff",
+   "t": "Like the parts box transfer management\nsystem."
+  },
+  {
+   "i": 1340,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1346,
+   "src": "6ab6e7a9cd63",
+   "t": "What!?"
+  },
+  {
+   "i": 1353,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1362,
+   "src": "e52d428dea1c",
+   "t": "So if we don't get it back, we can't"
+  },
+  {
+   "i": 1365,
+   "src": "40241678a12e",
+   "t": "set it up from our phones?"
+  },
+  {
+   "i": 1376,
+   "src": "6acdfa04ddf1",
+   "t": "That's a problem!"
+  },
+  {
+   "i": 1381,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1387,
+   "src": "a190d4b5602c",
+   "t": "It sure is."
+  },
+  {
+   "i": 1390,
+   "src": "f9c449ecbdba",
+   "t": "What should we do?"
+  },
+  {
+   "i": 1398,
+   "src": "2fed83fc65ee",
+   "t": "Let's ask for advice!"
+  },
+  {
+   "i": 1403,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1412,
+   "src": "441d8ee45afa",
+   "t": "From who?"
+  }
+ ]
+}

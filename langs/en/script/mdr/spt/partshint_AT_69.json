@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_69.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c20538daff0f",
+   "t": "<c:00ff00>Action:<c> {{anti}}-{{cg}}\nA melee attack that adds\ndouble the {{opponent}}'s\nCharge % to its {{power}}.\nHas piercing."
+  }
+ ]
+}

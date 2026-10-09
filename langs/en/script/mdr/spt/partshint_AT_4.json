@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e55b8feb3073",
+   "t": "<c:00ff00>Action:<c> Missile\nA ranged attack with a\nblast.\nDamages {{all_parts}}.\nAlways hits."
+  }
+ ]
+}

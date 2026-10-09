@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_01_02_04_t023.spt",
+ "lines": [
+  {
+   "i": 1043,
+   "src": "6e829c4617d3",
+   "t": "Terminé."
+  },
+  {
+   "i": 1050,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1056,
+   "src": "8daa4187c3a4",
+   "t": "Gracias."
+  },
+  {
+   "i": 1059,
+   "src": "c1f12c9adf4e",
+   "t": "Bueno entonces--"
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "b38c819f72fc",
+   "t": "Espera."
+  }
+ ]
+}

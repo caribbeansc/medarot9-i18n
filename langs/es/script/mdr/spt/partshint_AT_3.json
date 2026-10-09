@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_3.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ee0514841215",
+   "t": "<c:00ff00>Técnica:<c>{{mega_gatling}}\n{{shooting|cap}} veloz en ráfaga.\n{{damage|cap}} variable; tiende a ser\nalto con {{success}} 40 o más.\nCon {{effect}} de\n{{pierce}}.\nCon {{legs}} sin destruir,\nel {{success}} sube x1.5.\nSin {{evade}} al enfriar."
+  }
+ ]
+}

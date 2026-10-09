@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d_meda_116_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dc985d3d3adc",
+   "t": "{{redmatador}}"
+  },
+  {
+   "i": 1035,
+   "src": "4459b0a9ab2e",
+   "t": "Oye, hoy hay práctica, ¿verdad?"
+  },
+  {
+   "i": 1038,
+   "src": "ec215f8cf323",
+   "t": "¡Viene el festival y no sabes la partitura!"
+  },
+  {
+   "i": 1046,
+   "src": "d5b58de15d8f",
+   "t": "Y por cierto, aquí no se hojea."
+  },
+  {
+   "i": 1049,
+   "src": "3be405625752",
+   "t": "Vamos antes del regaño."
+  }
+ ]
+}

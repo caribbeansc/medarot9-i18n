@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_51.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "261d72427880",
+   "t": "<c:00ff00>Action:<c> {{sacrifice}}\nA melee attack that adds\n1/2 of the {{part}}'s {{armor}}\nvalue to its {{power}}.\nAfter attacking, it cannot\nbear the {{recoil}} and\nexplodes."
+  }
+ ]
+}

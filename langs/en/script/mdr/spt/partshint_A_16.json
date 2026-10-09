@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_16.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5d9ac1aad3ba",
+   "t": "<c:00ff00>{{mf}}:<c> Rock Crusher\nDestroys the {{part}} with the\nhighest {{armor}} on 1\n{{enemy}}.\n(excluding the {{head_part}})\n<c:00ffff>{{required_parts}}<c>\nOne or more shooting\n{{part|pl}}"
+  }
+ ]
+}

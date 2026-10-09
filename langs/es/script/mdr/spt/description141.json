@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description141.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "df6d8a69b310",
+   "t": "Supervivencia"
+  },
+  {
+   "i": 11,
+   "src": "35980a402c80",
+   "t": "<c:ffff00>{{robattle|cap}}<c> con 4 o más <c:ffff00>{{medabot|pl}}<c> por equipo.\n\nEn el <c:ffff00>{{field}}<c> luchan hasta 3 por equipo a la vez;\ncuando uno queda <c:ffff00>{{knocked_out}}<c>, entra en su\nlugar un {{medabot}} de {{reserve_battle_term}}.\n\nNo hay <c:ffff00>{{leader}}<c>: la {{robattle}} sigue hasta que un\nequipo entero queda {{knocked_out}}. Un {{medabot}}\n{{knocked_out}} no se puede <c:ffff00>{{revive}}<c>."
+  }
+ ]
+}

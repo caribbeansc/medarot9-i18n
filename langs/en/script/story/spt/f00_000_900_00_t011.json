@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f00_000_900_00_t011.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "89d34360537f",
+   "t": "Man~! It's already been a week\nsince school started..."
+  },
+  {
+   "i": 1047,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1053,
+   "src": "a1188fa78cf6",
+   "t": "Time flies, huh!"
+  },
+  {
+   "i": 1064,
+   "src": "5b4458860aee",
+   "t": "...Oh, my house is this way."
+  },
+  {
+   "i": 1067,
+   "src": "a608b9280155",
+   "t": "See you later."
+  },
+  {
+   "i": 1072,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1078,
+   "src": "6d194da854d6",
+   "t": "Wait up!"
+  },
+  {
+   "i": 1081,
+   "src": "6f6107a90532",
+   "t": "Um..."
+  },
+  {
+   "i": 1092,
+   "src": "37e1e26ddc77",
+   "t": "It's not Kenta-kun, and it's not\nTetsuya-kun..."
+  },
+  {
+   "i": 1095,
+   "src": "6f6107a90532",
+   "t": "Um..."
+  },
+  {
+   "i": 1110,
+   "src": "9dba9aff201c",
+   "t": "Come on, remember it already."
+  },
+  {
+   "i": 1118,
+   "src": "dbbc07d6f070",
+   "t": "My name is--"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description25.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d5f44ec483f5",
+   "t": "Ataque"
+  },
+  {
+   "i": 11,
+   "src": "51213ac3595e",
+   "t": "{{effect|cap}} que causa <c:ffff00>{{damage}}<c> al <c:ffff00>{{armor}}<c> del <c:ffff00>{{target}}<c>. Es\nde <c:ffff00>{{fighting}}<c> o <c:ffff00>{{shooting}}<c>; influyen el {{stats}} de\n<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> de las <c:ffff00>{{legs}}<c> y el <c:ffff00>nivel de<c>\n<c:ffff00>habilidad<c> de <c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> de la <c:ffff00>{{medal}}<c>.\nMás <c:ffff00>{{attack_power}}<c> causa más {{damage}}, y más <c:ffff00>poder<c>\n<c:ffff00>de {{defend}}<c> de quien <c:ffff00>responde<c> lo reduce. Según el\n<c:ffff00>{{success_power}}<c> hay <c:ffff00>{{attack_failure}}<c>, <c:ffff00>{{graze}}<c> o <c:ffff00>{{critical}}<c>.\nAlgunas <c:ffff00>técnicas<c> aplican al {{opponent}} <c:ffff00>síntomas negativos<c>\nu otros efectos adicionales."
+  }
+ ]
+}

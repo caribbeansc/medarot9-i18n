@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a90efed24d4d",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>Dense Formation\n{{damage|cap}} taken from foes reduced to 90%\nLeg {{mobility}} -10, non-attack {{prep}} +10"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo8.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "3a85510786b1",
+   "t": "Hablemos con {{stella}}."
+  },
+  {
+   "i": 32,
+   "src": "d95faba1fbfe",
+   "t": "2 Fin de la práctica de {{stella}}\n"
+  },
+  {
+   "i": 42,
+   "src": "1f0dfcc9f5f4",
+   "t": "2 Primer contacto con {{stella}}\n"
+  },
+  {
+   "i": 52,
+   "src": "0687cc094d79",
+   "t": "2 Segundo contacto con {{stella}}\n"
+  }
+ ]
+}

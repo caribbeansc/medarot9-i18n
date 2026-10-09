@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_155.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9d56c7b7061d",
+   "t": "Chipmunk-{{type}} {{medabot}}\nwith a big tail and cheek\npouches.\n \n{{effect_clear}} in both\nhands wipes out the\ntarget's positive effects;\n{{destroy_game_term}} cracks any shell."
+  }
+ ]
+}

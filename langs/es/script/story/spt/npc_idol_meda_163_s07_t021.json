@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_idol_meda_163_s07_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1038,
+   "src": "82b65aa718bf",
+   "t": "Así que llegó al fin de su vida útil."
+  },
+  {
+   "i": 1041,
+   "src": "d538b46fad5f",
+   "t": "Lo entiendo, pero aun así es triste."
+  }
+ ]
+}

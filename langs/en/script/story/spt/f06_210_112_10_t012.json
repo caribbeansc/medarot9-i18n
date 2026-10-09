@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_210_112_10_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1035,
+   "src": "dfd4cfe770e4",
+   "t": "But that's a separate matter."
+  },
+  {
+   "i": 1038,
+   "src": "5a729aa3da50",
+   "t": "Students sneaking into the {{principal|cap}}'s\noffice is unheard of."
+  },
+  {
+   "i": 1046,
+   "src": "dbfdf144e7e5",
+   "t": "I can't just look the other way, but, well,"
+  },
+  {
+   "i": 1049,
+   "src": "edf569d01129",
+   "t": "what to do..."
+  }
+ ]
+}

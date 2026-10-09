@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_35.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "21ffeaadafda",
+   "t": "<c:00ff00>Leg Trait:<c> {{generator}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"{{heater}}\"."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "rel": "battle/mdl/bg01.bcmdl",
+ "tex": "m9bg11_name",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    88,
+    49,
+    14,
+    45
+   ],
+   "erase_box": [
+    89,
+    50,
+    12,
+    43
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "text": "E\nN\nT\nR\nY",
+   "font": "black",
+   "scale_x": 1.4,
+   "cap": 5,
+   "leading": 0.85,
+   "pad": 0,
+   "fill": "#C0A882",
+   "stroke": null,
+   "crisp": 0.6
+  }
+ ]
+}

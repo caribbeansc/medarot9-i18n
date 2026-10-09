@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/free06_01_01_02_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "121e09eaa3fe",
+   "t": "Oh."
+  },
+  {
+   "i": 1046,
+   "src": "16138a45498b",
+   "t": "Whoa, a giant dragonfly!"
+  },
+  {
+   "i": 1049,
+   "src": "f1a48a36c96a",
+   "t": "...No wait, it's a {{seitei_king}}."
+  },
+  {
+   "i": 1054,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1060,
+   "src": "b8b4d1d94eaa",
+   "t": "What should we do?"
+  },
+  {
+   "i": 1073,
+   "src": "6ad8f3910381",
+   "t": "Obvious, isn't it."
+  },
+  {
+   "i": 1086,
+   "src": "c1caff763670",
+   "t": "We fight, of course!"
+  }
+ ]
+}

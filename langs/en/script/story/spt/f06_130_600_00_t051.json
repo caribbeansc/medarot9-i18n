@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f06_130_600_00_t051.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1045,
+   "src": "742043e65624",
+   "t": "Tell me your name."
+  },
+  {
+   "i": 1063,
+   "src": "f6bd2d58e7a2",
+   "t": "M-me?"
+  },
+  {
+   "i": 1072,
+   "src": "58de88352315",
+   "t": "..."
+  },
+  {
+   "i": 1077,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1083,
+   "src": "5aaf626941c4",
+   "t": "I've been watching for a while now,\nand I'm amazed."
+  },
+  {
+   "i": 1098,
+   "src": "9a23393985a6",
+   "t": "You've grown."
+  },
+  {
+   "i": 1106,
+   "src": "4edf4a22891d",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1111,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1117,
+   "src": "d952bd868868",
+   "t": "The spacey transfer student who peeked"
+  },
+  {
+   "i": 1120,
+   "src": "680e5094d595",
+   "t": "at our club so worried? Hard to believe."
+  },
+  {
+   "i": 1135,
+   "src": "d9308f6edb0f",
+   "t": "You must have\nworked very hard."
+  },
+  {
+   "i": 1143,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1148,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1154,
+   "src": "a6e3164128a3",
+   "t": "Not aware of it? I suppose that's"
+  },
+  {
+   "i": 1157,
+   "src": "d3ededb7124b",
+   "t": "natural. That's how {{robattle|pl}} are."
+  },
+  {
+   "i": 1168,
+   "src": "f2caa470d234",
+   "t": "I'm heading home."
+  }
+ ]
+}

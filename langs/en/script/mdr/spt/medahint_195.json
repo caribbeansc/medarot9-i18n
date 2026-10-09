@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_195.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5fc6aa1a6df1",
+   "t": "Weapon-{{type}} {{medabot}},\n{{rubberobo_gang}}\nprototype No. 2.\n \nSwiped military tech.\nBigger legs and added\nmanipulators now\ncounter Traps."
+  }
+ ]
+}

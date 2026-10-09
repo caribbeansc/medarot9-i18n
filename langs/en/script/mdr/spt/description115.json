@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description115.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "520cf27f894e",
+   "t": "{{part|cap}} Trait"
+  },
+  {
+   "i": 11,
+   "src": "d5f6de9d07a7",
+   "t": "An {{effect}}, separate from an <c:ffff00>action<c>'s {{effect}}, that\nsome <c:ffff00>{{part|pl}}<c> have.\n\nThere are 2 types:\n  <c:ffff00>Chain<c>\n  <c:ffff00>{{heavy}}<c>"
+  }
+ ]
+}

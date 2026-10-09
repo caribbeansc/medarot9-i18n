@@ -1,0 +1,185 @@
+{
+ "file": "battle/spt/battle_tuto.spt",
+ "lines": [
+  {
+   "i": 1158,
+   "src": "96f724b21d69",
+   "t": "¡La {{melt}} inflige 10 de {{damage}}\nal {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1189,
+   "src": "d6990d92fd8d",
+   "t": "¡La Planta de Reparación recupera\nel {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1220,
+   "src": "555a7be6b3a2",
+   "t": " termina su {{guard_stance}}!"
+  },
+  {
+   "i": 1352,
+   "src": "19d0a839eecd",
+   "t": "\n¡Recupera {{armor}} en todas las {{part|pl}}!"
+  },
+  {
+   "i": 1477,
+   "src": "96f724b21d69",
+   "t": "¡La {{melt}} inflige 10 de {{damage}}\nal {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1640,
+   "src": "19d0a839eecd",
+   "t": "\n¡Recupera {{armor}} en todas las {{part|pl}}!"
+  },
+  {
+   "i": 1667,
+   "src": "555a7be6b3a2",
+   "t": " termina su {{guard_stance}}!"
+  },
+  {
+   "i": 2601,
+   "src": "7a88cf80e09f",
+   "t": "Esperando la entrada del {{opponent}}"
+  },
+  {
+   "i": 2741,
+   "src": "e01527c47954",
+   "t": "¡{{leg_trait|cap}} {{brilliance}} activado!\n"
+  },
+  {
+   "i": 2743,
+   "src": "d7dba5ede7ac",
+   "t": " recupera todas sus {{part|pl}}!"
+  },
+  {
+   "i": 2751,
+   "src": "a02e13931cab",
+   "t": "¡{{leg_trait|cap}} Purga activado!\n"
+  },
+  {
+   "i": 2753,
+   "src": "da74a98451d3",
+   "t": " se recupera de sus síntomas!"
+  },
+  {
+   "i": 2761,
+   "src": "8ab9ccd86d02",
+   "t": "¡{{leg_trait|cap}} {{illusion}} activado!\n"
+  },
+  {
+   "i": 2763,
+   "src": "5d25808ca153",
+   "t": " entra en {{condition}} {{stealth}}!"
+  },
+  {
+   "i": 2771,
+   "src": "fdf8240f8358",
+   "t": "¡{{leg_trait|cap}} {{clairvoyance}} activado!\n"
+  },
+  {
+   "i": 2773,
+   "src": "f1bc96fefb46",
+   "t": " entra en {{condition}} {{radar_sight}}!"
+  },
+  {
+   "i": 2781,
+   "src": "aedaa0adbf22",
+   "t": "¡{{leg_trait|cap}} {{generator}} activado!\n"
+  },
+  {
+   "i": 2783,
+   "src": "9a610afdfafd",
+   "t": " entra en {{condition}} {{heater}}!"
+  },
+  {
+   "i": 2791,
+   "src": "365f8c9e0d0d",
+   "t": "¡{{leg_trait|cap}} {{radiator}} activado!\n"
+  },
+  {
+   "i": 2793,
+   "src": "c37b0a6f693b",
+   "t": " entra en {{condition}} {{cooler}}!"
+  },
+  {
+   "i": 2801,
+   "src": "e161699437ae",
+   "t": "¡{{leg_trait|cap}} {{kekkai}} activado!\n"
+  },
+  {
+   "i": 2803,
+   "src": "ea64137a6b53",
+   "t": " entra en {{guard_boost}}!"
+  },
+  {
+   "i": 2811,
+   "src": "3fd2052d3a2c",
+   "t": "¡{{leg_trait|cap}} {{accel}} activado!\n"
+  },
+  {
+   "i": 2813,
+   "src": "b63fc71ca7ad",
+   "t": " entra en Refuerzo de Movilidad!"
+  },
+  {
+   "i": 2821,
+   "src": "82381f51c50c",
+   "t": "¡{{leg_trait|cap}} {{assail}} activado!\n"
+  },
+  {
+   "i": 2823,
+   "src": "e7165ec38013",
+   "t": " entra en {{shoot_boost}}!"
+  },
+  {
+   "i": 2831,
+   "src": "81499e7525c2",
+   "t": "¡{{leg_trait|cap}} {{rumbling}} activado!\n"
+  },
+  {
+   "i": 2833,
+   "src": "2e41f9cdc351",
+   "t": " entra en {{fight_boost}}!"
+  },
+  {
+   "i": 2841,
+   "src": "24572cc2ac9d",
+   "t": "¡{{leg_trait|cap}} {{burai}} activado!\n"
+  },
+  {
+   "i": 2843,
+   "src": "19bbdd1c2e05",
+   "t": " entra en {{condition}} {{desperate}}!"
+  },
+  {
+   "i": 2851,
+   "src": "7c0e802bbb77",
+   "t": "¡{{leg_trait|cap}} {{mirage}} activado!\n"
+  },
+  {
+   "i": 2853,
+   "src": "2c7e913917f2",
+   "t": " entra en {{condition}} {{conceal}}!"
+  },
+  {
+   "i": 2861,
+   "src": "c8b232b42537",
+   "t": "¡{{leg_trait|cap}} {{nest}} activado!\n¡Trampas y plantas ganan resistencia!"
+  },
+  {
+   "i": 2869,
+   "src": "0a6d410c35cc",
+   "t": "¡{{leg_trait|cap}} {{shape_memory}} activado!\n"
+  },
+  {
+   "i": 2871,
+   "src": "2feeea2cb6b8",
+   "t": " reconstruye su {{armor}}!"
+  },
+  {
+   "i": 3057,
+   "src": "7a88cf80e09f",
+   "t": "Esperando la entrada del {{opponent}}"
+  }
+ ]
+}

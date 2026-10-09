@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_2c_164_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1038,
+   "src": "252e771d5bc0",
+   "t": "Did you know {{medalia}} came from\nspace?"
+  },
+  {
+   "i": 1041,
+   "src": "177fdd48bd71",
+   "t": "Long ago a meteorite fell on this\nisland--"
+  },
+  {
+   "i": 1049,
+   "src": "14185ba2767f",
+   "t": "it shattered and piled up into {{medalia}}."
+  },
+  {
+   "i": 1052,
+   "src": "08910be1c7c0",
+   "t": "That's why it only exists on this island."
+  },
+  {
+   "i": 1060,
+   "src": "949b436e19f5",
+   "t": "There's a big crater in the island's\ncenter."
+  },
+  {
+   "i": 1063,
+   "src": "a24a97a184a8",
+   "t": "That's supposedly where the meteorite\nlanded!"
+  }
+ ]
+}

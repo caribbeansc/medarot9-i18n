@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3a_333_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1035,
+   "src": "5ca66fb3e84d",
+   "t": "I can't say it..."
+  },
+  {
+   "i": 1038,
+   "src": "4ab8c430572d",
+   "t": "I can't say I want to hunt {{medalia}} too..."
+  }
+ ]
+}

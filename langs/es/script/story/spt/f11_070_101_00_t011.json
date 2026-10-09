@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f11_070_101_00_t011.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1051,
+   "src": "563e81da72e0",
+   "t": "¡Bien!"
+  },
+  {
+   "i": 1054,
+   "src": "e3c3742ccf66",
+   "t": "¡Lo derribé!"
+  },
+  {
+   "i": 1068,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1074,
+   "src": "f8f35263d80d",
+   "t": "¡Todavía no!"
+  },
+  {
+   "i": 1077,
+   "src": "49360c5edbe5",
+   "t": "¡No bajes la guardia!"
+  },
+  {
+   "i": 1091,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1097,
+   "src": "628b9d370bc1",
+   "t": "¡Ya lo sé!"
+  }
+ ]
+}

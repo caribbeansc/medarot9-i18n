@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/item_lose.spt",
+ "lines": [
+  {
+   "i": 923,
+   "src": "71a813f11041",
+   "t": " - objeto entregado."
+  },
+  {
+   "i": 936,
+   "src": "988e32d18d45",
+   "t": " x "
+  },
+  {
+   "i": 938,
+   "src": "7344f3d75c4f",
+   "t": " - objetos entregados."
+  },
+  {
+   "i": 945,
+   "src": "988e32d18d45",
+   "t": " x "
+  },
+  {
+   "i": 947,
+   "src": "7001d5e4e02b",
+   "t": " - objetos entregados."
+  },
+  {
+   "i": 957,
+   "src": "71a813f11041",
+   "t": " - objeto entregado."
+  }
+ ]
+}

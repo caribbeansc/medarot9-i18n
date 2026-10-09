@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/bt0261.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "b756b29efe5d",
+   "t": "{{medabot}} {{stray|cap}}"
+  },
+  {
+   "i": 864,
+   "src": "4fd2b56a7420",
+   "t": "¡¡{{marine_robattle|cap}}!!"
+  },
+  {
+   "i": 867,
+   "src": "4fd2b56a7420",
+   "t": "¡¡{{marine_robattle|cap}}!!"
+  },
+  {
+   "i": 870,
+   "src": "e2bdfd768887",
+   "t": "¡Gana solo con {{legs}} submarinas!"
+  },
+  {
+   "i": 884,
+   "src": "78ff9bac0e1c",
+   "t": "...Agh..."
+  }
+ ]
+}

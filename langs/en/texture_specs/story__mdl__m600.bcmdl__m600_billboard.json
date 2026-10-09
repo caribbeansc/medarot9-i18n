@@ -1,0 +1,35 @@
+{
+ "rel": "story/mdl/m600.bcmdl",
+ "tex": "m600_billboard",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    30,
+    17,
+    70,
+    6
+   ],
+   "erase_box": [
+    32,
+    16,
+    66,
+    7
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 60,
+   "grow": 1,
+   "text": "PRECAUTIONS",
+   "font": "sf",
+   "wght": 700,
+   "cap": 6,
+   "scale_x": 1.0,
+   "pad": 0,
+   "fill": "#DDE8FF",
+   "stroke": null,
+   "baseline": 23
+  }
+ ]
+}

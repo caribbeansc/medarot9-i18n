@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_1e_meda_164_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1038,
+   "src": "fca5d8eee249",
+   "t": "{{medabot|pl}} are"
+  },
+  {
+   "i": 1041,
+   "src": "d6aabaeb4b90",
+   "t": "not just about {{robattle|pl}}, right?"
+  },
+  {
+   "i": 1049,
+   "src": "7ee5a1a35339",
+   "t": "It's okay to be weak at {{robattle|pl}}, right?"
+  }
+ ]
+}

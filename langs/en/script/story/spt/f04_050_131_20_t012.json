@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f04_050_131_20_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "53891052b612",
+   "t": "The tournament follows official {{robattle}}\nrules"
+  },
+  {
+   "i": 1038,
+   "src": "afde16924793",
+   "t": "in a best-of-three knockout format."
+  },
+  {
+   "i": 1046,
+   "src": "c0552f895472",
+   "t": "First up, Round 1, the opening match!"
+  }
+ ]
+}

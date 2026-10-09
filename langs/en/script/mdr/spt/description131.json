@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description131.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "cf4d44972c7b",
+   "t": "{{vehicle|cap}} (legs)"
+  },
+  {
+   "i": 11,
+   "src": "d8ce25c6011d",
+   "t": "A <c:ffff00>Leg Type<c> that moves on wheels. Its <c:ffff00>{{stats}}<c> tend\ntoward high <c:ffff00>{{armor}}<c> and <c:ffff00>{{mobility}}<c>. It runs well on\nprepared ground, but few terrains suit it.\n\n<c:ffff00>{{terrain|cap}} {{affinity|cap}}<c> ({{mobility}}, <c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains}}<c> +6, <c:ffff00>{{forest}}<c> -4, <c:ffff00>{{rocky_ground}}<c> -4, <c:ffff00>{{sand}}<c> -4,\n  <c:ffff00>{{tundra}}<c> -4, <c:ffff00>{{hall}}<c> -4, <c:ffff00>{{waterside}}<c> -4, <c:ffff00>{{cyber}}<c> +4.\n  <c:ffff00>{{underwater}}<c> and <c:ffff00>{{sky}}<c>: {{robattle|pl}} not possible."
+  }
+ ]
+}

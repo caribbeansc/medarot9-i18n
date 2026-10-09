@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3e2_140_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ee22ffc84c9",
+   "t": "{{rokujugo}}"
+  },
+  {
+   "i": 1035,
+   "src": "cfe815e1462d",
+   "t": "Mmm, esto se está poniendo feo..."
+  },
+  {
+   "i": 1038,
+   "src": "a6b67f9f2251",
+   "t": "¡Bien, Chuugen! ¡¡Plan B, plan B!!"
+  }
+ ]
+}

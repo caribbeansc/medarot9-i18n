@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f03_030_230_10_t002.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "7b228d8ba5c6",
+   "t": "No location data... huh."
+  },
+  {
+   "i": 1057,
+   "src": "3334c926dce5",
+   "t": "Still, what a huge cave."
+  },
+  {
+   "i": 1060,
+   "src": "7c8f783339c9",
+   "t": "This must have been a mine... right?"
+  },
+  {
+   "i": 1065,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1071,
+   "src": "33d4f62b7710",
+   "t": "Probably."
+  },
+  {
+   "i": 1079,
+   "src": "bdc4e3ecd081",
+   "t": "Judging by the scale and facilities,"
+  },
+  {
+   "i": 1082,
+   "src": "d3198ad59187",
+   "t": "it seems to have been quite a big mine..."
+  }
+ ]
+}

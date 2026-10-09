@@ -1,0 +1,55 @@
+{
+ "file": "battle/spt/auto_battle10.spt",
+ "lines": [
+  {
+   "i": 881,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 884,
+   "src": "3c7edee2c1de",
+   "t": "{{asad_arak}}"
+  },
+  {
+   "i": 1089,
+   "src": "bb958c22bcaa",
+   "t": "If we can break through that black aura,\nwe have a chance to win!"
+  },
+  {
+   "i": 1170,
+   "src": "7ae74f12e48b",
+   "t": "I told you it's useless!"
+  },
+  {
+   "i": 1294,
+   "src": "a96b7d37373c",
+   "t": "Is that so?"
+  },
+  {
+   "i": 1361,
+   "src": "79d447620f0a",
+   "t": "You actually wounded me...?!"
+  },
+  {
+   "i": 1489,
+   "src": "90b24017a768",
+   "t": "But it's just a scratch!"
+  },
+  {
+   "i": 1602,
+   "src": "745def66ac9e",
+   "t": "We need any opening we can get...!"
+  },
+  {
+   "i": 1725,
+   "src": "873ccfafd6f5",
+   "t": "You have no chance\nof winning!"
+  },
+  {
+   "i": 2030,
+   "src": "e9ee29712d92",
+   "t": "Ngh...!"
+  }
+ ]
+}

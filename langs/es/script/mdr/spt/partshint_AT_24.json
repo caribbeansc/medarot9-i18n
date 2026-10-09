@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_24.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0dd9369ebecd",
+   "t": "<c:00ff00>Técnica:<c>Carga Buster\nAtaque de {{shooting}} que\nsuma a la {{power}} el % de\nla carga.\nTras la acción, consume\nel 10% de la carga.\nTiene {{effect}} de\npenetración."
+  }
+ ]
+}

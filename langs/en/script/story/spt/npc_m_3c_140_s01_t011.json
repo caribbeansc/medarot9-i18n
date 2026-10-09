@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_3c_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2ebc46fccac9",
+   "t": "{{akitora}}"
+  },
+  {
+   "i": 1038,
+   "src": "0d9b86106f9e",
+   "t": "Who are you?!"
+  },
+  {
+   "i": 1046,
+   "src": "6b0edd0eb094",
+   "t": "What?!"
+  },
+  {
+   "i": 1049,
+   "src": "16da6d91b82c",
+   "t": "You're just here to watch?!"
+  },
+  {
+   "i": 1067,
+   "src": "32054d667443",
+   "t": "No problem!"
+  },
+  {
+   "i": 1070,
+   "src": "9ef7781bd8f0",
+   "t": "Watch all you like!"
+  }
+ ]
+}

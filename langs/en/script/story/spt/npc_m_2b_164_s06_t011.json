@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2b_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1038,
+   "src": "20c0d529200f",
+   "t": "{{medalia}} effects are divided into several\nattributes. "
+  },
+  {
+   "i": 1041,
+   "src": "10c171054f64",
+   "t": "They're shown with letters like A or B."
+  },
+  {
+   "i": 1049,
+   "src": "f28bc1ab24c8",
+   "t": "Even if you attach several {{medalia|pl}} of"
+  },
+  {
+   "i": 1052,
+   "src": "e110d22ef2fe",
+   "t": "the same attribute, only one {{effect}} takes\nhold."
+  }
+ ]
+}

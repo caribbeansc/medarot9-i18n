@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description14.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2f91fee14b85",
+   "t": "{{original|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "f728daca616b",
+   "t": "<c:ffff00>{{medabot}}<c> con las 4 <c:ffff00>zonas<c> equipadas con un juego\ncompleto de <c:ffff00>{{part|pl}}<c> del mismo <c:ffff00>{{model_number}}<c>.\nTiene el aspecto y las capacidades con los que fue\ndiseñado.\n\nAlgunos {{medabot|pl}} originales pueden hacer\n<c:ffff00>{{medachange}}<c>."
+  }
+ ]
+}

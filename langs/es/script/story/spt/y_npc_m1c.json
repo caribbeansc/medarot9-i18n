@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m1c.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1653,
+   "src": "70b769b615c9",
+   "t": "Eh, ¿una {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "e9b553f14671",
+   "t": "¡Claro que sí, allá vamos!"
+  }
+ ]
+}

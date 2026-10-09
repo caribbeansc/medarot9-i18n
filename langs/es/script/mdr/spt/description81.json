@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description81.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c2b7435c3d54",
+   "t": "{{best_skill|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "e4944a535280",
+   "t": "Las 3 <c:ffff00>habilidades<c> con buena {{affinity}} que tiene cada\n<c:ffff00>{{medal}}<c>.\nSu <c:ffff00>{{skill_level}}<c> sube con más facilidad.\n\nA la <c:ffff00>{{part}}<c> cuya habilidad coincide con una favorita\nle suben estos <c:ffff00>rendimientos<c>: <c:ffff00>{{success}}<c>, <c:ffff00>{{power}}<c>, <c:ffff00>{{prep}}<c>\ny <c:ffff00>{{cooldown}}<c>.\n\nSegún el <c:ffff00>{{rank}}<c>: {{bronze}} +2, {{silver}} +4, {{gold}} +6."
+  }
+ ]
+}

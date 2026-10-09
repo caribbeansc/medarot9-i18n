@@ -1,0 +1,60 @@
+{
+ "file": "battle/spt/tuto_skill_lvup.spt",
+ "lines": [
+  {
+   "i": 1065,
+   "src": "3d065d4e1362",
+   "t": "Striking"
+  },
+  {
+   "i": 1075,
+   "src": "07cd98f836fa",
+   "t": "Shooting"
+  },
+  {
+   "i": 1085,
+   "src": "d93e9a646712",
+   "t": "Support"
+  },
+  {
+   "i": 1095,
+   "src": "4a0567b1fe55",
+   "t": "Heal"
+  },
+  {
+   "i": 1105,
+   "src": "bc17bb6afea9",
+   "t": "Block"
+  },
+  {
+   "i": 1115,
+   "src": "f44bb303f465",
+   "t": "Set-up"
+  },
+  {
+   "i": 1119,
+   "src": "3a5dca67745a",
+   "t": "Nice! "
+  },
+  {
+   "i": 1121,
+   "src": "baa8e24ecbe9",
+   "t": ",\n"
+  },
+  {
+   "i": 1123,
+   "src": "7aecd863e70f",
+   "t": " <c:ff00ff>Skill Level<c> went up!"
+  },
+  {
+   "i": 1151,
+   "src": "f06526eb553f",
+   "t": "With this, <c:ff00ff>{{prep}}<c> and <c:ff00ff>{{cooldown}}<c> will be\nfaster than ever.\nIt looks like you can use your actions\neven more effectively."
+  },
+  {
+   "i": 1159,
+   "src": "a0e5697f7e0a",
+   "t": "Overall strength, <c:ff00ff>Medal Level<c> included,\ngoes up too,\nso your <c:ff00ff>{{evade}}<c> and <c:ff00ff>{{defend}}<c> rise and you\nshould last longer in a fight!"
+  }
+ ]
+}

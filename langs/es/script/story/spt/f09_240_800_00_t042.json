@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f09_240_800_00_t042.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "d692c5c8b15e",
+   "t": "Volvamos a la {{academy}}."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_59.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3c264aec2aa2",
+   "t": "<c:00ff00>Técnica:<c>{{beam_sword}}\nAtaque de {{fighting}}.\nCon la {{charge_gauge}} al\n50% o más, la {{power}} se\nduplica; al 100%, se\ntriplica.\nCon {{success}} 40 o más, gana\n{{effect}} de {{pierce}}."
+  }
+ ]
+}

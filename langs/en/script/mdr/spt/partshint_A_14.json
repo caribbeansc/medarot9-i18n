@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_14.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ea64631404d3",
+   "t": "<c:00ff00>{{mf}}:<c> {{all_out_fire}}\nGathers the {{power}} of all\nshooting {{part|pl}} and fires\none mighty blow.\n<c:00ffff>{{required_parts}}<c>\nOne or more shooting\n{{part|pl}}"
+  }
+ ]
+}

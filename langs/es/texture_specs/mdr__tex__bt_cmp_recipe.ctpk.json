@@ -1,0 +1,159 @@
+{
+ "rel": "mdr/tex/bt_cmp_recipe.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    224,
+    96,
+    24,
+    8
+   ],
+   "erase": "transparent",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    240,
+    80,
+    16,
+    8
+   ],
+   "erase": "transparent",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    224,
+    104,
+    32,
+    8
+   ],
+   "erase": "transparent",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    224,
+    112,
+    32,
+    8
+   ],
+   "erase": "transparent",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    224,
+    120,
+    16,
+    8
+   ],
+   "erase": "transparent",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    240,
+    120,
+    16,
+    8
+   ],
+   "erase": "transparent",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    177,
+    80,
+    46,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Materiales",
+   "font": "sf-cond",
+   "cap": 8,
+   "fill": "#A5A5A5DD",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.3,
+   "erase_box": [
+    176,
+    80,
+    48,
+    16
+   ]
+  },
+  {
+   "box": [
+    177,
+    96,
+    46,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Posible",
+   "font": "sf-cond-heavy",
+   "cap": 10.5,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFAAD2"
+     ],
+     [
+      0.5,
+      "#F5587A"
+     ],
+     [
+      1,
+      "#E8141E"
+     ]
+    ]
+   },
+   "stroke": "#721414",
+   "stroke_w": 1.4,
+   "pad": 1,
+   "crisp": 0.3,
+   "erase_box": [
+    176,
+    96,
+    48,
+    16
+   ]
+  },
+  {
+   "box": [
+    177,
+    112,
+    46,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Imposible",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "dy": -1,
+   "fill": {
+    "top": "#9A9A9A",
+    "bottom": "#666666"
+   },
+   "stroke": "#2E2E2E",
+   "stroke_w": 1.4,
+   "pad": 1,
+   "crisp": 0.3,
+   "erase_box": [
+    176,
+    112,
+    48,
+    16
+   ]
+  }
+ ]
+}

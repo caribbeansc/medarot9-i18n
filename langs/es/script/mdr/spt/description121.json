@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description121.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "55e3a6330b31",
+   "t": "Puntería (sub.)"
+  },
+  {
+   "i": 11,
+   "src": "f33604f40e65",
+   "t": "<c:ffff00>Subhabilidad<c> de <c:ffff00>{{shooting}}<c> que da en la <c:ffff00>{{slot}}<c> elegida.\nTras elegir el <c:ffff00>{{target}}<c> puedes elegir la <c:ffff00>{{part}}<c>, pero\nel <c:ffff00>{{stats}} de {{prep}}<c> de la <c:ffff00>técnica<c> baja un 50%.\nSegún la {{slot}} baja el <c:ffff00>{{success_power}}<c> y es más fácil\nel <c:ffff00>{{attack_failure}}<c>: los <c:ffff00>brazos<c> dan el mayor y la\n<c:ffff00>{{head}}<c> el menor, pero sube con cada {{slot}} <c:ffff00>destruida<c>\ndel {{opponent}}.\nSi tiene {{success}}, el {{opponent}} no puede <c:ffff00>responder<c> y la {{part}}\nelegida recibe <c:ffff00>{{damage}}<c>."
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "file": "story/spt/f05_090_154_00_t024.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "a21e9f15333c",
+   "t": "Mind if I open this folder?"
+  },
+  {
+   "i": 1056,
+   "src": "ecd3c6e4144a",
+   "t": "President, when did you get over there?"
+  },
+  {
+   "i": 1064,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1073,
+   "src": "635ab54063b4",
+   "t": "That is fine."
+  },
+  {
+   "i": 1076,
+   "src": "a723a3948065",
+   "t": "Permission granted."
+  },
+  {
+   "i": 1088,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1097,
+   "src": "8daa4187c3a4",
+   "t": "Thanks."
+  },
+  {
+   "i": 1105,
+   "src": "b3e9901e1018",
+   "t": "What kind of program is this?"
+  },
+  {
+   "i": 1112,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1121,
+   "src": "2d9fc9a91f69",
+   "t": "It's a simulator. It shows, step by step"
+  },
+  {
+   "i": 1124,
+   "src": "b5187e13a6c6",
+   "t": "and numerically, how a {{medabot}}'s\nneural network"
+  },
+  {
+   "i": 1132,
+   "src": "021d133c4725",
+   "t": "forms when parts and a Tinpet connect,"
+  },
+  {
+   "i": 1135,
+   "src": "de88e56faf71",
+   "t": "and how those circuits keep extending."
+  },
+  {
+   "i": 1144,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1153,
+   "src": "2178d959ca0e",
+   "t": "Ohh, I see."
+  },
+  {
+   "i": 1161,
+   "src": "8081fb7c7819",
+   "t": "You can understand this!?"
+  },
+  {
+   "i": 1173,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1179,
+   "src": "9abcd460eda2",
+   "t": "Me? Not really."
+  },
+  {
+   "i": 1182,
+   "src": "ce5e0775b09f",
+   "t": "No clue, ha ha ha."
+  },
+  {
+   "i": 1190,
+   "src": "ca809c7975b8",
+   "t": "But you know, Main-chan, you are"
+  },
+  {
+   "i": 1193,
+   "src": "101168e0e230",
+   "t": "exactly the person I've been looking for."
+  },
+  {
+   "i": 1207,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1216,
+   "src": "5f7b59044878",
+   "t": "...*Blush*."
+  },
+  {
+   "i": 1223,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1229,
+   "src": "4b0af1f9bd02",
+   "t": "That's not it."
+  },
+  {
+   "i": 1239,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1248,
+   "src": "0b8d85d5d457",
+   "t": "Are you interested in {{medalia}}?"
+  },
+  {
+   "i": 1262,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1271,
+   "src": "554bb5250828",
+   "t": "I am."
+  },
+  {
+   "i": 1278,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1287,
+   "src": "061dcd1aa019",
+   "t": "I have secret blueprints about {{medalia}}."
+  },
+  {
+   "i": 1290,
+   "src": "bd7371781b4e",
+   "t": "Interested?"
+  },
+  {
+   "i": 1304,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1313,
+   "src": "5cdfdb30d808",
+   "t": "I am, I am."
+  },
+  {
+   "i": 1316,
+   "src": "e4e210592e6a",
+   "t": "Please give them to me."
+  },
+  {
+   "i": 1323,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1332,
+   "src": "713d54cd430c",
+   "t": "Sure, I'll give them to you."
+  },
+  {
+   "i": 1346,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1355,
+   "src": "c1cc8658b688",
+   "t": "Yay!"
+  },
+  {
+   "i": 1362,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1371,
+   "src": "d5c0fa5b41e3",
+   "t": "However..."
+  },
+  {
+   "i": 1391,
+   "src": "fce8a513a240",
+   "t": "Only if you join the {{exploration_club}}."
+  },
+  {
+   "i": 1405,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1414,
+   "src": "749961aaafcf",
+   "t": "I'll join."
+  }
+ ]
+}

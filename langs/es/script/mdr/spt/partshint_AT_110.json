@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_110.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "00cc474e9dbc",
+   "t": "<c:00ff00>Técnica:<c>{{clear}} Estorbo\nCancela los efectos\nnegativos de un {{medabot}}\n{{ally_battle_term}} y le añade un\n{{effect}} que anula una vez\nun {{effect}} negativo."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1038,
+   "src": "e4070bbae6ff",
+   "t": "Hey, welcome to the Medabot Research\nClub!"
+  },
+  {
+   "i": 1041,
+   "src": "9c9089bbde07",
+   "t": "Want to ask something? Anything--"
+  },
+  {
+   "i": 1049,
+   "src": "4f308142a5fe",
+   "t": "Oh ho, you two!"
+  },
+  {
+   "i": 1052,
+   "src": "d81be640fabf",
+   "t": "Aren't you the {{exploration_club}} that\nkidnapped {{main}}-chan?"
+  },
+  {
+   "i": 1063,
+   "src": "67e957f7d584",
+   "t": "Kidnapped? That's a nasty way to put\nit..."
+  },
+  {
+   "i": 1068,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1077,
+   "src": "1257df6f868a",
+   "t": "Hahaha, just kidding."
+  },
+  {
+   "i": 1085,
+   "src": "1a589912bd40",
+   "t": "{{main}}-chan isn't an official member of\nours."
+  },
+  {
+   "i": 1088,
+   "src": "d9d9ff389253",
+   "t": "We just asked her to put her name on\nour roster."
+  },
+  {
+   "i": 1096,
+   "src": "22fd2a3a82a0",
+   "t": "If it's what she wants, it can't be\nhelped."
+  },
+  {
+   "i": 1099,
+   "src": "91a308a9240d",
+   "t": "It's a shame, though."
+  }
+ ]
+}

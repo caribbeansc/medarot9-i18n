@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_05_02_t031.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "643fcfb7bf17",
+   "t": "*Después de la {{robattle}}"
+  },
+  {
+   "i": 1146,
+   "src": "891d9d0e0811",
+   "t": "¡Lo encontré!"
+  },
+  {
+   "i": 1149,
+   "src": "9af81c264a6f",
+   "t": "Esto es una {{medalia}}, ¿verdad?"
+  },
+  {
+   "i": 1154,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1160,
+   "src": "136045defccc",
+   "t": "Cumplimos el objetivo."
+  },
+  {
+   "i": 1163,
+   "src": "c0d965365696",
+   "t": "Volvamos a la {{clubroom}}."
+  }
+ ]
+}

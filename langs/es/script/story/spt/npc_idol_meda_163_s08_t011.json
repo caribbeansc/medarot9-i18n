@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_idol_meda_163_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1038,
+   "src": "4822cbda460e",
+   "t": "Ah, todos ustedes. La pieza de piernas"
+  },
+  {
+   "i": 1041,
+   "src": "224c83ab924b",
+   "t": "que me dieron está en perfecto estado."
+  },
+  {
+   "i": 1049,
+   "src": "703d7d40be1c",
+   "t": "Podría bailar toda la noche."
+  },
+  {
+   "i": 1052,
+   "src": "e7ffec3962c7",
+   "t": "Sí."
+  }
+ ]
+}

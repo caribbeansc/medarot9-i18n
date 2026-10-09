@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_idol_meda_163_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1038,
+   "src": "83985119317e",
+   "t": "Oh, hello."
+  },
+  {
+   "i": 1041,
+   "src": "dd79fda670b3",
+   "t": "A boy visitor is a rare sight."
+  }
+ ]
+}

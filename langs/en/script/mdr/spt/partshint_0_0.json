@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_0.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8190fc41aaf8",
+   "t": "<c:00ff00>Robattle Style:<c> {{power_style}}\n{{power_style}} +15\nFor every 20 {{damage}}\ndealt,\n{{charge_gauge}} +1%"
+  }
+ ]
+}

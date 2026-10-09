@@ -1,0 +1,79 @@
+{
+ "rel": "battle/mdl/TGT_N_F.bcmdl",
+ "tex": "tex_target3",
+ "also": "auto",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "grow": 1,
+  "font": "sf-cond",
+  "cap": 10,
+  "crisp": 0.3,
+  "fill": "#FFFFFF",
+  "stroke": "#155645",
+  "stroke_w": 1,
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    17,
+    5,
+    94,
+    22
+   ],
+   "erase_box": [
+    14,
+    4,
+    102,
+    24
+   ],
+   "text": "Aim at Head"
+  },
+  {
+   "box": [
+    17,
+    37,
+    94,
+    22
+   ],
+   "erase_box": [
+    14,
+    36,
+    102,
+    24
+   ],
+   "text": "Aim at R-Arm"
+  },
+  {
+   "box": [
+    17,
+    69,
+    94,
+    22
+   ],
+   "erase_box": [
+    14,
+    68,
+    102,
+    24
+   ],
+   "text": "Aim at L-Arm"
+  },
+  {
+   "box": [
+    17,
+    101,
+    94,
+    22
+   ],
+   "erase_box": [
+    6,
+    100,
+    118,
+    24
+   ],
+   "text": "Aim at Legs"
+  }
+ ]
+}

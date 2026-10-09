@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f_meda_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9356f0822883",
+   "t": "{{dokoka_no_oji}}"
+  },
+  {
+   "i": 1038,
+   "src": "33175a63f792",
+   "t": "Los PV están bien, pero quiero un filme."
+  },
+  {
+   "i": 1041,
+   "src": "663e0589a4b4",
+   "t": "Uno de detectives con {{medabot|pl}}."
+  },
+  {
+   "i": 1049,
+   "src": "a5974a5a610f",
+   "t": "¡El detective Pipebrain! ...o algo así."
+  },
+  {
+   "i": 1052,
+   "src": "1ddd38e2cd40",
+   "t": "Con su Criminal Eye lo ve todo."
+  }
+ ]
+}

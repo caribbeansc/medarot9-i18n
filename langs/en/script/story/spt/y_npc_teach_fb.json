@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_fb.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1653,
+   "src": "2115cea1d881",
+   "t": "Oh my, you want to {{robattle}} with me."
+  },
+  {
+   "i": 1656,
+   "src": "b94c5249b61f",
+   "t": "All right, I'll be your {{opponent}}."
+  }
+ ]
+}

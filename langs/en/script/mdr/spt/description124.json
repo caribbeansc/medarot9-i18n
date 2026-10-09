@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description124.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4f5e97559026",
+   "t": "Trigger"
+  },
+  {
+   "i": 11,
+   "src": "d5cf9f6a5596",
+   "t": "The <c:ffff00>attack<c> that sets off a <c:ffff00>combo attack<c>.\n\nIf a <c:ffff00>Crossfire<c> attack is linked before or after it, a\ncombo attack is formed.\n\nOnly attacks using a normal <c:ffff00>action<c> can be triggers:\nactions using a <c:ffff00>sub-skill<c> and <c:ffff00>{{medaforce}}<c> can't. In a\n<c:ffff00>combo<c>, the first action included is the trigger."
+  }
+ ]
+}

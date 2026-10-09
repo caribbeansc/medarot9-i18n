@@ -1,0 +1,127 @@
+{
+ "rel": "mdr/tex/mk_act_n_a.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+  "cap": 5,
+  "fill": "#000000",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0,
+  "align": "center",
+  "scale_x": 1
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    11,
+    24,
+    7
+   ],
+   "text": "Comb.",
+   "baseline": 17
+  },
+  {
+   "box": [
+    0,
+    19,
+    24,
+    7
+   ],
+   "text": "Disp.",
+   "baseline": 25
+  },
+  {
+   "box": [
+    0,
+    27,
+    24,
+    7
+   ],
+   "text": "Apoyo",
+   "baseline": 33
+  },
+  {
+   "box": [
+    0,
+    35,
+    19,
+    7
+   ],
+   "text": "Cura",
+   "baseline": 41
+  },
+  {
+   "box": [
+    0,
+    43,
+    18,
+    7
+   ],
+   "text": "Def.",
+   "baseline": 49
+  },
+  {
+   "box": [
+    0,
+    51,
+    24,
+    7
+   ],
+   "text": "Trampa",
+   "baseline": 57
+  },
+  {
+   "box": [
+    25,
+    11,
+    24,
+    7
+   ],
+   "text": "A-Aire",
+   "baseline": 17
+  },
+  {
+   "box": [
+    25,
+    19,
+    24,
+    7
+   ],
+   "text": "A-Mar",
+   "baseline": 25
+  },
+  {
+   "box": [
+    24,
+    27,
+    24,
+    7
+   ],
+   "text": "Espec.",
+   "baseline": 33
+  },
+  {
+   "box": [
+    25,
+    35,
+    24,
+    7
+   ],
+   "text": "Arrem.",
+   "baseline": 41
+  },
+  {
+   "box": [
+    25,
+    43,
+    24,
+    7
+   ],
+   "text": "Punt.",
+   "baseline": 49
+  }
+ ]
+}

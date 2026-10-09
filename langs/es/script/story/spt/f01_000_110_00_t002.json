@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f01_000_110_00_t002.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1045,
+   "src": "6541023d7f1c",
+   "t": "¿Ya llegó el {{principal}}?"
+  },
+  {
+   "i": 1055,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1064,
+   "src": "db8ab68be6fd",
+   "t": "Me avisaron que llegará un poco tarde."
+  },
+  {
+   "i": 1067,
+   "src": "76693d3af44d",
+   "t": "Pidió que continuáramos sin él."
+  },
+  {
+   "i": 1077,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1086,
+   "src": "0fbc5d803807",
+   "t": "Ah, ¿sí?"
+  },
+  {
+   "i": 1089,
+   "src": "9d0ef6cc9a71",
+   "t": "Bien entonces... ejem."
+  },
+  {
+   "i": 1109,
+   "src": "d46bfe2106b3",
+   "t": "Bienvenido a la {{academy|cap}}, "
+  },
+  {
+   "i": 1111,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1114,
+   "src": "3c7cce6635c3",
+   "t": "Celebramos tu {{enroll}}."
+  },
+  {
+   "i": 1129,
+   "src": "3d4f6fbaee77",
+   "t": "¡Muchas gracias!"
+  },
+  {
+   "i": 1134,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1140,
+   "src": "4dc69a9d4c33",
+   "t": "Soy el {{vice_principal}} de esta {{academy}}."
+  },
+  {
+   "i": 1145,
+   "src": "9a8fe0b6ac69",
+   "t": "Quizá no sepas qué hace un {{vice_principal}},"
+  },
+  {
+   "i": 1148,
+   "src": "eed3c78ccb85",
+   "t": "pero... hago las tareas sueltas de aquí."
+  },
+  {
+   "i": 1156,
+   "src": "c362348a8231",
+   "t": "A veces sustituyo al {{principal}}, así."
+  },
+  {
+   "i": 1159,
+   "src": "68143015e243",
+   "t": "Ajaja."
+  },
+  {
+   "i": 1167,
+   "src": "141f542fba6a",
+   "t": "Muy bien, lo siguiente-"
+  },
+  {
+   "i": 1170,
+   "src": "cc3305f338a3",
+   "t": "Te presentaré a algunos profesores."
+  },
+  {
+   "i": 1181,
+   "src": "928b1db1a8d8",
+   "t": "Primero. Él es el Prof. Akebono,"
+  },
+  {
+   "i": 1184,
+   "src": "5efff7b84c8b",
+   "t": "el {{teacher}} de educación física."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_2d_meda_150_s06_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "59b8060a6ce0",
+   "t": "{{girl_2_d_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "880d3f03ac2e",
+   "t": "¿Todavía no?"
+  }
+ ]
+}

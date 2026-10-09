@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description32.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5c261fef8bbf",
+   "t": "{{success_power}}"
+  },
+  {
+   "i": 11,
+   "src": "0103a3ac2a4d",
+   "t": "The accuracy of landing an <c:ffff00>attack<c> and the ability to\nhit the <c:ffff00>{{target}}<c>'s weak point.\nIt is mostly determined by the <c:ffff00>{{success}}<c> stat of the\n<c:ffff00>{{acting_part}}<c> and the <c:ffff00>{{skill_level}}<c> in <c:ffff00>Striking<c>/<c:ffff00>{{shooting}}<c>;\nthe <c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> stat of the <c:ffff00>legs<c> also has an\neffect.\nThe higher the {{success_power}}, the higher the\n<c:ffff00>{{critical}}<c> rate. The chances of <c:ffff00>{{attack_failure}}<c>/<c:ffff00>{{graze}}<c> and\nthe target's <c:ffff00>evasion power<c> also go down."
+  }
+ ]
+}

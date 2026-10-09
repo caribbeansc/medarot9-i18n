@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_153.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7e7842382f65",
+   "t": "<c:00ff00>Técnica:<c>{{trap|cap}} {{legs|cap}}\nColoca una {{trap}} que\ndaña las {{legs}} al\nreaccionar al uso de una\n{{part}} del {{opponent}}.\nAl colocarla\nrepetidamente {{up}} el\n{{armor}} y el {{damage}}."
+  }
+ ]
+}

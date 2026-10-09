@@ -1,0 +1,50 @@
+{
+ "file": "mdr/spt/medalialist.spt",
+ "lines": [
+  {
+   "i": 1828,
+   "src": "6ec816ad3b23",
+   "t": "Return without saving changes?"
+  },
+  {
+   "i": 1928,
+   "src": "02c0db203f4c",
+   "t": "Set charge length to \"Long\".\nTiming is \"Hard\",\nEfficiency pool \"High\"."
+  },
+  {
+   "i": 1936,
+   "src": "421ae199782b",
+   "t": "Set charge length to \"Normal\".\nBasic Settings."
+  },
+  {
+   "i": 1944,
+   "src": "89aede56f223",
+   "t": "Set charge length to \"Short\".\nTiming is \"Easy\",\nEfficiency pool \"Low\"."
+  },
+  {
+   "i": 1952,
+   "src": "73482504e241",
+   "t": "Set medaforce used in the\n{{robattle}}."
+  },
+  {
+   "i": 2043,
+   "src": "bf8c0d0ec885",
+   "t": "Long"
+  },
+  {
+   "i": 2051,
+   "src": "682f3f007a8b",
+   "t": "Normal"
+  },
+  {
+   "i": 2059,
+   "src": "88c4d966dc6f",
+   "t": "Short"
+  },
+  {
+   "i": 2113,
+   "src": "bd9fb01ffb98",
+   "t": "None"
+  }
+ ]
+}

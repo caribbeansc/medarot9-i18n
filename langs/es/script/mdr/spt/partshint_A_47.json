@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_47.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "502044a29e51",
+   "t": "<c:00ff00>{{mf}}:<c>Regeneración\nRevive todas las {{part|pl}}\ndestruidas de todo tu\nequipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

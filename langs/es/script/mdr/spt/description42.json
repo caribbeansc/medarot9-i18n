@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description42.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "39fd73b44075",
+   "t": "{{guard_stance|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "9bc0e3e2848a",
+   "t": "{{condition|cap}} de espera de la <c:ffff00>{{interrupt_guard}}<c>.\nEn {{guard_stance}} no se puede hacer otra <c:ffff00>acción<c>\ny se queda <c:ffff00>{{cannot_evade}}<c>.\nLa postura termina e inicia el <c:ffff00>{{cooldown}}<c> si los\naliados actúan 4 veces o pasa cierto tiempo.\nSegún la <c:ffff00>técnica<c>, cambian los <c:ffff00>ataques<c> que activan la\n{{interrupt_guard}}. La <c:ffff00>{{acting_part}}<c> de la\npostura es la que <c:ffff00>defiende<c>."
+  }
+ ]
+}

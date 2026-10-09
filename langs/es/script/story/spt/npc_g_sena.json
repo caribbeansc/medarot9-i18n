@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_g_sena.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1035,
+   "src": "12bfb7c86abf",
+   "t": "Últimamente no veo entusiasmo"
+  },
+  {
+   "i": 1038,
+   "src": "5613124a27c7",
+   "t": "en los alumnos. Quizá debamos limitar"
+  },
+  {
+   "i": 1046,
+   "src": "03641412ea77",
+   "t": "Robobatallas... No, eso va contra los"
+  },
+  {
+   "i": 1049,
+   "src": "68fe12827911",
+   "t": "ideales de la academia. Pero, mmm..."
+  }
+ ]
+}

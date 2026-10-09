@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f01_090_167_10_t002.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "e6ee4e0d1e01",
+   "t": "Ah, es verdad."
+  },
+  {
+   "i": 1006,
+   "src": "eb6e87051b41",
+   "t": "Pero se ven medio viejas."
+  },
+  {
+   "i": 1009,
+   "src": "9c5bae4911c4",
+   "t": "Y están justo en un rincón."
+  },
+  {
+   "i": 1017,
+   "src": "0e66f6d557b5",
+   "t": "¿Habrá una sala de {{club}} aquí abajo?"
+  },
+  {
+   "i": 1020,
+   "src": "4793510c56ef",
+   "t": "Seguro que no."
+  }
+ ]
+}

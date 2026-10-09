@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description30.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "66984e5f8c47",
+   "t": "Melee (attack)"
+  },
+  {
+   "i": 11,
+   "src": "0710f81d8d87",
+   "t": "An <c:ffff00>attack<c> carried out by moving close to the target.\nAlso called a close-range attack.\n\nIt is mostly done with <c:ffff00>actions<c> of the <c:ffff00>Striking skill<c>.\nBoth the attacker and the one who <c:ffff00>responds<c> are\naffected by the <c:ffff00>{{fighting}}<c> stat of the <c:ffff00>legs<c>.\n\nDepending on <c:ffff00>{{success_power}}<c>, a <c:ffff00>{{graze}}<c> or <c:ffff00>{{critical}}<c>\nmay occur."
+  }
+ ]
+}

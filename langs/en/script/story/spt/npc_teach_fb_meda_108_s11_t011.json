@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_teach_fb_meda_108_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fe562aa37220",
+   "t": "{{heal_angel}}"
+  },
+  {
+   "i": 1038,
+   "src": "d3dd30b25c95",
+   "t": "Leave the {{principal|cap}} to us."
+  },
+  {
+   "i": 1041,
+   "src": "91643ea86d81",
+   "t": "We've been looking after him all this\ntime, after all."
+  }
+ ]
+}

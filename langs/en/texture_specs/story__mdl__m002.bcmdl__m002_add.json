@@ -1,0 +1,93 @@
+{
+ "rel": "story/mdl/m002.bcmdl",
+ "tex": "m002_add",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "pad": 0,
+  "stroke": null
+ },
+ "items": [
+  {
+   "box": [
+    4,
+    130,
+    33,
+    114
+   ],
+   "erase_box": [
+    3,
+    126,
+    37,
+    124
+   ],
+   "keep": [
+    [
+     34,
+     112,
+     20,
+     54
+    ]
+   ],
+   "erase": "glyph",
+   "bg": "#D81D0C",
+   "thr": 110,
+   "grow": 2,
+   "text": "B\nU\nN\nS",
+   "font": "black",
+   "cap": 15,
+   "leading": 0.88,
+   "fill": {
+    "top": "#F4F4F4",
+    "bottom": "#CFCFCF"
+   },
+   "strokes": [
+    {
+     "color": "#1C1C1C",
+     "w": 2.6
+    },
+    {
+     "color": "#D9A21A",
+     "w": 1.2
+    }
+   ]
+  },
+  {
+   "box": [
+    72,
+    135,
+    34,
+    104
+   ],
+   "erase_box": [
+    [
+     84,
+     134,
+     24,
+     8
+    ],
+    [
+     70,
+     141,
+     38,
+     100
+    ]
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 70,
+   "grow": 1,
+   "text": "B\nE\nN\nT\nO",
+   "font": "black",
+   "cap": 16,
+   "leading": 0.9,
+   "fill": "#1A1212",
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.2
+    }
+   ]
+  }
+ ]
+}

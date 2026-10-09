@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_124.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c1a831842994",
+   "t": "<c:00ff00>Action:<c> {{clear_field}}\nRemoves all Traps and\nPlants set on the {{field}},\nwhether they belong to\nallies or enemies."
+  }
+ ]
+}

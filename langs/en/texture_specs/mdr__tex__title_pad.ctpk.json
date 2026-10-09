@@ -1,0 +1,38 @@
+{
+ "rel": "mdr/tex/title_pad.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-rounded",
+  "fill": "auto",
+  "stroke": "auto",
+  "stroke_w": 1.0,
+  "pad": 0,
+  "crisp": 0.4
+ },
+ "items": [
+  {
+   "box": [
+    1,
+    1,
+    142,
+    14
+   ],
+   "erase_box": [
+    0,
+    0,
+    144,
+    16
+   ],
+   "sample_box": [
+    0,
+    2,
+    144,
+    12
+   ],
+   "cap": 8.5,
+   "baseline": 13,
+   "text": "Move with Circle Pad"
+  }
+ ]
+}

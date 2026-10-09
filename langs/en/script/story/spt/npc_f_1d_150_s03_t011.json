@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_1d_150_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "cc4e33627947",
+   "t": "{{hana}}"
+  },
+  {
+   "i": 1038,
+   "src": "fadd176442d4",
+   "t": "The girls' dorm being farther from the\nschool"
+  },
+  {
+   "i": 1041,
+   "src": "537a29490107",
+   "t": "than the boys' dorm - isn't that unfair?"
+  },
+  {
+   "i": 1049,
+   "src": "4eae5cddaac4",
+   "t": "Is it telling us to go on a diet...?"
+  }
+ ]
+}

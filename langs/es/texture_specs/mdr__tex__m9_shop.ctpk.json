@@ -1,0 +1,113 @@
+{
+ "rel": "mdr/tex/m9_shop.ctpk",
+ "base": "jp",
+ "styles": {
+  "tienda": {
+   "erase": "transparent",
+   "font": "sf",
+   "font_var": "Condensed Medium",
+   "cap": 16,
+   "fill": "#7AFAFA",
+   "stroke": null,
+   "extrude": {
+    "dx": 2,
+    "dy": 2,
+    "color": "#082A7F99"
+   },
+   "align": "left",
+   "pad": 0
+  }
+ },
+ "items": [
+  {
+   "style": "tienda",
+   "box": [
+    50,
+    203,
+    71,
+    18
+   ],
+   "erase_box": [
+    48,
+    203,
+    74,
+    20
+   ],
+   "baseline": 220,
+   "text": "CABEZA"
+  },
+  {
+   "style": "tienda",
+   "box": [
+    166,
+    202,
+    78,
+    18
+   ],
+   "erase_box": [
+    164,
+    202,
+    80,
+    22
+   ],
+   "baseline": 219.5,
+   "text": "TODO",
+   "cap": 16,
+   "tracking": 1.5
+  },
+  {
+   "style": "tienda",
+   "box": [
+    2,
+    228,
+    70,
+    18
+   ],
+   "erase_box": [
+    0,
+    228,
+    74,
+    20
+   ],
+   "baseline": 244.5,
+   "cap": 15.5,
+   "text": "BR. DER."
+  },
+  {
+   "style": "tienda",
+   "box": [
+    77,
+    228,
+    70,
+    18
+   ],
+   "erase_box": [
+    75,
+    228,
+    74,
+    20
+   ],
+   "baseline": 244.5,
+   "cap": 15.5,
+   "text": "BR. IZQ."
+  },
+  {
+   "style": "tienda",
+   "box": [
+    152,
+    228,
+    70,
+    18
+   ],
+   "erase_box": [
+    150,
+    228,
+    74,
+    20
+   ],
+   "baseline": 244.5,
+   "cap": 15.5,
+   "text": "PIERNAS"
+  }
+ ]
+}

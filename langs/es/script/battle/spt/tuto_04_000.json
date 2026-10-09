@@ -1,0 +1,55 @@
+{
+ "file": "battle/spt/tuto_04_000.spt",
+ "lines": [
+  {
+   "i": 1126,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1132,
+   "src": "b11de1c7401b",
+   "t": "Solo {{part|pl}} con la <c:ff00ff>subhabilidad<c>\n<c:ff00ff>arremetida<c> pueden usarla.  "
+  },
+  {
+   "i": 1146,
+   "src": "82b2020a6c0f",
+   "t": "Son las {{part|pl}} con este comando\nde arremetida.             "
+  },
+  {
+   "i": 1172,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1178,
+   "src": "3d85bd4082fa",
+   "t": "Primero, usa la <c:ff00ff>cruceta<c> para elegir\nuna {{part}} compatible con arremetida.     "
+  },
+  {
+   "i": 1254,
+   "src": "34560d71e4e5",
+   "t": "Al elegir la {{part}}, vuelve a presionar\n<c:ff00ff>la misma dirección de la cruceta<c>.  "
+  },
+  {
+   "i": 1329,
+   "src": "6e452734de37",
+   "t": "¡Ah, <c:ff00ff>la {{power}} subió<c>!     "
+  },
+  {
+   "i": 1334,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1340,
+   "src": "ccfbbfed8781",
+   "t": "La arremetida usa el impulso: a mayor\n<c:ff00ff>{{mobility}}<c> de {{legs_part_slot}}, mayor potencia.                                                           "
+  },
+  {
+   "i": 1348,
+   "src": "70b7792986ec",
+   "t": "Confirma el comando con el botón $*.        "
+  }
+ ]
+}

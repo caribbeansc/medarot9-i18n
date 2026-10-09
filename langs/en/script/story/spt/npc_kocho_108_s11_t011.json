@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_kocho_108_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "e8a68da98b7a",
+   "t": "First, defeat the {{stray|cap}} {{medabot|pl}}\ninvading the school."
+  },
+  {
+   "i": 1043,
+   "src": "eb7a76af22de",
+   "t": "No need to think about it."
+  },
+  {
+   "i": 1046,
+   "src": "07ae03bf4e3e",
+   "t": "Keep defeating them and something will\nsurely move..."
+  },
+  {
+   "i": 1054,
+   "src": "7a8715c5fdef",
+   "t": "If it can't get food efficiently,"
+  },
+  {
+   "i": 1057,
+   "src": "d39068b7e5d9",
+   "t": "it has no choice but to move itself..."
+  }
+ ]
+}

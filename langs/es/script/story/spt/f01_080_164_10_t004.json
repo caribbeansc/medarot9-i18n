@@ -1,0 +1,135 @@
+{
+ "file": "story/spt/f01_080_164_10_t004.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1049,
+   "src": "dcae5465df29",
+   "t": "Listo, terminado."
+  },
+  {
+   "i": 1052,
+   "src": "6ec036ba7d09",
+   "t": "Ahora sigue..."
+  },
+  {
+   "i": 1063,
+   "src": "aff460c7ac87",
+   "t": "el turno del {{medabot}}-kun."
+  },
+  {
+   "i": 1090,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1111,
+   "src": "afde02f431b8",
+   "t": "¿Yo?"
+  },
+  {
+   "i": 1117,
+   "src": "7eaf55d89505",
+   "t": "¿Yo?"
+  },
+  {
+   "i": 1132,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1141,
+   "src": "cb429e7f928f",
+   "t": "Así es. Tú también harás una prueba."
+  },
+  {
+   "i": 1144,
+   "src": "c56293d71fdf",
+   "t": "Investigamos junto con los {{medabot|pl}}."
+  },
+  {
+   "i": 1173,
+   "src": "76a8b302d2bc",
+   "t": "¿¡Investigación!?"
+  },
+  {
+   "i": 1176,
+   "src": "626a6317442f",
+   "t": "¿No hay {{robattle|pl}}?"
+  },
+  {
+   "i": 1182,
+   "src": "76a8b302d2bc",
+   "t": "¿¡Investigación!?"
+  },
+  {
+   "i": 1185,
+   "src": "f7ac648ff700",
+   "t": "¿No es una {{robattle}}?"
+  },
+  {
+   "i": 1193,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1202,
+   "src": "8fae93a2a80c",
+   "t": "Mmm, a veces robobatallamos,"
+  },
+  {
+   "i": 1205,
+   "src": "22bc32779e03",
+   "t": "pero investigar es lo principal."
+  },
+  {
+   "i": 1229,
+   "src": "f545658ee806",
+   "t": "¿Qué es la investigación?"
+  },
+  {
+   "i": 1243,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1252,
+   "src": "281cdd3b4df8",
+   "t": "Es indagar y pensar en las cosas."
+  },
+  {
+   "i": 1255,
+   "src": "1d4eb6058d6e",
+   "t": "Aprender divirtiéndose, supongo."
+  },
+  {
+   "i": 1279,
+   "src": "d392c9eef92d",
+   "t": "¡¡Estudiar!!"
+  },
+  {
+   "i": 1300,
+   "src": "c2a4c3df5475",
+   "t": "¡Entonces, olvídalo!"
+  },
+  {
+   "i": 1303,
+   "src": "25d0767baaf7",
+   "t": "¡Las {{robattle|pl}} son mucho mejores!"
+  },
+  {
+   "i": 1309,
+   "src": "c93e91b55dad",
+   "t": "¡Entonces me niego!"
+  },
+  {
+   "i": 1312,
+   "src": "25d0767baaf7",
+   "t": "¡Las {{robattle|pl}} son mejores!"
+  }
+ ]
+}

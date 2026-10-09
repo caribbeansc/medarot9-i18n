@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_55.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a49b50dec180",
+   "t": "<c:00ff00>Leg Trait:<c> {{shura}}\nWith one {{arm_part}}\ndestroyed,\n{{power}} stat +10.\nWith both arm {{part|pl}}\ndestroyed,\n{{power}} stat +20."
+  }
+ ]
+}

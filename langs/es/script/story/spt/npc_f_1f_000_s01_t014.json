@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1f_000_s01_t014.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "97c3154bbe1b",
+   "t": "{{yukishiro}}"
+  },
+  {
+   "i": 1038,
+   "src": "9df602b73a33",
+   "t": "Bueno... supongo que"
+  },
+  {
+   "i": 1041,
+   "src": "cf9b755cf861",
+   "t": "al final hoy comeré mapo tofu."
+  }
+ ]
+}

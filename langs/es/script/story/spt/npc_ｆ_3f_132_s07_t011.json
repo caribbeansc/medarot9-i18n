@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_ｆ_3f_132_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1035,
+   "src": "8b86f9c20281",
+   "t": "Oh, ya lo veo, ya lo veo. Incluso desde"
+  },
+  {
+   "i": 1038,
+   "src": "081f282ae497",
+   "t": "la última fila se ve genial, ¡qué alivio!"
+  }
+ ]
+}

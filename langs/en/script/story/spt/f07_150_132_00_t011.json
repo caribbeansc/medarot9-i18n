@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f07_150_132_00_t011.spt",
+ "lines": [
+  {
+   "i": 899,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 910,
+   "src": "3e791e1c75a1",
+   "t": "Ugh."
+  },
+  {
+   "i": 918,
+   "src": "51ca77a63454",
+   "t": "Wha--"
+  },
+  {
+   "i": 926,
+   "src": "5c8c0e25879c",
+   "t": "Why on earth are you here?"
+  },
+  {
+   "i": 929,
+   "src": "f976a30ce938",
+   "t": "What about the {{exploration_club}}?"
+  }
+ ]
+}

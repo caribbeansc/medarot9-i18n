@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description48.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a3d0b875ec6b",
+   "t": "Cannot {{evade}}"
+  },
+  {
+   "i": 11,
+   "src": "6e94d2632ed1",
+   "t": "A state in which <c:ffff00>evading<c> is not possible.\n\nIf an <c:ffff00>action<c>, <c:ffff00>{{negative_status}}<c> or other {{effect}} makes\nevasion impossible, even a <c:ffff00>legs {{part}}<c> capable of\nevading can't give the evade <c:ffff00>{{response}}<c>; having the\nlegs {{part}} destroyed amounts to the same thing.\n\nIf an attack is <c:ffff00>taken<c> while <c:ffff00>unable to defend<c> and\nunable to evade, it is always <c:ffff00>{{critical}}<c>."
+  }
+ ]
+}

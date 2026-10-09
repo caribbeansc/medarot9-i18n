@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_pc02_117_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "79093db5e93a",
+   "t": "Qué fingido."
+  },
+  {
+   "i": 1045,
+   "src": "7ce8c33aed0f",
+   "t": "¿Qué es eso de 'desu'?"
+  },
+  {
+   "i": 1053,
+   "src": "b43ef4368d3c",
+   "t": "Sin duda solo estaba actuando. Esa tipa"
+  },
+  {
+   "i": 1056,
+   "src": "836f98887b98",
+   "t": "sin duda tiene un carácter horrible."
+  },
+  {
+   "i": 1077,
+   "src": "daa69990930e",
+   "t": "¿Qué? ¿Estás diciendo que yo soy la del"
+  },
+  {
+   "i": 1080,
+   "src": "fc8277602156",
+   "t": "mal carácter?"
+  },
+  {
+   "i": 1091,
+   "src": "36a03e05b61d",
+   "t": "No dije eso, no dije eso."
+  },
+  {
+   "i": 1096,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1105,
+   "src": "f9064d6f17fd",
+   "t": "Perdón por tener un carácter tan"
+  },
+  {
+   "i": 1108,
+   "src": "904cab79699c",
+   "t": "horrible. En fin, en fin, en fin-"
+  },
+  {
+   "i": 1116,
+   "src": "663bd4c1f594",
+   "t": "Vamos, "
+  },
+  {
+   "i": 1118,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  }
+ ]
+}

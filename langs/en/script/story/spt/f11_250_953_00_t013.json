@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f11_250_953_00_t013.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1049,
+   "src": "5f3d2f6e3e76",
+   "t": "Wh-why?! We've beaten"
+  },
+  {
+   "i": 1052,
+   "src": "c4f7c43d36ed",
+   "t": "it again and again...!"
+  },
+  {
+   "i": 1059,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1065,
+   "src": "7be843932f23",
+   "t": "I'm tired, I can't take it anymore..."
+  },
+  {
+   "i": 1068,
+   "src": "04dff97d4471",
+   "t": "At this rate..."
+  },
+  {
+   "i": 1082,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1091,
+   "src": "4be364498214",
+   "t": "Don't give up!"
+  },
+  {
+   "i": 1094,
+   "src": "c401cbbab61a",
+   "t": "There must be a way, I'm sure of it--"
+  },
+  {
+   "i": 1101,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1110,
+   "src": "04c619cc0727",
+   "t": "...Ah."
+  },
+  {
+   "i": 1117,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1123,
+   "src": "ad580f235b6e",
+   "t": "What is it, Navi?!"
+  },
+  {
+   "i": 1130,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1136,
+   "src": "c10c6a8b8103",
+   "t": "Something's strange, the way it's\nacting..."
+  }
+ ]
+}

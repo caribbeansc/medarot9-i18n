@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f07_010_161_10_t014.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1042,
+   "src": "cb45460477e4",
+   "t": "La fecha límite es hoy."
+  },
+  {
+   "i": 1045,
+   "src": "b40d0e38c4fa",
+   "t": "¿Entendido?"
+  },
+  {
+   "i": 1059,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1068,
+   "src": "c368a72d65cf",
+   "t": "Sí, sí."
+  }
+ ]
+}

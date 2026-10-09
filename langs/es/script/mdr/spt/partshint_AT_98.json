@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_98.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1007c6f41ac5",
+   "t": "<c:00ff00>Técnica:<c>Mejora de {{trap|cap}}\nLleva al máximo el\n{{armor}} de la {{trap}} que\ntu {{ally_battle_term}} colocó en el\ncampo rival."
+  }
+ ]
+}

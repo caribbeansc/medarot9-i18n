@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description137.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d911327172b9",
+   "t": "{{object|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "dd4bd05bcea6",
+   "t": "Nombre general de todo lo que hay en el <c:ffff00>{{field}}<c>\ndurante la <c:ffff00>{{robattle}}<c>, aparte de los <c:ffff00>{{medabot|pl}}<c>.\nLos objetos tienen <c:ffff00>{{stats}}<c> y <c:ffff00>técnicas<c> como los\n{{medabot|pl}}, además de efectos propios. También\npueden ser <c:ffff00>{{target}}<c> de <c:ffff00>ataques<c> y, como ellos, se\n<c:ffff00>destruyen<c> cuando su <c:ffff00>{{armor}}<c> llega a 0.\nLas <c:ffff00>trampas<c> y <c:ffff00>plantas<c>, que se colocan sobre todo\ncon técnicas de la <c:ffff00>habilidad de {{trap}}<c>, también son\nobjetos y los ataques pueden destruirlas."
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "file": "story/spt/f07_010_161_10_t081.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1045,
+   "src": "200d37c1edba",
+   "t": "El colmo de la simpleza."
+  },
+  {
+   "i": 1063,
+   "src": "7532df24ea74",
+   "t": "~~~Agghhh."
+  },
+  {
+   "i": 1068,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1074,
+   "src": "669e8ef39214",
+   "t": "No."
+  },
+  {
+   "i": 1085,
+   "src": "a36f2db043bd",
+   "t": "Bien, tengamos una {{robattle}}."
+  },
+  {
+   "i": 1096,
+   "src": "566751f950f3",
+   "t": "Al final, para atraer alumnos,"
+  },
+  {
+   "i": 1099,
+   "src": "160030a9e031",
+   "t": "creo que esto es lo más llamativo."
+  },
+  {
+   "i": 1114,
+   "src": "f6228b83d71a",
+   "t": "Lo mejor: será fácil de preparar,"
+  },
+  {
+   "i": 1117,
+   "src": "120651139310",
+   "t": "lo cual es estupendo."
+  },
+  {
+   "i": 1124,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1130,
+   "src": "333064b655ba",
+   "t": "Hay un límite para lo fácil."
+  },
+  {
+   "i": 1133,
+   "src": "77b42238319a",
+   "t": "Con {{robattle}}, qué dirá la presidenta..."
+  },
+  {
+   "i": 1140,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1146,
+   "src": "6447006caffb",
+   "t": "Mmm."
+  },
+  {
+   "i": 1149,
+   "src": "fa8f91958b56",
+   "t": "Bien, hagamos esto entonces."
+  },
+  {
+   "i": 1157,
+   "src": "3e0e8b273fe2",
+   "t": "Hay muchos objetivos para practicar"
+  },
+  {
+   "i": 1160,
+   "src": "18589800925e",
+   "t": "robobatalla en el depósito de chatarra."
+  },
+  {
+   "i": 1168,
+   "src": "686b1fafdc07",
+   "t": "Será un juego donde compites para ver"
+  },
+  {
+   "i": 1171,
+   "src": "2694c85c0f7e",
+   "t": "cuántos objetivos puedes derribar."
+  },
+  {
+   "i": 1179,
+   "src": "ba62358296f6",
+   "t": "Seremos los rivales. Como en feria:"
+  },
+  {
+   "i": 1182,
+   "src": "f6e7bf268a07",
+   "t": "quien destruya más objetivos, gana."
+  },
+  {
+   "i": 1190,
+   "src": "3879bb1e45e4",
+   "t": "El ganador recibe la contraseña..."
+  },
+  {
+   "i": 1193,
+   "src": "af79158af92c",
+   "t": "Sí, está bien así. Quedó decidido."
+  },
+  {
+   "i": 1200,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1209,
+   "src": "6a6b75035164",
+   "t": "Está bien, pero..."
+  },
+  {
+   "i": 1217,
+   "src": "a8ae27bca0e1",
+   "t": "Hay que dar la contraseña a todos, ¿no?"
+  },
+  {
+   "i": 1220,
+   "src": "2d4452ce60ca",
+   "t": "¿Perderás a propósito ante todos?"
+  },
+  {
+   "i": 1230,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1239,
+   "src": "b368003fd97a",
+   "t": "Sí. Cada vez se pone"
+  },
+  {
+   "i": 1242,
+   "src": "572162444a60",
+   "t": "más fácil, lo cual es genial."
+  },
+  {
+   "i": 1252,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1258,
+   "src": "67a4fea580eb",
+   "t": "No, eso no se vería bien."
+  },
+  {
+   "i": 1261,
+   "src": "42a20aefa4fc",
+   "t": "Fuimos los campeones del torneo."
+  },
+  {
+   "i": 1271,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1277,
+   "src": "392896f17e54",
+   "t": "Mmm... Bien, hagamos esto"
+  },
+  {
+   "i": 1280,
+   "src": "09566ff30b12",
+   "t": "informal, pero en serio."
+  },
+  {
+   "i": 1288,
+   "src": "984cd2b45c0f",
+   "t": "Eso en realidad es más difícil."
+  },
+  {
+   "i": 1293,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1299,
+   "src": "da55956f9710",
+   "t": "Primero demos lo mejor. Luego,"
+  },
+  {
+   "i": 1302,
+   "src": "7f8cca574cf4",
+   "t": "a su tiempo, bajamos el ritmo."
+  },
+  {
+   "i": 1309,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1315,
+   "src": "6e4764cb7fd9",
+   "t": "Entendido."
+  },
+  {
+   "i": 1322,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1328,
+   "src": "c4f81ba9229f",
+   "t": "Uf, por fin, se acabó. Sonaba simple,"
+  },
+  {
+   "i": 1331,
+   "src": "bcdef5539d9f",
+   "t": "pero me alegra que lo habláramos."
+  },
+  {
+   "i": 1338,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1347,
+   "src": "00a4ea100c64",
+   "t": "...Oye."
+  },
+  {
+   "i": 1354,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1363,
+   "src": "91908cc727dc",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1370,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1379,
+   "src": "6025d269ffad",
+   "t": "Si sobra tiempo, ¿hagamos las misiones"
+  },
+  {
+   "i": 1382,
+   "src": "1a6eec0201ec",
+   "t": "de {{explore}} de {{medalia|pl}} restantes?"
+  },
+  {
+   "i": 1389,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1398,
+   "src": "c0cf70cf166c",
+   "t": "Vaya,"
+  },
+  {
+   "i": 1401,
+   "src": "3bac6ba8e65c",
+   "t": "te ves bastante motivada."
+  },
+  {
+   "i": 1408,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1417,
+   "src": "cfed66c87f86",
+   "t": "Para nada. Solo quiero conseguirla"
+  },
+  {
+   "i": 1420,
+   "src": "8c2b27a48ae2",
+   "t": "ahora antes de que otro la tome."
+  }
+ ]
+}

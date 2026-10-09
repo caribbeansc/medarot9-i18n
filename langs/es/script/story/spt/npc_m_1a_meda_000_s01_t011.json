@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_1a_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c5839dad975a",
+   "t": "{{g_o_death}}"
+  },
+  {
+   "i": 1038,
+   "src": "9b1fa2ae519f",
+   "t": "Este es el {{locker_room}} de los chicos."
+  },
+  {
+   "i": 1041,
+   "src": "1b83c31a971c",
+   "t": "Los del {{club}} deportivo se cambian aquí."
+  },
+  {
+   "i": 1049,
+   "src": "1405098a265d",
+   "t": "¡Las chicas no pueden entrar aquí!"
+  },
+  {
+   "i": 1052,
+   "src": "219c88abb52f",
+   "t": "¡Pero los {{medabot|pl}} sí pueden!"
+  }
+ ]
+}

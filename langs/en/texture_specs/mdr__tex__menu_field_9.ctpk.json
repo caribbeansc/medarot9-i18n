@@ -1,0 +1,116 @@
+{
+ "rel": "mdr/tex/menu_field_9.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond",
+  "cap": 8.5,
+  "align": "center",
+  "valign": "middle",
+  "fill": "#FFFFFF",
+  "stroke": "#090000A0",
+  "stroke_w": 1,
+  "pad": 0,
+  "min_scale_x": 0.7,
+  "crisp": 0.4,
+  "tracking": 0.3
+ },
+ "items": [
+  {
+   "box": [
+    94,
+    62,
+    38,
+    15
+   ],
+   "text": "Hall",
+   "cap": 9
+  },
+  {
+   "box": [
+    134,
+    62,
+    48,
+    15
+   ],
+   "text": "Cyber",
+   "cap": 9
+  },
+  {
+   "box": [
+    183,
+    62,
+    28,
+    15
+   ],
+   "text": "Water"
+  },
+  {
+   "box": [
+    212,
+    62,
+    28,
+    15
+   ],
+   "text": "Sky"
+  },
+  {
+   "box": [
+    94,
+    77,
+    28,
+    15
+   ],
+   "text": "Plains"
+  },
+  {
+   "box": [
+    123,
+    77,
+    28,
+    15
+   ],
+   "text": "Sand"
+  },
+  {
+   "box": [
+    152,
+    77,
+    28,
+    15
+   ],
+   "text": "Tundra",
+   "cap": 8,
+   "tracking": 0.1
+  },
+  {
+   "box": [
+    181,
+    77,
+    28,
+    15
+   ],
+   "text": "Shore"
+  },
+  {
+   "box": [
+    210,
+    77,
+    28,
+    15
+   ],
+   "text": "Rocks"
+  },
+  {
+   "box": [
+    94,
+    91,
+    28,
+    15
+   ],
+   "text": "Forest",
+   "cap": 8,
+   "tracking": 0
+  }
+ ]
+}

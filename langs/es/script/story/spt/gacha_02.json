@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/gacha_02.spt",
+ "lines": [
+  {
+   "i": 1295,
+   "src": "eb5a066936b8",
+   "t": "¡Es una {{medagacha}} DX!"
+  },
+  {
+   "i": 1298,
+   "src": "6ef0ac66b757",
+   "t": "Cada tirada: 5 monedas MedaGacha.       "
+  },
+  {
+   "i": 1306,
+   "src": "f1456ad2aef6",
+   "t": "¿Qué hago?"
+  },
+  {
+   "i": 1307,
+   "src": "9d27f405a4a7",
+   "t": "Hacerlo"
+  },
+  {
+   "i": 1308,
+   "src": "eb5532fe54eb",
+   "t": "No hacerlo"
+  },
+  {
+   "i": 1312,
+   "src": "9d27f405a4a7",
+   "t": "Hacerlo"
+  },
+  {
+   "i": 1325,
+   "src": "eb5532fe54eb",
+   "t": "No hacerlo"
+  },
+  {
+   "i": 1331,
+   "src": "529e3e745130",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1334,
+   "src": "76d74c0b1b9e",
+   "t": "Mejor lo dejo."
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f10_050_231_00_t001.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "b62f36593c2f",
+   "t": "*Al entrar o por disparador (según el\ntamaño)"
+  },
+  {
+   "i": 1138,
+   "src": "f8d1be620067",
+   "t": "{{rubberobo_grunt}}"
+  },
+  {
+   "i": 1149,
+   "src": "e7af03c8ebfc",
+   "t": "¡Aaah!"
+  },
+  {
+   "i": 1156,
+   "src": "f12a8df769d6",
+   "t": "{{rubberobo_grunt_character}}"
+  },
+  {
+   "i": 1165,
+   "src": "c19308803a8d",
+   "t": "¡Ayúdenme, {{robo}}~!"
+  },
+  {
+   "i": 1181,
+   "src": "18aa7bf75330",
+   "t": "*Desde fuera (al avanzar)"
+  },
+  {
+   "i": 1184,
+   "src": "8df5587955c6",
+   "t": "varios de la Banda entran y salen"
+  },
+  {
+   "i": 1189,
+   "src": "91c857e06f73",
+   "t": "*Varios puntos de relevo en la ruta"
+  },
+  {
+   "i": 1192,
+   "src": "40972cb8a0b6",
+   "t": "al fondo / cambios solo de texto"
+  },
+  {
+   "i": 1203,
+   "src": "f8d1be620067",
+   "t": "{{rubberobo_grunt}}"
+  },
+  {
+   "i": 1214,
+   "src": "3f706d7d0194",
+   "t": "¡Huyamos, {{robo}}~!"
+  },
+  {
+   "i": 1222,
+   "src": "c4f53c671999",
+   "t": "Quiero dinero, {{robo}}~"
+  },
+  {
+   "i": 1225,
+   "src": "6ee2ae12d1a5",
+   "t": "¡No quiero morir, {{robo}}~!"
+  },
+  {
+   "i": 1232,
+   "src": "f12a8df769d6",
+   "t": "{{rubberobo_grunt_character}}"
+  },
+  {
+   "i": 1241,
+   "src": "494a45c95e1d",
+   "t": "¡Te dije que pararas!"
+  },
+  {
+   "i": 1244,
+   "src": "51a87729803b",
+   "t": "¡{{robo|cap}}~!"
+  },
+  {
+   "i": 1252,
+   "src": "53131717158e",
+   "t": "¡Es la primera vez que oigo eso, {{robo}}~!"
+  },
+  {
+   "i": 1268,
+   "src": "1dc35f7eeab8",
+   "t": "*etc."
+  }
+ ]
+}

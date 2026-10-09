@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f04_050_131_20_t032.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "a84e84f375b2",
+   "t": "En pelea real, el mejor del lugar."
+  },
+  {
+   "i": 1038,
+   "src": "fc9611106601",
+   "t": "También ama el cuerpo a cuerpo."
+  },
+  {
+   "i": 1046,
+   "src": "62f71c7fb0b9",
+   "t": "¡El equipo del {{club|cap}} de Artes Marciales!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0aa09d142d03",
+   "t": "2nd-Yr Boy C"
+  },
+  {
+   "i": 1035,
+   "src": "0b2ba5e3f117",
+   "t": "Damn, hang in there!"
+  },
+  {
+   "i": 1038,
+   "src": "a1b5d23b25ec",
+   "t": "It's okay, just a bit more to {{full_charge}}!\n(Temp)"
+  }
+ ]
+}

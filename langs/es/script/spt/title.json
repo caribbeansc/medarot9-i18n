@@ -1,0 +1,150 @@
+{
+ "file": "spt/title.spt",
+ "lines": [
+  {
+   "i": 1761,
+   "src": "27d43eae9759",
+   "t": "Juego completado."
+  },
+  {
+   "i": 1762,
+   "src": "85cc1735ee80",
+   "t": "¿Quieres heredar los datos?      "
+  },
+  {
+   "i": 1915,
+   "src": "86215e7f1b55",
+   "t": "Si guardas jugando \"Nueva partida\",               "
+  },
+  {
+   "i": 1918,
+   "src": "080e287dfbc9",
+   "t": "los datos de eventos adicionales"
+  },
+  {
+   "i": 1921,
+   "src": "ac1b1073dcf4",
+   "t": "se borrarán. ¿Jugar desde el inicio?            "
+  },
+  {
+   "i": 1931,
+   "src": "1961fff0ee57",
+   "t": "Si guardas jugando \"Continuar\",       "
+  },
+  {
+   "i": 1934,
+   "src": "080e287dfbc9",
+   "t": "los datos de eventos adicionales"
+  },
+  {
+   "i": 1937,
+   "src": "289dac80c24e",
+   "t": "se borrarán. ¿Jugar desde la continuación?          "
+  },
+  {
+   "i": 2006,
+   "src": "fda8ad2f412b",
+   "t": "Error al cargar los datos."
+  },
+  {
+   "i": 2021,
+   "src": "b350013ed22c",
+   "t": "¿Quieres recibir por SpotPass"
+  },
+  {
+   "i": 2022,
+   "src": "7fce0222aa06",
+   "t": "noticias y regalos"
+  },
+  {
+   "i": 2023,
+   "src": "91cc3ed3d894",
+   "t": "de \"Medarot 9\"?"
+  },
+  {
+   "i": 2062,
+   "src": "59148f798463",
+   "t": "Creando datos adicionales nuevos. "
+  },
+  {
+   "i": 2105,
+   "src": "c3c1c994de78",
+   "t": "Datos adicionales creados.        "
+  },
+  {
+   "i": 2121,
+   "src": "fe40f99de9f0",
+   "t": "No se reconoce la tarjeta SD."
+  },
+  {
+   "i": 2122,
+   "src": "37e12cdf6585",
+   "t": "Por eso no puedes usar SpotPass."
+  },
+  {
+   "i": 2131,
+   "src": "e796aa663777",
+   "t": "La tarjeta SD esta protegida."
+  },
+  {
+   "i": 2132,
+   "src": "37e12cdf6585",
+   "t": "Por eso no puedes usar SpotPass."
+  },
+  {
+   "i": 2141,
+   "src": "9052d079b88e",
+   "t": "No hay espacio en la tarjeta SD."
+  },
+  {
+   "i": 2142,
+   "src": "37e12cdf6585",
+   "t": "Por eso no puedes usar SpotPass."
+  },
+  {
+   "i": 2151,
+   "src": "fe40f99de9f0",
+   "t": "No se reconoce la tarjeta SD."
+  },
+  {
+   "i": 2152,
+   "src": "37e12cdf6585",
+   "t": "Por eso no puedes usar SpotPass."
+  },
+  {
+   "i": 2174,
+   "src": "59148f798463",
+   "t": "Creando datos adicionales nuevos.     "
+  },
+  {
+   "i": 2199,
+   "src": "fe40f99de9f0",
+   "t": "No se pudo reconocer la tarjeta SD."
+  },
+  {
+   "i": 2211,
+   "src": "e796aa663777",
+   "t": "Tarjeta SD protegida contra escritura."
+  },
+  {
+   "i": 2223,
+   "src": "9052d079b88e",
+   "t": "Espacio insuficiente en la tarjeta SD."
+  },
+  {
+   "i": 2235,
+   "src": "fe40f99de9f0",
+   "t": "No se pudo reconocer la tarjeta SD."
+  },
+  {
+   "i": 2243,
+   "src": "37e12cdf6585",
+   "t": "Por eso no puedes usar SpotPass."
+  },
+  {
+   "i": 2244,
+   "src": "4b7ab5a84347",
+   "t": "¿Detener la distribución de SpotPass?"
+  }
+ ]
+}

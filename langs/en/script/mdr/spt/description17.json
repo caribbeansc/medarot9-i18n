@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description17.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a3482ce2d1c6",
+   "t": "{{leader|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "748e6b870832",
+   "t": "The <c:ffff00>{{medabot}}<c> chosen in each <c:ffff00>{{robattle}}<c> as the team's\nboss.\nIf the {{leader}} is <c:ffff00>{{knocked_out}}<c>, the team loses\nregardless of the state of the other {{medabot|pl}}.\n\nOnly the {{leader}} has certain privileges: the <c:ffff00>{{leader}}<c>\n<c:ffff00>{{effect}}<c> of its <c:ffff00>{{medal}}<c> activates and, with an EX <c:ffff00>{{part}}<c> set\nup in advance, it can swap {{part|pl}} during the {{robattle}}\n(<c:ffff00>{{trans_part}}<c>)."
+  }
+ ]
+}

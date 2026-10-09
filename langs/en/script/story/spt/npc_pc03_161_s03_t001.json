@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc03_161_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "8942690aad75",
+   "t": "Wow, this is fascinating."
+  },
+  {
+   "i": 1038,
+   "src": "a79042762ecf",
+   "t": "Fascinating, but difficult."
+  },
+  {
+   "i": 1046,
+   "src": "064733ce8664",
+   "t": "A restoration tool for memory crystals "
+  },
+  {
+   "i": 1049,
+   "src": "9391aa97e6fb",
+   "t": "isn't something you can just get on\nrequest."
+  },
+  {
+   "i": 1057,
+   "src": "2d44ceb976da",
+   "t": "I guess I'll have to build it by hand,\nstarting from the hardware."
+  },
+  {
+   "i": 1060,
+   "src": "e478fb192942",
+   "t": "No, no--"
+  },
+  {
+   "i": 1068,
+   "src": "d87d43f241d1",
+   "t": "If I can just manage the connector,"
+  },
+  {
+   "i": 1071,
+   "src": "5ec3ae7f0b2b",
+   "t": "the insides are probably the same..."
+  },
+  {
+   "i": 1079,
+   "src": "020a79730ca5",
+   "t": "The problem is..."
+  },
+  {
+   "i": 1087,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

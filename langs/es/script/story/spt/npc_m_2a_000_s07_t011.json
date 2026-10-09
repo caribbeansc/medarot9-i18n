@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2a_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1038,
+   "src": "57fa7c209582",
+   "t": "Estoy agotado de ensayar a diario."
+  },
+  {
+   "i": 1041,
+   "src": "69c936c65959",
+   "t": "El festival es clave pal {{club|cap}} de Banda."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1a_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1038,
+   "src": "f8012384efa5",
+   "t": "Pronto es el torneo de {{robattle|pl}}\nentre clubes, ¿no? Queríamos ganarlo"
+  },
+  {
+   "i": 1046,
+   "src": "6d7801475826",
+   "t": "con el Senpai, cuando Ichi-san"
+  },
+  {
+   "i": 1049,
+   "src": "f90e2041c251",
+   "t": "del {{ski_club}} entró."
+  },
+  {
+   "i": 1057,
+   "src": "9813a7dd96f7",
+   "t": "Sin darme cuenta, los dos empezaron"
+  },
+  {
+   "i": 1060,
+   "src": "d29d9f1e3a21",
+   "t": "una robobatalla. \"¡La eliminatoria!\""
+  },
+  {
+   "i": 1068,
+   "src": "90776dd7e31b",
+   "t": "Las prácticas ya"
+  },
+  {
+   "i": 1071,
+   "src": "73921b61e91d",
+   "t": "empezaron. ¡Yo me apunto!"
+  }
+ ]
+}

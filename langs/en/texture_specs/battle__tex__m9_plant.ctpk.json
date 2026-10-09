@@ -1,0 +1,88 @@
+{
+ "rel": "battle/tex/m9_plant.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    152,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    1,
+    147,
+    30
+   ],
+   "erase": "none",
+   "text": "PLANT  ACTIVATED!",
+   "font": "sf-compressed",
+   "italic_skew": 0.2,
+   "cap": 17.5,
+   "tracking": 0.2,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFFF"
+     ],
+     [
+      0.07,
+      "#88EEFF"
+     ],
+     [
+      0.44,
+      "#EEFFFF"
+     ],
+     [
+      0.5,
+      "#44AAEE"
+     ],
+     [
+      0.6,
+      "#0077EE"
+     ],
+     [
+      0.72,
+      "#0099EE"
+     ],
+     [
+      0.86,
+      "#33BBEE"
+     ],
+     [
+      1,
+      "#66CCDD"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#0090A0",
+     "w": 1.3
+    },
+    {
+     "color": "#006677",
+     "w": 1.2
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.0
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#FFFFFF",
+    "opacity": 1
+   }
+  }
+ ]
+}

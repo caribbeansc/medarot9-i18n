@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f04_030_115_00_t033.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1035,
+   "src": "5780ed0e379e",
+   "t": "What's wrong?"
+  },
+  {
+   "i": 1038,
+   "src": "32c4ebc15f4c",
+   "t": "Didn't you go to see the {{teacher}}?"
+  },
+  {
+   "i": 1045,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1054,
+   "src": "8cb06cf38b07",
+   "t": "I..."
+  },
+  {
+   "i": 1067,
+   "src": "aa1c6046e64d",
+   "t": "That was my plan, but"
+  },
+  {
+   "i": 1070,
+   "src": "6beed0a7646e",
+   "t": "I don't know where the {{staff_room}} is."
+  },
+  {
+   "i": 1077,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1086,
+   "src": "861f683df6f2",
+   "t": "Oh, so that's what happened~."
+  },
+  {
+   "i": 1096,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1102,
+   "src": "08f1bdb24f97",
+   "t": "Then I'll show you the way."
+  },
+  {
+   "i": 1112,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1118,
+   "src": "ec11bee3493f",
+   "t": "No, I will!"
+  },
+  {
+   "i": 1127,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1136,
+   "src": "9ea703cbd370",
+   "t": "Thank you so much!"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "rel": "mdr/tex/bt_list_shp.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "compact-rounded-heavy",
+  "cap": 8,
+  "crisp": 0.4,
+  "stroke": null,
+  "align": "center",
+  "valign": "middle",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    170,
+    10,
+    12,
+    10
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    171,
+    9,
+    10,
+    11
+   ],
+   "erase": "none",
+   "text": "Y",
+   "baseline": 19,
+   "fill": "#B4B4B4A4"
+  },
+  {
+   "box": [
+    170,
+    34,
+    12,
+    10
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    171,
+    33,
+    10,
+    11
+   ],
+   "erase": "none",
+   "text": "Y",
+   "baseline": 43,
+   "fill": "#E3E3E3A4"
+  },
+  {
+   "box": [
+    193,
+    114,
+    14,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    192,
+    112,
+    16,
+    12
+   ],
+   "erase": "none",
+   "text": "u.",
+   "baseline": 122,
+   "fill": "#B4B4B4B0"
+  },
+  {
+   "box": [
+    209,
+    114,
+    14,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    208,
+    112,
+    16,
+    12
+   ],
+   "erase": "none",
+   "text": "u.",
+   "baseline": 122,
+   "fill": "#B4B4B4B0"
+  },
+  {
+   "box": [
+    225,
+    114,
+    14,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    224,
+    112,
+    16,
+    12
+   ],
+   "erase": "none",
+   "text": "u.",
+   "baseline": 122,
+   "fill": "#B4B4B4B0"
+  },
+  {
+   "box": [
+    241,
+    114,
+    14,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    240,
+    112,
+    16,
+    12
+   ],
+   "erase": "none",
+   "text": "u.",
+   "baseline": 122,
+   "fill": "#B4B4B4B0"
+  }
+ ]
+}

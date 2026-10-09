@@ -1,0 +1,179 @@
+{
+ "rel": "battle/tex/cp2_w_data.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "solid:auto",
+  "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+  "cap": 5,
+  "fill": "#BBBBBB",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 1,
+  "align": "left",
+  "min_scale_x": 1
+ },
+ "items": [
+  {
+   "box": [
+    11,
+    4,
+    18,
+    9
+   ],
+   "baseline": 10,
+   "erase_box": [
+    6,
+    3,
+    27,
+    10
+   ],
+   "text": "Habil."
+  },
+  {
+   "box": [
+    9,
+    15,
+    14,
+    9
+   ],
+   "baseline": 21,
+   "erase_box": [
+    7,
+    13,
+    18,
+    10
+   ],
+   "text": "Tec."
+  },
+  {
+   "erase_box": [
+    6,
+    26,
+    20,
+    6
+   ],
+   "text": ""
+  },
+  {
+   "erase_box": [
+    53,
+    26,
+    24,
+    6
+   ],
+   "text": ""
+  },
+  {
+   "box": [
+    112,
+    0,
+    17,
+    9
+   ],
+   "baseline": 6,
+   "erase_box": [
+    110,
+    0,
+    20,
+    9
+   ],
+   "text": "Exito"
+  },
+  {
+   "box": [
+    115,
+    15,
+    13,
+    9
+   ],
+   "baseline": 21,
+   "erase_box": [
+    109,
+    9,
+    24,
+    15
+   ],
+   "text": "Pot."
+  },
+  {
+   "box": [
+    160,
+    0,
+    19,
+    9
+   ],
+   "baseline": 6,
+   "erase_box": [
+    159,
+    0,
+    21,
+    9
+   ],
+   "text": "Carga"
+  },
+  {
+   "box": [
+    162,
+    15,
+    17,
+    9
+   ],
+   "baseline": 21,
+   "erase_box": [
+    156,
+    9,
+    26,
+    15
+   ],
+   "text": "Enfr."
+  },
+  {
+   "box": [
+    212,
+    7,
+    16,
+    9
+   ],
+   "baseline": 13,
+   "erase_box": [
+    210,
+    0,
+    19,
+    15
+   ],
+   "text": "Disp."
+  },
+  {
+   "box": [
+    233,
+    7,
+    20,
+    9
+   ],
+   "baseline": 13,
+   "erase_box": [
+    232,
+    0,
+    21,
+    15
+   ],
+   "text": "Comb."
+  },
+  {
+   "box": [
+    209,
+    22,
+    20,
+    9
+   ],
+   "baseline": 28,
+   "erase_box": [
+    209,
+    15,
+    20,
+    16
+   ],
+   "text": "Movil."
+  }
+ ]
+}

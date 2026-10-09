@@ -1,0 +1,396 @@
+{
+ "rel": "mdr/tex/mdr_bg_98.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    9,
+    39,
+    33,
+    9
+   ],
+   "text": "DISPARO",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#122830",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    10,
+    38,
+    28,
+    11
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    63,
+    33,
+    8
+   ],
+   "text": "COMBATE",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#401A21",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    10,
+    62,
+    28,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    87,
+    33,
+    8
+   ],
+   "text": "APOYO",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#3D3014",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    10,
+    86,
+    28,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    111,
+    33,
+    8
+   ],
+   "text": "CURACION",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#243A11",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    12,
+    110,
+    24,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    135,
+    33,
+    8
+   ],
+   "text": "DEFENSA",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#133030",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    14,
+    134,
+    22,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    159,
+    33,
+    8
+   ],
+   "text": "TRAMPA",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#281730",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    9,
+    158,
+    29,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    411,
+    69,
+    32,
+    9
+   ],
+   "text": "CABEZA",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F4F4F4",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    418,
+    70,
+    22,
+    7
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    407.5,
+    93,
+    32,
+    10
+   ],
+   "text": "BR.DER.",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F4F4F4",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    413,
+    94,
+    23,
+    8
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    403.5,
+    118,
+    32,
+    10
+   ],
+   "text": "BR.IZQ.",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F4F4F4",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    409,
+    119,
+    22,
+    8
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    404.5,
+    142,
+    32,
+    10
+   ],
+   "text": "PIERN.",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F4F4F4",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    406,
+    143,
+    26,
+    8
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    429,
+    169,
+    26,
+    8
+   ],
+   "text": "BLIND.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#4A4A4A",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    430,
+    170,
+    24,
+    6
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    71,
+    5,
+    36,
+    7
+   ],
+   "erase_box": [
+    69,
+    5,
+    31,
+    7
+   ],
+   "erase": "hfill",
+   "text": "MEDALLA",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#404040",
+   "pad": 0,
+   "align": "left",
+   "valign": "middle",
+   "baseline": 11
+  },
+  {
+   "box": [
+    71,
+    19,
+    36,
+    7
+   ],
+   "erase_box": [
+    71,
+    19,
+    22,
+    7
+   ],
+   "erase": "hfill",
+   "text": "NOMBRE",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#BFBFBF",
+   "pad": 0,
+   "align": "left",
+   "valign": "middle",
+   "baseline": 25
+  },
+  {
+   "box": [
+    176,
+    9,
+    22,
+    10
+   ],
+   "erase_box": [
+    175,
+    9,
+    17,
+    10
+   ],
+   "erase": "hfill",
+   "text": "NV.",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#000000",
+   "pad": 0,
+   "align": "left",
+   "valign": "middle",
+   "baseline": 17
+  },
+  {
+   "box": [
+    46,
+    42,
+    20,
+    8
+   ],
+   "erase_box": [
+    46,
+    42,
+    16,
+    8
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "text": "NV.",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F0F0F0",
+   "pad": 0,
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

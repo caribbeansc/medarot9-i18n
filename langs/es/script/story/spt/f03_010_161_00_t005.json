@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f03_010_161_00_t005.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "543e8df01704",
+   "t": "¿Es el que "
+  },
+  {
+   "i": 1044,
+   "src": "34ac09589f27",
+   "t": " recogió hace rato?"
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "be8f55742378",
+   "t": "Sí."
+  },
+  {
+   "i": 1067,
+   "src": "c0270c455333",
+   "t": "El Cristal de Memoria."
+  },
+  {
+   "i": 1075,
+   "src": "053a8bc83ad9",
+   "t": "Casi no quedan registros de la"
+  },
+  {
+   "i": 1078,
+   "src": "1a86f728c8a6",
+   "t": "minería, así que esto es valiosísimo."
+  },
+  {
+   "i": 1086,
+   "src": "a478f72fd6fd",
+   "t": "Leer los datos de este cristal "
+  },
+  {
+   "i": 1089,
+   "src": "9f3ca2e809d9",
+   "t": "parece difícil, pero si lo logramos..."
+  },
+  {
+   "i": 1097,
+   "src": "0bf5ce92ff60",
+   "t": "creo que descubriremos algo"
+  },
+  {
+   "i": 1100,
+   "src": "a5e8a5568bd9",
+   "t": "muy interesante~."
+  },
+  {
+   "i": 1107,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1113,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1116,
+   "src": "e814bbd8da41",
+   "t": "No creo poder ayudar mucho."
+  }
+ ]
+}

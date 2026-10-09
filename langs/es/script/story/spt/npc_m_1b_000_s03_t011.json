@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1b_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "f97b38f025b7",
+   "t": "Pensé que me golpearía más fuerte,"
+  },
+  {
+   "i": 1041,
+   "src": "c3a208eb430f",
+   "t": "pero no fue tan malo como esperaba"
+  },
+  {
+   "i": 1049,
+   "src": "47d9595b4201",
+   "t": "¿Eh? ¿A qué te refieres?"
+  },
+  {
+   "i": 1052,
+   "src": "67e23ef1aac0",
+   "t": "A la nostalgia, a extrañar mi casa."
+  },
+  {
+   "i": 1060,
+   "src": "78cc5d1d1c10",
+   "t": "Recibo videollamadas todo el tiempo,"
+  },
+  {
+   "i": 1063,
+   "src": "461b81228a76",
+   "t": "así que no siento que esté tan lejos."
+  },
+  {
+   "i": 1071,
+   "src": "41a1a29b64f2",
+   "t": "¿Y tú qué tal?"
+  }
+ ]
+}

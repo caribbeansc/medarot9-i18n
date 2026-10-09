@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f08_170_339_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "dbc4ba3f4479",
+   "t": "¿Estás herido?"
+  },
+  {
+   "i": 1043,
+   "src": "a141cef38dae",
+   "t": "E-estoy bien."
+  },
+  {
+   "i": 1048,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1054,
+   "src": "2567d5287753",
+   "t": "¡Bien!"
+  },
+  {
+   "i": 1057,
+   "src": "e49372bb274e",
+   "t": "Bueno, regresemos."
+  },
+  {
+   "i": 1064,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1070,
+   "src": "0ab4eeea581a",
+   "t": "¡Entendido!"
+  }
+ ]
+}

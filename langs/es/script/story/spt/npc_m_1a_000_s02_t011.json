@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1a_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "59a0ab151899",
+   "t": "{{boy_1_a}}"
+  },
+  {
+   "i": 1035,
+   "src": "f8012384efa5",
+   "t": "Pronto será el torneo de {{robattle|pl}}\nentre clubes, ¿no?"
+  },
+  {
+   "i": 1043,
+   "src": "6d7801475826",
+   "t": "Soñábamos con ganarlo con el Senpai,"
+  },
+  {
+   "i": 1046,
+   "src": "b9a966ad3190",
+   "t": "cuando ___ del {{ski_club}} entró-"
+  },
+  {
+   "i": 1054,
+   "src": "9813a7dd96f7",
+   "t": "Sin darme cuenta, los dos empezaron"
+  },
+  {
+   "i": 1057,
+   "src": "d29d9f1e3a21",
+   "t": "una robobatalla. \"¡La eliminatoria!\""
+  },
+  {
+   "i": 1065,
+   "src": "90776dd7e31b",
+   "t": "Ya empezaron las prácticas."
+  },
+  {
+   "i": 1068,
+   "src": "73921b61e91d",
+   "t": "Si es así, yo me apunto."
+  }
+ ]
+}

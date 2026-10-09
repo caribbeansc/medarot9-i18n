@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f02_150_211_00_t015.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "b7cf7252ae87",
+   "t": "Recuerdas nuestra promesa, ¿verdad?"
+  },
+  {
+   "i": 1061,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1070,
+   "src": "db1ab762230c",
+   "t": "Se me olvidó."
+  },
+  {
+   "i": 1077,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1086,
+   "src": "57b9456b38ce",
+   "t": "No, no, no, no."
+  },
+  {
+   "i": 1093,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1102,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1113,
+   "src": "512a314ad7d5",
+   "t": "Está bien."
+  },
+  {
+   "i": 1128,
+   "src": "f2c0dfda11b2",
+   "t": "En fin."
+  },
+  {
+   "i": 1131,
+   "src": "74c3347a3133",
+   "t": "Me uniré a ese {{club}} como-se-llame."
+  },
+  {
+   "i": 1138,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1147,
+   "src": "315ea5f1fc10",
+   "t": "Es el {{exploration_club}}~."
+  }
+ ]
+}

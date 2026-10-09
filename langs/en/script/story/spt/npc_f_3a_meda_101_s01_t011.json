@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3a_meda_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "36488050f240",
+   "t": "3rd-Yr Girl A's Medabot"
+  },
+  {
+   "i": 1035,
+   "src": "ef04775fdac2",
+   "t": "Hey, hey, master, let's go outside!"
+  },
+  {
+   "i": 1038,
+   "src": "3e124770c8c3",
+   "t": "I wanna run around as much as I can!"
+  }
+ ]
+}

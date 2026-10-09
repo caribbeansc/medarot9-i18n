@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2e_meda_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "cf697f1bc64f",
+   "t": "{{haikara_mate}}"
+  },
+  {
+   "i": 1038,
+   "src": "55ed0cac60e3",
+   "t": "I'm not really into the tournament."
+  },
+  {
+   "i": 1041,
+   "src": "b479fa472ba4",
+   "t": "I'm afraid my parasol will get scratched."
+  }
+ ]
+}

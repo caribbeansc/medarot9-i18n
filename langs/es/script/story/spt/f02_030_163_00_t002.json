@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f02_030_163_00_t002.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "2ab348386af6",
+   "t": "H-hola."
+  },
+  {
+   "i": 1054,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1060,
+   "src": "9350f8b75d0f",
+   "t": "Tú eres {{aoi}}-san, ¿verdad?"
+  },
+  {
+   "i": 1074,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1083,
+   "src": "0e1369f35c40",
+   "t": "Sí, así es."
+  },
+  {
+   "i": 1093,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1102,
+   "src": "0c22df281bd1",
+   "t": "Hay algo que quiero preguntarte."
+  },
+  {
+   "i": 1105,
+   "src": "1fdb561c5fb7",
+   "t": "¿Está bien?"
+  },
+  {
+   "i": 1112,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1121,
+   "src": "4e7267a8fc0c",
+   "t": "¿Qué sucede?"
+  },
+  {
+   "i": 1128,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1138,
+   "src": "86c42dc483c2",
+   "t": "... ¿la conoces? "
+  },
+  {
+   "i": 1145,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1155,
+   "src": "afb7dca98787",
+   "t": "..."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1038,
+   "src": "82ed67c455d2",
+   "t": "Ya me acordé."
+  },
+  {
+   "i": 1041,
+   "src": "dbdd75499740",
+   "t": "Hay un helipuerto en la {{rooftop}}, ¿no?"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "file": "mdr/spt/tournament_battle_tuto.spt",
+ "lines": [
+  {
+   "i": 1099,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 1107,
+   "src": "fe977f707b28",
+   "t": "If the {{opponent}} has that many,"
+  },
+  {
+   "i": 1110,
+   "src": "eb97cd618a7a",
+   "t": "it'll be an <c:ff00ff>elimination {{robattle}}<c>...!"
+  },
+  {
+   "i": 1118,
+   "src": "87d7468bb605",
+   "t": "An elimination {{robattle}}...?"
+  },
+  {
+   "i": 1125,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1131,
+   "src": "aa312c4a2d63",
+   "t": "A {{survival_robattle}} is"
+  },
+  {
+   "i": 1134,
+   "src": "d272afe5ea4d",
+   "t": "an all-out fight until you <c:ff00ff>defeat all of\nthe {{opponent}}'s {{medabot|pl}}<c>!"
+  },
+  {
+   "i": 1141,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 1147,
+   "src": "88833c5df176",
+   "t": "In Medabot Select for Survival\n{{robattle|pl}},"
+  },
+  {
+   "i": 1150,
+   "src": "5723f37caf35",
+   "t": "you decide your {{medabot|pl}}' <c:ff00ff>sortie order<c>."
+  },
+  {
+   "i": 1155,
+   "src": "ba27f66529b1",
+   "t": "When a {{medabot}} is shut down,"
+  },
+  {
+   "i": 1158,
+   "src": "c37e71bede19",
+   "t": "the next {{medabot}} joins the {{robattle}} in\nits place."
+  },
+  {
+   "i": 1165,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1171,
+   "src": "81d829a797ce",
+   "t": "The more {{medabot|pl}} you can send out,\nthe better,"
+  },
+  {
+   "i": 1174,
+   "src": "d165399e69e3",
+   "t": "so set up all of your {{tinpet|pl}}!"
+  }
+ ]
+}

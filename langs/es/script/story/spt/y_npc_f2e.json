@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f2e.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1653,
+   "src": "deb8f21c4006",
+   "t": "¿Una {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "c432ec18f37b",
+   "t": "Como sea."
+  }
+ ]
+}

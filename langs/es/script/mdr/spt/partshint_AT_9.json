@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_9.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fa5094d57306",
+   "t": "<c:00ff00>Técnica:<c>Press\nAtaque de {{shooting}} que\nsuma al {{success}} el % de la\n{{charge_gauge}}.\n{{success|cap}} alto y más fácil de\ndar {{critical}}.\nA más piezas pesadas del\n{{opponent}}, mayor {{damage}}."
+  }
+ ]
+}

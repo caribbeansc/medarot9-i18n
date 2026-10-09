@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f00_030_910_00_t012.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "8fbde6a30075",
+   "t": "{{asahi}}"
+  },
+  {
+   "i": 1049,
+   "src": "f759ee357ecb",
+   "t": "¡Llegó el correo!"
+  },
+  {
+   "i": 1052,
+   "src": "5b88cdfbe181",
+   "t": "¡Mira, mira, es un sobre grande!"
+  },
+  {
+   "i": 1057,
+   "src": "3b6ccb998b3e",
+   "t": "El remitente es..."
+  },
+  {
+   "i": 1067,
+   "src": "4a6f1700b464",
+   "t": "¡¡Ta-dan!!"
+  }
+ ]
+}

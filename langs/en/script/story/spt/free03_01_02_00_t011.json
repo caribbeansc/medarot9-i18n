@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/free03_01_02_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "835a8c5d52a0",
+   "t": "{{mission|cap}} '{{explore|cap}}: {{mine_shaft}} {{entrance}}'..."
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1048,
+   "src": "327743f2f2c3",
+   "t": "While hiking, I found an old iron door."
+  },
+  {
+   "i": 1051,
+   "src": "cc4a08ccdbb1",
+   "t": "It might be the entrance to a mine shaft."
+  },
+  {
+   "i": 1062,
+   "src": "c35ca47bf23f",
+   "t": "The entrance to a mine shaft..."
+  },
+  {
+   "i": 1065,
+   "src": "c9bbcb055102",
+   "t": "The one for the {{medalia_mine}}, right!"
+  },
+  {
+   "i": 1070,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1076,
+   "src": "97c4870c1998",
+   "t": "Probably."
+  },
+  {
+   "i": 1084,
+   "src": "862d502502bb",
+   "t": "It's on the east side, around the crater\nrim."
+  },
+  {
+   "i": 1087,
+   "src": "f4b048391994",
+   "t": "Just past where the {{mountains}} and\n{{deep_forest}} {{area}} meets the trail."
+  }
+ ]
+}

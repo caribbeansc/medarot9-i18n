@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_27.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5e93da913a3d",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{pupa}}\nCon la {{charge_gauge}} al\n50% o más reduce el {{damage}}\npor ataques en un 20%."
+  }
+ ]
+}

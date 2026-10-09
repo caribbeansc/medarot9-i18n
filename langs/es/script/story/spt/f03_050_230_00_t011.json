@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/f03_050_230_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "ddee4427d8c3",
+   "t": "Oye, eres ese {{medabot}} de aquella vez,"
+  },
+  {
+   "i": 1035,
+   "src": "879e8ab0f62f",
+   "t": "¿verdad?...¡¿O me equivoco?!"
+  },
+  {
+   "i": 1054,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1064,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1073,
+   "src": "8f8e5481ac2d",
+   "t": "¿Es alguien que conoces?"
+  },
+  {
+   "i": 1084,
+   "src": "1cf95029d51f",
+   "t": "No lo sé..."
+  },
+  {
+   "i": 1092,
+   "src": "e408893ef782",
+   "t": "Justo antes de venir a esta escuela,"
+  },
+  {
+   "i": 1095,
+   "src": "221a8e71faf9",
+   "t": "vi un {{medabot}} muy parecido..."
+  },
+  {
+   "i": 1100,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1106,
+   "src": "f95fc7a539b5",
+   "t": "¿Fuera de la isla?"
+  },
+  {
+   "i": 1109,
+   "src": "b34edc990242",
+   "t": "Si es así, ¿no sería un {{medabot}} distinto?"
+  },
+  {
+   "i": 1120,
+   "src": "0651d50ce4eb",
+   "t": "Si lo piensas con calma, tienes razón."
+  },
+  {
+   "i": 1123,
+   "src": "e901b1fe0b90",
+   "t": "Pero..."
+  },
+  {
+   "i": 1128,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1137,
+   "src": "1eba7719a0c6",
+   "t": "Justo ahora me di cuenta"
+  },
+  {
+   "i": 1140,
+   "src": "614f11c749ad",
+   "t": "¿...no se parecen?"
+  },
+  {
+   "i": 1150,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1164,
+   "src": "5e325e5d4852",
+   "t": "¿Este tipo y "
+  },
+  {
+   "i": 1166,
+   "src": "6f3a35746329",
+   "t": "?"
+  },
+  {
+   "i": 1169,
+   "src": "bf8557bca88a",
+   "t": "Ah... Sí se parecen. Ambos {{type}} Kabuto."
+  },
+  {
+   "i": 1175,
+   "src": "5e325e5d4852",
+   "t": "¿Este y "
+  },
+  {
+   "i": 1177,
+   "src": "6f3a35746329",
+   "t": "?"
+  },
+  {
+   "i": 1180,
+   "src": "634ba51a0dee",
+   "t": "Ah... Sí se parecen. Son {{type}} Kuwagata."
+  }
+ ]
+}

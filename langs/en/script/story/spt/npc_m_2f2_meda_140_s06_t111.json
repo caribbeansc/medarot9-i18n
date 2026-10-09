@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2f2_meda_140_s06_t111.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d2f6527aa504",
+   "t": "King Pharaoh"
+  },
+  {
+   "i": 1035,
+   "src": "e2899d2dfdf1",
+   "t": "Now he's spacing out."
+  },
+  {
+   "i": 1038,
+   "src": "dea5c561a9e2",
+   "t": "My master's definitely acting weird\ntoday."
+  }
+ ]
+}

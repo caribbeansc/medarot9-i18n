@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free06_01_01_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "70e984420e73",
+   "t": "Quest 'Sound Wave Survey: Old Harbor\nTown' started!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "2083fe833d2d",
+   "t": "{{old_harbor_town}} is quickest via the\nmine."
+  },
+  {
+   "i": 1046,
+   "src": "945438b1bcd1",
+   "t": "Let's head west from the mine entrance."
+  }
+ ]
+}

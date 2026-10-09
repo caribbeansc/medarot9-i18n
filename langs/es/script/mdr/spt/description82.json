@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description82.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0c96f5bc8028",
+   "t": "{{best_legs|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "686bcf955f5d",
+   "t": "Los 5 <c:ffff00>tipos de {{legs}}<c> con buena {{affinity}} que tiene\ncada <c:ffff00>{{medal}}<c>.\n\nA la <c:ffff00>{{part}}<c> de {{legs}} cuyo tipo coincide con uno\n{{best_at}} le suben estos <c:ffff00>rendimientos<c>: <c:ffff00>{{mobility}}<c>,\n<c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c>.\n\nSegún el <c:ffff00>{{rank}}<c>: {{bronze}} +2, {{silver}} +4, {{gold}} +6."
+  }
+ ]
+}

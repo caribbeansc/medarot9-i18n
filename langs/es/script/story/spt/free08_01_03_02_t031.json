@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free08_01_03_02_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1035,
+   "src": "2246079540a2",
+   "t": "Ah, la {{medalia}}~."
+  },
+  {
+   "i": 1038,
+   "src": "7e5f768a4193",
+   "t": "Mejor lo hubiera arreglado pagando..."
+  }
+ ]
+}

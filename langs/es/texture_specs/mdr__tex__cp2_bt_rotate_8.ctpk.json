@@ -1,0 +1,81 @@
+{
+ "rel": "mdr/tex/cp2_bt_rotate_8.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "helv-cond-black",
+  "fill": "#1E2639",
+  "stroke": "#FFFFFFB0",
+  "stroke_w": 1,
+  "pad": 0,
+  "crisp": 0.5
+ },
+ "items": [
+  {
+   "box": [
+    1,
+    0,
+    73,
+    13
+   ],
+   "text": "Rotacion",
+   "cap": 8.5,
+   "dy": -1
+  },
+  {
+   "box": [
+    75,
+    0,
+    22,
+    13
+   ],
+   "text": "Datos",
+   "cap": 8,
+   "dy": -1
+  },
+  {
+   "box": [
+    98,
+    0,
+    23,
+    13
+   ],
+   "text": "Anfit.",
+   "cap": 8,
+   "dy": -1
+  },
+  {
+   "box": [
+    17,
+    13,
+    23,
+    13
+   ],
+   "text": "Invit.",
+   "cap": 8,
+   "dy": -1
+  },
+  {
+   "box": [
+    42,
+    13,
+    31,
+    13
+   ],
+   "text": "Volver",
+   "cap": 8.5,
+   "dy": -1
+  },
+  {
+   "box": [
+    74,
+    13,
+    23,
+    13
+   ],
+   "text": "Ver",
+   "cap": 8.5,
+   "dy": -1
+  }
+ ]
+}

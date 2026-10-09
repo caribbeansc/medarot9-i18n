@@ -1,0 +1,1104 @@
+{
+ "rel": "mdr/tex/set_02_win_00.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "font": "tahoma",
+  "cap": 6,
+  "fill": "#2E2E2E",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.4,
+  "align": "left",
+  "valign": "middle"
+ },
+ "items": [
+  {
+   "box": [
+    203,
+    90,
+    45,
+    8
+   ],
+   "erase_box": [
+    202,
+    90,
+    36,
+    8
+   ],
+   "text": "Personality"
+  },
+  {
+   "box": [
+    203,
+    106,
+    45,
+    8
+   ],
+   "erase_box": [
+    202,
+    106,
+    45,
+    8
+   ],
+   "text": "Best Skill"
+  },
+  {
+   "box": [
+    203,
+    122,
+    45,
+    8
+   ],
+   "erase_box": [
+    202,
+    122,
+    46,
+    8
+   ],
+   "text": "Best Legs"
+  },
+  {
+   "box": [
+    203,
+    138,
+    35,
+    8
+   ],
+   "erase_box": [
+    202,
+    138,
+    37,
+    8
+   ],
+   "text": "Medalia"
+  },
+  {
+   "box": [
+    203,
+    153,
+    43,
+    8
+   ],
+   "erase_box": [
+    202,
+    153,
+    29,
+    8
+   ],
+   "text": "Head"
+  },
+  {
+   "box": [
+    203,
+    169,
+    43,
+    8
+   ],
+   "erase_box": [
+    202,
+    169,
+    37,
+    8
+   ],
+   "text": "Legs"
+  },
+  {
+   "box": [
+    203,
+    185,
+    43,
+    8
+   ],
+   "erase_box": [
+    202,
+    185,
+    27,
+    8
+   ],
+   "text": "R-Arm"
+  },
+  {
+   "box": [
+    203,
+    201,
+    43,
+    8
+   ],
+   "erase_box": [
+    202,
+    201,
+    29,
+    8
+   ],
+   "text": "L-Arm"
+  },
+  {
+   "box": [
+    203,
+    218,
+    45,
+    8
+   ],
+   "erase_box": [
+    202,
+    218,
+    44,
+    8
+   ],
+   "text": "Medal Type"
+  },
+  {
+   "box": [
+    133,
+    193,
+    25,
+    8
+   ],
+   "erase_box": [
+    132,
+    193,
+    28,
+    8
+   ],
+   "text": "Skill"
+  },
+  {
+   "box": [
+    172,
+    193,
+    20,
+    8
+   ],
+   "erase_box": [
+    171,
+    193,
+    22,
+    8
+   ],
+   "text": "Tech"
+  },
+  {
+   "box": [
+    132,
+    209,
+    45,
+    8
+   ],
+   "erase_box": [
+    131,
+    209,
+    48,
+    8
+   ],
+   "text": "Leg Type"
+  },
+  {
+   "box": [
+    135,
+    223,
+    31,
+    8
+   ],
+   "erase_box": [
+    134,
+    223,
+    30,
+    8
+   ],
+   "text": "Armor"
+  },
+  {
+   "box": [
+    3,
+    233,
+    37,
+    8
+   ],
+   "erase_box": [
+    2,
+    233,
+    37,
+    8
+   ],
+   "text": "Spec."
+  },
+  {
+   "box": [
+    52,
+    233,
+    48,
+    8
+   ],
+   "erase_box": [
+    51,
+    233,
+    41,
+    8
+   ],
+   "text": "Drive A"
+  },
+  {
+   "box": [
+    284,
+    233,
+    50,
+    8
+   ],
+   "erase_box": [
+    283,
+    233,
+    41,
+    8
+   ],
+   "text": "Drive B"
+  },
+  {
+   "box": [
+    340,
+    233,
+    50,
+    8
+   ],
+   "erase_box": [
+    339,
+    233,
+    40,
+    8
+   ],
+   "text": "Drive C"
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    128,
+    50,
+    128,
+    14
+   ],
+   "text": ""
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    128,
+    76,
+    128,
+    13
+   ],
+   "text": ""
+  },
+  {
+   "box": [
+    129,
+    52,
+    20,
+    10
+   ],
+   "text": "Prep",
+   "erase": "none",
+   "baseline": 59,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    149,
+    52,
+    20,
+    10
+   ],
+   "text": "Cool.",
+   "erase": "none",
+   "baseline": 59,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    193,
+    52,
+    20,
+    10
+   ],
+   "text": "Move",
+   "erase": "none",
+   "baseline": 59,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    213,
+    52,
+    20,
+    10
+   ],
+   "text": "Eva.",
+   "erase": "none",
+   "baseline": 59,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    129,
+    77,
+    20,
+    10
+   ],
+   "text": "Succ.",
+   "erase": "none",
+   "baseline": 85,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    148,
+    77,
+    20,
+    10
+   ],
+   "text": "Pow.",
+   "erase": "none",
+   "baseline": 85,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    172,
+    77,
+    20,
+    10
+   ],
+   "text": "Uses",
+   "erase": "none",
+   "baseline": 85,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    193,
+    77,
+    20,
+    10
+   ],
+   "text": "Def.",
+   "erase": "none",
+   "baseline": 85,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    212,
+    77,
+    20,
+    10
+   ],
+   "text": "Fight",
+   "erase": "none",
+   "baseline": 85,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    233,
+    77,
+    20,
+    10
+   ],
+   "text": "Shoot",
+   "erase": "none",
+   "baseline": 85,
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    392,
+    232,
+    32,
+    8
+   ],
+   "box": [
+    393,
+    232,
+    30,
+    8
+   ],
+   "text": "Armor",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#EFEFEF",
+   "stroke": null,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    161,
+    33,
+    46,
+    12
+   ],
+   "box": [
+    162,
+    34,
+    46,
+    11
+   ],
+   "text": "Description",
+   "font": "sf-cond",
+   "cap": 7,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "crisp": 0.5,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    197,
+    237,
+    82,
+    14
+   ],
+   "box": [
+    200,
+    238,
+    78,
+    12
+   ],
+   "text": "Rotate Model",
+   "font": "hiragino-heavy",
+   "cap": 8,
+   "fill": "#FFFFFF",
+   "stroke": "#010101C8",
+   "stroke_w": 1.0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    128,
+    95,
+    72,
+    16
+   ],
+   "text": ""
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    128,
+    120,
+    72,
+    16
+   ],
+   "text": ""
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    128,
+    142,
+    72,
+    17
+   ],
+   "text": ""
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    128,
+    168,
+    72,
+    17
+   ],
+   "text": ""
+  },
+  {
+   "box": [
+    129,
+    102,
+    20,
+    8
+   ],
+   "text": "Prep",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    152,
+    102,
+    20,
+    8
+   ],
+   "text": "Cool.",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    129,
+    127,
+    20,
+    8
+   ],
+   "text": "Succ.",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    152,
+    127,
+    20,
+    8
+   ],
+   "text": "Pow.",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    175,
+    127,
+    20,
+    8
+   ],
+   "text": "Uses",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    129,
+    149,
+    20,
+    8
+   ],
+   "text": "Move",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    152,
+    149,
+    20,
+    8
+   ],
+   "text": "Eva.",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    129,
+    175,
+    20,
+    8
+   ],
+   "text": "Def.",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    153,
+    175,
+    20,
+    8
+   ],
+   "text": "Fight",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    177,
+    175,
+    20,
+    8
+   ],
+   "text": "Shoot",
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F8F8F8A1",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    408,
+    5,
+    50,
+    9
+   ],
+   "erase_box": [
+    404,
+    4,
+    36,
+    13
+   ],
+   "text": "Head",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 7,
+   "fill": {
+    "top": "#F8F8F8",
+    "bottom": "#B0B0B0"
+   }
+  },
+  {
+   "box": [
+    409,
+    31,
+    30,
+    9
+   ],
+   "erase_box": [
+    407,
+    30,
+    28,
+    11
+   ],
+   "text": "Skill",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 6,
+   "fill": "#989898"
+  },
+  {
+   "box": [
+    442,
+    31,
+    24,
+    9
+   ],
+   "erase_box": [
+    440,
+    30,
+    20,
+    11
+   ],
+   "text": "Tech",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 6,
+   "fill": "#989898"
+  },
+  {
+   "box": [
+    408,
+    64,
+    50,
+    11
+   ],
+   "erase_box": [
+    405,
+    58,
+    36,
+    18
+   ],
+   "text": "R-Arm",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 7,
+   "fill": {
+    "top": "#F8F8F8",
+    "bottom": "#B0B0B0"
+   }
+  },
+  {
+   "box": [
+    409,
+    89,
+    30,
+    9
+   ],
+   "erase_box": [
+    406,
+    88,
+    28,
+    11
+   ],
+   "text": "Skill",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 6,
+   "fill": "#989898"
+  },
+  {
+   "box": [
+    442,
+    89,
+    24,
+    9
+   ],
+   "erase_box": [
+    439,
+    88,
+    20,
+    11
+   ],
+   "text": "Tech",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 6,
+   "fill": "#989898"
+  },
+  {
+   "box": [
+    408,
+    121,
+    50,
+    11
+   ],
+   "erase_box": [
+    404,
+    115,
+    36,
+    18
+   ],
+   "text": "L-Arm",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 7,
+   "fill": {
+    "top": "#F8F8F8",
+    "bottom": "#B0B0B0"
+   }
+  },
+  {
+   "box": [
+    409,
+    147,
+    30,
+    9
+   ],
+   "erase_box": [
+    406,
+    146,
+    28,
+    11
+   ],
+   "text": "Skill",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 6,
+   "fill": "#989898"
+  },
+  {
+   "box": [
+    442,
+    147,
+    24,
+    9
+   ],
+   "erase_box": [
+    439,
+    146,
+    20,
+    11
+   ],
+   "text": "Tech",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 6,
+   "fill": "#989898"
+  },
+  {
+   "box": [
+    408,
+    176,
+    50,
+    11
+   ],
+   "erase_box": [
+    406,
+    175,
+    44,
+    13
+   ],
+   "text": "Legs",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 7,
+   "fill": {
+    "top": "#F8F8F8",
+    "bottom": "#B0B0B0"
+   }
+  },
+  {
+   "box": [
+    409,
+    205,
+    70,
+    9
+   ],
+   "erase_box": [
+    407,
+    204,
+    61,
+    11
+   ],
+   "text": "Legs Type",
+   "erase": "glyph",
+   "bg": "mode",
+   "font": "tahoma",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "cap": 6,
+   "fill": "#989898"
+  }
+ ]
+}

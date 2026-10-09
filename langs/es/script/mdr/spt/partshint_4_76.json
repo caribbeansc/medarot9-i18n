@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_76.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b8b624de9fea",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{guard}} Automática\nSi llevas equipada {{guard}}\nde\nPólvora, {{guard}} Óptica o\n{{guard}} de Gravedad,\ncada una se anula\nautomáticamente."
+  }
+ ]
+}

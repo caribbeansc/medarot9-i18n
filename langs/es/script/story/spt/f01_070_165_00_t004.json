@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f01_070_165_00_t004.spt",
+ "lines": [
+  {
+   "i": 964,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 973,
+   "src": "ca3b9fb8b8f5",
+   "t": "Una cosa quiero preguntarte,"
+  },
+  {
+   "i": 976,
+   "src": "2dcd37816bc7",
+   "t": "ese es tu {{partner}}, ¿verdad?"
+  },
+  {
+   "i": 987,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  }
+ ]
+}

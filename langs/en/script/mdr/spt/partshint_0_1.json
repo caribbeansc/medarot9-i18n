@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "de3f30a59b75",
+   "t": "<c:00ff00>Robattle Style:<c> {{speed}}\n{{prep}} +8 {{cooldown}} +8\n{{mobility}} +8\nOn a successful evade,\n{{charge_gauge}} +5%"
+  }
+ ]
+}

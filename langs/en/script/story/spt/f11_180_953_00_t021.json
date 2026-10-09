@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f11_180_953_00_t021.spt",
+ "lines": [
+  {
+   "i": 975,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 984,
+   "src": "995533852dee",
+   "t": "That's all."
+  },
+  {
+   "i": 987,
+   "src": "2532359d792f",
+   "t": "Take your positions right away."
+  }
+ ]
+}

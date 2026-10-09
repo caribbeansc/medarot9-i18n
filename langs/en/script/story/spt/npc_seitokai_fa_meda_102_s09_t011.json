@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_fa_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "437e818d1f62",
+   "t": "LegendHorn"
+  },
+  {
+   "i": 1038,
+   "src": "4ce1d99d5547",
+   "t": "Honestly, what am I going to do with\nyou, {{master}}."
+  },
+  {
+   "i": 1041,
+   "src": "d5761c82011b",
+   "t": "I'll do it, come on, hand it over."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_82.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c4ef0e8e3669",
+   "t": "<c:00ff00>Leg Trait:<c> {{torturer}}\nFor each {{negative_status}}\non the {{opponent}}, {{power}} &\n{{success}} +3."
+  }
+ ]
+}

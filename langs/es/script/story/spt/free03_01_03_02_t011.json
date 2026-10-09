@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/free03_01_03_02_t011.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "04c619cc0727",
+   "t": "Oh."
+  },
+  {
+   "i": 1047,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1053,
+   "src": "77af09e9b555",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1061,
+   "src": "7d48436774d1",
+   "t": "Puedes verlo asomarse entre los árboles"
+  },
+  {
+   "i": 1064,
+   "src": "39c60f1ee6ed",
+   "t": "Mira..."
+  },
+  {
+   "i": 1084,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1095,
+   "src": "e4451a59778d",
+   "t": "Es el océano."
+  },
+  {
+   "i": 1102,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1111,
+   "src": "7d4eb663763b",
+   "t": "¿Llegamos al extremo norte de la isla?"
+  },
+  {
+   "i": 1126,
+   "src": "e0fc361ae0c5",
+   "t": "¡Vamos!"
+  }
+ ]
+}

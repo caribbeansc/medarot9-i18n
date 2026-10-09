@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1e_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1038,
+   "src": "c14d1325cf73",
+   "t": "Um, th-the principal just"
+  },
+  {
+   "i": 1041,
+   "src": "0e5b6285c34e",
+   "t": "walked right in front of me like it was\nnothing..."
+  },
+  {
+   "i": 1049,
+   "src": "baf1f443a987",
+   "t": "Far from a ghost, he looked super\nhealthy..."
+  },
+  {
+   "i": 1052,
+   "src": "ab4cb50acf5e",
+   "t": "Wasn't he supposed to be sick??"
+  }
+ ]
+}

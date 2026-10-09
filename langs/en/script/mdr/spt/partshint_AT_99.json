@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_99.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4f57318f1a22",
+   "t": "<c:00ff00>Action:<c> {{conceal}}\nRaises the whole\nteam's {{evade}}. Also\nmakes the foe team's\nBerserk and Aimshot\nattacks fail. Ends\nwhen hit by a normal\nattack."
+  }
+ ]
+}

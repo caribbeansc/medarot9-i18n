@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f06_210_112_10_t017.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1051,
+   "src": "5de94f3342dc",
+   "t": "Entendido. Lo mantendré"
+  },
+  {
+   "i": 1054,
+   "src": "7fb98864273a",
+   "t": "en secreto del {{principal}} por ahora."
+  },
+  {
+   "i": 1062,
+   "src": "5a14b276d35c",
+   "t": "¿De verdad?"
+  },
+  {
+   "i": 1067,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1073,
+   "src": "49b9fe04edcc",
+   "t": "Sin embargo."
+  },
+  {
+   "i": 1081,
+   "src": "e413b1d4d2bc",
+   "t": "Prométeme que no volverás a\nhacer lo mismo otra vez."
+  },
+  {
+   "i": 1089,
+   "src": "066645108b87",
+   "t": "Si te cuelas y te atrapan de nuevo, ni yo"
+  },
+  {
+   "i": 1092,
+   "src": "90e7ffb7e2eb",
+   "t": "podré fingir que no te vi."
+  },
+  {
+   "i": 1106,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1112,
+   "src": "f921e606cec3",
+   "t": "Por supuesto, se lo prometo."
+  },
+  {
+   "i": 1127,
+   "src": "3d4f6fbaee77",
+   "t": "¡Muchas gracias!"
+  }
+ ]
+}

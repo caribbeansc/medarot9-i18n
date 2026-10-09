@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_2c_000_s05_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1038,
+   "src": "3f462d5a3de5",
+   "t": "...Eh, ¿que si sé de programación?"
+  },
+  {
+   "i": 1046,
+   "src": "14330234305b",
+   "t": "Lo siento, no estoy nada seguro."
+  },
+  {
+   "i": 1049,
+   "src": "c9f0b973ce23",
+   "t": "No tomé clases de programación."
+  },
+  {
+   "i": 1057,
+   "src": "ba11298e5619",
+   "t": "Solo me esfuerzo en lo que da puntos."
+  },
+  {
+   "i": 1060,
+   "src": "c63d860df0fd",
+   "t": "Es que soy del {{club}} de tenis. Jaja."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_idol_163_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "0e06506dc448",
+   "t": "Oh, you're from the {{exploration_club}}."
+  },
+  {
+   "i": 1041,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  },
+  {
+   "i": 1049,
+   "src": "d44c8311b2d2",
+   "t": "I heard it from {{flora}}."
+  },
+  {
+   "i": 1052,
+   "src": "3a0d2570b4c2",
+   "t": "{{mio}}, you got to see "
+  },
+  {
+   "i": 1054,
+   "src": "3a40adaf4630",
+   "t": " safely."
+  },
+  {
+   "i": 1062,
+   "src": "03835c433a43",
+   "t": "So, um..."
+  },
+  {
+   "i": 1070,
+   "src": "b62692ee6380",
+   "t": "How is {{mio}} doing?"
+  },
+  {
+   "i": 1073,
+   "src": "8eb099445800",
+   "t": "I heard she joined the {{exploration_club}},\nbut--"
+  },
+  {
+   "i": 1091,
+   "src": "2d4ae41876d3",
+   "t": "No, actually, never mind."
+  },
+  {
+   "i": 1094,
+   "src": "f29303625851",
+   "t": "If she's doing well, I'm glad."
+  }
+ ]
+}

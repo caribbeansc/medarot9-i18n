@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f08_140_339_00_t011.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "ee918ede110b",
+   "t": "Llegas tarde."
+  },
+  {
+   "i": 1059,
+   "src": "bb148cab37f5",
+   "t": "¡Oye!"
+  },
+  {
+   "i": 1062,
+   "src": "befc740fcf3d",
+   "t": "¡No salgas corriendo por tu cuenta!"
+  },
+  {
+   "i": 1081,
+   "src": "4f3abe4ded87",
+   "t": "¿Por mi cuenta?"
+  },
+  {
+   "i": 1089,
+   "src": "f203b5e069dc",
+   "t": "¡Te dije que esperaras!"
+  },
+  {
+   "i": 1113,
+   "src": "c91507ad1f26",
+   "t": "¿Te escuché decir Ok?"
+  },
+  {
+   "i": 1119,
+   "src": "43e4934ea03e",
+   "t": "¿Te escuché decir Está bien?"
+  },
+  {
+   "i": 1128,
+   "src": "1b584b9e4e62",
+   "t": "¡Después de eso! ¡Te dije que esperaras"
+  },
+  {
+   "i": 1131,
+   "src": "9f29dfc39337",
+   "t": "mientras consulto al presidente!"
+  },
+  {
+   "i": 1150,
+   "src": "8c4f8fdb6d84",
+   "t": "¿Por qué?"
+  },
+  {
+   "i": 1171,
+   "src": "4b308d1367d5",
+   "t": "Yo ya te consulté a ti."
+  },
+  {
+   "i": 1174,
+   "src": "1a14bab6dbd1",
+   "t": "¿Por qué consultas al presidente?"
+  },
+  {
+   "i": 1180,
+   "src": "91891574ded2",
+   "t": "Yo te consulté a ti."
+  },
+  {
+   "i": 1183,
+   "src": "eff02ccad964",
+   "t": "¿Por qué consultas al presidente?"
+  },
+  {
+   "i": 1192,
+   "src": "da9038e35380",
+   "t": "B-bueno, es el {{exploration_club}}..."
+  }
+ ]
+}

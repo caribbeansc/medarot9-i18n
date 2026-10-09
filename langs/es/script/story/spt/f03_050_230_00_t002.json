@@ -1,0 +1,130 @@
+{
+ "file": "story/spt/f03_050_230_00_t002.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "d2c1544927ac",
+   "t": "¡¡Este tipo es fuerte!!"
+  },
+  {
+   "i": 1054,
+   "src": "faa8711a1f5a",
+   "t": "¡Q-qué duro...!"
+  },
+  {
+   "i": 1063,
+   "src": "ddee4427d8c3",
+   "t": "Oye, eres ese {{medabot}} de aquella vez,"
+  },
+  {
+   "i": 1066,
+   "src": "879e8ab0f62f",
+   "t": "¿verdad?...¿¡O me equivoco!?"
+  },
+  {
+   "i": 1085,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1095,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1104,
+   "src": "8f8e5481ac2d",
+   "t": "¿Es alguien que conoces?"
+  },
+  {
+   "i": 1115,
+   "src": "1cf95029d51f",
+   "t": "No lo sé..."
+  },
+  {
+   "i": 1123,
+   "src": "e408893ef782",
+   "t": "Justo antes de venir a esta escuela,"
+  },
+  {
+   "i": 1126,
+   "src": "221a8e71faf9",
+   "t": "conocí a un {{medabot}} muy parecido..."
+  },
+  {
+   "i": 1134,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1140,
+   "src": "f95fc7a539b5",
+   "t": "¿Fuera de la isla?"
+  },
+  {
+   "i": 1143,
+   "src": "b34edc990242",
+   "t": "¿Entonces no será un {{medabot}} distinto?"
+  },
+  {
+   "i": 1154,
+   "src": "0651d50ce4eb",
+   "t": "Si lo piensas normalmente, tienes razón."
+  },
+  {
+   "i": 1157,
+   "src": "e901b1fe0b90",
+   "t": "Pero..."
+  },
+  {
+   "i": 1162,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1171,
+   "src": "1eba7719a0c6",
+   "t": "Justo ahora me di cuenta"
+  },
+  {
+   "i": 1174,
+   "src": "614f11c749ad",
+   "t": "¿...no se parecen?"
+  },
+  {
+   "i": 1184,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1198,
+   "src": "5e325e5d4852",
+   "t": "¿Este tipo y "
+  },
+  {
+   "i": 1200,
+   "src": "6f3a35746329",
+   "t": "?"
+  },
+  {
+   "i": 1203,
+   "src": "bf8557bca88a",
+   "t": "Ah... Sí se parecen. Ambos {{type}} Kabuto."
+  },
+  {
+   "i": 1209,
+   "src": "5e325e5d4852",
+   "t": "¿Este y "
+  },
+  {
+   "i": 1211,
+   "src": "6f3a35746329",
+   "t": "?"
+  },
+  {
+   "i": 1214,
+   "src": "634ba51a0dee",
+   "t": "Ah... Sí se parecen. Son {{type}} Kuwagata."
+  }
+ ]
+}

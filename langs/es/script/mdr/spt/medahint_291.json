@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_291.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "de8e2fb00ccf",
+   "t": "Versión chatarra del\n{{medabot}} {{type}} arma\nllamado rey de las bestias.\n \nLe falta la pieza que\nsostiene sus {{legs_part_slot}} y la\nsuple una caja: cae su\ncapacidad de carga y no\nda toda su potencia."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description15.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "14f2512e7e42",
+   "t": "{{robattle|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "1c848d192410",
+   "t": "Competencia en la que dos equipos enfrentan a sus\n<c:ffff00>{{medabot|pl}}<c>. Se llama batalla de robots, o {{robattle}}\npara abreviar.\n\nAdemás de las <c:ffff00>{{basic_rules}}<c> de 3 contra 3, hay\nreglas especiales: <c:ffff00>objetos<c> que participan en lugar\nde {{medabot|pl}}, la <c:ffff00>{{survival_robattle}}<c>, que\nsuma más {{medabot|pl}}, o la <c:ffff00>{{conditional_robattle}}<c>,\nque fracasa si no se cumple la {{condition_rotation}} indicada."
+  }
+ ]
+}

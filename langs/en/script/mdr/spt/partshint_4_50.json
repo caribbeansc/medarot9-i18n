@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_50.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dc185ff53b6c",
+   "t": "<c:00ff00>Leg Trait:<c> {{dead_or_alive}}\nEach time a melee attack\nlands a {{critical}}, {{leg_part}}'s\n{{fighting}} stat +3.\n*Max +15."
+  }
+ ]
+}

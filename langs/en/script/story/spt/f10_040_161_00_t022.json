@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f10_040_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "5d84ad7c5bf3",
+   "t": "This {{medal}} is broken."
+  },
+  {
+   "i": 1041,
+   "src": "7b1178eab21e",
+   "t": "It doesn't work."
+  },
+  {
+   "i": 1051,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1060,
+   "src": "03cfffb7efbe",
+   "t": "I know."
+  },
+  {
+   "i": 1068,
+   "src": "6128d9baec9f",
+   "t": "For decades now."
+  },
+  {
+   "i": 1078,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1084,
+   "src": "cb74f5c84048",
+   "t": "Decades?"
+  },
+  {
+   "i": 1095,
+   "src": "660a24280ebb",
+   "t": "That can't be. After all,\nuntil this morning--"
+  },
+  {
+   "i": 1100,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1106,
+   "src": "b75305af1089",
+   "t": "It can't possibly move."
+  },
+  {
+   "i": 1114,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1119,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1125,
+   "src": "040fd4580024",
+   "t": "It's been broken for ages."
+  },
+  {
+   "i": 1128,
+   "src": "81d41e44f10c",
+   "t": "That entrance--"
+  },
+  {
+   "i": 1136,
+   "src": "b2f737a8d6a9",
+   "t": "Only the will to guard the mine entrance"
+  },
+  {
+   "i": 1139,
+   "src": "8c5efc422dc6",
+   "t": "barely held its consciousness together. "
+  },
+  {
+   "i": 1147,
+   "src": "1ffd19fc897b",
+   "t": "It lost its memories and forgot its\nmaster,"
+  },
+  {
+   "i": 1150,
+   "src": "5a2b4ac7ce6a",
+   "t": "and only the will to keep its promise\nremained."
+  },
+  {
+   "i": 1168,
+   "src": "46b78e377c15",
+   "t": "But"
+  },
+  {
+   "i": 1171,
+   "src": "49afc4f2d957",
+   "t": "even that is gone now."
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "file": "story/spt/f09_120_161_00_t031.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "0c28c7bfe92f",
+   "t": "Ah, esto--"
+  },
+  {
+   "i": 1068,
+   "src": "5cb56bb147ee",
+   "t": "¡Es ese tipo que estaba frente a la {{mine}}!"
+  },
+  {
+   "i": 1074,
+   "src": "9cbffe5bb6cf",
+   "t": "¡Este tipo estaba frente a la {{mine}}!"
+  },
+  {
+   "i": 1082,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1088,
+   "src": "c89e38a365ee",
+   "t": "¿Por qué está aquí?"
+  },
+  {
+   "i": 1102,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1112,
+   "src": "92d22b9d5cc7",
+   "t": "-kun lo trajo."
+  },
+  {
+   "i": 1120,
+   "src": "803ede6905e9",
+   "t": "Dejó el {{medabot}} y se fue otra vez."
+  },
+  {
+   "i": 1123,
+   "src": "7d74ba428141",
+   "t": "Me pidió que viera si podía repararlo."
+  },
+  {
+   "i": 1130,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1136,
+   "src": "8bdab71e983b",
+   "t": "¿Y, y entonces?"
+  },
+  {
+   "i": 1143,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1149,
+   "src": "b87aa1df05fe",
+   "t": "Es imposible."
+  },
+  {
+   "i": 1152,
+   "src": "68f7a040a3a5",
+   "t": "La {{medal}} está totalmente rota."
+  },
+  {
+   "i": 1167,
+   "src": "0057d915ba2f",
+   "t": "Los humanos no pueden reparar\n{{medal|pl}}..."
+  },
+  {
+   "i": 1180,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1191,
+   "src": "066d69153501",
+   "t": "Así que, "
+  },
+  {
+   "i": 1193,
+   "src": "789f6e30fd30",
+   "t": " trajo esto."
+  },
+  {
+   "i": 1196,
+   "src": "aa75152e541a",
+   "t": "Eso significa..."
+  },
+  {
+   "i": 1206,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1215,
+   "src": "4fff3d157150",
+   "t": "¡¿Pasó algo?!"
+  },
+  {
+   "i": 1229,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1238,
+   "src": "37daea2928b6",
+   "t": "Eso es lo que significa."
+  },
+  {
+   "i": 1262,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1269,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1275,
+   "src": "557aaa31bf0f",
+   "t": "La {{mine}}"
+  },
+  {
+   "i": 1282,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1288,
+   "src": "442be8e57be4",
+   "t": "O quizá "
+  },
+  {
+   "i": 1290,
+   "src": "a16547fbc62c",
+   "t": "-kun debía"
+  },
+  {
+   "i": 1293,
+   "src": "338f003a54bb",
+   "t": "ir al puerto al final..."
+  },
+  {
+   "i": 1300,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1309,
+   "src": "1ccae1d1e7d5",
+   "t": "De todos modos, no tiene"
+  },
+  {
+   "i": 1312,
+   "src": "a47adbfc080d",
+   "t": "caso seguir pensándolo aquí."
+  },
+  {
+   "i": 1326,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1335,
+   "src": "aa1953d80b7e",
+   "t": "Sí."
+  },
+  {
+   "i": 1338,
+   "src": "3fcbf5d9e8fc",
+   "t": "Vamos."
+  }
+ ]
+}

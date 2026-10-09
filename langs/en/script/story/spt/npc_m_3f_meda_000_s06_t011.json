@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f_meda_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a7f55d225eee",
+   "t": "{{blossomail}}"
+  },
+  {
+   "i": 1038,
+   "src": "63fc0fcfb82a",
+   "t": "A {{robattle_tournament}}? Sure."
+  },
+  {
+   "i": 1041,
+   "src": "78541285a94d",
+   "t": "I'm always ready!"
+  }
+ ]
+}

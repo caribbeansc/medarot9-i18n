@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_020_102_00_t013.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "e84d290624b4",
+   "t": "Aquí no hay nada."
+  },
+  {
+   "i": 1040,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 1046,
+   "src": "f8e553a2a098",
+   "t": "Eh, ¿ya se acabó?"
+  },
+  {
+   "i": 1049,
+   "src": "a0f06f080031",
+   "t": "¡Qué rápido!"
+  },
+  {
+   "i": 1056,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1065,
+   "src": "eaa2625cfa49",
+   "t": "Hyoga."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_080_150_00_t012.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1044,
+   "src": "b58ec486f486",
+   "t": "Se oyen ruidos de combate\nviniendo del fondo."
+  },
+  {
+   "i": 1058,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1064,
+   "src": "a08eaacdc2dc",
+   "t": "¿Vamos a ver?"
+  }
+ ]
+}

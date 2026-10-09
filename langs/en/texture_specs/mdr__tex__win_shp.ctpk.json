@@ -1,0 +1,222 @@
+{
+ "rel": "mdr/tex/win_shp.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    190,
+    73,
+    29,
+    18
+   ],
+   "erase_box": [
+    186,
+    69,
+    36,
+    21
+   ],
+   "erase": "hfill",
+   "text": "Accept",
+   "font": "sf-compressed",
+   "cap": 9,
+   "fill": "#FFFFFF",
+   "stroke": "#0000008C",
+   "stroke_w": 0.9,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 0.4,
+   "repeat": [
+    [
+     0,
+     96
+    ]
+   ],
+   "dy": -1.5
+  },
+  {
+   "segments": [
+    [
+     208,
+     240,
+     48,
+     16,
+     0,
+     8
+    ],
+    [
+     48,
+     232,
+     80,
+     24,
+     48,
+     0
+    ]
+   ],
+   "box": [
+    0,
+    8,
+    128,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Buy Casino Chips",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#DDDDDD"
+   },
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 0.5,
+   "dy": -1
+  },
+  {
+   "box": [
+    129,
+    240,
+    32,
+    13
+   ],
+   "erase_box": [
+    127,
+    232,
+    36,
+    22
+   ],
+   "erase": "transparent",
+   "text": "Money",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#DDDDDDE5",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    167,
+    240,
+    22,
+    13
+   ],
+   "erase_box": [
+    163,
+    232,
+    27,
+    22
+   ],
+   "erase": "transparent",
+   "text": "Total",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#DDDDDDE5",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    192,
+    240,
+    14,
+    13
+   ],
+   "erase_box": [
+    190,
+    240,
+    18,
+    15
+   ],
+   "erase": "transparent",
+   "text": "Y",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#DDDDDDE5",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    17,
+    64,
+    26,
+    9
+   ],
+   "erase_box": [
+    15,
+    64,
+    28,
+    9
+   ],
+   "erase": "solid:#030303D4",
+   "text": "Total",
+   "font": "tahoma",
+   "cap": 6,
+   "fill": "#838383D4",
+   "stroke": null,
+   "pad": 0,
+   "align": "left",
+   "valign": "middle",
+   "crisp": 1
+  },
+  {
+   "box": [
+    106,
+    64,
+    9,
+    9
+   ],
+   "erase_box": [
+    105,
+    64,
+    10,
+    9
+   ],
+   "erase": "solid:#030303D4",
+   "text": "Y",
+   "font": "tahoma",
+   "cap": 6,
+   "fill": "#838383D4",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 1
+  },
+  {
+   "box": [
+    80,
+    47,
+    10,
+    11
+   ],
+   "erase_box": [
+    80,
+    47,
+    10,
+    11
+   ],
+   "erase": "solid:#020202D4",
+   "text": "pc.",
+   "font": "tahoma",
+   "cap": 6,
+   "fill": "#909090D4",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 1
+  }
+ ]
+}

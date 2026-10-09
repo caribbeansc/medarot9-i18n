@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f09_060_230_00_t133.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1042,
+   "src": "f20fa04fda9a",
+   "t": "Oye, ¿qué haces, {{robo}}?"
+  },
+  {
+   "i": 1045,
+   "src": "8bf2f40f6724",
+   "t": "¡Qué desperdicio! ¡Devuélvelo, {{robo}}!"
+  },
+  {
+   "i": 1062,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1071,
+   "src": "ddfcd7cf054d",
+   "t": "Déjalo en paz, {{robo}}."
+  },
+  {
+   "i": 1081,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1090,
+   "src": "6152020aeccd",
+   "t": "Pero pero, {{robo}}~"
+  },
+  {
+   "i": 1097,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1106,
+   "src": "9ce124be0c86",
+   "t": "¿Por qué te importa esa miseria?"
+  },
+  {
+   "i": 1109,
+   "src": "148db487e0e9",
+   "t": "Si estamos por hacernos ricos..."
+  },
+  {
+   "i": 1124,
+   "src": "aa93fb41ed6d",
+   "t": "¡Oh jojojojojojo!"
+  }
+ ]
+}

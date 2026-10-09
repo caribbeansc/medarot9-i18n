@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f06_080_600_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "ad55493008ee",
+   "t": "The sea!!"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "263e08f5c6ce",
+   "t": "So, what now?"
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "d845dda2564f",
+   "t": "Well,"
+  },
+  {
+   "i": 1065,
+   "src": "9730cb5af0dd",
+   "t": "let's walk around and {{robattle}} for now."
+  },
+  {
+   "i": 1075,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1084,
+   "src": "12f1862b49af",
+   "t": "Even if we do that, won't they"
+  },
+  {
+   "i": 1087,
+   "src": "5c3893b85d67",
+   "t": "just pop right back up again?"
+  },
+  {
+   "i": 1097,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1106,
+   "src": "9e9d0c32dffd",
+   "t": "Eh, we only need it to hold up"
+  },
+  {
+   "i": 1109,
+   "src": "829e9f19dfef",
+   "t": "until the last day of vacation. It'll be\nfine."
+  }
+ ]
+}

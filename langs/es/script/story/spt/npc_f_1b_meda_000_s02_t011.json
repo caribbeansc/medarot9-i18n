@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1b_meda_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "493406945551",
+   "t": "Swimmermate"
+  },
+  {
+   "i": 1038,
+   "src": "979225bf5f88",
+   "t": "Oye maestra, ¿vamos a la playa hoy?"
+  },
+  {
+   "i": 1041,
+   "src": "1b81bceb3395",
+   "t": "Tengo muchas ganas de nadar ahora."
+  }
+ ]
+}

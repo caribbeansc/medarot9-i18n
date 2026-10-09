@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_89.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "121e9246d49f",
+   "t": "<c:00ff00>Action:<c> {{field_control}}\nFor a while, improves\n{{terrain_affinity}} of the\nwhole team's legs on any\n{{field}}. Sets Heavy Limit to\n3."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_seitokai_fa_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1035,
+   "src": "0987069cb95e",
+   "t": "Um."
+  },
+  {
+   "i": 1038,
+   "src": "cead86d01403",
+   "t": "This rope is for the audience, and this\none is for the track..."
+  },
+  {
+   "i": 1049,
+   "src": "807132236f57",
+   "t": "Huh?"
+  },
+  {
+   "i": 1052,
+   "src": "5d8935c9fe17",
+   "t": "I got confused again~, hehe."
+  }
+ ]
+}

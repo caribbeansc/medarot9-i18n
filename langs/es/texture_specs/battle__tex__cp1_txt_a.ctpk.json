@@ -1,0 +1,72 @@
+{
+ "rel": "battle/tex/cp1_txt_a.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    56,
+    2,
+    132,
+    58
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    5,
+    228,
+    50
+   ],
+   "erase": "none",
+   "text": "DESTRUIDA!",
+   "font": "impact",
+   "cap": 31,
+   "pad": 0,
+   "min_scale_x": 0.75,
+   "italic_skew": 0.08,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#7CFFFF"
+     ],
+     [
+      0.35,
+      "#3FB4FF"
+     ],
+     [
+      0.55,
+      "#2A8CE6"
+     ],
+     [
+      0.62,
+      "#2A7FC8"
+     ],
+     [
+      1,
+      "#6AA6E6"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#0E4AA8",
+     "w": 1.0
+    },
+    {
+     "color": "#A4FFFF",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#001A7A",
+    "blur": 2.5,
+    "opacity": 0.7
+   }
+  }
+ ]
+}

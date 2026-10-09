@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_50.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "62386bcfabe4",
+   "t": "<c:00ff00>{{mf}}:<c>Reflector\nSe interpone ante los\nataques a aliados y los\ndevuelve con doble\n{{power}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

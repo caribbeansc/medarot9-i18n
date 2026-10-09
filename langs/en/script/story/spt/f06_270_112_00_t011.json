@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_270_112_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1035,
+   "src": "a197f1cce273",
+   "t": "...Hm?"
+  },
+  {
+   "i": 1043,
+   "src": "3c82319d64b9",
+   "t": "Ah, it's you kids."
+  },
+  {
+   "i": 1046,
+   "src": "cec49fe21c8c",
+   "t": "What is it this time?"
+  },
+  {
+   "i": 1054,
+   "src": "e1fa125c177d",
+   "t": "Actually..."
+  }
+ ]
+}

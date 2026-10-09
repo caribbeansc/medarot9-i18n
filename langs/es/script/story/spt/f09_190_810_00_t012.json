@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f09_190_810_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "265964d25b31",
+   "t": "Hay una torre alta."
+  },
+  {
+   "i": 1038,
+   "src": "dddd21ce464f",
+   "t": "¿Un viejo faro... quizá?"
+  }
+ ]
+}

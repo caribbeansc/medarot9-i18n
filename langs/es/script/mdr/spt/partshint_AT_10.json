@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_10.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6891836a2a41",
+   "t": "<c:00ff00>Técnica:<c>Break\nAtaque de {{shooting}} que\nsuma al {{success}} la mitad del\n% de la {{charge_gauge}}.\nA más piezas pesadas del\n{{opponent}}, mayor {{damage}}.\nCon {{effect}} de\n{{pierce}}."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_22.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5ad343e5536d",
+   "t": "<c:00ff00>{{mf}}:<c>Karatakewari\nAtaque cuerpo a cuerpo\nque daña todas las {{part|pl}}\nde un {{enemy}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nUna o más {{part|pl}} de\n{{fighting}}"
+  }
+ ]
+}

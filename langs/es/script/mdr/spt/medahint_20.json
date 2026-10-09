@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_20.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a65de76a6513",
+   "t": "{{medabot}} {{type}} pato que\naspira a ser cisne.\n \nLa {{part}} de {{head_part_slot}} deja al\n{{opponent}} {{cannot_defend}} y las de\nambos brazos lanzan\nataques de {{gravity}}\ndifíciles de evadir."
+  }
+ ]
+}

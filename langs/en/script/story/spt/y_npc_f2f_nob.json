@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f2f_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1047,
+   "src": "ed02bab62a2d",
+   "t": "Sorry, I'm a bit busy right now..."
+  },
+  {
+   "i": 1050,
+   "src": "66c8ccb03885",
+   "t": "Definitely some time when I'm free!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m2a_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1035,
+   "src": "7616f7fddb5b",
+   "t": "Ah, ahora estoy un poco ocupado."
+  },
+  {
+   "i": 1038,
+   "src": "ab8a11c76f9b",
+   "t": "Pregúntame otra vez en otro momento."
+  }
+ ]
+}

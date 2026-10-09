@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_244.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ecfb95646922",
+   "t": "Navigator-{{type}} {{medabot}}\nborn of the 'Navi System'\nOS of the 'Cluster'\nsatellite.\n \nCan use {{power_link}},\nsharing\nallied {{part|pl}}' computation\nand energy supply."
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "rel": "mdr/tex/bt_stop.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    18,
+    16,
+    74,
+    30
+   ],
+   "erase_box": [
+    18,
+    18,
+    74,
+    26
+   ],
+   "erase": "glyph",
+   "grow": 3,
+   "thr": 14,
+   "text": "PARAR",
+   "font": "sf",
+   "wght": 500,
+   "cap": 15,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "blur": 1.5,
+    "opacity": 0.45
+   },
+   "repeat": [
+    [
+     104,
+     0
+    ]
+   ]
+  },
+  {
+   "box": [
+    4,
+    66,
+    192,
+    28
+   ],
+   "erase_box": [
+    0,
+    64,
+    200,
+    32
+   ],
+   "erase": "transparent",
+   "text": "JUEGO BONUS!",
+   "font": "avenir-heavy",
+   "cap": 14,
+   "tracking": 1.0,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#D9BC3E"
+     ],
+     [
+      0.2,
+      "#F8E274"
+     ],
+     [
+      0.5,
+      "#FFFAC9"
+     ],
+     [
+      0.8,
+      "#E7C76A"
+     ],
+     [
+      1,
+      "#DDAF3B"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#A98B11",
+     "w": 1
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#A98B11",
+    "blur": 3,
+    "opacity": 1
+   }
+  },
+  {
+   "segments": [
+    [
+     248,
+     72,
+     8,
+     24,
+     0,
+     0
+    ],
+    [
+     208,
+     48,
+     48,
+     24,
+     8,
+     0
+    ],
+    [
+     208,
+     24,
+     48,
+     24,
+     56,
+     0
+    ],
+    [
+     208,
+     0,
+     48,
+     24,
+     104,
+     0
+    ]
+   ],
+   "box": [
+    3,
+    2,
+    146,
+    22
+   ],
+   "baseline": 19,
+   "erase": "solid:#020202",
+   "text": "Elige las piezas",
+   "font": "sf",
+   "wght": 500,
+   "cap": 11,
+   "fill": "#F6F7F6",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#D0D4D4",
+    "blur": 4,
+    "opacity": 0.95
+   }
+  },
+  {
+   "box": [
+    4,
+    100,
+    49,
+    22
+   ],
+   "baseline": 117,
+   "erase_box": [
+    0,
+    96,
+    64,
+    32
+   ],
+   "erase": "transparent",
+   "text": "Medalla:",
+   "font": "sf",
+   "wght": 500,
+   "cap": 9,
+   "align": "right",
+   "fill": "#FCFDFC",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#D5DADA",
+    "blur": 2.5,
+    "opacity": 0.9
+   }
+  },
+  {
+   "box": [
+    70,
+    100,
+    88,
+    22
+   ],
+   "baseline": 117,
+   "erase_box": [
+    64,
+    96,
+    96,
+    32
+   ],
+   "erase": "transparent",
+   "text": "eligiendo...",
+   "font": "sf",
+   "wght": 500,
+   "cap": 9,
+   "align": "left",
+   "fill": "#FCFDFC",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#D5DADA",
+    "blur": 2.5,
+    "opacity": 0.9
+   }
+  },
+  {
+   "box": [
+    164,
+    100,
+    84,
+    22
+   ],
+   "baseline": 117,
+   "erase_box": [
+    160,
+    96,
+    96,
+    32
+   ],
+   "erase": "transparent",
+   "text": "Tinpet:",
+   "font": "sf",
+   "wght": 500,
+   "cap": 9,
+   "align": "right",
+   "fill": "#FCFDFC",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#D5DADA",
+    "blur": 2.5,
+    "opacity": 0.9
+   }
+  }
+ ]
+}

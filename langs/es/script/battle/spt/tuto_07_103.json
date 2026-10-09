@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_07_103.spt",
+ "lines": [
+  {
+   "i": 1111,
+   "src": "2567d5287753",
+   "t": "¡Bien!  "
+  },
+  {
+   "i": 1116,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1122,
+   "src": "ddfa2c576f8c",
+   "t": "El {{medachange}} fue un {{success}}.            "
+  },
+  {
+   "i": 1127,
+   "src": "c38ca8c1c3a9",
+   "t": "Una {{part}} rota impide el {{medachange}}:\ncuidado si te apuntan mientras cargas."
+  },
+  {
+   "i": 1132,
+   "src": "fa4b1e4bf71e",
+   "t": "Esta vez cargaste al 100%, pero con\n20% o más puedes hacer {{medachange}}.                                                              "
+  }
+ ]
+}

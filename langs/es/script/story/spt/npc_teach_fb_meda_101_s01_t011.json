@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_teach_fb_meda_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "06338d21ac39",
+   "t": "{{teacher_b_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "1fbc882a7bb3",
+   "t": "Somos las enfermeras."
+  },
+  {
+   "i": 1043,
+   "src": "6b0f32d823b0",
+   "t": "Profa. B ve humanos."
+  },
+  {
+   "i": 1046,
+   "src": "5f84c8895834",
+   "t": "Yo curo {{medabot|pl}} enfermos."
+  }
+ ]
+}

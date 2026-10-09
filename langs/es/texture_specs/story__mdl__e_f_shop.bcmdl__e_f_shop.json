@@ -1,0 +1,34 @@
+{
+ "rel": "story/mdl/e_f_shop.bcmdl",
+ "tex": "e_f_shop",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    18,
+    4,
+    29,
+    19
+   ],
+   "erase_box": [
+    17,
+    4,
+    31,
+    21
+   ],
+   "erase": "glyph",
+   "bg": "#FFFFFFFF",
+   "grow": 2,
+   "text": "TIENDA",
+   "font": "anton",
+   "cap": 12,
+   "pad": 0,
+   "crisp": 0.5,
+   "fill": "#0B7A96",
+   "stroke": null,
+   "tracking": 0.5,
+   "dx": 0.5
+  }
+ ]
+}

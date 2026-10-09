@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_17.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "43f46c9cbf77",
+   "t": "<c:00ff00>Action:<c> {{evasion_seal}}\nA ranged attack that\napplies the\n{{evasion_seal}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{evasion_seal}}\nMakes the target unable\nto evade, regardless of\nthe {{leg_part}}'s {{condition}}."
+  }
+ ]
+}

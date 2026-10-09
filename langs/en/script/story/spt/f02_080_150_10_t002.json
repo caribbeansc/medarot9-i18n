@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f02_080_150_10_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "78a4f79dc737",
+   "t": "You okay?"
+  },
+  {
+   "i": 1049,
+   "src": "8d9fb2379731",
+   "t": "S-sort of."
+  },
+  {
+   "i": 1054,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1060,
+   "src": "f7e30fb264f5",
+   "t": "Good, then--"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_teach_fb_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fe562aa37220",
+   "t": "{{heal_angel}}"
+  },
+  {
+   "i": 1038,
+   "src": "1fbc882a7bb3",
+   "t": "We're the school nurses."
+  },
+  {
+   "i": 1046,
+   "src": "1923c64b5643",
+   "t": "My {{master}} treats humans."
+  },
+  {
+   "i": 1049,
+   "src": "5f84c8895834",
+   "t": "I cure {{medabot|pl}}' ailments."
+  }
+ ]
+}

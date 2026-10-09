@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_idol_153_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "b91d3949b657",
+   "t": "There's nothing I can tell you."
+  },
+  {
+   "i": 1041,
+   "src": "2f8178a599bc",
+   "t": "I'm sorry."
+  },
+  {
+   "i": 1049,
+   "src": "436cc9d19511",
+   "t": "More importantly, um..."
+  },
+  {
+   "i": 1052,
+   "src": "980aa6cf400b",
+   "t": "This is the girls' dorm."
+  },
+  {
+   "i": 1060,
+   "src": "9e26c309a32c",
+   "t": "How did you even make it all the way\nhere?"
+  },
+  {
+   "i": 1063,
+   "src": "2df3507e0d65",
+   "t": "Did no one find you?"
+  },
+  {
+   "i": 1071,
+   "src": "5fa9a6239e63",
+   "t": "...Oh, I'm not scolding you."
+  },
+  {
+   "i": 1074,
+   "src": "7984b570f3c9",
+   "t": "I just think you were lucky."
+  },
+  {
+   "i": 1082,
+   "src": "b2f0746a993a",
+   "t": "If you had run into the dorm mother,"
+  },
+  {
+   "i": 1085,
+   "src": "0af9f9f5046a",
+   "t": "I'm sure it wouldn't have ended well."
+  },
+  {
+   "i": 1093,
+   "src": "bcbb44aa1785",
+   "t": "Don't ever come back, okay?"
+  }
+ ]
+}

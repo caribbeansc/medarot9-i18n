@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_116.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f1fa0a940d2a",
+   "t": "<c:00ff00>Action:<c> {{super_repair}}\nRecovers {{damage}} on all\n{{part|pl}} of one allied\n{{medabot}}."
+  }
+ ]
+}

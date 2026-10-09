@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b2_meda_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "97028863df10",
+   "t": "{{boy_2_b_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "c4b8ee6d3efd",
+   "t": "Muy bien, ¡déjamelo a mí!"
+  },
+  {
+   "i": 1038,
+   "src": "fb7a61572dca",
+   "t": "¡No habrá tiempo para cargar!"
+  }
+ ]
+}

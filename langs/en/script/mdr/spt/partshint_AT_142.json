@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_142.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6f9d633c7e7b",
+   "t": "<c:00ff01>Action:<c> {{reflect_action}}\nA {{guard_stance}} that reacts\nto melee attacks on allies.\nAfter intercepting,\ncounters with the same\n{{attack_power}}. Ends after\nallies act 4 times or time\npasses."
+  }
+ ]
+}

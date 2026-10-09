@@ -1,0 +1,104 @@
+{
+ "rel": "story/mdl/m120.bcmdl",
+ "tex": "m120_score",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "din",
+  "cap": 6.5,
+  "scale_x": 1,
+  "crisp": 0,
+  "fill": "#D8E2E2",
+  "stroke": null,
+  "pad": 0,
+  "align": "center",
+  "valign": "middle",
+  "tracking": 0.4
+ },
+ "items": [
+  {
+   "erase_box": [
+    9,
+    27,
+    20,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    33,
+    27,
+    17,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    53,
+    27,
+    17,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    75,
+    27,
+    20,
+    7
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    7,
+    26,
+    22,
+    9
+   ],
+   "baseline": 33.5,
+   "text": "EQUIPO",
+   "tracking": 0.3,
+   "cap": 6.5,
+   "dx": 0
+  },
+  {
+   "box": [
+    33,
+    26,
+    17,
+    9
+   ],
+   "baseline": 33.5,
+   "text": "1T"
+  },
+  {
+   "box": [
+    53,
+    26,
+    17,
+    9
+   ],
+   "baseline": 33.5,
+   "text": "2T"
+  },
+  {
+   "box": [
+    73,
+    26,
+    24,
+    9
+   ],
+   "baseline": 33.5,
+   "text": "TOTAL"
+  }
+ ]
+}

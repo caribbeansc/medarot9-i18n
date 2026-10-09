@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f06_260_161_00_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "7aab5125fc8e",
+   "t": "Ni hablar."
+  },
+  {
+   "i": 1042,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1048,
+   "src": "e402e6c6182b",
+   "t": "Claro que no."
+  },
+  {
+   "i": 1055,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1064,
+   "src": "1546f19eb747",
+   "t": "Ni hablar."
+  },
+  {
+   "i": 1072,
+   "src": "3bb3105065ae",
+   "t": "¿Por qué les darías la excusa perfecta"
+  },
+  {
+   "i": 1075,
+   "src": "6e7c12701bdd",
+   "t": "para disolver el club? ¡Qué tonto eres!"
+  },
+  {
+   "i": 1086,
+   "src": "31b118d0517f",
+   "t": "Uf"
+  },
+  {
+   "i": 1089,
+   "src": "69b8f5fd3588",
+   "t": "Bu... bueno, entonces..."
+  }
+ ]
+}

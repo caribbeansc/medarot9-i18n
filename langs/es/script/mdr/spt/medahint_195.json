@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_195.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5fc6aa1a6df1",
+   "t": "{{medabot}} {{type}} arma,\nprototipo 2 de la Banda\nRubberobo.\n \nCopiaron tecnología\nmilitar, aun sin dominarla.\n{{legs_part_slot|cap}} más grandes y\nmanipuladores extra: ya\ncontrarresta trampas."
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "rel": "battle/tex/telop_goukaku.ctpk",
+ "base": "jp",
+ "styles": {
+  "oro": {
+   "font": "anton",
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "cap": 35,
+   "tracking": 0,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#E6E866"
+     ],
+     [
+      0.2,
+      "#C2BD40"
+     ],
+     [
+      0.4,
+      "#968610"
+     ],
+     [
+      0.49,
+      "#897604"
+     ],
+     [
+      0.5,
+      "#7D4106"
+     ],
+     [
+      0.58,
+      "#794105"
+     ],
+     [
+      0.7,
+      "#89610F"
+     ],
+     [
+      0.85,
+      "#AA9529"
+     ],
+     [
+      1,
+      "#D1CB4F"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#F7FF77",
+     "w": 1.2
+    }
+   ],
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#3A3809",
+     "blur": 2.5,
+     "opacity": 1.0
+    },
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#3A3809",
+     "blur": 5.5,
+     "opacity": 0.7
+    }
+   ]
+  },
+  "plata": {
+   "font": "anton",
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "cap": 35,
+   "tracking": 0,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#B1B0B1"
+     ],
+     [
+      0.2,
+      "#989698"
+     ],
+     [
+      0.4,
+      "#615F63"
+     ],
+     [
+      0.5,
+      "#5D5A5F"
+     ],
+     [
+      0.51,
+      "#312E34"
+     ],
+     [
+      0.62,
+      "#39363C"
+     ],
+     [
+      0.8,
+      "#626064"
+     ],
+     [
+      1,
+      "#9F9E9F"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#F6F6F6",
+     "w": 1.2
+    }
+   ],
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#303030",
+     "blur": 2.5,
+     "opacity": 1.0
+    },
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#303030",
+     "blur": 5.5,
+     "opacity": 0.7
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    72,
+    140,
+    68
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    0,
+    180,
+    68
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    68,
+    256,
+    4
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "oro",
+   "box": [
+    6,
+    78,
+    128,
+    56
+   ],
+   "erase": "none",
+   "text": "PASSED"
+  },
+  {
+   "style": "plata",
+   "box": [
+    8,
+    6,
+    164,
+    56
+   ],
+   "erase": "none",
+   "text": "FAILED"
+  }
+ ]
+}

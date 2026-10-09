@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_15.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "f49d8c750347",
+   "t": "<c:00ff00>{{mf}}:<c> Needle Shot\nA ranged attack on 1\n{{enemy}} that always hits\nthe {{head_part}}.\n<c:00ffff>{{required_parts}}<c>\nOne or more shooting\n{{part|pl}}"
+  }
+ ]
+}

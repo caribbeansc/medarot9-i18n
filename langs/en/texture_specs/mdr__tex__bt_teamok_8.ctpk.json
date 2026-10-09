@@ -1,0 +1,24 @@
+{
+ "rel": "mdr/tex/bt_teamok_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    17,
+    0,
+    79,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Team OK",
+   "font": "tahoma",
+   "cap": 8,
+   "fill": "#1E2637",
+   "stroke": "#FFFFFFB0",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0.5,
+   "dy": -1
+  }
+ ]
+}

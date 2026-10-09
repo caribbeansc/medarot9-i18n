@@ -1,0 +1,110 @@
+{
+ "file": "mdr/spt/prebattle_select_tuto.spt",
+ "lines": [
+  {
+   "i": 2359,
+   "src": "ca5e1e75c40e",
+   "t": "A banned {{medabot}}"
+  },
+  {
+   "i": 2362,
+   "src": "ba9e88de2bf9",
+   "t": "has been selected."
+  },
+  {
+   "i": 4397,
+   "src": "99a69e4dbace",
+   "t": "Start the {{robattle}}?"
+  },
+  {
+   "i": 4956,
+   "src": "9a9504c86fc3",
+   "t": "Is this team okay?"
+  },
+  {
+   "i": 5500,
+   "src": "ca5e1e75c40e",
+   "t": "A banned {{medabot}}"
+  },
+  {
+   "i": 5503,
+   "src": "ba9e88de2bf9",
+   "t": "has been selected."
+  },
+  {
+   "i": 5902,
+   "src": "0db98eba2bf5",
+   "t": "<c:ff00ff>\"Medabot Select\"<c>...?"
+  },
+  {
+   "i": 5905,
+   "src": "1b32d132a2b1",
+   "t": "There's no <c:ff00ff>\"Start {{robattle}}\"<c> button..."
+  },
+  {
+   "i": 5910,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 5916,
+   "src": "38e7b2219637",
+   "t": "If you have 2 or more {{medabot|pl}},"
+  },
+  {
+   "i": 5919,
+   "src": "182a97e506ed",
+   "t": "you choose which one to send into\nbattle."
+  },
+  {
+   "i": 5924,
+   "src": "50b4fdd79f02",
+   "t": "Choose with the D-Pad and confirm\nwith $*."
+  },
+  {
+   "i": 5927,
+   "src": "094b74656b8d",
+   "t": "When fighting with just 1, select and\npress $?."
+  },
+  {
+   "i": 5935,
+   "src": "c0336c3c104b",
+   "t": "Okay, choose both of them..."
+  },
+  {
+   "i": 5960,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 5966,
+   "src": "b273cf02c280",
+   "t": "Last, choose your {{leader}}."
+  },
+  {
+   "i": 5971,
+   "src": "2b0218b516cc",
+   "t": "Pick your {{leader}} with the <c:ff00ff>D-pad<c>"
+  },
+  {
+   "i": 5974,
+   "src": "9aa40729b374",
+   "t": "and confirm with the <c:ff00ff>$* button<c>."
+  },
+  {
+   "i": 6002,
+   "src": "af6f275b7889",
+   "t": "All right, let the {{robattle}} begin!"
+  },
+  {
+   "i": 6031,
+   "src": "97dd9b935a98",
+   "t": "...Hmm, if the {{leader}} falls I lose,"
+  },
+  {
+   "i": 6034,
+   "src": "78f6251d300c",
+   "t": "so I'll go with <c:ff00ff>{{leader|cap}} Boost<c> for now."
+  }
+ ]
+}

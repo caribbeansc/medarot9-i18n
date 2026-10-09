@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_3f_163_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "bebb19fc4664",
+   "t": "Hey, haven't you been here before?"
+  },
+  {
+   "i": 1041,
+   "src": "2dc181eb198f",
+   "t": "Maybe I'm just imagining it...?"
+  },
+  {
+   "i": 1049,
+   "src": "3ab1c8adbdaf",
+   "t": "Huh, {{aoi}}? She's in our {{club}}."
+  },
+  {
+   "i": 1052,
+   "src": "9a967eb69132",
+   "t": "The girl dancing over there right now."
+  },
+  {
+   "i": 1060,
+   "src": "7685930ddc6e",
+   "t": "She's our promising rookie!"
+  }
+ ]
+}

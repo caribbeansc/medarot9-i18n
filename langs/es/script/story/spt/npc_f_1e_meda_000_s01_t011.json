@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_1e_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f61635231b42",
+   "t": "{{fluffy_hair}}"
+  },
+  {
+   "i": 1035,
+   "src": "880d3f03ac2e",
+   "t": "¿Ya está listo?"
+  }
+ ]
+}

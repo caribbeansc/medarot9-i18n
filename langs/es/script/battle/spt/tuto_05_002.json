@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_05_002.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1123,
+   "src": "b3f95738533e",
+   "t": "Oh, la {{charge_gauge}} parece suficiente.\n¿Ya se podrá activar la Medafuerza...?   "
+  },
+  {
+   "i": 1128,
+   "src": "1b6e2cd09350",
+   "t": "Primero, presiona $ｸ y\nvuelve a elegir Carga.     "
+  },
+  {
+   "i": 1158,
+   "src": "c7caa66a5553",
+   "t": "En ese {{condition}}, presiona $ｸ otra vez.  "
+  },
+  {
+   "i": 1188,
+   "src": "19ccd7f73e68",
+   "t": "La {{medaforce}} ya debe estar elegida.\nAhora confirma con el botón $*.    "
+  }
+ ]
+}

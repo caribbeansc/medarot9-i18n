@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3e2_meda_150_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1b252ff8ff2e",
+   "t": "{{auroraqueen}}"
+  },
+  {
+   "i": 1038,
+   "src": "1ab60ce7acd9",
+   "t": "¡Sigue recto y verás un bote de basura!"
+  },
+  {
+   "i": 1041,
+   "src": "42aed7f16440",
+   "t": "¡Ojo o vas a chocar con él!"
+  },
+  {
+   "i": 1049,
+   "src": "f7c920c84ef6",
+   "t": "Te lo vengo avisando hace rato..."
+  },
+  {
+   "i": 1052,
+   "src": "fc11b4fee885",
+   "t": "pero el bote de basura ya no está, ¿no?"
+  },
+  {
+   "i": 1060,
+   "src": "43b75798aa46",
+   "t": "Como era peligroso,"
+  },
+  {
+   "i": 1063,
+   "src": "9d10835fc7e7",
+   "t": "¿será que alguien lo guardó?"
+  }
+ ]
+}

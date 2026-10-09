@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_80.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "78382ef15271",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Mascota\nLos rivales que te tienen\ncomo {{target}} tienen\n{{shooting}} y {{fighting}} -15."
+  }
+ ]
+}

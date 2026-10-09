@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_123.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3febbbfcc800",
+   "t": "{{medabot}} chica de kung-fu\nque se entrena a diario.\n \nCon artes defensivas que\nsuben la {{defend}} y golpes\nque la ignoran, domina el\ntoma y daca entre ataque\ny {{defend}}."
+  }
+ ]
+}

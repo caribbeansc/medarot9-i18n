@@ -1,0 +1,95 @@
+{
+ "rel": "mdr/tex/bt_mld.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "avenir-cond",
+  "cap": 8,
+  "fill": "#88F2E9",
+  "stroke": "#097677B0",
+  "stroke_w": 0.8,
+  "pad": 0,
+  "crisp": 0.3,
+  "min_scale_x": 0.75
+ },
+ "items": [
+  {
+   "box": [
+    177,
+    41,
+    78,
+    14
+   ],
+   "erase_box": [
+    176,
+    40,
+    80,
+    16
+   ],
+   "text": "Level Reset"
+  },
+  {
+   "box": [
+    177,
+    57,
+    30,
+    13
+   ],
+   "erase_box": [
+    176,
+    56,
+    32,
+    16
+   ],
+   "text": "Execute",
+   "cap": 7
+  },
+  {
+   "box": [
+    209,
+    57,
+    30,
+    13
+   ],
+   "erase_box": [
+    208,
+    56,
+    32,
+    16
+   ],
+   "text": "Select",
+   "cap": 7
+  },
+  {
+   "box": [
+    193,
+    73,
+    38,
+    13
+   ],
+   "erase_box": [
+    192,
+    72,
+    40,
+    16
+   ],
+   "text": "Skill",
+   "cap": 7
+  },
+  {
+   "box": [
+    192,
+    88,
+    32,
+    16
+   ],
+   "erase_box": [
+    192,
+    88,
+    32,
+    16
+   ],
+   "text": ""
+  }
+ ]
+}

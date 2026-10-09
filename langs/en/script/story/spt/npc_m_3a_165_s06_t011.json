@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_3a_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "89de420946d3",
+   "t": "The second term is almost here. "
+  },
+  {
+   "i": 1041,
+   "src": "82213733a606",
+   "t": "Still, quite a few first-years stuck\naround."
+  },
+  {
+   "i": 1049,
+   "src": "e990c3200cba",
+   "t": "That guy surprised me most."
+  },
+  {
+   "i": 1052,
+   "src": "9f323ddbf3ba",
+   "t": "I thought he was all talk and would quit\nfirst,"
+  },
+  {
+   "i": 1060,
+   "src": "4f4a934f4f45",
+   "t": "he's got real guts after all."
+  },
+  {
+   "i": 1063,
+   "src": "0540cefd9a7b",
+   "t": "You never know, heh heh."
+  }
+ ]
+}

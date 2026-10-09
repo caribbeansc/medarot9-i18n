@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3a_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "40758191d0d6",
+   "t": "Half the first-years have dropped out."
+  },
+  {
+   "i": 1041,
+   "src": "2d2e91026fe8",
+   "t": "How many will remain, I wonder... heh\nheh."
+  }
+ ]
+}

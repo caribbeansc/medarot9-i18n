@@ -1,0 +1,30 @@
+{
+ "rel": "mdr/tex/set_clr.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond-heavy",
+  "cap": 8,
+  "fill": {
+   "top": "#B4F3E1",
+   "mid": "#74E3C4",
+   "bottom": "#43D7B0"
+  },
+  "stroke": "#114839",
+  "stroke_w": 0.8,
+  "pad": 0,
+  "align": "center",
+  "valign": "middle"
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    38,
+    56,
+    12
+   ],
+   "text": "Condiciones"
+  }
+ ]
+}

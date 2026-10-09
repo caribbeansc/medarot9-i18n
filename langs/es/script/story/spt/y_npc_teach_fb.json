@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_fb.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1653,
+   "src": "2115cea1d881",
+   "t": "Vaya, ¿quieres robobatallar conmigo?"
+  },
+  {
+   "i": 1656,
+   "src": "b94c5249b61f",
+   "t": "Está bien, seré tu {{opponent}}."
+  }
+ ]
+}

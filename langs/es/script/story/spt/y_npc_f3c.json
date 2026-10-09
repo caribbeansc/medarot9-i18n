@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3c.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1665,
+   "src": "1099d029deb5",
+   "t": "¿Una {{robattle}}? ¡Por supuesto!"
+  },
+  {
+   "i": 1668,
+   "src": "9203321b02b0",
+   "t": "¡Muy bien, vamos allá!"
+  }
+ ]
+}

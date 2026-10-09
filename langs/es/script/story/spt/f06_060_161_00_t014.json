@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f06_060_161_00_t014.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1042,
+   "src": "bb19519099ae",
+   "t": "Debería llegar mucho más lejos."
+  },
+  {
+   "i": 1045,
+   "src": "a85bc8514226",
+   "t": "Esto es totalmente absurdo."
+  },
+  {
+   "i": 1059,
+   "src": "fccecf67eac2",
+   "t": "Quizá aún quede algún otro problema..."
+  },
+  {
+   "i": 1071,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1080,
+   "src": "c806b754f0c2",
+   "t": "¡No!"
+  },
+  {
+   "i": 1088,
+   "src": "fd30d1b308f4",
+   "t": "¡Si hubiera un fallo, habría más!"
+  },
+  {
+   "i": 1091,
+   "src": "099c6bcb6093",
+   "t": "¡El problema es que funcione!"
+  },
+  {
+   "i": 1101,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1107,
+   "src": "cbc64168269c",
+   "t": "¿Entonces cuál es exactamente el\nproblema?"
+  },
+  {
+   "i": 1117,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1123,
+   "src": "0c883912f6b0",
+   "t": "La causa debe estar afuera, seguro."
+  },
+  {
+   "i": 1134,
+   "src": "dd26fdc8bba4",
+   "t": "¿Afuera...?"
+  },
+  {
+   "i": 1150,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1161,
+   "src": "842f0aa0118c",
+   "t": "Las ondas de la {{medalia}} chocan con"
+  },
+  {
+   "i": 1164,
+   "src": "419dad348d9a",
+   "t": "una frecuencia que las anula."
+  },
+  {
+   "i": 1175,
+   "src": "f3d4e266d81b",
+   "t": "Ondas de interferencia... no,"
+  },
+  {
+   "i": 1178,
+   "src": "1e867fabfd05",
+   "t": "¿hay ondas sonoras de interferencia?"
+  },
+  {
+   "i": 1190,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1199,
+   "src": "f375c7f0be27",
+   "t": "¡Ah, exacto!"
+  },
+  {
+   "i": 1206,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1215,
+   "src": "da74b66b9801",
+   "t": "¿Es algo artificial?"
+  },
+  {
+   "i": 1225,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1234,
+   "src": "7311e006ce9f",
+   "t": "No lo sé."
+  },
+  {
+   "i": 1242,
+   "src": "33d39b24c5d6",
+   "t": "Ni en la naturaleza hay silencio."
+  },
+  {
+   "i": 1245,
+   "src": "652d7687cb86",
+   "t": "Siempre hay muchos sonidos presentes."
+  },
+  {
+   "i": 1260,
+   "src": "f6a336126b0a",
+   "t": "No sé cuál sonido es el problema."
+  },
+  {
+   "i": 1263,
+   "src": "944314596538",
+   "t": "Pero no se me ocurre otra cosa."
+  },
+  {
+   "i": 1271,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

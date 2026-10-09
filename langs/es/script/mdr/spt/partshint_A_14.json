@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_14.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ea64631404d3",
+   "t": "<c:00ff00>{{mf}}:<c>Descarga Total\nReúne el poder de todas\nlas {{part|pl}} de tiro y dispara\nun potente impacto.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de tiro"
+  }
+ ]
+}

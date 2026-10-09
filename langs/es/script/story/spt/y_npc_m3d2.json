@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3d2.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "2b1fd07bd562",
+   "t": "{{homare}}"
+  },
+  {
+   "i": 1653,
+   "src": "828b4c9d0fa6",
+   "t": "Ah sí, por supuesto."
+  },
+  {
+   "i": 1656,
+   "src": "5c4988cff5cb",
+   "t": "¡Vamos, dame con todo!"
+  }
+ ]
+}

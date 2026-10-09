@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description131.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "cf4d44972c7b",
+   "t": "{{vehicle|cap}} ({{legs}})"
+  },
+  {
+   "i": 11,
+   "src": "d8ce25c6011d",
+   "t": "<c:ffff00>{{leg_type|cap}}<c> que avanza sobre ruedas. Su\n<c:ffff00>{{stats}}<c> tiende a tener <c:ffff00>{{armor}}<c> y <c:ffff00>{{mobility}}<c>\naltos. Corre bien por suelo preparado, pero pocos\nterrenos le convienen.\n\n<c:ffff00>{{terrain_affinity|cap}}<c> ({{mobility}}, <c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains|cap}}<c> +6, <c:ffff00>{{forest|cap}}<c> -4, <c:ffff00>{{rocky_ground|cap}}<c> -4, <c:ffff00>{{sand|cap}}<c> -4,\n  <c:ffff00>{{tundra|cap}}<c> -4, <c:ffff00>{{hall|cap}}<c> -4, <c:ffff00>{{waterside|cap}}<c> -4, <c:ffff00>{{cyber|cap}}<c> +4.\n  <c:ffff00>{{underwater|cap}}<c> y <c:ffff00>{{sky|cap}}<c>: no se puede robobatallar."
+  }
+ ]
+}

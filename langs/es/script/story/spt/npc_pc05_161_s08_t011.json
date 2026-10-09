@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/npc_pc05_161_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1037,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1045,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1055,
+   "src": "958b633579af",
+   "t": "......"
+  },
+  {
+   "i": 1066,
+   "src": "76632d8ff5f8",
+   "t": "{{main}}-chan vive por su"
+  },
+  {
+   "i": 1069,
+   "src": "57fa4b97bae0",
+   "t": "estudio. ¿Le dan igual las {{medalia|pl}}?"
+  },
+  {
+   "i": 1074,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1083,
+   "src": "e3e44f89f228",
+   "t": "No, eso no es cierto."
+  },
+  {
+   "i": 1094,
+   "src": "d8c2eba0e827",
+   "t": "Oh, ¿estabas escuchando?"
+  },
+  {
+   "i": 1099,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1108,
+   "src": "d091d2a4edb9",
+   "t": "Sí, mientras más muestras, más"
+  },
+  {
+   "i": 1111,
+   "src": "259c00b5ee6e",
+   "t": "rápido se avanza. Y además--"
+  },
+  {
+   "i": 1122,
+   "src": "819dc4be3db3",
+   "t": "¡Caminar juntos y charlar es muy"
+  },
+  {
+   "i": 1125,
+   "src": "9297a8221631",
+   "t": "divertido! ¡Es como un picnic!"
+  }
+ ]
+}

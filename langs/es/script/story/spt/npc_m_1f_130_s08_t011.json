@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_1f_130_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "ecce990f544f",
+   "t": "No viene nadie... ¿Siguen buscando "
+  },
+  {
+   "i": 1038,
+   "src": "8a94b19d684b",
+   "t": "{{medalia|pl}}? Dijeron que volverían"
+  },
+  {
+   "i": 1046,
+   "src": "28e7898b6be6",
+   "t": "al hallar una. Con tanta gente"
+  },
+  {
+   "i": 1049,
+   "src": "be9ecc699e48",
+   "t": "buscando, deberían acabar pronto-"
+  },
+  {
+   "i": 1070,
+   "src": "708bb4cb270d",
+   "t": "Ah... ¿me estabas hablando?"
+  },
+  {
+   "i": 1073,
+   "src": "05fbe5477878",
+   "t": "Estaba distraído, no me di cuenta."
+  },
+  {
+   "i": 1081,
+   "src": "8138f70e7407",
+   "t": "Poder distraerme mientras corro"
+  },
+  {
+   "i": 1084,
+   "src": "8f2f510fa3c9",
+   "t": "es que de verdad he crecido. Jajaja."
+  }
+ ]
+}

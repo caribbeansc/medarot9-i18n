@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_157.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "18728ea1602a",
+   "t": "<c:00ff00>Técnica:<c>{{trap|cap}} Defensa\nColoca una {{trap}} que\nreacciona a la acción de\nDefensa del {{opponent}}: le daña\ne interrumpe su guardia.\nAl colocarla varias veces\nsuben su {{armor}} y {{damage}}."
+  }
+ ]
+}

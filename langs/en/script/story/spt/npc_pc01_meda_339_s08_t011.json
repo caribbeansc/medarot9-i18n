@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc01_meda_339_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "8e776c3383c4",
+   "t": "That was a big drop!"
+  },
+  {
+   "i": 1049,
+   "src": "b8b4d1d94eaa",
+   "t": "What do we do?"
+  },
+  {
+   "i": 1057,
+   "src": "6fe5b9e1f8e5",
+   "t": "What do we do, you ask..."
+  },
+  {
+   "i": 1065,
+   "src": "256ee872decf",
+   "t": "For now, all we can do is look"
+  },
+  {
+   "i": 1068,
+   "src": "c125e85977bd",
+   "t": "for a way back."
+  }
+ ]
+}

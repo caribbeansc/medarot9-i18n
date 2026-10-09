@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_15.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1f733a5928fa",
+   "t": "<c:00ff00>Leg Trait:<c> {{breakneck}}\nWhile prepping and acting,\n{{mobility}} stat +10."
+  }
+ ]
+}

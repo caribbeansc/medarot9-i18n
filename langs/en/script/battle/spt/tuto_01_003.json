@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_01_003.spt",
+ "lines": [
+  {
+   "i": 1083,
+   "src": "b650e5dafd01",
+   "t": "After acting, a {{part}} overheats\nand needs \"<c:ff00ff>{{cooldown}}<c>.\"                                     "
+  },
+  {
+   "i": 1106,
+   "src": "d4a6d31b3582",
+   "t": "Now the gauge turns orange\nand shrinks.                              "
+  },
+  {
+   "i": 1111,
+   "src": "806eaebb746a",
+   "t": "You can't give the next command\nuntil {{cooldown}} is complete.                        "
+  },
+  {
+   "i": 1128,
+   "src": "2503227b1a6c",
+   "t": "{{prep}} and {{cooldown}} vary from {{part}}\nto {{part}}, so...                                                                         "
+  },
+  {
+   "i": 1133,
+   "src": "d63815296a15",
+   "t": "When choosing commands, look closely\nat\nthe part data in the status window.          "
+  }
+ ]
+}

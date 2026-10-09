@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/bt0256.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "b756b29efe5d",
+   "t": "{{medabot}} {{stray|cap}}"
+  },
+  {
+   "i": 864,
+   "src": "5574b52fda70",
+   "t": "¡¡{{air_robattle|cap}}!!"
+  },
+  {
+   "i": 867,
+   "src": "5574b52fda70",
+   "t": "¡¡{{air_robattle|cap}}!!"
+  },
+  {
+   "i": 870,
+   "src": "3a93ab2a0201",
+   "t": "¡Gana solo con {{legs}} voladoras!"
+  },
+  {
+   "i": 884,
+   "src": "8f0056c81e13",
+   "t": "...Lárgate de aquí..."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1f2_140_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2fcba1bd9f86",
+   "t": "{{suiro}}"
+  },
+  {
+   "i": 1035,
+   "src": "adb811495baa",
+   "t": "¿Principiantes? Para nada."
+  },
+  {
+   "i": 1038,
+   "src": "43d7becbb63c",
+   "t": "Eso es mentira, sin duda."
+  },
+  {
+   "i": 1046,
+   "src": "49e4133c33ca",
+   "t": "Se contienen, pero tienen experiencia."
+  },
+  {
+   "i": 1049,
+   "src": "afe4c31e7b01",
+   "t": "Ambos... ¿¿Quiénes son en realidad??"
+  }
+ ]
+}

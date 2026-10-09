@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc04_161_s06_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "9b094e9cd2e5",
+   "t": "The source is the {{principal}}'s office...\nWhat's going on?"
+  },
+  {
+   "i": 1046,
+   "src": "fea4dd3c9e57",
+   "t": "Well, thinking about it won't help."
+  },
+  {
+   "i": 1049,
+   "src": "707ba2f82cd6",
+   "t": " Let's go."
+  }
+ ]
+}

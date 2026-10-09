@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f08_180_113_00_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1037,
+   "src": "74269b00c018",
+   "t": "I'm glad everyone is safe and unhurt."
+  },
+  {
+   "i": 1040,
+   "src": "a078801fea1f",
+   "t": "Be sure to thank the {{rescue_club}}."
+  },
+  {
+   "i": 1048,
+   "src": "8ccbb5248b00",
+   "t": "However."
+  }
+ ]
+}

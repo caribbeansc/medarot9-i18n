@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_64.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a6088dd27183",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{nest}}\nAl completar la carga, el\n{{armor}} de las trampas y\nplantas +20."
+  }
+ ]
+}

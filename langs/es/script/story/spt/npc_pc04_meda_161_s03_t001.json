@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc04_meda_161_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "78cde81e54aa",
+   "t": "En serio."
+  },
+  {
+   "i": 1041,
+   "src": "937c430a73a8",
+   "t": "No me importa si es montaña o mar."
+  },
+  {
+   "i": 1049,
+   "src": "02065d36f4a8",
+   "t": "¡Vamos afuera, afuera! ¡Estoy harto"
+  },
+  {
+   "i": 1052,
+   "src": "69c49a75e065",
+   "t": "de mirar paredes todo el tiempo!"
+  }
+ ]
+}

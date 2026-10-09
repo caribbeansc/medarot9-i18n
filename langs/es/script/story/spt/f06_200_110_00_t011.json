@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f06_200_110_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "e9df853b82de",
+   "t": "¿Ya terminaron?"
+  },
+  {
+   "i": 1046,
+   "src": "c2245b4b4557",
+   "t": "Por aquí tampoco hay nada raro."
+  },
+  {
+   "i": 1049,
+   "src": "be62720ea3cb",
+   "t": "Salgamos."
+  }
+ ]
+}

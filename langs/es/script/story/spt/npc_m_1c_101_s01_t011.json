@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1c_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38970cb0378c",
+   "t": "{{boy_1_c}}"
+  },
+  {
+   "i": 1035,
+   "src": "68a1e5835dc8",
+   "t": "Hola, "
+  },
+  {
+   "i": 1037,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1040,
+   "src": "6b45202650a6",
+   "t": "Soy tu {{classmate}}."
+  },
+  {
+   "i": 1048,
+   "src": "87e22053e0ee",
+   "t": "¿Ahora? Riego las flores."
+  },
+  {
+   "i": 1051,
+   "src": "8653ae60fb46",
+   "t": "Estoy en el {{gardening_club}}."
+  },
+  {
+   "i": 1059,
+   "src": "1510ab517ec3",
+   "t": "¿...Eh? ¿No te sorprende para nada?"
+  },
+  {
+   "i": 1062,
+   "src": "68c2089575c6",
+   "t": "Quizá no, jaja."
+  }
+ ]
+}

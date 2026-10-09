@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_m_1d_116_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "Hey, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "9df71fd9dbfa",
+   "t": "It's me, your {{classmate}} {{kamekichi}}."
+  },
+  {
+   "i": 1051,
+   "src": "205e68fb6bed",
+   "t": "Why are you so fidgety?"
+  },
+  {
+   "i": 1054,
+   "src": "3fcb80bc08dc",
+   "t": "Meeting someone?"
+  },
+  {
+   "i": 1062,
+   "src": "1e00301e1979",
+   "t": "Hey, did a girl come by here?"
+  },
+  {
+   "i": 1065,
+   "src": "a11cdedc51e0",
+   "t": "Her name's {{aoi}}-san."
+  },
+  {
+   "i": 1070,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1076,
+   "src": "b722a4325d0e",
+   "t": "Hmm, I've been here a while, but"
+  },
+  {
+   "i": 1079,
+   "src": "d29c437fe850",
+   "t": "I don't think any girl customers have\ncome."
+  },
+  {
+   "i": 1087,
+   "src": "b19436a65093",
+   "t": "I see."
+  },
+  {
+   "i": 1090,
+   "src": "7ef8b5de132d",
+   "t": "Got it, thanks."
+  }
+ ]
+}

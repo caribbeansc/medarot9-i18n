@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f07_120_160_00_t121.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1035,
+   "src": "3954f9666c26",
+   "t": "Ya me cansé de esperar."
+  },
+  {
+   "i": 1042,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1048,
+   "src": "8e930133d7f7",
+   "t": "¡Allá vamos!"
+  }
+ ]
+}

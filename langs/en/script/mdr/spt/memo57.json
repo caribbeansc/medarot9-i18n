@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo57.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "ca3261948b8e",
+   "t": "'{{medalia}} {{collect|cap}}:Warehouse'"
+  },
+  {
+   "i": 32,
+   "src": "7225a89273a1",
+   "t": "Large medalia reaction in the warehouse.\nThat's a lot of ground to cover.\n"
+  },
+  {
+   "i": 42,
+   "src": "51aec252b6ae",
+   "t": "Ran into a strange man,the {{medalia}} was found safe.\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

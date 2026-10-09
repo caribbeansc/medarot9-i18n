@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "ddf973a0f827",
+   "t": "Isn't it unheard of for a scholarship\nstudent"
+  },
+  {
+   "i": 1041,
+   "src": "1850a551b93e",
+   "t": "to fail a class? Hee hee."
+  }
+ ]
+}

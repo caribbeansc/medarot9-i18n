@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f10_040_161_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "dc595df7d677",
+   "t": "Where's the {{medal}}?"
+  }
+ ]
+}

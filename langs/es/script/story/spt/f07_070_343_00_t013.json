@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f07_070_343_00_t013.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1049,
+   "src": "cc6b29abc0b1",
+   "t": "¡Hay {{part|pl}}!"
+  },
+  {
+   "i": 1052,
+   "src": "d054708ad5d3",
+   "t": "¡Un montón de {{legs_part_slot}} apiladas!"
+  },
+  {
+   "i": 1062,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1071,
+   "src": "c6c4521ae4f6",
+   "t": "Vaya, en serio."
+  },
+  {
+   "i": 1081,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1090,
+   "src": "4bf8f9d0efa3",
+   "t": "Un {{medabot}} raro me atacó de repente."
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1109,
+   "src": "ca29f4f68cb5",
+   "t": "Y perdiste y te quitaron las {{legs_part_slot}}."
+  }
+ ]
+}

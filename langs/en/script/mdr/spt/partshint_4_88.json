@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_88.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "20c09971f1ce",
+   "t": "<c:00ff00>Leg Trait:<c> {{heavy_arm}}\nFor each {{heavy_part|cap}}\nequipped,\n{{mobility}}, {{shooting}},\n{{fighting}} +3."
+  }
+ ]
+}

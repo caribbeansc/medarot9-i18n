@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f01_110_162_00_t001.spt",
+ "lines": [
+  {
+   "i": 1130,
+   "src": "187d6ff29116",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1146,
+   "src": "eb3f02231560",
+   "t": "¿{{robattle|cap}}? ¿{{robattle|cap}}?"
+  },
+  {
+   "i": 1181,
+   "src": "1814e9321871",
+   "t": "¡Oh, es una {{robattle}}!"
+  },
+  {
+   "i": 1184,
+   "src": "6a3dcc99b8c2",
+   "t": "¡Déjamelo a mí~!"
+  },
+  {
+   "i": 1190,
+   "src": "96245e443763",
+   "t": "¡Sí, es una {{robattle}}!"
+  },
+  {
+   "i": 1193,
+   "src": "f561bb128740",
+   "t": "¡Déjamelo a mí~!"
+  }
+ ]
+}

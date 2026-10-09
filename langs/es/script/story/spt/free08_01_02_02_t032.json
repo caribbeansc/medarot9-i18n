@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free08_01_02_02_t032.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "06f073bd491b",
+   "t": "Vaya, vaya, esta vez sí que se acabó."
+  },
+  {
+   "i": 1038,
+   "src": "14b7f98413a8",
+   "t": "Bien, de vuelta al {{club}}."
+  }
+ ]
+}

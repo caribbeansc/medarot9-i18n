@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f10_030_118_00_t016.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "ef86350d793b",
+   "t": "Ya veo."
+  },
+  {
+   "i": 1043,
+   "src": "40c854c0435b",
+   "t": "Así que es eso..."
+  }
+ ]
+}

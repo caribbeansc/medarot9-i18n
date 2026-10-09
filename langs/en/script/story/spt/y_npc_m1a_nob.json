@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m1a_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1035,
+   "src": "9cd9763871a3",
+   "t": "Sorry, I'm kinda busy right now."
+  },
+  {
+   "i": 1038,
+   "src": "55485528a060",
+   "t": "Later!"
+  }
+ ]
+}

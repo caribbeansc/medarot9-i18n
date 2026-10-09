@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_59.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3c264aec2aa2",
+   "t": "<c:00ff00>Action:<c> {{beam_sword}}\nA melee attack.\nWith the Charge\nGauge at 50%+,\n{{power}} doubles; at\n100%, it triples.\nWith {{success}} 40+,\ngains piercing."
+  }
+ ]
+}

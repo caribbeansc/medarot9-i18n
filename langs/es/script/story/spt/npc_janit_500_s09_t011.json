@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_janit_500_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 1038,
+   "src": "841b0fe97300",
+   "t": "¿Eres estudiante? ¿Qué haces"
+  },
+  {
+   "i": 1041,
+   "src": "78900ab09a39",
+   "t": "despierto tan temprano por la mañana?"
+  },
+  {
+   "i": 1049,
+   "src": "0e2dbab23697",
+   "t": "¿Qué, vienes a recoger un paquete?"
+  },
+  {
+   "i": 1057,
+   "src": "cff850cdf05e",
+   "t": "Ah, entonces llegas un poco tarde."
+  },
+  {
+   "i": 1060,
+   "src": "fda5298efda3",
+   "t": "Mi hija acaba de salir a entregarlo."
+  },
+  {
+   "i": 1068,
+   "src": "91311c625519",
+   "t": "Ya debió llegar a salvo."
+  },
+  {
+   "i": 1071,
+   "src": "dea039671897",
+   "t": "Perdón por hacerte venir."
+  }
+ ]
+}

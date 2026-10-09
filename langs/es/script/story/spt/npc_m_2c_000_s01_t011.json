@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1038,
+   "src": "02684f7f42a2",
+   "t": "Por bueno que sea el aire, un"
+  },
+  {
+   "i": 1041,
+   "src": "30d35732f477",
+   "t": "{{locker_room}} de chicos sudados apesta."
+  }
+ ]
+}

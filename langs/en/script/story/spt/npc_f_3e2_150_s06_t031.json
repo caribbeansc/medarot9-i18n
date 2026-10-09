@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3e2_150_s06_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1035,
+   "src": "44f6a963317e",
+   "t": "Suzune is dignified and cool?"
+  },
+  {
+   "i": 1038,
+   "src": "e5d491fce0ae",
+   "t": "To someone who doesn't know her,\nmaybe she looks that way..."
+  }
+ ]
+}

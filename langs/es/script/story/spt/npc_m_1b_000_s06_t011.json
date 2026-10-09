@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_m_1b_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "ff3b9b165a06",
+   "t": "Ah, es"
+  },
+  {
+   "i": 1042,
+   "src": "0fdddc814c39",
+   "t": "..."
+  },
+  {
+   "i": 1050,
+   "src": "e794af3e30ab",
+   "t": "Por favor olvida lo que pasó recién."
+  },
+  {
+   "i": 1053,
+   "src": "5b4484634965",
+   "t": "Yo también lo olvidaré. "
+  },
+  {
+   "i": 1061,
+   "src": "eb159da97828",
+   "t": "Después de todo, ella es solo una flor"
+  },
+  {
+   "i": 1064,
+   "src": "0be30a8363f2",
+   "t": "inalcanzable... Jaja."
+  },
+  {
+   "i": 1072,
+   "src": "1fbf161ea63f",
+   "t": "¿Eh? ¿De qué hablas? Gracias,"
+  },
+  {
+   "i": 1075,
+   "src": "b9fbca55f2c2",
+   "t": "eres un tipo más decente de lo que creí."
+  },
+  {
+   "i": 1083,
+   "src": "db18e50fd3ad",
+   "t": "Juguemos videojuegos otra vez."
+  },
+  {
+   "i": 1086,
+   "src": "72aa50349766",
+   "t": "¿Qué tal esta noche?"
+  }
+ ]
+}

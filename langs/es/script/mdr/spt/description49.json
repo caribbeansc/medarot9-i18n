@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description49.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e2026165d4a5",
+   "t": "{{recover|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "37c78ee4f560",
+   "t": "{{effect|cap}} que aumenta el valor de <c:ffff00>{{armor}}<c> (<c:ffff00>{{damage}}<c>) que\nuna <c:ffff00>{{part}}<c> u <c:ffff00>{{object}}<c> perdió al recibir un <c:ffff00>ataque<c>, con\nel valor inicial como tope.\n\nEs sobre todo una <c:ffff00>técnica<c> de las {{part|pl}} de <c:ffff00>habilidad<c>\n<c:ffff00>de curación<c>.\n\nEl {{armor}} de una {{part}} <c:ffff00>destruida<c> no se puede\nrecuperar, pero el {{effect}} <c:ffff00>{{restore}}<c> sí funciona."
+  }
+ ]
+}

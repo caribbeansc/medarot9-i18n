@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description98.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "db6350befa48",
+   "t": "Combate (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "a8a3b9348aa4",
+   "t": "<c:ffff00>Habilidad<c> <c:ffff00>ofensiva<c>: capacidad de manejar <c:ffff00>{{part|pl}}<c> con\nmecanismo de arma para <c:ffff00>atacar<c> a rivales cercanos.\nIncluye <c:ffff00>técnicas<c> de <c:ffff00>ataque de {{fighting}}<c>.\n\nA mayor <c:ffff00>{{skill_level}}<c>: <c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c> más\nrápidos, y mayor <c:ffff00>{{success_power}}<c>.\n\nEn las {{part|pl}} de {{fighting}}, el <c:ffff00>{{stats}} de<c>\n<c:ffff00>{{power}}<c> sube al llenarse la <c:ffff00>{{charge_gauge}}<c>."
+  }
+ ]
+}

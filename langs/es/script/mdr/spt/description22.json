@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description22.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6e97919dfa4f",
+   "t": "{{acting_part|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "b210805a8613",
+   "t": "<c:ffff00>{{part|cap}}<c> usada en la <c:ffff00>acción<c> del <c:ffff00>{{medabot}}<c>. Depende del\ntipo de acción y no siempre es una sola. En una\n<c:ffff00>técnica<c>, es la {{part}} que la tiene.\n\nSi la {{acting_part}} es <c:ffff00>destruida<c> antes de\ncompletar la acción (por ejemplo, durante la <c:ffff00>{{prep}}<c>),\nla acción se interrumpe y comienza de inmediato el\n<c:ffff00>{{cooldown}}<c>, de duración fija sin importar el\n<c:ffff00>{{stats}} de {{cooldown}}<c> de la técnica."
+  }
+ ]
+}

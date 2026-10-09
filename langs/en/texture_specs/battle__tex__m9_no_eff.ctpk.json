@@ -1,0 +1,71 @@
+{
+ "rel": "battle/tex/m9_no_eff.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    114,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    1,
+    112,
+    29
+   ],
+   "erase": "none",
+   "text": "NO EFFECT!",
+   "font": "impact",
+   "cap": 19,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFFF"
+     ],
+     [
+      0.5,
+      "#F2F0FA"
+     ],
+     [
+      0.56,
+      "#B9B6CC"
+     ],
+     [
+      1,
+      "#A9A6BE"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#6A48B0",
+     "w": 1
+    },
+    {
+     "color": "#566A9C",
+     "w": 1.2
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   }
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b2_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d0f3e43d8d58",
+   "t": "{{ours_blanc}}"
+  },
+  {
+   "i": 1038,
+   "src": "8bcd3aa0d252",
+   "t": "Snow-type legs have the edge on ice,\nhuh."
+  },
+  {
+   "i": 1041,
+   "src": "fbe97f413508",
+   "t": "Your legs would get stuck in the snow."
+  }
+ ]
+}

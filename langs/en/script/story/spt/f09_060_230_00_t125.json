@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f09_060_230_00_t125.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1035,
+   "src": "90ea06ae59db",
+   "t": "Heh heh... Found it."
+  },
+  {
+   "i": 1038,
+   "src": "5c00ed29d3fa",
+   "t": "This is the power source for the lock\nmechanism."
+  }
+ ]
+}

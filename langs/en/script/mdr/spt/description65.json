@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description65.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "daf52b7dccaa",
+   "t": "{{field|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "5a3f22cda225",
+   "t": "The place where a <c:ffff00>{{robattle}}<c> is held. There are 10\nterrains: <c:ffff00>{{plains}}<c>, <c:ffff00>{{forest}}<c>, <c:ffff00>{{rocky_ground}}<c>, <c:ffff00>{{sand}}<c>,\n<c:ffff00>{{tundra}}<c>, <c:ffff00>{{hall}}<c>, <c:ffff00>{{waterside}}<c>, <c:ffff00>{{underwater}}<c>, <c:ffff00>{{sky}}<c> and <c:ffff00>{{cyber}}<c>.\nDepending on the <c:ffff00>{{leg_type}}<c> of the <c:ffff00>{{medabot}}<c>, there is\na <c:ffff00>{{terrain_affinity}}<c>.\n\nUsually the current location is used, but by mutual\nagreement you can move or use a virtual space."
+  }
+ ]
+}

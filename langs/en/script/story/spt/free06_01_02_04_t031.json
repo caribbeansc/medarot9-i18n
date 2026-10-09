@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_01_02_04_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "0ffb68cf2803",
+   "t": "This tower seems to be that guy's\nterritory."
+  },
+  {
+   "i": 1051,
+   "src": "b8b4d1d94eaa",
+   "t": "What now?"
+  },
+  {
+   "i": 1054,
+   "src": "0ad1e4ee18db",
+   "t": "Fight?"
+  },
+  {
+   "i": 1061,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1067,
+   "src": "cfeac72f5299",
+   "t": "Doesn't look like we have a choice."
+  }
+ ]
+}

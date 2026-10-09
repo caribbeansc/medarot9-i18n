@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_teach_mb_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5c970240c8e3",
+   "t": "{{mr_saito}}"
+  },
+  {
+   "i": 1035,
+   "src": "a84bd6af88a3",
+   "t": "Bueno, jajaja. La verdad estoy "
+  },
+  {
+   "i": 1038,
+   "src": "35e9df1ba314",
+   "t": "deseando que llegue, {{ms_kotobuki}}."
+  },
+  {
+   "i": 1046,
+   "src": "87b78485cd74",
+   "t": "Aunque no lo parezca, soy bueno"
+  },
+  {
+   "i": 1049,
+   "src": "801bc14596d2",
+   "t": "en las {{robattle|pl}}."
+  },
+  {
+   "i": 1057,
+   "src": "b2d5ba43cda5",
+   "t": "¿Quiere que se lo explique?"
+  },
+  {
+   "i": 1060,
+   "src": "7a5d2746e482",
+   "t": "Jajaja."
+  }
+ ]
+}

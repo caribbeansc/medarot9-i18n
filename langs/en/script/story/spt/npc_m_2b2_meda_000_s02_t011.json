@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b2_meda_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "97028863df10",
+   "t": "2nd-Yr Boy B's Medabot"
+  },
+  {
+   "i": 1035,
+   "src": "c4b8ee6d3efd",
+   "t": "Yeah, leave it to me!"
+  },
+  {
+   "i": 1038,
+   "src": "fb7a61572dca",
+   "t": "I won't give you time to charge!"
+  }
+ ]
+}

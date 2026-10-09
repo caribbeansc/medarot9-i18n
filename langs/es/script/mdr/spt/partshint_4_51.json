@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_51.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b1b749386dbf",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{trigger_happy}}\nCada vez que un {{shooting}}\ncausa un {{critical}}, la {{part}}\nde {{legs}} gana +3 en\n{{shooting}}.\n*Máximo +15."
+  }
+ ]
+}

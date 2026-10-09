@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description100.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8bae303d0d7f",
+   "t": "Support (skill)"
+  },
+  {
+   "i": 11,
+   "src": "af3c2fa3e898",
+   "t": "A <c:ffff00>support type<c> <c:ffff00>skill<c>: the ability to handle <c:ffff00>{{part|pl}}<c> that\npower up allies. <c:ffff00>Actions<c> that apply a <c:ffff00>{{positive_effect}}<c>\nbelong to it.\n\nThe higher the <c:ffff00>{{skill_level}}<c>, the faster <c:ffff00>{{prep}}<c> and\n<c:ffff00>{{cooldown}}<c> are, and the higher <c:ffff00>defense power<c> and\n<c:ffff00>evasion power<c> become.\nOn Support {{part|pl}}, the <c:ffff00>{{cooldown}}<c> stat rises when the\n<c:ffff00>{{charge_gauge}}<c> fills."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f05_035_230_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5c5b43b2f274",
+   "t": "{{bustroyer}}"
+  },
+  {
+   "i": 1035,
+   "src": "6f8f8204890f",
+   "t": "Sorry, {{master}}!"
+  },
+  {
+   "i": 1042,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1048,
+   "src": "0540b1891662",
+   "t": "Don't worry about it!"
+  },
+  {
+   "i": 1051,
+   "src": "ba2d7792c727",
+   "t": "We're going home!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3e_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "72ccd9007406",
+   "t": "{{aimflash}}"
+  },
+  {
+   "i": 1038,
+   "src": "1a33205f294a",
+   "t": "¡Qué aburrimiento! A este paso"
+  },
+  {
+   "i": 1041,
+   "src": "27e192719d2f",
+   "t": "mi alma periodística se oxidará."
+  }
+ ]
+}

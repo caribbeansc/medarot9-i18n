@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/prebattle_viewEnemy.spt",
+ "lines": [
+  {
+   "i": 1059,
+   "src": "644615b4ba1f",
+   "t": "Cancel the {{robattle}}?"
+  },
+  {
+   "i": 1063,
+   "src": "6289a02e0012",
+   "t": "Reselect {{field}} and rules?"
+  }
+ ]
+}

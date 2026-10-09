@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_3e2_meda_140_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3456179ce831",
+   "t": "Chuugen Haoh"
+  },
+  {
+   "i": 1035,
+   "src": "89e586849d27",
+   "t": "Damn, this guy"
+  },
+  {
+   "i": 1038,
+   "src": "11324177d741",
+   "t": "still has no openings..."
+  },
+  {
+   "i": 1046,
+   "src": "b89e66fb5621",
+   "t": "I can't move!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_seitokai_ma_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1038,
+   "src": "e9486048d548",
+   "t": "Oye, ¿podrías ir al puerto por mí"
+  },
+  {
+   "i": 1041,
+   "src": "aab044b43167",
+   "t": "y recoger un paquete del conserje?"
+  },
+  {
+   "i": 1049,
+   "src": "80a4b7a36a03",
+   "t": "Dile que eres del {{student_council}} y"
+  },
+  {
+   "i": 1052,
+   "src": "bc2d020a5295",
+   "t": "te lo dará. La cinta también viene ahí."
+  }
+ ]
+}

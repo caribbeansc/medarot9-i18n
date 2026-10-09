@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f00_000_900_00_t012.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1050,
+   "src": "728a3d0825f7",
+   "t": "-kun, right!"
+  },
+  {
+   "i": 1053,
+   "src": "b00193c9b170",
+   "t": "Okay, I've got it this time!"
+  },
+  {
+   "i": 1061,
+   "src": "9bc5c3886579",
+   "t": "Yeah, right..."
+  },
+  {
+   "i": 1064,
+   "src": "9bded8601060",
+   "t": "Anyway, what do you want?"
+  },
+  {
+   "i": 1069,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1075,
+   "src": "6dc5dce12e0c",
+   "t": "Hehe!"
+  },
+  {
+   "i": 1090,
+   "src": "4b55310ffd80",
+   "t": "Let's have a {{robattle}}!"
+  },
+  {
+   "i": 1098,
+   "src": "deb8f21c4006",
+   "t": "A {{robattle}}?"
+  },
+  {
+   "i": 1103,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1109,
+   "src": "1a992e771d46",
+   "t": "I just came up with a strategy."
+  },
+  {
+   "i": 1112,
+   "src": "bb064734ce5b",
+   "t": "I want to test it out before the real\nthing."
+  },
+  {
+   "i": 1120,
+   "src": "a1252f60fc90",
+   "t": "Oh, right, the tournament's tomorrow..."
+  },
+  {
+   "i": 1135,
+   "src": "53484a2e8703",
+   "t": "Okay, sure."
+  },
+  {
+   "i": 1138,
+   "src": "c9478ab754ff",
+   "t": "All right, let's go!"
+  }
+ ]
+}

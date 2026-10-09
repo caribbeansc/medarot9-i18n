@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_62.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "72eaea14ab13",
+   "t": "<c:00ff00>Action:<c> {{flash}}\nA melee attack that\napplies the\n{{flash}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{flash}}\nThe target cannot evade\nor defend until prepping\nor cooldown completes\nonce."
+  }
+ ]
+}

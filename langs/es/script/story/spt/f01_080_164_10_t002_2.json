@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f01_080_164_10_t002_2.spt",
+ "lines": [
+  {
+   "i": 961,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 970,
+   "src": "3bfc86d8e5b0",
+   "t": "Eh, ¿ya no quieres unirte?"
+  },
+  {
+   "i": 973,
+   "src": "7ab5e4831760",
+   "t": "¿Seguro?"
+  }
+ ]
+}

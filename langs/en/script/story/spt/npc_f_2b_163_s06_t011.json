@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2b_163_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 1038,
+   "src": "acc10be5ac3d",
+   "t": "A {{culture_festival}} right after summer\nvacation is too much."
+  },
+  {
+   "i": 1041,
+   "src": "07680e924100",
+   "t": "I wish it were at least before summer\nvacation..."
+  }
+ ]
+}

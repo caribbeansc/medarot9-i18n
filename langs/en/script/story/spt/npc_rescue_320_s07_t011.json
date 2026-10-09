@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rescue_320_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "04f35e4ee4d8",
+   "t": "Oh, a shipwreck?"
+  },
+  {
+   "i": 1038,
+   "src": "a5f38f26d0ef",
+   "t": "Indeed, this shadow... it does look like\none..."
+  },
+  {
+   "i": 1046,
+   "src": "5239d94af1ed",
+   "t": "A complex underwater structure, perfect\nfor water rescue training."
+  },
+  {
+   "i": 1049,
+   "src": "d67a4c6dbabf",
+   "t": "Let's send an investigation team right\naway--"
+  },
+  {
+   "i": 1070,
+   "src": "9cb84c5f2af1",
+   "t": "What is it?"
+  },
+  {
+   "i": 1073,
+   "src": "f94a4dd56c67",
+   "t": "I'm busy right now. If it's talk, make it\nlater."
+  }
+ ]
+}

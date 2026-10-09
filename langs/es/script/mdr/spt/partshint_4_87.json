@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_87.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "caba318c3fa3",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nSupremacía\nReduce un 30% el {{damage}}\nrecibido de rivales con el\nmismo {{leg_type}}."
+  }
+ ]
+}

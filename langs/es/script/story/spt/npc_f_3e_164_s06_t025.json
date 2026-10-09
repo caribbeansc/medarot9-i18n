@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t025.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "7384a2e31611",
+   "t": "Cuanto más parecidas combines,"
+  },
+  {
+   "i": 1038,
+   "src": "eac874be5731",
+   "t": "más fuerte será la {{medalia}}."
+  },
+  {
+   "i": 1046,
+   "src": "c2050538466b",
+   "t": "Mismo color, forma o habilidad."
+  },
+  {
+   "i": 1049,
+   "src": "8e37cb1938ac",
+   "t": "Aprovéchalo bien."
+  }
+ ]
+}

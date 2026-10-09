@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_teach_fb_meda_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fe562aa37220",
+   "t": "{{heal_angel}}"
+  },
+  {
+   "i": 1038,
+   "src": "2280ad2bd9ae",
+   "t": "Oh, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "925e3225bf70",
+   "t": "How are you feeling?"
+  },
+  {
+   "i": 1051,
+   "src": "1428070511a0",
+   "t": "Poor contact tends to happen in this\nseason."
+  },
+  {
+   "i": 1054,
+   "src": "bd8c3d62af07",
+   "t": "If you notice your responses getting\nsluggish, tell us right away."
+  }
+ ]
+}

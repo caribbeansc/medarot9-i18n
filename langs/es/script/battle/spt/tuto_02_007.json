@@ -1,0 +1,40 @@
+{
+ "file": "battle/spt/tuto_02_007.spt",
+ "lines": [
+  {
+   "i": 1080,
+   "src": "3c8c116a6d87",
+   "t": "¡L-lo logramos!"
+  },
+  {
+   "i": 1093,
+   "src": "349b9806ea93",
+   "t": "¡Qué te parece!"
+  },
+  {
+   "i": 1102,
+   "src": "ea062b5a8202",
+   "t": "Heh, ya se acabó."
+  },
+  {
+   "i": 1111,
+   "src": "ae75bc8be148",
+   "t": "...Increíble.    "
+  },
+  {
+   "i": 1124,
+   "src": "77a92d874478",
+   "t": "Ojo, al activar la {{medaforce}},\nse <c:ff00ff>consume toda<c> la {{charge_gauge}}.    "
+  },
+  {
+   "i": 1133,
+   "src": "8caa43c432d5",
+   "t": "Al activar la {{medaforce}},\nse <c:ff00ff>consume toda<c> la {{charge_gauge}}.         "
+  },
+  {
+   "i": 1139,
+   "src": "cc80c4cd029d",
+   "t": "Por eso no se usa una y otra vez.\nTenla como tu último as bajo la manga.              "
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "rel": "story/mdl/m501.bcmdl",
+ "tex": "m501_paper",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    49,
+    3,
+    36,
+    9
+   ],
+   "erase_box": [
+    49,
+    3,
+    36,
+    9
+   ],
+   "erase": "glyph",
+   "thr": 40,
+   "grow": 1,
+   "text": "EXITO!",
+   "font": "sf-cond-heavy",
+   "cap": 7.5,
+   "pad": 0,
+   "fill": "#FFFFFF",
+   "stroke": "#202020",
+   "stroke_w": 0.8,
+   "align": "left"
+  },
+  {
+   "box": [
+    48,
+    47,
+    38,
+    6
+   ],
+   "erase_box": [
+    47,
+    46,
+    16,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 40,
+   "grow": 1,
+   "text": "BOLLO DE",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "pad": 0,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "crisp": 1.0,
+   "align": "left"
+  },
+  {
+   "box": [
+    48,
+    53,
+    36,
+    9
+   ],
+   "erase_box": [
+    47,
+    53,
+    36,
+    9
+   ],
+   "erase": "glyph",
+   "thr": 40,
+   "grow": 1,
+   "text": "CARNE",
+   "font": "sf-cond-heavy",
+   "cap": 7.5,
+   "pad": 0,
+   "fill": "#FAFAFA",
+   "stroke": "#101010",
+   "stroke_w": 0.8,
+   "align": "left"
+  },
+  {
+   "box": [
+    46,
+    66,
+    38,
+    7
+   ],
+   "erase_box": [
+    46,
+    65,
+    36,
+    8
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 40,
+   "grow": 1,
+   "text": "SE BUSCA",
+   "font": "sf-cond-heavy",
+   "cap": 6,
+   "pad": 0,
+   "fill": "#66761F",
+   "stroke": "#F6F68C",
+   "stroke_w": 0.8
+  },
+  {
+   "box": [
+    45,
+    74,
+    38,
+    8
+   ],
+   "erase_box": [
+    46,
+    73,
+    36,
+    10
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 40,
+   "grow": 1,
+   "text": "PERSONAL!!",
+   "font": "sf-cond-heavy",
+   "cap": 6,
+   "pad": 0,
+   "fill": "#66761F",
+   "stroke": "#F6F68C",
+   "stroke_w": 0.8
+  },
+  {
+   "box": [
+    87,
+    87,
+    41,
+    6
+   ],
+   "erase_box": [
+    86,
+    87,
+    42,
+    6
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 40,
+   "grow": 1,
+   "text": "ENTORNO VERDE",
+   "font": "din",
+   "cap": 5,
+   "pad": 0,
+   "fill": "#F4F4FA",
+   "stroke": null,
+   "crisp": 0.6,
+   "align": "left"
+  },
+  {
+   "box": [
+    87,
+    97,
+    38,
+    7
+   ],
+   "erase_box": [
+    86,
+    96,
+    40,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 40,
+   "grow": 1,
+   "text": "COLABORA!",
+   "font": "din",
+   "cap": 5.5,
+   "pad": 0,
+   "fill": "#EEFFEE",
+   "stroke": null,
+   "crisp": 0.6,
+   "align": "left"
+  }
+ ]
+}

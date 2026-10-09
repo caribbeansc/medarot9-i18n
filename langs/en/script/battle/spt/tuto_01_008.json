@@ -1,0 +1,40 @@
+{
+ "file": "battle/spt/tuto_01_008.spt",
+ "lines": [
+  {
+   "i": 1142,
+   "src": "5f9bd1f68ab3",
+   "t": "Charge complete!"
+  },
+  {
+   "i": 1153,
+   "src": "f4432f0c2f4a",
+   "t": "This activates the {{effect}} of the\n{{leg_trait}} \"{{ground_control}}\"!                      "
+  },
+  {
+   "i": 1170,
+   "src": "a251c95a34e7",
+   "t": "Charge complete."
+  },
+  {
+   "i": 1181,
+   "src": "20c502cd079a",
+   "t": "Now the {{leg_trait}} \"{{charge_fight}}\"\ntakes {{effect}}!"
+  },
+  {
+   "i": 1192,
+   "src": "38f0b651165d",
+   "t": "{{mobility}} and {{fighting}} are up by 5."
+  },
+  {
+   "i": 1338,
+   "src": "0cd3b1a9a6fc",
+   "t": "The {{charge_gauge}} is at 100% now.\nLet's attack! "
+  },
+  {
+   "i": 1362,
+   "src": "2fe8b7267497",
+   "t": "Let's pick an {{attack_part}}!    "
+  }
+ ]
+}

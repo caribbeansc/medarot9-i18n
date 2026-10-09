@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f09_150_500_00_t041.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1042,
+   "src": "2aa62c19271f",
+   "t": "¡Vías de tren!"
+  },
+  {
+   "i": 1049,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1058,
+   "src": "99e94c15b244",
+   "t": "También hay una {{mine_cart}} de mina."
+  },
+  {
+   "i": 1075,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1084,
+   "src": "040bbe7c7970",
+   "t": "¿...Quieres probarla?"
+  },
+  {
+   "i": 1094,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1100,
+   "src": "44039a328169",
+   "t": "Es imposible."
+  },
+  {
+   "i": 1103,
+   "src": "65533a5c1729",
+   "t": "No hay locomotora."
+  },
+  {
+   "i": 1113,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1122,
+   "src": "08d120d9c36e",
+   "t": "No..."
+  },
+  {
+   "i": 1130,
+   "src": "be8eb21a00f8",
+   "t": "Usemos esto para tirar de ella. Lo ajusté"
+  },
+  {
+   "i": 1133,
+   "src": "98738920b73e",
+   "t": "por si algo así llegaba a pasar."
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "file": "story/spt/f02_110_210_00_t101.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1044,
+   "src": "085ba2d8ab41",
+   "t": "¿Ustedes otra vez?"
+  },
+  {
+   "i": 1052,
+   "src": "84dc1e848e2f",
+   "t": "¿Qué quieren esta vez?"
+  },
+  {
+   "i": 1060,
+   "src": "d96981e0838c",
+   "t": "Eh, creo que este {{medabot}} puede hacer"
+  },
+  {
+   "i": 1063,
+   "src": "49872bfd8b51",
+   "t": "{{medachange}} a tipo {{submarine}}, ¿no?"
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "691bd1f42274",
+   "t": "Sí, así es."
+  },
+  {
+   "i": 1082,
+   "src": "017060fd0cb0",
+   "t": "Se desliza fácil hasta sobre el agua,\n¿¡verdad!?"
+  },
+  {
+   "i": 1087,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1093,
+   "src": "ab15a9bdc537",
+   "t": "Una vez que termine el ajuste."
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1106,
+   "src": "961072dcc28a",
+   "t": "¿Cuánto tardará ese ajuste?"
+  },
+  {
+   "i": 1109,
+   "src": "af37cdcbcd99",
+   "t": "¿Ya casi está listo?"
+  },
+  {
+   "i": 1123,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1129,
+   "src": "721219613444",
+   "t": "No seas ridículo."
+  },
+  {
+   "i": 1132,
+   "src": "e07ed6bff4fd",
+   "t": "No pasó tanto desde entonces."
+  },
+  {
+   "i": 1140,
+   "src": "b004165d0114",
+   "t": "¿Y qué es exactamente lo que falta?"
+  },
+  {
+   "i": 1145,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1151,
+   "src": "6aff32e6107d",
+   "t": "Veamos."
+  },
+  {
+   "i": 1159,
+   "src": "08d120d9c36e",
+   "t": "No..."
+  },
+  {
+   "i": 1167,
+   "src": "c27468f619e2",
+   "t": "En realidad ya está casi listo."
+  },
+  {
+   "i": 1170,
+   "src": "0f26117e4f32",
+   "t": "Falta probarlo y ver si convence-"
+  },
+  {
+   "i": 1178,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1196,
+   "src": "ef86350d793b",
+   "t": "Ya veo."
+  },
+  {
+   "i": 1199,
+   "src": "2964678dc968",
+   "t": "También podría pedírselo a ustedes..."
+  },
+  {
+   "i": 1207,
+   "src": "f5607e45a83a",
+   "t": "¿A mí y a "
+  },
+  {
+   "i": 1209,
+   "src": "1766f366f5e9",
+   "t": "?"
+  },
+  {
+   "i": 1212,
+   "src": "7a65662aa7b0",
+   "t": "¿En qué quieres ayuda?"
+  },
+  {
+   "i": 1224,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1230,
+   "src": "e8868fef8257",
+   "t": "Necesitamos probarlo en combate real."
+  },
+  {
+   "i": 1238,
+   "src": "5d5d56b7e717",
+   "t": "Tú y mi compañero hacen buen par."
+  },
+  {
+   "i": 1241,
+   "src": "4b9d4ec03e19",
+   "t": "Seguro tendrán una gran batalla."
+  },
+  {
+   "i": 1249,
+   "src": "05755f0b0250",
+   "t": "¿Puedes ser mi {{opponent}} en una {{robattle}}?"
+  },
+  {
+   "i": 1257,
+   "src": "e75f9f0127d9",
+   "t": "Eso es..."
+  },
+  {
+   "i": 1284,
+   "src": "aa293255c635",
+   "t": "¡Yo lo hago!"
+  },
+  {
+   "i": 1290,
+   "src": "4284b2971675",
+   "t": "¡Cuenta conmigo!"
+  },
+  {
+   "i": 1301,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1307,
+   "src": "dc9fa7ccf6d5",
+   "t": "Eso me será de gran ayuda."
+  },
+  {
+   "i": 1310,
+   "src": "6d416b141f46",
+   "t": "Avísame cuando estés listo."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_2a2_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "49a78514fc0e",
+   "t": "{{kagetora}}"
+  },
+  {
+   "i": 1035,
+   "src": "5aaa37e08c89",
+   "t": "A {{culture_festival}}, huh..."
+  }
+ ]
+}

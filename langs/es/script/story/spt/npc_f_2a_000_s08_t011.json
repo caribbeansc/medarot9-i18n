@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2a_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "ddca7f2269da",
+   "t": "Medaria, Medaria~"
+  },
+  {
+   "i": 1041,
+   "src": "1ce0f6bc3df7",
+   "t": "¡Ayer encontré hasta tres!"
+  },
+  {
+   "i": 1049,
+   "src": "9daa8bbd0595",
+   "t": "Hoy hablábamos de ir al mar del sur."
+  },
+  {
+   "i": 1052,
+   "src": "e03cbd28f039",
+   "t": "¡...Ay, es secreto! ¡No te adelantes!"
+  }
+ ]
+}

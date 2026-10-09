@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f02_155_163_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "8dee6d76bd8c",
+   "t": "I'll wait outside."
+  },
+  {
+   "i": 1049,
+   "src": "54916a17c3fa",
+   "t": "Huh?"
+  },
+  {
+   "i": 1054,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1063,
+   "src": "74ebdb8b8b67",
+   "t": "I'll keep doing that from now on, but\ndon't worry about me."
+  }
+ ]
+}

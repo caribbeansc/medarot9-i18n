@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_30.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b9c817f125c4",
+   "t": "<c:00ff00>Leg Trait:<c> F Charger\nAdds 1/10 of the Charge\nGauge to the {{fighting}} stat\nof the {{leg_part}}."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f02_010_115_00_t004_1.spt",
+ "lines": [
+  {
+   "i": 1140,
+   "src": "78614b1fd962",
+   "t": "...Entendido."
+  },
+  {
+   "i": 1145,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1154,
+   "src": "0fbc5d803807",
+   "t": "¿En serio?"
+  },
+  {
+   "i": 1157,
+   "src": "70d52eaf4aec",
+   "t": "Bueno, por supuesto."
+  },
+  {
+   "i": 1173,
+   "src": "95fe58d00537",
+   "t": "Pero hay una {{condition_rotation}}."
+  },
+  {
+   "i": 1184,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1195,
+   "src": "7498d1e46398",
+   "t": "¿Eh?"
+  }
+ ]
+}

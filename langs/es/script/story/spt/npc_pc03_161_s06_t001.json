@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc03_161_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "b9b1064cba60",
+   "t": "¿Tienes el micrófono? Bien, tú"
+  },
+  {
+   "i": 1041,
+   "src": "b3313e22db95",
+   "t": "captarás las ondas sonoras."
+  },
+  {
+   "i": 1049,
+   "src": "889294da3643",
+   "t": "¿A cargo...?"
+  },
+  {
+   "i": 1052,
+   "src": "619d0cf2b457",
+   "t": "¿Tengo que hacer algo especial?"
+  },
+  {
+   "i": 1057,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1063,
+   "src": "c15c2bd68534",
+   "t": "¿Eh? ¿No?"
+  },
+  {
+   "i": 1066,
+   "src": "0b7dc42f3200",
+   "t": "Solo ve adonde te lleve la {{mission}}."
+  },
+  {
+   "i": 1074,
+   "src": "819d792f51d8",
+   "t": "Tú jamás dejarás caer ni perderás nada."
+  },
+  {
+   "i": 1077,
+   "src": "6a305d593efc",
+   "t": "Buena suerte."
+  },
+  {
+   "i": 1085,
+   "src": "24bdfd47510e",
+   "t": "Suspiro..."
+  }
+ ]
+}

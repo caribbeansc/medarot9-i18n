@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3e_164_s01_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1038,
+   "src": "46983131ca9d",
+   "t": "Parece que a tu Medabot"
+  },
+  {
+   "i": 1041,
+   "src": "73fd9cd85b91",
+   "t": "se le da muy mal estudiar."
+  },
+  {
+   "i": 1049,
+   "src": "1657f9b09372",
+   "t": "Quizá nuestro {{club}} no sea bueno para ti."
+  },
+  {
+   "i": 1052,
+   "src": "72099bcc220d",
+   "t": "Es una lástima..."
+  },
+  {
+   "i": 1063,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1066,
+   "src": "f96b16ca9b80",
+   "t": "Pero así son las cosas, supongo."
+  }
+ ]
+}

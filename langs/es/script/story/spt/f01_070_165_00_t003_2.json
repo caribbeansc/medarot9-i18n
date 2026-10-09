@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f01_070_165_00_t003_2.spt",
+ "lines": [
+  {
+   "i": 833,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 842,
+   "src": "9940457de3d3",
+   "t": "Ah, ya veo. Entonces qué bueno."
+  },
+  {
+   "i": 850,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 853,
+   "src": "c398d2fe4071",
+   "t": "¿A qué te refieres?"
+  }
+ ]
+}

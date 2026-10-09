@@ -1,0 +1,68 @@
+{
+ "rel": "story/mdl/m500.bcmdl",
+ "tex": "m500_board",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "grow": 1,
+  "fill": "#D4E4F8",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.2
+ },
+ "items": [
+  {
+   "box": [
+    40,
+    19,
+    66,
+    13
+   ],
+   "erase_box": [
+    40,
+    19,
+    66,
+    13
+   ],
+   "text": "Terminal",
+   "font": "sf",
+   "wght": 600,
+   "cap": 9
+  },
+  {
+   "box": [
+    46,
+    41,
+    58,
+    22
+   ],
+   "erase_box": [
+    44,
+    41,
+    62,
+    18
+   ],
+   "text": "Estacionamiento",
+   "font": "sf-cond-heavy",
+   "cap": 7,
+   "baseline": 50.5,
+   "scale_x": 0.9
+  },
+  {
+   "box": [
+    46,
+    41,
+    58,
+    22
+   ],
+   "erase": "none",
+   "text": "de embarque",
+   "font": "sf-cond-heavy",
+   "cap": 7,
+   "baseline": 58,
+   "scale_x": 0.9
+  }
+ ]
+}

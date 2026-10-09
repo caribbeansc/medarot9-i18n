@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_164.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d6ca6e7a9f1c",
+   "t": "<c:00ff00>Técnica:<c>{{charge_plant}}\nColoca un dispositivo que\n{{up}} la carga de todo el\nequipo {{ally_battle_term}}.\nAl colocarlo\nrepetidamente {{up}} el\n{{armor}} y el aumento."
+  }
+ ]
+}

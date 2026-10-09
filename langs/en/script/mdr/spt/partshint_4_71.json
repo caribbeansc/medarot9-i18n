@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_71.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e78862bf485e",
+   "t": "<c:00ff00>Leg Trait:<c> {{pinhole_s}}\nWhen using Aimshot, there\nis a 50% chance of\navoiding Interrupt\nGuard."
+  }
+ ]
+}

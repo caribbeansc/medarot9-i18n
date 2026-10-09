@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_g_m1d2.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "24aa4489f6dd",
+   "t": "{{taruhei}}"
+  },
+  {
+   "i": 1038,
+   "src": "1f2659117735",
+   "t": "Believe it or not, I'm the center forward."
+  },
+  {
+   "i": 1041,
+   "src": "370c47d7e90f",
+   "t": "I'm pretty confident in my athleticism."
+  },
+  {
+   "i": 1049,
+   "src": "bf930122d79a",
+   "t": "And in {{robattle|pl}}, too!"
+  }
+ ]
+}

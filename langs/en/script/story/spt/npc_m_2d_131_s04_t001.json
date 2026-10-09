@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2d_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "db2aa0046c96",
+   "t": "{{taka}}"
+  },
+  {
+   "i": 1038,
+   "src": "c380632da447",
+   "t": "Lots of {{medafighter|pl}} are making names\nfor themselves,"
+  },
+  {
+   "i": 1041,
+   "src": "8eef04a365d4",
+   "t": "but no top {{medafighter}} is bad at\n{{robattle|pl}}."
+  },
+  {
+   "i": 1049,
+   "src": "a206f690a847",
+   "t": "In the end, it all comes down to\n{{robattle|pl}}."
+  },
+  {
+   "i": 1052,
+   "src": "1c72297e0898",
+   "t": "I gotta put my spirit into it!"
+  }
+ ]
+}

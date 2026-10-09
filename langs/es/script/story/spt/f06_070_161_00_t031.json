@@ -1,0 +1,180 @@
+{
+ "file": "story/spt/f06_070_161_00_t031.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1047,
+   "src": "71cecb31a684",
+   "t": "¿Podrías guardar esto un rato?"
+  },
+  {
+   "i": 1057,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1066,
+   "src": "f6d0b1fb28ed",
+   "t": "¿Qué es eso?"
+  },
+  {
+   "i": 1073,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1082,
+   "src": "4b6eb61ba9b1",
+   "t": "Fuegos artificiales."
+  },
+  {
+   "i": 1090,
+   "src": "3e2251329bde",
+   "t": "El Consejo hará un espectáculo de"
+  },
+  {
+   "i": 1093,
+   "src": "2608b0c736a5",
+   "t": "fuegos el último día de vacaciones."
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1109,
+   "src": "dacc07e1da2c",
+   "t": "Vaya, vaya, eso suena divertido."
+  },
+  {
+   "i": 1112,
+   "src": "0771bf83a36c",
+   "t": "Pero ¿por qué dejar los fuegos aquí?"
+  },
+  {
+   "i": 1119,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1128,
+   "src": "84b013b5ad62",
+   "t": "No quiero explosivos sin vigilancia."
+  },
+  {
+   "i": 1131,
+   "src": "eac130480a12",
+   "t": "Y este lugar es muy amplio. Por eso."
+  },
+  {
+   "i": 1145,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1154,
+   "src": "3820fd06dda9",
+   "t": "Ah, ¿sí?"
+  },
+  {
+   "i": 1161,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1170,
+   "src": "9ea6be238233",
+   "t": "Ya que estás en eso, ¿podrías hacerme\notro favor?"
+  },
+  {
+   "i": 1184,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1193,
+   "src": "11ae20c1f79f",
+   "t": "¿Cuál sería?"
+  },
+  {
+   "i": 1200,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1209,
+   "src": "deceae1ad2be",
+   "t": "Queremos que retiren a los Medabots"
+  },
+  {
+   "i": 1212,
+   "src": "577483d055d2",
+   "t": "salvajes de la playa del evento."
+  },
+  {
+   "i": 1220,
+   "src": "89e76963c75a",
+   "t": "Sería un desastre si el espectáculo"
+  },
+  {
+   "i": 1223,
+   "src": "ff0bac4c97fa",
+   "t": "se volviera un torneo de robobatalla."
+  },
+  {
+   "i": 1230,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1239,
+   "src": "c7991dc62393",
+   "t": "Bueno, eso es muy cierto,"
+  },
+  {
+   "i": 1242,
+   "src": "c54a3e166b60",
+   "t": "pero ¿por qué nosotros?"
+  },
+  {
+   "i": 1249,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1258,
+   "src": "aee635926ebd",
+   "t": "De todos modos seguro están aburridos."
+  },
+  {
+   "i": 1272,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1281,
+   "src": "e356da9ec2c6",
+   "t": "Ah, ¿sí?"
+  },
+  {
+   "i": 1288,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1297,
+   "src": "9ae3feb4988f",
+   "t": "Bien, cuento con ustedes."
+  },
+  {
+   "i": 1300,
+   "src": "5aed8bfacd28",
+   "t": "Yo me regreso."
+  }
+ ]
+}

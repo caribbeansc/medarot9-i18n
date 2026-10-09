@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f02_120_210_00_t001.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "55e9c5cf3275",
+   "t": "Stay away."
+  },
+  {
+   "i": 1046,
+   "src": "58f3f759117a",
+   "t": "Wait!"
+  },
+  {
+   "i": 1054,
+   "src": "d7a1129342ad",
+   "t": "You're "
+  },
+  {
+   "i": 1056,
+   "src": "fb8720f905a4",
+   "t": ", right?"
+  },
+  {
+   "i": 1064,
+   "src": "07ed5fbc3afd",
+   "t": "I'm "
+  },
+  {
+   "i": 1066,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1074,
+   "src": "1409fb112e01",
+   "t": "your {{classmate}}!"
+  },
+  {
+   "i": 1082,
+   "src": "d10352367ba8",
+   "t": "{{mio}} asked me to look for you!"
+  },
+  {
+   "i": 1096,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

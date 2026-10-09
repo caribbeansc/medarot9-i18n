@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description77.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e25521f994a6",
+   "t": "{{medal_level|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "f589af065cbb",
+   "t": "Fuerza global de la <c:ffff00>{{medal}}<c>: suma de sus <c:ffff00>niveles de<c>\n<c:ffff00>habilidad<c>, que suben al usar <c:ffff00>técnicas<c> en <c:ffff00>{{robattle}}<c>\nhasta el <c:ffff00>{{activity_level}}<c> actual (máx. 150).\n1/3 del {{medal_level}} es el <c:ffff00>{{level_bonus}}<c>, que\nsube todos los niveles, incluso los no entrenados.\nUn nivel alto acelera la <c:ffff00>{{prep}}<c> y el <c:ffff00>{{cooldown}}<c> de la\n<c:ffff00>{{medaforce}}<c> y el <c:ffff00>{{medachange}}<c> y, según el {{opponent}}, sube\nel <c:ffff00>poder de {{defend}}<c> y el <c:ffff00>poder de {{evade}}<c>. También\ncambia el <c:ffff00>{{rank}}<c> ({{silver}}, {{gold}})."
+  }
+ ]
+}

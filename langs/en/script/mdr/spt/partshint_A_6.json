@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_6.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "78d38bf14172",
+   "t": "<c:00ff00>{{mf}}:<c> {{level_loss}}\nHalves all the skill levels\nof the opposing team's\n{{medal|pl}}.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

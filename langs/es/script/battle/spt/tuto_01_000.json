@@ -1,0 +1,155 @@
+{
+ "file": "battle/spt/tuto_01_000.spt",
+ "lines": [
+  {
+   "i": 1098,
+   "src": "4aedf8291041",
+   "t": "Usa la <c:ff00ff>pantalla de comandos<c> del\n{{medawatch}} y dame <c:ff00ff>instrucciones<c>.               "
+  },
+  {
+   "i": 1107,
+   "src": "4aedf8291041",
+   "t": "Usa la <c:ff00ff>pantalla de comandos<c> del\n{{medawatch}} y dame <c:ff00ff>instrucciones<c>.               "
+  },
+  {
+   "i": 1119,
+   "src": "a04f62285363",
+   "t": "¡Déjamelo a mí!"
+  },
+  {
+   "i": 1127,
+   "src": "e1fe19701a0a",
+   "t": "Lo básico es usar las \"técnicas\" de las\n{{part|pl}}: ataque, auxiliar, {{recover}}...                            "
+  },
+  {
+   "i": 1132,
+   "src": "eb2402a4a618",
+   "t": "Elijamos con la cruceta la {{part}} a usar.\n$ｻ para la {{part}} de cabeza.                                                        "
+  },
+  {
+   "i": 1133,
+   "src": "bf0635bd797f",
+   "t": ""
+  },
+  {
+   "i": 1172,
+   "src": "f152fa526de0",
+   "t": "Los datos de la {{part}} elegida se ven\nen la ventana de estado de arriba.                "
+  },
+  {
+   "i": 1198,
+   "src": "f9002cc523d3",
+   "t": " Este icono muestra <c:00ffe6>daño en cadena<c>.       "
+  },
+  {
+   "i": 1203,
+   "src": "dc86a60e91db",
+   "t": "Si un ataque de {{pierce}} destruye\nuna {{part}}, hace {{damage}} extra a la {{head}}.    "
+  },
+  {
+   "i": 1221,
+   "src": "66cbfa2e37f4",
+   "t": "La {{head}} es más potente que el resto,\npero tiene {{uses}} limitados.        "
+  },
+  {
+   "i": 1235,
+   "src": "66bbd8bf0513",
+   "t": "Los {{uses}} restantes se ven\nen esta barra.                           "
+  },
+  {
+   "i": 1246,
+   "src": "0673a04f5d42",
+   "t": "Pulsa <c:00ffe6>$ｽ<c> en la <c:00ffe6>cruceta<c> para\nelegir el <c:ff00ff>brazo derecho<c>."
+  },
+  {
+   "i": 1247,
+   "src": "cfe08f3e8880",
+   "t": ""
+  },
+  {
+   "i": 1282,
+   "src": "67fcfaddec41",
+   "t": ""
+  },
+  {
+   "i": 1283,
+   "src": "f9002cc523d3",
+   "t": "Este icono $0 muestra <c:00ffe6>daño en cadena<c>.     "
+  },
+  {
+   "i": 1288,
+   "src": "dc86a60e91db",
+   "t": "Si un ataque de {{pierce}} destruye\nuna {{part}}, hace {{damage}} extra a la {{head}}.    "
+  },
+  {
+   "i": 1302,
+   "src": "b411b5926242",
+   "t": "Pulsa <c:00ffe6>$ｼ<c> en la <c:00ffe6>cruceta<c> y\nelige el <c:ff00ff>brazo izquierdo<c>."
+  },
+  {
+   "i": 1303,
+   "src": "2781b626882e",
+   "t": ""
+  },
+  {
+   "i": 1309,
+   "src": "b411b5926242",
+   "t": ""
+  },
+  {
+   "i": 1310,
+   "src": "99ed43afcc00",
+   "t": " El <c:ff00ff>{{left_arm}}<c> también hace daño\nen cadena. Pulsa <c:00ffe6>$ｼ<c> para el <c:ff00ff>izquierdo<c>.    "
+  },
+  {
+   "i": 1359,
+   "src": "fad53305c661",
+   "t": "La {{head}} no puede atacar. Peleemos\ncon los brazos, de {{uses}} ilimitados.                    "
+  },
+  {
+   "i": 1365,
+   "src": "e5e78c17576c",
+   "t": "A diferencia de la {{head}}, los brazos\nse usan sin límite. Peleemos con ellos.       "
+  },
+  {
+   "i": 1386,
+   "src": "83474f31efd8",
+   "t": ""
+  },
+  {
+   "i": 1387,
+   "src": "b1bc3c5ebe9d",
+   "t": " Pulsa <c:00ffe6>$ｾ<c> en la <c:00ffe6>cruceta<c> y\nelige las <c:ff00ff>{{legs}}<c>."
+  },
+  {
+   "i": 1414,
+   "src": "3eafb00a5dfe",
+   "t": "Las {{legs}} no tienen técnicas, pero\nafectan a todas las capacidades.             "
+  },
+  {
+   "i": 1419,
+   "src": "6e460ca2db58",
+   "t": "Tienen un {{effect}} pasivo, el\n\"<c:ff00ff>{{leg_trait}}<c>\".   "
+  },
+  {
+   "i": 1456,
+   "src": "d9de02e3e60a",
+   "t": "Ahora, ¡decide el primer comando!\nElige una {{part}} que no sea la pierna...  "
+  },
+  {
+   "i": 1467,
+   "src": "d11dd2f216a0",
+   "t": "Primero probemos con un ataque.\nElige una de las {{part|pl}} de brazo...                                  "
+  },
+  {
+   "i": 1531,
+   "src": "0f0c870b1456",
+   "t": "Confirma el comando con el botón $*.       "
+  },
+  {
+   "i": 1584,
+   "src": "706276fcd5b6",
+   "t": "Bien, ¡que empiece la {{robattle}}!"
+  }
+ ]
+}

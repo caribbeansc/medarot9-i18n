@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f_meda_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a7f55d225eee",
+   "t": "Redrun"
+  },
+  {
+   "i": 1038,
+   "src": "fd6e2aa6e109",
+   "t": "El festival deportivo recién terminó,"
+  },
+  {
+   "i": 1041,
+   "src": "2dbb884b01ef",
+   "t": "¿y ahora qué? ¿Otro festival ya?"
+  }
+ ]
+}

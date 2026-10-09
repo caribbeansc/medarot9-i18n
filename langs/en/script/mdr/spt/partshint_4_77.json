@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_77.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "64c433b68ef1",
+   "t": "<c:00ff00>Leg Trait:<c> {{hoplite}}\nFor every Protect {{part}}\nequipped in a {{slot}},\n{{shooting}} and {{fighting}}\n{{stats}} +5."
+  }
+ ]
+}

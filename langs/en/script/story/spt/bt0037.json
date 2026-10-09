@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/bt0037.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "36e429ccccb3",
+   "t": "{{giant_medabot|cap}}"
+  },
+  {
+   "i": 864,
+   "src": "14cecb4c7afa",
+   "t": "Defeat it, but spare its left arm!"
+  },
+  {
+   "i": 867,
+   "src": "9aee5fc6592a",
+   "t": "Big Robattle!"
+  },
+  {
+   "i": 870,
+   "src": "14cecb4c7afa",
+   "t": "Defeat it, but spare its left arm!"
+  },
+  {
+   "i": 884,
+   "src": "f3f71118fb31",
+   "t": "...Enemy spotted!"
+  },
+  {
+   "i": 887,
+   "src": "db3c1e124464",
+   "t": "...Eliminate them!"
+  }
+ ]
+}

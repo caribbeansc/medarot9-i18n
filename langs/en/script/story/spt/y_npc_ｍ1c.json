@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_ｍ1c.spt",
+ "lines": [
+  {
+   "i": 1515,
+   "src": "01e9608e9448",
+   "t": "Let's {{robattle}}!"
+  },
+  {
+   "i": 1520,
+   "src": "38970cb0378c",
+   "t": "1st-Yr Boy C"
+  },
+  {
+   "i": 1526,
+   "src": "9e20da738db7",
+   "t": "Let's settle this!"
+  }
+ ]
+}

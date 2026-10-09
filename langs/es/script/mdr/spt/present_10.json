@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/present_10.spt",
+ "lines": [
+  {
+   "i": 1386,
+   "src": "c57724fe45a1",
+   "t": "El regalo de esta contraseña "
+  },
+  {
+   "i": 1389,
+   "src": "106b39b67853",
+   "t": "ya fue recibido.       "
+  },
+  {
+   "i": 1510,
+   "src": "242b2eb50a16",
+   "t": "<c> - set de {{part|pl}} obtenido!"
+  }
+ ]
+}

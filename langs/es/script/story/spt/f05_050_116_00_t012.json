@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f05_050_116_00_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1045,
+   "src": "3a63aa9e8cbe",
+   "t": "Vaya."
+  },
+  {
+   "i": 1053,
+   "src": "6c63bc463b2c",
+   "t": "Qué susto me diste."
+  },
+  {
+   "i": 1060,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1066,
+   "src": "2b0b7ea80074",
+   "t": "Dijiste {{main}}-chan hace un momento,\n¿verdad?"
+  },
+  {
+   "i": 1073,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1079,
+   "src": "54916a17c3fa",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1086,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1092,
+   "src": "5b32c1977106",
+   "t": "¿Quién es {{main}}?"
+  },
+  {
+   "i": 1095,
+   "src": "f37b191bad25",
+   "t": "¿Es una de las estudiantes?"
+  },
+  {
+   "i": 1102,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1108,
+   "src": "95039396e47f",
+   "t": "Ah..."
+  },
+  {
+   "i": 1111,
+   "src": "eeff56b50a96",
+   "t": "Ah, la de hace rato..."
+  },
+  {
+   "i": 1119,
+   "src": "8e8fcead5332",
+   "t": "¿Me perseguiste solo por eso?"
+  },
+  {
+   "i": 1122,
+   "src": "2af901583f8f",
+   "t": "Me dejas atónito."
+  },
+  {
+   "i": 1137,
+   "src": "8ea1298dfe0e",
+   "t": "Está bien, te lo diré."
+  },
+  {
+   "i": 1140,
+   "src": "98bed515d74c",
+   "t": "{{main}}-chan es {{club_member}}."
+  },
+  {
+   "i": 1148,
+   "src": "665ad32e1513",
+   "t": "Aunque casi nunca aparece, es casi un\nmiembro fantasma."
+  },
+  {
+   "i": 1155,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1161,
+   "src": "fd101452825c",
+   "t": "¿Dices que {{main}}-chan podría hacer una"
+  },
+  {
+   "i": 1164,
+   "src": "2c9c147275f8",
+   "t": "transferencia ilegal? ¿En qué te basas?"
+  },
+  {
+   "i": 1178,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1184,
+   "src": "970e241ea079",
+   "t": "Porque es una genio."
+  },
+  {
+   "i": 1191,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1200,
+   "src": "ac4c2e21df9a",
+   "t": "Lo dices con mucha naturalidad."
+  },
+  {
+   "i": 1210,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1219,
+   "src": "aaa8e34fac45",
+   "t": "No hay otra forma de decirlo."
+  },
+  {
+   "i": 1222,
+   "src": "b78eae1c14d8",
+   "t": "Lo entenderás cuando la veas."
+  },
+  {
+   "i": 1230,
+   "src": "711316876e54",
+   "t": "Si es que logras conocerla, claro."
+  }
+ ]
+}

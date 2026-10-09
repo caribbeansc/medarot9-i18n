@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_167.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1437be83ff28",
+   "t": "<c:00ff02>Action:<c> Shoot Drone\nSets a device that\nfires a ranged\nCrossfire with allied\nattacks. Setting it\nrepeatedly raises\n{{armor}} and attack\npower."
+  }
+ ]
+}

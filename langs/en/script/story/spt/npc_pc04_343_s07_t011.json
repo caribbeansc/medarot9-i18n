@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc04_343_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "4cf899aabb68",
+   "t": "That must be the water mill..."
+  }
+ ]
+}

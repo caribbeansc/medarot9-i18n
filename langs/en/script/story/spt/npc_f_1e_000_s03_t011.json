@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/npc_f_1e_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1035,
+   "src": "03b3b42522de",
+   "t": "Hey, hey, Senpai."
+  },
+  {
+   "i": 1038,
+   "src": "468514228940",
+   "t": "Have you heard the rumors about the\n{{principal}}?"
+  },
+  {
+   "i": 1046,
+   "src": "15a1b3bccdbf",
+   "t": "My classmates say they saw him sneak\nout"
+  },
+  {
+   "i": 1049,
+   "src": "d3b4b5879131",
+   "t": "of the school in the middle of the\nnight..."
+  },
+  {
+   "i": 1056,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1062,
+   "src": "74553c6c47d2",
+   "t": "I've seen it too."
+  },
+  {
+   "i": 1069,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1075,
+   "src": "da0dca31334a",
+   "t": "Really!?"
+  },
+  {
+   "i": 1082,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1088,
+   "src": "cd2e9daf3e2f",
+   "t": "When I went back to the {{classroom}} at\nnight for something I forgot."
+  },
+  {
+   "i": 1091,
+   "src": "44cdcf4b3308",
+   "t": "I happened to see him at the school\ngate."
+  },
+  {
+   "i": 1098,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1104,
+   "src": "6153def68b11",
+   "t": "And then? And then?"
+  },
+  {
+   "i": 1111,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1117,
+   "src": "a21735ac7af0",
+   "t": "In the pitch dark with no moon,"
+  },
+  {
+   "i": 1120,
+   "src": "83c6672b89cc",
+   "t": "he was walking without any light."
+  },
+  {
+   "i": 1128,
+   "src": "801fb5fad3fa",
+   "t": "I thought about greeting him, but I\ndidn't."
+  },
+  {
+   "i": 1131,
+   "src": "77904fb14cb7",
+   "t": "Because, maybe I was mistaken, but..."
+  },
+  {
+   "i": 1139,
+   "src": "f8176e80d33c",
+   "t": "I felt like I saw many hands beckoning "
+  },
+  {
+   "i": 1142,
+   "src": "1127ec81e99e",
+   "t": "beyond the principal--"
+  },
+  {
+   "i": 1149,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1155,
+   "src": "4ec7827eb805",
+   "t": "Nooo!"
+  },
+  {
+   "i": 1158,
+   "src": "5f4015c1eb4e",
+   "t": "Please stop doing that, Senpaaai!"
+  }
+ ]
+}

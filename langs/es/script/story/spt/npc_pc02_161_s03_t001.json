@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc02_161_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "fab68fe28960",
+   "t": "Exploración, eh..."
+  },
+  {
+   "i": 1043,
+   "src": "737a80996f1e",
+   "t": "El {{exploration_club}} parece aburrido."
+  },
+  {
+   "i": 1046,
+   "src": "1b19b92e5324",
+   "t": "Quizá debería renunciar."
+  },
+  {
+   "i": 1059,
+   "src": "0978be51de0e",
+   "t": "Mio, deja de decir cosas así."
+  },
+  {
+   "i": 1062,
+   "src": "55e27577baac",
+   "t": "¡Aún no hemos hecho nada!"
+  },
+  {
+   "i": 1070,
+   "src": "8dd49b1982dc",
+   "t": "¿Olvidaste tu promesa?"
+  },
+  {
+   "i": 1077,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1083,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1091,
+   "src": "8d67d47a3d5f",
+   "t": "Sí, sí, ya sé."
+  },
+  {
+   "i": 1094,
+   "src": "a1d62576ed74",
+   "t": "Me portaré bien... por un rato, al menos."
+  }
+ ]
+}

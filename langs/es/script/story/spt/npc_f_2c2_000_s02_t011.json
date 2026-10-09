@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2c2_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1038,
+   "src": "105573dde7db",
+   "t": "¿Buscas a alguien? A esta hora"
+  },
+  {
+   "i": 1041,
+   "src": "836a7bf74d35",
+   "t": "seguro están en su {{club}}, ¿no?"
+  }
+ ]
+}

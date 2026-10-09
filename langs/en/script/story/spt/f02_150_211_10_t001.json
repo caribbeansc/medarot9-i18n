@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f02_150_211_10_t001.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "cd838215f79f",
+   "t": "Wow, so this is where it connects to."
+  },
+  {
+   "i": 1051,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1057,
+   "src": "a807d60fa3ec",
+   "t": "This is... great. From now on,"
+  },
+  {
+   "i": 1060,
+   "src": "fd1ff0b020bf",
+   "t": "I can run water tests whenever I like."
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "373e6f9340e9",
+   "t": "Come on, back to the {{clubroom}}. You\nneed"
+  },
+  {
+   "i": 1076,
+   "src": "e7f2f731ffc4",
+   "t": "to fill out the membership form."
+  }
+ ]
+}

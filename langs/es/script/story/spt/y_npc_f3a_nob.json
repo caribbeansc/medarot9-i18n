@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3a_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "02d3fd812897",
+   "t": "{{megumi}}"
+  },
+  {
+   "i": 1035,
+   "src": "87423d118fa9",
+   "t": "Lo siento. Parece que no"
+  },
+  {
+   "i": 1038,
+   "src": "413e396c5885",
+   "t": "se puede ahora... Otra vez será, ¿sí?"
+  }
+ ]
+}

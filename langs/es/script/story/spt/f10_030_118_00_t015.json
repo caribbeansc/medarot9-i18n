@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f10_030_118_00_t015.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1051,
+   "src": "980749043d35",
+   "t": "Nuestra opinión es distinta."
+  },
+  {
+   "i": 1058,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1064,
+   "src": "eaa0924d76f9",
+   "t": "¿Qué diablos?"
+  },
+  {
+   "i": 1071,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1077,
+   "src": "f521d59870a2",
+   "t": "Esta es una oportunidad de oro."
+  },
+  {
+   "i": 1089,
+   "src": "04dfef68e4ba",
+   "t": "¡La ocasión perfecta para sumir a ese\nmonstruo en un sueño eterno!"
+  },
+  {
+   "i": 1104,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1112,
+   "src": "61a114df8c93",
+   "t": "Una pregunta."
+  },
+  {
+   "i": 1115,
+   "src": "0d67f264edb0",
+   "t": "¿A quién te refieres con 'nosotros'?"
+  },
+  {
+   "i": 1122,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1128,
+   "src": "7ed155f0d355",
+   "t": "Considérelo la voluntad colectiva\ndel {{conglomerate}}."
+  }
+ ]
+}

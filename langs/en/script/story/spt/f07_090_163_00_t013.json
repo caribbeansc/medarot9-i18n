@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f07_090_163_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1035,
+   "src": "d13999411142",
+   "t": "What is this!?"
+  },
+  {
+   "i": 1045,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1051,
+   "src": "6e5a7a71c0ff",
+   "t": "Oh my, my legs...!"
+  },
+  {
+   "i": 1058,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1064,
+   "src": "e1122e337b77",
+   "t": "Well?"
+  },
+  {
+   "i": 1067,
+   "src": "3ca53a688465",
+   "t": "Now you can't complain, right?"
+  },
+  {
+   "i": 1085,
+   "src": "ec1a9e9444b9",
+   "t": "Ugh, this is so frustrating!"
+  },
+  {
+   "i": 1088,
+   "src": "479dd8ccaf1d",
+   "t": "Just hurry up and try them!"
+  }
+ ]
+}

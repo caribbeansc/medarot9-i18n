@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc02_meda_161_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "e5488e2db36d",
+   "t": "Hey {{mio}}, you're so slack!"
+  },
+  {
+   "i": 1038,
+   "src": "f2f0f294fede",
+   "t": "This isn't the girls' dorm, you know!"
+  },
+  {
+   "i": 1046,
+   "src": "1148cd03945a",
+   "t": "Come on, behave yourself."
+  },
+  {
+   "i": 1050,
+   "src": "708f0ac06215",
+   "t": "-kun is watching. Aren't you\nembarrassed?"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "file": "battle/spt/auto_battle03.spt",
+ "lines": [
+  {
+   "i": 1139,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 1142,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1145,
+   "src": "6577a7b00bbe",
+   "t": "{{cayenne}}"
+  },
+  {
+   "i": 1324,
+   "src": "cb6d999fb98f",
+   "t": "Think you can beat me?"
+  },
+  {
+   "i": 1441,
+   "src": "dd4bac05f29b",
+   "t": ", transfer!"
+  },
+  {
+   "i": 1491,
+   "src": "a11eaf18d1f9",
+   "t": "My turn!\n{{blazermate}}, transfer!"
+  },
+  {
+   "i": 1541,
+   "src": "d0edc259ac91",
+   "t": "Here we go! {{greed}}!\nTransfer!"
+  },
+  {
+   "i": 1639,
+   "src": "9b9fcc3f35c9",
+   "t": "I see it, I see it!"
+  },
+  {
+   "i": 1791,
+   "src": "b610a86e52b4",
+   "t": "Hit the mark!"
+  },
+  {
+   "i": 1859,
+   "src": "e430a70eb72d",
+   "t": "Too bad."
+  },
+  {
+   "i": 1995,
+   "src": "aeb685c9c0cc",
+   "t": "Here I come!"
+  },
+  {
+   "i": 2078,
+   "src": "9932ab7a60d3",
+   "t": "Ngh..."
+  },
+  {
+   "i": 2089,
+   "src": "dff48b87b620",
+   "t": "Piercing...?"
+  },
+  {
+   "i": 2278,
+   "src": "f3702d460aef",
+   "t": "Next!"
+  },
+  {
+   "i": 2361,
+   "src": "9e30ecb19147",
+   "t": "No way..."
+  },
+  {
+   "i": 2550,
+   "src": "f327297b9e53",
+   "t": "The last one!"
+  },
+  {
+   "i": 2638,
+   "src": "a00b05e6427f",
+   "t": "Waaaaah!"
+  }
+ ]
+}

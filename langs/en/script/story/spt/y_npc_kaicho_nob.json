@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_kaicho_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "721f39286c1f",
+   "t": "Sorry, I can't spare a moment right now."
+  },
+  {
+   "i": 1038,
+   "src": "6ddc431a8db3",
+   "t": "Let's do it another time."
+  }
+ ]
+}

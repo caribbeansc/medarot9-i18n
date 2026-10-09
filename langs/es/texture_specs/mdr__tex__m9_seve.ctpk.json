@@ -1,0 +1,53 @@
+{
+ "rel": "mdr/tex/m9_seve.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "erase": "transparent",
+   "box": [
+    2,
+    33,
+    42,
+    19
+   ],
+   "erase_box": [
+    0,
+    33,
+    45,
+    17
+   ],
+   "text": "Guardar",
+   "font": "din-alt",
+   "cap": 9,
+   "fill": "#4BFFFF",
+   "stroke": null,
+   "crisp": 0,
+   "pad": 0,
+   "align": "left",
+   "baseline": 46,
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#103358",
+     "blur": 2.5,
+     "opacity": 0.9
+    }
+   ]
+  }
+ ],
+ "protect": [
+  [
+   0,
+   31,
+   52,
+   2
+  ],
+  [
+   45,
+   31,
+   8,
+   24
+  ]
+ ]
+}

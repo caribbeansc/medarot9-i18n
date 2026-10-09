@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free08_02_01_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "d78f5d3962f8",
+   "t": "¡{{mission|cap}} 'Recolección de {{medalia|pl}}:"
+  },
+  {
+   "i": 1009,
+   "src": "58265f63c1e5",
+   "t": "Sendero Bloqueado' completada!"
+  },
+  {
+   "i": 1014,
+   "src": "913e0c661d21",
+   "t": "¡Los logros del {{exploration_club}}\naumentaron!"
+  }
+ ]
+}

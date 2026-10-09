@@ -1,0 +1,186 @@
+{
+ "rel": "mdr/tex/menu_field.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond",
+  "cap": 8.5,
+  "align": "center",
+  "valign": "middle",
+  "fill": "#F0FFFF",
+  "stroke": "#143669",
+  "stroke_w": 1.1,
+  "pad": 0,
+  "min_scale_x": 0.7,
+  "crisp": 0.4,
+  "tracking": 0.3
+ },
+ "items": [
+  {
+   "box": [
+    1,
+    7,
+    48,
+    13
+   ],
+   "erase_box": [
+    1,
+    0,
+    48,
+    20
+   ],
+   "text": "Cyber",
+   "cap": 9.5
+  },
+  {
+   "box": [
+    51,
+    7,
+    38,
+    13
+   ],
+   "erase_box": [
+    51,
+    0,
+    38,
+    20
+   ],
+   "text": "Hall",
+   "cap": 9
+  },
+  {
+   "box": [
+    91,
+    7,
+    25,
+    13
+   ],
+   "erase_box": [
+    91,
+    0,
+    25,
+    20
+   ],
+   "text": "Plains",
+   "cap": 8,
+   "tracking": 0
+  },
+  {
+   "box": [
+    119,
+    7,
+    26,
+    13
+   ],
+   "erase_box": [
+    116,
+    0,
+    31,
+    20
+   ],
+   "text": "Forest",
+   "cap": 8,
+   "tracking": 0
+  },
+  {
+   "box": [
+    148,
+    7,
+    25,
+    13
+   ],
+   "erase_box": [
+    148,
+    0,
+    25,
+    20
+   ],
+   "text": "Sand",
+   "cap": 8,
+   "tracking": 0
+  },
+  {
+   "box": [
+    175,
+    7,
+    25,
+    13
+   ],
+   "erase_box": [
+    175,
+    0,
+    25,
+    20
+   ],
+   "text": "Tundra",
+   "cap": 8,
+   "tracking": 0
+  },
+  {
+   "box": [
+    202,
+    7,
+    26,
+    13
+   ],
+   "erase_box": [
+    202,
+    0,
+    26,
+    20
+   ],
+   "text": "Shore",
+   "cap": 8,
+   "tracking": 0
+  },
+  {
+   "box": [
+    229,
+    7,
+    25,
+    13
+   ],
+   "erase_box": [
+    229,
+    0,
+    25,
+    20
+   ],
+   "text": "Rocks",
+   "cap": 8,
+   "tracking": 0
+  },
+  {
+   "box": [
+    1,
+    22,
+    36,
+    14
+   ],
+   "erase_box": [
+    1,
+    21,
+    36,
+    16
+   ],
+   "text": "Water",
+   "cap": 9
+  },
+  {
+   "box": [
+    40,
+    22,
+    25,
+    14
+   ],
+   "erase_box": [
+    40,
+    21,
+    25,
+    16
+   ],
+   "text": "Sky",
+   "cap": 9
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "rel": "mdr/tex/bg_cls.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "anton",
+  "pad": 0,
+  "snap": true,
+  "fill": {
+   "stops": [
+    [
+     0,
+     "#FFFFFF"
+    ],
+    [
+     0.9,
+     "#FFFFFF"
+    ],
+    [
+     1.0,
+     "#D8D8D8"
+    ]
+   ]
+  },
+  "strokes": [
+   {
+    "color": "#363636",
+    "w": 2
+   }
+  ],
+  "erase": "none"
+ },
+ "items": [
+  {
+   "box": [
+    192,
+    88,
+    256,
+    40
+   ],
+   "erase": "solid:#4D4F4F00",
+   "text": ""
+  },
+  {
+   "box": [
+    112,
+    96,
+    44,
+    32
+   ],
+   "erase": "solid:#4D4F4F00",
+   "text": ""
+  },
+  {
+   "box": [
+    224,
+    72,
+    240,
+    16
+   ],
+   "erase": "solid:#4D4F4F00",
+   "text": ""
+  },
+  {
+   "box": [
+    236,
+    88,
+    84,
+    40
+   ],
+   "text": "RONDA",
+   "cap": 28,
+   "baseline": 120,
+   "align": "center",
+   "tracking": 0.5
+  },
+  {
+   "box": [
+    203,
+    88,
+    19,
+    40
+   ],
+   "text": "1",
+   "cap": 28,
+   "baseline": 120,
+   "align": "center",
+   "pad": 0
+  },
+  {
+   "box": [
+    221,
+    88,
+    13,
+    40
+   ],
+   "text": "a",
+   "cap": 15,
+   "baseline": 105,
+   "align": "left",
+   "pad": 0
+  },
+  {
+   "box": [
+    123,
+    96,
+    19,
+    32
+   ],
+   "text": "2",
+   "cap": 28,
+   "baseline": 126,
+   "align": "center",
+   "pad": 0
+  },
+  {
+   "box": [
+    141,
+    96,
+    13,
+    32
+   ],
+   "text": "a",
+   "cap": 15,
+   "baseline": 111,
+   "align": "left",
+   "pad": 0
+  },
+  {
+   "box": [
+    320,
+    88,
+    41,
+    36
+   ],
+   "text": "SEMI",
+   "cap": 17,
+   "baseline": 120,
+   "align": "center"
+  },
+  {
+   "box": [
+    361,
+    88,
+    88,
+    36
+   ],
+   "text": "FINAL",
+   "cap": 28,
+   "baseline": 120,
+   "align": "center",
+   "tracking": 2.5
+  }
+ ]
+}

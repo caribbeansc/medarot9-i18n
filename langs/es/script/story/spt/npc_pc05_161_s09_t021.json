@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc05_161_s09_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "7078365938d3",
+   "t": "Es la {{mine}} o el puerto."
+  },
+  {
+   "i": 1041,
+   "src": "4f74a0d1c2a6",
+   "t": "Apurémonos."
+  }
+ ]
+}

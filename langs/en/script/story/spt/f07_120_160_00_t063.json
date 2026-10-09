@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f07_120_160_00_t063.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1052,
+   "src": "d5393e449bda",
+   "t": "That went well, ha ha ha."
+  },
+  {
+   "i": 1055,
+   "src": "d569650f5614",
+   "t": "By the way, {{mio}}-kun."
+  },
+  {
+   "i": 1065,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1074,
+   "src": "daa69990930e",
+   "t": "What?"
+  },
+  {
+   "i": 1081,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1090,
+   "src": "eea03f499280",
+   "t": "You've been fidgety and restless a\nwhile."
+  },
+  {
+   "i": 1093,
+   "src": "5780ed0e379e",
+   "t": "What's wrong?"
+  },
+  {
+   "i": 1100,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1109,
+   "src": "fff802a63977",
+   "t": "Nothing."
+  },
+  {
+   "i": 1116,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1125,
+   "src": "bc4a01eb6fbb",
+   "t": "Hmm."
+  },
+  {
+   "i": 1128,
+   "src": "8e61088365e1",
+   "t": "Well, if you say so."
+  },
+  {
+   "i": 1136,
+   "src": "907885795987",
+   "t": "If something's up, you can step out."
+  },
+  {
+   "i": 1139,
+   "src": "4a0083c95ae7",
+   "t": "We have enough people here."
+  },
+  {
+   "i": 1146,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1155,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1163,
+   "src": "ac9dfeb9365b",
+   "t": "Oh."
+  },
+  {
+   "i": 1166,
+   "src": "11c510d9163a",
+   "t": "Then excuse me for a little while."
+  }
+ ]
+}

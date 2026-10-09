@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_kocho_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

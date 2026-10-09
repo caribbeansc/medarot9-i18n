@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description65.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "daf52b7dccaa",
+   "t": "{{field|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "5a3f22cda225",
+   "t": "Lugar donde se hace la <c:ffff00>{{robattle}}<c>. Hay 10 tipos de\n{{terrain}}: <c:ffff00>{{plains}}<c>, <c:ffff00>{{forest}}<c>, <c:ffff00>{{rocky_ground}}<c>, <c:ffff00>{{sand}}<c>, <c:ffff00>{{tundra}}<c>,\n<c:ffff00>{{hall}}<c>, <c:ffff00>{{waterside}}<c>, <c:ffff00>{{underwater}}<c>, <c:ffff00>{{sky}}<c> y <c:ffff00>{{cyber}}<c>.\nSegún el <c:ffff00>{{leg_type}}<c> del <c:ffff00>{{medabot}}<c>, existe una\n<c:ffff00>{{terrain_affinity}}<c>.\n\nNormalmente se usa el lugar donde uno se\nencuentra, pero de común acuerdo se puede\ncambiar de sitio o usar un espacio virtual."
+  }
+ ]
+}

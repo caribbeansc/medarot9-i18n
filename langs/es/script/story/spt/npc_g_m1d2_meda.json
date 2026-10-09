@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_g_m1d2_meda.spt",
+ "lines": [
+  {
+   "i": 1030,
+   "src": "eed25e246c29",
+   "t": "{{baroncastle}}"
+  },
+  {
+   "i": 1041,
+   "src": "9fa0c3d16d49",
+   "t": "Hoy me siento bastante bien."
+  }
+ ]
+}

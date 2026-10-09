@@ -1,0 +1,175 @@
+{
+ "rel": "mdr/tex/mk_wl_01.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "anton",
+  "cap": 22,
+  "italic_skew": 0.2,
+  "stroke_w": 1.0,
+  "stroke": "#6FFFD6",
+  "fill": {
+   "stops": [
+    [
+     0,
+     "#7DFFA3"
+    ],
+    [
+     0.46,
+     "#2BB16D"
+    ],
+    [
+     0.5,
+     "#136836"
+    ],
+    [
+     1,
+     "#4EFCB7"
+    ]
+   ]
+  },
+  "shadow": [
+   {
+    "dx": 0,
+    "dy": 0,
+    "color": "#028F1F",
+    "blur": 3.4,
+    "opacity": 1.0
+   },
+   {
+    "dx": 0,
+    "dy": 0,
+    "color": "#028F1F",
+    "blur": 1.6,
+    "opacity": 1.0
+   },
+   {
+    "dx": 0,
+    "dy": 0,
+    "color": "#00FF36",
+    "blur": 4,
+    "opacity": 0.3
+   }
+  ],
+  "pad": 0,
+  "baseline": 28
+ },
+ "items": [
+  {
+   "box": [
+    275,
+    0,
+    90,
+    36
+   ],
+   "erase_box": [
+    272,
+    0,
+    96,
+    36
+   ],
+   "text": "DERROTA"
+  },
+  {
+   "box": [
+    370,
+    0,
+    86,
+    40
+   ],
+   "erase_box": [
+    368,
+    0,
+    90,
+    36
+   ],
+   "text": "VICTORIA",
+   "cap": 21
+  },
+  {
+   "segments": [
+    [
+     142,
+     48,
+     120,
+     16,
+     0,
+     0
+    ],
+    [
+     270,
+     36,
+     120,
+     20,
+     0,
+     16
+    ]
+   ],
+   "box": [
+    6,
+    0,
+    108,
+    36
+   ],
+   "text": "EMPATE",
+   "tracking": 3
+  },
+  {
+   "box": [
+    427,
+    43,
+    58,
+    19
+   ],
+   "erase_box": [
+    424,
+    40,
+    64,
+    24
+   ],
+   "erase": "transparent",
+   "text": "Sube de nivel",
+   "font": "din",
+   "cap": 9,
+   "italic_skew": 0,
+   "stroke": null,
+   "stroke_w": 0,
+   "pad": 0,
+   "crisp": 0,
+   "baseline": 57,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FEFFD7"
+     ],
+     [
+      0.45,
+      "#FDFF82"
+     ],
+     [
+      1,
+      "#D4B820"
+     ]
+    ]
+   },
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#F2DC2D",
+     "blur": 3,
+     "opacity": 0.9
+    },
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#F4DF2B",
+     "blur": 1.2,
+     "opacity": 1.0
+    }
+   ],
+   "scale_x": 0.92
+  }
+ ]
+}

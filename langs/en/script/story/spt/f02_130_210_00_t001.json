@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f02_130_210_00_t001.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "cf64f070fa89",
+   "t": "Here it is."
+  },
+  {
+   "i": 1049,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1055,
+   "src": "727aeed4cb6a",
+   "t": "I didn't know a place like this existed..."
+  },
+  {
+   "i": 1069,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1075,
+   "src": "43034f7b5816",
+   "t": "Fresh out of the oven."
+  },
+  {
+   "i": 1078,
+   "src": "a54b21a5c2ec",
+   "t": "Ahaha."
+  },
+  {
+   "i": 1085,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1091,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1098,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1104,
+   "src": "e1122e337b77",
+   "t": "Well?"
+  },
+  {
+   "i": 1107,
+   "src": "28a1153a51b2",
+   "t": "With his abilities, can we get through?"
+  },
+  {
+   "i": 1114,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1120,
+   "src": "10c49605f057",
+   "t": "It should work, but..."
+  },
+  {
+   "i": 1138,
+   "src": "847959e5442e",
+   "t": "Yeah! I can handle it!"
+  },
+  {
+   "i": 1141,
+   "src": "59710355f7d9",
+   "t": "Leave it to me!"
+  }
+ ]
+}

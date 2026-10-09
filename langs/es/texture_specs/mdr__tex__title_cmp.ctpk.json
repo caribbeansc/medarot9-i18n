@@ -1,0 +1,215 @@
+{
+ "rel": "mdr/tex/title_cmp.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond-heavy",
+  "fill": "auto",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.3
+ },
+ "items": [
+  {
+   "erase_box": [
+    0,
+    0,
+    64,
+    24
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "segments": [
+    [
+     0,
+     8,
+     38,
+     13,
+     0,
+     0
+    ],
+    [
+     88,
+     32,
+     36,
+     16,
+     37,
+     0
+    ]
+   ],
+   "box": [
+    1,
+    0,
+    37,
+    13
+   ],
+   "sample_box": [
+    0,
+    8,
+    38,
+    13
+   ],
+   "erase": "transparent",
+   "font": "compact-rounded-heavy",
+   "cap": 8.5,
+   "scale_x": 0.9,
+   "baseline": 12,
+   "align": "left",
+   "text": "Receta"
+  },
+  {
+   "segments": [
+    [
+     0,
+     8,
+     38,
+     13,
+     0,
+     0
+    ],
+    [
+     88,
+     32,
+     36,
+     16,
+     37,
+     0
+    ]
+   ],
+   "box": [
+    38,
+    0,
+    10,
+    13
+   ],
+   "sample_box": [
+    0,
+    8,
+    38,
+    13
+   ],
+   "erase": "none",
+   "font": "compact-rounded-heavy",
+   "cap": 8.5,
+   "scale_x": 0.9,
+   "baseline": 12,
+   "align": "left",
+   "text": "s"
+  },
+  {
+   "box": [
+    1,
+    1,
+    40,
+    8
+   ],
+   "erase": "none",
+   "sample_box": [
+    0,
+    8,
+    38,
+    13
+   ],
+   "font": "tahoma",
+   "cap": 6,
+   "baseline": 8,
+   "align": "left",
+   "text": "CREAR",
+   "crisp": 0.5
+  },
+  {
+   "erase_box": [
+    0,
+    24,
+    88,
+    24
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    3,
+    32,
+    82,
+    16
+   ],
+   "erase": "none",
+   "sample_box": [
+    0,
+    32,
+    88,
+    14
+   ],
+   "cap": 9,
+   "baseline": 43.5,
+   "text": "Generar original"
+  },
+  {
+   "erase_box": [
+    136,
+    0,
+    88,
+    10
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    136,
+    10,
+    24,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    161,
+    10,
+    54,
+    12
+   ],
+   "erase_box": [
+    160,
+    10,
+    56,
+    16
+   ],
+   "sample_box": [
+    160,
+    10,
+    56,
+    16
+   ],
+   "erase": "transparent",
+   "cap": 8.5,
+   "baseline": 19.5,
+   "align": "left",
+   "text": "Materiales"
+  },
+  {
+   "box": [
+    66,
+    9,
+    68,
+    13
+   ],
+   "erase_box": [
+    64,
+    0,
+    72,
+    24
+   ],
+   "erase": "transparent",
+   "fill": "auto-grad",
+   "cap": 8.5,
+   "baseline": 19.5,
+   "text": "Materiales a usar"
+  }
+ ]
+}

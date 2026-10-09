@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1e_meda_117_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1035,
+   "src": "4e5c155d540f",
+   "t": "What's wrong, master?"
+  },
+  {
+   "i": 1038,
+   "src": "8e4fa949e919",
+   "t": "Stomachache?"
+  }
+ ]
+}

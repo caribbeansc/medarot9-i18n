@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_54.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2a842ef06c52",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nAutorreparación\nAl aumentar la barra de\ncarga, el {{armor}} de todas\nlas {{part|pl}} se recupera\nsegún el aumento de la\n{{charge_gauge}}."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2a_meda_000_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e21dfec68ed5",
+   "t": "{{pretty_prime}}"
+  },
+  {
+   "i": 1038,
+   "src": "c60b2c6db377",
+   "t": "I hate rust too."
+  },
+  {
+   "i": 1041,
+   "src": "b6da1308d3c1",
+   "t": "I oil my parts every day for\nmaintenance."
+  }
+ ]
+}

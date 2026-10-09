@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_2a_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "21221eb8498a",
+   "t": "El {{robattle_tournament}} ya está cerca."
+  },
+  {
+   "i": 1046,
+   "src": "0a96eefe6e82",
+   "t": "Después vienen los exámenes finales..."
+  },
+  {
+   "i": 1054,
+   "src": "0143f895d47b",
+   "t": "¡Pero cuando eso termine"
+  },
+  {
+   "i": 1057,
+   "src": "e6c23760925e",
+   "t": "llegan las vacaciones que espero!"
+  },
+  {
+   "i": 1065,
+   "src": "30d8757905f2",
+   "t": "Ahh~ ojalá llegue ya el verano."
+  },
+  {
+   "i": 1068,
+   "src": "3ef3918fb765",
+   "t": "¡Pasaré todo el tiempo en el mar!"
+  }
+ ]
+}

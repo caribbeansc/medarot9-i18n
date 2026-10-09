@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_21.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "303703c8a62b",
+   "t": "<c:00ff00>Técnica:<c>{{freeze_shot}}\nAtaque de {{shooting}} que\naplica {{freeze}}.\n<c:00ffff>{{status|cap}}:<c>{{freeze}}\nDetiene la acción por un\ntiempo; sin {{evade}} ni\n{{defend}}.\nSe anula al ser atacado."
+  }
+ ]
+}

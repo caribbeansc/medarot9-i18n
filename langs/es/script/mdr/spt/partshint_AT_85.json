@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_85.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f59b8dd38b45",
+   "t": "<c:00ff00>Técnica:<c>Refuerzo Guardia\nDurante un tiempo, {{up}}\nla {{defend}} de todo tu\nequipo.\nSi se usa de nuevo\ndurante el {{effect}} de\nrefuerzo guardia, el\n{{effect}} aumenta."
+  }
+ ]
+}

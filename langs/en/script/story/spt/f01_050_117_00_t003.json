@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f01_050_117_00_t003.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "5dd7643e31cf",
+   "t": "{{activity_level|cap}}, huh..."
+  },
+  {
+   "i": 1004,
+   "src": "30ea6d4e009d",
+   "t": "Let me check it in My Data."
+  }
+ ]
+}

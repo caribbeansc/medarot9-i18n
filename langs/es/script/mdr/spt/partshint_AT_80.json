@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_80.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0e984ce51a2e",
+   "t": "<c:00ff00>Técnica:<c>{{stealth}}\nHasta tu siguiente acción,\nsales del {{target}} de\nataque del equipo {{opponent}}.\nPuedes atacar esquivando\nla guardia de\ninterrupción."
+  }
+ ]
+}

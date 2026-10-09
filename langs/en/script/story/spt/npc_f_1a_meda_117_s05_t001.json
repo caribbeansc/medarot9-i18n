@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1a_meda_117_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c82f59ad4375",
+   "t": "{{magentacat}}"
+  },
+  {
+   "i": 1038,
+   "src": "0b8987d890bd",
+   "t": "Nice weather."
+  },
+  {
+   "i": 1041,
+   "src": "858217bbf71c",
+   "t": "I want to lounge around outside, nya."
+  }
+ ]
+}

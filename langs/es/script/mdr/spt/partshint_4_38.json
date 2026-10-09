@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_38.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "958490d8ca08",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nAcelerador\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"{{mobile_boost}}\"."
+  }
+ ]
+}

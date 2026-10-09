@@ -1,0 +1,330 @@
+{
+ "file": "story/spt/f05_180_210_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e21dfec68ed5",
+   "t": "Pretty Prime"
+  },
+  {
+   "i": 1035,
+   "src": "828a03eb844d",
+   "t": "Que se lleven bien no significa que"
+  },
+  {
+   "i": 1038,
+   "src": "a4731bb0aaf3",
+   "t": "sea un buen maestro, ¿no crees?"
+  },
+  {
+   "i": 1045,
+   "src": "276dee70715c",
+   "t": "{{zakuro}}"
+  },
+  {
+   "i": 1054,
+   "src": "e21269e5f90c",
+   "t": "Para nada."
+  },
+  {
+   "i": 1062,
+   "src": "b2f5f9e9df0b",
+   "t": "Aunque sean fiables en {{robattle}},"
+  },
+  {
+   "i": 1065,
+   "src": "10b8ee358f46",
+   "t": "yo no me conformo solo con eso."
+  },
+  {
+   "i": 1073,
+   "src": "9275e7e659da",
+   "t": "Hay que poder hacer postres juntos y"
+  },
+  {
+   "i": 1076,
+   "src": "e854ce38d999",
+   "t": "también ir de compras juntos."
+  },
+  {
+   "i": 1083,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1089,
+   "src": "10d438e80dd0",
+   "t": "¿La maestra de {{zakuro}} hace postres?"
+  },
+  {
+   "i": 1096,
+   "src": "276dee70715c",
+   "t": "{{zakuro}}"
+  },
+  {
+   "i": 1102,
+   "src": "f364d0ffc0f3",
+   "t": "Jeje"
+  },
+  {
+   "i": 1105,
+   "src": "95b746c408de",
+   "t": "¡Tenemos un pasatiempo en común!"
+  },
+  {
+   "i": 1112,
+   "src": "a6e23e611714",
+   "t": "{{kongo}}"
+  },
+  {
+   "i": 1121,
+   "src": "417ffd81344e",
+   "t": "Vaya, nunca lo adivinarías mirándola."
+  },
+  {
+   "i": 1124,
+   "src": "c8f01615927f",
+   "t": "Bueno, mi jefe es igual."
+  },
+  {
+   "i": 1132,
+   "src": "27495ac4c0c9",
+   "t": "¡Su pasatiempo es el bonsái!"
+  },
+  {
+   "i": 1135,
+   "src": "4e5a1ef17cf9",
+   "t": "¡Qué abuelo!"
+  },
+  {
+   "i": 1142,
+   "src": "dc985d3d3adc",
+   "t": "{{redmatador}}"
+  },
+  {
+   "i": 1148,
+   "src": "5ee3479bd40f",
+   "t": "Tal como me lo imaginaba."
+  },
+  {
+   "i": 1155,
+   "src": "f36baaf6bab0",
+   "t": "{{samurai}}"
+  },
+  {
+   "i": 1161,
+   "src": "bf631fb4c7f8",
+   "t": "El carácter de las personas cambia"
+  },
+  {
+   "i": 1164,
+   "src": "a14c8a92c6c7",
+   "t": "según a quién tengan alrededor."
+  },
+  {
+   "i": 1171,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1180,
+   "src": "0fbc5d803807",
+   "t": "¿En serio?"
+  },
+  {
+   "i": 1183,
+   "src": "8e38ec844a84",
+   "t": "Mi {{aoi}} no cambia mucho."
+  },
+  {
+   "i": 1234,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1247,
+   "src": "036e8d22b86f",
+   "t": "¡Oye! Di algo "
+  },
+  {
+   "i": 1249,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1252,
+   "src": "0ed635d66b3b",
+   "t": "¡Tú empezaste!"
+  },
+  {
+   "i": 1273,
+   "src": "263adadf9c35",
+   "t": "Mmm."
+  },
+  {
+   "i": 1280,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1289,
+   "src": "69f0e962bbea",
+   "t": "Y el maestro de "
+  },
+  {
+   "i": 1291,
+   "src": "1619a0cac1a3",
+   "t": ", ¿cómo es?"
+  },
+  {
+   "i": 1294,
+   "src": "af2d83be2423",
+   "t": "¿Es un buen {{master}}?"
+  },
+  {
+   "i": 1323,
+   "src": "8aede7d603a1",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1329,
+   "src": "529e3e745130",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1346,
+   "src": "2f15fdb2e6e1",
+   "t": "Quizá no somos muy cercanos."
+  },
+  {
+   "i": 1362,
+   "src": "b00a66b73cd1",
+   "t": "Es que yo no hago dulces con ese tipo."
+  },
+  {
+   "i": 1365,
+   "src": "1063ea8130be",
+   "t": "Pero--"
+  },
+  {
+   "i": 1372,
+   "src": "dc985d3d3adc",
+   "t": "{{redmatador}}"
+  },
+  {
+   "i": 1378,
+   "src": "65f58db5a025",
+   "t": "¿Puedes confiar en él?"
+  },
+  {
+   "i": 1399,
+   "src": "2425455b92da",
+   "t": "¿Confiar?"
+  },
+  {
+   "i": 1406,
+   "src": "f36baaf6bab0",
+   "t": "{{samurai}}"
+  },
+  {
+   "i": 1412,
+   "src": "0fdddf5139d9",
+   "t": "Sí, confianza. Sin confianza absoluta,"
+  },
+  {
+   "i": 1415,
+   "src": "0562df07c9dd",
+   "t": "no se es un buen {{master}}."
+  },
+  {
+   "i": 1422,
+   "src": "ad1a2c18e5bf",
+   "t": "{{jasper}}"
+  },
+  {
+   "i": 1428,
+   "src": "cfcabbdadbee",
+   "t": "¡Sí! ¡La confianza es lo más"
+  },
+  {
+   "i": 1431,
+   "src": "d07f4b71a16c",
+   "t": "importante, después de todo!"
+  },
+  {
+   "i": 1439,
+   "src": "f77b8900371d",
+   "t": "¡Solo confío en {{ryusei}} para"
+  },
+  {
+   "i": 1442,
+   "src": "b84f7b12bee9",
+   "t": "cuidarme! ¡Es el mejor {{master}}!"
+  },
+  {
+   "i": 1463,
+   "src": "b6c92c30dd0d",
+   "t": "Confianza, eh."
+  },
+  {
+   "i": 1489,
+   "src": "98c4265a5ea2",
+   "t": "Quizá no confío en él."
+  },
+  {
+   "i": 1498,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1507,
+   "src": "6b50a877023c",
+   "t": "¿Es así?"
+  },
+  {
+   "i": 1536,
+   "src": "aa1953d80b7e",
+   "t": "Sí."
+  },
+  {
+   "i": 1539,
+   "src": "84af09387f6e",
+   "t": "Porque ese tipo no confía en mí."
+  },
+  {
+   "i": 1545,
+   "src": "062cc210376c",
+   "t": "Mmm."
+  },
+  {
+   "i": 1548,
+   "src": "20b10017aa9a",
+   "t": "Porque él no confía en mí para nada."
+  },
+  {
+   "i": 1565,
+   "src": "2934e3005b66",
+   "t": "¡¡Si confiaras en mí, no harías eso!!"
+  },
+  {
+   "i": 1581,
+   "src": "46aeb135ae7e",
+   "t": "Siempre hace cosas así, por eso lo digo."
+  },
+  {
+   "i": 1602,
+   "src": "b29a8a7f7322",
+   "t": "Así que yo tampoco confío en él."
+  },
+  {
+   "i": 1608,
+   "src": "43f2da867c75",
+   "t": "Así que yo tampoco confío en ese tipo."
+  },
+  {
+   "i": 1625,
+   "src": "3fa0a1b0aec7",
+   "t": "¡Es un maestro pésimo!"
+  }
+ ]
+}

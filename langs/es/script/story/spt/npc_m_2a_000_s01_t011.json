@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2a_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1038,
+   "src": "5e5aec0b1bed",
+   "t": "La escuela es grande, pero el dormitorio"
+  },
+  {
+   "i": 1041,
+   "src": "fccd66f1f8df",
+   "t": "también tiene un montón de cuartos."
+  },
+  {
+   "i": 1049,
+   "src": "b16c68d119a3",
+   "t": "Yo aún no encuentro mi cuarto"
+  },
+  {
+   "i": 1052,
+   "src": "7f82993ad05c",
+   "t": "y me pierdo."
+  },
+  {
+   "i": 1060,
+   "src": "bc31be4ead7d",
+   "t": "¡Y eso que ya llevo dos años!"
+  },
+  {
+   "i": 1063,
+   "src": "80c27e668c1d",
+   "t": "¡Jajaja!"
+  }
+ ]
+}

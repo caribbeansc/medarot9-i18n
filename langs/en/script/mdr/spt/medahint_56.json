@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_56.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "17ef24903bbe",
+   "t": "Sturdy rhino-{{type}}\n{{medabot}} with peerless\narmor.\n \nThe {{guard}} 100 on its\nhead\nnullifies weak attacks.\nBeware its arm missiles."
+  }
+ ]
+}

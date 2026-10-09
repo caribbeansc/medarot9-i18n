@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_19.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3db96609f8dc",
+   "t": "<c:00ff00>Action:<c> {{tornado}}\nA ranged attack that\napplies the {{tornado}}\n{{status}}.\n<c:00ffff>{{status|cap}}:<c> {{tornado}}\nPauses the action; no\nevade or defend. Makes it\n{{flying}}. Released when\nattacked."
+  }
+ ]
+}

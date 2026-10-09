@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f09_240_800_00_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "afae0bbd94fb",
+   "t": "¿Eh, vaya?"
+  },
+  {
+   "i": 1038,
+   "src": "a083ddff77f5",
+   "t": "Acaso ese será..."
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1054,
+   "src": "a79c3e558321",
+   "t": "¿¡El {{principal}}!?"
+  },
+  {
+   "i": 1061,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1067,
+   "src": "12391dc6c0e0",
+   "t": "¿¡Por qué estás aquí...!?"
+  },
+  {
+   "i": 1074,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1080,
+   "src": "236939fa3ca3",
+   "t": "Olvídense de mí por ahora."
+  },
+  {
+   "i": 1088,
+   "src": "e444aed7de2b",
+   "t": "¿Qué pasó?"
+  },
+  {
+   "i": 1091,
+   "src": "e3638398dda8",
+   "t": "Explíquenme."
+  }
+ ]
+}

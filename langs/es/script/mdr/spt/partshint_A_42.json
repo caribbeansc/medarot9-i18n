@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_42.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "cb12214f6b11",
+   "t": "<c:00ff00>{{mf}}:<c>{{super_charge}}\nReduce el tiempo de {{prep}}\nhasta la siguiente acción\nde tu equipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

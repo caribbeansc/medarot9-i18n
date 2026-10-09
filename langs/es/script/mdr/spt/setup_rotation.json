@@ -1,0 +1,70 @@
+{
+ "file": "mdr/spt/setup_rotation.spt",
+ "lines": [
+  {
+   "i": 2168,
+   "src": "1055a93cd59b",
+   "t": "Volver sin confirmar"
+  },
+  {
+   "i": 2171,
+   "src": "dcce1ad912b3",
+   "t": "la rotación?"
+  },
+  {
+   "i": 2884,
+   "src": "c21cc4febb39",
+   "t": "Los datos anteriores se perderán."
+  },
+  {
+   "i": 2887,
+   "src": "cb0371b12f0c",
+   "t": "¿Está bien?"
+  },
+  {
+   "i": 2900,
+   "src": "72ef20a82be6",
+   "t": "¿Guardar la partida?"
+  },
+  {
+   "i": 2987,
+   "src": "c7d94dad4fc4",
+   "t": "Guardando..."
+  },
+  {
+   "i": 3031,
+   "src": "d6c3b809bdb1",
+   "t": "Partida guardada."
+  },
+  {
+   "i": 3037,
+   "src": "cbf2f9db8b90",
+   "t": "Error al guardar."
+  },
+  {
+   "i": 3085,
+   "src": "d6c3b809bdb1",
+   "t": "Partida guardada."
+  },
+  {
+   "i": 3198,
+   "src": "e8b0ff4cafbf",
+   "t": "Borrar datos guardados?"
+  },
+  {
+   "i": 3237,
+   "src": "27589dbfa5bb",
+   "t": "Borrando..."
+  },
+  {
+   "i": 3288,
+   "src": "a198b2c22212",
+   "t": "{{rotation|cap}} borrada."
+  },
+  {
+   "i": 3338,
+   "src": "a198b2c22212",
+   "t": "{{rotation|cap}} borrada."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description53.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "55b99ad89d13",
+   "t": "Negative {{status|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "04ceee1d2099",
+   "t": "An automatic effect that works against a <c:ffff00>{{medabot}}<c>.\nMostly applied by the {{opponent}}'s <c:ffff00>Striking<c> and\n<c:ffff00>Shooting<c> <c:ffff00>actions<c>. A {{medabot}} can hold up to 6 types;\nbeyond that the oldest vanish. They last a set time\nor number of <c:ffff00>acts<c>; some end under specific\nconditions.\n{{stacking|cap}} the same {{negative_status}} resets its\nduration or count."
+  }
+ ]
+}

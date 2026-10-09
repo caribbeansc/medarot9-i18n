@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f06_260_161_00_t051.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "769a192ade22",
+   "t": "The Vice-Principal, huh..."
+  },
+  {
+   "i": 1042,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1051,
+   "src": "783973955583",
+   "t": "Well, that's reasonable."
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1067,
+   "src": "517c802ada4b",
+   "t": "Right. I'll talk to the Vice-Principal"
+  },
+  {
+   "i": 1070,
+   "src": "d4f6c1326e39",
+   "t": "and tell him everything honestly..."
+  },
+  {
+   "i": 1078,
+   "src": "614232bc721c",
+   "t": "Yeah, let's end it that way."
+  },
+  {
+   "i": 1081,
+   "src": "19f904180a8d",
+   "t": "Okay, let's go."
+  }
+ ]
+}

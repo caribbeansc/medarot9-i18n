@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_64.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bb0cfa67742c",
+   "t": "<c:00ff00>Técnica:<c>Antiaéreo\nAtaque cuerpo a cuerpo\nque causa gran {{damage}} si las\n{{legs}} del {{opponent}} son de\ntipo {{flying}}.\nTiene {{effect}} de\npenetración."
+  }
+ ]
+}

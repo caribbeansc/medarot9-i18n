@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_18.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3f0aeed89ebc",
+   "t": "<c:00ff00>Action:<c> {{defense_seal}}\nA ranged attack that\napplies the\n{{defense_seal}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{defense_seal}}\nMakes the target unable\nto defend, regardless of\nthe {{part}}'s {{condition}}."
+  }
+ ]
+}

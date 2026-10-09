@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f2_meda_140_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0d793da5d065",
+   "t": "{{ashton}}"
+  },
+  {
+   "i": 1038,
+   "src": "60e4437ad225",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1041,
+   "src": "6e636b5a4525",
+   "t": "¿¿Se canceló el entrenamiento hoy??"
+  }
+ ]
+}

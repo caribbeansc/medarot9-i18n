@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2c_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1038,
+   "src": "7316ac8b4768",
+   "t": "Ay, todos están locos por las Medarias"
+  },
+  {
+   "i": 1041,
+   "src": "ce7d98c79e27",
+   "t": "y el {{club}} queda de lado. En fin,"
+  },
+  {
+   "i": 1049,
+   "src": "d459045dd139",
+   "t": "qué se le va a hacer. Así las cosas,"
+  },
+  {
+   "i": 1052,
+   "src": "bfc578c98e06",
+   "t": "yo también me uniré a la cacería."
+  }
+ ]
+}

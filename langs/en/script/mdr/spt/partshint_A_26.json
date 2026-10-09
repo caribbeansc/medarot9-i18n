@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_26.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "0439562f93f1",
+   "t": "<c:00ff00>{{mf}}:<c> {{invasion}}\nFor a while, makes you\nstrong on every {{terrain}}.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f11_260_959_00_t013.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "03c2f1e79ebf",
+   "t": "Wh-what is that energy...!"
+  },
+  {
+   "i": 1056,
+   "src": "f71322c5c57d",
+   "t": "{{principal}}"
+  },
+  {
+   "i": 1062,
+   "src": "13358fbbd2e8",
+   "t": "That one damages the {{medal}} more than\nthe {{part|pl}}."
+  },
+  {
+   "i": 1065,
+   "src": "46f69b8b8761",
+   "t": "It's a power meant for predation...!"
+  },
+  {
+   "i": 1073,
+   "src": "246118ecd1c7",
+   "t": "If something like that hits you head-on..."
+  },
+  {
+   "i": 1078,
+   "src": "f71322c5c57d",
+   "t": "{{principal}}"
+  },
+  {
+   "i": 1084,
+   "src": "c829b4aebc82",
+   "t": "Run!"
+  },
+  {
+   "i": 1087,
+   "src": "176b2ba007ad",
+   "t": "Another one's coming!"
+  }
+ ]
+}

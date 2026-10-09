@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s06_t041.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "0ce2ac95a01e",
+   "t": "Well, no use overthinking it."
+  },
+  {
+   "i": 1041,
+   "src": "707ba2f82cd6",
+   "t": "Let's go."
+  }
+ ]
+}

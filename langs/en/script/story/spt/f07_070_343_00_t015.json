@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f07_070_343_00_t015.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b756b29efe5d",
+   "t": "{{stray_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "22bb38d0762b",
+   "t": "Leave them."
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1048,
+   "src": "0ecbcf6e1672",
+   "t": "A {{stray}} {{medabot}}, huh."
+  },
+  {
+   "i": 1055,
+   "src": "b756b29efe5d",
+   "t": "{{stray_medabot}}"
+  },
+  {
+   "i": 1061,
+   "src": "d43a9a330e70",
+   "t": "Legs. Leave them."
+  },
+  {
+   "i": 1068,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1074,
+   "src": "ce59eb73bda1",
+   "t": "I see... So this guy is the culprit."
+  },
+  {
+   "i": 1081,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1087,
+   "src": "b76f9606e876",
+   "t": "Looks like you can still talk."
+  },
+  {
+   "i": 1090,
+   "src": "b82675eb9069",
+   "t": "Hey, can you understand me?"
+  },
+  {
+   "i": 1098,
+   "src": "051cd222b2e6",
+   "t": "Were you the one collecting leg {{part|pl}}?"
+  },
+  {
+   "i": 1101,
+   "src": "254c6f4052aa",
+   "t": "If so, I have a favor to ask--"
+  },
+  {
+   "i": 1108,
+   "src": "b756b29efe5d",
+   "t": "{{stray_medabot}}"
+  },
+  {
+   "i": 1114,
+   "src": "22bb38d0762b",
+   "t": "Leave them."
+  },
+  {
+   "i": 1121,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1127,
+   "src": "b3afbdfd5ad6",
+   "t": "It's no use, {{ryoma}}-kun. Looks like he's"
+  },
+  {
+   "i": 1130,
+   "src": "a586ec31c3d7",
+   "t": "not someone you can reason with."
+  },
+  {
+   "i": 1137,
+   "src": "b756b29efe5d",
+   "t": "{{stray_medabot}}"
+  },
+  {
+   "i": 1143,
+   "src": "22bb38d0762b",
+   "t": "Leave them."
+  },
+  {
+   "i": 1151,
+   "src": "d95a66865779",
+   "t": "Legs."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_54.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a947db776001",
+   "t": "Penguin-{{type}} {{medabot}}\nwith a fondness for bow\nties.\n \nIt has the valuable ability\nto revive an {{ally_battle_term}}'s {{part}}\nthat has been destroyed\nonce."
+  }
+ ]
+}

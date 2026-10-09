@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_83.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "077874ea1626",
+   "t": "<c:00ff00>Técnica:<c>Calentador\nDurante un tiempo, {{up}}\nla {{prep}} de todo tu\nequipo.\nSi se usa de nuevo\ndurante el {{effect}} de\ncalentador, el {{effect}}\naumenta."
+  }
+ ]
+}

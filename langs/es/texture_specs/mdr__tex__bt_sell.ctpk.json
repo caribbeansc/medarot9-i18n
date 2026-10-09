@@ -1,0 +1,39 @@
+{
+ "rel": "mdr/tex/bt_sell.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    68,
+    9,
+    72,
+    21
+   ],
+   "erase_box": [
+    83,
+    8,
+    42,
+    25
+   ],
+   "erase": "glyph",
+   "grow": 2,
+   "text": "Vender",
+   "font": "compact-rounded-heavy",
+   "cap": 12,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.45
+   },
+   "repeat": [
+    [
+     0,
+     40
+    ]
+   ]
+  }
+ ]
+}

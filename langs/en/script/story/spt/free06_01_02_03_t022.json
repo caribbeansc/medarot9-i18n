@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free06_01_02_03_t022.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1049,
+   "src": "f2b3a1502c7d",
+   "t": "Ah, hey, wait..."
+  },
+  {
+   "i": 1057,
+   "src": "b419b6d3cfc5",
+   "t": "I'm not a boar!"
+  },
+  {
+   "i": 1060,
+   "src": "fe22957a3de9",
+   "t": "I can't walk that fast, geez."
+  }
+ ]
+}

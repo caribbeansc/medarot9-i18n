@@ -1,0 +1,113 @@
+{
+ "rel": "battle/tex/cp2_state9.ctpk",
+ "base": "jp",
+ "defaults": {
+  "pad": 0
+ },
+ "items": [
+  {
+   "erase_box": [
+    72,
+    246,
+    35,
+    2
+   ],
+   "erase": "solid:#80EAB4",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    71,
+    248,
+    36,
+    4
+   ],
+   "erase": "solid:#7EF5B1",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    72,
+    252,
+    35,
+    1
+   ],
+   "erase": "solid:#9ADEBC",
+   "text": ""
+  },
+  {
+   "box": [
+    71,
+    246,
+    36,
+    7
+   ],
+   "erase": "none",
+   "text": "M.Fuerza",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "baseline": 252,
+   "fill": "#003816",
+   "stroke": null,
+   "crisp": 1,
+   "min_scale_x": 1
+  },
+  {
+   "erase_box": [
+    228,
+    229,
+    27,
+    8
+   ],
+   "erase": "solid:#1E1E3ACC",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    231,
+    243,
+    5,
+    10
+   ],
+   "erase": "solid:#1D1D36CC",
+   "text": ""
+  },
+  {
+   "segments": [
+    [
+     227,
+     228,
+     28,
+     10,
+     0,
+     4
+    ],
+    [
+     231,
+     239,
+     25,
+     15,
+     28,
+     0
+    ]
+   ],
+   "erase": "none",
+   "text": "ESPERA",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "baseline": 13,
+   "align": "left",
+   "pad": 0,
+   "box": [
+    2,
+    4,
+    44,
+    10
+   ],
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "crisp": 1,
+   "min_scale_x": 1
+  }
+ ]
+}

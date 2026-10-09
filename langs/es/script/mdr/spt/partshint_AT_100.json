@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_100.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f0bca9ee0b83",
+   "t": "<c:00ff00>Técnica:<c>Cibernúcleo\nAñade a todo el equipo\n{{ally_battle_term}} el {{effect}} de mira de\nradar y el {{effect}} de\nocultamiento."
+  }
+ ]
+}

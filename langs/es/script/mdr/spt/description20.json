@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description20.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "166f0bf3409c",
+   "t": "Acción"
+  },
+  {
+   "i": 11,
+   "src": "8b596719d360",
+   "t": "Las acciones de un <c:ffff00>{{medabot}}<c> durante la <c:ffff00>{{robattle}}<c>\nse clasifican a grandes rasgos así:\n  <c:ffff00>Técnica<c>\n  <c:ffff00>Cargar<c>\n  <c:ffff00>{{medaforce}}<c>\n  <c:ffff00>{{medachange}}<c>  <c:ffff00>Revertir forma<c>\n  <c:ffff00>{{trans_part}}<c>"
+  }
+ ]
+}

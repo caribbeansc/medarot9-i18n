@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_seitokai_fb_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1035,
+   "src": "84ae6f7f79c9",
+   "t": "¡Ay, qué lástima!"
+  },
+  {
+   "i": 1038,
+   "src": "ead3a051b601",
+   "t": "Ahora estoy ocupada... ¡Perdona!"
+  }
+ ]
+}

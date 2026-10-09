@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f06_160_119_00_t012.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "0cd44f708219",
+   "t": "No doubt about it."
+  },
+  {
+   "i": 1041,
+   "src": "18b06a705d3e",
+   "t": "The 'suspicious point' is beyond this\ndoor."
+  },
+  {
+   "i": 1049,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1057,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1066,
+   "src": "28749fdf3841",
+   "t": "W-what are we going to do?"
+  },
+  {
+   "i": 1073,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1082,
+   "src": "d845dda2564f",
+   "t": "Well, let's see."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/btl_ev_12.spt",
+ "lines": [
+  {
+   "i": 35,
+   "src": "798cdeebae1a",
+   "t": "¡Qué tal!\n¡Así será pan comido!"
+  },
+  {
+   "i": 58,
+   "src": "db9439ea50a0",
+   "t": "¡Juajajajaja!\n¡Qué robot tan ingenuo!"
+  },
+  {
+   "i": 75,
+   "src": "37633f50fdca",
+   "t": "¡Conoce el terror de las {{robattle|pl}}\nde eliminación, robot!"
+  },
+  {
+   "i": 86,
+   "src": "54cfcd100b3e",
+   "t": "¡Toma!\n¡Robot, transfiere al siguiente {{medabot}}!"
+  }
+ ]
+}

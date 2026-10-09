@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0481.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 872,
+   "src": "7a55e4b79e23",
+   "t": "Oh, ¿una {{robattle}}?"
+  },
+  {
+   "i": 875,
+   "src": "ed7a42d1fd3c",
+   "t": "Je, claro que la hago. Qué gusto."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_69.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e828badb43b6",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Vigilancia\nLos ataques de rivales con\nmenor {{mobility}} que tú\nno causan críticos."
+  }
+ ]
+}

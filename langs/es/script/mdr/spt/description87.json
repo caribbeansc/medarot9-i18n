@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description87.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0d45fe9a6052",
+   "t": "{{sniper}} (est.)"
+  },
+  {
+   "i": 11,
+   "src": "3360a7ebf1cf",
+   "t": "<c:ffff00>{{robattle_style|cap}}<c> que prioriza el combate a\ndistancia.\n\n<c:ffff00>Rendimientos<c> que suben:\n  <c:ffff00>{{success}}<c> +12, <c:ffff00>{{power}}<c> +5, <c:ffff00>{{shooting}}<c> +10\n\n{{condition_rotation|cap}} de subida de la <c:ffff00>{{charge_gauge}}<c>:\n+10% por cada <c:ffff00>{{part}}<c> <c:ffff00>destruida<c> al <c:ffff00>atacar<c>."
+  }
+ ]
+}

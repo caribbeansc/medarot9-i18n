@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description39.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8cd94db79329",
+   "t": "{{defend|cap}} ({{response}})"
+  },
+  {
+   "i": 11,
+   "src": "d2648b3f8adc",
+   "t": "<c:ffff00>{{response|cap}}<c> que recibe el <c:ffff00>ataque<c> del {{opponent}} tras\nprepararse para reducir el <c:ffff00>{{damage}}<c> al máximo.\n\nCuanto mayor es el {{stats}} de <c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c>\nde las <c:ffff00>{{legs}}<c>, más sube temporalmente el <c:ffff00>poder de<c>\n<c:ffff00>{{defend}}<c>.\n\nEl {{damage}} recibido se reduce con el poder de {{defend}}\naumentado."
+  }
+ ]
+}

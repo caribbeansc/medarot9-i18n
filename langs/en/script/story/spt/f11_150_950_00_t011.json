@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/f11_150_950_00_t011.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "03b2b34a12ac",
+   "t": "Huh, where are the {{medabot|pl}}...?"
+  },
+  {
+   "i": 1054,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1060,
+   "src": "72cce8384b80",
+   "t": "They vanished..."
+  },
+  {
+   "i": 1070,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1076,
+   "src": "6ab6e7a9cd63",
+   "t": "What?"
+  },
+  {
+   "i": 1086,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1095,
+   "src": "d4e523f65bda",
+   "t": "What does that mean...?"
+  },
+  {
+   "i": 1105,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1114,
+   "src": "a843f9e493aa",
+   "t": "I-I thought we were done for."
+  },
+  {
+   "i": 1117,
+   "src": "cc7c8cfa119f",
+   "t": "We kept beating them and they kept\ncoming--"
+  },
+  {
+   "i": 1127,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1136,
+   "src": "9207bc4609f7",
+   "t": "But all of a sudden they stopped\nattacking."
+  },
+  {
+   "i": 1139,
+   "src": "9128a577cf09",
+   "t": "They just stood there and stopped\nmoving..."
+  },
+  {
+   "i": 1149,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1158,
+   "src": "8de5cea6363f",
+   "t": "So, they broke?"
+  },
+  {
+   "i": 1175,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1184,
+   "src": "dc2d29377b66",
+   "t": "No, they started walking again right\naway."
+  },
+  {
+   "i": 1187,
+   "src": "b633572c5fc9",
+   "t": "They turned around and left the\nacademy."
+  },
+  {
+   "i": 1197,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1206,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1216,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1225,
+   "src": "cf1f1aeec6c7",
+   "t": "Where did they go?"
+  },
+  {
+   "i": 1235,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1244,
+   "src": "21e802d34fc0",
+   "t": "Who knows."
+  }
+ ]
+}

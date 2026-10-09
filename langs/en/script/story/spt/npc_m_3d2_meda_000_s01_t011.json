@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d2_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "66e71b8a95ea",
+   "t": "{{teppen}}"
+  },
+  {
+   "i": 1038,
+   "src": "378b8c55dca8",
+   "t": "What I like best about this school"
+  },
+  {
+   "i": 1041,
+   "src": "767826eb0bd6",
+   "t": "is that humans and {{medabot|pl}} are totally\nequal."
+  },
+  {
+   "i": 1049,
+   "src": "a874927d0f52",
+   "t": "That's why I do chores like cleaning"
+  },
+  {
+   "i": 1052,
+   "src": "4fb3e0b32b92",
+   "t": "and laundry without complaining!"
+  }
+ ]
+}

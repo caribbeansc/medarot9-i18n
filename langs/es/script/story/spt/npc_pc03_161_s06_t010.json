@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc03_161_s06_t010.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "d9e4a7e55401",
+   "t": "Dejemos a {{main}}-chan sola por un rato."
+  },
+  {
+   "i": 1041,
+   "src": "8821dff29dc2",
+   "t": "Trata de no hablarle demasiado."
+  }
+ ]
+}

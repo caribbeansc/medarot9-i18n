@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m2b2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1035,
+   "src": "0f8d87e25ccf",
+   "t": "Perdona, ahora me viene un poco mal."
+  },
+  {
+   "i": 1038,
+   "src": "2389b2a27aae",
+   "t": "Otra vez será."
+  }
+ ]
+}

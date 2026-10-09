@@ -1,0 +1,230 @@
+{
+ "file": "story/spt/f02_100_210_00_t004.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "f6830e079d01",
+   "t": "Hey there, {{ryoma}}-kun"
+  },
+  {
+   "i": 1048,
+   "src": "2745c22a12a5",
+   "t": "Long time no see~."
+  },
+  {
+   "i": 1060,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1066,
+   "src": "0abc6976afc0",
+   "t": "It's you, huh..."
+  },
+  {
+   "i": 1073,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1079,
+   "src": "92ea01556ebd",
+   "t": "What are you doing in a place like this?"
+  },
+  {
+   "i": 1086,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1092,
+   "src": "5c958dc6fbfd",
+   "t": "{{part|cap}} maintenance."
+  },
+  {
+   "i": 1099,
+   "src": "b129709de155",
+   "t": "{{blue_submarine}}"
+  },
+  {
+   "i": 1105,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1115,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1121,
+   "src": "7cef3aab6530",
+   "t": "That's a {{medachange}} {{unit}}, isn't it?"
+  },
+  {
+   "i": 1124,
+   "src": "db4bff30232d",
+   "t": "Is it a {{submarine}} type?"
+  },
+  {
+   "i": 1134,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1140,
+   "src": "aa1953d80b7e",
+   "t": "Yeah."
+  },
+  {
+   "i": 1153,
+   "src": "b16da6bd48c1",
+   "t": "A {{submarine}} type! And since it's a"
+  },
+  {
+   "i": 1156,
+   "src": "a4eea9b6c448",
+   "t": "{{medachange}} {{unit}}, that means--"
+  },
+  {
+   "i": 1164,
+   "src": "1e1b159b6b19",
+   "t": "When it transforms, it can reach"
+  },
+  {
+   "i": 1167,
+   "src": "e3d54636b256",
+   "t": "thrust of a racing boat, right? Awesome!"
+  },
+  {
+   "i": 1182,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1188,
+   "src": "7cfe07a42bd1",
+   "t": "You know your stuff."
+  },
+  {
+   "i": 1196,
+   "src": "a1219ec370d4",
+   "t": "That's if the tuning goes well, though."
+  },
+  {
+   "i": 1206,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1212,
+   "src": "7650d44d6f47",
+   "t": "Come to think of it, you mentioned a\ntest"
+  },
+  {
+   "i": 1215,
+   "src": "a0b367124a47",
+   "t": "or something. Is it broken?"
+  },
+  {
+   "i": 1225,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1231,
+   "src": "47124a95ac70",
+   "t": "Something like that."
+  },
+  {
+   "i": 1246,
+   "src": "696d84418a8b",
+   "t": "We finally gathered a full set,"
+  },
+  {
+   "i": 1249,
+   "src": "7a9662540911",
+   "t": "but their {{condition}} varies wildly."
+  },
+  {
+   "i": 1260,
+   "src": "6b14be020fad",
+   "t": "I'm collecting real combat data"
+  },
+  {
+   "i": 1263,
+   "src": "25c62189f2c4",
+   "t": "and keeping on with the tuning."
+  },
+  {
+   "i": 1271,
+   "src": "8616788b0c52",
+   "t": "This place is good, nobody gets in the\nway."
+  },
+  {
+   "i": 1274,
+   "src": "3bdf7186b034",
+   "t": "Hardly ever... but still."
+  },
+  {
+   "i": 1281,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1287,
+   "src": "8f769132dfd9",
+   "t": "So how is it running?"
+  },
+  {
+   "i": 1297,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1303,
+   "src": "f07c8bb21df0",
+   "t": "You'd have to ask the one using it."
+  },
+  {
+   "i": 1306,
+   "src": "e9ca9562d9de",
+   "t": "...How's it going, "
+  },
+  {
+   "i": 1308,
+   "src": "7d9d809ecbf1",
+   "t": ""
+  },
+  {
+   "i": 1324,
+   "src": "1a7f21ebbdad",
+   "t": "Huh? How am I running?"
+  },
+  {
+   "i": 1332,
+   "src": "d2afb1388a1a",
+   "t": "No idea about that. You gotta"
+  },
+  {
+   "i": 1335,
+   "src": "e34a651b2ed4",
+   "t": "let me play around a little more."
+  },
+  {
+   "i": 1345,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1351,
+   "src": "95e5ed69aa9c",
+   "t": "...So he says."
+  }
+ ]
+}

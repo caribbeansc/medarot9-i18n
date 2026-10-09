@@ -1,0 +1,123 @@
+{
+ "rel": "mdr/tex/bt_t_field9.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "avenir-cond-heavy",
+  "cap": 8,
+  "align": "center",
+  "fill": "#FFFFFF",
+  "strokes": [
+   {
+    "color": "#000000",
+    "w": 1
+   }
+  ],
+  "pad": 0,
+  "min_scale_x": 0.6,
+  "crisp": 0.6
+ },
+ "items": [
+  {
+   "box": [
+    297,
+    65,
+    49,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Ciber"
+  },
+  {
+   "box": [
+    347,
+    65,
+    37,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Interior"
+  },
+  {
+   "box": [
+    297,
+    80,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Llano"
+  },
+  {
+   "box": [
+    324,
+    80,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Bosque",
+   "cap": 7
+  },
+  {
+   "box": [
+    351,
+    80,
+    25,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Agua"
+  },
+  {
+   "box": [
+    297,
+    95,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Arena"
+  },
+  {
+   "box": [
+    324,
+    95,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Tundra",
+   "cap": 7
+  },
+  {
+   "box": [
+    351,
+    95,
+    25,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Aire"
+  },
+  {
+   "box": [
+    297,
+    110,
+    25,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Orilla"
+  },
+  {
+   "box": [
+    324,
+    110,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Rocas"
+  }
+ ]
+}

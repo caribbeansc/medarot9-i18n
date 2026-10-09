@@ -1,0 +1,75 @@
+{
+ "file": "mdr/spt/mdr_tutorial.spt",
+ "lines": [
+  {
+   "i": 2354,
+   "src": "18e2e6d0fbff",
+   "t": "Guarda tus actividades hasta ahora"
+  },
+  {
+   "i": 2361,
+   "src": "888d671010a2",
+   "t": "Configura tus {{medabot|pl}}"
+  },
+  {
+   "i": 2375,
+   "src": "3b624a1c3d64",
+   "t": "Consulta tu información"
+  },
+  {
+   "i": 2379,
+   "src": "7d7bb7f0cb4a",
+   "t": "Datos de compañeros de {{robattle}}"
+  },
+  {
+   "i": 2387,
+   "src": "db8ad828bbd8",
+   "t": "Consulta la información de las {{part|pl}}"
+  },
+  {
+   "i": 2394,
+   "src": "60fdeb7b0c01",
+   "t": "Consulta el mapa y elige el destino"
+  },
+  {
+   "i": 2401,
+   "src": "6105ba1a7d0f",
+   "t": "Consulta el progreso de las misiones"
+  },
+  {
+   "i": 2408,
+   "src": "da18f5438c63",
+   "t": "Mira el álbum de {{medabot|pl}}"
+  },
+  {
+   "i": 2415,
+   "src": "a51efcbba00c",
+   "t": "Haz {{robattle|pl}} e intercambia {{part|pl}}"
+  },
+  {
+   "i": 2422,
+   "src": "e502fd3bad01",
+   "t": "Consulta y usa tus objetos"
+  },
+  {
+   "i": 2429,
+   "src": "76e70360d81b",
+   "t": "Cambia los ajustes de {{robattle}}"
+  },
+  {
+   "i": 2436,
+   "src": "640e66a4d558",
+   "t": "Reglas y {{terms}} de {{robattle}}"
+  },
+  {
+   "i": 3098,
+   "src": "6f1df9d310e5",
+   "t": "¡Vamos a elegir el icono <c:00ff00>{{settings|cap}}<c>!"
+  },
+  {
+   "i": 3121,
+   "src": "244bfcdf02c3",
+   "t": "¡Vamos a {{launch}} la app del mapa!"
+  }
+ ]
+}

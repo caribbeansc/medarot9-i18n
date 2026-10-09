@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_24.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b8f61e339f42",
+   "t": "<c:00ff00>Leg Trait:<c> {{carrier}}\nWhen attacking, passes\none of your own negative\nstatuses to the target.\n*No effect on a {{graze}}."
+  }
+ ]
+}

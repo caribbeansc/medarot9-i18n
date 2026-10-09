@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f1f.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "97c3154bbe1b",
+   "t": "{{yukishiro}}"
+  },
+  {
+   "i": 1653,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1656,
+   "src": "eaa6f015fc81",
+   "t": "¿Te parece bien?"
+  }
+ ]
+}

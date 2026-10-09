@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b2_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1035,
+   "src": "3701efc3f27b",
+   "t": "¡Bien hecho, Ours Blanc!"
+  },
+  {
+   "i": 1038,
+   "src": "aa2100cd0808",
+   "t": "Ahora apunta a las piernas, ¿entendido?"
+  }
+ ]
+}

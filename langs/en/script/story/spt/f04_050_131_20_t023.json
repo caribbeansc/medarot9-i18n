@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f04_050_131_20_t023.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "484599db2a0a",
+   "t": "I-I'm so nervous..."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "296492a65bdc",
+   "t": "It'll be fine, don't worry."
+  },
+  {
+   "i": 1049,
+   "src": "d2b95948cd0b",
+   "t": "Let's just relax and enjoy it."
+  }
+ ]
+}

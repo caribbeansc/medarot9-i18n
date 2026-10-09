@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f04_050_131_20_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "ce9f5cf7b762",
+   "t": "Thank you for waiting."
+  },
+  {
+   "i": 1043,
+   "src": "f0b5707aca55",
+   "t": "We will now begin the 3rd"
+  },
+  {
+   "i": 1046,
+   "src": "2295a83320b0",
+   "t": "Inter-Club {{robattle}} Tournament."
+  }
+ ]
+}

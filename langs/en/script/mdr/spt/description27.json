@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description27.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3ff427d0a8af",
+   "t": "{{damage|cap}} Trait"
+  },
+  {
+   "i": 11,
+   "src": "160ba500eb84",
+   "t": "The ability of certain <c:ffff00>attacks<c> to deal <c:ffff00>{{damage}}<c> to\nmultiple <c:ffff00>{{part|pl}}<c>.\n\nThere are 2 types:\n  <c:ffff00>{{pierce|cap}}<c>\n  <c:ffff00>All {{part|pl|cap}}<c>"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_conv.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "a8a3307fddf8",
+   "t": "{{store_clerk}}"
+  },
+  {
+   "i": 1653,
+   "src": "ceb213946441",
+   "t": "Huh, with me?"
+  },
+  {
+   "i": 1656,
+   "src": "74db38acf43e",
+   "t": "Sure thing~!"
+  }
+ ]
+}

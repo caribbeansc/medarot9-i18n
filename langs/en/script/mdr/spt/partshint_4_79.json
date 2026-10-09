@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_79.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f0937bf93eb0",
+   "t": "<c:00ff00>Leg Trait:<c> {{browbeat}}\nThe opposing {{medabot}}\nyou target with an attack\ngets\n{{shooting}} and {{fighting}}\n{{stats}} -10."
+  }
+ ]
+}

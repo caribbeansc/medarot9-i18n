@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_01_006.spt",
+ "lines": [
+  {
+   "i": 1088,
+   "src": "50befd571998",
+   "t": "Charge complete.         "
+  },
+  {
+   "i": 1099,
+   "src": "f4432f0c2f4a",
+   "t": "This activates the {{effect}} of the\n{{leg_trait}} \"{{ground_control}}\"!"
+  },
+  {
+   "i": 1110,
+   "src": "50befd571998",
+   "t": "Charge complete.         "
+  },
+  {
+   "i": 1121,
+   "src": "f4432f0c2f4a",
+   "t": "This activates the {{effect}} of the\n{{leg_trait}} \"{{ground_control}}\"!"
+  }
+ ]
+}

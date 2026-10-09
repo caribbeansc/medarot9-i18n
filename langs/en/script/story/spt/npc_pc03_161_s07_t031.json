@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc03_161_s07_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "9c460eb3e6b9",
+   "t": "Hm? What's wrong?"
+  },
+  {
+   "i": 1041,
+   "src": "fd2cc0790046",
+   "t": "We finally found the {{part|pl}}, too."
+  },
+  {
+   "i": 1049,
+   "src": "82b3a614790c",
+   "t": "The {{idol_club}}... or maybe the gym by\nnow?"
+  },
+  {
+   "i": 1052,
+   "src": "a0e74910cdaa",
+   "t": "Anyway, let's hurry and hand them over."
+  }
+ ]
+}

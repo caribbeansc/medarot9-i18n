@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description36.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "103d1c08e10e",
+   "t": "{{attack_failure|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "002614b905c3",
+   "t": "Fallar un <c:ffff00>ataque<c> por causas propias, sin importar el\n{{condition}} ni las capacidades del {{opponent}}.\nSolo ocurre en <c:ffff00>ataques de {{shooting}}<c>.\n\nCuanto menor es el <c:ffff00>{{success_power}}<c> del ataque de\n{{shooting}}, más fácil es que ocurra."
+  }
+ ]
+}

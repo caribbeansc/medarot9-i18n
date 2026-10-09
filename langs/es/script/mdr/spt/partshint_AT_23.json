@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_23.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "65b00a70533d",
+   "t": "<c:00ff00>Técnica:<c>\nAtaque Acumulado\nAtaque de {{shooting}} cuya\n{{power}} aumenta 5 con\ncada ataque realizado.\nTiene {{effect}} de\npenetración."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1e2_meda_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5b9fdd4c0442",
+   "t": "{{ready_go}}"
+  },
+  {
+   "i": 1038,
+   "src": "45aa11417fff",
+   "t": "Wiping the tatami is my job!"
+  },
+  {
+   "i": 1041,
+   "src": "e4c4b9389505",
+   "t": "I wipe them every morning!"
+  }
+ ]
+}

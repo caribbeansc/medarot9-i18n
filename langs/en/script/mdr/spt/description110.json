@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description110.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "171452540dbf",
+   "t": "{{cooldown}} (stat)"
+  },
+  {
+   "i": 11,
+   "src": "8d92c591e202",
+   "t": "A type of <c:ffff00>stat<c> for <c:ffff00>head<c> and <c:ffff00>arm<c> <c:ffff00>{{part|pl}}<c>.\n\nMeasures the speed of physical follow-up\nmovements after an <c:ffff00>act<c>, such as low {{recoil}} and little\nexposure, including cooldown efficiency.\n\nThe higher the value, the less time the <c:ffff00>{{cooldown}}<c> of\nan <c:ffff00>action<c> takes."
+  }
+ ]
+}

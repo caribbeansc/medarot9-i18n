@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f09_220_800_00_t011.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "2c4aa781680a",
+   "t": "Eh,"
+  },
+  {
+   "i": 1009,
+   "src": "5738681151c0",
+   "t": "El {{principal}}... sí."
+  },
+  {
+   "i": 1027,
+   "src": "f136a2d63bdc",
+   "t": "Él está..."
+  },
+  {
+   "i": 1035,
+   "src": "3144dc7f1f4a",
+   "t": "no respira, eh."
+  },
+  {
+   "i": 1043,
+   "src": "174fde582291",
+   "t": "Su pulso..."
+  },
+  {
+   "i": 1051,
+   "src": "4159a97924f4",
+   "t": "P-perdone."
+  },
+  {
+   "i": 1054,
+   "src": "f7ce2ff5db9d",
+   "t": "Déjeme revisar su pulso..."
+  }
+ ]
+}

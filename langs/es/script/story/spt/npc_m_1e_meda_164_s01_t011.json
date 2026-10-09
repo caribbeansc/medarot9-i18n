@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_1e_meda_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1035,
+   "src": "970d3708f524",
+   "t": "¡Es el Catálogo de Piezas Edición 0!"
+  },
+  {
+   "i": 1038,
+   "src": "63b0d1122170",
+   "t": "El que casi no circuló por el"
+  },
+  {
+   "i": 1046,
+   "src": "b26cf7f0352a",
+   "t": "retiro-- ¡¿Y esto es 'Medalomania'?!"
+  },
+  {
+   "i": 1049,
+   "src": "daa2c243854b",
+   "t": "¡La obra maestra del Dr. Maboroshi!"
+  },
+  {
+   "i": 1060,
+   "src": "0f3d298adbcf",
+   "t": "¡Increíble! ¡Una mina de tesoros!"
+  },
+  {
+   "i": 1063,
+   "src": "0522eff40719",
+   "t": "¡Leámoslos ya, {{master}}!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_box_000.spt",
+ "lines": [
+  {
+   "i": 997,
+   "src": "27990b290b5c",
+   "t": "{{part_box|cap}}."
+  },
+  {
+   "i": 1000,
+   "src": "648ef0d6e3fb",
+   "t": "Las {{part|pl}} del {{club}} se guardan aquí."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "battle/spt/tuto_01_002.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "19c96a666464",
+   "t": "Mi {{prep}} terminó antes que la del {{opponent}}.\n¡Tengo la {{first_strike}}!        "
+  },
+  {
+   "i": 1131,
+   "src": "19c96a666464",
+   "t": "Mi {{prep}} terminó antes que la del {{opponent}}.\n¡Tengo la {{first_strike}}!      "
+  }
+ ]
+}

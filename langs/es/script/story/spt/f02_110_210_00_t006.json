@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f02_110_210_00_t006.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "d7d7b992f111",
+   "t": "Sigue la prueba de {{terrain}}. Tendré que"
+  },
+  {
+   "i": 1038,
+   "src": "59d87795717c",
+   "t": "llevarlo al {{river}} o al mar mañana."
+  }
+ ]
+}

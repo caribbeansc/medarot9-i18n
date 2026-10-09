@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_112.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c0df2ed82f40",
+   "t": "{{medabot}} {{type}} lagarto de\ngola. Esquiva enemigos y\ncorre sobre dos piernas.\n \nDespliega la gola para\nintimidar y, con su ataque\nde {{flash}}, paraliza al\n{{opponent}}: no puede evadir ni\ndefender."
+  }
+ ]
+}

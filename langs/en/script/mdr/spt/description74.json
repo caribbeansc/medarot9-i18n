@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description74.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a5b049cd38cd",
+   "t": "{{underwater}} ({{field|cap}})"
+  },
+  {
+   "i": 11,
+   "src": "f2f0fb849103",
+   "t": "A type of <c:ffff00>{{field}}<c> where a <c:ffff00>{{robattle}}<c> is held. {{terrain|cap}}\ndeep enough to submerge the whole body in water.\n\nOnly <c:ffff00>{{medabot|pl}}<c> with the <c:ffff00>{{submarine}}<c> <c:ffff00>{{leg_type}}<c> can join\nthe {{robattle}}. Others, and <c:ffff00>destroyed<c> ones, sink and\nare immediately <c:ffff00>{{knocked_out}}<c>.\n\nBecause of <c:ffff00>{{terrain_affinity}}<c>, {{submarine}} <c:ffff00>{{mobility}}<c>,\n<c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c> get +6."
+  }
+ ]
+}

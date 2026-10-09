@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2e_165_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1038,
+   "src": "e83685b388d4",
+   "t": "You again. You're an odd one. Do you"
+  },
+  {
+   "i": 1041,
+   "src": "1164cdc65f9c",
+   "t": "like this place that much?"
+  },
+  {
+   "i": 1049,
+   "src": "8f1790bd1e49",
+   "t": "I don't mind you coming here,"
+  },
+  {
+   "i": 1052,
+   "src": "8d86411a74b5",
+   "t": "just don't disturb the president."
+  },
+  {
+   "i": 1060,
+   "src": "0436ac6de859",
+   "t": "I can't let anything break his\nconcentration. He"
+  },
+  {
+   "i": 1063,
+   "src": "19cf2541c25a",
+   "t": "already takes forever when he starts\nworrying..."
+  }
+ ]
+}

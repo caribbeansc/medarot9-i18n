@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_pc03_211_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "567cd66b2eeb",
+   "t": "Naturally, there's no power coming in..."
+  },
+  {
+   "i": 1043,
+   "src": "e8ada4681225",
+   "t": "or rather, the battery was removed to\nbegin with."
+  },
+  {
+   "i": 1046,
+   "src": "08d120d9c36e",
+   "t": "No..."
+  },
+  {
+   "i": 1054,
+   "src": "6075b4bddf0c",
+   "t": "It's more than just the battery."
+  },
+  {
+   "i": 1057,
+   "src": "7a21b6a50a0d",
+   "t": "The boxes are nearly all empty."
+  },
+  {
+   "i": 1065,
+   "src": "0da2b5cf29ba",
+   "t": "Doesn't look like we'll get much of a\nhaul..."
+  },
+  {
+   "i": 1073,
+   "src": "cad22b03a4a8",
+   "t": "No, no, let's make something of this..."
+  },
+  {
+   "i": 1081,
+   "src": "23bce93dafed",
+   "t": "Isn't there anything around here...?"
+  },
+  {
+   "i": 1084,
+   "src": "e3e9848937c8",
+   "t": "Hmm..."
+  }
+ ]
+}

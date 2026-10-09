@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_295.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "09b79bc431f3",
+   "t": "Versión renovada del\n{{medabot}} ciervo volante.\n \nPrioriza el ataque: frente\nal antiguo, más {{power}} y\n{{armor}}, pero menos\nvelocidad. Aun así, es el\n{{biped}} de mayor\ncapacidad de carga."
+  }
+ ]
+}

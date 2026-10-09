@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_3f_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "31b92f2df72b",
+   "t": "{{boy_3_f}}"
+  },
+  {
+   "i": 1035,
+   "src": "a56eb1ee2a94",
+   "t": "¿De primer año?"
+  },
+  {
+   "i": 1043,
+   "src": "24981350aa6b",
+   "t": "No es que esté prohibido, pero..."
+  },
+  {
+   "i": 1046,
+   "src": "d9736dd02fab",
+   "t": "mejor no andes fuera de la escuela."
+  },
+  {
+   "i": 1053,
+   "src": "aa251c2bc2b7",
+   "t": "{{boy_3_f_s_medabot}}"
+  },
+  {
+   "i": 1059,
+   "src": "c747c5f63736",
+   "t": "¡Los Medabots salvajes andan por ahí!"
+  },
+  {
+   "i": 1062,
+   "src": "c37c99517617",
+   "t": "¡Aquí son más duros que en tierra firme!"
+  }
+ ]
+}

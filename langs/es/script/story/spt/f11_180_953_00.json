@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f11_180_953_00.spt",
+ "lines": [
+  {
+   "i": 928,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 937,
+   "src": "c9c197ca9d71",
+   "t": "A cargo del {{right_arm}}..."
+  },
+  {
+   "i": 943,
+   "src": "1fc6dd49959f",
+   "t": "{{idol_club}}"
+  },
+  {
+   "i": 944,
+   "src": "6ccf4614da83",
+   "t": "Club {{medabot}}"
+  },
+  {
+   "i": 945,
+   "src": "90d2b5be1978",
+   "t": "{{rescue_club}}"
+  },
+  {
+   "i": 949,
+   "src": "90d2b5be1978",
+   "t": "{{rescue_club}}"
+  },
+  {
+   "i": 956,
+   "src": "912e3164ee4c",
+   "t": "A cargo del {{left_arm}}..."
+  },
+  {
+   "i": 962,
+   "src": "1fc6dd49959f",
+   "t": "{{idol_club}}"
+  },
+  {
+   "i": 963,
+   "src": "6ccf4614da83",
+   "t": "Club {{medabot}}"
+  },
+  {
+   "i": 967,
+   "src": "1fc6dd49959f",
+   "t": "{{idol_club}}"
+  },
+  {
+   "i": 977,
+   "src": "777df7b20ed9",
+   "t": "Y el {{medabot_research_club}}\nestará a cargo de la {{head}}."
+  },
+  {
+   "i": 985,
+   "src": "6ccf4614da83",
+   "t": "Club {{medabot}}"
+  },
+  {
+   "i": 995,
+   "src": "356c8af44582",
+   "t": "Y el {{idol_club}} estará\na cargo de la {{head}}."
+  },
+  {
+   "i": 1004,
+   "src": "1fc6dd49959f",
+   "t": "{{idol_club}}"
+  },
+  {
+   "i": 1011,
+   "src": "912e3164ee4c",
+   "t": "A cargo del {{left_arm}}..."
+  },
+  {
+   "i": 1017,
+   "src": "6ccf4614da83",
+   "t": "Club {{medabot}}"
+  },
+  {
+   "i": 1018,
+   "src": "90d2b5be1978",
+   "t": "{{rescue_club}}"
+  },
+  {
+   "i": 1022,
+   "src": "90d2b5be1978",
+   "t": "{{rescue_club}}"
+  },
+  {
+   "i": 1032,
+   "src": "777df7b20ed9",
+   "t": "Y el {{medabot_research_club}}\nestará a cargo de la {{head}}."
+  },
+  {
+   "i": 1040,
+   "src": "6ccf4614da83",
+   "t": "Club {{medabot}}"
+  },
+  {
+   "i": 1050,
+   "src": "43c2da4b638a",
+   "t": "Y el {{rescue_club}} estará\na cargo de la {{head}}."
+  },
+  {
+   "i": 1059,
+   "src": "6ccf4614da83",
+   "t": "Club {{medabot}}"
+  },
+  {
+   "i": 1066,
+   "src": "912e3164ee4c",
+   "t": "A cargo del {{left_arm}}..."
+  },
+  {
+   "i": 1072,
+   "src": "1fc6dd49959f",
+   "t": "{{idol_club}}"
+  },
+  {
+   "i": 1073,
+   "src": "90d2b5be1978",
+   "t": "{{rescue_club}}"
+  },
+  {
+   "i": 1077,
+   "src": "90d2b5be1978",
+   "t": "{{rescue_club}}"
+  },
+  {
+   "i": 1087,
+   "src": "356c8af44582",
+   "t": "Y el {{idol_club}} estará\na cargo de la {{head}}."
+  },
+  {
+   "i": 1095,
+   "src": "1fc6dd49959f",
+   "t": "{{idol_club}}"
+  },
+  {
+   "i": 1105,
+   "src": "43c2da4b638a",
+   "t": "Y el {{rescue_club}} estará\na cargo de la {{head}}."
+  }
+ ]
+}

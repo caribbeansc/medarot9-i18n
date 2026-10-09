@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f07_065_343_00_t011.spt",
+ "lines": [
+  {
+   "i": 1037,
+   "src": "bd4f9f1205f0",
+   "t": "Waaah!"
+  },
+  {
+   "i": 1040,
+   "src": "c913215dfba3",
+   "t": "Hey {{mio}}, what do we do~!"
+  },
+  {
+   "i": 1047,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1053,
+   "src": "ad11aad67c4d",
+   "t": "Calm down "
+  },
+  {
+   "i": 1055,
+   "src": "5708d5fc262a",
+   "t": ", it's fine. It's just"
+  },
+  {
+   "i": 1058,
+   "src": "5c4ee8b80a2e",
+   "t": "one little {{part}}. I'll fix it right away--"
+  },
+  {
+   "i": 1069,
+   "src": "4b2584ce358f",
+   "t": "!!"
+  },
+  {
+   "i": 1087,
+   "src": "0ec97446c61d",
+   "t": "W-what are you doing here!"
+  },
+  {
+   "i": 1098,
+   "src": "9a98184b3f92",
+   "t": "Even if you ask me that..."
+  },
+  {
+   "i": 1103,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1109,
+   "src": "fe7d9fa23a36",
+   "t": "{{mio}}, what"
+  },
+  {
+   "i": 1112,
+   "src": "06cc99b59c65",
+   "t": "on earth are you doing in a place like\nthis?"
+  },
+  {
+   "i": 1119,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1128,
+   "src": "ae42e465978c",
+   "t": "I-I, well, you see, um--"
+  },
+  {
+   "i": 1131,
+   "src": "98a88e4f9240",
+   "t": "Right! It's a coincidence!"
+  },
+  {
+   "i": 1139,
+   "src": "e3ad7de58330",
+   "t": "I was just wandering around, and\nsomehow ended up here,"
+  },
+  {
+   "i": 1142,
+   "src": "67ff6038900e",
+   "t": "and somehow peeked into this hut..."
+  },
+  {
+   "i": 1153,
+   "src": "919ec4497dd7",
+   "t": "When you peeked?"
+  },
+  {
+   "i": 1167,
+   "src": "9eeccd900494",
+   "t": "They took my legs..."
+  },
+  {
+   "i": 1170,
+   "src": "0fcfc5510326",
+   "t": "Sniff."
+  },
+  {
+   "i": 1191,
+   "src": "7498d1e46398",
+   "t": "Huh?"
+  },
+  {
+   "i": 1196,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1202,
+   "src": "5f173235891c",
+   "t": "What's going on here...?"
+  },
+  {
+   "i": 1209,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1215,
+   "src": "6035291e41ac",
+   "t": "Well, well, you came to get leg {{part|pl}},"
+  },
+  {
+   "i": 1218,
+   "src": "0db82bcfb07a",
+   "t": "and got your own leg {{part|pl}} stolen?"
+  },
+  {
+   "i": 1225,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1234,
+   "src": "f1392a9b455d",
+   "t": "How interesting!"
+  },
+  {
+   "i": 1247,
+   "src": "b1aa162016a1",
+   "t": "Not interesting..."
+  }
+ ]
+}

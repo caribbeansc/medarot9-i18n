@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_1f2_meda_140_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0b712bde3551",
+   "t": "{{shiny_star}}"
+  },
+  {
+   "i": 1038,
+   "src": "880d3f03ac2e",
+   "t": "¿Todavía no?"
+  }
+ ]
+}

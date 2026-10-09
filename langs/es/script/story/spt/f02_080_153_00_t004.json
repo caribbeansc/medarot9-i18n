@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f02_080_153_00_t004.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "35d7ac63a255",
+   "t": "Mmm, no está tan alto para saltar."
+  },
+  {
+   "i": 1045,
+   "src": "ee0ef43b82ae",
+   "t": "Probablemente."
+  },
+  {
+   "i": 1053,
+   "src": "e5d60042856f",
+   "t": "...Uf."
+  },
+  {
+   "i": 1072,
+   "src": "1739d65cc5b0",
+   "t": "¿Qué pasa? "
+  },
+  {
+   "i": 1076,
+   "src": "648cbbe90e3b",
+   "t": "¿Tienes miedo?"
+  },
+  {
+   "i": 1091,
+   "src": "6a824fa60a6d",
+   "t": "¡No tengo miedo!"
+  },
+  {
+   "i": 1094,
+   "src": "71fe5108271b",
+   "t": "¡Pero!"
+  },
+  {
+   "i": 1118,
+   "src": "df4da443a944",
+   "t": "¡Entonces no hay problema!"
+  },
+  {
+   "i": 1121,
+   "src": "e1511eabb0aa",
+   "t": "¡Vamos!"
+  },
+  {
+   "i": 1127,
+   "src": "680214d601a7",
+   "t": "Entonces no habrá problema."
+  },
+  {
+   "i": 1130,
+   "src": "e1511eabb0aa",
+   "t": "¡Vamos!"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_1d_150_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "cc4e33627947",
+   "t": "{{hana}}"
+  },
+  {
+   "i": 1038,
+   "src": "8f604f49451f",
+   "t": "Why can't first-years "
+  },
+  {
+   "i": 1041,
+   "src": "611d94ccc7da",
+   "t": "go home over summer vacation?"
+  },
+  {
+   "i": 1049,
+   "src": "52e8ba7824a1",
+   "t": "I asked the {{teacher}}, and she said it's so\nwe"
+  },
+  {
+   "i": 1052,
+   "src": "88a070737aac",
+   "t": "spend time with our Medabots..."
+  },
+  {
+   "i": 1060,
+   "src": "89bf5303f376",
+   "t": "But that's the same wherever we are,\nright?"
+  },
+  {
+   "i": 1063,
+   "src": "704d0a1717df",
+   "t": "We don't even have classes. How\nstrange!"
+  }
+ ]
+}

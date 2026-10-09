@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description123.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c32d25c6d076",
+   "t": "Postura FC"
+  },
+  {
+   "i": 11,
+   "src": "7d2568c78e67",
+   "t": "{{condition|cap}} de espera del <c:ffff00>ataque<c> de <c:ffff00>fuego cruzado<c> para\nejecutar un <c:ffff00>ataque combinado<c> con aliados.\nEn la postura FC no se puede realizar otra <c:ffff00>acción<c> y\nse queda <c:ffff00>{{cannot_evade}}<c>. Cuando un {{ally_battle_term}} completa la\n{{prep}} de su ataque <c:ffff00>disparador<c>, se ejecuta el ataque\ncombinado.\nTambién termina si los aliados actúan 3 veces o\npasa cierto tiempo: se hace un ataque normal y\nempieza el <c:ffff00>{{cooldown}}<c>."
+  }
+ ]
+}

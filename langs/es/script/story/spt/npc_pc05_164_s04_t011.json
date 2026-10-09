@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_pc05_164_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1046,
+   "src": "74d4928c0242",
+   "t": "¿Quién es? ¿Tú también participas?"
+  },
+  {
+   "i": 1049,
+   "src": "852424a6f3fd",
+   "t": "¿Necesitamos hablar de esto?"
+  },
+  {
+   "i": 1059,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1065,
+   "src": "93b7eed518dc",
+   "t": "Ah, él no es de nuestro {{club}}."
+  },
+  {
+   "i": 1068,
+   "src": "f4ce31b769b8",
+   "t": "No te preocupes por eso, jejeje."
+  }
+ ]
+}

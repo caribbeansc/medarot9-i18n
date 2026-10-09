@@ -1,0 +1,204 @@
+{
+ "rel": "mdr/tex/bt_dl.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-compressed",
+  "fill": "#222A3B",
+  "stroke": "#FFFFFFC8",
+  "stroke_w": 0.8,
+  "pad": 0,
+  "cap": 8,
+  "min_scale_x": 0.6,
+  "crisp": 0.4
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    23,
+    16
+   ],
+   "erase_box": [
+    0,
+    0,
+    24,
+    16
+   ],
+   "text": "Compra"
+  },
+  {
+   "box": [
+    24,
+    0,
+    22,
+    16
+   ],
+   "erase_box": [
+    24,
+    0,
+    23,
+    16
+   ],
+   "text": "Recibir"
+  },
+  {
+   "box": [
+    80,
+    0,
+    24,
+    16
+   ],
+   "erase_box": [
+    80,
+    0,
+    24,
+    16
+   ],
+   "text": "Borrar"
+  },
+  {
+   "box": [
+    103,
+    0,
+    30,
+    16
+   ],
+   "erase_box": [
+    103,
+    0,
+    30,
+    16
+   ],
+   "text": "Saldo:"
+  },
+  {
+   "box": [
+    133,
+    0,
+    12,
+    16
+   ],
+   "erase_box": [
+    133,
+    0,
+    12,
+    16
+   ],
+   "text": "Y",
+   "cap": 9
+  },
+  {
+   "box": [
+    0,
+    16,
+    55,
+    16
+   ],
+   "erase_box": [
+    0,
+    16,
+    56,
+    16
+   ],
+   "text": "Agregar saldo"
+  },
+  {
+   "box": [
+    148,
+    3,
+    33,
+    14
+   ],
+   "erase": "hfill",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    148,
+    2,
+    33,
+    1
+   ],
+   "erase": "solid:#585858",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    148,
+    17,
+    33,
+    1
+   ],
+   "erase": "solid:#5D5D5D",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    148,
+    3,
+    33,
+    14
+   ],
+   "erase": "none",
+   "text": "Comprado",
+   "fill": "#F1F1F1",
+   "stroke": null,
+   "cap": 8,
+   "font": "din",
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    188,
+    3,
+    33,
+    14
+   ],
+   "erase": "hfill",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    188,
+    2,
+    33,
+    1
+   ],
+   "erase": "solid:#585858",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    188,
+    17,
+    33,
+    1
+   ],
+   "erase": "solid:#5D5D5D",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    188,
+    3,
+    33,
+    14
+   ],
+   "erase": "none",
+   "text": "Recibido",
+   "fill": "#F1F1F1",
+   "stroke": null,
+   "cap": 8,
+   "font": "din",
+   "crisp": 0.5
+  }
+ ]
+}

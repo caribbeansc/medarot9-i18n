@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1f2_140_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2fcba1bd9f86",
+   "t": "{{suiro}}"
+  },
+  {
+   "i": 1035,
+   "src": "c8eb21fa4505",
+   "t": "Senpai! Someone from the Student"
+  },
+  {
+   "i": 1038,
+   "src": "5d6a968b9339",
+   "t": "Council just came by!"
+  },
+  {
+   "i": 1046,
+   "src": "d3abc42aff37",
+   "t": "They scolded me for not handing in the\nschedule yet!"
+  },
+  {
+   "i": 1049,
+   "src": "31969ba494ef",
+   "t": "...Hey, are you even listening!?"
+  }
+ ]
+}

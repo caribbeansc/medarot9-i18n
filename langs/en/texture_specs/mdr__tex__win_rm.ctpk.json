@@ -1,0 +1,74 @@
+{
+ "rel": "mdr/tex/win_rm.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf",
+  "wght": 650,
+  "cap": 10,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.5,
+  "align": "center",
+  "valign": "middle"
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    6,
+    224,
+    17
+   ],
+   "erase_box": [
+    0,
+    0,
+    224,
+    23
+   ],
+   "erase": "transparent",
+   "text": "Use 1 Rubberobo Medal to",
+   "dy": -1.5
+  },
+  {
+   "box": [
+    0,
+    24,
+    224,
+    17
+   ],
+   "erase_box": [
+    0,
+    23,
+    224,
+    20
+   ],
+   "erase": "transparent",
+   "text": "Cancel the Robattle?"
+  },
+  {
+   "box": [
+    2,
+    49,
+    77,
+    15
+   ],
+   "erase_box": [
+    0,
+    48,
+    79,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Rubberobo Medal",
+   "font": "din",
+   "wght": null,
+   "cap": 9,
+   "align": "left",
+   "stroke": "#00000099",
+   "stroke_w": 1.2,
+   "crisp": 0.5,
+   "embolden": 0.25
+  }
+ ]
+}

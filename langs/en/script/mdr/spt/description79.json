@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description79.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4c7ee5631fa0",
+   "t": "Level Bonus"
+  },
+  {
+   "i": 11,
+   "src": "35fedc036a3f",
+   "t": "An {{effect}} that raises each <c:ffff00>{{skill_level}}<c> according to\nhow high the <c:ffff00>{{medal_level}}<c> is, and its numerical value.\nOne third of the {{medal_level}} is added to all skill\nlevels, even for untrained <c:ffff00>skills<c>.\n<c:ffff00>{{medalia}}<c> also have a {{level_bonus}} (0 to 99), which\nraises their extra <c:ffff00>{{best_skill}}<c> (1 type per {{medalia}})."
+  }
+ ]
+}

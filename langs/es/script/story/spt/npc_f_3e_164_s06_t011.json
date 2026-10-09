@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1038,
+   "src": "e4070bbae6ff",
+   "t": "Hola, ¡bienvenido al Club Medabot!"
+  },
+  {
+   "i": 1041,
+   "src": "9c9089bbde07",
+   "t": "¿Alguna pregunta? Lo que sea-"
+  },
+  {
+   "i": 1049,
+   "src": "4f308142a5fe",
+   "t": "¡Oh, miren! ¡Es el Club de Exploración"
+  },
+  {
+   "i": 1052,
+   "src": "d81be640fabf",
+   "t": "que secuestró a {{main}}-chan!"
+  },
+  {
+   "i": 1063,
+   "src": "67e957f7d584",
+   "t": "¿Secuestró? Eso suena horrible..."
+  },
+  {
+   "i": 1068,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1077,
+   "src": "1257df6f868a",
+   "t": "Jajaja, solo bromeo."
+  },
+  {
+   "i": 1085,
+   "src": "1a589912bd40",
+   "t": "{{main}}-chan no es miembro oficial del"
+  },
+  {
+   "i": 1088,
+   "src": "d9d9ff389253",
+   "t": "club. Solo le pedimos figurar en la lista."
+  },
+  {
+   "i": 1096,
+   "src": "22fd2a3a82a0",
+   "t": "Si cambia de club, no hay nada que"
+  },
+  {
+   "i": 1099,
+   "src": "91a308a9240d",
+   "t": "hacer. Es una lástima, eso sí."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f11_260_956_00_t011.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "1e62d474cd8e",
+   "t": "*El {{principal}} y el {{club}} salen del edificio"
+  },
+  {
+   "i": 1130,
+   "src": "cef8663fcbe2",
+   "t": "mirando a todos lados."
+  },
+  {
+   "i": 1149,
+   "src": "8cfaa2c54c73",
+   "t": "E-eso..."
+  },
+  {
+   "i": 1154,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1160,
+   "src": "50969d68f05c",
+   "t": "Rayos."
+  },
+  {
+   "i": 1163,
+   "src": "cdb8a373eaf6",
+   "t": "¿Seguía en la {{rooftop}}?"
+  },
+  {
+   "i": 1170,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1179,
+   "src": "5b7c3a3fcd7c",
+   "t": "¡Miren arriba!"
+  },
+  {
+   "i": 1182,
+   "src": "9abe76cccd75",
+   "t": "¡¡Miren!!"
+  }
+ ]
+}

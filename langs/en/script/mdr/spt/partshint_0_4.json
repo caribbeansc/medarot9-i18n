@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "73cd64b3f7e0",
+   "t": "<c:00ff00>Robattle Style:<c> {{assist}}\n{{prep}} +12 {{cooldown}} +12\nFor every action taken,\n{{charge_gauge}} +2%"
+  }
+ ]
+}

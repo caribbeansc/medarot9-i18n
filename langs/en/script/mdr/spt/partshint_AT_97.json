@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_97.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c4b4740c1209",
+   "t": "<c:00ff00>Action:<c> {{snipe}}\nFor a while, gives the\n\"Aimshot\" sub-skill to the\n{{shooting_part}} of one allied\n{{medabot}}. {{accuracy}} rises\nwhen\nAimshot is used."
+  }
+ ]
+}

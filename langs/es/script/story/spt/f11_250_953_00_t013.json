@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f11_250_953_00_t013.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1049,
+   "src": "5f3d2f6e3e76",
+   "t": "¿Po-por qué? ¡Lo hemos"
+  },
+  {
+   "i": 1052,
+   "src": "c4f7c43d36ed",
+   "t": "derrotado una y otra vez...!"
+  },
+  {
+   "i": 1059,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1065,
+   "src": "7be843932f23",
+   "t": "Estoy cansado, ya no aguanto más..."
+  },
+  {
+   "i": 1068,
+   "src": "04dff97d4471",
+   "t": "Si esto sigue así..."
+  },
+  {
+   "i": 1082,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1091,
+   "src": "4be364498214",
+   "t": "¡No te rindas!"
+  },
+  {
+   "i": 1094,
+   "src": "c401cbbab61a",
+   "t": "Tiene que haber una forma, seguro--"
+  },
+  {
+   "i": 1101,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1110,
+   "src": "04c619cc0727",
+   "t": "...Ah."
+  },
+  {
+   "i": 1117,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1123,
+   "src": "ad580f235b6e",
+   "t": "¿¡Qué pasa, Navi!?"
+  },
+  {
+   "i": 1130,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1136,
+   "src": "c10c6a8b8103",
+   "t": "Algo raro le pasa, su estado es extraño..."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_07_000.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1123,
+   "src": "ba717d144e93",
+   "t": "<c:ff00ff>{{medachange}}<c>, i.e. <c:ff00ff>transforming<c>,\nuses <c:ff00ff>10%<c> of the <c:ff00ff>Charge gauge<c>."
+  },
+  {
+   "i": 1128,
+   "src": "d75305e1f03f",
+   "t": "Start by charging\nthe gauge to 100%.                         "
+  },
+  {
+   "i": 1136,
+   "src": "b1726b608c21",
+   "t": "Okay, charge!         "
+  }
+ ]
+}

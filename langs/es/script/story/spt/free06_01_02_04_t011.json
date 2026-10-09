@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_01_02_04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "6ce35dbf5ae4",
+   "t": "Quiero investigarlo un poco más."
+  },
+  {
+   "i": 1038,
+   "src": "2a09c41db57f",
+   "t": "Volvamos."
+  }
+ ]
+}

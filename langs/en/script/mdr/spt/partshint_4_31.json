@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_31.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "89fd9c286391",
+   "t": "<c:00ff00>Leg Trait:<c> {{brilliance}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"Super Repair\"."
+  }
+ ]
+}

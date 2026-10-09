@@ -1,0 +1,53 @@
+{
+ "rel": "story/mdl/m132_e_monitor.bcmdl",
+ "tex": "m132_picture",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "grow": 1,
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    10,
+    10,
+    236,
+    66
+   ],
+   "erase_box": [
+    8,
+    12,
+    240,
+    58
+   ],
+   "text": "CULTURAL\nFESTIVAL",
+   "font": "din",
+   "cap": 24,
+   "scale_x": 1.7,
+   "leading": 1.12,
+   "tracking": 1,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#F6F6FF"
+     ],
+     [
+      0.55,
+      "#C8C8F6"
+     ],
+     [
+      1,
+      "#9E9EE2"
+     ]
+    ]
+   },
+   "stroke": "#5A86A6",
+   "stroke_w": 1.2,
+   "thr": 90,
+   "grow": 3
+  }
+ ]
+}

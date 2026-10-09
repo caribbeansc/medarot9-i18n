@@ -1,0 +1,65 @@
+{
+ "file": "battle/spt/tuto_07_104.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "cd22e771eaf2",
+   "t": "Time to attack with {{medachange}}!\n...Huh? Is the {{charge_gauge}} going\ndown?        "
+  },
+  {
+   "i": 1125,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1131,
+   "src": "e1097f22bc5a",
+   "t": "While Medachanged, every action\nuses up the {{charge_gauge}}.            "
+  },
+  {
+   "i": 1136,
+   "src": "88c2533bb625",
+   "t": "Also, charging during {{medachange}}\ndoesn't fill the {{charge_gauge}}.                          "
+  },
+  {
+   "i": 1141,
+   "src": "3141ccdd923b",
+   "t": "And when the {{charge_gauge}} hits 10%\nor less,\n{{medachange}} ends.                   "
+  },
+  {
+   "i": 1146,
+   "src": "9afc0c602c06",
+   "t": "You can also end it yourself by selecting\n{{medachange}} with the $ｷ button.                  "
+  },
+  {
+   "i": 1151,
+   "src": "1ce19f710809",
+   "t": "Next, I'll explain what you can do\nwhile Medachanged.              "
+  },
+  {
+   "i": 1156,
+   "src": "ba57c76e4dcd",
+   "t": "When you {{medachange}}, you can't use\nyour\noriginal head and arm {{part|pl}}."
+  },
+  {
+   "i": 1161,
+   "src": "91287b11d09a",
+   "t": "Instead, you can choose the three\n{{medachange}} commands, \"Drives\".      "
+  },
+  {
+   "i": 1166,
+   "src": "88740a171169",
+   "t": "Unlike head {{part|pl}}, these have no limit\non the number of uses.                           "
+  },
+  {
+   "i": 1171,
+   "src": "72219b51021c",
+   "t": "Many Medachange commands are\npowerful,\nso they can help you win a {{robattle}}.                                                              "
+  },
+  {
+   "i": 1176,
+   "src": "e133a4368815",
+   "t": "Now, make full use of {{medachange}}\nand win this {{robattle}}."
+  }
+ ]
+}

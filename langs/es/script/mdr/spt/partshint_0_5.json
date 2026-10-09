@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_5.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3eeed4d1b312",
+   "t": "<c:00ff00>Estilo robobatalla:<c>{{guard}}\n{{armor|cap}} +40\nPor cada {{defend}}\nrealizada la {{charge_gauge}}\nsube 5%"
+  }
+ ]
+}

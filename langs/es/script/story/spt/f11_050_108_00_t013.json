@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_050_108_00_t013.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9a8676c8617b",
+   "t": "Disculpe, ¿puedo preguntarle algo?"
+  },
+  {
+   "i": 1040,
+   "src": "d53a6e0139bf",
+   "t": "{{principal|cap}}-"
+  },
+  {
+   "i": 1045,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1054,
+   "src": "d51b630da06b",
+   "t": "¡¡Apártate!!"
+  }
+ ]
+}

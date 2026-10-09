@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_02_03_t041.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "dea68788aa07",
+   "t": "*{{medalia}} Found"
+  },
+  {
+   "i": 1146,
+   "src": "a4bc8fa7247d",
+   "t": "Found it!"
+  },
+  {
+   "i": 1149,
+   "src": "6073be80ca90",
+   "t": "A {{medalia}}...!"
+  },
+  {
+   "i": 1154,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1160,
+   "src": "136045defccc",
+   "t": "Objective achieved."
+  },
+  {
+   "i": 1163,
+   "src": "c0d965365696",
+   "t": "Let's return to the {{clubroom}}."
+  }
+ ]
+}

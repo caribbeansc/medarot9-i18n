@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3e2_meda_150_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1b252ff8ff2e",
+   "t": "{{auroraqueen}}"
+  },
+  {
+   "i": 1038,
+   "src": "1ab60ce7acd9",
+   "t": "Walk straight down this path and you'll\nfind a trash can!"
+  },
+  {
+   "i": 1041,
+   "src": "42aed7f16440",
+   "t": "If you look away carelessly, you'll bump\ninto it!"
+  },
+  {
+   "i": 1049,
+   "src": "f7c920c84ef6",
+   "t": "...I've been warning you this whole time,"
+  },
+  {
+   "i": 1052,
+   "src": "fc11b4fee885",
+   "t": "but the trash can is kinda gone now,\nhuh."
+  },
+  {
+   "i": 1060,
+   "src": "43b75798aa46",
+   "t": "Since it was dangerous,"
+  },
+  {
+   "i": 1063,
+   "src": "9d10835fc7e7",
+   "t": "did someone put it away?"
+  }
+ ]
+}

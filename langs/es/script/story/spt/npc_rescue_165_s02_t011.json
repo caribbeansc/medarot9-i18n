@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rescue_165_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "3ae52563618d",
+   "t": "Mmm, aplazar la escalada y"
+  },
+  {
+   "i": 1038,
+   "src": "df6e35623f88",
+   "t": "la coordinación a la otra semana--"
+  },
+  {
+   "i": 1046,
+   "src": "b3ba4bb67df9",
+   "t": "Eso sería justo un mes antes de la"
+  },
+  {
+   "i": 1049,
+   "src": "d2cc04f82c30",
+   "t": "competencia. No está mal, de hecho--"
+  },
+  {
+   "i": 1070,
+   "src": "9cb84c5f2af1",
+   "t": "¿Qué pasa? Ahora estoy ocupado."
+  },
+  {
+   "i": 1073,
+   "src": "f94a4dd56c67",
+   "t": "Si quieres hablar, hazlo después."
+  }
+ ]
+}

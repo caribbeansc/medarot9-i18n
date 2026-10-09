@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3f_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1038,
+   "src": "97b773d89073",
+   "t": "Verano es playa, pero últimamente"
+  },
+  {
+   "i": 1041,
+   "src": "43bbe1418739",
+   "t": "los Medabots salvajes andan agresivos."
+  },
+  {
+   "i": 1049,
+   "src": "e84c3a4edc5a",
+   "t": "Ya ni puedo descansar."
+  },
+  {
+   "i": 1052,
+   "src": "30091c1ebcff",
+   "t": "¡En nada hay un {{robattle_tournament}}!"
+  }
+ ]
+}

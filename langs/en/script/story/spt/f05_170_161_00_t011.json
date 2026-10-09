@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f05_170_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "b0b197f2fef8",
+   "t": "What is this... A {{medabot}}?"
+  },
+  {
+   "i": 1004,
+   "src": "c7117abf3f95",
+   "t": "No, maybe it's just a regular robot..."
+  },
+  {
+   "i": 1012,
+   "src": "9030362b5ba0",
+   "t": "This wasn't here until recently, was it?"
+  },
+  {
+   "i": 1015,
+   "src": "60dbebd34a56",
+   "t": "I wonder if {{main}}-chan brought it..."
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "rel": "mdr/tex/mk_matching.ctpk",
+ "base": "jp",
+ "styles": {
+  "celeste": {
+   "erase": "transparent",
+   "font": "din",
+   "cap": 9.5,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0,
+   "crisp": 0.5,
+   "fill": "#D1EEF5",
+   "stroke": "#66C6DE",
+   "stroke_w": 0.5
+  },
+  "rosa": {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 12,
+   "align": "center",
+   "valign": "middle",
+   "pad": 0,
+   "crisp": 0.3,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FEF4FF"
+     ],
+     [
+      0.5,
+      "#FDD9FE"
+     ],
+     [
+      1,
+      "#FAA6FD"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#E72F7E",
+     "w": 1.6
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#E72F7E",
+    "blur": 2.5,
+    "opacity": 0.9
+   }
+  }
+ },
+ "items": [
+  {
+   "style": "celeste",
+   "box": [
+    146,
+    4,
+    198,
+    13
+   ],
+   "erase_box": [
+    148,
+    2,
+    192,
+    17
+   ],
+   "text": "Connecting to rival",
+   "align": "center"
+  },
+  {
+   "style": "celeste",
+   "box": [
+    146,
+    20,
+    198,
+    13
+   ],
+   "erase_box": [
+    144,
+    19,
+    198,
+    15
+   ],
+   "text": "Wait until all is ready",
+   "align": "center"
+  },
+  {
+   "box": [
+    352,
+    0,
+    160,
+    18
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "celeste",
+   "box": [
+    354,
+    20,
+    156,
+    13
+   ],
+   "erase_box": [
+    352,
+    19,
+    160,
+    15
+   ],
+   "text": "Point your infrared port"
+  },
+  {
+   "style": "celeste",
+   "box": [
+    352,
+    36,
+    136,
+    13
+   ],
+   "erase_box": [
+    350,
+    35,
+    140,
+    15
+   ],
+   "text": "toward your rival's"
+  },
+  {
+   "style": "rosa",
+   "box": [
+    8,
+    98,
+    86,
+    22
+   ],
+   "erase_box": [
+    3,
+    97,
+    96,
+    25
+   ],
+   "text": "Connected"
+  },
+  {
+   "box": [
+    112,
+    102,
+    30,
+    19
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    108,
+    119,
+    404,
+    9
+   ],
+   "erase": "transparent",
+   "text": ""
+  }
+ ]
+}

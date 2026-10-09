@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_9.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4bbbf23ecedd",
+   "t": "Red cat-{{type}} {{medabot}}\nskilled at electric\ncontrol.\n \nSlips past guards with\n{{stealth}} and launches\n{{thunder}} attacks that\nrob the {{hit}} foe of\nmovement."
+  }
+ ]
+}

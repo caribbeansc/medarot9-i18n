@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_3f_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1035,
+   "src": "13b90dff1e98",
+   "t": "Heh, the time has finally come."
+  },
+  {
+   "i": 1038,
+   "src": "39b5d56ce8f2",
+   "t": "Once-a-year big stage... my pick will\nblaze."
+  },
+  {
+   "i": 1046,
+   "src": "e1f9e66ea858",
+   "t": "I'm looking forward to the {{idol_club}}'s\nshow,\ntoo..."
+  }
+ ]
+}

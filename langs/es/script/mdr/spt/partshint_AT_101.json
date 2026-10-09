@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_101.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9ba8f6016294",
+   "t": "<c:00ff00>Técnica:<c>{{power_link}}\nSuma cada atributo de\nesta {{part}} al mismo lugar\nde un {{medabot}} {{ally_battle_term}}.\nTras actuar una vez el\n{{effect}} desaparece."
+  }
+ ]
+}

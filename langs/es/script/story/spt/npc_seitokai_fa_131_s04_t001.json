@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_seitokai_fa_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1038,
+   "src": "79e41e995818",
+   "t": "Esta es la recepción."
+  },
+  {
+   "i": 1041,
+   "src": "c22d9f2b0f26",
+   "t": "¿A qué {{club}} perteneces?"
+  },
+  {
+   "i": 1049,
+   "src": "59ca64dc7e53",
+   "t": "Sí, a ver... {{exploration_club}}..."
+  },
+  {
+   "i": 1052,
+   "src": "574ee4385c55",
+   "t": "Vaya, aún no te has registrado."
+  },
+  {
+   "i": 1060,
+   "src": "9a2d8a3563bd",
+   "t": "Dile al presidente del club que venga"
+  },
+  {
+   "i": 1063,
+   "src": "8e7071a69667",
+   "t": "pronto al gimnasio, por favor~."
+  }
+ ]
+}

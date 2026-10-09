@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2b2f24707d30",
+   "t": "{{medal}}"
+  },
+  {
+   "i": 11,
+   "src": "e9ffb59deb58",
+   "t": "Objeto hexagonal que es el cerebro del <c:ffff00>{{medabot}}<c>.\nCon excelente capacidad de cálculo y una voluntad\ne individualidad cercanas a las de una persona, se\npuede decir que es su \"núcleo\" (core).\n\nTiene capacidades y rasgos como: <c:ffff00>{{rank}}<c>, <c:ffff00>ranura de<c>\n<c:ffff00>Medaria<c>, <c:ffff00>{{medal_level}}<c>, <c:ffff00>{{skill_level}}<c>, <c:ffff00>estilo<c>\n<c:ffff00>de robobatalla<c>, <c:ffff00>{{leader_effect}}<c>, <c:ffff00>{{charge_type}}<c>,\n<c:ffff00>{{medaforce}}<c>, <c:ffff00>{{best_skill}}<c> y <c:ffff00>{{best_legs}}<c>."
+  }
+ ]
+}

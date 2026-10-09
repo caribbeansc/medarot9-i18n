@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f01_070_165_00_t006.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "8171c7eb2582",
+   "t": "L-lo siento."
+  },
+  {
+   "i": 1051,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1057,
+   "src": "f9cbea5020bf",
+   "t": "¿Siempre es así?"
+  },
+  {
+   "i": 1065,
+   "src": "cbcfd3535019",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1070,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1076,
+   "src": "ad6e76820a21",
+   "t": "Llevo un rato observándolos a ustedes"
+  },
+  {
+   "i": 1079,
+   "src": "3b16864a4c72",
+   "t": "y me sorprende lo que he visto."
+  },
+  {
+   "i": 1094,
+   "src": "b3dd46df3b45",
+   "t": "Ustedes dos no están sincronizados."
+  },
+  {
+   "i": 1097,
+   "src": "d9bed2f7a9b4",
+   "t": "Es como si..."
+  },
+  {
+   "i": 1105,
+   "src": "175b96da685b",
+   "t": "Como si recién hicieran equipo"
+  },
+  {
+   "i": 1108,
+   "src": "000e259f70a3",
+   "t": "y me lo creería si me lo dijeran."
+  },
+  {
+   "i": 1116,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1121,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1127,
+   "src": "7e13285e436a",
+   "t": "Oí que tu {{enroll}} fue inusual,"
+  },
+  {
+   "i": 1130,
+   "src": "6746cf9bf211",
+   "t": "pero no voy a indagar. En fin--"
+  },
+  {
+   "i": 1135,
+   "src": "37d9d2302e18",
+   "t": "Nuestro {{rescue_club}} valora la"
+  },
+  {
+   "i": 1138,
+   "src": "add7e936fc60",
+   "t": "unión entre humanos y {{medabot|pl}}."
+  },
+  {
+   "i": 1143,
+   "src": "170bb719fc94",
+   "t": "Tal como están las cosas ahora,"
+  },
+  {
+   "i": 1146,
+   "src": "f81d4b2ea600",
+   "t": "jamás seguirías nuestro ritmo."
+  },
+  {
+   "i": 1158,
+   "src": "57c8b500828e",
+   "t": "No hace falta ponerte a prueba."
+  },
+  {
+   "i": 1161,
+   "src": "1a2dff7bdd90",
+   "t": "Preferimos que no te unas."
+  }
+ ]
+}

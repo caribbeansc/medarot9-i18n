@@ -1,0 +1,110 @@
+{
+ "file": "mdr/spt/prebattle_select_tuto.spt",
+ "lines": [
+  {
+   "i": 2359,
+   "src": "ca5e1e75c40e",
+   "t": "Se ha seleccionado un {{medabot}}"
+  },
+  {
+   "i": 2362,
+   "src": "ba9e88de2bf9",
+   "t": "que está prohibido."
+  },
+  {
+   "i": 4397,
+   "src": "99a69e4dbace",
+   "t": "¿Iniciar la {{robattle}}?"
+  },
+  {
+   "i": 4956,
+   "src": "9a9504c86fc3",
+   "t": "¿Está bien este equipo?"
+  },
+  {
+   "i": 5500,
+   "src": "ca5e1e75c40e",
+   "t": "Se ha seleccionado un {{medabot}}"
+  },
+  {
+   "i": 5503,
+   "src": "ba9e88de2bf9",
+   "t": "que está prohibido."
+  },
+  {
+   "i": 5902,
+   "src": "0db98eba2bf5",
+   "t": "<c:ff00ff>\"Selección de Medabot\"<c>...?"
+  },
+  {
+   "i": 5905,
+   "src": "1b32d132a2b1",
+   "t": "<c:ff00ff>\"Iniciar {{robattle}}\"<c> no está el botón..."
+  },
+  {
+   "i": 5910,
+   "src": "225bb0e4dfb9",
+   "t": "Anis"
+  },
+  {
+   "i": 5916,
+   "src": "38e7b2219637",
+   "t": "Si tienes 2 {{medabot|pl}} o más,"
+  },
+  {
+   "i": 5919,
+   "src": "182a97e506ed",
+   "t": "eliges cuál de ellos sale al combate."
+  },
+  {
+   "i": 5924,
+   "src": "50b4fdd79f02",
+   "t": "Elige con la cruceta y confirma con $*."
+  },
+  {
+   "i": 5927,
+   "src": "094b74656b8d",
+   "t": "Para luchar con 1 solo, elige y pulsa $?."
+  },
+  {
+   "i": 5935,
+   "src": "c0336c3c104b",
+   "t": "Bien, elige los 2 Medabots..."
+  },
+  {
+   "i": 5960,
+   "src": "225bb0e4dfb9",
+   "t": "Anis"
+  },
+  {
+   "i": 5966,
+   "src": "b273cf02c280",
+   "t": "Por último, elige al {{leader}}."
+  },
+  {
+   "i": 5971,
+   "src": "2b0218b516cc",
+   "t": "Con la <c:ff00ff>cruceta<c>, elige al {{leader}}"
+  },
+  {
+   "i": 5974,
+   "src": "9aa40729b374",
+   "t": "y confirma con el <c:ff00ff>botón $*<c>."
+  },
+  {
+   "i": 6002,
+   "src": "af6f275b7889",
+   "t": "Bien, que empiece la {{robattle}}!"
+  },
+  {
+   "i": 6031,
+   "src": "97dd9b935a98",
+   "t": "...Mmm, si el {{leader}} cae, pierdes,"
+  },
+  {
+   "i": 6034,
+   "src": "78f6251d300c",
+   "t": "así que mejor activo <c:ff00ff>{{leader}} refuerzo<c>."
+  }
+ ]
+}

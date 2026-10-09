@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description129.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7c30b3207a8a",
+   "t": "{{biped|cap}} ({{legs}})"
+  },
+  {
+   "i": 11,
+   "src": "a031a160dbd9",
+   "t": "<c:ffff00>{{leg_type|cap}}<c> que camina sobre dos pies, como un\nhumano. Es el de más variantes y su <c:ffff00>{{stats}}<c>\ndepende de la {{part}}. Se le dan mal los terrenos\ninestables.\n\n<c:ffff00>{{terrain_affinity|cap}}<c> (<c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains|cap}}<c> +4, <c:ffff00>{{forest|cap}}<c> +6, <c:ffff00>{{rocky_ground|cap}}<c> +4, <c:ffff00>{{sand|cap}}<c> -6,\n  <c:ffff00>{{tundra|cap}}<c> -6, <c:ffff00>{{hall|cap}}<c> +4, <c:ffff00>{{waterside|cap}}<c> -6, <c:ffff00>{{cyber|cap}}<c> +4.\n  <c:ffff00>{{underwater|cap}}<c> y <c:ffff00>{{sky|cap}}<c>: no se puede robobatallar."
+  }
+ ]
+}

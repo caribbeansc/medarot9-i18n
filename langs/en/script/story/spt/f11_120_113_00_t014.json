@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_120_113_00_t014.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "5176341e90f8",
+   "t": "I need information."
+  },
+  {
+   "i": 1043,
+   "src": "16eb33245afd",
+   "t": "I hear you returned to school with the\n{{principal}}"
+  },
+  {
+   "i": 1046,
+   "src": "7b03374ea1d1",
+   "t": "and went straight up to the {{rooftop}}."
+  },
+  {
+   "i": 1054,
+   "src": "04c90789b19d",
+   "t": "I'm sure you know a great deal."
+  },
+  {
+   "i": 1057,
+   "src": "9838bdcdcf21",
+   "t": "Tell me all of it--"
+  }
+ ]
+}

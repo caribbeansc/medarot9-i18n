@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_74.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d462db6b126b",
+   "t": "<c:00ff00>Leg Trait:<c> {{leader_hunt}}\nWhen attacking the {{leader}},\n{{power}} and {{success}} {{stats}}\n+10."
+  }
+ ]
+}

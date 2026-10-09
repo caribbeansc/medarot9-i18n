@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f01_040_117_00_t005.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1038,
+   "src": "d2c895a5637c",
+   "t": "El segundo desde la derecha."
+  },
+  {
+   "i": 1046,
+   "src": "54916a17c3fa",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1051,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1057,
+   "src": "2438675ddd40",
+   "t": "El tema que estamos estudiando ahora."
+  },
+  {
+   "i": 1060,
+   "src": "f34aedc68364",
+   "t": "Hazle clic."
+  },
+  {
+   "i": 1068,
+   "src": "6447006caffb",
+   "t": "Mmm."
+  },
+  {
+   "i": 1076,
+   "src": "d1efa6521de0",
+   "t": "Ah, ahí está, ya lo veo."
+  },
+  {
+   "i": 1079,
+   "src": "83032a21b17b",
+   "t": "¡Gracias!"
+  },
+  {
+   "i": 1084,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1090,
+   "src": "f0ab4e9fe5c7",
+   "t": "Jeje."
+  }
+ ]
+}

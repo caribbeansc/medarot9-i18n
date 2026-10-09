@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3d_meda_160_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dc985d3d3adc",
+   "t": "{{redmatador}}"
+  },
+  {
+   "i": 1035,
+   "src": "67cd0e2345c1",
+   "t": "Qué dices, {{master}}. Llegamos"
+  },
+  {
+   "i": 1038,
+   "src": "984dab748068",
+   "t": "hasta aquí. Rápido al {{club|cap}} de Banda."
+  }
+ ]
+}

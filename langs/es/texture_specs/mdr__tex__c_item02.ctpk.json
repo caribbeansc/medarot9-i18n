@@ -1,0 +1,10566 @@
+{
+ "rel": "mdr/tex/c_item02.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "erase": "transparent",
+   "erase_box": [
+    [
+     184,
+     69,
+     3,
+     1
+    ],
+    [
+     183,
+     70,
+     6,
+     1
+    ],
+    [
+     183,
+     71,
+     11,
+     1
+    ],
+    [
+     182,
+     72,
+     14,
+     1
+    ],
+    [
+     182,
+     73,
+     17,
+     1
+    ],
+    [
+     181,
+     74,
+     21,
+     1
+    ],
+    [
+     181,
+     75,
+     24,
+     1
+    ],
+    [
+     181,
+     76,
+     27,
+     1
+    ],
+    [
+     181,
+     77,
+     28,
+     1
+    ],
+    [
+     183,
+     78,
+     26,
+     1
+    ],
+    [
+     188,
+     79,
+     20,
+     1
+    ],
+    [
+     189,
+     80,
+     19,
+     1
+    ],
+    [
+     181,
+     81,
+     2,
+     1
+    ],
+    [
+     193,
+     81,
+     15,
+     1
+    ],
+    [
+     182,
+     82,
+     3,
+     1
+    ],
+    [
+     196,
+     82,
+     11,
+     1
+    ],
+    [
+     185,
+     83,
+     2,
+     1
+    ],
+    [
+     188,
+     83,
+     1,
+     1
+    ],
+    [
+     199,
+     83,
+     7,
+     1
+    ]
+   ],
+   "text": "",
+   "check": false
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    [
+     214,
+     61,
+     1,
+     1
+    ],
+    [
+     209,
+     62,
+     1,
+     2
+    ],
+    [
+     213,
+     66,
+     2,
+     1
+    ],
+    [
+     211,
+     67,
+     6,
+     1
+    ],
+    [
+     211,
+     68,
+     9,
+     1
+    ],
+    [
+     210,
+     69,
+     13,
+     1
+    ],
+    [
+     210,
+     70,
+     17,
+     1
+    ],
+    [
+     209,
+     71,
+     21,
+     1
+    ],
+    [
+     209,
+     72,
+     24,
+     1
+    ],
+    [
+     209,
+     73,
+     25,
+     2
+    ],
+    [
+     211,
+     75,
+     23,
+     1
+    ],
+    [
+     214,
+     76,
+     19,
+     1
+    ],
+    [
+     217,
+     77,
+     15,
+     1
+    ],
+    [
+     221,
+     78,
+     10,
+     1
+    ],
+    [
+     223,
+     79,
+     8,
+     1
+    ]
+   ],
+   "text": "",
+   "check": false
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    [
+     189,
+     84,
+     4,
+     1
+    ],
+    [
+     204,
+     84,
+     2,
+     1
+    ],
+    [
+     190,
+     85,
+     5,
+     1
+    ],
+    [
+     208,
+     95,
+     1,
+     2
+    ],
+    [
+     181,
+     96,
+     1,
+     2
+    ],
+    [
+     189,
+     97,
+     4,
+     1
+    ],
+    [
+     189,
+     98,
+     8,
+     1
+    ],
+    [
+     188,
+     99,
+     12,
+     1
+    ],
+    [
+     188,
+     100,
+     13,
+     1
+    ],
+    [
+     187,
+     101,
+     14,
+     4
+    ],
+    [
+     188,
+     105,
+     12,
+     1
+    ],
+    [
+     190,
+     106,
+     9,
+     1
+    ]
+   ],
+   "text": "",
+   "check": false
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    [
+     226,
+     80,
+     4,
+     1
+    ],
+    [
+     213,
+     89,
+     5,
+     1
+    ],
+    [
+     213,
+     90,
+     6,
+     1
+    ],
+    [
+     212,
+     91,
+     7,
+     1
+    ],
+    [
+     212,
+     92,
+     10,
+     1
+    ],
+    [
+     211,
+     93,
+     12,
+     2
+    ],
+    [
+     227,
+     93,
+     3,
+     1
+    ],
+    [
+     225,
+     94,
+     7,
+     3
+    ],
+    [
+     211,
+     95,
+     13,
+     2
+    ],
+    [
+     212,
+     97,
+     12,
+     1
+    ],
+    [
+     225,
+     97,
+     6,
+     1
+    ],
+    [
+     214,
+     98,
+     17,
+     1
+    ],
+    [
+     217,
+     99,
+     6,
+     1
+    ],
+    [
+     224,
+     99,
+     6,
+     2
+    ],
+    [
+     225,
+     101,
+     4,
+     1
+    ]
+   ],
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    15,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#CCD1D9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    16,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#CBD0D9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    17,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#CACFDAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    18,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#C5CBD8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    19,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#BCC3D4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    20,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#BAC1D3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    21,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#B9C0D2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    22,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#B8BFD2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    13,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B5B9BEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    14,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C0C4CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    15,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C3C7CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    16,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C4C9D3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    17,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C3C8D4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    18,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C0C6D4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    19,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#BCC3D3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    20,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#BAC1D2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    21,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B8BFD2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    22,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BED2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    23,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BCD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    24,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B3BBD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    25,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B1BAD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    26,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B0B8D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    27,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#AEB7D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#ADB6D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    13,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A5A8A6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    14,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B4B8BDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    15,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BBBFC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    16,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BDC3CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    17,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BEC3D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    18,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BDC3D1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    19,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BBC1D2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    20,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B9C0D2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    21,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B7BFD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    22,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BDD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    23,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BCD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    24,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B2BBD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    25,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B1B9D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    26,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B0B8D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    27,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#AEB7D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#ADB6CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    30,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    31,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B1C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B0C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    13,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A5A8A8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    14,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B1B5BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    15,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BBC5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    16,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B9BFCBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    17,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#BAC0CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    18,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#BAC0D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    19,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B9C0D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    20,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B8BFD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    21,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BED1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    22,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BDD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    23,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BCD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    24,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B2BAD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    25,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B1B9D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    26,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#AFB8D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    27,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#AEB7CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#ADB6CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    30,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    31,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B0C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    38,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A7AFC4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    39,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ABBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    13,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B5B9C2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    14,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B3B9C3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    15,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BBC7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    16,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B7BDCAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    17,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B8BECDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    18,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B8BECFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    19,
+    213,
+    2,
+    1
+   ],
+   "erase": "solid:#B7BED0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    21,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BDD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    22,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BCD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    23,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B3BBD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    24,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B2BAD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    25,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B1B9D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    26,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#AFB8D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    27,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#AEB7CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#ADB6CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    30,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    31,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B0C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    38,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A7AFC4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    39,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ABBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    213,
+    3,
+    1
+   ],
+   "erase": "solid:#A3ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ABBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A3AABFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A9BCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A8BCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    13,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BBC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    14,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B3B9C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    15,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BAC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    16,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BCCBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    17,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BDCDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    18,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BDCEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    19,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BDCFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    20,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B6BDD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    21,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BCD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    22,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BCD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    23,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B3BBD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    24,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B2BAD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    25,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B0B9D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    26,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#AFB8CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    27,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#AEB7CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#ADB6CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    30,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    31,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    38,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A7AFC4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    39,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ACC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A3ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    214,
+    3,
+    1
+   ],
+   "erase": "solid:#A3AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A3AABEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A9BCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A8BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A7B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA3B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    13,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AFB6C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    14,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B0B8CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    15,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B2B9CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    16,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BBCCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    17,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BCCDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    18,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BCCEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    19,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BDCFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    20,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BCCFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    21,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BCD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    22,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B3BBD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    23,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B2BAD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    24,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B1B9D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    25,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B0B9D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    26,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AFB8CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    27,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AEB7CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#ADB6CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    30,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    31,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A7AFC5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    38,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A7AFC4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    39,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AFC3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A3ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A3AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A2AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    47,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A2A9BCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A2A9BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A8BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A7BAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA7B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA3B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA3B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    16,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B3BACDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    17,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BBCDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    18,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B5BCCEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    19,
+    216,
+    2,
+    1
+   ],
+   "erase": "solid:#B5BCCFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    21,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B4BCD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    22,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B3BBD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    23,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B2BAD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    24,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B1B9D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    25,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B0B8CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    26,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AFB7CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    27,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AEB6CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#ADB5CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    30,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    31,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B0C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A7AFC5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    38,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A7AFC3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A3ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A3AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A2AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A2A9BCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    47,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A9BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A8BAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A7B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA3B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA2B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9BA2B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    23,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#B1BAD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    24,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#B1B9D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    25,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#B0B8CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    26,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#AFB7CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    27,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#AEB6CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    30,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    31,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A7AFC5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    38,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AFC3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    39,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ACC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A3ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A2AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A2A9BCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A9BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    47,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A8BAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A7B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA3B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA3B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9BA2B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9AA1B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9AA0B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    58,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#99A0B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    59,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#989EAEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    60,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#969DACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    61,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#959CAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#949AA9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9399A7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9297A5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9197A5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    28,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#ACB5CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    29,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    30,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#ABB4CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    31,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#AAB3CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AFC5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    38,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AEC2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    39,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A5AEC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A3ABBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A3AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A2AABCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A9BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A8BAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    47,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A7B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA3B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9BA2B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9BA1B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9AA0B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#99A0B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#989FAFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    58,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#989EADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    59,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#969CACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    60,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#959BAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    61,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9399A8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9197A5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#8F95A3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#8D92A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#8B909DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    66,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#898E9BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    67,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#868C98FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    68,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#878D99FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    32,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A9B2CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    33,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    34,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A8B1C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    35,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A7B0C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    36,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A6B0C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    37,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A6AFC5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    39,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A5ADC0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ACBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A3ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A2AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A2A9BCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A8BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A7BAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    47,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA6B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA3B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9BA2B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9AA1B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9AA0B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#999FAFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#989EAEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#979DADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    58,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#969CABFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    59,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#959BAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    60,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9399A7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    61,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9197A5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#8F95A2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#8C919FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#888E9AFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#848995FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    66,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#7E838EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    67,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#787C86FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    68,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#71757FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    39,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#A5AEC3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    40,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ADC1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#A4ABBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#A3ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#A2AABDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A9BCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A8BAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A7B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    47,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA3B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9BA2B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9AA1B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#99A0B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#999FAFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#989EAEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#979DACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#969CABFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    58,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#959BAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    59,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#939AA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    60,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9298A6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    61,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9095A3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#8D92A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#898F9BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#858A96FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#7E838EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    66,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#767A84FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    67,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#686C73FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    68,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#515458FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    41,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#A3ABBEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    42,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#A3AABEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    43,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#A2AABCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    44,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#A1A9BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#A0A7BAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    47,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9CA3B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9BA2B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9AA1B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#99A0B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#989FAFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#989EADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#979DACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#969CABFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#959BAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    58,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#949AA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    59,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9399A7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    60,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9197A5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    61,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#8F94A2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#8C919EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#888D99FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#838893FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#7C808BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    66,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#71757EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    67,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#62656CFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    68,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#494B4FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    45,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA7B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    46,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9FA6B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    47,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9EA5B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    48,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9DA4B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9BA2B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9AA0B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#999FAFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#989FAEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#979EADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#979DACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#969CABFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#959BAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    57,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#949AA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    58,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9399A7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    59,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9298A6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    60,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9197A4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    61,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#8F94A1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#8B919DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#878D99FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#828793FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#7C808BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    66,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#737780FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    67,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#65686FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    68,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#4D5053FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#99A0B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#989FAFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    51,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#979EAEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    52,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#979DADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    53,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#969CACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    54,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#969CAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    55,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#959BA9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    56,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#949AA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    61,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#8F95A1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#8C919EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#888D99FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#848994FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#7F838EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    66,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#787D86FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    67,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#71757DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    68,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#696C74FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#989FAFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#979EAEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#8D929EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#8A8F9BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#878B97FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#838893FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    66,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#80848FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    67,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#7D818CFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    68,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#7F848EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    49,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#979FB0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    50,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#969DACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    62,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#8D929FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    63,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#8B909DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    64,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#898E9BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    65,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#888C98FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    66,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#868A96FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    67,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#858995FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    68,
+    225,
+    1,
+    1
+   ],
+   "erase": "solid:#868B96FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    95,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#C8BCD7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    96,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#C9BDD9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    97,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#C6BBD8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    98,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#C1B5D4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    99,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#BAADD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    100,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#B7AACFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    101,
+    209,
+    1,
+    1
+   ],
+   "erase": "solid:#B5A8CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    90,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C0B0BDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    91,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C6BACCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    92,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C4B8D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    93,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C0B4CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    94,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C3B7D3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    95,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C3B7D4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    96,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C2B7D5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    97,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#C1B4D4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    98,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#BDB1D2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    99,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B9ACD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    100,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B6A9CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    101,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B3A6CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    102,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#B0A3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    103,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#ADA0CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    104,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#AB9DCAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    105,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#A89BC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    106,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#A699C9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    107,
+    210,
+    1,
+    1
+   ],
+   "erase": "solid:#A497CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    90,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#AD99A7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    91,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BBABBFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    92,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BEB1CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    93,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BEB1CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    94,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BFB2D0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    95,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BFB2D1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    96,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BEB1D2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    97,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BCB0D2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    98,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#BAADD1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    99,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B7AACFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    100,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B4A7CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    101,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#B2A5CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    102,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#AFA2CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    103,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#ADA0CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    104,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#AA9DCAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    105,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A89BC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    106,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A699C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    107,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A497C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    108,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A295C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    109,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A194C4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    110,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#A092C2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    111,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#9E91C0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#9D90BEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8FBDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8EBCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8DBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    211,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8CBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    90,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#AC9AADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    91,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B8A9C1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    92,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#BCAECAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    93,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#BCAFCDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    94,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#BCAECFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    95,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#BBAED0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    96,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#BAADD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    97,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B9ACD0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    98,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B7AACFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    99,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B5A8CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    100,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B3A6CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    101,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#B1A4CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    102,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#AEA1CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    103,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#AC9FCAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    104,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#AA9DC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    105,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A89BC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    106,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A699C8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    107,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A497C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    108,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A395C5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    109,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A194C3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    110,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#A092C2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    111,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9E91C0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9D90BEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8FBDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8EBCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8DBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8CBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#998BB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#988AB8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9789B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9788B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    121,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9787B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9687B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9687B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    212,
+    1,
+    1
+   ],
+   "erase": "solid:#9787BBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    90,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#BDAFC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    91,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#BFB2CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    92,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#BEB1CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    93,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#BAADCEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    94,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B8ABCEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    95,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B7AACEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    96,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B7A9CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    97,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B6A9CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    98,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B5A8CEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    99,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B3A6CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    100,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B2A4CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    101,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#B0A3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    102,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#AEA1CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    103,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#AC9FCAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    104,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#AA9DC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    105,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A89BC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    106,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A699C7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    107,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A497C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    108,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A395C4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    109,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A194C3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    110,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#A092C1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    111,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9E91BFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9D90BEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8FBDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8EBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8DBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#998CB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#998AB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9889B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9789B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9788B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    121,
+    213,
+    2,
+    1
+   ],
+   "erase": "solid:#9687B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9686B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    213,
+    2,
+    1
+   ],
+   "erase": "solid:#9686B9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9584B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9482B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9482B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9582B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    213,
+    1,
+    1
+   ],
+   "erase": "solid:#9683B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    93,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B7A9CFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    94,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B4A6CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    95,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B3A5CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    96,
+    214,
+    2,
+    1
+   ],
+   "erase": "solid:#B3A6CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    98,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B3A5CDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    99,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B2A5CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    100,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#B0A3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    101,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#AFA2CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    102,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#ADA0CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    103,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#AB9EC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    104,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A99CC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    105,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A89AC7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    106,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A699C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    107,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A497C5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    108,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A295C4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    109,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A194C2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    110,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#A092C1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    111,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9E91BFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9D90BEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8FBCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8DBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8CBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#998BB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#988AB8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9889B8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    214,
+    2,
+    1
+   ],
+   "erase": "solid:#9788B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    121,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9687B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9686B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9686B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9585B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9584B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9583B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9482B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    214,
+    2,
+    1
+   ],
+   "erase": "solid:#9481B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9582B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9682B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#9480ADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#927FACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#917DABFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#907CA9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    214,
+    1,
+    1
+   ],
+   "erase": "solid:#907BA9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    93,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AB9CC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    94,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AD9ECAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    95,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AFA0CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    96,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B0A2CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    97,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B1A3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    98,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B1A4CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    99,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B1A3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    100,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#B0A2CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    101,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AEA1CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    102,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AC9FCAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    103,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#AB9EC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    104,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A99CC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    105,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A79AC7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    106,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A698C6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    107,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A497C4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    108,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A295C3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    109,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#A194C1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    110,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9F92C0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    111,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9E91BFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9D90BDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8EBCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8DBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8CBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#998BB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#988AB8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9889B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9788B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    215,
+    2,
+    1
+   ],
+   "erase": "solid:#9687B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9686B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9585B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9584B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9584B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9482B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9381B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#9381B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    215,
+    2,
+    1
+   ],
+   "erase": "solid:#9380AFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#937FAEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#927EACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#917DAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#8F7BA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#8E7AA6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#8C78A4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#8C77A3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    139,
+    215,
+    1,
+    1
+   ],
+   "erase": "solid:#8D78A4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    95,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AA9BC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    96,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AEA0CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    97,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B0A2CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    98,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B0A3CCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    99,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#B0A3CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    100,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AFA2CBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    101,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AEA0CAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    102,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AC9FC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    103,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#AA9DC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    104,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A99CC7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    105,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A79AC6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    106,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A598C5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    107,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A497C4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    108,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A295C2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    109,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#A193C1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    110,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9F92C0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    111,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9E91BEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9D8FBDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8EBCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8DBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8CBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#998BB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#988AB8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9789B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9788B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9687B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    121,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9686B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9585B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9585B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9484B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9482B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9381B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9380B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#9280AEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#927FADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#917EACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#917DABFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#8F7CA9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#8E7AA6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#8C78A4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#8A76A1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#88739FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#86729DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    139,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#86729CFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    140,
+    216,
+    1,
+    1
+   ],
+   "erase": "solid:#89749FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    102,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#AB9EC9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    103,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#AA9DC8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    104,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A89BC7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    105,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A79AC6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    106,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A598C5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    107,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A496C4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    108,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A295C2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    109,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#A093C1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    110,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9F92BFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    111,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9E90BEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8FBDFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8EBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8DBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8CB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#998BB8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#988AB7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9789B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9788B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9687B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    121,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9586B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9585B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9584B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9482B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9381B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9281AFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#9280AEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#917FADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#917DACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#907CAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#8F7BA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#8D79A6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#8B77A3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#8975A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#86729CFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#836E98FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#806B94FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    139,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#7E6992FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    140,
+    217,
+    1,
+    1
+   ],
+   "erase": "solid:#806B94FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    108,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A194C1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    109,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#A093C0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    110,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9F92BFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    111,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9E90BEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8FBCFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8EBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8DBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#998BB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#988AB8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9889B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9788B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9687B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9686B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    121,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9586B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9585B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9484B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9382B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9381B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#9280AEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#917FADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#917EACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#907CAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#8F7BA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#8D79A6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#8B77A3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#8975A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#86729CFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#826E98FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#7E6992FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#78638AFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    139,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#715C81FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    140,
+    218,
+    1,
+    1
+   ],
+   "erase": "solid:#695578FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    112,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9C8EBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    113,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9B8DBBFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    114,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9A8CBAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    115,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#998BB9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#988AB8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9889B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9788B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9687B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9686B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    121,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9585B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9484B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9382B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9381B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#9280AFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#917FADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#917EACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#907DAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#8F7BA9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#8E7AA7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#8C78A4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#8A76A2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#87739EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#846F9AFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#806B94FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#7A658DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#715C82FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    139,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#634F71FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    140,
+    219,
+    1,
+    1
+   ],
+   "erase": "solid:#4D3955FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    116,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9889B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    117,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9789B7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    118,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9788B6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    119,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9687B5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9586B4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    121,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9585B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9484B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9382B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9281AFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#9280AEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#917FADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#907DABFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#8F7CA9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#8E7BA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#8D79A6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#8B77A3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#8975A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#87729DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#836E98FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#7F6A93FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#78648BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#6F5A7FFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    139,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#5F4B6CFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    140,
+    220,
+    1,
+    1
+   ],
+   "erase": "solid:#45324CFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    120,
+    221,
+    2,
+    1
+   ],
+   "erase": "solid:#9585B3FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    122,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9484B2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    123,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9483B1FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    124,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9382B0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#9280AFFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#927FADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#917EACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#907DAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#8F7BA9FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#8E7AA7FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#8D78A5FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#8B76A2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#8974A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#87719CFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#846E99FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#806A94FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#7A658DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#735E84FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    139,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#675275FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    140,
+    221,
+    1,
+    1
+   ],
+   "erase": "solid:#513D5AFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    125,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#9280AEFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    126,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#917FADFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    127,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#917EACFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    128,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#907DAAFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    129,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#8F7BA8FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    130,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#8E79A6FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    131,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#8D78A4FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#8B76A2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#8974A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#87729DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#856F9AFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#826C96FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#7F6992FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#7B658DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    139,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#786289FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    140,
+    222,
+    1,
+    1
+   ],
+   "erase": "solid:#755F85FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    132,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#8B76A2FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#8A74A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#88729DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#86709BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#846E99FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#836D97FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    138,
+    223,
+    1,
+    1
+   ],
+   "erase": "solid:#846D97FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    133,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#8A74A0FF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    134,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#89729EFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    135,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#88719DFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    136,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#87709BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    137,
+    224,
+    1,
+    1
+   ],
+   "erase": "solid:#866F9BFF",
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    176.4,
+    67.6,
+    36,
+    18
+   ],
+   "erase": "none",
+   "text": "BAJA",
+   "font": "tahoma",
+   "cap": 5.8,
+   "scale_x": 1.0,
+   "rotate": 343,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 0.95,
+   "pad": 0,
+   "snap": false
+  },
+  {
+   "box": [
+    205.0,
+    63.6,
+    36,
+    18
+   ],
+   "erase": "none",
+   "text": "REINIC.",
+   "font": "tahoma",
+   "cap": 5.8,
+   "scale_x": 0.82,
+   "rotate": 348,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 0.95,
+   "pad": 0,
+   "snap": false
+  },
+  {
+   "box": [
+    175.8,
+    93.0,
+    36,
+    18
+   ],
+   "erase": "none",
+   "text": "SUBE",
+   "font": "tahoma",
+   "cap": 5.8,
+   "scale_x": 1.0,
+   "rotate": 352,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 0.95,
+   "pad": 0,
+   "snap": false
+  },
+  {
+   "box": [
+    202.4,
+    86.4,
+    36,
+    18
+   ],
+   "erase": "none",
+   "text": "Nv.1",
+   "font": "tahoma",
+   "cap": 5.8,
+   "scale_x": 1.0,
+   "rotate": 345,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 0.95,
+   "pad": 0,
+   "snap": false
+  },
+  {
+   "box": [
+    8.0,
+    207.7,
+    64,
+    18
+   ],
+   "erase": "none",
+   "text": "ROBOBATALLA",
+   "font": "sf-cond",
+   "cap": 7.2,
+   "rotate": 350,
+   "fill": "#14141C",
+   "stroke": null,
+   "pad": 0,
+   "snap": false,
+   "italic_skew": 0.2
+  },
+  {
+   "box": [
+    88.8,
+    207.6,
+    60,
+    18
+   ],
+   "erase": "none",
+   "text": "RUBBEROBO",
+   "font": "sf-cond",
+   "cap": 7.2,
+   "rotate": 350,
+   "fill": "#240E30",
+   "stroke": null,
+   "pad": 0,
+   "snap": false,
+   "italic_skew": 0.2
+  }
+ ]
+}

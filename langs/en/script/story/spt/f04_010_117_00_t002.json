@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f04_010_117_00_t002.spt",
+ "lines": [
+  {
+   "i": 1132,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1143,
+   "src": "ced517ce18f1",
+   "t": "I have two"
+  },
+  {
+   "i": 1146,
+   "src": "cb2708c60bfb",
+   "t": "announcements today."
+  },
+  {
+   "i": 1161,
+   "src": "63ee658802df",
+   "t": "First one."
+  },
+  {
+   "i": 1164,
+   "src": "2098ef4ea722",
+   "t": "I think you all know already--"
+  },
+  {
+   "i": 1172,
+   "src": "194c5a666b05",
+   "t": "After school today,"
+  },
+  {
+   "i": 1175,
+   "src": "2cd2445b2f1d",
+   "t": "there's an inter-club {{robattle}}\ntournament."
+  },
+  {
+   "i": 1183,
+   "src": "d9cb3b263e70",
+   "t": "As soon as class ends,"
+  },
+  {
+   "i": 1186,
+   "src": "26cbe8977f09",
+   "t": "head to the gym and follow your {{club}}'s\ninstructions."
+  },
+  {
+   "i": 1202,
+   "src": "fea98c8483c9",
+   "t": "Okaaay!"
+  },
+  {
+   "i": 1220,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1231,
+   "src": "f8b799b41b8c",
+   "t": "By the way, is anyone planning to\nenter?"
+  },
+  {
+   "i": 1234,
+   "src": "f2002aa69734",
+   "t": "You're only first-years, so I doubt it--"
+  },
+  {
+   "i": 1241,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1250,
+   "src": "342c20413c8f",
+   "t": "Yes!"
+  },
+  {
+   "i": 1253,
+   "src": "fea98c8483c9",
+   "t": "Yeees!"
+  }
+ ]
+}

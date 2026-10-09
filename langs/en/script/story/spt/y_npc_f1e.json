@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f1e.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1653,
+   "src": "1099d029deb5",
+   "t": "A {{robattle}}? Yes, yes!"
+  },
+  {
+   "i": 1656,
+   "src": "537a4c79bffe",
+   "t": "Of course!"
+  }
+ ]
+}

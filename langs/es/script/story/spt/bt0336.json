@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0336.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 872,
+   "src": "7a55e4b79e23",
+   "t": "Oh, ¿una {{robattle}}?"
+  },
+  {
+   "i": 875,
+   "src": "e93d20ce6583",
+   "t": "Sí, hagámoslo, hagámoslo."
+  }
+ ]
+}

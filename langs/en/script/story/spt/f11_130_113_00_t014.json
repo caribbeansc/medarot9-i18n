@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f11_130_113_00_t014.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1042,
+   "src": "5cef400baffc",
+   "t": "Word from the {{ski_club}}. "
+  },
+  {
+   "i": 1045,
+   "src": "36d09d5c856d",
+   "t": "{{stray|cap}} {{medabot|pl}} have revived in the\n{{clubroom}} building too!"
+  },
+  {
+   "i": 1055,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 1061,
+   "src": "54c1a6d81931",
+   "t": "President!"
+  },
+  {
+   "i": 1071,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1080,
+   "src": "cdf0e3b3ddf8",
+   "t": "Hm?"
+  },
+  {
+   "i": 1094,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 1103,
+   "src": "74e12c7c60da",
+   "t": "W-what do we do..."
+  },
+  {
+   "i": 1106,
+   "src": "d6753f97bdef",
+   "t": "What should I tell them..."
+  },
+  {
+   "i": 1113,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1122,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

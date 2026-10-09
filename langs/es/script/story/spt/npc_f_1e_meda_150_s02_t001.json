@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_1e_meda_150_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f61635231b42",
+   "t": "{{fluffy_hair}}"
+  },
+  {
+   "i": 1038,
+   "src": "925721f536ec",
+   "t": "¡Hola, amigo!"
+  }
+ ]
+}

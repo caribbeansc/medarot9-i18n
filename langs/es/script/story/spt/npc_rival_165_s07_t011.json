@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rival_165_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1035,
+   "src": "7c23894db6ef",
+   "t": "¿Eh? ¿Qué? Ah, eres tú."
+  },
+  {
+   "i": 1038,
+   "src": "1d48e3a862b3",
+   "t": "No rondes por un {{club}} ajeno."
+  },
+  {
+   "i": 1046,
+   "src": "c107d0613f75",
+   "t": "A nosotros el festival nos da igual."
+  },
+  {
+   "i": 1049,
+   "src": "4bcbe6af623e",
+   "t": "Estamos ocupados, igual que siempre."
+  },
+  {
+   "i": 1057,
+   "src": "188753aa0407",
+   "t": "Mejor practica con okonomiyaki."
+  },
+  {
+   "i": 1060,
+   "src": "65bea1e1a435",
+   "t": "Yo no lo comería, me caería mal."
+  }
+ ]
+}

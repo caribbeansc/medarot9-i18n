@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description112.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "11105d6055e0",
+   "t": "{{mobility|cap}} (rend.)"
+  },
+  {
+   "i": 11,
+   "src": "b42d139e1a7c",
+   "t": "Tipo de <c:ffff00>{{stats}}<c> de la <c:ffff00>{{part}}<c> de <c:ffff00>{{legs}}<c>.\n\nMide la capacidad física de {{move}} y de control\nde la postura.\nCuanto mayor es el valor, más suben el <c:ffff00>poder de<c>\n<c:ffff00>{{defend}}<c> y el <c:ffff00>poder de {{evade}}<c>.\n\nCon un <c:ffff00>ataque<c> de <c:ffff00>arremetida<c>, la movilidad se suma a\nla <c:ffff00>{{power}}<c>."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f02_070_152_00_t001.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "e1122e337b77",
+   "t": "¿Oyes algo?"
+  },
+  {
+   "i": 1051,
+   "src": "0b3ea3c0afe8",
+   "t": "Escucho voces."
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "858ed522c4b8",
+   "t": "¿Qué dicen?"
+  },
+  {
+   "i": 1070,
+   "src": "ed19ee0c7087",
+   "t": "Es muy bajo, no logro..."
+  },
+  {
+   "i": 1075,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1081,
+   "src": "46aae6c5fbbc",
+   "t": "Al menos eso significa que no está sola."
+  },
+  {
+   "i": 1084,
+   "src": "5dbe959cc8e1",
+   "t": "Aunque podría estar en una llamada."
+  },
+  {
+   "i": 1095,
+   "src": "b25c6f06aad4",
+   "t": "¿Qué hacemos?"
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1106,
+   "src": "1b7a7f8d0e0c",
+   "t": "Sí."
+  },
+  {
+   "i": 1109,
+   "src": "39a20578dabe",
+   "t": "Darle tiempo solo causará problemas-"
+  },
+  {
+   "i": 1117,
+   "src": "5cb547d6a3e9",
+   "t": "Entremos sin más."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_120_113_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "c8bc3c743565",
+   "t": "Entonces atacaron {{medabot|pl}} salvajes."
+  },
+  {
+   "i": 1038,
+   "src": "92124e71e682",
+   "t": "No tengo idea de qué pasa."
+  },
+  {
+   "i": 1046,
+   "src": "98eb9055cfbf",
+   "t": "Si las cosas siguen así,"
+  },
+  {
+   "i": 1049,
+   "src": "3acb1922bb64",
+   "t": "ni siquiera sabré qué hacer después."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "rel": "mdr/tex/title_align.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-rounded",
+  "fill": "auto",
+  "stroke": "auto",
+  "stroke_w": 1.5,
+  "pad": 0,
+  "crisp": 0.4
+ },
+ "items": [
+  {
+   "box": [
+    3,
+    5,
+    106,
+    17
+   ],
+   "erase_box": [
+    0,
+    0,
+    112,
+    24
+   ],
+   "sample_box": [
+    4,
+    9,
+    104,
+    14
+   ],
+   "cap": 9.5,
+   "text": "Ordenar Medabots",
+   "baseline": 19
+  }
+ ]
+}

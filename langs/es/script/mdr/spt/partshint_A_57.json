@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_57.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "d2911e4ded55",
+   "t": "<c:00ff00>{{mf}}:<c>{{trap|cap}} de Efecto\nDestruye la {{trap}} del\nárea aliada y coloca una\n{{trap}} de ayuda en el\nárea {{opponent}}.\n<c:00ffff>#{{part|cap}} requerida<c>\nNinguna"
+  }
+ ]
+}

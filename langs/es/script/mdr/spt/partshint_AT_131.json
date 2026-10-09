@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_131.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e5190d5a7dba",
+   "t": "<c:00ff00>Técnica:<c>{{guard}} Óptica\nAdopta una postura de\nguardia que intercepta\nataques a aliados.\nAl interceptar, anula el\n{{damage}} si es rayo,\nhiperrayo, láser o espada\nde rayo."
+  }
+ ]
+}

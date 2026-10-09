@@ -1,0 +1,72 @@
+{
+ "rel": "battle/tex/g_over_u01.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "din-alt",
+  "cap": 39,
+  "embolden": 1.0,
+  "scale_x": 1.04,
+  "tracking": 1.2,
+  "fill": "#FFFFFF",
+  "pad": 0,
+  "snap": true,
+  "strokes": [
+   {
+    "color": "#A6DFDFA0",
+    "w": 1
+   },
+   {
+    "color": "#698D8D41",
+    "w": 1
+   },
+   {
+    "color": "#394D4D26",
+    "w": 1
+   },
+   {
+    "color": "#151D1D13",
+    "w": 1
+   },
+   {
+    "color": "#04050505",
+    "w": 1
+   }
+  ]
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    212,
+    96
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    0,
+    210,
+    50
+   ],
+   "erase": "none",
+   "text": "FIN DEL",
+   "align": "left",
+   "baseline": 45
+  },
+  {
+   "box": [
+    3,
+    45,
+    207,
+    51
+   ],
+   "erase": "none",
+   "text": "JUEGO",
+   "align": "right",
+   "baseline": 90
+  }
+ ]
+}

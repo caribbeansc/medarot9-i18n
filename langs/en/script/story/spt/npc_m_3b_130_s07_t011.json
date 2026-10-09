@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3b_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e9bcfb45423c",
+   "t": "{{nagisa}}"
+  },
+  {
+   "i": 1035,
+   "src": "3fc66da49eb1",
+   "t": "Huff, puff"
+  },
+  {
+   "i": 1038,
+   "src": "843c2fb19cad",
+   "t": "I'm tired, I don't want to run anymore..."
+  },
+  {
+   "i": 1046,
+   "src": "e5d8c623e8fe",
+   "t": "I wanna go home already!"
+  },
+  {
+   "i": 1049,
+   "src": "663dbba85171",
+   "t": "I wanna shower, play, read manga, and\nsleep!"
+  }
+ ]
+}

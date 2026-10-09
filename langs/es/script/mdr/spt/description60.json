@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description60.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e0bc7cbc794f",
+   "t": "{{medachange_form|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "abb04ddf8e00",
+   "t": "{{condition|cap}} de un <c:ffff00>{{medabot}}<c> tras el <c:ffff00>{{medachange}}<c>. Cambian\nel <c:ffff00>{{stats}}<c>, el <c:ffff00>{{leg_type}}<c> y el <c:ffff00>rasgo de<c>\n<c:ffff00>{{legs}}<c>, y en vez de las <c:ffff00>técnicas<c> de las <c:ffff00>{{part|pl}}<c> se\nusa una propia, el <c:ffff00>Drive<c>. El <c:ffff00>{{armor}}<c> de las 4 {{part|pl}}\nse une en uno y la <c:ffff00>{{response}}<c> a un <c:ffff00>ataque<c> es <c:ffff00>{{defend}}<c>\no <c:ffff00>{{evade}}<c>. Se puede usar <c:ffff00>revertir forma<c>, pero no la\n<c:ffff00>{{medaforce}}<c>. Cada <c:ffff00>acción<c> gasta 10% de la barra de\ncarga y <c:ffff00>cargar<c> no la sube; por debajo de 10% se\nrevierte la forma forzosamente."
+  }
+ ]
+}

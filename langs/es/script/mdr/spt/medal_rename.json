@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/medal_rename.spt",
+ "lines": [
+  {
+   "i": 855,
+   "src": "f65ca6554100",
+   "t": "Titania"
+  },
+  {
+   "i": 858,
+   "src": "98e643d01909",
+   "t": "{{tai_chan}}"
+  }
+ ]
+}

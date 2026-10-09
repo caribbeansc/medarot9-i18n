@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1b_meda_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c5b43b2f274",
+   "t": "{{bustroyer}}"
+  },
+  {
+   "i": 1038,
+   "src": "e193a9a5803f",
+   "t": "¡Casi me muerde un delfín el otro"
+  },
+  {
+   "i": 1041,
+   "src": "a6dd034e8655",
+   "t": "día! ¡Esas cosas son feroces! ¡Cuidado!"
+  }
+ ]
+}

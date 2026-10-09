@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_g_f1a_meda.spt",
+ "lines": [
+  {
+   "i": 1030,
+   "src": "c82f59ad4375",
+   "t": "{{magentacat}}"
+  },
+  {
+   "i": 1041,
+   "src": "2bbc6b330d60",
+   "t": "El descanso es aburrido, nya."
+  },
+  {
+   "i": 1044,
+   "src": "88185d4bd385",
+   "t": "Quiero correr rápido, nya."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_kocho_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1038,
+   "src": "26d6effd0d6b",
+   "t": "Ahora no es momento para eso."
+  }
+ ]
+}

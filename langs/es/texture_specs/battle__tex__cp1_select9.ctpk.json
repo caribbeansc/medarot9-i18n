@@ -1,0 +1,146 @@
+{
+ "rel": "battle/tex/cp1_select9.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond-heavy",
+  "cap": 11,
+  "pad": 1,
+  "align": "center",
+  "valign": "middle"
+ },
+ "items": [
+  {
+   "box": [
+    3,
+    1,
+    191,
+    21
+   ],
+   "erase_box": [
+    0,
+    0,
+    197,
+    21
+   ],
+   "text": "Elige  tu  respuesta  al  ataque",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFF66"
+     ],
+     [
+      0.5,
+      "#FFFF77"
+     ],
+     [
+      1,
+      "#FFFF99"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#F08A10",
+     "w": 1
+    },
+    {
+     "color": "#8A3C00A0",
+     "w": 1.0
+    }
+   ],
+   "baseline": 15,
+   "cap": 11,
+   "tracking": 0.4
+  },
+  {
+   "box": [
+    3,
+    22,
+    186,
+    21
+   ],
+   "erase_box": [
+    0,
+    21,
+    192,
+    21
+   ],
+   "text": "Elige  la  pieza  a  atacar",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFF66"
+     ],
+     [
+      0.5,
+      "#FFFF77"
+     ],
+     [
+      1,
+      "#FFFF99"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#F08A10",
+     "w": 1
+    },
+    {
+     "color": "#8A3C00A0",
+     "w": 1.0
+    }
+   ],
+   "baseline": 36,
+   "cap": 11,
+   "tracking": 0.4
+  },
+  {
+   "box": [
+    4,
+    43,
+    119,
+    21
+   ],
+   "erase_box": [
+    0,
+    42,
+    127,
+    22
+   ],
+   "text": "Esperando  comando",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#DDFF33"
+     ],
+     [
+      0.5,
+      "#DDFF55"
+     ],
+     [
+      1,
+      "#EEFF88"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#44B010",
+     "w": 1
+    },
+    {
+     "color": "#1F6A0099",
+     "w": 1.0
+    }
+   ],
+   "baseline": 57.5,
+   "cap": 10.5,
+   "tracking": 0.4
+  }
+ ]
+}

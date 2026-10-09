@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_pc04_161_s07_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "b5b47fb03f90",
+   "t": "Vi un {{medabot}} salvaje que tenía"
+  },
+  {
+   "i": 1041,
+   "src": "9fce90f00550",
+   "t": "las mismas piezas que ese."
+  },
+  {
+   "i": 1049,
+   "src": "c9a944dfe1f1",
+   "t": "Creo que fue cerca del {{water_mill}}..."
+  },
+  {
+   "i": 1057,
+   "src": "ac47d2fb7eda",
+   "t": "Es una {{part}} rara, por eso la recuerdo."
+  },
+  {
+   "i": 1060,
+   "src": "8a875197414a",
+   "t": "Si la consigo, quizá logre algo."
+  }
+ ]
+}

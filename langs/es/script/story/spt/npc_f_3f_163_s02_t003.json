@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_f_3f_163_s02_t003.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "4e2a43b436f6",
+   "t": "La relación de {{aoi}} y {{mio}}... Mmm."
+  },
+  {
+   "i": 1041,
+   "src": "66d05a8dff53",
+   "t": "No diría que fueran muy cercanas."
+  },
+  {
+   "i": 1049,
+   "src": "6debcdbc99cf",
+   "t": "Por su carácter, {{mio}} no encajaba"
+  },
+  {
+   "i": 1052,
+   "src": "8696ffc97f03",
+   "t": "bien en el {{club}}. Aoi trató de"
+  },
+  {
+   "i": 1060,
+   "src": "b75fadf27f86",
+   "t": "ser considerada y le hablaba de"
+  },
+  {
+   "i": 1063,
+   "src": "3dcd0a498f24",
+   "t": "varias cosas, pero no funcionó..."
+  },
+  {
+   "i": 1071,
+   "src": "15d3a98eb81b",
+   "t": "Al final... No, olvídalo."
+  },
+  {
+   "i": 1079,
+   "src": "ead2b7ef0a59",
+   "t": "Con más gente, los problemas"
+  },
+  {
+   "i": 1082,
+   "src": "1b8002668fbe",
+   "t": "surgen sin remedio. Nadie tiene culpa."
+  }
+ ]
+}

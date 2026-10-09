@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f04_010_117_00_t002.spt",
+ "lines": [
+  {
+   "i": 1132,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1143,
+   "src": "ced517ce18f1",
+   "t": "Hoy tengo dos"
+  },
+  {
+   "i": 1146,
+   "src": "cb2708c60bfb",
+   "t": "anuncios."
+  },
+  {
+   "i": 1161,
+   "src": "63ee658802df",
+   "t": "Primero."
+  },
+  {
+   "i": 1164,
+   "src": "2098ef4ea722",
+   "t": "Como ya todos saben--"
+  },
+  {
+   "i": 1172,
+   "src": "194c5a666b05",
+   "t": "Hoy tras las clases,"
+  },
+  {
+   "i": 1175,
+   "src": "2cd2445b2f1d",
+   "t": "hay torneo de {{robattle|pl}} entre clubes."
+  },
+  {
+   "i": 1183,
+   "src": "d9cb3b263e70",
+   "t": "Al acabar la clase, vayan"
+  },
+  {
+   "i": 1186,
+   "src": "26cbe8977f09",
+   "t": "al {{gymnasium}} y sigan a su {{club}}."
+  },
+  {
+   "i": 1202,
+   "src": "fea98c8483c9",
+   "t": "¡Síii!"
+  },
+  {
+   "i": 1220,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1231,
+   "src": "f8b799b41b8c",
+   "t": "Por cierto, ¿alguien va a competir?"
+  },
+  {
+   "i": 1234,
+   "src": "f2002aa69734",
+   "t": "Son de primer año, así que dudo--"
+  },
+  {
+   "i": 1241,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1250,
+   "src": "342c20413c8f",
+   "t": "¡Sí!"
+  },
+  {
+   "i": 1253,
+   "src": "fea98c8483c9",
+   "t": "¡Síii!"
+  }
+ ]
+}

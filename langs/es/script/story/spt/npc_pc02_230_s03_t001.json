@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc02_230_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "f75b8ca5a0e5",
+   "t": "Ay, ay..."
+  },
+  {
+   "i": 1038,
+   "src": "33460b7a0c93",
+   "t": "Tengo el pelo y la ropa llenos de polvo."
+  },
+  {
+   "i": 1046,
+   "src": "e5d50db4d376",
+   "t": "Al llegar a casa, directa a la tina..."
+  },
+  {
+   "i": 1049,
+   "src": "0f325719d843",
+   "t": "¿Saldrá esto si lo lavo?..."
+  },
+  {
+   "i": 1070,
+   "src": "5889d9577f32",
+   "t": "Oye."
+  },
+  {
+   "i": 1073,
+   "src": "bec9556f4a48",
+   "t": "¿Qué tanto miras?"
+  },
+  {
+   "i": 1081,
+   "src": "cf27282768f0",
+   "t": "¿Por qué no vuelves a tu dichosa"
+  },
+  {
+   "i": 1084,
+   "src": "d7845592d6e4",
+   "t": "investigación? Déjame en paz."
+  }
+ ]
+}

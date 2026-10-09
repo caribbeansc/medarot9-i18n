@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_g_f3a2.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "971401ef6732",
+   "t": "{{kikuyo}}"
+  },
+  {
+   "i": 1038,
+   "src": "1bf8442989a7",
+   "t": "I'm glad there are so many good\nfirst-years this year."
+  },
+  {
+   "i": 1041,
+   "src": "a35af70fb81b",
+   "t": "With them, I could retire anytime."
+  },
+  {
+   "i": 1049,
+   "src": "262f61850e7e",
+   "t": "Or is that getting a little ahead of\nmyself?"
+  },
+  {
+   "i": 1052,
+   "src": "68143015e243",
+   "t": "Ha ha."
+  }
+ ]
+}

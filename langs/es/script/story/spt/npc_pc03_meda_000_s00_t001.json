@@ -1,0 +1,10 @@
+{
+ "file": "story/spt/npc_pc03_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "23ebc288d883",
+   "t": "{{sango}}(F)"
+  }
+ ]
+}

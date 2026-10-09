@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description37.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8921b7125b02",
+   "t": "{{response|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "8ff3ce8d7e32",
+   "t": "What the <c:ffff00>{{target}}<c> does in reaction to an <c:ffff00>attack<c>.\nBefore taking it, the <c:ffff00>{{part}}<c> that responds is chosen: if\nit can <c:ffff00>defend<c>, it defends; if it can <c:ffff00>evade<c>, it tries to\nevade; if not, it <c:ffff00>takes it<c> as is. In <c:ffff00>{{medachange_form}}<c>,\ndefense or evasion is chosen instead of a {{part}}, that\nis, the act itself.\nIf a {{medabot}} is in <c:ffff00>{{guard}} Stance<c>, an <c:ffff00>{{interrupt_guard}}<c>\ntakes place. If the {{opponent}}'s attack is an <c:ffff00>Aimshot<c>,\nno {{response}} is possible."
+  }
+ ]
+}

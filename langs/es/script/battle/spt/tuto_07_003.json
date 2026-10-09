@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/tuto_07_003.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "84beed2c2e84",
+   "t": "¡Se transformó!     "
+  },
+  {
+   "i": 1125,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1131,
+   "src": "322ac5268527",
+   "t": "{{medachange}} exitoso. Ya cambiaron el\n<c:ff00ff>{{stats}}, {{leg_type}} y rasgos<c>.         "
+  },
+  {
+   "i": 1136,
+   "src": "57ebead24180",
+   "t": "<c:ff00ff>Sin todas tus {{part|pl}} no te transformas<c>,\n"
+  },
+  {
+   "i": 1137,
+   "src": "319a6a0e34fc",
+   "t": "así que cuídalas antes de transformarte."
+  },
+  {
+   "i": 1142,
+   "src": "f112875af334",
+   "t": "Esta vez cargaste al 100%, pero con\n<c:ff00ff>20% o más<c> puedes hacer {{medachange}}.                 "
+  }
+ ]
+}

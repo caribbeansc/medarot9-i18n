@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc05_161_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "57fa6e6bf86b",
+   "t": "¡Déjamelo a mí!"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_1e_meda_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f61635231b42",
+   "t": "{{fluffy_hair}}"
+  },
+  {
+   "i": 1038,
+   "src": "d5c5f2afb644",
+   "t": "Who's the {{vice_principal}}?"
+  },
+  {
+   "i": 1041,
+   "src": "69a44a2cfadb",
+   "t": "Is he the same as the {{principal}}?"
+  },
+  {
+   "i": 1051,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1057,
+   "src": "e5e6c858b78f",
+   "t": "They're totally different, Fluffy-chan."
+  },
+  {
+   "i": 1065,
+   "src": "c60c94b42c67",
+   "t": "The {{principal}} is scary, you never know\nwhat he's thinking."
+  },
+  {
+   "i": 1068,
+   "src": "1a64d17023e9",
+   "t": "The {{vice_principal}}--"
+  },
+  {
+   "i": 1076,
+   "src": "b917b594407f",
+   "t": "is a gentleman!"
+  }
+ ]
+}

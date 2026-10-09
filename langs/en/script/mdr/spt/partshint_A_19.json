@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_19.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5a29d230ccb8",
+   "t": "<c:00ff00>{{mf}}:<c> Lightning\nA melee attack that halts\nthe actions of the whole\nopposing team for a\nwhile.\n<c:00ffff>{{required_parts}}<c>\nOne or more fighting\n{{part|pl}}"
+  }
+ ]
+}

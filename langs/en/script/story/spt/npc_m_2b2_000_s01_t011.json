@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2b2_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "6b121c309af4",
+   "t": "I'm in the {{ski_club}}."
+  },
+  {
+   "i": 1046,
+   "src": "4d2c1c854ca3",
+   "t": "...Huh, what do I do in summer?"
+  },
+  {
+   "i": 1054,
+   "src": "5920583c08fd",
+   "t": "Ha ha, you won't believe it, but this\nisland"
+  },
+  {
+   "i": 1057,
+   "src": "4c3319ec46b7",
+   "t": "has a ski slope just for our {{club}}!"
+  },
+  {
+   "i": 1065,
+   "src": "5f877cec0789",
+   "t": "An outdoor one with artificial snow."
+  },
+  {
+   "i": 1068,
+   "src": "91ab9d816b04",
+   "t": "Well, the Mega {{conglomerate}} is our\nsponsor, after all."
+  }
+ ]
+}

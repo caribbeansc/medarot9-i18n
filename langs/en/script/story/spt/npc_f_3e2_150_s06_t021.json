@@ -1,0 +1,130 @@
+{
+ "file": "story/spt/npc_f_3e2_150_s06_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1035,
+   "src": "45647efcad90",
+   "t": "Suzune was the first Council President?"
+  },
+  {
+   "i": 1038,
+   "src": "fa22e51925d7",
+   "t": "No."
+  },
+  {
+   "i": 1045,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1051,
+   "src": "277c662adc27",
+   "t": "Huh, really?"
+  },
+  {
+   "i": 1058,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1064,
+   "src": "953712023c92",
+   "t": "The first one was a different boy."
+  },
+  {
+   "i": 1067,
+   "src": "233804e33109",
+   "t": "Suzune succeeded him and took over as\nPresident."
+  },
+  {
+   "i": 1074,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1080,
+   "src": "44c4fa2de7a3",
+   "t": "...?"
+  },
+  {
+   "i": 1088,
+   "src": "e14d60d78480",
+   "t": "Isn't that weird?"
+  },
+  {
+   "i": 1091,
+   "src": "5599fca8b36e",
+   "t": "Our school is in its third year since\nfounding, right?"
+  },
+  {
+   "i": 1099,
+   "src": "8da485b51f74",
+   "t": "There aren't any graduates."
+  },
+  {
+   "i": 1102,
+   "src": "7ebaedfb49f6",
+   "t": "What do you mean by 'succeeded'...?"
+  },
+  {
+   "i": 1109,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1115,
+   "src": "74007f84fa04",
+   "t": "He resigned."
+  },
+  {
+   "i": 1118,
+   "src": "ab988ceb7868",
+   "t": "Before even a year passed."
+  },
+  {
+   "i": 1125,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1131,
+   "src": "37a3138dd5a6",
+   "t": "Wow!"
+  },
+  {
+   "i": 1134,
+   "src": "ae19ec1ceaaf",
+   "t": "Why was that?"
+  },
+  {
+   "i": 1141,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1147,
+   "src": "5d46de91005e",
+   "t": "Mm, I don't know the Council's inner\nworkings..."
+  },
+  {
+   "i": 1150,
+   "src": "e5191cd79782",
+   "t": "Well, I guess a lot went on."
+  },
+  {
+   "i": 1157,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1163,
+   "src": "cf7de3b2162a",
+   "t": "Hmm..."
+  }
+ ]
+}

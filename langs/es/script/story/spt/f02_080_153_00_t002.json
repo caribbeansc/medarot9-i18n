@@ -1,0 +1,180 @@
+{
+ "file": "story/spt/f02_080_153_00_t002.spt",
+ "lines": [
+  {
+   "i": 1136,
+   "src": "2bc84c984015",
+   "t": "¡Es aquí!"
+  },
+  {
+   "i": 1139,
+   "src": "ade7a74cdd2b",
+   "t": "¡Aquí es por donde entraron!"
+  },
+  {
+   "i": 1144,
+   "src": "67ce7e6f7644",
+   "t": "¿Eh? Este es el cuarto de {{aoi}}, ¿no?"
+  },
+  {
+   "i": 1147,
+   "src": "9529e8943c4d",
+   "t": "¿En serio?"
+  },
+  {
+   "i": 1152,
+   "src": "66760ffab872",
+   "t": "¡No estoy mintiendo!"
+  },
+  {
+   "i": 1155,
+   "src": "b8ee81cef571",
+   "t": "¡Seguro siguen adentro!"
+  },
+  {
+   "i": 1160,
+   "src": "b8b4d1d94eaa",
+   "t": "¿Qué hacemos?"
+  },
+  {
+   "i": 1165,
+   "src": "c91be7c5a726",
+   "t": "Primero deberíamos avisarle a la\nceladora--"
+  },
+  {
+   "i": 1170,
+   "src": "fe4ca743f068",
+   "t": "Deberíamos revisar primero--"
+  },
+  {
+   "i": 1186,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1197,
+   "src": "097225aca66f",
+   "t": "Creo que sería lo mejor"
+  },
+  {
+   "i": 1200,
+   "src": "795150d3c885",
+   "t": "que no salieran de aquí ahora mismo."
+  },
+  {
+   "i": 1211,
+   "src": "26906ed28305",
+   "t": "Qué..."
+  },
+  {
+   "i": 1214,
+   "src": "0a7d74c8c084",
+   "t": "¿¡Qué pasa si me atrapan!?"
+  },
+  {
+   "i": 1219,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1228,
+   "src": "fdc3e729d4ef",
+   "t": "Bueno, nunca he oído de algo así"
+  },
+  {
+   "i": 1231,
+   "src": "6151a17fa453",
+   "t": "antes... ¿No serán el primer caso?"
+  },
+  {
+   "i": 1248,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1257,
+   "src": "e361352d43a1",
+   "t": "En el peor caso terminarías expulsado"
+  },
+  {
+   "i": 1260,
+   "src": "7a5d2746e482",
+   "t": "tras pasar por el hospital. Jajaja."
+  },
+  {
+   "i": 1271,
+   "src": "228e70018393",
+   "t": "¡Esto no es cosa de risa!"
+  },
+  {
+   "i": 1274,
+   "src": "26a50fd81d17",
+   "t": "¿Recién entré y ya me expulsan?"
+  },
+  {
+   "i": 1293,
+   "src": "1ed58f8f5b9e",
+   "t": "Oye."
+  },
+  {
+   "i": 1308,
+   "src": "e98474bc3355",
+   "t": "¡De ninguna manera!"
+  },
+  {
+   "i": 1311,
+   "src": "9ffe39a102ab",
+   "t": "¡Eso es un problema!"
+  },
+  {
+   "i": 1333,
+   "src": "719837ca91e4",
+   "t": "Oye, oye."
+  },
+  {
+   "i": 1343,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1349,
+   "src": "76aac5f3fb87",
+   "t": "¿Qué pasa? "
+  },
+  {
+   "i": 1351,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1377,
+   "src": "39e9cd7ec3d1",
+   "t": "Hay mucho alboroto allá afuera, pero"
+  },
+  {
+   "i": 1380,
+   "src": "cb7b849747f3",
+   "t": "quieres salir de aquí sin ir por allá, ¿no?"
+  },
+  {
+   "i": 1386,
+   "src": "39e9cd7ec3d1",
+   "t": "Se ve caótico allá, pero"
+  },
+  {
+   "i": 1389,
+   "src": "bed22f9c6d3c",
+   "t": "quieres salir de aquí sin ir por allá, ¿no?"
+  },
+  {
+   "i": 1411,
+   "src": "6e48fddae220",
+   "t": "Entonces..."
+  },
+  {
+   "i": 1417,
+   "src": "aaa2ddb6c6ff",
+   "t": "Entonces..."
+  }
+ ]
+}

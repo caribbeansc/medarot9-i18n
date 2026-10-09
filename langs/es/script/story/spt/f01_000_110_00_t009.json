@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f01_000_110_00_t009.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1042,
+   "src": "6b8bbf9606ca",
+   "t": "Este es tu {{partner}}."
+  },
+  {
+   "i": 1053,
+   "src": "a743c2ac2de3",
+   "t": "Eh..."
+  },
+  {
+   "i": 1058,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1064,
+   "src": "7e4127f5c950",
+   "t": "Te investigué."
+  },
+  {
+   "i": 1067,
+   "src": "f9b37802b952",
+   "t": "Parece que no tienes un {{medabot}}."
+  },
+  {
+   "i": 1076,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1082,
+   "src": "eb3196d80a6c",
+   "t": "¡¿Qué?! ¿En serio?"
+  },
+  {
+   "i": 1097,
+   "src": "6f75fff71bfd",
+   "t": "N-no, ¡en realidad sí tengo uno!"
+  },
+  {
+   "i": 1100,
+   "src": "4bd91f590cfa",
+   "t": "¡...Lo tenía!"
+  },
+  {
+   "i": 1108,
+   "src": "26594ded7fe1",
+   "t": "Pero--"
+  },
+  {
+   "i": 1116,
+   "src": "b2379c73a6ff",
+   "t": "Es que--"
+  },
+  {
+   "i": 1131,
+   "src": "960c2532177c",
+   "t": "Por alguna razón terminamos peleando\ny separándonos..."
+  },
+  {
+   "i": 1136,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1145,
+   "src": "01f2e1f2738d",
+   "t": "¿Así que entraste sin un {{partner}}?"
+  },
+  {
+   "i": 1148,
+   "src": "8647952cc7b7",
+   "t": "Vaya, qué sorpresa~."
+  },
+  {
+   "i": 1155,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1164,
+   "src": "5832b2dc8fff",
+   "t": "Qué..."
+  },
+  {
+   "i": 1172,
+   "src": "b4086094d274",
+   "t": "¡¿Qué está pasando, {{principal|cap}}?!"
+  },
+  {
+   "i": 1177,
+   "src": "e22d72c274eb",
+   "t": "Una semana tarde y exento de {{exam}}."
+  },
+  {
+   "i": 1180,
+   "src": "eab3970e7658",
+   "t": "Todo fue inaudito, pero se permitió"
+  },
+  {
+   "i": 1192,
+   "src": "c56bdbf8aaa9",
+   "t": "por la recomendación del {{principal}}."
+  },
+  {
+   "i": 1195,
+   "src": "8b7ea93818cb",
+   "t": "Creí que tenía talento extraordinario."
+  },
+  {
+   "i": 1200,
+   "src": "ac91def5b721",
+   "t": "Pero ¿qué es esto?"
+  },
+  {
+   "i": 1207,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1213,
+   "src": "6fd821029d4d",
+   "t": "Las explicaciones pueden esperar. Por\nahora--"
+  },
+  {
+   "i": 1221,
+   "src": "ab63961e19de",
+   "t": "Desde hoy eres el {{master}} de este"
+  },
+  {
+   "i": 1224,
+   "src": "b40d0e38c4fa",
+   "t": "Medabot. ¿Entendido?"
+  },
+  {
+   "i": 1232,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

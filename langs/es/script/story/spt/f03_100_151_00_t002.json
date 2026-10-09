@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f03_100_151_00_t002.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1036,
+   "src": "6f3a35746329",
+   "t": "?"
+  },
+  {
+   "i": 1044,
+   "src": "871ab3b64fc0",
+   "t": "Así es."
+  },
+  {
+   "i": 1049,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1055,
+   "src": "de029d1a6ff6",
+   "t": "Olvidé mencionar algo."
+  },
+  {
+   "i": 1058,
+   "src": "34ee5e17db9a",
+   "t": "Bueno, no yo, sino el presidente..."
+  },
+  {
+   "i": 1066,
+   "src": "f1c9217bd5e0",
+   "t": "Mañana después de clases"
+  },
+  {
+   "i": 1069,
+   "src": "6dcb5761245d",
+   "t": "hay un torneo de {{robattle|pl}}."
+  },
+  {
+   "i": 1079,
+   "src": "f3a565aa9e08",
+   "t": "¿¡Mañana!?"
+  },
+  {
+   "i": 1084,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1090,
+   "src": "42e392ed4b09",
+   "t": "Es un torneo entre clubes. Claro,"
+  },
+  {
+   "i": 1093,
+   "src": "ceefb13afaf8",
+   "t": "el {{exploration_club}} debe participar."
+  },
+  {
+   "i": 1101,
+   "src": "34c53dab3992",
+   "t": "Tú también vas a participar."
+  },
+  {
+   "i": 1109,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1117,
+   "src": "063fa655fd4a",
+   "t": "¡Entendido!"
+  }
+ ]
+}

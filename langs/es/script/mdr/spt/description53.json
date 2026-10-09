@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description53.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "55b99ad89d13",
+   "t": "{{negative_status|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "04ceee1d2099",
+   "t": "Efecto auxiliar automático que perjudica al <c:ffff00>{{medabot}}<c>.\nLo aplican sobre todo las <c:ffff00>técnicas<c> de <c:ffff00>habilidad de<c>\n<c:ffff00>combate<c> y <c:ffff00>disparo<c> del {{opponent}}. Un {{medabot}} mantiene\nhasta 6 tipos a la vez; si se supera, desaparecen los\nmás antiguos. Duran un tiempo o un número fijo de\n<c:ffff00>acciones<c>, y algunos se anulan con condiciones\nconcretas.\nAl acumular el mismo {{negative_status}}, su tiempo o\nnúmero se reinicia."
+  }
+ ]
+}

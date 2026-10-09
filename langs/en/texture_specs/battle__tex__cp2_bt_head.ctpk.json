@@ -1,0 +1,473 @@
+{
+ "rel": "battle/tex/cp2_bt_head.ctpk",
+ "base": "jp",
+ "styles": {
+  "peq": {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "pad": 0,
+   "fill": "#FFFFFF",
+   "stroke": "#454545B8",
+   "stroke_w": 1.3,
+   "crisp": 0.3,
+   "min_scale_x": 0.75
+  },
+  "tit": {
+   "erase": "none",
+   "font": "avenir-cond-heavy-italic",
+   "italic_skew": 0.12,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFCCBE"
+     ],
+     [
+      0.45,
+      "#FFC4B2"
+     ],
+     [
+      0.6,
+      "#FC8575"
+     ],
+     [
+      1,
+      "#F86649"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#E5230E",
+     "w": 1.9
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "style": "peq",
+   "box": [
+    6,
+    5,
+    36,
+    13
+   ],
+   "erase_box": [
+    4,
+    3,
+    40,
+    17
+   ],
+   "text": "Head",
+   "baseline": 16
+  },
+  {
+   "style": "peq",
+   "box": [
+    52,
+    5,
+    39,
+    13
+   ],
+   "erase_box": [
+    50,
+    0,
+    43,
+    20
+   ],
+   "text": "L-Arm",
+   "baseline": 16
+  },
+  {
+   "style": "peq",
+   "box": [
+    102,
+    5,
+    37,
+    13
+   ],
+   "erase_box": [
+    100,
+    0,
+    41,
+    20
+   ],
+   "text": "R-Arm",
+   "baseline": 16
+  },
+  {
+   "style": "peq",
+   "box": [
+    150,
+    5,
+    36,
+    13
+   ],
+   "erase_box": [
+    148,
+    0,
+    40,
+    20
+   ],
+   "text": "Take",
+   "baseline": 16
+  },
+  {
+   "style": "peq",
+   "box": [
+    196,
+    5,
+    25,
+    13
+   ],
+   "erase_box": [
+    194,
+    0,
+    29,
+    20
+   ],
+   "text": "Eva.",
+   "baseline": 16,
+   "cap": 9
+  },
+  {
+   "style": "peq",
+   "box": [
+    9,
+    29,
+    48,
+    13
+   ],
+   "erase_box": [
+    7,
+    27,
+    52,
+    17
+   ],
+   "text": "Legs",
+   "baseline": 40
+  },
+  {
+   "style": "peq",
+   "box": [
+    64,
+    29,
+    63,
+    13
+   ],
+   "erase_box": [
+    62,
+    22,
+    65,
+    22
+   ],
+   "text": "Def. L-Arm",
+   "baseline": 40
+  },
+  {
+   "style": "peq",
+   "box": [
+    128,
+    29,
+    63,
+    13
+   ],
+   "erase_box": [
+    128,
+    22,
+    64,
+    22
+   ],
+   "text": "Def. R-Arm",
+   "baseline": 40
+  },
+  {
+   "box": [
+    0,
+    48,
+    168,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    168,
+    44,
+    56,
+    27
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    168,
+    76,
+    88,
+    26
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    78,
+    79,
+    84,
+    24
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "tit",
+   "box": [
+    8,
+    50,
+    94,
+    27
+   ],
+   "text": "DEFENSE",
+   "cap": 15,
+   "baseline": 72
+  },
+  {
+   "style": "tit",
+   "box": [
+    106,
+    50,
+    58,
+    27
+   ],
+   "text": "SELECT",
+   "cap": 12,
+   "baseline": 72
+  },
+  {
+   "style": "tit",
+   "box": [
+    170,
+    44,
+    52,
+    27
+   ],
+   "text": "PART",
+   "cap": 15,
+   "baseline": 66
+  },
+  {
+   "style": "tit",
+   "box": [
+    176,
+    76,
+    78,
+    26
+   ],
+   "text": "ACTION",
+   "cap": 15,
+   "baseline": 96
+  },
+  {
+   "style": "tit",
+   "box": [
+    80,
+    79,
+    78,
+    23
+   ],
+   "text": "TARGET",
+   "cap": 15,
+   "baseline": 98
+  },
+  {
+   "style": "peq",
+   "box": [
+    90,
+    105,
+    33,
+    16
+   ],
+   "erase_box": [
+    88,
+    98,
+    36,
+    26
+   ],
+   "text": "Broken!",
+   "cap": 11
+  },
+  {
+   "style": "peq",
+   "box": [
+    129,
+    105,
+    38,
+    16
+   ],
+   "erase_box": [
+    127,
+    98,
+    40,
+    26
+   ],
+   "text": "Succ.",
+   "cap": 11
+  },
+  {
+   "style": "peq",
+   "box": [
+    168,
+    105,
+    39,
+    16
+   ],
+   "erase_box": [
+    168,
+    98,
+    39,
+    26
+   ],
+   "text": "Acc.",
+   "cap": 11
+  },
+  {
+   "style": "peq",
+   "box": [
+    208,
+    112,
+    46,
+    14
+   ],
+   "erase_box": [
+    207,
+    111,
+    49,
+    17
+   ],
+   "text": "Charge",
+   "cap": 8.5,
+   "stroke": "#000000B0",
+   "stroke_w": 1.0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.6
+   },
+   "fill": "#FFFFFF",
+   "baseline": 122
+  },
+  {
+   "box": [
+    148,
+    219,
+    28,
+    10
+   ],
+   "erase_box": [
+    147,
+    218,
+    31,
+    12
+   ],
+   "erase": "transparent",
+   "text": "Combo",
+   "font": "sf-cond-heavy",
+   "cap": 7.5,
+   "pad": 0,
+   "fill": "#DADADA",
+   "stroke": "#323232",
+   "stroke_w": 1.0,
+   "crisp": 0,
+   "min_scale_x": 0.75
+  },
+  {
+   "box": [
+    131,
+    234,
+    43,
+    12
+   ],
+   "erase_box": [
+    130,
+    233,
+    45,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Aimshot",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "pad": 0,
+   "fill": {
+    "top": "#8BF2F9",
+    "bottom": "#59BFE4"
+   },
+   "stroke": "#140B0DD0",
+   "stroke_w": 1.0,
+   "min_scale_x": 0.75
+  },
+  {
+   "box": [
+    117,
+    149,
+    25,
+    8
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 1,
+   "text": "WAIT",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "pad": 0,
+   "fill": "#F1F1F1",
+   "stroke": null,
+   "crisp": 0,
+   "baseline": 155,
+   "dx": 0
+  },
+  {
+   "box": [
+    197,
+    134,
+    8,
+    7
+   ],
+   "erase": "solid:#17563A",
+   "text": ""
+  },
+  {
+   "box": [
+    199,
+    133,
+    6,
+    1
+   ],
+   "erase": "solid:#17563A",
+   "text": ""
+  },
+  {
+   "box": [
+    196,
+    133,
+    9,
+    8
+   ],
+   "erase": "none",
+   "text": "D",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "pad": 0,
+   "fill": "#79F1DF",
+   "stroke": null,
+   "crisp": 0
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_110.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "00cc474e9dbc",
+   "t": "<c:00ff00>Action:<c> {{disrupt_clear}}\nCancels the negative\nstatuses of one allied\n{{medabot}} and applies an\n{{effect}} that nullifies a\n{{negative_status}} once."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_1a_117_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1035,
+   "src": "6bdc1aa758af",
+   "t": "I mean, well"
+  },
+  {
+   "i": 1038,
+   "src": "f4b7ad338e06",
+   "t": "they are a little cute, sure, but?"
+  },
+  {
+   "i": 1046,
+   "src": "46ce1dfa090f",
+   "t": "Still, the way the boys act!"
+  },
+  {
+   "i": 1049,
+   "src": "338ef81bb670",
+   "t": "Isn't it way too obvious?"
+  },
+  {
+   "i": 1061,
+   "src": "49b1635d597d",
+   "t": "-kun, what do you think?"
+  },
+  {
+   "i": 1072,
+   "src": "ad3cb5700c50",
+   "t": "Huh?"
+  },
+  {
+   "i": 1080,
+   "src": "f0655c2b048b",
+   "t": "N-no, nothing..."
+  }
+ ]
+}

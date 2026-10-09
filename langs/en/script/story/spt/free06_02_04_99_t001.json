@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_02_04_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "The {{mission}} we're on now is 'Medalia"
+  },
+  {
+   "i": 1004,
+   "src": "f7ca04c4fd7f",
+   "t": "Collection: Mine Cart Station'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Check the mission app for more details."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description107.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "16e0a48164b7",
+   "t": "{{success|cap}} (rend.)"
+  },
+  {
+   "i": 11,
+   "src": "d8f35c9ed359",
+   "t": "Tipo de <c:ffff00>{{stats}}<c> de <c:ffff00>{{part|pl}}<c> de <c:ffff00>{{head}}<c> y <c:ffff00>brazos<c>.\n\nMide lo fácil que es acertar y la precisión del\n<c:ffff00>ataque<c>.\nA mayor valor, sube el <c:ffff00>{{success_power}}<c> y, aunque\npoco, también el <c:ffff00>{{damage}}<c> infligido.\n\nSolo se relaciona con las {{part|pl}} de ataque; en las\ndemás se muestra \"-\"."
+  }
+ ]
+}

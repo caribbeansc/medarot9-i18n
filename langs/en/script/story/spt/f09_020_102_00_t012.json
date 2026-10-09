@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f09_020_102_00_t012.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1038,
+   "src": "91908cc727dc",
+   "t": "What is it?"
+  },
+  {
+   "i": 1046,
+   "src": "43e49f406aeb",
+   "t": "But I don't have any duct tape."
+  },
+  {
+   "i": 1051,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1057,
+   "src": "fdd2ea01c6d6",
+   "t": "Duct tape..."
+  },
+  {
+   "i": 1067,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 1073,
+   "src": "460e70be1c19",
+   "t": "The duct tape is in that box over there."
+  },
+  {
+   "i": 1076,
+   "src": "294151ab96c2",
+   "t": "Go take a look."
+  }
+ ]
+}

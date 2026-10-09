@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_34.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d5b92c55db0b",
+   "t": "<c:00ff00>Leg Trait:<c> {{clairvoyance}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"{{radar_sight}}\"."
+  }
+ ]
+}

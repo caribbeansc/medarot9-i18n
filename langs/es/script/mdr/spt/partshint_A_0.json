@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_0.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "34f014ce4f66",
+   "t": "<c:00ff00>{{mf}}:<c>Tirano\nArremete contra un\n{{enemy}} con todas las\n{{part|pl}} de ataque.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nDos o más {{part|pl}} de\nataque"
+  }
+ ]
+}

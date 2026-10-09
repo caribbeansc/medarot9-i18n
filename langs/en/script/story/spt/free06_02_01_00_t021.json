@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free06_02_01_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "d360bc7ed966",
+   "t": "Quest '{{medalia}} Collection: {{storehouse}}'\nstarted!"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "393c832e3eb3",
+   "t": "All right, let's go."
+  },
+  {
+   "i": 1049,
+   "src": "a74ec321dda2",
+   "t": "...You know the way already."
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "cfb254f2fea4",
+   "t": "Even just \"storehouse,\" it's surprisingly\nbig."
+  },
+  {
+   "i": 1065,
+   "src": "b27415232192",
+   "t": "Let's walk around listening for the\ndetector's sound."
+  }
+ ]
+}

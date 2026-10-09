@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2b2_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "113f66ced3d9",
+   "t": "{{medalia|pl}} are sometimes lying on the\nground,"
+  },
+  {
+   "i": 1041,
+   "src": "f95a4005e88c",
+   "t": "but {{stray|cap}} {{medabot|pl}} may have them too.\nBe careful."
+  },
+  {
+   "i": 1049,
+   "src": "b6bea14a2679",
+   "t": "It's such a letdown when you walk up\nall eager"
+  },
+  {
+   "i": 1052,
+   "src": "037ef3511f03",
+   "t": "and a strong Stray pops out to say hi."
+  }
+ ]
+}

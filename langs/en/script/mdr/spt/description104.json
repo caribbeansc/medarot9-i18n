@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description104.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bb669325cbba",
+   "t": "Special (skill)"
+  },
+  {
+   "i": 11,
+   "src": "6b1fa622b6f4",
+   "t": "An <c:ffff00>action<c> that belongs to no <c:ffff00>skill<c>.\n\nUnlike other skills, <c:ffff00>{{skill_level}}<c> has no {{effect}} on the\nspeed of <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c> or on the {{effect}}."
+  }
+ ]
+}

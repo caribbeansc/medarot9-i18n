@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_030_161_00_t014.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "31b1d539ff4d",
+   "t": "It's noisy outside."
+  },
+  {
+   "i": 1042,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1051,
+   "src": "f63d2dee711c",
+   "t": "I wonder if something else happened..."
+  },
+  {
+   "i": 1058,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1067,
+   "src": "707ba2f82cd6",
+   "t": "Shall we go?"
+  }
+ ]
+}

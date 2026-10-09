@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_168.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4c3f0876e971",
+   "t": "<c:00ff03>Action:<c> {{fighting_drone}}\nSets a device that\nfires a melee\nCrossfire with allied\nattacks. Setting it\nrepeatedly raises\n{{armor}} and attack\npower."
+  }
+ ]
+}

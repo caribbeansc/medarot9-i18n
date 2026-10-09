@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description69.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9ca50f8b4ebd",
+   "t": "{{rocky_ground|cap}} ({{field}})"
+  },
+  {
+   "i": 11,
+   "src": "8751dc8c1d39",
+   "t": "Un tipo de <c:ffff00>{{field}}<c> donde se hace la <c:ffff00>{{robattle}}<c>.\n{{terrain|cap}} de suelo y pendientes cubiertos de rocas\nirregulares, con grandes desniveles.\nLa <c:ffff00>{{terrain_affinity}}<c> modifica la <c:ffff00>{{mobility}}<c>, el\n<c:ffff00>{{fighting}}<c> y el <c:ffff00>{{shooting}}<c> de cada <c:ffff00>{{leg_type}}<c>:\n  <c:ffff00>{{biped|cap}}<c> +4, <c:ffff00>{{multi_leg}}<c> +6, <c:ffff00>{{vehicle}}<c> -4, <c:ffff00>{{tank}}<c> 0,\n  <c:ffff00>{{hover}}<c> +4, <c:ffff00>{{flying}}<c> 0, <c:ffff00>{{submarine}}<c> 0."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f10_010_500_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1035,
+   "src": "338b9081d211",
+   "t": "That ship really bothers me."
+  },
+  {
+   "i": 1038,
+   "src": "2d58cccea063",
+   "t": "Maybe it's about time... {{robo}}."
+  }
+ ]
+}

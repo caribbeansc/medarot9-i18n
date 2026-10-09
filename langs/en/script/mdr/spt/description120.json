@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description120.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "305a51cb20d2",
+   "t": "Berserk (sub-skill)"
+  },
+  {
+   "i": 11,
+   "src": "89ae28655454",
+   "t": "A <c:ffff00>sub-skill<c> for <c:ffff00>melee<c> attacks that deals <c:ffff00>{{damage}}<c> to\n<c:ffff00>{{all_parts}}<c> with a powerful impact.\nWith any <c:ffff00>action<c>, it applies the <c:ffff00>{{damage_trait}}<c> of all\nparts, and since the whole body's momentum goes\ninto the <c:ffff00>attack<c>, the <c:ffff00>{{mobility}}<c> of the <c:ffff00>legs<c> is added to\n<c:ffff00>{{power}}<c>.\nThe violent movement leaves it wide open after\nattacking: during the <c:ffff00>{{cooldown}}<c> of a Berserk <c:ffff00>act<c>, it is\n<c:ffff00>unable to defend<c> and <c:ffff00>unable to evade<c>."
+  }
+ ]
+}

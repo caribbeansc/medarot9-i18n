@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_119.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fe1c8283338b",
+   "t": "<c:00ff00>Técnica:<c>{{revive_game_term}}\nRestaura todas las {{part|pl}}\nde un {{medabot}} {{ally_battle_term}}."
+  }
+ ]
+}

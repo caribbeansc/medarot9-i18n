@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_62.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4da39175ad24",
+   "t": "{{medabot}} {{type}} serpiente de\ncolmillos venenosos.\n \nSu arma es el ataque\n{{virus}}, que anula el juicio\ndel {{opponent}}: lo liquida sin\ndejarlo actuar."
+  }
+ ]
+}

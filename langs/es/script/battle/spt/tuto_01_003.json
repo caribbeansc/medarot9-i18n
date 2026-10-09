@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_01_003.spt",
+ "lines": [
+  {
+   "i": 1083,
+   "src": "b650e5dafd01",
+   "t": "Tras actuar, la {{part}} se sobrecalienta\ny requiere \"<c:ff00ff>{{cooldown}}<c>\".                        "
+  },
+  {
+   "i": 1106,
+   "src": "d4a6d31b3582",
+   "t": "Ahora la barra se vuelve naranja\ny va disminuyendo.                  "
+  },
+  {
+   "i": 1111,
+   "src": "806eaebb746a",
+   "t": "Hasta que termine el {{cooldown}},\nno se puede dar el siguiente comando.           "
+  },
+  {
+   "i": 1128,
+   "src": "2503227b1a6c",
+   "t": "La {{prep}} y el {{cooldown}} varían según\nla {{part}}, así que...                                                            "
+  },
+  {
+   "i": 1133,
+   "src": "d63815296a15",
+   "t": "Al elegir comandos, mira bien los datos\nde la ventana de estado y piensa.            "
+  }
+ ]
+}

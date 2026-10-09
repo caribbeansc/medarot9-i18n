@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f02_010_115_00.spt",
+ "lines": [
+  {
+   "i": 871,
+   "src": "503d8f0992d8",
+   "t": "Accept"
+  },
+  {
+   "i": 872,
+   "src": "90fbdf4628d2",
+   "t": "Decline"
+  },
+  {
+   "i": 876,
+   "src": "90fbdf4628d2",
+   "t": "Decline"
+  }
+ ]
+}

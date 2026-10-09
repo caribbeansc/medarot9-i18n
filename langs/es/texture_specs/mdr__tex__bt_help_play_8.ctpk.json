@@ -1,0 +1,31 @@
+{
+ "rel": "mdr/tex/bt_help_play_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    16,
+    0,
+    30,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Ver",
+   "font": "compact-rounded-heavy",
+   "cap": 8,
+   "fill": {
+    "top": "#3A4355",
+    "bottom": "#0C1324"
+   },
+   "stroke": "#FFFFFF",
+   "stroke_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "pad": [
+    3,
+    1
+   ],
+   "tracking": 0.5
+  }
+ ]
+}

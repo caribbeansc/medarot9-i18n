@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_3e_meda_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a406e2127b08",
+   "t": "SaishouGunshi"
+  },
+  {
+   "i": 1038,
+   "src": "c49852ad6646",
+   "t": "I went back to my hometown with my\n{{master}} for the first time in ages,"
+  },
+  {
+   "i": 1041,
+   "src": "24e7aed65add",
+   "t": "and entered the local {{robattle}}\ntournament."
+  },
+  {
+   "i": 1049,
+   "src": "67813945709f",
+   "t": "And I ended up winning it!"
+  },
+  {
+   "i": 1057,
+   "src": "2c89a78d6f14",
+   "t": "Even though I always get pounded here."
+  },
+  {
+   "i": 1060,
+   "src": "43b9f1d0be3c",
+   "t": "I'm happy, but I was so surprised!"
+  }
+ ]
+}

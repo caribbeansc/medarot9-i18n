@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f01_000_110_00_t008_1.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "4c8baff4b493",
+   "t": "Revisa tu {{smartphone}}."
+  },
+  {
+   "i": 1043,
+   "src": "69bf64a6d51e",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1048,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1054,
+   "src": "38e28d6d267b",
+   "t": "Apúrate."
+  },
+  {
+   "i": 1062,
+   "src": "342c20413c8f",
+   "t": "¡Ah, sí!"
+  }
+ ]
+}

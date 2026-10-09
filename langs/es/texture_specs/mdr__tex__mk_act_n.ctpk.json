@@ -1,0 +1,305 @@
+{
+ "rel": "mdr/tex/mk_act_n.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+  "cap": 5,
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0,
+  "scale_x": 1,
+  "align": "center"
+ },
+ "items": [
+  {
+   "erase_box": [
+    [
+     9,
+     13,
+     30,
+     7
+    ],
+    [
+     10,
+     20,
+     29,
+     1
+    ]
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    10,
+    13,
+    29,
+    8
+   ],
+   "erase": "none",
+   "text": "COMBATE",
+   "baseline": 20,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    [
+     9,
+     25,
+     30,
+     7
+    ],
+    [
+     10,
+     32,
+     29,
+     1
+    ]
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    10,
+    25,
+    29,
+    8
+   ],
+   "erase": "none",
+   "text": "TRAMPA",
+   "baseline": 32,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    [
+     9,
+     37,
+     30,
+     7
+    ],
+    [
+     10,
+     44,
+     29,
+     1
+    ]
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    10,
+    37,
+    29,
+    8
+   ],
+   "erase": "none",
+   "text": "CURA",
+   "baseline": 44,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    [
+     9,
+     49,
+     30,
+     7
+    ],
+    [
+     10,
+     56,
+     29,
+     1
+    ]
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    10,
+    49,
+    29,
+    8
+   ],
+   "erase": "none",
+   "text": "DISPARO",
+   "baseline": 56,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    [
+     9,
+     61,
+     30,
+     7
+    ],
+    [
+     10,
+     68,
+     29,
+     1
+    ]
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    10,
+    61,
+    29,
+    8
+   ],
+   "erase": "none",
+   "text": "APOYO",
+   "baseline": 68,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    [
+     9,
+     73,
+     30,
+     7
+    ],
+    [
+     10,
+     80,
+     29,
+     1
+    ]
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    10,
+    73,
+    29,
+    8
+   ],
+   "erase": "none",
+   "text": "DEFENSA",
+   "baseline": 80,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    1,
+    110,
+    26,
+    8
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    110,
+    27,
+    8
+   ],
+   "erase": "none",
+   "text": "COMB.",
+   "baseline": 117,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    29,
+    110,
+    26,
+    8
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    29,
+    110,
+    27,
+    8
+   ],
+   "erase": "none",
+   "text": "DISP.",
+   "baseline": 117,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    1,
+    119,
+    26,
+    8
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    119,
+    27,
+    8
+   ],
+   "erase": "none",
+   "text": "APOYO",
+   "baseline": 126,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    29,
+    119,
+    26,
+    8
+   ],
+   "erase": "solid:#E8E8E8",
+   "text": ""
+  },
+  {
+   "box": [
+    29,
+    119,
+    27,
+    8
+   ],
+   "erase": "none",
+   "text": "TRAMPA",
+   "baseline": 126,
+   "fill": "#0B1B2B"
+  },
+  {
+   "erase_box": [
+    6,
+    101,
+    18,
+    7
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    6,
+    101,
+    18,
+    7
+   ],
+   "erase": "none",
+   "text": "BONO",
+   "baseline": 108,
+   "fill": "#E8E8E8"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f03_010_161_00_t009.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1052,
+   "src": "37836c70d604",
+   "t": "Wow, it actually works."
+  },
+  {
+   "i": 1055,
+   "src": "57efdcc26df5",
+   "t": "It was blank just the other day."
+  },
+  {
+   "i": 1065,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1074,
+   "src": "9e1e004d40f0",
+   "t": "Aren't you the president?"
+  },
+  {
+   "i": 1084,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1093,
+   "src": "6a1bef4da54e",
+   "t": "Well, I put it there and"
+  },
+  {
+   "i": 1096,
+   "src": "bc4065129894",
+   "t": "totally forgot about it."
+  },
+  {
+   "i": 1106,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1112,
+   "src": "d3d48b4a0026",
+   "t": "Well,"
+  },
+  {
+   "i": 1115,
+   "src": "e589a0fbad0b",
+   "t": "I just used it without asking..."
+  },
+  {
+   "i": 1123,
+   "src": "893d8e957a62",
+   "t": "Now that we finally have more\nmembers,"
+  },
+  {
+   "i": 1126,
+   "src": "2c022d0d034f",
+   "t": "I figured we could share it from now on."
+  },
+  {
+   "i": 1134,
+   "src": "d40ba72fc545",
+   "t": "So I look at this, and then"
+  },
+  {
+   "i": 1137,
+   "src": "9ce0aae86fb4",
+   "t": "'explore' whatever interests me, right?"
+  },
+  {
+   "i": 1152,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1158,
+   "src": "8bcf7dff0db0",
+   "t": "Yep, yep, that sounds good."
+  },
+  {
+   "i": 1161,
+   "src": "7512dadff5eb",
+   "t": "Wonderful."
+  },
+  {
+   "i": 1172,
+   "src": "13ab19e9ee9b",
+   "t": "From now on, picking a destination"
+  },
+  {
+   "i": 1175,
+   "src": "91c769b65d73",
+   "t": "and exploring it is called a '{{mission}}'."
+  },
+  {
+   "i": 1190,
+   "src": "3f0b5756b8e3",
+   "t": "It's starting to feel like a real {{club}}."
+  },
+  {
+   "i": 1193,
+   "src": "e30bf9961dfc",
+   "t": "Keep it up, keep it up, hahaha."
+  }
+ ]
+}

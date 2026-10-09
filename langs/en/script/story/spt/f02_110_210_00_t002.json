@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f02_110_210_00_t002.spt",
+ "lines": [
+  {
+   "i": 879,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 890,
+   "src": "2c8bc782c153",
+   "t": "{{robattle}} Field Test"
+  },
+  {
+   "i": 893,
+   "src": "dfd465da82ef",
+   "t": "Can we get started right away?"
+  }
+ ]
+}

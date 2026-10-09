@@ -1,0 +1,36 @@
+{
+ "rel": "story/mdl/m101.bcmdl",
+ "tex": "m101_name",
+ "also": "auto",
+ "items": [
+  {
+   "box": [
+    175,
+    100,
+    35,
+    85
+   ],
+   "erase_box": [
+    173,
+    97,
+    38,
+    90
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 1,
+   "text": "E\nN\nT\nR\nY",
+   "font": "hiragino-heavy",
+   "leading": 1.0,
+   "pad": 0,
+   "fill": "#B8A07C",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#16110B",
+    "opacity": 0.9
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3c_130_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "cedd7f83e4db",
+   "t": "What, are you looking for someone?"
+  },
+  {
+   "i": 1041,
+   "src": "a5e95e7b85c1",
+   "t": "Huh, a first-year in the {{idol_club}}...?"
+  },
+  {
+   "i": 1049,
+   "src": "08704411fa59",
+   "t": "Sorry~, I don't really know the culture\n{{club}} kids."
+  },
+  {
+   "i": 1052,
+   "src": "7cbdd1488919",
+   "t": "At least I don't think she's come here."
+  }
+ ]
+}

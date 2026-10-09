@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_46.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "425fa3a57c66",
+   "t": "<c:00ff00>Leg Trait:<c> {{super_armor}}\nNullifies the effects of\n{{thunder}},\n{{freeze}} and {{tornado}}."
+  }
+ ]
+}

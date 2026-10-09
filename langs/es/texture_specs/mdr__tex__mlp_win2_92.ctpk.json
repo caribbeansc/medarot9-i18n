@@ -1,0 +1,67 @@
+{
+ "rel": "mdr/tex/mlp_win2_92.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "hfill",
+  "font": "compact-rounded-heavy",
+  "cap": 8,
+  "fill": "#FFFFFF",
+  "pad": 0,
+  "crisp": 0.4,
+  "valign": "middle",
+  "align": "center"
+ },
+ "items": [
+  {
+   "box": [
+    20,
+    3,
+    100,
+    12
+   ],
+   "erase_box": [
+    37,
+    3,
+    67,
+    12
+   ],
+   "text": "Medaria base",
+   "stroke": "#14624E",
+   "stroke_w": 1.0
+  },
+  {
+   "box": [
+    20,
+    22,
+    100,
+    12
+   ],
+   "erase_box": [
+    40,
+    22,
+    59,
+    12
+   ],
+   "text": "Medaria material",
+   "stroke": "#115577",
+   "stroke_w": 1.0
+  },
+  {
+   "box": [
+    20,
+    41,
+    100,
+    12
+   ],
+   "erase_box": [
+    32,
+    41,
+    77,
+    12
+   ],
+   "text": "Medaria resultante",
+   "stroke": "#5A6666",
+   "stroke_w": 1.0
+  }
+ ]
+}

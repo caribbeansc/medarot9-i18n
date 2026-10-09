@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f05_010_151_00_t016.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "398ba28da04b",
+   "t": "Sí, habla "
+  },
+  {
+   "i": 1034,
+   "src": "f218ff099338",
+   "t": "--"
+  },
+  {
+   "i": 1041,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1047,
+   "src": "60b6c837d69f",
+   "t": "Soy yo."
+  },
+  {
+   "i": 1055,
+   "src": "d4dc0d3d9859",
+   "t": "¡{{ryoma}}-san!"
+  },
+  {
+   "i": 1058,
+   "src": "65d1cd1c09dd",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1063,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1069,
+   "src": "a2f957154186",
+   "t": "Sé que andas con exámenes, pero"
+  },
+  {
+   "i": 1072,
+   "src": "92711b21cee8",
+   "t": "¿vienes al {{club}} cuando puedas?"
+  },
+  {
+   "i": 1080,
+   "src": "03f40938b480",
+   "t": "Pasó algo extraño."
+  },
+  {
+   "i": 1088,
+   "src": "19920d6283e5",
+   "t": "¿Algo extraño...?"
+  },
+  {
+   "i": 1091,
+   "src": "28b34cb5d91a",
+   "t": "Entendido, voy enseguida."
+  }
+ ]
+}

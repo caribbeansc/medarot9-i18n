@@ -1,0 +1,235 @@
+{
+ "file": "story/spt/f07_010_161_10_t042.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "64de6f847c8e",
+   "t": "Espere, por favor."
+  },
+  {
+   "i": 1049,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1055,
+   "src": "91908cc727dc",
+   "t": "¿Qué ocurre?"
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1068,
+   "src": "21ff847e09c0",
+   "t": "Primero que nada, mis gracias."
+  },
+  {
+   "i": 1071,
+   "src": "e839775a2017",
+   "t": "Gracias por tomarse la molestia."
+  },
+  {
+   "i": 1078,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1084,
+   "src": "537cf045fb98",
+   "t": "Ah... Sí."
+  },
+  {
+   "i": 1105,
+   "src": "d3f744d5cdc6",
+   "t": "Si quieres dar gracias, dale al"
+  },
+  {
+   "i": 1108,
+   "src": "45633675da2c",
+   "t": "director. Verás, resulta que--"
+  },
+  {
+   "i": 1116,
+   "src": "f9450690e5ee",
+   "t": "Antes de irse de la isla, el {{principal}}"
+  },
+  {
+   "i": 1119,
+   "src": "5c9bf8f94dc2",
+   "t": "me dio eso, pidiendo que lo devolviera."
+  },
+  {
+   "i": 1127,
+   "src": "95266b9c465f",
+   "t": "Pensaba que se había pasado."
+  },
+  {
+   "i": 1130,
+   "src": "7efdbc60eae9",
+   "t": "Jajajaja."
+  },
+  {
+   "i": 1155,
+   "src": "ddcf0ae44096",
+   "t": "Ah, cierto."
+  },
+  {
+   "i": 1163,
+   "src": "f5936155f16a",
+   "t": "Casi olvido mencionarlo."
+  },
+  {
+   "i": 1166,
+   "src": "4e7c247bd895",
+   "t": "Tengo una propuesta."
+  },
+  {
+   "i": 1173,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1179,
+   "src": "4e7267a8fc0c",
+   "t": "¿Qué podría ser?"
+  },
+  {
+   "i": 1186,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1192,
+   "src": "9072bd4bf720",
+   "t": "Sobre esa {{app}} detectora de {{medalia|pl}}..."
+  },
+  {
+   "i": 1207,
+   "src": "e850bd6d35ce",
+   "t": "¿Qué tal esto:"
+  },
+  {
+   "i": 1210,
+   "src": "7521e937c98a",
+   "t": "abrirla a todo el alumnado?"
+  },
+  {
+   "i": 1225,
+   "src": "7d574f6ea7be",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1230,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1236,
+   "src": "24dcd92b2ea5",
+   "t": "Si solo ustedes usan el detector,"
+  },
+  {
+   "i": 1239,
+   "src": "495df128bca4",
+   "t": "reunirán muchas {{medalia|pl}} luego."
+  },
+  {
+   "i": 1247,
+   "src": "7a3e19f51252",
+   "t": "En el plan donde los {{medabot|pl}}"
+  },
+  {
+   "i": 1250,
+   "src": "8a1c57c6a858",
+   "t": "son clave, es gran ventaja."
+  },
+  {
+   "i": 1258,
+   "src": "f572ec98563f",
+   "t": "En lo educativo, es un problema."
+  },
+  {
+   "i": 1261,
+   "src": "87971a2e329b",
+   "t": "Pues se crea un desequilibrio."
+  },
+  {
+   "i": 1269,
+   "src": "874ea1a7a568",
+   "t": "Pero si lo abrimos a la escuela,"
+  },
+  {
+   "i": 1272,
+   "src": "389edce3605b",
+   "t": "todos partirán igual, según su esfuerzo."
+  },
+  {
+   "i": 1280,
+   "src": "e850bd6d35ce",
+   "t": "¿Qué te parece?"
+  },
+  {
+   "i": 1283,
+   "src": "45bde5677764",
+   "t": "¿Podrías considerarlo?"
+  },
+  {
+   "i": 1303,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1311,
+   "src": "4da25ee51f16",
+   "t": "Está bien."
+  },
+  {
+   "i": 1322,
+   "src": "2f526da01f0e",
+   "t": "Presidente."
+  },
+  {
+   "i": 1327,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1333,
+   "src": "d2f01fc0e96a",
+   "t": "¿De-de verdad?"
+  },
+  {
+   "i": 1336,
+   "src": "ccef63e0340b",
+   "t": "Sabía que dirías eso."
+  },
+  {
+   "i": 1351,
+   "src": "ecb9683cddba",
+   "t": "Gracias. Comiencen"
+  },
+  {
+   "i": 1354,
+   "src": "3338e356d360",
+   "t": "con los preparativos de inmediato."
+  },
+  {
+   "i": 1362,
+   "src": "7958209d3a72",
+   "t": "Les dejo el procedimiento a ustedes."
+  },
+  {
+   "i": 1365,
+   "src": "cc1660e183fb",
+   "t": "Bueno, hasta luego."
+  }
+ ]
+}

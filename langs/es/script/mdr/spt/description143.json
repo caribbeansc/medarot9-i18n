@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description143.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "05d866442a47",
+   "t": "{{activity_level|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "2bc17fa5132d",
+   "t": "Grado de {{achievement}} de las actividades de {{club}} de la\n{{academy|cap}} MEDA.\n\nSube al cumplir los objetivos de {{achievement}} de cada {{club}}\n(máximo 150). El <c:ffff00>{{medal_level}}<c> de los <c:ffff00>{{medabot|pl}}<c>\ndel {{club}} no puede superar el {{activity_level}}.\n\nAl subir el {{activity_level}}, la {{shop}} del edificio\nde la {{academy|cap}} MEDA ofrece más objetos."
+  }
+ ]
+}

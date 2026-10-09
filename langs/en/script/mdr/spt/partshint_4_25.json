@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_25.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "192ee4db9e49",
+   "t": "<c:00ff00>Leg Trait:<c> {{endurance}}\nWhile charging,\n{{charge_gauge}} increases\nby\n1/5 of {{damage}} taken."
+  }
+ ]
+}

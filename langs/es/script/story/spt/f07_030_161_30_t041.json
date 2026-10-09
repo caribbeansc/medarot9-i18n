@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f07_030_161_30_t041.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1045,
+   "src": "6addb44eacf0",
+   "t": "¡Yo quiero ir!"
+  },
+  {
+   "i": 1048,
+   "src": "9537a5d5ce3d",
+   "t": "¡Vamos al {{idol_club}}!"
+  },
+  {
+   "i": 1062,
+   "src": "24ed62bdebc0",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1065,
+   "src": "88debc47e201",
+   "t": "{{main}}-chan, ¿te interesa?"
+  },
+  {
+   "i": 1080,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1089,
+   "src": "9e90cd86bab6",
+   "t": "Sí."
+  },
+  {
+   "i": 1092,
+   "src": "f70f45c63f7b",
+   "t": "Me interesan las {{part|pl}} de {{legs_part_slot}} rotas."
+  },
+  {
+   "i": 1103,
+   "src": "afb7624b93e7",
+   "t": "Lo investigué. Esas piernas"
+  },
+  {
+   "i": 1106,
+   "src": "a46086276ff8",
+   "t": "ya no se fabrican."
+  },
+  {
+   "i": 1113,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1122,
+   "src": "e81394f30bff",
+   "t": "...Vaya."
+  },
+  {
+   "i": 1136,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1145,
+   "src": "11491c5d0374",
+   "t": "Es poco común."
+  },
+  {
+   "i": 1148,
+   "src": "00f1863b042e",
+   "t": "Me encantaría verla de cerca."
+  }
+ ]
+}

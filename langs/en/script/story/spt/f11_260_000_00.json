@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f11_260_000_00.spt",
+ "lines": [
+  {
+   "i": 1985,
+   "src": "68234849d32e",
+   "t": "Your deduction accuracy and {{robattle}}\nresults decide the protagonist's rating,\nand"
+  },
+  {
+   "i": 1988,
+   "src": "808ca121ffbb",
+   "t": "{{laurel}} pays you a salary based on that\nrating."
+  }
+ ]
+}

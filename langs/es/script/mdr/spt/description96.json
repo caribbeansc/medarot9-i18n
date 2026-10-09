@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description96.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "46d3bd65904d",
+   "t": "Ofensiva (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "3b141f7bb95b",
+   "t": "Las <c:ffff00>habilidades<c> que se usan para <c:ffff00>atacar<c>, o su <c:ffff00>nivel<c>\n<c:ffff00>de habilidad<c>: <c:ffff00>combate<c> y <c:ffff00>disparo<c>. Las demás son\n<c:ffff00>auxiliares<c>.\n\nA mayor {{skill_level}}, más rápidos son la <c:ffff00>{{prep}}<c>\ny el <c:ffff00>{{cooldown}}<c> de las técnicas y mayor el <c:ffff00>poder<c>\n<c:ffff00>de {{success}}<c>."
+  }
+ ]
+}

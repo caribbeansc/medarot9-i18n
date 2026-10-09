@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free06_02_03_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "42c3a18105a4",
+   "t": "¡{{mission|cap}} 'Recolección de {{medalia|pl}}:\n{{mountain_stream|cap}}' comienza!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "9e11f21d7061",
+   "t": "{{mountain_stream|cap}}... Crucemos el {{misty_deep_forest}}."
+  },
+  {
+   "i": 1046,
+   "src": "ed7dedffcbfd",
+   "t": "Entremos por la zona de la Costa Este."
+  }
+ ]
+}

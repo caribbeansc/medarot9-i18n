@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_65.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7f9c3d344558",
+   "t": "<c:00ff00>Leg Trait:<c> {{shape_memory}}\nWhen charging completes,\nredistributes the {{armor}} of\nall {{part|pl}} equally among\nthem.\nDestroyed {{part|pl}} are\nrestored."
+  }
+ ]
+}

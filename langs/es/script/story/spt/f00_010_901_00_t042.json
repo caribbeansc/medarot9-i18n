@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f00_010_901_00_t042.spt",
+ "lines": [
+  {
+   "i": 1060,
+   "src": "18f363045a1b",
+   "t": "...Oye, tú."
+  },
+  {
+   "i": 1066,
+   "src": "f8e7b7be3dab",
+   "t": "...Oye, mocoso."
+  },
+  {
+   "i": 1078,
+   "src": "7498d1e46398",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1102,
+   "src": "da717da8c5ad",
+   "t": "Finge que eres mi {{master}}."
+  },
+  {
+   "i": 1108,
+   "src": "56962f19cf44",
+   "t": "Asume el papel de mi {{master}}."
+  },
+  {
+   "i": 1117,
+   "src": "8920f190185c",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1132,
+   "src": "8088be5f03ef",
+   "t": "¿Q-q-qué? ¿Yo?"
+  },
+  {
+   "i": 1135,
+   "src": "8c4f8fdb6d84",
+   "t": "¿Por qué?"
+  },
+  {
+   "i": 1159,
+   "src": "fc4ee243158e",
+   "t": "No preguntes por qué. Solo haz lo que\ndigo."
+  },
+  {
+   "i": 1165,
+   "src": "f075ea845fb1",
+   "t": "Las razones no son asunto tuyo."
+  },
+  {
+   "i": 1168,
+   "src": "24c74f5f74f6",
+   "t": "Vas a hacer lo que yo diga, ¿entendido?"
+  },
+  {
+   "i": 1184,
+   "src": "463f714b2a80",
+   "t": "Aunque me digas eso, no sé\nqué debería hacer..."
+  }
+ ]
+}

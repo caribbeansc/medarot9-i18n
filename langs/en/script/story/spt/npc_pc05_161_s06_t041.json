@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc05_161_s06_t041.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "c2259bbac89b",
+   "t": "Let's hurry!"
+  },
+  {
+   "i": 1041,
+   "src": "996cb295d9bf",
+   "t": "Let's check even more!"
+  }
+ ]
+}

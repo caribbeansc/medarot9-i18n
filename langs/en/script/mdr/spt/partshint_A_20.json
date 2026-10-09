@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_20.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "2f150c4c637c",
+   "t": "<c:00ff00>{{mf}}:<c> Binder\nA melee attack that lowers\n{{prep}} and\n{{cooldown}} for the whole\nopposing team and stops\nthem defending.\n<c:00ffff>{{required_parts}}<c>\nOne or more fighting\n{{part|pl}}"
+  }
+ ]
+}

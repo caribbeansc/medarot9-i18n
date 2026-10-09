@@ -1,0 +1,27 @@
+{
+ "rel": "mdr/tex/bt_set_mdra_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    17,
+    1,
+    46,
+    13
+   ],
+   "erase_box": [
+    16,
+    0,
+    48,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Medaria",
+   "font": "avenir-cond-heavy",
+   "cap": 9,
+   "fill": "#2A3243",
+   "stroke": "#FFFFFFC0",
+   "stroke_w": 0.8
+  }
+ ]
+}

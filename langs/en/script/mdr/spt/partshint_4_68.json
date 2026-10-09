@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_68.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e7933991558e",
+   "t": "<c:00ff00>Leg Trait:<c> {{cross_combat}}\nAgainst opponents with a\nlower\n{{fighting}} stat than yours,\nyour {{medal_level}} is\ntemporarily +10."
+  }
+ ]
+}

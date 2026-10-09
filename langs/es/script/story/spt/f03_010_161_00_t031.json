@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f03_010_161_00_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "2ab67c981ca3",
+   "t": "Con eso concluye la explicación."
+  },
+  {
+   "i": 1046,
+   "src": "5d5636e392f1",
+   "t": "¿Qué tal?"
+  },
+  {
+   "i": 1049,
+   "src": "31409d91fb6e",
+   "t": "¿Hay algún lugar que te gustaría visitar?"
+  },
+  {
+   "i": 1057,
+   "src": "f3edd30e258d",
+   "t": "¡Hay tantos lugares a los que quiero ir!"
+  },
+  {
+   "i": 1060,
+   "src": "0a6f8829d076",
+   "t": "Eh, eh..."
+  },
+  {
+   "i": 1068,
+   "src": "bf6feafa671d",
+   "t": "Eh..."
+  },
+  {
+   "i": 1081,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1089,
+   "src": "ae7b06f61e04",
+   "t": "Hmf."
+  },
+  {
+   "i": 1097,
+   "src": "83c69930c519",
+   "t": "Yo pensaba ir a todas partes,"
+  },
+  {
+   "i": 1100,
+   "src": "6fc9e0b8656f",
+   "t": "así que da igual por dónde empieces."
+  },
+  {
+   "i": 1108,
+   "src": "5ab2a3c35521",
+   "t": "Tú elige uno y decide."
+  }
+ ]
+}

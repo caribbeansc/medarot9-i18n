@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2a2_meda_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "eebdaacdf1db",
+   "t": "{{boy_2_a_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "953af8130c52",
+   "t": "Sí, ¡esto es lo mejor!"
+  },
+  {
+   "i": 1038,
+   "src": "c927b07836b5",
+   "t": "¡El piso debe ser liso y hacer clac clac!"
+  }
+ ]
+}

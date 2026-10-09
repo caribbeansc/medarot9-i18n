@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f11_250_953_00_t011.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1049,
+   "src": "61d6c8d8c4de",
+   "t": "Dammit! No matter how many times"
+  },
+  {
+   "i": 1052,
+   "src": "7191cf1ced1d",
+   "t": "I beat it, it's pointless...!"
+  },
+  {
+   "i": 1059,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1065,
+   "src": "0e96bfecb078",
+   "t": "I'm tired, man..."
+  },
+  {
+   "i": 1068,
+   "src": "04dff97d4471",
+   "t": "At this rate..."
+  },
+  {
+   "i": 1075,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1081,
+   "src": "af859e608730",
+   "t": "Don't give up! There must be"
+  },
+  {
+   "i": 1084,
+   "src": "f45c353636c0",
+   "t": "something we can do, something--"
+  },
+  {
+   "i": 1091,
+   "src": "a6e23e611714",
+   "t": "{{kongo}}"
+  },
+  {
+   "i": 1097,
+   "src": "04c619cc0727",
+   "t": "...Ah."
+  },
+  {
+   "i": 1104,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1110,
+   "src": "1937e62abb59",
+   "t": "What is it, {{kongo}}?!"
+  },
+  {
+   "i": 1117,
+   "src": "a6e23e611714",
+   "t": "{{kongo}}"
+  },
+  {
+   "i": 1123,
+   "src": "c10c6a8b8103",
+   "t": "Something's weird, the way it's acting..."
+  }
+ ]
+}

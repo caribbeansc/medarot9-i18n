@@ -1,0 +1,15 @@
+{
+ "file": "battle/spt/btl_ev_04.spt",
+ "lines": [
+  {
+   "i": 32,
+   "src": "aefb99cbf2d8",
+   "t": "Uso {{defend|cap}}"
+  },
+  {
+   "i": 55,
+   "src": "87676a3f2bea",
+   "t": "Explicación"
+  }
+ ]
+}

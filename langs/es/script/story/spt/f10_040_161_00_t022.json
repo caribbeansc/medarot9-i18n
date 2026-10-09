@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f10_040_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "5d84ad7c5bf3",
+   "t": "Esta {{medal}} está rota."
+  },
+  {
+   "i": 1041,
+   "src": "7b1178eab21e",
+   "t": "No funciona."
+  },
+  {
+   "i": 1051,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1060,
+   "src": "03cfffb7efbe",
+   "t": "Lo sé."
+  },
+  {
+   "i": 1068,
+   "src": "6128d9baec9f",
+   "t": "Desde hace décadas."
+  },
+  {
+   "i": 1078,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1084,
+   "src": "cb74f5c84048",
+   "t": "¿Décadas?"
+  },
+  {
+   "i": 1095,
+   "src": "660a24280ebb",
+   "t": "No puede ser. Después de todo,\nhasta esta mañana--"
+  },
+  {
+   "i": 1100,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1106,
+   "src": "b75305af1089",
+   "t": "Es imposible que se mueva."
+  },
+  {
+   "i": 1114,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1119,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1125,
+   "src": "040fd4580024",
+   "t": "Se rompió hace mucho tiempo."
+  },
+  {
+   "i": 1128,
+   "src": "81d41e44f10c",
+   "t": "Esa {{entrance}}--"
+  },
+  {
+   "i": 1136,
+   "src": "b2f737a8d6a9",
+   "t": "Solo la voluntad de proteger"
+  },
+  {
+   "i": 1139,
+   "src": "8c5efc422dc6",
+   "t": "la mina mantenía su conciencia "
+  },
+  {
+   "i": 1147,
+   "src": "1ffd19fc897b",
+   "t": "apenas activa. Había perdido sus"
+  },
+  {
+   "i": 1150,
+   "src": "5a2b4ac7ce6a",
+   "t": "recuerdos y a su maestro, pero solo"
+  },
+  {
+   "i": 1168,
+   "src": "46b78e377c15",
+   "t": "la determinación de cumplir su promesa"
+  },
+  {
+   "i": 1171,
+   "src": "49afc4f2d957",
+   "t": "permanecía. Pero ya no es así."
+  }
+ ]
+}

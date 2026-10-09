@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_59.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "61ad531b936f",
+   "t": "<c:00ff00>Leg Trait:<c> {{intercept}}\nIf you are about to be\nattacked while {{waiting}} on\nCF, the CF wait is\nreleased and your attack\nruns before the\n{{opponent}}'s."
+  }
+ ]
+}

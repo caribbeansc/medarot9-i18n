@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description3.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "213d3992e485",
+   "t": "{{medafighter}}"
+  },
+  {
+   "i": 11,
+   "src": "8762fdeb729d",
+   "t": "A human who owns a <c:ffff00>{{medawatch}}<c> and manages\n<c:ffff00>{{medabot|pl}}<c>. On rare occasions there are {{medafighter|pl}}\nwho aren't human.\n\nDuring a <c:ffff00>{{robattle}}<c>, they give orders to {{medabot|pl}}\nthrough the {{medawatch}}. Their own {{medabot|pl}} also\ncall them {{master}}."
+  }
+ ]
+}

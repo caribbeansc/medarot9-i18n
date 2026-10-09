@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f07_120_160_00_t032.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "8069fb4e4ca9",
+   "t": "Te regalamos el derecho a descargar la"
+  },
+  {
+   "i": 1048,
+   "src": "60ed070baf00",
+   "t": "app de detección de Medarias del club."
+  },
+  {
+   "i": 1058,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1064,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1072,
+   "src": "5bff73ce0a72",
+   "t": "Ah~. Ahora que lo pienso,"
+  },
+  {
+   "i": 1075,
+   "src": "67ba372335c2",
+   "t": "¿era de ese tipo de evento...?"
+  },
+  {
+   "i": 1083,
+   "src": "98cf28ecafa3",
+   "t": "¿¡Y de qué se trataba eso!?"
+  },
+  {
+   "i": 1086,
+   "src": "3e083a71cb17",
+   "t": "¡¿Qué?! ¿¡Un regalo!?"
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1106,
+   "src": "2fe694e9b1e2",
+   "t": "Es una {{app}} de {{detect}} de {{medalia|pl}}."
+  },
+  {
+   "i": 1109,
+   "src": "ed6f06b05a26",
+   "t": "La creó el {{exploration_club}}."
+  },
+  {
+   "i": 1117,
+   "src": "24838e42e021",
+   "t": "Descarga esto y--"
+  }
+ ]
+}

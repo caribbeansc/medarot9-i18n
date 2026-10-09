@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f09_060_230_00_t123.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1035,
+   "src": "16c44138d421",
+   "t": "This is it."
+  },
+  {
+   "i": 1040,
+   "src": "357a19f70697",
+   "t": "This is where the reaction is strongest."
+  },
+  {
+   "i": 1043,
+   "src": "59a2d485795f",
+   "t": "Which means behind this wall--"
+  }
+ ]
+}

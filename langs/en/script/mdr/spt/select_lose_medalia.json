@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/select_lose_medalia.spt",
+ "lines": [
+  {
+   "i": 1416,
+   "src": "68860c1db94a",
+   "t": "Toss this medal away?"
+  },
+  {
+   "i": 1457,
+   "src": "74104d4bbb2c",
+   "t": "Toss this medallia away?"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/f04_030_115_00_t031.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1047,
+   "src": "a670749c592b",
+   "t": "Hey,"
+  },
+  {
+   "i": 1050,
+   "src": "d9140b7d159c",
+   "t": "I have a quick question for you."
+  },
+  {
+   "i": 1064,
+   "src": "0088446def05",
+   "t": "W-what is it?"
+  },
+  {
+   "i": 1072,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1081,
+   "src": "7fa08e8ca34d",
+   "t": "Is this {{medabot}} your {{partner}}?"
+  },
+  {
+   "i": 1093,
+   "src": "e365cdceaa74",
+   "t": "?"
+  },
+  {
+   "i": 1096,
+   "src": "4238bc80ad63",
+   "t": "Well, yeah.        "
+  },
+  {
+   "i": 1104,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1113,
+   "src": "82d05dd4f59e",
+   "t": "Since when have you been together?  "
+  },
+  {
+   "i": 1124,
+   "src": "5a84c1663645",
+   "t": "Only recently."
+  },
+  {
+   "i": 1127,
+   "src": "20b505a2f762",
+   "t": "We met after I came to this academy..."
+  },
+  {
+   "i": 1132,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1141,
+   "src": "150cfc4666a0",
+   "t": "What happened to your"
+  },
+  {
+   "i": 1144,
+   "src": "9e1e0783ddfe",
+   "t": "previous partner?"
+  },
+  {
+   "i": 1164,
+   "src": "479ddddfcb03",
+   "t": "W-well, you know, lots of things\nhappened,"
+  },
+  {
+   "i": 1167,
+   "src": "c8b83e19dd9b",
+   "t": "and we ended up splitting up...      "
+  },
+  {
+   "i": 1172,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1181,
+   "src": "fe0defe933d5",
+   "t": "So, in other words,"
+  },
+  {
+   "i": 1184,
+   "src": "c5d988561a4e",
+   "t": "So you haven't seen them since?    "
+  },
+  {
+   "i": 1195,
+   "src": "be8f55742378",
+   "t": "Yeah."
+  },
+  {
+   "i": 1200,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1209,
+   "src": "501c7d701421",
+   "t": "Ugh, wait, I'm getting confused."
+  },
+  {
+   "i": 1212,
+   "src": "1faf470c7766",
+   "t": "So you and your previous {{medabot}}..."
+  }
+ ]
+}

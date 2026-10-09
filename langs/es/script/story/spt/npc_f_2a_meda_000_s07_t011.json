@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_meda_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5d1f8cd82138",
+   "t": "{{pingen}}"
+  },
+  {
+   "i": 1038,
+   "src": "ae23c364b89c",
+   "t": "No quiero que termine el verano."
+  },
+  {
+   "i": 1041,
+   "src": "fcb7ce8fd6ce",
+   "t": "Extrañaré nadar con mi {{master}}."
+  }
+ ]
+}

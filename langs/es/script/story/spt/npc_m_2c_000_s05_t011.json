@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_2c_000_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1038,
+   "src": "ad650cc61367",
+   "t": "Ponerse a estudiar a último momento"
+  },
+  {
+   "i": 1041,
+   "src": "9c71d6550c72",
+   "t": "es cosa de tontos."
+  },
+  {
+   "i": 1049,
+   "src": "efb91d56004b",
+   "t": "Tú también piensas eso, ¿verdad?"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2e_163_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1038,
+   "src": "b2d437ea238b",
+   "t": "Um. Can I help you?"
+  },
+  {
+   "i": 1041,
+   "src": "d56d4584062c",
+   "t": "This place is technically no boys\nallowed."
+  }
+ ]
+}

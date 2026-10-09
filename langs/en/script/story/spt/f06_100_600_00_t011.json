@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f06_100_600_00_t011.spt",
+ "lines": [
+  {
+   "i": 1133,
+   "src": "0b044f351e53",
+   "t": "W-well? How's it going?"
+  },
+  {
+   "i": 1136,
+   "src": "aa586557b5c1",
+   "t": "Have they gone down a little?"
+  },
+  {
+   "i": 1141,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1147,
+   "src": "fca54b5c0e12",
+   "t": "I can't tell..."
+  },
+  {
+   "i": 1154,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1160,
+   "src": "765af773fb7a",
+   "t": "Hmm, there are more than I imagined.\nDoing"
+  },
+  {
+   "i": 1163,
+   "src": "05962400590f",
+   "t": "them all is going to take a while--"
+  },
+  {
+   "i": 1179,
+   "src": "43c6651e327f",
+   "t": "Hey!"
+  },
+  {
+   "i": 1201,
+   "src": "187d6ff29116",
+   "t": "...Hm?"
+  }
+ ]
+}

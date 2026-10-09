@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_010_101_00_t011.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "bfa18efb41d9",
+   "t": "Select Captain"
+  },
+  {
+   "i": 1049,
+   "src": "da7648b99d1b",
+   "t": "Ha ha ha!"
+  },
+  {
+   "i": 1052,
+   "src": "9a0d00ac52d5",
+   "t": "I've been waiting for this moment!"
+  },
+  {
+   "i": 1060,
+   "src": "ad72fa5c8342",
+   "t": "All hands!"
+  },
+  {
+   "i": 1067,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1073,
+   "src": "cff340ce5541",
+   "t": "Sir!"
+  }
+ ]
+}

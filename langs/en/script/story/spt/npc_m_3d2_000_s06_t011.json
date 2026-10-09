@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3d2_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2b1fd07bd562",
+   "t": "{{homare}}"
+  },
+  {
+   "i": 1038,
+   "src": "3ae9ab6593d4",
+   "t": "I came back on yesterday's boat. Rough\nride."
+  },
+  {
+   "i": 1041,
+   "src": "5b02055210a0",
+   "t": "The scenery still looks tilted, dammit."
+  }
+ ]
+}

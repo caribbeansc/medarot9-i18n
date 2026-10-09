@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_163_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "90d2f5bebc91",
+   "t": "What? You came to watch the dance\npractice, right?"
+  },
+  {
+   "i": 1041,
+   "src": "3f23a059a6a8",
+   "t": "It's already over, so hurry up and go\nhome."
+  }
+ ]
+}

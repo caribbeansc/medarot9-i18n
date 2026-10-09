@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/bt0002.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 864,
+   "src": "620abdbd283d",
+   "t": "Atracción: destruir objetivos"
+  },
+  {
+   "i": 867,
+   "src": "620abdbd283d",
+   "t": "Atracción: destruir objetivos"
+  },
+  {
+   "i": 870,
+   "src": "86c923142c05",
+   "t": "Destruye tantos como puedas!"
+  },
+  {
+   "i": 882,
+   "src": "61b24a56a92c",
+   "t": "-kun, lo sabes, verdad..."
+  }
+ ]
+}

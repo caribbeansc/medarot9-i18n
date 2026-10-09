@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_220_958_00_t013.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "55af011d6889",
+   "t": "{{vice_principal}}"
+  },
+  {
+   "i": 1045,
+   "src": "be77e28fe64b",
+   "t": "What are you doing?! You go too!"
+  },
+  {
+   "i": 1048,
+   "src": "cd7a9df2dacf",
+   "t": "Come on, quickly!"
+  },
+  {
+   "i": 1063,
+   "src": "ec0d449cfd99",
+   "t": "Y-yes, sir!"
+  }
+ ]
+}

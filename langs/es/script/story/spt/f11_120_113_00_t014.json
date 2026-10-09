@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_120_113_00_t014.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "5176341e90f8",
+   "t": "Necesito información."
+  },
+  {
+   "i": 1043,
+   "src": "16eb33245afd",
+   "t": "Oí que volvieron a la escuela con"
+  },
+  {
+   "i": 1046,
+   "src": "7b03374ea1d1",
+   "t": "el director y subieron a la {{rooftop}}."
+  },
+  {
+   "i": 1054,
+   "src": "04c90789b19d",
+   "t": "Seguro que saben muchas cosas."
+  },
+  {
+   "i": 1057,
+   "src": "9838bdcdcf21",
+   "t": "Cuéntenme todo--"
+  }
+ ]
+}

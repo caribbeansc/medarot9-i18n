@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_teach_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f36baaf6bab0",
+   "t": "{{samurai}}"
+  },
+  {
+   "i": 1038,
+   "src": "9f6a4477e620",
+   "t": "Un torneo... la sangre me hierve"
+  },
+  {
+   "i": 1041,
+   "src": "126c5c399745",
+   "t": "al recordar. Qué jóvenes éramos."
+  }
+ ]
+}

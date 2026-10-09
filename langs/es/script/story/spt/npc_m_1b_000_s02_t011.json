@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_1b_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "09d467a9b00a",
+   "t": "Cuando me aceptaron aquí,"
+  },
+  {
+   "i": 1041,
+   "src": "9b151206250e",
+   "t": "todos armaron un alboroto."
+  },
+  {
+   "i": 1049,
+   "src": "8b892f6bc372",
+   "t": "Mi mamá lloraba de alegría e incluso la"
+  },
+  {
+   "i": 1052,
+   "src": "cfee7b67d552",
+   "t": "tele local vino a entrevistarme."
+  },
+  {
+   "i": 1060,
+   "src": "d0a0c8db3c95",
+   "t": "Pero ya adentro, es tranquilo."
+  },
+  {
+   "i": 1063,
+   "src": "940480666760",
+   "t": "Normal en un internado."
+  }
+ ]
+}

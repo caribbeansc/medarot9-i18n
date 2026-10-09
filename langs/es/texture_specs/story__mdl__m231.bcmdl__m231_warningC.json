@@ -1,0 +1,34 @@
+{
+ "rel": "story/mdl/m231.bcmdl",
+ "tex": "m231_warningC",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "grow": 2,
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    18,
+    22,
+    92,
+    20
+   ],
+   "erase_box": [
+    16,
+    22,
+    96,
+    20
+   ],
+   "text": "NO PASAR",
+   "font": "anton",
+   "cap": 18,
+   "tracking": 2,
+   "fill": "#961212",
+   "stroke": null
+  }
+ ]
+}

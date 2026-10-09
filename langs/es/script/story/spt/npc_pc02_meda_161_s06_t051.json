@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_meda_161_s06_t051.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "2fd66218d7d6",
+   "t": "Qué lástima."
+  },
+  {
+   "i": 1041,
+   "src": "328ae9ae69a5",
+   "t": "Pero buscar la {{medalia}} fue divertido."
+  }
+ ]
+}

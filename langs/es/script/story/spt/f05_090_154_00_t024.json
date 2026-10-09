@@ -1,0 +1,230 @@
+{
+ "file": "story/spt/f05_090_154_00_t024.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "a21e9f15333c",
+   "t": "¿Puedo abrir esta carpeta?"
+  },
+  {
+   "i": 1056,
+   "src": "ecd3c6e4144a",
+   "t": "Presidente, ¿cuándo llegó aquí?"
+  },
+  {
+   "i": 1064,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1073,
+   "src": "635ab54063b4",
+   "t": "Está bien."
+  },
+  {
+   "i": 1076,
+   "src": "a723a3948065",
+   "t": "Permiso concedido."
+  },
+  {
+   "i": 1088,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1097,
+   "src": "8daa4187c3a4",
+   "t": "Gracias."
+  },
+  {
+   "i": 1105,
+   "src": "b3e9901e1018",
+   "t": "¿Qué clase de programa es este?"
+  },
+  {
+   "i": 1112,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1121,
+   "src": "2d9fc9a91f69",
+   "t": "Es un simulador. Muestra cómo"
+  },
+  {
+   "i": 1124,
+   "src": "b5187e13a6c6",
+   "t": "se forma la red neuronal del {{medabot}}"
+  },
+  {
+   "i": 1132,
+   "src": "021d133c4725",
+   "t": "al conectar piezas y Tinpet,"
+  },
+  {
+   "i": 1135,
+   "src": "de88e56faf71",
+   "t": "y cómo avanzan esos circuitos."
+  },
+  {
+   "i": 1144,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1153,
+   "src": "2178d959ca0e",
+   "t": "Ah, ya veo."
+  },
+  {
+   "i": 1161,
+   "src": "8081fb7c7819",
+   "t": "¡¿Puedes entender esto?!"
+  },
+  {
+   "i": 1173,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1179,
+   "src": "9abcd460eda2",
+   "t": "¿La verdad no?"
+  },
+  {
+   "i": 1182,
+   "src": "ce5e0775b09f",
+   "t": "Ni idea, jajaja."
+  },
+  {
+   "i": 1190,
+   "src": "ca809c7975b8",
+   "t": "Pero sabes, Main-chan, tú eres"
+  },
+  {
+   "i": 1193,
+   "src": "101168e0e230",
+   "t": "justo a quien he estado buscando."
+  },
+  {
+   "i": 1207,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1216,
+   "src": "5f7b59044878",
+   "t": "...*Sonrojo*."
+  },
+  {
+   "i": 1223,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1229,
+   "src": "4b0af1f9bd02",
+   "t": "No, no es eso."
+  },
+  {
+   "i": 1239,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1248,
+   "src": "0b8d85d5d457",
+   "t": "¿Te interesa la {{medalia}}?"
+  },
+  {
+   "i": 1262,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1271,
+   "src": "554bb5250828",
+   "t": "Sí, me interesa."
+  },
+  {
+   "i": 1278,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1287,
+   "src": "061dcd1aa019",
+   "t": "Tengo planos secretos relacionados"
+  },
+  {
+   "i": 1290,
+   "src": "bd7371781b4e",
+   "t": "con la Medaria. ¿Te interesa?"
+  },
+  {
+   "i": 1304,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1313,
+   "src": "5cdfdb30d808",
+   "t": "Sí, me interesa."
+  },
+  {
+   "i": 1316,
+   "src": "e4e210592e6a",
+   "t": "Por favor."
+  },
+  {
+   "i": 1323,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1332,
+   "src": "713d54cd430c",
+   "t": "Sí, te lo daré."
+  },
+  {
+   "i": 1346,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1355,
+   "src": "c1cc8658b688",
+   "t": "¡Genial!"
+  },
+  {
+   "i": 1362,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1371,
+   "src": "d5c0fa5b41e3",
+   "t": "Sin embargo..."
+  },
+  {
+   "i": 1391,
+   "src": "fce8a513a240",
+   "t": "Solo si te unes al {{exploration_club}}."
+  },
+  {
+   "i": 1405,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1414,
+   "src": "749961aaafcf",
+   "t": "Me uno~."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0565.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "f12a8df769d6",
+   "t": "{{rubberobo_grunt_character}}"
+  },
+  {
+   "i": 872,
+   "src": "898f53f025f4",
+   "t": "A Robattle, robo?"
+  },
+  {
+   "i": 875,
+   "src": "4331cc270596",
+   "t": "Wow, of course I'll do it, {{robo}}! I'll win,\n{{robo}}~!"
+  }
+ ]
+}

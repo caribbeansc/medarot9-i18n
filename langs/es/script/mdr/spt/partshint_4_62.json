@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_62.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "cf04f85d9256",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{fighting|cap}} Cargado\nCon la {{charge_gauge}} al\n100%, los ataques cuerpo\na cuerpo ganan {{mobility}}\ny {{fighting}} +5."
+  }
+ ]
+}

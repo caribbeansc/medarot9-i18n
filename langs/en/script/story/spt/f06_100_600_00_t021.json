@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f06_100_600_00_t021.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1047,
+   "src": "4aa7febc662a",
+   "t": "What are you doing here?!"
+  },
+  {
+   "i": 1055,
+   "src": "49b634afdf17",
+   "t": "That's my line."
+  },
+  {
+   "i": 1070,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1076,
+   "src": "bee358bf7036",
+   "t": "Oh, hello, Einbecker-kun."
+  },
+  {
+   "i": 1079,
+   "src": "7923fe35970b",
+   "t": "What are you doing in a place like this?"
+  },
+  {
+   "i": 1089,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1095,
+   "src": "34f5ea45d781",
+   "t": "The Council asked me. I'm hunting"
+  },
+  {
+   "i": 1098,
+   "src": "69e4ec79791d",
+   "t": "{{stray}} {{medabot|pl}} ahead of the fireworks\nfestival."
+  },
+  {
+   "i": 1106,
+   "src": "13fbcd417ac5",
+   "t": "Huh? What's this?"
+  },
+  {
+   "i": 1111,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1117,
+   "src": "3796867337ac",
+   "t": "A double booking, huh."
+  },
+  {
+   "i": 1124,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1130,
+   "src": "6fd404a4b53e",
+   "t": "...Oh?"
+  },
+  {
+   "i": 1144,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1150,
+   "src": "e03aee501a66",
+   "t": "This is great!"
+  }
+ ]
+}

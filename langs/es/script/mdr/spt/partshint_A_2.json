@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_2.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "006ff5d41654",
+   "t": "<c:00ff00>{{mf}}:<c>Ataque Sigiloso\nDurante la {{prep}}, ataca\nmientras esquiva cualquier\nataque.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de\nataque"
+  }
+ ]
+}

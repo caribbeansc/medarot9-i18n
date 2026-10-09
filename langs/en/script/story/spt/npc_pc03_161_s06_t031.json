@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc03_161_s06_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "41c885ef3614",
+   "t": "Let's go."
+  },
+  {
+   "i": 1041,
+   "src": "63b6e7a8b262",
+   "t": "You'll see when you get there, ha ha."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_138.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bc3d6f9e79fd",
+   "t": "<c:00ff00>Action:<c> {{shooting_guard}}\nA {{guard_stance}} that reacts\nto ranged attacks on\nallies. When intercepting,\nnullifies ranged {{damage}}.\nEnds after allies act 4\ntimes or time passes."
+  }
+ ]
+}

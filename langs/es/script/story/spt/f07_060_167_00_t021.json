@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f07_060_167_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1045,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1051,
+   "src": "f143415f64d4",
+   "t": "¿Estás en contra?"
+  },
+  {
+   "i": 1061,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1067,
+   "src": "26e5b1569c25",
+   "t": "¿Yo? Para nada."
+  },
+  {
+   "i": 1070,
+   "src": "f73ac1604c37",
+   "t": "Claro que estoy de acuerdo."
+  },
+  {
+   "i": 1078,
+   "src": "36343cf0267b",
+   "t": "Vamos, vamos."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_3f_163_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "bebb19fc4664",
+   "t": "Oye, ¿no habías estado aquí antes?"
+  },
+  {
+   "i": 1041,
+   "src": "2dc181eb198f",
+   "t": "¿O solo me lo estoy imaginando...?"
+  },
+  {
+   "i": 1049,
+   "src": "3ab1c8adbdaf",
+   "t": "Eh, ¿{{aoi}}? Es miembro de nuestro {{club}}."
+  },
+  {
+   "i": 1052,
+   "src": "9a967eb69132",
+   "t": "La chica que baila ahí ahora es ella."
+  },
+  {
+   "i": 1060,
+   "src": "7685930ddc6e",
+   "t": "¡Es nuestra prometedora novata!"
+  }
+ ]
+}

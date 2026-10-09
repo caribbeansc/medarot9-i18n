@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f04_030_115_00_t026.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "7f7f87475891",
+   "t": "...What?"
+  },
+  {
+   "i": 1052,
+   "src": "3d7bef6ccded",
+   "t": "Come on."
+  },
+  {
+   "i": 1060,
+   "src": "531dd7d5c922",
+   "t": "You were about to say something\nearlier, weren't you?"
+  },
+  {
+   "i": 1065,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1074,
+   "src": "0dcb6a355eab",
+   "t": "Was I?"
+  },
+  {
+   "i": 1082,
+   "src": "fa313124687b",
+   "t": "I forgot, so never mind."
+  },
+  {
+   "i": 1085,
+   "src": "f062ec8a5b2c",
+   "t": "Bye."
+  }
+ ]
+}

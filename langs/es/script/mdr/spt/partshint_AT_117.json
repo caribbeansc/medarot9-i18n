@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_117.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9ddf00bfd13b",
+   "t": "<c:00ff00>Técnica:<c>Reparar a Todos\nRecupera un poco el {{damage}}\nde una {{part}} de cada\nmiembro del equipo\n{{ally_battle_term}}."
+  }
+ ]
+}

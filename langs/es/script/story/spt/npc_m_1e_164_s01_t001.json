@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_m_1e_164_s01_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1038,
+   "src": "040424f9adb0",
+   "t": "¡Qué alegría! Soy el único de primer año"
+  },
+  {
+   "i": 1041,
+   "src": "d5e7c29ad954",
+   "t": "en el club, así que me sentía muy solo~."
+  },
+  {
+   "i": 1049,
+   "src": "c8a69ac1f21f",
+   "t": "...Aunque aún no has decidido unirte."
+  },
+  {
+   "i": 1052,
+   "src": "474c93e1ad0d",
+   "t": "Solo viniste de {{visit}}. Jaja."
+  },
+  {
+   "i": 1060,
+   "src": "fc0448ebe208",
+   "t": "Si te gusta, ¿por qué no haces"
+  },
+  {
+   "i": 1063,
+   "src": "fe7324fb3909",
+   "t": "la prueba con el presidente?"
+  },
+  {
+   "i": 1071,
+   "src": "2c21bd179ac1",
+   "t": "No importan tus dotes en {{robattle}}."
+  },
+  {
+   "i": 1074,
+   "src": "a2cd9589cd86",
+   "t": "Si te gustan los {{medabot|pl}}, listo."
+  },
+  {
+   "i": 1082,
+   "src": "4a0bc80dff15",
+   "t": "Probablemente."
+  }
+ ]
+}

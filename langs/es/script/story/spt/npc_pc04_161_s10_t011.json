@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_pc04_161_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "3789abcff109",
+   "t": "El destino es sin duda esa {{mine}}..."
+  },
+  {
+   "i": 1046,
+   "src": "dce6f8e01085",
+   "t": "Pero has pasado por mucho."
+  },
+  {
+   "i": 1049,
+   "src": "08ef7c4fb06f",
+   "t": "Sobre todo recién estuviste cautivo."
+  },
+  {
+   "i": 1057,
+   "src": "166323598526",
+   "t": "¿De qué hablas?"
+  },
+  {
+   "i": 1060,
+   "src": "5773f6220190",
+   "t": "Prácticamente estuve de vacaciones."
+  },
+  {
+   "i": 1068,
+   "src": "7aa0b100ef29",
+   "t": "Estuve a solas con el {{principal}},"
+  },
+  {
+   "i": 1071,
+   "src": "aebcabdc0f81",
+   "t": "así que estoy agotado... Jaja."
+  }
+ ]
+}

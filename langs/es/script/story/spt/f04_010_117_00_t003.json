@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f04_010_117_00_t003.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1045,
+   "src": "313a806df883",
+   "t": "Vaya, {{ryusei}}-kun."
+  },
+  {
+   "i": 1048,
+   "src": "1b080123eb70",
+   "t": "¿Vas a competir?"
+  },
+  {
+   "i": 1057,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1066,
+   "src": "9e90cd86bab6",
+   "t": "Sí. Eso fue lo que"
+  },
+  {
+   "i": 1069,
+   "src": "846ea24944ff",
+   "t": "el presidente me dijo esta mañana."
+  },
+  {
+   "i": 1076,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1082,
+   "src": "a877bd418cc0",
+   "t": "¿Eh? ¿Entonces {{ryusei}}-kun fue"
+  },
+  {
+   "i": 1085,
+   "src": "dc20aa30a3eb",
+   "t": "de los tres mejores del {{club}}?"
+  },
+  {
+   "i": 1092,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1101,
+   "src": "f9af2bf25a43",
+   "t": "Del {{rescue_club}}, ¿no?"
+  },
+  {
+   "i": 1104,
+   "src": "65a16fa1fc4b",
+   "t": "¡Increíble!"
+  },
+  {
+   "i": 1111,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1120,
+   "src": "d5009c8b952d",
+   "t": "Jajajajajajaja."
+  },
+  {
+   "i": 1134,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1143,
+   "src": "e8283ff561cf",
+   "t": "¿Alguien más va a competir?"
+  },
+  {
+   "i": 1146,
+   "src": "eec573006905",
+   "t": "Seguramente no, ¿verdad?"
+  },
+  {
+   "i": 1153,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1159,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f05_180_115_20_t211.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "08ce9359408b",
+   "t": "...Hey."
+  },
+  {
+   "i": 1054,
+   "src": "9cb84c5f2af1",
+   "t": "What?"
+  },
+  {
+   "i": 1065,
+   "src": "df8372bc0d1b",
+   "t": "What did they ask you\nin the interview?"
+  },
+  {
+   "i": 1092,
+   "src": "c0b003b06e34",
+   "t": "It's a secret."
+  },
+  {
+   "i": 1098,
+   "src": "762454da6a40",
+   "t": "It is a secret."
+  },
+  {
+   "i": 1107,
+   "src": "1617ee3b5e40",
+   "t": "Don't be like that."
+  },
+  {
+   "i": 1126,
+   "src": "db1ab762230c",
+   "t": "Forgot."
+  }
+ ]
+}

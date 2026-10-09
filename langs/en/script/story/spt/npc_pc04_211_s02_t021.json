@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc04_211_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "06b79f0d03f6",
+   "t": "Amazing."
+  },
+  {
+   "i": 1038,
+   "src": "3a957ff1cb7d",
+   "t": "Only the equipment here is unchanged."
+  },
+  {
+   "i": 1046,
+   "src": "d341f4494a0c",
+   "t": "Only this booth escaped destruction..."
+  },
+  {
+   "i": 1049,
+   "src": "ef5d47888985",
+   "t": "No, maybe they just forgot to dispose of\nit."
+  }
+ ]
+}

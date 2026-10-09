@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo57.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "ca3261948b8e",
+   "t": "\"Recoger {{medalia}}: {{storehouse|cap}}\""
+  },
+  {
+   "i": 32,
+   "src": "7225a89273a1",
+   "t": "Gran {{react}} de {{medalia|pl}} en el {{storehouse}}.\nIncluyendo el subsuelo, es una zona amplia.\n"
+  },
+  {
+   "i": 42,
+   "src": "51aec252b6ae",
+   "t": "Nos topamos con un tipo raro, pero hallamos la {{medalia}}.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

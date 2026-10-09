@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "758d73abdf9c",
+   "t": "<c:00ff00>Leg Trait:<c> {{desert_type}}\nRegardless of {{leg_type}},\nimproves {{terrain_affinity}}\nwith {{sand}}."
+  }
+ ]
+}

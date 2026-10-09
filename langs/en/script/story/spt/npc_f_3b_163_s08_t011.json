@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3b_163_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1038,
+   "src": "3f3765ce2d69",
+   "t": "I mean, even I"
+  },
+  {
+   "i": 1041,
+   "src": "bd959c8eb28f",
+   "t": "knew this island used to be a {{medalia}}\nmine,"
+  },
+  {
+   "i": 1049,
+   "src": "ef051b3d9184",
+   "t": "but I never imagined this much was still\nleft."
+  },
+  {
+   "i": 1052,
+   "src": "0e62f892509d",
+   "t": "It wasn't gone, just out of sight, huh."
+  }
+ ]
+}

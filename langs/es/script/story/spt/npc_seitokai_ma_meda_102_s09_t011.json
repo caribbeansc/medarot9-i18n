@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_ma_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "839c1b9753a0",
+   "t": "{{aragostar}}"
+  },
+  {
+   "i": 1038,
+   "src": "76ca7f645de7",
+   "t": "Vamos, vamos, terminemos con esto."
+  },
+  {
+   "i": 1041,
+   "src": "9601178ae950",
+   "t": "¡A dejar todo limpio!"
+  }
+ ]
+}

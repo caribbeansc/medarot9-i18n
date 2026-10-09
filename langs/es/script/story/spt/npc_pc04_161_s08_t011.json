@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc04_161_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "84099fc518e2",
+   "t": "Últimamente, vaya a donde vaya,"
+  },
+  {
+   "i": 1041,
+   "src": "e5d96a261b54",
+   "t": "me topo con gente de algún {{club}}."
+  },
+  {
+   "i": 1049,
+   "src": "348c60d7d8bc",
+   "t": "Es como una guerra por las {{medalia|pl}}"
+  },
+  {
+   "i": 1052,
+   "src": "911aac69e39f",
+   "t": "entre clubes. Por cierto--"
+  },
+  {
+   "i": 1060,
+   "src": "ced0afb900b3",
+   "t": "¿Viste el {{bulletin_board}}?"
+  },
+  {
+   "i": 1063,
+   "src": "7375ba0feb92",
+   "t": "Agregué más puntos de {{explore}}."
+  },
+  {
+   "i": 1071,
+   "src": "c5ef260f3fa4",
+   "t": "Vamos a buscarlos rápido antes"
+  },
+  {
+   "i": 1074,
+   "src": "29eae60c3ae5",
+   "t": "de que los tomen otros clubes."
+  }
+ ]
+}

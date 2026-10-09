@@ -1,0 +1,64 @@
+{
+ "rel": "mdr/tex/enc_2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf-black-italic",
+  "italic_skew": 0.08,
+  "size": 32.3944,
+  "fill": "#FFFFFF00",
+  "pad": 0,
+  "snap": false,
+  "strokes": [
+   {
+    "color": "#FFFFFF00",
+    "w": 2
+   }
+  ],
+  "align": "left",
+  "erase": "none",
+  "crisp": 0,
+  "shadow": {
+   "dx": 0,
+   "dy": 0,
+   "color": "#FFFFFF",
+   "blur": 1.5,
+   "opacity": 1.0
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    256,
+    64
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    -3,
+    256,
+    43
+   ],
+   "text": "Listo para la",
+   "scale_x": 0.981,
+   "baseline": 28,
+   "dx": 1.25
+  },
+  {
+   "box": [
+    10,
+    30,
+    246,
+    34
+   ],
+   "text": "robobatalla",
+   "scale_x": 0.9361,
+   "baseline": 59,
+   "dx": 1.4
+  }
+ ]
+}

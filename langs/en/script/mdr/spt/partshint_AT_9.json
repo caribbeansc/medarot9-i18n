@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_9.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fa5094d57306",
+   "t": "<c:00ff00>Action:<c> {{press}}\nA ranged attack that\nadds the {{charge_gauge}} %\nto {{success}}. High {{success}}\nand criticals land\neasily. The more Heavy\nparts the foe has, the\nmore {{damage}}."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_01_01_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "877774a2497c",
+   "t": "{{mission|cap}} 'Observación de Ondas Sonoras:\n{{old_harbor_town}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "391467525d04",
+   "t": "{{old_harbor_town}}, al oeste de la isla, era"
+  },
+  {
+   "i": 1049,
+   "src": "25b88c27cb04",
+   "t": "donde vivían los empleados de la mina."
+  },
+  {
+   "i": 1057,
+   "src": "ba5ba3abe48f",
+   "t": "Hoy en ruinas, pero llena de rascacielos."
+  },
+  {
+   "i": 1060,
+   "src": "1084150b7c7d",
+   "t": "Tomemos datos en lo alto, sin estorbos."
+  }
+ ]
+}

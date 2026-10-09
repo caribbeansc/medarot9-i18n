@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f02_015_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "2bb77afe0cc7",
+   "t": "Ten thousand yen!"
+  },
+  {
+   "i": 1039,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "288e5cb2e85c",
+   "t": "It's {{club}} funds."
+  },
+  {
+   "i": 1048,
+   "src": "855cb3ed75bd",
+   "t": "Setup money for new members."
+  },
+  {
+   "i": 1056,
+   "src": "ad8fcbb3822b",
+   "t": "Is it okay to take it?"
+  },
+  {
+   "i": 1061,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1067,
+   "src": "2efb156daeb7",
+   "t": "Of course, ha ha ha. You're now"
+  },
+  {
+   "i": 1070,
+   "src": "86291963d698",
+   "t": "a full-fledged {{exploration_club}} member."
+  },
+  {
+   "i": 1078,
+   "src": "063febe25978",
+   "t": "Now, clutch that 10,000 yen and head\nto"
+  },
+  {
+   "i": 1081,
+   "src": "a037f3b9557f",
+   "t": "the shop inside the school building."
+  },
+  {
+   "i": 1089,
+   "src": "5b7db96b0681",
+   "t": "Though, while your Activity Level is low,"
+  },
+  {
+   "i": 1092,
+   "src": "4e2e92ce9e7f",
+   "t": "there won't be much you can buy."
+  }
+ ]
+}

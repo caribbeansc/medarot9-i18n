@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/recipe_get.spt",
+ "lines": [
+  {
+   "i": 834,
+   "src": "cf7d77a3bcaa",
+   "t": "<c:00ff00>{{recipe|cap}} No. "
+  },
+  {
+   "i": 839,
+   "src": "c4b72454c7ad",
+   "t": "<c:00ff00>{{medalia}}  "
+  },
+  {
+   "i": 841,
+   "src": "7e8c754b5309",
+   "t": "<c> - ¡receta obtenida!"
+  }
+ ]
+}

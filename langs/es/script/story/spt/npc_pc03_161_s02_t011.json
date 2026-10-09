@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc03_161_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "e8efae9b30aa",
+   "t": "¿Eh? No te preocupes por mí."
+  },
+  {
+   "i": 1041,
+   "src": "bcf5b76a2832",
+   "t": "Te seguiré sin problema."
+  },
+  {
+   "i": 1049,
+   "src": "afa3ab90fdc7",
+   "t": "Es más, ve tú adelante."
+  },
+  {
+   "i": 1052,
+   "src": "c46152fc8c02",
+   "t": "...Tú eres el presidente."
+  },
+  {
+   "i": 1057,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1063,
+   "src": "60a5f616b633",
+   "t": "Qué modesto eres, jajaja. Pero no te"
+  },
+  {
+   "i": 1066,
+   "src": "5ace1bd149ed",
+   "t": "contengas, ve y decide de una vez."
+  },
+  {
+   "i": 1074,
+   "src": "169ca2527fe6",
+   "t": "*Suspiro*"
+  }
+ ]
+}

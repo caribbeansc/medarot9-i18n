@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description43.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d4d1970aefee",
+   "t": "{{graze|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "899ce0a214ac",
+   "t": "{{condition|cap}} en que el <c:ffff00>ataque<c> alcanza al {{opponent}} pero sin dar\nde lleno, y no logra su {{effect}} normal.\n\nEl <c:ffff00>{{damage}}<c> causado baja y, además, no se aplican\n<c:ffff00>síntomas negativos<c> ni otros efectos.\n\nCuanto menor es el <c:ffff00>{{success_power}}<c> del ataque, más\nfácil es que ocurra."
+  }
+ ]
+}

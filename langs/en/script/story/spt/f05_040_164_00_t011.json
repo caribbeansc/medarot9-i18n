@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f05_040_164_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1045,
+   "src": "b6feafea06fc",
+   "t": "Oh, a visitor? Sorry,"
+  },
+  {
+   "i": 1048,
+   "src": "1bc7adcc559f",
+   "t": "but there's no {{club}} today."
+  },
+  {
+   "i": 1056,
+   "src": "2a76dabc8058",
+   "t": "I just came back for something I forgot."
+  },
+  {
+   "i": 1059,
+   "src": "ecd4a5f711cc",
+   "t": "Sorry, but after the exams--"
+  },
+  {
+   "i": 1067,
+   "src": "01c8933f3542",
+   "t": "Huh, you're looking for someone?"
+  },
+  {
+   "i": 1070,
+   "src": "aae9d40e4271",
+   "t": "Hackers...?"
+  },
+  {
+   "i": 1078,
+   "src": "7a796551801b",
+   "t": "Oh, we know about that, sure."
+  },
+  {
+   "i": 1081,
+   "src": "e1b1cebb58f4",
+   "t": "Everyone in the {{club}} is like that."
+  },
+  {
+   "i": 1096,
+   "src": "302aa91ad9a4",
+   "t": "Knowing PCs and networks is"
+  },
+  {
+   "i": 1099,
+   "src": "1fd6a7cc8507",
+   "t": "a must in our {{club}}, ha ha ha!"
+  },
+  {
+   "i": 1107,
+   "src": "783161543086",
+   "t": "...Wait, that's not what you mean?"
+  },
+  {
+   "i": 1110,
+   "src": "26e5f23bc4f3",
+   "t": "Then what is it?"
+  }
+ ]
+}

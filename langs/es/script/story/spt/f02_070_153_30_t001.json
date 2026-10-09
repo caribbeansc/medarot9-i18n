@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f02_070_153_30_t001.spt",
+ "lines": [
+  {
+   "i": 1055,
+   "src": "43cb1089b3df",
+   "t": "¡Saltó!"
+  },
+  {
+   "i": 1058,
+   "src": "83781fb5b924",
+   "t": "¡Eso fue increíble!"
+  },
+  {
+   "i": 1064,
+   "src": "43cb1089b3df",
+   "t": "¡Acaba de saltar!"
+  },
+  {
+   "i": 1067,
+   "src": "65bf2406c92f",
+   "t": "¡Tiene mucho talento!"
+  },
+  {
+   "i": 1078,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1084,
+   "src": "e5eff39d266a",
+   "t": "No hubo tiempo ni de detenerla."
+  },
+  {
+   "i": 1087,
+   "src": "82ce0ddb8284",
+   "t": "...Bueno, pues."
+  },
+  {
+   "i": 1098,
+   "src": "0a1fdb0c2e1b",
+   "t": "Puedes decirme"
+  },
+  {
+   "i": 1101,
+   "src": "8502799cbc62",
+   "t": "por qué estaba ella en esta sala."
+  },
+  {
+   "i": 1108,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1117,
+   "src": "b54c69886a13",
+   "t": "No puedo decirlo."
+  },
+  {
+   "i": 1124,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1133,
+   "src": "7ba9e7129df9",
+   "t": "¿En serio?"
+  },
+  {
+   "i": 1147,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1156,
+   "src": "3a34075ef531",
+   "t": "Sí, fue una promesa."
+  },
+  {
+   "i": 1159,
+   "src": "6776aa70c3f7",
+   "t": "Si quieres saber, pregúntale a ella."
+  },
+  {
+   "i": 1166,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1175,
+   "src": "2b68638a9ba7",
+   "t": "Directo de la fuente, ¿eh?"
+  },
+  {
+   "i": 1178,
+   "src": "5de94f3342dc",
+   "t": "Entendido."
+  },
+  {
+   "i": 1189,
+   "src": "94bfd2b792e3",
+   "t": "Vamos, "
+  },
+  {
+   "i": 1191,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  }
+ ]
+}

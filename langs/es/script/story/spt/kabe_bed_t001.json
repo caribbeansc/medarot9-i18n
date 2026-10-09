@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/kabe_bed_t001.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "59d287a829e7",
+   "t": "*Examinar la cama"
+  },
+  {
+   "i": 1009,
+   "src": "a5844368cb02",
+   "t": "~Evento default al elegir descansar"
+  },
+  {
+   "i": 1014,
+   "src": "2659a9dcbee6",
+   "t": "*El protagonista se acuesta en la cama"
+  },
+  {
+   "i": 1017,
+   "src": "180fe73e4f26",
+   "t": "~Pausa (o fundido de entrada/salida)"
+  },
+  {
+   "i": 1022,
+   "src": "6a7c3c2911ce",
+   "t": "*Despierta"
+  },
+  {
+   "i": 1025,
+   "src": "6c0334ba346c",
+   "t": "~Tiempo Libre"
+  }
+ ]
+}

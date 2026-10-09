@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description16.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0d14eac35ae5",
+   "t": "Basic Rules"
+  },
+  {
+   "i": 11,
+   "src": "d9f31c9cb528",
+   "t": "Each team enters 3 or fewer <c:ffff00>{{medabot|pl}}<c>, and both\nteams choose one of them as the <c:ffff00>{{leader}}<c>.\n\nThe team that first gets the rival {{leader}} <c:ffff00>{{knocked_out}}<c>\n{{wins}}.\n\nThe winning team can take as many <c:ffff00>{{part|pl}}<c> from the\nlosing team as the number of {{medabot|pl}} it knocked\nout."
+  }
+ ]
+}

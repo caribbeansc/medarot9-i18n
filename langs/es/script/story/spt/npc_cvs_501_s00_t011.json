@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_cvs_501_s00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "893cfcd1fb5c",
+   "t": "{{store_clerk_character}}"
+  },
+  {
+   "i": 1035,
+   "src": "e13ddea8d95a",
+   "t": "¡Bienvenido!"
+  },
+  {
+   "i": 1045,
+   "src": "dbb20c5975c0",
+   "t": "{{time_faller}}"
+  },
+  {
+   "i": 1051,
+   "src": "290a79977c0d",
+   "t": "¡Haga su pedido!"
+  }
+ ]
+}

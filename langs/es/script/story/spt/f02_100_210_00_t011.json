@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f02_100_210_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b129709de155",
+   "t": "{{blue_submarine}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1043,
+   "src": "792e7ddfbc5a",
+   "t": "Juego para el {{medachange}} {{submarine}}."
+  },
+  {
+   "i": 1046,
+   "src": "d2f65570edef",
+   "t": "Parece que no tiene {{medal}}."
+  }
+ ]
+}

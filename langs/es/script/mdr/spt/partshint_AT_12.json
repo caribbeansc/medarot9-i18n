@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_12.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "564a89de3dd7",
+   "t": "<c:00ff00>Técnica:<c>Demol.\nAtaque de {{shooting}}: si el\n{{opponent}} defiende o recibe con\nsu {{acting_part}}, la\ndestruye sin importar su\n{{armor}}.\nSi da en otra {{part}}, es un\nataque normal."
+  }
+ ]
+}

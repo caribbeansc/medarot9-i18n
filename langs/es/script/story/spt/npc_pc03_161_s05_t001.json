@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc03_161_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "ea3560d61c56",
+   "t": "¿Por dónde empiezo? Quizá por el Club"
+  },
+  {
+   "i": 1041,
+   "src": "281482ee3d36",
+   "t": "Medabot, aunque no espero mucho."
+  }
+ ]
+}

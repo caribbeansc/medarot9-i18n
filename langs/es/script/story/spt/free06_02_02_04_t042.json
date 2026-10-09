@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free06_02_02_04_t042.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1042,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1048,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1059,
+   "src": "50f9b2cda630",
+   "t": "Eh..."
+  },
+  {
+   "i": 1064,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1070,
+   "src": "fe9ed120edb7",
+   "t": "La investigación continúa."
+  }
+ ]
+}

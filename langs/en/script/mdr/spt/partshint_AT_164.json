@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_164.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d6ca6e7a9f1c",
+   "t": "<c:00ff00>Action:<c> {{charge_plant}}\nSets a device that raises\nthe\nCharge amount of the\nwhole allied team. Setting\nit repeatedly raises its\n{{armor}} and the boost."
+  }
+ ]
+}

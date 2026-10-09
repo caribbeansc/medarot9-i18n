@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_pc03_161_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "Hey, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "53517ae392fb",
+   "t": "Amazing, {{main}}-chan."
+  },
+  {
+   "i": 1051,
+   "src": "02f8f07fa1a0",
+   "t": "At this rate, the analysis will be\ndone in no time."
+  },
+  {
+   "i": 1059,
+   "src": "7ae0553dc60e",
+   "t": "We might be able to go {{medalia}} hunting\nover summer break."
+  },
+  {
+   "i": 1062,
+   "src": "76109ca44a63",
+   "t": "Can't wait. Ha ha."
+  }
+ ]
+}

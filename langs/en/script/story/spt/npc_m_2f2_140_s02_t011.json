@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_2f2_140_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1038,
+   "src": "807df917d66f",
+   "t": "Don't recognize your face. Are"
+  },
+  {
+   "i": 1041,
+   "src": "25792bf7bd56",
+   "t": "you a first-year? What {{club}}?"
+  },
+  {
+   "i": 1049,
+   "src": "e76713bc91f3",
+   "t": "Huh? The {{exploration_club}}? There's"
+  },
+  {
+   "i": 1052,
+   "src": "17a7d6a4216f",
+   "t": "a {{club}} like that? First I've heard of it."
+  },
+  {
+   "i": 1060,
+   "src": "bdd5bda5f75a",
+   "t": "So, are they strong?"
+  }
+ ]
+}

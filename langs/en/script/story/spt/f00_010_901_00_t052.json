@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f00_010_901_00_t052.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1042,
+   "src": "5545fa826b08",
+   "t": "Ah, what are you doing, {{robo}}? That"
+  },
+  {
+   "i": 1045,
+   "src": "493ffb9df0c6",
+   "t": "tickles, robo... Ahyahyahya!"
+  },
+  {
+   "i": 1069,
+   "src": "b05f27818429",
+   "t": "...Nothing."
+  },
+  {
+   "i": 1085,
+   "src": "6b53e50d69b9",
+   "t": "Where is it?"
+  },
+  {
+   "i": 1092,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1101,
+   "src": "b2a84a9f5074",
+   "t": "I'm telling you, I didn't steal anything,\n{{robo}}!"
+  },
+  {
+   "i": 1104,
+   "src": "a88915f9a0f1",
+   "t": "I don't know, I don't know, {{robo}}~!"
+  },
+  {
+   "i": 1142,
+   "src": "8f7922814af8",
+   "t": "Still don't get it..."
+  },
+  {
+   "i": 1148,
+   "src": "6581d3888aed",
+   "t": "Still do not understand..."
+  }
+ ]
+}

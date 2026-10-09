@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/npc_idol_163_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "00a0bf4c7e2c",
+   "t": "One, two, one-two-three..."
+  },
+  {
+   "i": 1041,
+   "src": "4bff8901a4e5",
+   "t": "And then, pose!"
+  },
+  {
+   "i": 1051,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1057,
+   "src": "3b271c66c7b8",
+   "t": "Like this?"
+  },
+  {
+   "i": 1064,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1070,
+   "src": "a06026a9ea6a",
+   "t": "Hmm, your elbows might be opening a\nbit too much. "
+  },
+  {
+   "i": 1073,
+   "src": "90ca4e9a768e",
+   "t": "I want it to look cuter, so a bit more\nlike, this..."
+  },
+  {
+   "i": 1083,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1089,
+   "src": "ba5ce278dc84",
+   "t": "Oh?"
+  },
+  {
+   "i": 1099,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1105,
+   "src": "645286e101c9",
+   "t": "Oh, you're from the {{exploration_club}}."
+  },
+  {
+   "i": 1108,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  },
+  {
+   "i": 1116,
+   "src": "f52ed137f3c6",
+   "t": "I'm working out the choreography for a\nnew song right now."
+  },
+  {
+   "i": 1119,
+   "src": "2661e0a0d628",
+   "t": "It's only halfway done, so, um,"
+  },
+  {
+   "i": 1137,
+   "src": "6d2c281e9153",
+   "t": "could you p-please not watch too\nclosely?"
+  },
+  {
+   "i": 1140,
+   "src": "9e35b34c25dd",
+   "t": "It's embarrassing... Sorry!"
+  }
+ ]
+}

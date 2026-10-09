@@ -1,0 +1,340 @@
+{
+ "file": "story/spt/f03_090_161_00_t002.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "16cc48c12855",
+   "t": "Hola, te estaba esperando."
+  },
+  {
+   "i": 1050,
+   "src": "183b9dc42b6c",
+   "t": "¡Nosotros también tenemos algo!"
+  },
+  {
+   "i": 1053,
+   "src": "bb85d0c745c9",
+   "t": "En realidad..."
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "0e7a1c985432",
+   "t": "¿Algo que contar?"
+  },
+  {
+   "i": 1067,
+   "src": "8287a320f7d6",
+   "t": "Bueno, como sea."
+  },
+  {
+   "i": 1082,
+   "src": "8d0b7bd3f88e",
+   "t": "Qué cruel..."
+  },
+  {
+   "i": 1087,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1093,
+   "src": "5b5d0a3a8c3f",
+   "t": "Escucha, ¿recuerdas ese cristal de"
+  },
+  {
+   "i": 1096,
+   "src": "5edd9a272de8",
+   "t": "memoria que encontramos el otro día?"
+  },
+  {
+   "i": 1104,
+   "src": "f1c913191adf",
+   "t": "Por fin logré extraer los datos."
+  },
+  {
+   "i": 1111,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1117,
+   "src": "c6fc309e47a3",
+   "t": "Vaya."
+  },
+  {
+   "i": 1125,
+   "src": "b97ae930fc27",
+   "t": "Y, ¿qué había dentro?"
+  },
+  {
+   "i": 1135,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1141,
+   "src": "298935dec5be",
+   "t": "El {{blueprint}} de un {{medalia_detector}}."
+  },
+  {
+   "i": 1148,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1154,
+   "src": "6ab6e7a9cd63",
+   "t": "¡¿Qué?!"
+  },
+  {
+   "i": 1163,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1169,
+   "src": "e0ce965c09c8",
+   "t": "Parece que la {{medalia}} es"
+  },
+  {
+   "i": 1172,
+   "src": "53458e66071a",
+   "t": "algo que se puede detectar."
+  },
+  {
+   "i": 1179,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1185,
+   "src": "e9e9e3510d7d",
+   "t": "¿Cómo funciona?"
+  },
+  {
+   "i": 1188,
+   "src": "97da82b8e46c",
+   "t": "¿Es como un radar?"
+  },
+  {
+   "i": 1195,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1201,
+   "src": "6f5fb476031f",
+   "t": "Parece que es algo distinto."
+  },
+  {
+   "i": 1204,
+   "src": "eaafba69e757",
+   "t": "Se parece más a un contador Geiger."
+  },
+  {
+   "i": 1212,
+   "src": "cfff93e5b8f7",
+   "t": "La {{medalia}} tiene una {{react}} única"
+  },
+  {
+   "i": 1215,
+   "src": "512c7beeaf1a",
+   "t": "y esto puede detectarla."
+  },
+  {
+   "i": 1222,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1228,
+   "src": "1f4ffda7960e",
+   "t": "Así que, ¿con este aparato hallas la"
+  },
+  {
+   "i": 1231,
+   "src": "e0228e703a9a",
+   "t": "ubicación de la {{medalia}} sin verla?"
+  },
+  {
+   "i": 1238,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1244,
+   "src": "517c802ada4b",
+   "t": "Así es."
+  },
+  {
+   "i": 1252,
+   "src": "ff7c946c7f7d",
+   "t": "E-espera, ¿¡eso no es... increíble!?"
+  },
+  {
+   "i": 1260,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1266,
+   "src": "4b95446a5938",
+   "t": "Sí, es increíble."
+  },
+  {
+   "i": 1274,
+   "src": "ea2f1a01bb8c",
+   "t": "¡Estoy muy emocionado desde entonces"
+  },
+  {
+   "i": 1277,
+   "src": "06ad4cf425c1",
+   "t": "porque es simplemente increíble!"
+  },
+  {
+   "i": 1284,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1293,
+   "src": "ab58371c3364",
+   "t": "Aunque no lo pareces, la verdad."
+  },
+  {
+   "i": 1303,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1312,
+   "src": "19967a51e60e",
+   "t": "Pero hay un problema."
+  },
+  {
+   "i": 1320,
+   "src": "a1b27f841d44",
+   "t": "¿Qué problema?"
+  },
+  {
+   "i": 1328,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1334,
+   "src": "a6c2b21a583f",
+   "t": "Entender y reconstruir este {{blueprint}}"
+  },
+  {
+   "i": 1337,
+   "src": "cad24277e0de",
+   "t": "requiere mucho conocimiento."
+  },
+  {
+   "i": 1352,
+   "src": "77feb89be518",
+   "t": "Al menos yo, no tendría ni idea."
+  },
+  {
+   "i": 1355,
+   "src": "7a5d2746e482",
+   "t": "Jajaja."
+  },
+  {
+   "i": 1362,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1368,
+   "src": "17b333643cbe",
+   "t": "En concreto"
+  },
+  {
+   "i": 1371,
+   "src": "9ddc49360f54",
+   "t": "¿qué tipo de conocimiento se necesita?"
+  },
+  {
+   "i": 1381,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1387,
+   "src": "ba62f2c0e3d8",
+   "t": "No sé mucho, pero al menos"
+  },
+  {
+   "i": 1390,
+   "src": "f857dc80a5f6",
+   "t": "ingeniería de {{medabot|pl}}."
+  },
+  {
+   "i": 1398,
+   "src": "9c65a7776b7b",
+   "t": "Y física, química, matemáticas,"
+  },
+  {
+   "i": 1401,
+   "src": "7d328c3643e0",
+   "t": "y más ciencia avanzada hace falta."
+  },
+  {
+   "i": 1415,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1424,
+   "src": "e45adfafc04c",
+   "t": "O sea que es imposible, eh."
+  },
+  {
+   "i": 1431,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1440,
+   "src": "8175d2e2c1e4",
+   "t": "No, no, en nuestra escuela se reúnen"
+  },
+  {
+   "i": 1443,
+   "src": "b6bf1f924e9d",
+   "t": "élites de todo el mundo, ¿verdad?"
+  },
+  {
+   "i": 1451,
+   "src": "6d7a1f097410",
+   "t": "Entre los becados nunca sabes"
+  },
+  {
+   "i": 1454,
+   "src": "c7d46ac07557",
+   "t": "qué genios podrían esconderse~."
+  },
+  {
+   "i": 1461,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1470,
+   "src": "dcc97b3cecbc",
+   "t": "Becados..."
+  }
+ ]
+}

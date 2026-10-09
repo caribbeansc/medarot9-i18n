@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_rival_meda_117_s01_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ad1a2c18e5bf",
+   "t": "{{jasper}}"
+  },
+  {
+   "i": 1038,
+   "src": "08c6234742ef",
+   "t": "Your {{robattle|pl}} are boring."
+  },
+  {
+   "i": 1041,
+   "src": "c37041adb8ad",
+   "t": "It's like fighting {{stray}} Medabots!"
+  }
+ ]
+}

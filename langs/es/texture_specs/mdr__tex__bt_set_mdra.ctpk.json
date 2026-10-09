@@ -1,0 +1,73 @@
+{
+ "rel": "mdr/tex/bt_set_mdra.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "font": "sf-cond-heavy",
+  "cap": 9,
+  "baseline": 18,
+  "fill": "auto",
+  "stroke": null,
+  "min_scale_x": 0.75,
+  "text": "Medaria",
+  "align": "left",
+  "pad": 0,
+  "dx": 1
+ },
+ "items": [
+  {
+   "box": [
+    24,
+    6,
+    46,
+    16
+   ],
+   "erase_box": [
+    23,
+    7,
+    44,
+    14
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#F4F4F4",
+    "opacity": 0.8
+   }
+  },
+  {
+   "box": [
+    96,
+    6,
+    46,
+    16
+   ],
+   "erase_box": [
+    95,
+    7,
+    44,
+    14
+   ]
+  },
+  {
+   "box": [
+    168,
+    6,
+    46,
+    16
+   ],
+   "erase_box": [
+    167,
+    7,
+    44,
+    14
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#9A9A9A",
+    "opacity": 0.5
+   }
+  }
+ ]
+}

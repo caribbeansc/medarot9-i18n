@@ -1,0 +1,240 @@
+{
+ "file": "story/spt/f11_030_161_00_t013.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1044,
+   "src": "290b2dea825c",
+   "t": "I've been thinking about it a lot..."
+  },
+  {
+   "i": 1071,
+   "src": "ffb263d6974d",
+   "t": "What's happening now is probably\na replay of the past."
+  },
+  {
+   "i": 1079,
+   "src": "af24bfb2b0fd",
+   "t": "The past"
+  },
+  {
+   "i": 1087,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1096,
+   "src": "b58ffbf051f1",
+   "t": "A replay?"
+  },
+  {
+   "i": 1110,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1119,
+   "src": "194a8ee100c1",
+   "t": "Yeah."
+  },
+  {
+   "i": 1130,
+   "src": "1060e93e3d56",
+   "t": "When they dug up the {{medalium}} found\nin the "
+  },
+  {
+   "i": 1133,
+   "src": "968fce7a4745",
+   "t": "mine, a terrible monster appeared - big\ntrouble--"
+  },
+  {
+   "i": 1141,
+   "src": "31985cff6bb9",
+   "t": "I think something similar happened"
+  },
+  {
+   "i": 1144,
+   "src": "296b13482b32",
+   "t": "in the mining accident decades ago."
+  },
+  {
+   "i": 1151,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1160,
+   "src": "c7107efd329b",
+   "t": "But they managed somehow back then,\nright?"
+  },
+  {
+   "i": 1170,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1179,
+   "src": "530bee3311d1",
+   "t": "More or less."
+  },
+  {
+   "i": 1194,
+   "src": "2f8369ec8a3f",
+   "t": "But I'm sure it wasn't fully resolved."
+  },
+  {
+   "i": 1197,
+   "src": "d67b38334c10",
+   "t": "The monster was only sealed away."
+  },
+  {
+   "i": 1205,
+   "src": "ee842b0f0a2b",
+   "t": "Or perhaps..."
+  },
+  {
+   "i": 1225,
+   "src": "b2a81b0b3050",
+   "t": "That group in uniform with those\nstrange\nhelmets--"
+  },
+  {
+   "i": 1232,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1238,
+   "src": "0ab092e635d5",
+   "t": "The {{select_corps}}. The private security"
+  },
+  {
+   "i": 1241,
+   "src": "fb436c1797c3",
+   "t": "force of the {{wmss}} {{conglomerate}}."
+  },
+  {
+   "i": 1248,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1254,
+   "src": "df3e460e0fbc",
+   "t": "Right, the captain of that {{select_corps}}"
+  },
+  {
+   "i": 1257,
+   "src": "93bbc426d538",
+   "t": "seems set on defeating it this time,"
+  },
+  {
+   "i": 1268,
+   "src": "6619bd4639c4",
+   "t": "but the {{principal|cap}} seems to think\ndifferently."
+  },
+  {
+   "i": 1276,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1281,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1287,
+   "src": "2261d2fd21a2",
+   "t": "The {{principal|cap}} was determined to keep"
+  },
+  {
+   "i": 1290,
+   "src": "5de573f63994",
+   "t": "people away from that {{medalium}} at all\ncosts."
+  },
+  {
+   "i": 1301,
+   "src": "efb86c2ae6ba",
+   "t": "Probably thought no one\ncould beat it."
+  },
+  {
+   "i": 1316,
+   "src": "8922f95877af",
+   "t": "Yet people with all sorts of motives\nshowed up"
+  },
+  {
+   "i": 1319,
+   "src": "64ddf532ada2",
+   "t": "and finally the ban was broken, huh."
+  },
+  {
+   "i": 1326,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1335,
+   "src": "88fedf9d6cd8",
+   "t": "The {{vice_principal}}, maybe?"
+  },
+  {
+   "i": 1346,
+   "src": "5d49e6189586",
+   "t": "The {{rubberobo_gang}}, maybe"
+  },
+  {
+   "i": 1354,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1360,
+   "src": "34701def7aa1",
+   "t": "Or us, for example."
+  },
+  {
+   "i": 1387,
+   "src": "7d873697cb08",
+   "t": "I wonder what will happen now."
+  },
+  {
+   "i": 1399,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1405,
+   "src": "1810714beb75",
+   "t": "Who knows."
+  },
+  {
+   "i": 1416,
+   "src": "41f411168a15",
+   "t": "If the captain of that so-and-so corps\ndid well,"
+  },
+  {
+   "i": 1419,
+   "src": "de17fbea91e0",
+   "t": "wouldn't everything be solved by now?"
+  },
+  {
+   "i": 1428,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1437,
+   "src": "e308a1f1d1e9",
+   "t": "If they can't solve it, then--"
+  },
+  {
+   "i": 1462,
+   "src": "fed537c5ae87",
+   "t": "Huh?"
+  }
+ ]
+}

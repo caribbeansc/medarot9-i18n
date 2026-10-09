@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2f_meda_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9356f0822883",
+   "t": "{{dokoka_no_oji}}"
+  },
+  {
+   "i": 1038,
+   "src": "679f82af4560",
+   "t": "I make a guest appearance too."
+  },
+  {
+   "i": 1041,
+   "src": "65fbb12e00b9",
+   "t": "Please come see it. Please!"
+  }
+ ]
+}

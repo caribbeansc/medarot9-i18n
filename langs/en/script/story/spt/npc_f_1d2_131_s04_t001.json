@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1d2_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1c4b8d5a4d2d",
+   "t": "{{sen}}"
+  },
+  {
+   "i": 1038,
+   "src": "386ceac69320",
+   "t": "Hey, hey, look, isn't that over there"
+  },
+  {
+   "i": 1041,
+   "src": "6460f7bf1dde",
+   "t": "{{student_council_president}} Suzune-san?"
+  },
+  {
+   "i": 1052,
+   "src": "3f9eab8d0ec5",
+   "t": "So cool and gorgeous every time I see\nher"
+  },
+  {
+   "i": 1055,
+   "src": "e008fa5ababe",
+   "t": "How wonderful~!"
+  }
+ ]
+}

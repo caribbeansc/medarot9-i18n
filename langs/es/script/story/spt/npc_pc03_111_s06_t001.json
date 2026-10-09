@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc03_111_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "d089a4aca965",
+   "t": "Vaya, es como el laboratorio secreto"
+  },
+  {
+   "i": 1038,
+   "src": "2cf748dd3a2a",
+   "t": "de un científico malvado."
+  },
+  {
+   "i": 1059,
+   "src": "055f0d8bf585",
+   "t": "De hecho, quizá sea cierto."
+  },
+  {
+   "i": 1062,
+   "src": "a54b21a5c2ec",
+   "t": "Ajajaja."
+  }
+ ]
+}

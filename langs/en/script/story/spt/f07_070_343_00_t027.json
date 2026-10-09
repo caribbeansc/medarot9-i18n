@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f07_070_343_00_t027.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1049,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1060,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1068,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1077,
+   "src": "db54681fb6aa",
+   "t": "......!"
+  },
+  {
+   "i": 1092,
+   "src": "72aa5ef3c678",
+   "t": "Oh, is that so? Good for you."
+  },
+  {
+   "i": 1095,
+   "src": "0216dc7a3dcf",
+   "t": "Then there's nothing left to do here.\nLet's go back."
+  }
+ ]
+}

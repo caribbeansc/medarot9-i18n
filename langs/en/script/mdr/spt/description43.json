@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description43.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d4d1970aefee",
+   "t": "{{graze|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "899ce0a214ac",
+   "t": "A state in which an <c:ffff00>attack<c> reaches the {{opponent}} but\ndoesn't land cleanly, failing to deliver its normal\n{{effect}}.\n\nThe <c:ffff00>{{damage}}<c> dealt drops and, in addition, <c:ffff00>negative<c>\n<c:ffff00>statuses<c> and other effects are not applied.\n\nThe lower the <c:ffff00>{{success_power}}<c> of the attack, the\nmore likely it is to occur."
+  }
+ ]
+}

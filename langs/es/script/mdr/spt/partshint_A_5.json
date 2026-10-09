@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_5.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "8b6b26ad9c99",
+   "t": "<c:00ff00>{{mf}}:<c>{{survival}}\nSella todas las técnicas de\ncuración del equipo {{opponent}}."
+  }
+ ]
+}

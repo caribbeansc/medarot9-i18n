@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f01_040_117_30_t002.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "077e0a33e67a",
+   "t": "¿Por qué? Bueno, eso es porque..."
+  },
+  {
+   "i": 1047,
+   "src": "d76a6131bbda",
+   "t": "Así es como funcionan las {{robattle|pl}}."
+  },
+  {
+   "i": 1071,
+   "src": "ea5b604ccb9e",
+   "t": "¿Por qué? El que pelea soy yo, ¿no?"
+  },
+  {
+   "i": 1074,
+   "src": "25dacff09a2e",
+   "t": "Tú solo estás mirando, ¿o no?"
+  },
+  {
+   "i": 1080,
+   "src": "10e3bc9d84b7",
+   "t": "¿Por qué? ¡El que pelea soy yo!"
+  },
+  {
+   "i": 1083,
+   "src": "1bc1d094b586",
+   "t": "Tú solo miras desde ahí, ¿no?"
+  },
+  {
+   "i": 1100,
+   "src": "e5ab9ae449fe",
+   "t": "Y gané, ¿o no?"
+  },
+  {
+   "i": 1103,
+   "src": "f821bcc649bd",
+   "t": "Aquí no hay ningún problema, ¿verdad?"
+  },
+  {
+   "i": 1118,
+   "src": "4d8da841524d",
+   "t": "¡No se trata de ganar o perder!"
+  },
+  {
+   "i": 1121,
+   "src": "1e37b7bf5eba",
+   "t": "Las {{robattle|pl}} son--"
+  },
+  {
+   "i": 1126,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1135,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

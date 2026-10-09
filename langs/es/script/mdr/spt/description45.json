@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description45.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e37eb09553fd",
+   "t": "{{destroy|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "83f328931d4f",
+   "t": "{{condition|cap}} de una <c:ffff00>{{part}}<c> u <c:ffff00>{{object}}<c> que se rompe al llegar\nsu <c:ffff00>{{armor}}<c> a 0.\n\nYa no puede hacer <c:ffff00>acciones<c> ni <c:ffff00>respuestas<c>, y todo su\n<c:ffff00>{{stats}}<c> queda anulado. El {{armor}} de una {{part}}\ndestruida no se puede <c:ffff00>recuperar<c>, pero el efecto\n<c:ffff00>{{restore}}<c> sí funciona.\nUn <c:ffff00>{{medabot}}<c> con la <c:ffff00>{{head}}<c> destruida queda <c:ffff00>fuera de<c>\n<c:ffff00>combate<c>. Un {{object}} destruido desaparece."
+  }
+ ]
+}

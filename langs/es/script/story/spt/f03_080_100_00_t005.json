@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f03_080_100_00_t005.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "23cd5d5dd79f",
+   "t": "¿Cómo que 'voy a encargarme de ti'?"
+  },
+  {
+   "i": 1038,
+   "src": "965fdd58dc01",
+   "t": "¡Si él fue quien empezó la pelea!"
+  },
+  {
+   "i": 1046,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1052,
+   "src": "e255dd5d192e",
+   "t": "¿Tus compañeros? Ya te llevas bien"
+  },
+  {
+   "i": 1055,
+   "src": "b3ff6a5b5801",
+   "t": "tan pronto tras transferirte."
+  },
+  {
+   "i": 1066,
+   "src": "ac86e117e38b",
+   "t": "¿Es una broma?"
+  },
+  {
+   "i": 1069,
+   "src": "b94c3a9a00c1",
+   "t": "¡Eso no es normal!"
+  },
+  {
+   "i": 1074,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1080,
+   "src": "9351a84aeee1",
+   "t": "......No."
+  },
+  {
+   "i": 1088,
+   "src": "bbd5dea0aa88",
+   "t": "Tarde o temprano arreglarás cuentas."
+  },
+  {
+   "i": 1091,
+   "src": "82ce0ddb8284",
+   "t": "...En fin."
+  },
+  {
+   "i": 1099,
+   "src": "52e883bb1770",
+   "t": "Volvamos al {{club}}."
+  },
+  {
+   "i": 1102,
+   "src": "a8fc10cbd4c6",
+   "t": "Debo informar al {{club_president}}."
+  }
+ ]
+}

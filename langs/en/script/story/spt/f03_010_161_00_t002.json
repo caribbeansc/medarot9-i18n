@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f03_010_161_00_t002.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "e42717e480ea",
+   "t": "The {{exploration_club}}, you see,"
+  },
+  {
+   "i": 1043,
+   "src": "10cac13d95fd",
+   "t": "is a club for exploring every nook and\ncranny of "
+  },
+  {
+   "i": 1046,
+   "src": "ea37a22ae521",
+   "t": "Loose Geyser Island~."
+  },
+  {
+   "i": 1053,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1062,
+   "src": "6520ba0627d3",
+   "t": "So you mean we walk all around\nthe island?"
+  },
+  {
+   "i": 1072,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1081,
+   "src": "57b4f116ce07",
+   "t": "Well, I guess so."
+  },
+  {
+   "i": 1091,
+   "src": "f735a648ae13",
+   "t": "You all know by now that this island"
+  },
+  {
+   "i": 1094,
+   "src": "795a8dae7bab",
+   "t": "used to be a Medalia mine, right?"
+  },
+  {
+   "i": 1102,
+   "src": "0a59347d4616",
+   "t": "They dug out all the {{medalia}}"
+  },
+  {
+   "i": 1105,
+   "src": "12085584591c",
+   "t": "and shut the mine down decades ago..."
+  },
+  {
+   "i": 1113,
+   "src": "8cb58d0313df",
+   "t": "Before the mine and after it closed, until\nthe academy,"
+  },
+  {
+   "i": 1116,
+   "src": "cd8b57680a28",
+   "t": "this island was uninhabited the whole\ntime."
+  },
+  {
+   "i": 1124,
+   "src": "6845d726d265",
+   "t": "Is that so..."
+  },
+  {
+   "i": 1132,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1138,
+   "src": "9aef5420c980",
+   "t": "That's why there are old mining\nfacilities"
+  },
+  {
+   "i": 1141,
+   "src": "7a19afc5f730",
+   "t": "left here and there on the island..."
+  },
+  {
+   "i": 1149,
+   "src": "1a9985703c18",
+   "t": "And on the other hand, there are blank"
+  },
+  {
+   "i": 1152,
+   "src": "2a2e2994557c",
+   "t": "areas on the map that were never\nrecorded."
+  },
+  {
+   "i": 1160,
+   "src": "9c88692574a2",
+   "t": "There's hardly any map of the back of\nthe mountain."
+  },
+  {
+   "i": 1163,
+   "src": "19c2a8a1fadd",
+   "t": "Perfect stage for an expedition, right~?"
+  },
+  {
+   "i": 1170,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1179,
+   "src": "2cdf16a02da0",
+   "t": "So the club's activity is basically"
+  },
+  {
+   "i": 1182,
+   "src": "7adb4bb274b1",
+   "t": "just wandering around the whole island."
+  },
+  {
+   "i": 1190,
+   "src": "ff92be682576",
+   "t": "Hmph..."
+  },
+  {
+   "i": 1197,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1206,
+   "src": "782f8cd8b6e4",
+   "t": "Now, now, don't make such a bored\nface."
+  },
+  {
+   "i": 1209,
+   "src": "7de54f3f1918",
+   "t": "...Look."
+  }
+ ]
+}

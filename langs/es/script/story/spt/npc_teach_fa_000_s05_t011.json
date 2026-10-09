@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_fa_000_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1038,
+   "src": "adcf5255982e",
+   "t": "Vaya, eres tú,"
+  },
+  {
+   "i": 1041,
+   "src": "392caacfefa4",
+   "t": "¿qué haces aquí?"
+  },
+  {
+   "i": 1049,
+   "src": "ac9e2b2e7615",
+   "t": "Hoy los clubes están cancelados."
+  },
+  {
+   "i": 1052,
+   "src": "2b41b00f03b5",
+   "t": "¿No deberías volver a tu cuarto?"
+  }
+ ]
+}

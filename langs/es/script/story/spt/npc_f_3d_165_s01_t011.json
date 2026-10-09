@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3d_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "608ad0067e00",
+   "t": "Al graduarme no iré a la universidad."
+  },
+  {
+   "i": 1041,
+   "src": "a9a7c3058344",
+   "t": "Me uniré al Rescate Internacional."
+  },
+  {
+   "i": 1049,
+   "src": "b48886e7c91c",
+   "t": "Quiero llegar pronto al desastre"
+  },
+  {
+   "i": 1052,
+   "src": "9210d54c660b",
+   "t": "para ayudar a quien lo necesite."
+  }
+ ]
+}

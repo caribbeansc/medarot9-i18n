@@ -1,0 +1,135 @@
+{
+ "rel": "mdr/tex/cp1_txt_b9.ctpk",
+ "base": "jp",
+ "styles": {
+  "robo": {
+   "font": "anton",
+   "italic_skew": 0.5,
+   "pad": 0,
+   "min_scale_x": 0.75
+  }
+ },
+ "items": [
+  {
+   "style": "robo",
+   "segments": [
+    [
+     0,
+     0,
+     301,
+     64,
+     40,
+     0
+    ],
+    [
+     0,
+     64,
+     307,
+     42,
+     0,
+     64
+    ]
+   ],
+   "erase": "transparent",
+   "box": [
+    24,
+    24,
+    300,
+    78
+   ],
+   "text": "ROBOBATALLA",
+   "cap": 52,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#0A1A6E"
+     ],
+     [
+      0.22,
+      "#1E46E0"
+     ],
+     [
+      0.42,
+      "#46D2FF"
+     ],
+     [
+      0.5,
+      "#1C6CF0"
+     ],
+     [
+      0.68,
+      "#0A1E96"
+     ],
+     [
+      0.88,
+      "#3C9CF0"
+     ],
+     [
+      1,
+      "#7EDCFF"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#0C2A9C",
+     "w": 1.2
+    },
+    {
+     "color": "#E8FFFF",
+     "w": 2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#3CD2FF",
+    "blur": 3.5,
+    "opacity": 1.0
+   },
+   "tracking": 1,
+   "dark_edges": true
+  },
+  {
+   "box": [
+    308,
+    0,
+    184,
+    96
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "robo",
+   "box": [
+    330,
+    22,
+    150,
+    76
+   ],
+   "erase": "none",
+   "text": "ROBOBATALLA",
+   "cap": 52,
+   "size": 60.46511627906977,
+   "scale_x": 0.4142512077294686,
+   "italic_skew": 0.25,
+   "fill": "#FFFFFF00",
+   "strokes": [
+    {
+     "color": "#FFFFFF00",
+     "w": 1
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#D2FFEA",
+    "blur": 1.5,
+    "opacity": 0.93
+   },
+   "tracking": 0.5
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "rel": "mdr/tex/bg_enemy.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+  "cap": 5,
+  "scale_x": 1.5,
+  "tracking": 0,
+  "pad": 0,
+  "crisp": 0,
+  "fill": {
+   "stops": [
+    [
+     0,
+     "#CECECE"
+    ],
+    [
+     0.5,
+     "#A1A1A1"
+    ],
+    [
+     1,
+     "#757575"
+    ]
+   ]
+  },
+  "stroke": "#000000",
+  "stroke_w": 1,
+  "shadow": {
+   "dx": 0,
+   "dy": 1,
+   "color": "#000000",
+   "blur": 0,
+   "opacity": 0.35
+  },
+  "snap": false,
+  "align": "left",
+  "dx": -0.25
+ },
+ "items": [
+  {
+   "box": [
+    348,
+    28,
+    106,
+    8
+   ],
+   "erase_box": [
+    347,
+    26,
+    107,
+    11
+   ],
+   "text": "RIVAL MEDABOT",
+   "tracking": 0.4
+  }
+ ]
+}

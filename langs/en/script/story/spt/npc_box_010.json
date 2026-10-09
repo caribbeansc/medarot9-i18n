@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_box_010.spt",
+ "lines": [
+  {
+   "i": 997,
+   "src": "8a54736f65b0",
+   "t": "What's this?"
+  },
+  {
+   "i": 1000,
+   "src": "b2a3d44c8025",
+   "t": "A trash bin?"
+  }
+ ]
+}

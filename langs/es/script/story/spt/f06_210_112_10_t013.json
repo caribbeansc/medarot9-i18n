@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f06_210_112_10_t013.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1038,
+   "src": "9169f5c3b297",
+   "t": "Por cierto, ¿esa aplicación de {{detect}}"
+  },
+  {
+   "i": 1041,
+   "src": "072d2b89d61b",
+   "t": "ya se puede usar?"
+  },
+  {
+   "i": 1048,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1054,
+   "src": "589364c85302",
+   "t": "Por ahora sí."
+  },
+  {
+   "i": 1061,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1067,
+   "src": "cf2776eba8dd",
+   "t": "¿Puedo echarle un vistazo?"
+  },
+  {
+   "i": 1074,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1080,
+   "src": "22525ea105ff",
+   "t": "Aquí tiene."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3a2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "971401ef6732",
+   "t": "{{kikuyo}}"
+  },
+  {
+   "i": 1035,
+   "src": "56ec50b384aa",
+   "t": "Una {{robattle}}, eh... Lo siento,"
+  },
+  {
+   "i": 1038,
+   "src": "381f40153518",
+   "t": "ahora no puedo... La próxima, ¿sí?"
+  }
+ ]
+}

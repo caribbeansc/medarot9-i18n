@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description9.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "73d323f85a08",
+   "t": "Brazo der. ({{slot}})"
+  },
+  {
+   "i": 11,
+   "src": "d0303a4a09ef",
+   "t": "<c:ffff00>{{slot|cap}}<c> del {{right_arm_part_slot}} del <c:ffff00>{{medabot}}<c>. Tiene\n<c:ffff00>habilidad<c>, <c:ffff00>técnica<c> y este <c:ffff00>{{stats}}<c>: <c:ffff00>{{armor}}<c>,\n<c:ffff00>{{success}}<c>, <c:ffff00>{{power}}<c>, <c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c>.\nA diferencia de la <c:ffff00>{{head}}<c>, puede usar técnicas sin\nlímite mientras no sea <c:ffff00>destruida<c>. Como <c:ffff00>{{response}}<c> a\nun <c:ffff00>ataque<c>, puede <c:ffff00>defender<c>.\nCon la <c:ffff00>{{charge_gauge}}<c> llena sube, según la habilidad:\n{{power}} (<c:ffff00>combate<c>), {{success}} (<c:ffff00>disparo<c>), {{cooldown}}\n(<c:ffff00>apoyo<c>, <c:ffff00>trampa<c>) o {{prep}} (<c:ffff00>curación<c>, <c:ffff00>{{defend}}<c>)."
+  }
+ ]
+}

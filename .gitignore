@@ -1,0 +1,24 @@
+# The game itself, in any form. This repository must never contain it.
+*.3ds
+*.cci
+*.cia
+*.cxi
+*.app
+*.bin
+romfs/
+exefs/
+
+# Everything built from your own dump.
+build/
+dist/
+work/
+
+# Where your copy of the game is; personal, not shared.
+m9.config.json
+
+# Python, editors, OS noise
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/

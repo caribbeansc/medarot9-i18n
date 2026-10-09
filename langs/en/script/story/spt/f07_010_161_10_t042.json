@@ -1,0 +1,235 @@
+{
+ "file": "story/spt/f07_010_161_10_t042.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "64de6f847c8e",
+   "t": "Please wait."
+  },
+  {
+   "i": 1049,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1055,
+   "src": "91908cc727dc",
+   "t": "What is it?"
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1068,
+   "src": "21ff847e09c0",
+   "t": "First of all, thank you."
+  },
+  {
+   "i": 1071,
+   "src": "e839775a2017",
+   "t": "Thank you for going out of your way."
+  },
+  {
+   "i": 1078,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1084,
+   "src": "537cf045fb98",
+   "t": "Ah... Yes."
+  },
+  {
+   "i": 1105,
+   "src": "d3f744d5cdc6",
+   "t": "If you want to thank someone, thank the"
+  },
+  {
+   "i": 1108,
+   "src": "45633675da2c",
+   "t": "Principal. You see--"
+  },
+  {
+   "i": 1116,
+   "src": "f9450690e5ee",
+   "t": "Before leaving, the {{principal|cap}} contacted\nme"
+  },
+  {
+   "i": 1119,
+   "src": "5c9bf8f94dc2",
+   "t": "and had me give that back to you."
+  },
+  {
+   "i": 1127,
+   "src": "95266b9c465f",
+   "t": "He said he'd gone a bit too far."
+  },
+  {
+   "i": 1130,
+   "src": "7efdbc60eae9",
+   "t": "Ha ha ha ha."
+  },
+  {
+   "i": 1155,
+   "src": "ddcf0ae44096",
+   "t": "Oh, right."
+  },
+  {
+   "i": 1163,
+   "src": "f5936155f16a",
+   "t": "I almost forgot to mention it."
+  },
+  {
+   "i": 1166,
+   "src": "4e7c247bd895",
+   "t": "I have a proposal."
+  },
+  {
+   "i": 1173,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1179,
+   "src": "4e7267a8fc0c",
+   "t": "What might that be?"
+  },
+  {
+   "i": 1186,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1192,
+   "src": "9072bd4bf720",
+   "t": "About that {{medalia}} detection {{app}}..."
+  },
+  {
+   "i": 1207,
+   "src": "e850bd6d35ce",
+   "t": "What do you say"
+  },
+  {
+   "i": 1210,
+   "src": "7521e937c98a",
+   "t": "we open it to the whole {{student}} body?"
+  },
+  {
+   "i": 1225,
+   "src": "7d574f6ea7be",
+   "t": "Huh?"
+  },
+  {
+   "i": 1230,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1236,
+   "src": "24dcd92b2ea5",
+   "t": "If only you can use the detector,"
+  },
+  {
+   "i": 1239,
+   "src": "495df128bca4",
+   "t": "you'll collect lots of {{medalia}} from now\non."
+  },
+  {
+   "i": 1247,
+   "src": "7a3e19f51252",
+   "t": "In a school where {{medabot|pl}} are central"
+  },
+  {
+   "i": 1250,
+   "src": "8a1c57c6a858",
+   "t": "to the curriculum, that's too big an\nedge."
+  },
+  {
+   "i": 1258,
+   "src": "f572ec98563f",
+   "t": "Educationally speaking, that's a\nproblem."
+  },
+  {
+   "i": 1261,
+   "src": "87971a2e329b",
+   "t": "It creates inequality, after all."
+  },
+  {
+   "i": 1269,
+   "src": "874ea1a7a568",
+   "t": "But if we open it to everyone,"
+  },
+  {
+   "i": 1272,
+   "src": "389edce3605b",
+   "t": "all can compete on equal ground by\neffort."
+  },
+  {
+   "i": 1280,
+   "src": "e850bd6d35ce",
+   "t": "What do you think?"
+  },
+  {
+   "i": 1283,
+   "src": "45bde5677764",
+   "t": "Would you consider it?"
+  },
+  {
+   "i": 1303,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1311,
+   "src": "4da25ee51f16",
+   "t": "Sure, that's fine."
+  },
+  {
+   "i": 1322,
+   "src": "2f526da01f0e",
+   "t": "President."
+  },
+  {
+   "i": 1327,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1333,
+   "src": "d2f01fc0e96a",
+   "t": "O-oh, really?"
+  },
+  {
+   "i": 1336,
+   "src": "ccef63e0340b",
+   "t": "I knew you'd say that."
+  },
+  {
+   "i": 1351,
+   "src": "ecb9683cddba",
+   "t": "Thank you. Please start"
+  },
+  {
+   "i": 1354,
+   "src": "3338e356d360",
+   "t": "preparing right away."
+  },
+  {
+   "i": 1362,
+   "src": "7958209d3a72",
+   "t": "I'll leave the release process to you."
+  },
+  {
+   "i": 1365,
+   "src": "cc1660e183fb",
+   "t": "Well, so long."
+  }
+ ]
+}

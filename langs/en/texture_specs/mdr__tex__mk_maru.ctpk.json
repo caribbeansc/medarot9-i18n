@@ -1,0 +1,29 @@
+{
+ "rel": "mdr/tex/mk_maru.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    13,
+    29,
+    10
+   ],
+   "erase_box": [
+    0,
+    13,
+    29,
+    10
+   ],
+   "erase": "transparent",
+   "text": "All",
+   "font": "sf",
+   "cap": 7,
+   "fill": "#22C41BC8",
+   "stroke": "#167A1190",
+   "stroke_w": 0.8,
+   "crisp": 0.6,
+   "pad": 0
+  }
+ ]
+}

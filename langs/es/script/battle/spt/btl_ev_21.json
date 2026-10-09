@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/btl_ev_21.spt",
+ "lines": [
+  {
+   "i": 1121,
+   "src": "912ea188b90c",
+   "t": "!\n¡Destruye primero las trampas!"
+  },
+  {
+   "i": 1137,
+   "src": "8c4f8fdb6d84",
+   "t": "¿Por qué?"
+  },
+  {
+   "i": 1146,
+   "src": "8c4f8fdb6d84",
+   "t": "¿Por qué?"
+  },
+  {
+   "i": 1156,
+   "src": "320750513610",
+   "t": ", ¡te lo pido, hazme caso!"
+  },
+  {
+   "i": 1172,
+   "src": "892cb6a50ecd",
+   "t": "¡Solo por esta vez!"
+  },
+  {
+   "i": 1181,
+   "src": "892cb6a50ecd",
+   "t": "¡Solo por esta vez!"
+  }
+ ]
+}

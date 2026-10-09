@@ -1,0 +1,33 @@
+{
+ "rel": "mdr/tex/mk_mate_frame.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    9,
+    4,
+    150,
+    14
+   ],
+   "erase_box": [
+    8,
+    0,
+    80,
+    18
+   ],
+   "erase": "solid:#000000",
+   "text": "Materiales de Medaria",
+   "font": "sf-heavy",
+   "cap": 9,
+   "pad": 0,
+   "align": "left",
+   "baseline": 15,
+   "crisp": 0.5,
+   "stroke": null,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#B0B0B0"
+   }
+  }
+ ]
+}

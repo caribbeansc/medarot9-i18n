@@ -1,0 +1,135 @@
+{
+ "file": "story/spt/f01_080_164_10_t004.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1049,
+   "src": "dcae5465df29",
+   "t": "Okay, that's it."
+  },
+  {
+   "i": 1052,
+   "src": "6ec036ba7d09",
+   "t": "Now, next up..."
+  },
+  {
+   "i": 1063,
+   "src": "aff460c7ac87",
+   "t": "is the {{medabot}}'s turn."
+  },
+  {
+   "i": 1090,
+   "src": "fed537c5ae87",
+   "t": "Huh?"
+  },
+  {
+   "i": 1111,
+   "src": "afde02f431b8",
+   "t": "Me?"
+  },
+  {
+   "i": 1117,
+   "src": "7eaf55d89505",
+   "t": "Me?"
+  },
+  {
+   "i": 1132,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1141,
+   "src": "cb429e7f928f",
+   "t": "Yep. You get a simple test too."
+  },
+  {
+   "i": 1144,
+   "src": "c56293d71fdf",
+   "t": "We do our research together with\n{{medabot|pl}}."
+  },
+  {
+   "i": 1173,
+   "src": "76a8b302d2bc",
+   "t": "Research?!"
+  },
+  {
+   "i": 1176,
+   "src": "626a6317442f",
+   "t": "No {{robattle|pl}}?"
+  },
+  {
+   "i": 1182,
+   "src": "76a8b302d2bc",
+   "t": "Research?!"
+  },
+  {
+   "i": 1185,
+   "src": "f7ac648ff700",
+   "t": "Is there no Robattling?"
+  },
+  {
+   "i": 1193,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1202,
+   "src": "8fae93a2a80c",
+   "t": "Well, we {{robattle}} sometimes, but"
+  },
+  {
+   "i": 1205,
+   "src": "22bc32779e03",
+   "t": "research is our main activity."
+  },
+  {
+   "i": 1229,
+   "src": "f545658ee806",
+   "t": "What's research?"
+  },
+  {
+   "i": 1243,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1252,
+   "src": "281cdd3b4df8",
+   "t": "Looking into things and thinking about\nthem."
+  },
+  {
+   "i": 1255,
+   "src": "1d4eb6058d6e",
+   "t": "Fun studying, you could say."
+  },
+  {
+   "i": 1279,
+   "src": "d392c9eef92d",
+   "t": "Studying?!"
+  },
+  {
+   "i": 1300,
+   "src": "c2a4c3df5475",
+   "t": "Then forget it!"
+  },
+  {
+   "i": 1303,
+   "src": "25d0767baaf7",
+   "t": "{{robattle|pl}} are way better!"
+  },
+  {
+   "i": 1309,
+   "src": "c93e91b55dad",
+   "t": "Then I refuse!"
+  },
+  {
+   "i": 1312,
+   "src": "25d0767baaf7",
+   "t": "{{robattle|pl}} are better!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_96.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "58c893a580cf",
+   "t": "<c:00ff00>Técnica:<c>{{reckless}}\nDurante un tiempo, añade\nla subhabilidad \"frenesí\" a\nla {{part}} de lucha de un\n{{medabot}} {{ally_battle_term}}.\n{{up|cap}} la {{mobility}} al usar\nel frenesí."
+  }
+ ]
+}

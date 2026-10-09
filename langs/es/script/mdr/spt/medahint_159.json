@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_159.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b3930d477544",
+   "t": "{{medabot}} {{type}} caballero\nespecializado en {{defend}}.\n \nSus grandes escudos de\nbrazo resisten ataques\ndébiles sin un rasguño, y\ndos pares de ruedas,\ngrandes y pequeñas,\ncargan su mayor peso."
+  }
+ ]
+}

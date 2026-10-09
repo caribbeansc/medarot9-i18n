@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_mc_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "9d002433b612",
+   "t": "{{mr_izumo}}"
+  },
+  {
+   "i": 1035,
+   "src": "2d4b49ca9cd3",
+   "t": "It's difficult right now..."
+  },
+  {
+   "i": 1038,
+   "src": "34040a5445ef",
+   "t": "Another time."
+  }
+ ]
+}

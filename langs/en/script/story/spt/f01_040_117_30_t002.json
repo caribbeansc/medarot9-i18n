@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f01_040_117_30_t002.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "077e0a33e67a",
+   "t": "Why? Well, that's because..."
+  },
+  {
+   "i": 1047,
+   "src": "d76a6131bbda",
+   "t": "That's just how {{robattle|pl}} work."
+  },
+  {
+   "i": 1071,
+   "src": "ea5b604ccb9e",
+   "t": "Why? I'm the one fighting, right?"
+  },
+  {
+   "i": 1074,
+   "src": "25dacff09a2e",
+   "t": "You're just standing there watching,\naren't you?"
+  },
+  {
+   "i": 1080,
+   "src": "10e3bc9d84b7",
+   "t": "Why? I am the one who fights!"
+  },
+  {
+   "i": 1083,
+   "src": "1bc1d094b586",
+   "t": "Are you not just standing there\nwatching?"
+  },
+  {
+   "i": 1100,
+   "src": "e5ab9ae449fe",
+   "t": "And I won, didn't I?"
+  },
+  {
+   "i": 1103,
+   "src": "f821bcc649bd",
+   "t": "I don't see any problem here."
+  },
+  {
+   "i": 1118,
+   "src": "4d8da841524d",
+   "t": "It's not about winning or losing!"
+  },
+  {
+   "i": 1121,
+   "src": "1e37b7bf5eba",
+   "t": "A {{robattle}} is--"
+  },
+  {
+   "i": 1126,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1135,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

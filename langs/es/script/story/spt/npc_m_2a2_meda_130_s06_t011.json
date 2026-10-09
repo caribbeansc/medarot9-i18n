@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_2a2_meda_130_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "57b0e6beef55",
+   "t": "Stingray"
+  },
+  {
+   "i": 1038,
+   "src": "8301983886c2",
+   "t": "Creo que no soy muy fan del verano."
+  },
+  {
+   "i": 1046,
+   "src": "8acfa5b901ae",
+   "t": "Porque en verano el piso se pone"
+  },
+  {
+   "i": 1049,
+   "src": "9a3957360c91",
+   "t": "pegajoso y deja de ser liso."
+  }
+ ]
+}

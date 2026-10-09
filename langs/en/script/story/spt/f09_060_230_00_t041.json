@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f09_060_230_00_t041.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1037,
+   "src": "b66f92437f49",
+   "t": "Hunting for this island's hidden {{medalia}},"
+  },
+  {
+   "i": 1040,
+   "src": "de53a80dc1da",
+   "t": "I'm the {{rubberobo_gang}}'s female\nexecutive!!"
+  },
+  {
+   "i": 1051,
+   "src": "5f23c03615e9",
+   "t": "Hidden... {{medalia}}..."
+  },
+  {
+   "i": 1056,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1065,
+   "src": "169d8c25a80d",
+   "t": "It was a rumor."
+  },
+  {
+   "i": 1068,
+   "src": "c06dbe0ce652",
+   "t": "At first, anyway."
+  },
+  {
+   "i": 1076,
+   "src": "33d6333199b2",
+   "t": "Tall tales from down-and-out mine\nworkers."
+  },
+  {
+   "i": 1079,
+   "src": "dbf386b6e995",
+   "t": "Well, even I was half in doubt, but..."
+  }
+ ]
+}

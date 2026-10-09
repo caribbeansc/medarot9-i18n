@@ -1,0 +1,53 @@
+{
+ "rel": "story/mdl/m161.bcmdl",
+ "tex": "m161_box",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "pad": 0,
+  "crisp": 0
+ },
+ "items": [
+  {
+   "erase_box": [
+    28,
+    20,
+    76,
+    22
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "thr": 30,
+   "text": ""
+  },
+  {
+   "box": [
+    28,
+    22,
+    72,
+    20
+   ],
+   "text": "CUIDADO",
+   "font": "sf-cond",
+   "cap": 14,
+   "baseline": 38,
+   "fill": "#FAA808",
+   "strokes": [
+    {
+     "color": "#FFE595",
+     "w": 0.5
+    }
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#D1AF6B",
+    "opacity": 0.8
+   },
+   "scale_x": 0.94,
+   "font_var": "Condensed Semibold"
+  }
+ ]
+}

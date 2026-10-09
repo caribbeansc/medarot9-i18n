@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3d2_meda_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "66e71b8a95ea",
+   "t": "{{teppen}}"
+  },
+  {
+   "i": 1038,
+   "src": "c64f308f3e65",
+   "t": "Todos están inquietos y nerviosos."
+  },
+  {
+   "i": 1041,
+   "src": "3b09403a4247",
+   "t": "¿Será por el festival cultural?"
+  }
+ ]
+}

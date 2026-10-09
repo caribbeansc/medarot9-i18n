@@ -1,0 +1,290 @@
+{
+ "file": "story/spt/freequest.spt",
+ "lines": [
+  {
+   "i": 1211,
+   "src": "bc7c42361cbb",
+   "t": "No time for quests "
+  },
+  {
+   "i": 1214,
+   "src": "a2d747e7d8ce",
+   "t": "right now.         "
+  },
+  {
+   "i": 1253,
+   "src": "5c1696de1b6e",
+   "t": "These are your quests...     "
+  },
+  {
+   "i": 1271,
+   "src": "5c1696de1b6e",
+   "t": "These are your quests...     "
+  },
+  {
+   "i": 1289,
+   "src": "0b466061cb62",
+   "t": "I worry about {{mio}}...    "
+  },
+  {
+   "i": 1314,
+   "src": "5c1696de1b6e",
+   "t": "These are your quests...     "
+  },
+  {
+   "i": 1332,
+   "src": "95061443a383",
+   "t": "Speak to the vice principal.  "
+  },
+  {
+   "i": 1357,
+   "src": "5c1696de1b6e",
+   "t": "These are your quests...     "
+  },
+  {
+   "i": 1375,
+   "src": "3607f2f3b679",
+   "t": "Locate the source of the sound wave,        "
+  },
+  {
+   "i": 1378,
+   "src": "b8188919c883",
+   "t": "Go to the {{principal}}'s office."
+  },
+  {
+   "i": 1403,
+   "src": "b4d7034d8e52",
+   "t": "Before you depart on your quest,"
+  },
+  {
+   "i": 1406,
+   "src": "ad31c7b1609c",
+   "t": "Talk to {{main}}-chan."
+  },
+  {
+   "i": 1431,
+   "src": "09288a961ef1",
+   "t": "Go to the beach to,"
+  },
+  {
+   "i": 1434,
+   "src": "0b25e23fdc9b",
+   "t": "do the {{student}} council's job.          "
+  },
+  {
+   "i": 1459,
+   "src": "5c1696de1b6e",
+   "t": "These are your quests...     "
+  },
+  {
+   "i": 1477,
+   "src": "b2a2199f40e7",
+   "t": "I'm not in the mood...          "
+  },
+  {
+   "i": 1502,
+   "src": "fb1b9de0be91",
+   "t": "Find out whats wrong with the parts\nbin,"
+  },
+  {
+   "i": 1505,
+   "src": "1afe7c43a0cb",
+   "t": "we have to do something."
+  },
+  {
+   "i": 1533,
+   "src": "fed537c5ae87",
+   "t": "Huh?                     "
+  },
+  {
+   "i": 1536,
+   "src": "c20514caf72e",
+   "t": "They're all gathering at the parts bin..."
+  },
+  {
+   "i": 1561,
+   "src": "b933a3b6a654",
+   "t": "More important than quests now,          "
+  },
+  {
+   "i": 1564,
+   "src": "a62824509e71",
+   "t": "get ready for the tournament.         "
+  },
+  {
+   "i": 1589,
+   "src": "5c1696de1b6e",
+   "t": "These are your quests...     "
+  },
+  {
+   "i": 1603,
+   "src": "a7e8705bae02",
+   "t": "Bulletin Board."
+  },
+  {
+   "i": 1606,
+   "src": "d8fb444347a4",
+   "t": "There isn't anything of imporance.   "
+  },
+  {
+   "i": 1620,
+   "src": "c343a2b19c4a",
+   "t": "'{{explore|cap}}:Underground Warehouse'"
+  },
+  {
+   "i": 1629,
+   "src": "d9008f1fdad6",
+   "t": "'{{explore|cap}}:Tunnel {{entrance}}'"
+  },
+  {
+   "i": 1638,
+   "src": "3a764322da85",
+   "t": "'{{explore|cap}}:{{misty_deep_forest}}'"
+  },
+  {
+   "i": 1647,
+   "src": "ded872c23da7",
+   "t": "'Observe:{{old_harbor_town}}'"
+  },
+  {
+   "i": 1658,
+   "src": "276b38f27bc6",
+   "t": "'Observe:{{shaft_tower}}'"
+  },
+  {
+   "i": 1669,
+   "src": "322f412a78a6",
+   "t": "'Observe:Mountain Peak'"
+  },
+  {
+   "i": 1680,
+   "src": "ca3261948b8e",
+   "t": "'{{medalia}} {{collect|cap}}:Warehouse'"
+  },
+  {
+   "i": 1689,
+   "src": "76376349aef2",
+   "t": "'{{medalia}} {{collect|cap}}:{{mine}} Site'"
+  },
+  {
+   "i": 1698,
+   "src": "a0a5acc7381a",
+   "t": "'{{medalia}} {{collect|cap}}:{{mountain_stream}}'"
+  },
+  {
+   "i": 1707,
+   "src": "2bfbaa52d1fd",
+   "t": "'{{medalia}} {{collect|cap}}:Trolley Station'"
+  },
+  {
+   "i": 1716,
+   "src": "ecc6d5a3b400",
+   "t": "'{{medalia}} {{collect|cap}}:Port Coast'"
+  },
+  {
+   "i": 1725,
+   "src": "f543c54aeeec",
+   "t": "'{{medalia}} {{collect|cap}}:{{crater}}'"
+  },
+  {
+   "i": 1734,
+   "src": "048b16537f8d",
+   "t": "'{{medalia}} {{collect|cap}}:{{old_harbor_town}}'"
+  },
+  {
+   "i": 1743,
+   "src": "42d3e12ea934",
+   "t": "'{{medalia}} {{collect|cap}}:Ski Resort'"
+  },
+  {
+   "i": 1752,
+   "src": "c1329f7e8229",
+   "t": "'{{medalia}} {{collect|cap}}:Blocked Road'"
+  },
+  {
+   "i": 1767,
+   "src": "cff7c46a3489",
+   "t": "Let's do something else for now."
+  },
+  {
+   "i": 1784,
+   "src": "7b99c7000d61",
+   "t": "Seems like nothing.         "
+  },
+  {
+   "i": 1807,
+   "src": "c343a2b19c4a",
+   "t": "'{{explore|cap}}:Underground Warehouse'"
+  },
+  {
+   "i": 1814,
+   "src": "d9008f1fdad6",
+   "t": "'{{explore|cap}}:Tunnel {{entrance}}'"
+  },
+  {
+   "i": 1821,
+   "src": "3a764322da85",
+   "t": "'{{explore|cap}}:{{misty_deep_forest}}'"
+  },
+  {
+   "i": 1828,
+   "src": "ded872c23da7",
+   "t": "'Observe:{{old_harbor_town}}'"
+  },
+  {
+   "i": 1835,
+   "src": "276b38f27bc6",
+   "t": "'Observe:{{shaft_tower}}'"
+  },
+  {
+   "i": 1842,
+   "src": "322f412a78a6",
+   "t": "'Observe:Mountain Peak'"
+  },
+  {
+   "i": 1849,
+   "src": "ca3261948b8e",
+   "t": "'{{medalia}} {{collect|cap}}:Warehouse'"
+  },
+  {
+   "i": 1856,
+   "src": "76376349aef2",
+   "t": "'{{medalia}} {{collect|cap}}:{{mine}} Site'"
+  },
+  {
+   "i": 1863,
+   "src": "a0a5acc7381a",
+   "t": "'{{medalia}} {{collect|cap}}:{{mountain_stream}}'"
+  },
+  {
+   "i": 1870,
+   "src": "2bfbaa52d1fd",
+   "t": "'{{medalia}} {{collect|cap}}:Trolley Station'"
+  },
+  {
+   "i": 1877,
+   "src": "ecc6d5a3b400",
+   "t": "'{{medalia}} {{collect|cap}}:Port Coast'"
+  },
+  {
+   "i": 1884,
+   "src": "f543c54aeeec",
+   "t": "'{{medalia}} {{collect|cap}}:{{crater}}'"
+  },
+  {
+   "i": 1891,
+   "src": "048b16537f8d",
+   "t": "'{{medalia}} {{collect|cap}}:{{old_harbor_town}}'"
+  },
+  {
+   "i": 1898,
+   "src": "42d3e12ea934",
+   "t": "'{{medalia}} {{collect|cap}}:Ski Resort'"
+  },
+  {
+   "i": 1905,
+   "src": "c1329f7e8229",
+   "t": "'{{medalia}} {{collect|cap}}:Blocked Road'"
+  }
+ ]
+}

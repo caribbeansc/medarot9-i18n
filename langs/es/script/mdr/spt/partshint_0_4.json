@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "73cd64b3f7e0",
+   "t": "<c:00ff00>Estilo robobatalla:<c>Apoyo\n{{prep|cap}} +12 Enfriam +12\nPor cada acción realizada\nla {{charge_gauge}} sube 2%"
+  }
+ ]
+}

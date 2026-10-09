@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3f_meda_163_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "6494d49fbcd5",
+   "t": "{{goldfin}}"
+  },
+  {
+   "i": 1038,
+   "src": "c0aaa905ef6e",
+   "t": "Maestra, ¿estás bien?"
+  },
+  {
+   "i": 1041,
+   "src": "99df05e9b2c0",
+   "t": "Si algo te preocupa, te escucho."
+  }
+ ]
+}

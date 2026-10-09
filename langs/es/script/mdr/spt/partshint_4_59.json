@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_59.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "61ad531b936f",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nIntercepción\nSi te van a atacar durante\nla espera CF, la espera CF\nse anula y tu ataque se\nejecuta antes que el del\n{{opponent}}."
+  }
+ ]
+}

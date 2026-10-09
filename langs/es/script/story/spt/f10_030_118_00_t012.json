@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f10_030_118_00_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1045,
+   "src": "1771920f2ef4",
+   "t": "{{principal|cap}}..."
+  },
+  {
+   "i": 1060,
+   "src": "a846f4e0afa5",
+   "t": "¡¿Está usted bien?!"
+  },
+  {
+   "i": 1070,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1076,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1083,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1089,
+   "src": "80d93967462a",
+   "t": "Ah."
+  },
+  {
+   "i": 1104,
+   "src": "c399ee1bcbd9",
+   "t": "¿Acaso este era su plan"
+  },
+  {
+   "i": 1107,
+   "src": "d96c9e1c54ee",
+   "t": "desde el principio...?"
+  }
+ ]
+}

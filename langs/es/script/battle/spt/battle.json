@@ -1,0 +1,230 @@
+{
+ "file": "battle/spt/battle.spt",
+ "lines": [
+  {
+   "i": 1497,
+   "src": "96f724b21d69",
+   "t": "¡{{melt}}: 10 de {{damage}}\na cada {{part}}!"
+  },
+  {
+   "i": 1528,
+   "src": "d6990d92fd8d",
+   "t": "¡{{repair_plant}} recupera\ntodo el {{armor}}!"
+  },
+  {
+   "i": 1559,
+   "src": "555a7be6b3a2",
+   "t": " termina su {{guard_stance}}!"
+  },
+  {
+   "i": 1649,
+   "src": "58bab22016fe",
+   "t": "{{stealth}}"
+  },
+  {
+   "i": 1659,
+   "src": "df44bd3f1484",
+   "t": "{{fire}}"
+  },
+  {
+   "i": 1669,
+   "src": "46b152aebfa0",
+   "t": "{{melt}}"
+  },
+  {
+   "i": 1679,
+   "src": "0f642e4644c6",
+   "t": "{{wave}}"
+  },
+  {
+   "i": 1689,
+   "src": "ba364708ea49",
+   "t": "{{hold}}"
+  },
+  {
+   "i": 1699,
+   "src": "98ae605af0f2",
+   "t": "{{thunder}}"
+  },
+  {
+   "i": 1709,
+   "src": "fa56263764d1",
+   "t": "{{freeze}}"
+  },
+  {
+   "i": 1719,
+   "src": "d5f44ec483f5",
+   "t": "Ataque"
+  },
+  {
+   "i": 1824,
+   "src": "19d0a839eecd",
+   "t": "\n¡Recupera todo el {{armor}}!"
+  },
+  {
+   "i": 1940,
+   "src": "96f724b21d69",
+   "t": "¡{{melt}}: 10 de {{damage}}\na cada {{part}}!"
+  },
+  {
+   "i": 2146,
+   "src": "19d0a839eecd",
+   "t": "\n¡Recupera todo el {{armor}}!"
+  },
+  {
+   "i": 2173,
+   "src": "555a7be6b3a2",
+   "t": " termina su {{guard_stance}}!"
+  },
+  {
+   "i": 3158,
+   "src": "58844e438216",
+   "t": "Esperando su acción."
+  },
+  {
+   "i": 3314,
+   "src": "e01527c47954",
+   "t": "¡{{leg_trait|cap}} {{brilliance}} activado!\n"
+  },
+  {
+   "i": 3316,
+   "src": "d7dba5ede7ac",
+   "t": "recuperó el blindaje de todas las partes!"
+  },
+  {
+   "i": 3324,
+   "src": "a02e13931cab",
+   "t": "¡{{leg_trait|cap}} Purga activado!\n"
+  },
+  {
+   "i": 3326,
+   "src": "da74a98451d3",
+   "t": "se recuperó de los efectos de estado!"
+  },
+  {
+   "i": 3334,
+   "src": "8ab9ccd86d02",
+   "t": "¡{{leg_trait|cap}} {{illusion}} activado!\n"
+  },
+  {
+   "i": 3336,
+   "src": "5d25808ca153",
+   "t": " entra en {{condition}} {{stealth}}!"
+  },
+  {
+   "i": 3344,
+   "src": "fdf8240f8358",
+   "t": "¡{{leg_trait|cap}} {{clairvoyance}} activado!\n"
+  },
+  {
+   "i": 3346,
+   "src": "f1bc96fefb46",
+   "t": " entra en {{condition}} {{radar_sight}}!"
+  },
+  {
+   "i": 3354,
+   "src": "aedaa0adbf22",
+   "t": "¡{{leg_trait|cap}} {{generator}} activado!\n"
+  },
+  {
+   "i": 3356,
+   "src": "9a610afdfafd",
+   "t": " entra en {{condition}} {{heater}}!"
+  },
+  {
+   "i": 3364,
+   "src": "365f8c9e0d0d",
+   "t": "¡{{leg_trait|cap}} {{radiator}} activado!\n"
+  },
+  {
+   "i": 3366,
+   "src": "c37b0a6f693b",
+   "t": " entra en {{condition}} {{cooler}}!"
+  },
+  {
+   "i": 3374,
+   "src": "e161699437ae",
+   "t": "¡{{leg_trait|cap}} {{kekkai}} activado!\n"
+  },
+  {
+   "i": 3376,
+   "src": "ea64137a6b53",
+   "t": " entra en {{guard_boost}}!"
+  },
+  {
+   "i": 3384,
+   "src": "3fd2052d3a2c",
+   "t": "¡{{leg_trait|cap}} {{accel}} activado!\n"
+  },
+  {
+   "i": 3386,
+   "src": "ec666204757b",
+   "t": " entra en {{mobile_boost}}!"
+  },
+  {
+   "i": 3394,
+   "src": "82381f51c50c",
+   "t": "¡{{leg_trait|cap}} {{assail}} activado!\n"
+  },
+  {
+   "i": 3396,
+   "src": "e7165ec38013",
+   "t": " entra en {{shoot_boost}}!"
+  },
+  {
+   "i": 3404,
+   "src": "81499e7525c2",
+   "t": "¡{{leg_trait|cap}} {{rumbling}} activado!\n"
+  },
+  {
+   "i": 3406,
+   "src": "2e41f9cdc351",
+   "t": " entra en {{fight_boost}}!"
+  },
+  {
+   "i": 3414,
+   "src": "24572cc2ac9d",
+   "t": "¡{{leg_trait|cap}} {{burai}} activado!\n"
+  },
+  {
+   "i": 3416,
+   "src": "19bbdd1c2e05",
+   "t": " entra en {{condition}} {{desperate}}!"
+  },
+  {
+   "i": 3424,
+   "src": "7c0e802bbb77",
+   "t": "¡{{leg_trait|cap}} {{mirage}} activado!\n"
+  },
+  {
+   "i": 3426,
+   "src": "2c7e913917f2",
+   "t": " entra en {{condition}} {{conceal}}!"
+  },
+  {
+   "i": 3434,
+   "src": "c8b232b42537",
+   "t": "¡Activó la habilidad de {{legs_part_slot}} {{nest}}!\n¡Aumentó la resistencia de trampas y\nplantas!"
+  },
+  {
+   "i": 3442,
+   "src": "0a6d410c35cc",
+   "t": "¡{{leg_trait|cap}} {{shape_memory}} activado!\n"
+  },
+  {
+   "i": 3444,
+   "src": "2feeea2cb6b8",
+   "t": " reconstruye su {{armor}}!"
+  },
+  {
+   "i": 3614,
+   "src": "58844e438216",
+   "t": "Esperando la entrada del {{opponent}}."
+  },
+  {
+   "i": 3636,
+   "src": "2e80a44c5b8a",
+   "t": "Has elegido rendirte."
+  }
+ ]
+}

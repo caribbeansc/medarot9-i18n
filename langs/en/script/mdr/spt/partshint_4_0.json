@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_0.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "afeae65e68f9",
+   "t": "<c:00ff00>Leg Trait:<c> {{land_cruiser}}\nRegardless of {{leg_type}},\nimproves {{terrain_affinity}}\nwith {{plains}}."
+  }
+ ]
+}

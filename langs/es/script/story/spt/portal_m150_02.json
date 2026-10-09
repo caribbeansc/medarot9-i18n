@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/portal_m150_02.spt",
+ "lines": [
+  {
+   "i": 1427,
+   "src": "712ed41b793e",
+   "t": "¿Quieres entrar?"
+  },
+  {
+   "i": 1428,
+   "src": "981eed5f69d8",
+   "t": "Entrar"
+  },
+  {
+   "i": 1429,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  },
+  {
+   "i": 1433,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  }
+ ]
+}

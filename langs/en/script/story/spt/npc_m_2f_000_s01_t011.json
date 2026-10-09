@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1038,
+   "src": "204a0527993c",
+   "t": "My dream is to be a film director."
+  },
+  {
+   "i": 1041,
+   "src": "9951cbd7b661",
+   "t": "Naturally, I'm in the Film {{club|cap}}."
+  },
+  {
+   "i": 1049,
+   "src": "96cb5ba3123f",
+   "t": "This summer I'll shoot one about the\nsea."
+  },
+  {
+   "i": 1052,
+   "src": "20a08b7fed76",
+   "t": "I'm picking the heroine right now!"
+  }
+ ]
+}

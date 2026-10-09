@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description127.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6707c205585b",
+   "t": "Antimar (sub.)"
+  },
+  {
+   "i": 11,
+   "src": "0819d26ec7da",
+   "t": "<c:ffff00>Subhabilidad<c> de <c:ffff00>ataque<c> de <c:ffff00>{{part|pl}}<c> con munición o\nmecanismo especial que mejora mucho el\n<c:ffff00>{{stats}}<c> en terrenos con abundante {{underwater}}.\nPor preparar la munición o el mecanismo, el\n<c:ffff00>{{stats}} de {{prep}}<c> de la <c:ffff00>técnica<c> baja un 50%.\nSi al completar la <c:ffff00>{{prep}}<c> (no al elegir el comando) el\n<c:ffff00>{{field}}<c> es <c:ffff00>{{waterside}}<c> o <c:ffff00>{{underwater}}<c>, se añaden: <c:ffff00>{{stats}} de<c>\n<c:ffff00>{{power}}<c> +20, <c:ffff00>{{evade}}<c> del objetivo en 0% y siempre\n<c:ffff00>{{critical}}<c>. Si no, es un ataque normal."
+  }
+ ]
+}

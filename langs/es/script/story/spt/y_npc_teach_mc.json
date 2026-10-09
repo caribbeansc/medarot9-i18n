@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_mc.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "9d002433b612",
+   "t": "{{mr_izumo}}"
+  },
+  {
+   "i": 1653,
+   "src": "75ce676badfe",
+   "t": "Una {{robattle}}, eh..."
+  },
+  {
+   "i": 1656,
+   "src": "901d98e40127",
+   "t": "Bien, midamos fuerzas."
+  }
+ ]
+}

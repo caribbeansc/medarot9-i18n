@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3e_meda_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e3f5969a7bf3",
+   "t": "3rd-Yr Boy E's Medabot"
+  },
+  {
+   "i": 1035,
+   "src": "1a33205f294a",
+   "t": "So bored."
+  },
+  {
+   "i": 1038,
+   "src": "27e192719d2f",
+   "t": "At this rate my journalist spirit will rust."
+  },
+  {
+   "i": 1046,
+   "src": "2d2d37119f33",
+   "t": "I wish some big case would happen."
+  },
+  {
+   "i": 1049,
+   "src": "e06230ec1ebf",
+   "t": "A big one!"
+  }
+ ]
+}

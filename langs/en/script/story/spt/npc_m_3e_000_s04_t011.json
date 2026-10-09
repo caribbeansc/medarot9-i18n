@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/npc_m_3e_000_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1035,
+   "src": "3d64bd33f3b0",
+   "t": "V3 achieved! What's the secret to"
+  },
+  {
+   "i": 1038,
+   "src": "9cbce55613bf",
+   "t": "victory, says the {{rescue_club}}\npresident?!"
+  },
+  {
+   "i": 1046,
+   "src": "dcc340fb8479",
+   "t": "...Too ordinary, maybe."
+  },
+  {
+   "i": 1054,
+   "src": "475d227f408e",
+   "t": "{{rescue_club}} wins three in a row!"
+  },
+  {
+   "i": 1057,
+   "src": "6a2df7db2975",
+   "t": "Who was the unexpected key player?"
+  },
+  {
+   "i": 1065,
+   "src": "4f4866016dae",
+   "t": "...Nothing unexpected about it."
+  },
+  {
+   "i": 1068,
+   "src": "7cf2231bf769",
+   "t": "Hmm..."
+  },
+  {
+   "i": 1089,
+   "src": "6cccb908ed22",
+   "t": "I'm drafting a tournament special"
+  },
+  {
+   "i": 1092,
+   "src": "76682c3487d3",
+   "t": "for a web news site."
+  },
+  {
+   "i": 1100,
+   "src": "2f8ab07aedfa",
+   "t": "...Huh? You say it's before the\ntournament?"
+  },
+  {
+   "i": 1103,
+   "src": "9d37145ade70",
+   "t": "It's fine."
+  },
+  {
+   "i": 1111,
+   "src": "27dbe4338834",
+   "t": "News lives and dies by speed,"
+  },
+  {
+   "i": 1114,
+   "src": "f483e246638b",
+   "t": "so you prep the sure topics first."
+  },
+  {
+   "i": 1122,
+   "src": "ae2a1a8e5c77",
+   "t": "Otherwise I couldn't post it\nright after the tournament, right?"
+  }
+ ]
+}

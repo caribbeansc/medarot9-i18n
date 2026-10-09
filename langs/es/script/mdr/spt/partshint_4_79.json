@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_79.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f0937bf93eb0",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nIntimidación\nEl {{medabot}} {{opponent}} al que\napuntas con un ataque\ntiene {{shooting}} y {{fighting}}\n-10."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc05_161_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "5277790f2365",
+   "t": "¡Me emociona robobatallar con todos!"
+  },
+  {
+   "i": 1041,
+   "src": "1e372566d65a",
+   "t": "Podremos reunir muchas muestras."
+  }
+ ]
+}

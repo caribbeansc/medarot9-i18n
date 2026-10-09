@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc04_339_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "5f29fdb53ea1",
+   "t": "Damn."
+  },
+  {
+   "i": 1046,
+   "src": "320640bcc209",
+   "t": "I thought I was being reasonably careful,"
+  },
+  {
+   "i": 1049,
+   "src": "e1a34856d263",
+   "t": "but I never expected the bridge to fall..."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/m_cmp.spt",
+ "lines": [
+  {
+   "i": 1401,
+   "src": "548dc5688bec",
+   "t": "What on earth is this machine...?"
+  },
+  {
+   "i": 1404,
+   "src": "35a1f592dd49",
+   "t": "A washing machine???"
+  },
+  {
+   "i": 1432,
+   "src": "548dc5688bec",
+   "t": "What on earth is this machine...?"
+  },
+  {
+   "i": 1435,
+   "src": "35a1f592dd49",
+   "t": "A washing machine???"
+  },
+  {
+   "i": 1465,
+   "src": "f64ffe039634",
+   "t": "I turned on the {{medalia}} Fusion Machine."
+  },
+  {
+   "i": 1471,
+   "src": "b92cfc42b818",
+   "t": "Use the {{medalia_fusion}} machine?"
+  },
+  {
+   "i": 1472,
+   "src": "3f7592b3e4ba",
+   "t": "Use it"
+  },
+  {
+   "i": 1473,
+   "src": "0d74d434a083",
+   "t": "Don't use it"
+  },
+  {
+   "i": 1477,
+   "src": "3f7592b3e4ba",
+   "t": "Use it"
+  },
+  {
+   "i": 1486,
+   "src": "0d74d434a083",
+   "t": "Don't use it"
+  },
+  {
+   "i": 1490,
+   "src": "f085b763bb45",
+   "t": "The {{medalia}} Fusion Machine stopped."
+  }
+ ]
+}

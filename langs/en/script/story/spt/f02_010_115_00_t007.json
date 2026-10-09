@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f02_010_115_00_t007.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "e07cf2da0f50",
+   "t": "Oh, but first I have to explain\nsome things..."
+  },
+  {
+   "i": 1046,
+   "src": "f689e8658d9f",
+   "t": "Yeah, let's go to the {{club|cap}} first."
+  },
+  {
+   "i": 1049,
+   "src": "8a7063db528e",
+   "t": "I'll be waiting at the {{exploration_club}}."
+  }
+ ]
+}

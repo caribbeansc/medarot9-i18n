@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_28.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "da4a38a041c8",
+   "t": "<c:00ff00>Leg Trait:<c> M Charger\nAdds 1/10 of the Charge\nGauge to the {{mobility}} stat\nof the {{leg_part}}."
+  }
+ ]
+}

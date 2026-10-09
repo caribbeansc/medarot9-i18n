@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f11_050_108_00_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1045,
+   "src": "7498d1e46398",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1054,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1060,
+   "src": "c1a4018b8b5b",
+   "t": "Todos ustedes son inútiles."
+  },
+  {
+   "i": 1063,
+   "src": "d61e57fb4a0a",
+   "t": "Salgan de esta isla de inmediato."
+  },
+  {
+   "i": 1077,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1083,
+   "src": "6e9726e74a09",
+   "t": "P-pero-"
+  },
+  {
+   "i": 1090,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1096,
+   "src": "fa1343698418",
+   "t": "Si su orgullo no lo deja,"
+  },
+  {
+   "i": 1099,
+   "src": "0822d767c93b",
+   "t": "al menos quédense en la escuela."
+  },
+  {
+   "i": 1107,
+   "src": "8bbed014817a",
+   "t": "Están retrasando todo."
+  },
+  {
+   "i": 1127,
+   "src": "5617317ec4bd",
+   "t": "¿Qué están haciendo?"
+  },
+  {
+   "i": 1130,
+   "src": "c6f1c0597699",
+   "t": "Muévanse de una vez."
+  },
+  {
+   "i": 1148,
+   "src": "3b094af5ce00",
+   "t": "Eh, ¿nos habla a nosotros?"
+  },
+  {
+   "i": 1153,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1159,
+   "src": "2b68aacc2fc0",
+   "t": "¿Quién más hay?"
+  },
+  {
+   "i": 1167,
+   "src": "bd732150175b",
+   "t": "Ustedes tienen parte de la culpa."
+  },
+  {
+   "i": 1170,
+   "src": "8a92bdb96ef1",
+   "t": "Van a asumir la responsabilidad."
+  },
+  {
+   "i": 1197,
+   "src": "3faaf0da07c8",
+   "t": "Entendido."
+  },
+  {
+   "i": 1205,
+   "src": "c675eb9cdd2e",
+   "t": "Por favor dígame qué tengo que hacer."
+  }
+ ]
+}

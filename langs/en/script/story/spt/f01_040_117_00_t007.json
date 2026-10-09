@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f01_040_117_00_t007.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1035,
+   "src": "550026972917",
+   "t": "Okay, okay, that's enough chatter!"
+  },
+  {
+   "i": 1038,
+   "src": "6a2e116a0f00",
+   "t": "Save the rest for after school."
+  },
+  {
+   "i": 1051,
+   "src": "be503a4eee6e",
+   "t": "Back to the lesson now~."
+  },
+  {
+   "i": 1054,
+   "src": "96d4321d5e60",
+   "t": "Open the next section~."
+  }
+ ]
+}

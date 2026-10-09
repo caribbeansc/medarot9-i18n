@@ -1,0 +1,225 @@
+{
+ "rel": "mdr/tex/m9_map1.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "din",
+  "cap": 8,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.6,
+  "baseline": 13
+ },
+ "items": [
+  {
+   "box": [
+    324,
+    3,
+    58,
+    12
+   ],
+   "erase": "solid:#233031",
+   "text": ""
+  },
+  {
+   "box": [
+    424,
+    0,
+    88,
+    17
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    424,
+    0,
+    55,
+    17
+   ],
+   "erase": "copy:321,0",
+   "text": ""
+  },
+  {
+   "box": [
+    470,
+    0,
+    9,
+    17
+   ],
+   "erase": "copy:376,0",
+   "text": ""
+  },
+  {
+   "box": [
+    427,
+    3,
+    49,
+    12
+   ],
+   "erase": "none",
+   "text": "Mountains",
+   "cap": 8.5,
+   "crisp": 0.8,
+   "baseline": 13
+  },
+  {
+   "box": [
+    324,
+    3,
+    58,
+    12
+   ],
+   "erase": "none",
+   "text": "MEDA Academy",
+   "cap": 8.5,
+   "crisp": 0.8,
+   "baseline": 13
+  },
+  {
+   "box": [
+    389,
+    3,
+    32,
+    12
+   ],
+   "erase": "solid:#233031",
+   "text": ""
+  },
+  {
+   "box": [
+    389,
+    3,
+    32,
+    12
+   ],
+   "erase": "none",
+   "text": "Old Mine",
+   "cap": 8.5,
+   "crisp": 0.8,
+   "baseline": 13
+  },
+  {
+   "box": [
+    324,
+    21,
+    32,
+    12
+   ],
+   "erase": "solid:#233031",
+   "text": ""
+  },
+  {
+   "box": [
+    324,
+    21,
+    32,
+    12
+   ],
+   "erase": "none",
+   "text": "South Coast",
+   "baseline": 32,
+   "cap": 8.5,
+   "crisp": 0.8
+  },
+  {
+   "box": [
+    362,
+    21,
+    32,
+    12
+   ],
+   "erase": "solid:#233031",
+   "text": ""
+  },
+  {
+   "box": [
+    362,
+    21,
+    32,
+    12
+   ],
+   "erase": "none",
+   "text": "East Coast",
+   "baseline": 32,
+   "cap": 8,
+   "crisp": 0.8
+  },
+  {
+   "box": [
+    400,
+    21,
+    32,
+    12
+   ],
+   "erase": "solid:#233031",
+   "text": ""
+  },
+  {
+   "box": [
+    400,
+    21,
+    32,
+    12
+   ],
+   "erase": "none",
+   "text": "West Coast",
+   "baseline": 31,
+   "cap": 7,
+   "crisp": 0.8
+  },
+  {
+   "box": [
+    438,
+    21,
+    32,
+    12
+   ],
+   "erase": "solid:#233031",
+   "text": ""
+  },
+  {
+   "box": [
+    438,
+    21,
+    32,
+    12
+   ],
+   "erase": "none",
+   "text": "North Coast",
+   "baseline": 31,
+   "cap": 7,
+   "crisp": 0.8
+  },
+  {
+   "box": [
+    455,
+    36,
+    57,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    455,
+    36,
+    57,
+    17
+   ],
+   "erase": "none",
+   "text": "Crater",
+   "font": "din",
+   "cap": 8.5,
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.4,
+   "pad": 0,
+   "crisp": 0.8,
+   "baseline": 48
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_ten_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1035,
+   "src": "1a3fc46a9f78",
+   "t": "Eh~ right now?"
+  },
+  {
+   "i": 1038,
+   "src": "7c81008b2146",
+   "t": "I'm a bit busy right now... Sorry!"
+  }
+ ]
+}

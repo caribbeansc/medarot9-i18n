@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_54.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e8fd470590aa",
+   "t": "<c:00ff00>Action:<c> {{charge_blade}}\nA melee attack that\nadds the {{charge_gauge}} %\nto {{power}}. With {{success}}\n40+, gains piercing.\nAfter acting, consumes\n10% of the Charge\nGauge."
+  }
+ ]
+}

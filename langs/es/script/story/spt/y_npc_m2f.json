@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m2f.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1653,
+   "src": "96d7f92df9ec",
+   "t": "¿Una {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "75313189e923",
+   "t": "Podría hacerlo, pero no estoy seguro."
+  }
+ ]
+}

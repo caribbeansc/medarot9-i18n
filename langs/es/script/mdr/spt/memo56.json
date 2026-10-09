@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo56.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "ba6a5545c760",
+   "t": "\"Observar ondas: {{summit|cap}} de la montaña\"\n"
+  },
+  {
+   "i": 32,
+   "src": "d1bbd4607964",
+   "t": "Tomemos datos en el punto más alto de la isla.\nSigamos el {{mountain_path}} hasta la cima.\n"
+  },
+  {
+   "i": 42,
+   "src": "c3ca6c852194",
+   "t": "Observamos ondas sonoras en una {{summit}} panorámica.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

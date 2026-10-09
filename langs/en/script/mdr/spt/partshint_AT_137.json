@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_137.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b4453cea3f17",
+   "t": "<c:00ff00>Action:<c> {{mirror_guard}}\nA {{guard_stance}} against\nranged attacks on allies.\nWhen intercepting,\nnullifies ranged {{damage}}\nand reflects it with the\nsame {{attack_power}}. Ends\nafter allies act 4 times or\na set time passes."
+  }
+ ]
+}

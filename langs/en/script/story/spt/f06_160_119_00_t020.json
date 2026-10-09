@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f06_160_119_00_t020.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1035,
+   "src": "45d633e8bdeb",
+   "t": "Do whatever you like from here."
+  },
+  {
+   "i": 1046,
+   "src": "9856e9164319",
+   "t": "You can go in through this door,"
+  },
+  {
+   "i": 1049,
+   "src": "b007c993dd47",
+   "t": "or you can leave quietly."
+  },
+  {
+   "i": 1057,
+   "src": "903fcb01be5c",
+   "t": "Even if you leave,"
+  },
+  {
+   "i": 1060,
+   "src": "500f028932a5",
+   "t": "I guarantee there won't be any trouble."
+  },
+  {
+   "i": 1071,
+   "src": "cb85a0491d28",
+   "t": "You there, a moment."
+  },
+  {
+   "i": 1082,
+   "src": "9161497b1498",
+   "t": "M-me?"
+  },
+  {
+   "i": 1087,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1096,
+   "src": "80ccbc5d10f4",
+   "t": "Hold the door for me."
+  },
+  {
+   "i": 1099,
+   "src": "3d3e4d1c90af",
+   "t": "This kind locks automatically when it\ncloses."
+  }
+ ]
+}

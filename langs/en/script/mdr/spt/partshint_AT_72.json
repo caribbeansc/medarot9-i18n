@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_72.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "82b5b627adbb",
+   "t": "<c:00ff00>Action:<c> {{provoke}}\nA melee attack that\napplies the\n{{provoke}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{provoke}}\nFor a while, the target's\nattack target is locked in\nplace."
+  }
+ ]
+}

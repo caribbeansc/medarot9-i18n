@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f07_070_343_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "612b14944704",
+   "t": "¿Qué rayos era todo eso con él?"
+  },
+  {
+   "i": 1042,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1048,
+   "src": "1810714beb75",
+   "t": "No lo sé."
+  },
+  {
+   "i": 1051,
+   "src": "2b670d1c8b8f",
+   "t": "Seguro tenía sus propias razones."
+  },
+  {
+   "i": 1075,
+   "src": "1082050b1b2a",
+   "t": "¡Ya entiendo! ¡Ha buscado sin parar"
+  },
+  {
+   "i": 1078,
+   "src": "09bd67c3761d",
+   "t": "las {{part|pl}} que perdió! Esas {{part|pl}}"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description55.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e191c38101a5",
+   "t": "Postura de carga"
+  },
+  {
+   "i": 11,
+   "src": "254aeeed71b0",
+   "t": "{{condition|cap}} en que se está <c:ffff00>cargando<c> cierto tiempo sin\nusar <c:ffff00>{{part|pl}}<c>. La <c:ffff00>{{charge_gauge}}<c> sube poco a poco.\n\nLa <c:ffff00>{{acting_part}}<c> son las <c:ffff00>{{legs}}<c>. No se puede\nhacer otra <c:ffff00>acción<c> y se queda <c:ffff00>{{cannot_evade}}<c>.\n\nSi se <c:ffff00>destruye<c> cualquier {{part}}, la carga se\ninterrumpe y se pasa enseguida a elegir el siguiente\ncomando."
+  }
+ ]
+}

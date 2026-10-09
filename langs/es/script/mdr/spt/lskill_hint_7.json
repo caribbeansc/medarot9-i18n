@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_7.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b72abf612b1b",
+   "t": "<c:00ff00>{{effect|cap}} {{leader|cap}}:<c>Campo de Vitalidad\nLa {{recover}} de las {{part|pl}} de curación\nsube a 150%"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_1d2_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "24aa4489f6dd",
+   "t": "{{taruhei}}"
+  },
+  {
+   "i": 1038,
+   "src": "418bad397cee",
+   "t": "I'm only a first-year so I can't enter,"
+  },
+  {
+   "i": 1041,
+   "src": "9aa76fa758ef",
+   "t": "but I'll burn the senpai's heroics into my\neyes."
+  },
+  {
+   "i": 1049,
+   "src": "17f82458ebbe",
+   "t": "So I can get revenge next year!"
+  },
+  {
+   "i": 1059,
+   "src": "db2aa0046c96",
+   "t": "{{taka}}"
+  },
+  {
+   "i": 1065,
+   "src": "4e52a919b7f7",
+   "t": "Hey, first-year, I can hear you."
+  },
+  {
+   "i": 1068,
+   "src": "8d068e0d22e5",
+   "t": "Don't talk like our loss is guaranteed."
+  },
+  {
+   "i": 1075,
+   "src": "24aa4489f6dd",
+   "t": "{{taruhei}}"
+  },
+  {
+   "i": 1081,
+   "src": "0612568e2fad",
+   "t": "...Ah."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3d_meda_160_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dc985d3d3adc",
+   "t": "RedMatador"
+  },
+  {
+   "i": 1035,
+   "src": "44ed31a9550c",
+   "t": "Hey, hey, let's hurry to the Band {{club|cap}}."
+  },
+  {
+   "i": 1038,
+   "src": "688ed26ca579",
+   "t": "If we don't hurry, it'll be night, you\nknow."
+  }
+ ]
+}

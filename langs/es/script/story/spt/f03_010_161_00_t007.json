@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f03_010_161_00_t007.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1037,
+   "src": "4bbc9147615b",
+   "t": "Justo a tiempo."
+  },
+  {
+   "i": 1045,
+   "src": "274aeb3a2b86",
+   "t": "Yo también tenía una propuesta"
+  },
+  {
+   "i": 1048,
+   "src": "61c6cfbf1464",
+   "t": "propia..."
+  },
+  {
+   "i": 1059,
+   "src": "30bc79828278",
+   "t": "Antes de explicar, mira ese monitor."
+  },
+  {
+   "i": 1062,
+   "src": "850c030bf3b2",
+   "t": "El grande junto a la mesa."
+  }
+ ]
+}

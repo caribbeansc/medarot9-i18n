@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3b_meda_163_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "48d28919cf40",
+   "t": "LovelyDog"
+  },
+  {
+   "i": 1038,
+   "src": "c881c774974d",
+   "t": "{{medalia}} isn't just for {{robattle|pl}}."
+  },
+  {
+   "i": 1041,
+   "src": "cc48f0f9ad46",
+   "t": "With some ingenuity, you get better at\ndancing and singing, too."
+  },
+  {
+   "i": 1049,
+   "src": "ea8239188d14",
+   "t": "As for the {{recipe}},"
+  },
+  {
+   "i": 1052,
+   "src": "b67e34acf479",
+   "t": "it's top secret!"
+  }
+ ]
+}

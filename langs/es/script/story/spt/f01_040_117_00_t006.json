@@ -1,0 +1,140 @@
+{
+ "file": "story/spt/f01_040_117_00_t006.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1037,
+   "src": "69db44fbbd37",
+   "t": "Me llamo {{ryusei}}."
+  },
+  {
+   "i": 1040,
+   "src": "f9adfba131be",
+   "t": "Mucho gusto."
+  },
+  {
+   "i": 1048,
+   "src": "8e48b5b7a806",
+   "t": "Sí, igualmente."
+  },
+  {
+   "i": 1053,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1059,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1067,
+   "src": "c808741ef2b8",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1072,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1078,
+   "src": "669e8ef39214",
+   "t": "Nada."
+  },
+  {
+   "i": 1081,
+   "src": "0e130dba7afe",
+   "t": "Eres sorprendentemente normal."
+  },
+  {
+   "i": 1089,
+   "src": "afde02f431b8",
+   "t": "¿Yo?"
+  },
+  {
+   "i": 1094,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1100,
+   "src": "b368003fd97a",
+   "t": "Sí, así es."
+  },
+  {
+   "i": 1108,
+   "src": "b9a4399b628b",
+   "t": "Eres el primer alumno becado."
+  },
+  {
+   "i": 1111,
+   "src": "6da14a83e6b1",
+   "t": "Y llegas una semana tarde."
+  },
+  {
+   "i": 1119,
+   "src": "4287429a4195",
+   "t": "¡Eso intimida mucho!"
+  },
+  {
+   "i": 1122,
+   "src": "26f5805d9014",
+   "t": "¡¿Qué clase de genio es esta persona?!"
+  },
+  {
+   "i": 1130,
+   "src": "94cf49d079be",
+   "t": "Así que me imaginaba mil cosas."
+  },
+  {
+   "i": 1133,
+   "src": "72c69dd03766",
+   "t": "¡Un gigante o un presumido con lentes!"
+  },
+  {
+   "i": 1141,
+   "src": "e3e9848937c8",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1146,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1152,
+   "src": "57d6f9dc5172",
+   "t": "¡Ya sé!"
+  },
+  {
+   "i": 1155,
+   "src": "61a20d900fb0",
+   "t": "Somos {{medafighter|pl}}: el look da igual."
+  },
+  {
+   "i": 1163,
+   "src": "84e1ada34b37",
+   "t": "¡Lo que importa es la {{robattle}}!"
+  },
+  {
+   "i": 1166,
+   "src": "93ceb8dcb310",
+   "t": "¿Verdad?"
+  },
+  {
+   "i": 1174,
+   "src": "195680bf05ce",
+   "t": "...Y eres fuerte en {{robattle|pl}}, ¿no?"
+  },
+  {
+   "i": 1177,
+   "src": "89e6a361b482",
+   "t": "No serás un idol becado... Nah, ja ja ja."
+  }
+ ]
+}

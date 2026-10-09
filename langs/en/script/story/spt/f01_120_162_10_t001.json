@@ -1,0 +1,340 @@
+{
+ "file": "story/spt/f01_120_162_10_t001.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "016353de777b",
+   "t": "Are you okay? "
+  },
+  {
+   "i": 1044,
+   "src": "7d9d809ecbf1",
+   "t": "?"
+  },
+  {
+   "i": 1071,
+   "src": "571ecde32cb9",
+   "t": "Yeah."
+  },
+  {
+   "i": 1077,
+   "src": "265232ca4249",
+   "t": "Y-yes."
+  },
+  {
+   "i": 1093,
+   "src": "02e088f8f9b0",
+   "t": "Glad to hear it!"
+  },
+  {
+   "i": 1117,
+   "src": "9df26106b0f4",
+   "t": "Hey "
+  },
+  {
+   "i": 1119,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1125,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1128,
+   "src": "9df26106b0f4",
+   "t": "Hey "
+  },
+  {
+   "i": 1130,
+   "src": "e52afecfbed9",
+   "t": "?"
+  },
+  {
+   "i": 1139,
+   "src": "c808741ef2b8",
+   "t": "What?"
+  },
+  {
+   "i": 1163,
+   "src": "18ea8267e89a",
+   "t": "You said to {{destroy}} the trap first."
+  },
+  {
+   "i": 1166,
+   "src": "d7a1c232900f",
+   "t": "How did you know?"
+  },
+  {
+   "i": 1172,
+   "src": "18ea8267e89a",
+   "t": "You said to {{destroy}} the trap first."
+  },
+  {
+   "i": 1175,
+   "src": "27fee89b2bdc",
+   "t": "How did you know?"
+  },
+  {
+   "i": 1196,
+   "src": "324cd73c8a23",
+   "t": "It was a Shooting trap. If we left it,"
+  },
+  {
+   "i": 1199,
+   "src": "42d94734160f",
+   "t": "things would keep getting worse for us."
+  },
+  {
+   "i": 1205,
+   "src": "213bb58425e1",
+   "t": "It was a Fighting trap. If we left it,"
+  },
+  {
+   "i": 1208,
+   "src": "42d94734160f",
+   "t": "things would keep getting worse for us."
+  },
+  {
+   "i": 1228,
+   "src": "ff92be682576",
+   "t": "Hmm..."
+  },
+  {
+   "i": 1244,
+   "src": "ce0a2cba3164",
+   "t": "Things you can tell before a fight..."
+  },
+  {
+   "i": 1247,
+   "src": "0ff495844aa6",
+   "t": "are there a lot more like that?"
+  },
+  {
+   "i": 1262,
+   "src": "b79a578a7ddf",
+   "t": "Sure there are."
+  },
+  {
+   "i": 1265,
+   "src": "0e798c569848",
+   "t": "Like that {{medabot}} from before..."
+  },
+  {
+   "i": 1273,
+   "src": "4c1b99371d73",
+   "t": "Strong attacks, but slow and heavy,\nright?"
+  },
+  {
+   "i": 1276,
+   "src": "0ee2bf4754f0",
+   "t": "It must have had too many heavy parts."
+  },
+  {
+   "i": 1284,
+   "src": "14443ba6ce07",
+   "t": "Heavy {{part|pl}} are powerful, but they put"
+  },
+  {
+   "i": 1287,
+   "src": "45b30d6ce6b9",
+   "t": "a big strain on the Legs."
+  },
+  {
+   "i": 1295,
+   "src": "174d04aa1497",
+   "t": "Its setup wasn't well balanced overall,"
+  },
+  {
+   "i": 1298,
+   "src": "b9d5a40fb039",
+   "t": "so I figured it couldn't perform at its\nbest."
+  },
+  {
+   "i": 1313,
+   "src": "50475f9eec5e",
+   "t": "So I was sure we'd win on mobility,"
+  },
+  {
+   "i": 1316,
+   "src": "ab9cb9396001",
+   "t": "and that's how I fought."
+  },
+  {
+   "i": 1335,
+   "src": "39ba6a6cbf6e",
+   "t": "I see..."
+  },
+  {
+   "i": 1338,
+   "src": "e09a57891c9a",
+   "t": "So that's how it is..."
+  },
+  {
+   "i": 1346,
+   "src": "044646866682",
+   "t": "In a {{robattle}}, performance isn't\neverything."
+  },
+  {
+   "i": 1349,
+   "src": "210de61ba16e",
+   "t": "Knowledge and judgment decide a lot."
+  },
+  {
+   "i": 1364,
+   "src": "5ec06fbad8e4",
+   "t": "That's why it's so fun!"
+  },
+  {
+   "i": 1383,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1401,
+   "src": "8ccf3d7f25c7",
+   "t": "I get it now."
+  },
+  {
+   "i": 1409,
+   "src": "fed537c5ae87",
+   "t": "Hm?"
+  },
+  {
+   "i": 1433,
+   "src": "d4307b2c93be",
+   "t": "All that knowledge and judgment stuff-"
+  },
+  {
+   "i": 1437,
+   "src": "2b53345c7e39",
+   "t": "'s job, right?"
+  },
+  {
+   "i": 1443,
+   "src": "d4307b2c93be",
+   "t": "All that knowledge and judgment stuff..."
+  },
+  {
+   "i": 1447,
+   "src": "49355d738146",
+   "t": "'s job, is it not?         "
+  },
+  {
+   "i": 1456,
+   "src": "6056a477bb54",
+   "t": "Huh? Yeah."
+  },
+  {
+   "i": 1480,
+   "src": "44df3ffcdd33",
+   "t": "So all that nagging next to me"
+  },
+  {
+   "i": 1483,
+   "src": "d772e2f0e9e4",
+   "t": "is knowledge and judgment, huh?"
+  },
+  {
+   "i": 1489,
+   "src": "4e19ca401d4a",
+   "t": "So all that babbling beside me"
+  },
+  {
+   "i": 1492,
+   "src": "d1cc47654257",
+   "t": "is knowledge and judgment, is it?"
+  },
+  {
+   "i": 1501,
+   "src": "dc79b9bddb14",
+   "t": "W-well..."
+  },
+  {
+   "i": 1525,
+   "src": "3305ae12cf5d",
+   "t": "If I do what you say, I'll win, right?"
+  },
+  {
+   "i": 1531,
+   "src": "6f094afad6a9",
+   "t": "If I do as you say, I will win, correct?"
+  },
+  {
+   "i": 1540,
+   "src": "a9e841d98798",
+   "t": "It's not guaranteed, but..."
+  },
+  {
+   "i": 1543,
+   "src": "614dc2433d71",
+   "t": "That's the idea."
+  },
+  {
+   "i": 1567,
+   "src": "ce4925c2ed59",
+   "t": "Okay, got it."
+  },
+  {
+   "i": 1573,
+   "src": "93c0c51d7add",
+   "t": "Understood."
+  },
+  {
+   "i": 1595,
+   "src": "f2dddf6b82a2",
+   "t": "From now on, I'll listen to you"
+  },
+  {
+   "i": 1598,
+   "src": "24f6c5a6eefb",
+   "t": "and {{robattle}} the way you say."
+  },
+  {
+   "i": 1604,
+   "src": "ddcf84e49796",
+   "t": "From now on, you--"
+  },
+  {
+   "i": 1608,
+   "src": "0404cd714ddb",
+   "t": "'s orders: I'll obey and fight.          "
+  },
+  {
+   "i": 1617,
+   "src": "95039396e47f",
+   "t": "Ah..."
+  },
+  {
+   "i": 1632,
+   "src": "943067bf2dab",
+   "t": "Thanks, "
+  },
+  {
+   "i": 1634,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1658,
+   "src": "ab02c9866525",
+   "t": "No need to thank me."
+  },
+  {
+   "i": 1661,
+   "src": "e1a386822136",
+   "t": "I just don't want to lose."
+  },
+  {
+   "i": 1667,
+   "src": "ade404528b23",
+   "t": "No thanks are necessary."
+  },
+  {
+   "i": 1670,
+   "src": "b8fced00a526",
+   "t": "I merely do not wish to lose."
+  }
+ ]
+}

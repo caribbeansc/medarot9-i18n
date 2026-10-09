@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/mlp_wm_loop.spt",
+ "lines": [
+  {
+   "i": 1191,
+   "src": "8ae8f407b0d4",
+   "t": "Esperando conexión del {{opponent}}.    "
+  },
+  {
+   "i": 1288,
+   "src": "26deb7422f35",
+   "t": "Anfitrión eligiendo reglas."
+  },
+  {
+   "i": 1320,
+   "src": "8c4f58b5dfe1",
+   "t": "Anfitrión eligiendo el {{field}}."
+  },
+  {
+   "i": 2548,
+   "src": "26deb7422f35",
+   "t": "Anfitrión eligiendo reglas."
+  },
+  {
+   "i": 2577,
+   "src": "32d51a31cbcf",
+   "t": "Salir de la partida local?"
+  }
+ ]
+}

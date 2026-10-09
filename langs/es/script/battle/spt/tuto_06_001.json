@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/tuto_06_001.spt",
+ "lines": [
+  {
+   "i": 1108,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1114,
+   "src": "a50dac0cf310",
+   "t": "Además, hay tres puntos a tener\nen cuenta sobre los combos.                "
+  },
+  {
+   "i": 1119,
+   "src": "2c872704cda5",
+   "t": "Primero, un combo\n<c:ff00ff>no admite {{part|pl}} repetidas<c>. "
+  },
+  {
+   "i": 1124,
+   "src": "4c5518324125",
+   "t": "Segundo, el combo requiere la {{prep}} y\nel {{cooldown}} de todas sus {{part|pl}}.                         "
+  },
+  {
+   "i": 1129,
+   "src": "d4cd974bc7e3",
+   "t": "Tercero, si <c:ff00ff>se destruye una sola {{part}}<c>\nmientras {{prep}}, el combo se <c:ff00ff>cancela<c>.                                                  "
+  },
+  {
+   "i": 1134,
+   "src": "b0f8f8889352",
+   "t": "El combo {{prep}} lento: deja huecos y\nse cancela fácilmente, pero...                                            "
+  },
+  {
+   "i": 1139,
+   "src": "077fa7ee1928",
+   "t": "Si lo dominas, es una {{technique}} de ataque\nque amplía mucho tu estrategia.                                             "
+  },
+  {
+   "i": 1144,
+   "src": "40b3a408ca05",
+   "t": "Ahora, usa combos para ganar\nesta {{robattle}}."
+  },
+  {
+   "i": 1152,
+   "src": "412411c8833c",
+   "t": "Entendido, lo intentaré.       "
+  }
+ ]
+}

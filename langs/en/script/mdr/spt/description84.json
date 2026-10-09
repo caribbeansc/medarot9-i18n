@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description84.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "604cf86515ee",
+   "t": "{{power_style}} (Style)"
+  },
+  {
+   "i": 11,
+   "src": "99e52c5d57dc",
+   "t": "A <c:ffff00>{{robattle_style}}<c> that prioritizes destructive power.\n\n<c:ffff00>Stat<c> that rises:\n  <c:ffff00>{{power}}<c> +15\n\n{{condition_rotation|cap}} to raise the <c:ffff00>{{charge_gauge}}<c>:\n+1% for every 20 <c:ffff00>{{damage}}<c> dealt when <c:ffff00>attacking<c>."
+  }
+ ]
+}

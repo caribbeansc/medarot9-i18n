@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f09_220_800_00_t115.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1045,
+   "src": "248385489cd2",
+   "t": "¿Dónde conseguiste la {{medal}}?"
+  },
+  {
+   "i": 1053,
+   "src": "cadf1eca18c1",
+   "t": "Eh."
+  },
+  {
+   "i": 1058,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1064,
+   "src": "d09591836c47",
+   "t": "¿No fuiste tú quien me despertó?"
+  },
+  {
+   "i": 1072,
+   "src": "e9e9767b8d96",
+   "t": "Ah, esa {{fake_medal}}..."
+  },
+  {
+   "i": 1077,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1083,
+   "src": "9ba53068dfb0",
+   "t": "En realidad, no es una {{fake_medal}}."
+  },
+  {
+   "i": 1086,
+   "src": "d3c739a0aa22",
+   "t": "Es una fuente de poder industrial."
+  },
+  {
+   "i": 1094,
+   "src": "137be979e3dc",
+   "t": "Pues... la hallé frente a la oficina del"
+  },
+  {
+   "i": 1097,
+   "src": "bebbf4df6eb8",
+   "t": "subdirector. Fue pura casualidad."
+  },
+  {
+   "i": 1109,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1115,
+   "src": "c811186e4c88",
+   "t": "Hmph, ¿así que me trajiste lo que esos"
+  },
+  {
+   "i": 1118,
+   "src": "df19c68a539a",
+   "t": "idiotas dejaron tirado por descuido?"
+  },
+  {
+   "i": 1126,
+   "src": "5b1536248f1c",
+   "t": "En fin, gracias. Los componentes"
+  },
+  {
+   "i": 1129,
+   "src": "fdd332bd800f",
+   "t": "biológicos no durarán mucho más."
+  },
+  {
+   "i": 1137,
+   "src": "a364848514ed",
+   "t": "Ahora bien--"
+  }
+ ]
+}

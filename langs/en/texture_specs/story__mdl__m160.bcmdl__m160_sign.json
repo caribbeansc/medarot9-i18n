@@ -1,0 +1,86 @@
+{
+ "rel": "story/mdl/m160.bcmdl",
+ "tex": "m160_sign",
+ "also": "auto",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "grow": 1,
+  "font": "sf",
+  "wght": 600,
+  "cap": 12,
+  "fill": "#DCE2E2",
+  "stroke": null,
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    28,
+    4,
+    96,
+    24
+   ],
+   "erase_box": [
+    27,
+    3,
+    98,
+    26
+   ],
+   "text": "Field",
+   "keep": [
+    [
+     9,
+     8,
+     18,
+     19
+    ]
+   ]
+  },
+  {
+   "box": [
+    12,
+    36,
+    112,
+    24
+   ],
+   "erase_box": [
+    23,
+    35,
+    92,
+    25
+   ],
+   "text": "Club Bldg."
+  },
+  {
+   "box": [
+    14,
+    68,
+    84,
+    24
+   ],
+   "erase_box": [
+    18,
+    67,
+    80,
+    26
+   ],
+   "text": "Gym"
+  },
+  {
+   "box": [
+    14,
+    100,
+    84,
+    24
+   ],
+   "erase_box": [
+    14,
+    99,
+    84,
+    26
+   ],
+   "text": "Dojo"
+  }
+ ]
+}

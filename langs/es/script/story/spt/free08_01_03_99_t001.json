@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free08_01_03_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "La {{mission}} actual es 'Recolección de"
+  },
+  {
+   "i": 1004,
+   "src": "9e7bcf7f8e43",
+   "t": "{{medalia|pl}}: Pista de Esquí Artificial'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Revisa la app de misiones para más\ndetalles."
+  }
+ ]
+}

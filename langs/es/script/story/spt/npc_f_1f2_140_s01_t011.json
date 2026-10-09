@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1f2_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2fcba1bd9f86",
+   "t": "{{suiro}}"
+  },
+  {
+   "i": 1038,
+   "src": "6bc4220ef4e3",
+   "t": "A veces vienen alumnos mayores"
+  },
+  {
+   "i": 1041,
+   "src": "9d114343e1ee",
+   "t": "de la Universidad medaguerrero."
+  },
+  {
+   "i": 1049,
+   "src": "78de2c37d167",
+   "t": "¡Uno ganó el campeonato nacional"
+  },
+  {
+   "i": 1052,
+   "src": "eb7b6333714d",
+   "t": "el año pasado! ¡Es muy fuerte!"
+  }
+ ]
+}

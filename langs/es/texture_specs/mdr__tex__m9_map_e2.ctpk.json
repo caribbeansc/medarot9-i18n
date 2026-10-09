@@ -1,0 +1,61 @@
+{
+ "rel": "mdr/tex/m9_map_e2.ctpk",
+ "base": "jp",
+ "styles": {
+  "zona": {
+   "erase": "transparent",
+   "font": "hiragino-heavy",
+   "fill": "#FFFFFF",
+   "stroke": "#000000E0",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "cap": 10,
+   "crisp": 0.2
+  }
+ },
+ "items": [
+  {
+   "box": [
+    36,
+    6,
+    88,
+    22
+   ],
+   "erase_box": [
+    46,
+    8,
+    68,
+    20
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "text": "MOVER",
+   "font": "sf-heavy",
+   "cap": 13,
+   "fill": {
+    "top": "#E2FFFF",
+    "bottom": "#98EEFF"
+   },
+   "stroke": "#0B4E8E",
+   "stroke_w": 1.5,
+   "dy": 2
+  },
+  {
+   "style": "zona",
+   "box": [
+    274,
+    61,
+    113,
+    16
+   ],
+   "erase": "solid:#000000B3",
+   "erase_box": [
+    270,
+    58,
+    122,
+    22
+   ],
+   "text": "Academia MEDA"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_9.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "7595e5fdefa4",
+   "t": "<c:00ff00>{{mf}}:<c> Orogeny\nThe {{terrain}} becomes\n{{rocky_ground}} and all\n{{medabot|pl}} return to the\n{{command_area}}.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

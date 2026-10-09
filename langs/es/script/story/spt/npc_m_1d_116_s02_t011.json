@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_m_1d_116_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "Hola, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "9df71fd9dbfa",
+   "t": "Soy {{kamekichi}}, tu {{classmate}}."
+  },
+  {
+   "i": 1051,
+   "src": "205e68fb6bed",
+   "t": "¿Por qué estás tan inquieto?"
+  },
+  {
+   "i": 1054,
+   "src": "3fcb80bc08dc",
+   "t": "¿Estás esperando a alguien?"
+  },
+  {
+   "i": 1062,
+   "src": "1e00301e1979",
+   "t": "Oye, ¿vino una chica por aquí?"
+  },
+  {
+   "i": 1065,
+   "src": "a11cdedc51e0",
+   "t": "Se llama {{aoi}}-san."
+  },
+  {
+   "i": 1070,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1076,
+   "src": "b722a4325d0e",
+   "t": "Mmm, llevo aquí un buen rato, pero no"
+  },
+  {
+   "i": 1079,
+   "src": "d29c437fe850",
+   "t": "creo que haya venido ninguna clienta."
+  },
+  {
+   "i": 1087,
+   "src": "b19436a65093",
+   "t": "Ah, ya veo."
+  },
+  {
+   "i": 1090,
+   "src": "7ef8b5de132d",
+   "t": "Entendido, gracias."
+  }
+ ]
+}

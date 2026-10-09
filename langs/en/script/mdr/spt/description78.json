@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description78.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f77ccaefdfea",
+   "t": "Skill Level"
+  },
+  {
+   "i": 11,
+   "src": "ed96921e0870",
+   "t": "How skilled the <c:ffff00>{{medal}}<c> is at handling <c:ffff00>actions<c>.\nThere are 6 <c:ffff00>skills<c>: <c:ffff00>Striking<c>, <c:ffff00>{{shooting}}<c>, <c:ffff00>Support<c>, <c:ffff00>Heal<c>,\n<c:ffff00>Block<c> and <c:ffff00>Set-up<c>.\nUsing actions of a skill a certain number of times\nraises its level (max 99). The sum of the 6 is the\n<c:ffff00>{{medal_level}}<c>.\nA high level speeds up <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c>. Striking\nand {{shooting}} raise <c:ffff00>{{success_power}}<c>; the others raise\n<c:ffff00>{{defend}}<c> and <c:ffff00>{{evade}}<c>."
+  }
+ ]
+}

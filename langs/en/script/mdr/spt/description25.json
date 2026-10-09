@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description25.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d5f44ec483f5",
+   "t": "ATK"
+  },
+  {
+   "i": 11,
+   "src": "51213ac3595e",
+   "t": "An {{effect}} that deals <c:ffff00>{{damage}}<c> to the <c:ffff00>{{armor}}<c> of the\n<c:ffff00>{{target}}<c>. <c:ffff00>Melee<c> or <c:ffff00>ranged<c>; the <c:ffff00>legs<c>'\n<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> stat and the <c:ffff00>{{medal}}<c>'s <c:ffff00>{{skill_level}}<c> in\n<c:ffff00>Striking<c>/<c:ffff00>{{shooting}}<c> affect each type.\nHigher <c:ffff00>Attack Power<c> deals more {{damage}}; higher\n<c:ffff00>Defense Power<c> of the one <c:ffff00>responding<c> deals less.\n<c:ffff00>{{success_power}}<c> decides an <c:ffff00>{{attack_failure}}<c>, <c:ffff00>{{graze}}<c> or\n<c:ffff00>{{critical}}<c>.\nSome <c:ffff00>actions<c> also add <c:ffff00>negative statuses<c>."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free06_02_02_03_t012.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1052,
+   "src": "641cedb77db7",
+   "t": "Well, it'll be fine. It's not high enough"
+  },
+  {
+   "i": 1055,
+   "src": "9c0e1fbbd3cf",
+   "t": "to kill you if you fall."
+  },
+  {
+   "i": 1062,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1068,
+   "src": "8d5adeb2bc12",
+   "t": "Let's go."
+  },
+  {
+   "i": 1085,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1094,
+   "src": "5e18851f9f84",
+   "t": "Geez!"
+  }
+ ]
+}

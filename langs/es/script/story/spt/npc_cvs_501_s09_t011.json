@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_cvs_501_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dbb20c5975c0",
+   "t": "{{time_faller}}"
+  },
+  {
+   "i": 1035,
+   "src": "34db45f19bdd",
+   "t": "¡Bienvenido!"
+  },
+  {
+   "i": 1043,
+   "src": "290a79977c0d",
+   "t": "¡Haga su pedido!"
+  }
+ ]
+}

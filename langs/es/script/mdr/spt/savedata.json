@@ -1,0 +1,40 @@
+{
+ "file": "mdr/spt/savedata.spt",
+ "lines": [
+  {
+   "i": 1049,
+   "src": "6de4c6b48a00",
+   "t": "¿Quieres sobrescribir"
+  },
+  {
+   "i": 1052,
+   "src": "90b489e456eb",
+   "t": "estos datos?"
+  },
+  {
+   "i": 1062,
+   "src": "72ef20a82be6",
+   "t": "¿Guardar la partida?"
+  },
+  {
+   "i": 1170,
+   "src": "659ddcb97acb",
+   "t": "Guardando..."
+  },
+  {
+   "i": 1209,
+   "src": "d6c3b809bdb1",
+   "t": "Partida guardada."
+  },
+  {
+   "i": 1220,
+   "src": "cbf2f9db8b90",
+   "t": "Error al guardar."
+  },
+  {
+   "i": 1279,
+   "src": "45ecfe6ff233",
+   "t": "Si sobrescribes tu partida con datos\nde juego completado, solo podrás\nelegir \"Nueva partida\". Ten cuidado.\n\nSi creas datos de juego completado,\nen tu próxima \"Nueva partida\" podrás\nheredar el {{medal_level}}, las {{part|pl}}\nobtenidas y más, y jugar otra vuelta."
+  }
+ ]
+}

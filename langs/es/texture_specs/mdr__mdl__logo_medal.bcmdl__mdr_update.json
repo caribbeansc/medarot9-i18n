@@ -1,0 +1,59 @@
+{
+ "rel": "mdr/mdl/logo_medal.bcmdl",
+ "tex": "mdr_update",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "pad": 0,
+  "crisp": 0
+ },
+ "items": [
+  {
+   "erase_box": [
+    0,
+    109,
+    88,
+    19
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    112,
+    86,
+    15
+   ],
+   "text": "CARGANDO",
+   "font": "sf-heavy",
+   "wght": 900,
+   "wdth": 150,
+   "cap": 6,
+   "baseline": 123.5,
+   "scale_x": 1.0,
+   "tracking": 1.2,
+   "fill": {
+    "top": "#FFF8B8",
+    "bottom": "#E8C264"
+   },
+   "stroke": null,
+   "strokes": [
+    {
+     "color": "#00000000",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#CB8005",
+    "blur": 1.4,
+    "opacity": 0.85
+   },
+   "embolden": 0.2,
+   "snap": false
+  }
+ ]
+}

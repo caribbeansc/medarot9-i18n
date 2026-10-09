@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/free06_02_01_02_t001.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "7c5f89e438a5",
+   "t": "!?"
+  },
+  {
+   "i": 1046,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1052,
+   "src": "18b242fd6881",
+   "t": "Puño Ardiente~Rugiendo con fuerza~"
+  },
+  {
+   "i": 1055,
+   "src": "212bccc21869",
+   "t": "Grita~ Mi~"
+  },
+  {
+   "i": 1063,
+   "src": "9bf3d94c6255",
+   "t": "UUUUU~"
+  },
+  {
+   "i": 1078,
+   "src": "de359301f708",
+   "t": "¡Zas!"
+  },
+  {
+   "i": 1081,
+   "src": "07437093bea9",
+   "t": "¡Ta-ta, tachán!"
+  },
+  {
+   "i": 1111,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  }
+ ]
+}

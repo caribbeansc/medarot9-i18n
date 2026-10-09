@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/kabe_800_door_t011.spt",
+ "lines": [
+  {
+   "i": 1096,
+   "src": "3000b5d2c77b",
+   "t": "*SFX: Bang!"
+  },
+  {
+   "i": 1115,
+   "src": "21a57e9de01e",
+   "t": "Hey!"
+  },
+  {
+   "i": 1131,
+   "src": "0c39f6cc020f",
+   "t": "*SFX: Bang! Bang!"
+  },
+  {
+   "i": 1150,
+   "src": "0cb5155f61f5",
+   "t": "Anybody~!!"
+  },
+  {
+   "i": 1166,
+   "src": "7cffe2409cde",
+   "t": "*SFX: Bang! Bang! Bang!"
+  }
+ ]
+}

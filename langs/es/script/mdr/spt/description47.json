@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description47.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1ded1b76481b",
+   "t": "{{cannot_defend|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "1f41c12a1606",
+   "t": "{{condition|cap}} en que no se puede <c:ffff00>defender<c>.\n\nSi una <c:ffff00>técnica<c>, un <c:ffff00>{{negative_status}}<c> u otro {{effect}}\ndeja {{cannot_defend}}, ni una <c:ffff00>{{part}}<c> capaz de defender\npuede dar la <c:ffff00>{{response}}<c> de {{defend}}; tener destruidas\ntodas esas {{part|pl}} equivale a lo mismo.\n\nSi se <c:ffff00>recibe<c> un ataque estando {{cannot_defend}} y <c:ffff00>sin<c>\n<c:ffff00>{{evade}}<c>, siempre es <c:ffff00>{{critical}}<c>."
+  }
+ ]
+}

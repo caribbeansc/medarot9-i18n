@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_1e_meda_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ad8db7e2360e",
+   "t": "{{girl_1_e_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "880d3f03ac2e",
+   "t": "Is it ready yet?"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f09_075_102_00_t011.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "bf7883a2d832",
+   "t": "¿Eh, eh?"
+  },
+  {
+   "i": 1004,
+   "src": "039e7c776140",
+   "t": "No hay nadie..."
+  },
+  {
+   "i": 1022,
+   "src": "86325fa83d10",
+   "t": "Será el {{exploration_club}}..."
+  }
+ ]
+}

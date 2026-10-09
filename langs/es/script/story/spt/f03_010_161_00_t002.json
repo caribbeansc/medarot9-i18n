@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f03_010_161_00_t002.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "e42717e480ea",
+   "t": "El {{exploration_club}}, verás,"
+  },
+  {
+   "i": 1043,
+   "src": "10cac13d95fd",
+   "t": "es un club dedicado a explorar cada "
+  },
+  {
+   "i": 1046,
+   "src": "ea37a22ae521",
+   "t": "rincón de la Isla Loose Geyser~."
+  },
+  {
+   "i": 1053,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1062,
+   "src": "6520ba0627d3",
+   "t": "¿Así que dices que vamos a caminar\npor toda la isla?"
+  },
+  {
+   "i": 1072,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1081,
+   "src": "57b4f116ce07",
+   "t": "Bueno, supongo que sí."
+  },
+  {
+   "i": 1091,
+   "src": "f735a648ae13",
+   "t": "Que esta isla fue una {{medalia_mine}}"
+  },
+  {
+   "i": 1094,
+   "src": "795a8dae7bab",
+   "t": "ya es de conocimiento general."
+  },
+  {
+   "i": 1102,
+   "src": "0a59347d4616",
+   "t": "Agotaron las {{medalia|pl}}"
+  },
+  {
+   "i": 1105,
+   "src": "12085584591c",
+   "t": "y la abandonaron hace décadas..."
+  },
+  {
+   "i": 1113,
+   "src": "8cb58d0313df",
+   "t": "Antes de la {{mine}} y tras su cierre, hasta"
+  },
+  {
+   "i": 1116,
+   "src": "cd8b57680a28",
+   "t": "la academia, la isla estuvo deshabitada."
+  },
+  {
+   "i": 1124,
+   "src": "6845d726d265",
+   "t": "Así que era eso..."
+  },
+  {
+   "i": 1132,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1138,
+   "src": "9aef5420c980",
+   "t": "Por eso hay viejas instalaciones"
+  },
+  {
+   "i": 1141,
+   "src": "7a19afc5f730",
+   "t": "mineras dispersas por toda la isla..."
+  },
+  {
+   "i": 1149,
+   "src": "1a9985703c18",
+   "t": "Y por otro lado, hay zonas en blanco"
+  },
+  {
+   "i": 1152,
+   "src": "2a2e2994557c",
+   "t": "en el mapa, sin registro alguno."
+  },
+  {
+   "i": 1160,
+   "src": "9c88692574a2",
+   "t": "Detrás del monte casi no hay mapas."
+  },
+  {
+   "i": 1163,
+   "src": "19c2a8a1fadd",
+   "t": "Perfecto para una aventura, ¿no?"
+  },
+  {
+   "i": 1170,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1179,
+   "src": "2cdf16a02da0",
+   "t": "Así que la actividad del club"
+  },
+  {
+   "i": 1182,
+   "src": "7adb4bb274b1",
+   "t": "es vagar por la isla sin rumbo."
+  },
+  {
+   "i": 1190,
+   "src": "ff92be682576",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1197,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1206,
+   "src": "782f8cd8b6e4",
+   "t": "Vamos, no pongas cara de aburrimiento."
+  },
+  {
+   "i": 1209,
+   "src": "7de54f3f1918",
+   "t": "...Mira ahí."
+  }
+ ]
+}

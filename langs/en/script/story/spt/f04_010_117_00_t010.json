@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f04_010_117_00_t010.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "02741b2a633d",
+   "t": "All right, let's begin class."
+  },
+  {
+   "i": 1041,
+   "src": "0b3758e1f877",
+   "t": "Open your textbooks, everyone."
+  }
+ ]
+}

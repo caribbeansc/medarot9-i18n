@@ -1,0 +1,45 @@
+{
+ "file": "mdr/spt/memo51.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "c343a2b19c4a",
+   "t": "'{{explore|cap}}:Underground Warehouse'"
+  },
+  {
+   "i": 32,
+   "src": "5eb6a3f3f225",
+   "t": "Explore the facility in the warehouse basement.\nUse the elevator at the back of the warehouse.\n"
+  },
+  {
+   "i": 42,
+   "src": "be233e5a76e7",
+   "t": "Let's see if there's another way.\n"
+  },
+  {
+   "i": 52,
+   "src": "768880f7f9a7",
+   "t": "Enter through the ducts.\nLook for a switch or something.\n"
+  },
+  {
+   "i": 62,
+   "src": "ae9e4f8e26ab",
+   "t": "Power is back on.Let's {{explore}} the area.\n"
+  },
+  {
+   "i": 72,
+   "src": "d0bf470dda70",
+   "t": "We're in the open.Look's like a mine entrance.\n"
+  },
+  {
+   "i": 82,
+   "src": "3b259e72f43e",
+   "t": "We're finished here.Head back to the {{club}} room.\n"
+  },
+  {
+   "i": 92,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

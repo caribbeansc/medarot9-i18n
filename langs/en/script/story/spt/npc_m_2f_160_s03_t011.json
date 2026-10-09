@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2f_160_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1035,
+   "src": "65af1bfd3b39",
+   "t": "So, the performer goes right here."
+  },
+  {
+   "i": 1038,
+   "src": "be79b1d88e4d",
+   "t": "The camera's around this palm tree,\nso--"
+  },
+  {
+   "i": 1046,
+   "src": "afd98a453e8d",
+   "t": "See, at just this moment, the sunset"
+  },
+  {
+   "i": 1049,
+   "src": "4aa92c771713",
+   "t": "will make a perfect silhouette."
+  },
+  {
+   "i": 1057,
+   "src": "37976a1bb21e",
+   "t": "Isn't it flawless?"
+  },
+  {
+   "i": 1060,
+   "src": "4ea3ee12156d",
+   "t": "Let's just approve this plan already."
+  }
+ ]
+}

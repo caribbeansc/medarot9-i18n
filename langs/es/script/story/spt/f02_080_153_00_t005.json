@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f02_080_153_00_t005.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "750bafc58bbc",
+   "t": "Oh."
+  },
+  {
+   "i": 1041,
+   "src": "5d3639b3ed02",
+   "t": "Bueno, sigamos con esto entonces."
+  },
+  {
+   "i": 1053,
+   "src": "7f9b4d354d33",
+   "t": "-chan, ¿vas a estar bien?"
+  },
+  {
+   "i": 1066,
+   "src": "bc2e5029efa5",
+   "t": "Yo estaré bien. Vamos."
+  }
+ ]
+}

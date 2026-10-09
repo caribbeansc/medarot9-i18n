@@ -1,0 +1,292 @@
+{
+ "rel": "mdr/tex/mdr_bg_98.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    9,
+    39,
+    33,
+    9
+   ],
+   "text": "SHOOTING",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#122830",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    10,
+    38,
+    28,
+    11
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    63,
+    33,
+    8
+   ],
+   "text": "STRIKING",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#401A21",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    10,
+    62,
+    28,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    87,
+    33,
+    8
+   ],
+   "text": "SUPPORT",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#3D3014",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    10,
+    86,
+    28,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    111,
+    33,
+    8
+   ],
+   "text": "HEAL",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#243A11",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    12,
+    110,
+    24,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    135,
+    33,
+    8
+   ],
+   "text": "BLOCK",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#133030",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    14,
+    134,
+    22,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    9,
+    159,
+    33,
+    8
+   ],
+   "text": "SET-UP",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#281730",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    9,
+    158,
+    29,
+    10
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    411,
+    69,
+    32,
+    9
+   ],
+   "text": "HEAD",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F4F4F4",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    418,
+    70,
+    22,
+    7
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    407.5,
+    93,
+    32,
+    10
+   ],
+   "text": "R-ARM",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F4F4F4",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    413,
+    94,
+    23,
+    8
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    403.5,
+    118,
+    32,
+    10
+   ],
+   "text": "L-ARM",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F4F4F4",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    409,
+    119,
+    22,
+    8
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    404.5,
+    142,
+    32,
+    10
+   ],
+   "text": "LEGS",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#F4F4F4",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    406,
+    143,
+    26,
+    8
+   ],
+   "bg": "mode"
+  },
+  {
+   "box": [
+    429,
+    169,
+    26,
+    8
+   ],
+   "text": "ARMOR",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "crisp": 0,
+   "stroke": null,
+   "fill": "#4A4A4A",
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "erase": "glyph",
+   "erase_box": [
+    430,
+    170,
+    24,
+    6
+   ],
+   "bg": "mode"
+  }
+ ]
+}

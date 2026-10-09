@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f09_100_109_00_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1038,
+   "src": "34763bfea737",
+   "t": "Oh, it's you--"
+  },
+  {
+   "i": 1049,
+   "src": "ed9f1d8f9cb5",
+   "t": "Vice-Principal!"
+  },
+  {
+   "i": 1054,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1060,
+   "src": "210db98e1e0f",
+   "t": "Good morning, you're early."
+  },
+  {
+   "i": 1078,
+   "src": "3fb2424e52f2",
+   "t": "What's the matter?"
+  },
+  {
+   "i": 1081,
+   "src": "4b18480b60dc",
+   "t": "Do I have something on my face?"
+  },
+  {
+   "i": 1089,
+   "src": "76b15b0dc0a3",
+   "t": "N-no, that's not it, um,"
+  },
+  {
+   "i": 1102,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1110,
+   "src": "29fccb612046",
+   "t": "Is there something you want to talk\nabout?"
+  },
+  {
+   "i": 1118,
+   "src": "98617880be87",
+   "t": "Y-yes."
+  },
+  {
+   "i": 1121,
+   "src": "50ec2d9d4774",
+   "t": "It's about what happened at the\nharbor--"
+  },
+  {
+   "i": 1134,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1142,
+   "src": "c4c14ba1e994",
+   "t": "Fine."
+  },
+  {
+   "i": 1145,
+   "src": "26c5fc9d2530",
+   "t": "Come in."
+  }
+ ]
+}

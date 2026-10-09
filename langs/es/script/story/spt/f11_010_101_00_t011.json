@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_010_101_00_t011.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1049,
+   "src": "da7648b99d1b",
+   "t": "¡Juajajaja!"
+  },
+  {
+   "i": 1052,
+   "src": "9a0d00ac52d5",
+   "t": "¡He estado esperando este momento!"
+  },
+  {
+   "i": 1060,
+   "src": "ad72fa5c8342",
+   "t": "¡Todos a sus puestos!"
+  },
+  {
+   "i": 1067,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1073,
+   "src": "cff340ce5541",
+   "t": "¡Sí!"
+  }
+ ]
+}

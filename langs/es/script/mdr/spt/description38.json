@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description38.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "07439e8b653c",
+   "t": "{{take_it|cap}} ({{response}})"
+  },
+  {
+   "i": 11,
+   "src": "d932d92955ae",
+   "t": "<c:ffff00>{{response|cap}}<c> en la que se recibe el <c:ffff00>ataque<c> del {{opponent}} tal\ncual.\n\nMás que una {{response}}, en la práctica es casi no\npoder hacer nada.\n\nEl <c:ffff00>{{damage}}<c> recibido se reduce un poco con el <c:ffff00>poder de<c>\n<c:ffff00>{{defend}}<c> normal."
+  }
+ ]
+}

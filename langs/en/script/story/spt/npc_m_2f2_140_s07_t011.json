@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f2_140_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1038,
+   "src": "8d5911d4b808",
+   "t": "I really like the cultural festival, actually."
+  },
+  {
+   "i": 1041,
+   "src": "e72e8b2cfa21",
+   "t": "There are lots of serious acts."
+  },
+  {
+   "i": 1049,
+   "src": "15b58b172db9",
+   "t": "The {{idol_club}}'s dance is almost\npro-level!"
+  },
+  {
+   "i": 1052,
+   "src": "5993e1aec148",
+   "t": "I can't wait to see what they do this\nyear."
+  }
+ ]
+}

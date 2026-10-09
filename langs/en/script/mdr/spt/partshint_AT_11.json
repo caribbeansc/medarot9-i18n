@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_11.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8d486f152aa0",
+   "t": "<c:00ff00>Action:<c> {{sacrifice}}\nA ranged attack that adds\n1/2 of the {{part}}'s {{armor}}\nvalue to its {{power}}.\nAfter attacking, it cannot\nbear the {{recoil}} and\nexplodes."
+  }
+ ]
+}

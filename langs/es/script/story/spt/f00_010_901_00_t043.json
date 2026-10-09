@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f00_010_901_00_t043.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1038,
+   "src": "4b46777d21d4",
+   "t": "No sé cómo, pero gané tiempo, {{robo}}."
+  },
+  {
+   "i": 1041,
+   "src": "c40adea97f5e",
+   "t": "Así que estoy listo, {{robo}}."
+  },
+  {
+   "i": 1052,
+   "src": "b25379da1a84",
+   "t": "¡No perderé en una {{robattle}}, {{robo}}!"
+  },
+  {
+   "i": 1055,
+   "src": "a3ff3d4cf7af",
+   "t": "¡Vamos, {{robo}}!"
+  }
+ ]
+}

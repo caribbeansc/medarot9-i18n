@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f1d2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1c4b8d5a4d2d",
+   "t": "{{sen}}"
+  },
+  {
+   "i": 1035,
+   "src": "deee517201f9",
+   "t": "Lo sientooo."
+  },
+  {
+   "i": 1038,
+   "src": "d1e08d84532c",
+   "t": "¡Ahora no puedo, será en otra ocasión!"
+  }
+ ]
+}

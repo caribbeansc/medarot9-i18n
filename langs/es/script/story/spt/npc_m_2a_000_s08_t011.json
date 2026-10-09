@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2a_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1038,
+   "src": "f1799c47d8fc",
+   "t": "No hay nadie aquí. Supongo que todos"
+  },
+  {
+   "i": 1041,
+   "src": "c0b1687abe10",
+   "t": "están repartidos por toda la isla."
+  },
+  {
+   "i": 1049,
+   "src": "0204321b3d79",
+   "t": "Creo que ya terminé por aquí."
+  },
+  {
+   "i": 1052,
+   "src": "68059efff16c",
+   "t": "Ya junté todas las {{medalia|pl}} que quería..."
+  },
+  {
+   "i": 1060,
+   "src": "248f11aeef75",
+   "t": "Estas batallas agotan."
+  },
+  {
+   "i": 1063,
+   "src": "e0368bf4b7b9",
+   "t": "{{robattle|pl|cap}} solo en torneos."
+  }
+ ]
+}

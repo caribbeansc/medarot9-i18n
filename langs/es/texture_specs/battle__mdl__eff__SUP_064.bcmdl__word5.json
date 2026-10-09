@@ -1,0 +1,58 @@
+{
+ "rel": "battle/mdl/eff/SUP_064.bcmdl",
+ "tex": "word5",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "erase_box": [
+    10,
+    3,
+    102,
+    10
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    18,
+    1,
+    86,
+    14
+   ],
+   "erase": "none",
+   "text": "CUIDADO",
+   "font": "/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf",
+   "cap": 10,
+   "tracking": 1.6,
+   "pad": 0,
+   "baseline": 13,
+   "dx": 0,
+   "fill": {
+    "top": "#F8D86E",
+    "bottom": "#F2C078",
+    "mid": "#FFE48A",
+    "mid_at": 0.5
+   },
+   "stroke": "#CAB90088",
+   "stroke_w": 0.6,
+   "crisp": 0,
+   "embolden": 0.3
+  }
+ ],
+ "protect": [
+  [
+   0,
+   0,
+   128,
+   3
+  ],
+  [
+   0,
+   13,
+   128,
+   3
+  ]
+ ]
+}

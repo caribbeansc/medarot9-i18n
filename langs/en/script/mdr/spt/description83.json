@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description83.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d555fd3831e8",
+   "t": "Robattle Style"
+  },
+  {
+   "i": 11,
+   "src": "dc68a7dd77bb",
+   "t": "The tendency and role suited to <c:ffff00>{{robattle}}<c>, different\nfor each <c:ffff00>{{medal}}<c>. You could call it the {{medabot}}'s\n\"personality\".\n\nThere are 6 styles: <c:ffff00>{{power_style}}<c>, <c:ffff00>{{speed}}<c>, <c:ffff00>{{hunter}}<c>, <c:ffff00>{{sniper}}<c>,\n<c:ffff00>{{guard}}<c> and <c:ffff00>{{assist}}<c>.\nEach differs in the <c:ffff00>{{stats}}<c> that rise and in the\n{{condition_rotation}} for filling the <c:ffff00>{{charge_gauge}}<c>."
+  }
+ ]
+}

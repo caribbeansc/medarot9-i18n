@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f09_060_230_00_t024.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1042,
+   "src": "ea780455f601",
+   "t": "W-what was that noise, {{robo}}?"
+  },
+  {
+   "i": 1052,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1061,
+   "src": "83f1c853d68b",
+   "t": "Surely a {{medalia}} reaction, {{robo}}."
+  },
+  {
+   "i": 1064,
+   "src": "3f7e83f44a90",
+   "t": "The door opened, and the reaction\ninside got stronger, {{robo}}."
+  },
+  {
+   "i": 1071,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1077,
+   "src": "edf8b4eda910",
+   "t": "Which means--"
+  },
+  {
+   "i": 1091,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1097,
+   "src": "a1235d2d77c3",
+   "t": "As the intel said, the treasure is ahead..."
+  },
+  {
+   "i": 1100,
+   "src": "0d756ec9f6f1",
+   "t": "{{robo}}!"
+  }
+ ]
+}

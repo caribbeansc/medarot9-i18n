@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f08_020_117_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "c093ef926c7d",
+   "t": "Oh my, they vanished in no time..."
+  },
+  {
+   "i": 1043,
+   "src": "7efc831fc5dd",
+   "t": "They're all going {{medalia}} hunting, aren't\nthey?"
+  },
+  {
+   "i": 1046,
+   "src": "90456af8603d",
+   "t": "At this rate, they might be gone soon~."
+  },
+  {
+   "i": 1057,
+   "src": "25bff2e4b37a",
+   "t": "...Well, I think I'll head to the {{clubroom}}\ntoo."
+  },
+  {
+   "i": 1060,
+   "src": "5d35b8abc94f",
+   "t": "Hurry up and come too, okay?"
+  }
+ ]
+}

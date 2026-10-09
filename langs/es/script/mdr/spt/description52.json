@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description52.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f9f1c9624f21",
+   "t": "{{positive_effect|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "86746d5f6dda",
+   "t": "{{effect|cap}} auxiliar automático que favorece al <c:ffff00>{{medabot}}<c>.\nLo aplican sobre todo las <c:ffff00>técnicas<c> de <c:ffff00>habilidad de<c>\n<c:ffff00>apoyo<c> aliadas. Un {{medabot}} mantiene hasta 6 tipos a\nla vez; si se supera, desaparecen los más antiguos.\nDuran un tiempo o un número fijo de <c:ffff00>acciones<c>, y\nalgunos se anulan con condiciones concretas.\n\nAl acumular el mismo {{positive_effect}}, su tiempo o\nnúmero se reinicia; algunos se refuerzan."
+  }
+ ]
+}

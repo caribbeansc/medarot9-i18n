@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f10_070_234_00_t042.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "8a9fef182480",
+   "t": "¡{{principal|cap}}!"
+  },
+  {
+   "i": 1043,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1052,
+   "src": "24f1b42c0bfa",
+   "t": "¿¡Estás herido!?"
+  },
+  {
+   "i": 1059,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1068,
+   "src": "48360931102b",
+   "t": "Mis piernas aún pueden moverse."
+  },
+  {
+   "i": 1071,
+   "src": "04f7cc06ae58",
+   "t": "No hay problemas con la movilidad."
+  },
+  {
+   "i": 1079,
+   "src": "6f7dfbe644db",
+   "t": "Pero lidiar con ellos es duro."
+  },
+  {
+   "i": 1082,
+   "src": "dfa091d513f0",
+   "t": "Necesito tu apoyo."
+  }
+ ]
+}

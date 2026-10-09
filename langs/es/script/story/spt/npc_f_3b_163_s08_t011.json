@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3b_163_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1038,
+   "src": "3f3765ce2d69",
+   "t": "Claro, sabía que esta isla fue"
+  },
+  {
+   "i": 1041,
+   "src": "bd959c8eb28f",
+   "t": "{{mine}} de {{medalia}}, pero no imaginé"
+  },
+  {
+   "i": 1049,
+   "src": "ef051b3d9184",
+   "t": "que quedara tanta. No se había"
+  },
+  {
+   "i": 1052,
+   "src": "0e62f892509d",
+   "t": "agotado, solo estaba oculta a la vista."
+  }
+ ]
+}

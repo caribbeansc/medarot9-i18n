@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f02_140_211_00_t004.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "3ab3f7290b21",
+   "t": "¡Brilla y se ve genial!"
+  },
+  {
+   "i": 1054,
+   "src": "7f9e27d168b0",
+   "t": "¡Brilla y es genial!"
+  },
+  {
+   "i": 1063,
+   "src": "3e90c9219cc8",
+   "t": "Es verdad."
+  },
+  {
+   "i": 1071,
+   "src": "55fb22c93d3b",
+   "t": "Qué será..."
+  },
+  {
+   "i": 1074,
+   "src": "6696fb69d482",
+   "t": "¿Una gema? No, no puede ser eso."
+  },
+  {
+   "i": 1082,
+   "src": "5474e575de29",
+   "t": "¿Será una {{medalia}}?"
+  },
+  {
+   "i": 1085,
+   "src": "0b6b72a98e34",
+   "t": "Pero tampoco parece serlo, mmm..."
+  },
+  {
+   "i": 1109,
+   "src": "5a4851965203",
+   "t": "¿Qué es una {{medalia}}?"
+  },
+  {
+   "i": 1115,
+   "src": "966493d76807",
+   "t": "¿Qué es exactamente una {{medalia}}?"
+  },
+  {
+   "i": 1124,
+   "src": "abc4f5627a54",
+   "t": "{{medalia}} es--"
+  },
+  {
+   "i": 1132,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1138,
+   "src": "80e823ee03f1",
+   "t": "Muéstramelo."
+  }
+ ]
+}

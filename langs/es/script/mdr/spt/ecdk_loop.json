@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/ecdk_loop.spt",
+ "lines": [
+  {
+   "i": 1223,
+   "src": "ad4ecaea2490",
+   "t": "Se retiró la tarjeta SD."
+  },
+  {
+   "i": 1299,
+   "src": "4d71dff1427b",
+   "t": "Desconectando de la red Nintendo"
+  },
+  {
+   "i": 1317,
+   "src": "16cccbf71b7d",
+   "t": "Desconectado de la red.    "
+  }
+ ]
+}

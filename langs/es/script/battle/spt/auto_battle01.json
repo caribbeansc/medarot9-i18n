@@ -1,0 +1,95 @@
+{
+ "file": "battle/spt/auto_battle01.spt",
+ "lines": [
+  {
+   "i": 1199,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 1202,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1205,
+   "src": "cd5a0c53a167",
+   "t": "Ladrón Jill"
+  },
+  {
+   "i": 1357,
+   "src": "860c67ff6592",
+   "t": "¡Veamos tu habilidad de cerca, vamos!\n¡Ark, transmisión!"
+  },
+  {
+   "i": 1363,
+   "src": "9eb87c8071e6",
+   "t": "¡Veamos tu habilidad de cerca, vamos!\n¡Tyrrell, transmisión!"
+  },
+  {
+   "i": 1430,
+   "src": "dd4bac05f29b",
+   "t": ", ¡transferencia!"
+  },
+  {
+   "i": 1482,
+   "src": "a11eaf18d1f9",
+   "t": "¡Es mi turno!\n¡Blazermate, transmisión!"
+  },
+  {
+   "i": 1534,
+   "src": "d0edc259ac91",
+   "t": "¡Vamos! ¡{{greed}}!\n¡transmisión!"
+  },
+  {
+   "i": 1652,
+   "src": "0a79e7595c07",
+   "t": "\n¡Usa la Ametralladora Meta!"
+  },
+  {
+   "i": 1659,
+   "src": "800fb85d958d",
+   "t": "\n¡Usa el {{picopeco_hammer}}!"
+  },
+  {
+   "i": 1730,
+   "src": "007e56a06d1a",
+   "t": "Vaya, vaya, apunta mejor."
+  },
+  {
+   "i": 1841,
+   "src": "ce2d3e0328bb",
+   "t": "¡Rising Sword!"
+  },
+  {
+   "i": 1908,
+   "src": "6e2a280a080b",
+   "t": "Tu avance es insuficiente.\n¿Acaso tienes miedo?"
+  },
+  {
+   "i": 2025,
+   "src": "b610a86e52b4",
+   "t": "¡Da en el blanco!"
+  },
+  {
+   "i": 2092,
+   "src": "9afc5d557df8",
+   "t": "Je, je, tus movimientos son muy monótonos."
+  },
+  {
+   "i": 2256,
+   "src": "03792f0fc5df",
+   "t": "Pareces el más novato de todos...\n¡Recibe esto! ¡Llamas ardientes!"
+  },
+  {
+   "i": 2262,
+   "src": "57a54dbff263",
+   "t": "Pareces el más novato de todos...\n¿Podrás esquivar este tajo?"
+  },
+  {
+   "i": 2364,
+   "src": "a00b05e6427f",
+   "t": "¡Aaaaah!"
+  }
+ ]
+}

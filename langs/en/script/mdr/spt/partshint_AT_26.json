@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_26.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d7bb170b58cc",
+   "t": "<c:00ff00>Action:<c> {{ghost_shot}}\nA ranged attack that\nadds 1/2 of the Charge\nGauge % to {{power}}.\nIgnores the {{defend}}\nboost the foe gets from\ndefending. Has\npiercing."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_43.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e0457757e84e",
+   "t": "<c:00ff00>Action:<c> {{fire}}\nA melee attack that\napplies\nthe {{fire}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{fire}}\nFor a while, when each\naction ends, deals 10\n{{damage}} to all {{part|pl}}. Does\nnot reveal the {{leader}}."
+  }
+ ]
+}

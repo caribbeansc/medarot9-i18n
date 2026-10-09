@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_152.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "54f7fc1e3523",
+   "t": "<c:00ff00>Action:<c> {{head_trap}}\nSets a trap that deals\n{{damage}} when it reacts to\nthe {{opponent}} using a\n{{head_part}}. Setting it\nrepeatedly raises its\n{{armor}} and {{damage}}."
+  }
+ ]
+}

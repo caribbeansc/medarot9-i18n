@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f06_260_161_00_t014.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "1c1a291aab09",
+   "t": "Ah."
+  },
+  {
+   "i": 1037,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1046,
+   "src": "06795f57a5d9",
+   "t": "That's the hard drive..."
+  },
+  {
+   "i": 1053,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1062,
+   "src": "c75167b0c4df",
+   "t": "I absolutely forbid use of this detection\nsystem."
+  },
+  {
+   "i": 1065,
+   "src": "029be4bcebd2",
+   "t": "Violators will be expelled immediately."
+  },
+  {
+   "i": 1076,
+   "src": "c0a27af047c1",
+   "t": "Is that understood!"
+  }
+ ]
+}

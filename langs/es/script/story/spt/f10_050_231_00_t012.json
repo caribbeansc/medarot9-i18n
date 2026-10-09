@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f10_050_231_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "3f706d7d0194",
+   "t": "¡Corran, {{robo}}!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_8.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f7ec22b5aaf6",
+   "t": "<c:00ff00>Leg Trait:<c> {{adapter}}\nRegardless of {{leg_type}},\nremoves unfavorable\n{{terrain}} affinities."
+  }
+ ]
+}

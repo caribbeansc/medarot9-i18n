@@ -1,0 +1,190 @@
+{
+ "file": "story/spt/tri030_00_t012.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1044,
+   "src": "d3b076630c0a",
+   "t": "From here on"
+  },
+  {
+   "i": 1047,
+   "src": "6b6566646c1a",
+   "t": "I'll explain."
+  },
+  {
+   "i": 1055,
+   "src": "6941f133969b",
+   "t": "Who are you people?"
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "4d0c6ca1f745",
+   "t": "I'm Kunigiku, president of the\nExploration\n{{club|cap}}."
+  },
+  {
+   "i": 1087,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1093,
+   "src": "dc83c0e0fe65",
+   "t": "I'm {{ryoma}}."
+  },
+  {
+   "i": 1096,
+   "src": "4c90811e835f",
+   "t": "Nice to meet you."
+  },
+  {
+   "i": 1111,
+   "src": "59b22ff10bcd",
+   "t": "Oh, nice to meet you."
+  },
+  {
+   "i": 1123,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1129,
+   "src": "0c66d11464dc",
+   "t": "Actually it's odd that we're here at all,"
+  },
+  {
+   "i": 1132,
+   "src": "03d78a7777f1",
+   "t": "since this is just the demo version."
+  },
+  {
+   "i": 1142,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1148,
+   "src": "a5d5725cbed5",
+   "t": "Hey, hey..."
+  },
+  {
+   "i": 1161,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1169,
+   "src": "61540c197a66",
+   "t": "Now then, "
+  },
+  {
+   "i": 1171,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1174,
+   "src": "31e17a569faf",
+   "t": "Do you know about Trans Parts?"
+  },
+  {
+   "i": 1185,
+   "src": "b0542d74159f",
+   "t": "Trans Parts...?"
+  },
+  {
+   "i": 1190,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1196,
+   "src": "c6bf24c42aa8",
+   "t": "It transfers a {{part}} to a {{medabot}}\nmid-{{robattle}}."
+  },
+  {
+   "i": 1199,
+   "src": "b1ba99a53c64",
+   "t": "It was adopted in the latest official\nrules."
+  },
+  {
+   "i": 1207,
+   "src": "7891c9d37b88",
+   "t": "Only once per {{robattle}}, and only to the\n{{leader}}."
+  },
+  {
+   "i": 1210,
+   "src": "806fcf4a4752",
+   "t": "But only for preset EX {{part|pl}}."
+  },
+  {
+   "i": 1218,
+   "src": "b7d965cee4b1",
+   "t": "Wow..."
+  },
+  {
+   "i": 1223,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1229,
+   "src": "67ff56ce7f01",
+   "t": "If you're going to {{robattle}} at this\nacademy,"
+  },
+  {
+   "i": 1232,
+   "src": "128dff55f66c",
+   "t": "you'd better learn to master it."
+  },
+  {
+   "i": 1239,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1245,
+   "src": "7b25c3b0cadc",
+   "t": "Well then, let's practice a bit."
+  },
+  {
+   "i": 1253,
+   "src": "a836e0ceea8e",
+   "t": "Now, your {{opponent}} will be~"
+  },
+  {
+   "i": 1263,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1272,
+   "src": "7d79a8582770",
+   "t": "...I'll do it."
+  },
+  {
+   "i": 1282,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1291,
+   "src": "c0eee1f951b7",
+   "t": "Huh, you sure?"
+  },
+  {
+   "i": 1294,
+   "src": "2d34bc581a01",
+   "t": "Then, Madam Council President, please."
+  }
+ ]
+}

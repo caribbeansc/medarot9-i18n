@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t022.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1038,
+   "src": "1402da493dd4",
+   "t": "¿Ya usaste el Sintetizador de {{medalia}}?"
+  },
+  {
+   "i": 1041,
+   "src": "d0e1cdbed64e",
+   "t": "Es el que {{main}}-chan por fin completó."
+  },
+  {
+   "i": 1049,
+   "src": "c8ea2de0205f",
+   "t": "Hice un descubrimiento curioso"
+  },
+  {
+   "i": 1052,
+   "src": "6247cc734e7f",
+   "t": "hace poco. ¿Quieres saber cuál es?"
+  }
+ ]
+}

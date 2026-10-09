@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_07_103.spt",
+ "lines": [
+  {
+   "i": 1111,
+   "src": "2567d5287753",
+   "t": "Good!   "
+  },
+  {
+   "i": 1116,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1122,
+   "src": "ddfa2c576f8c",
+   "t": "The {{medachange}} was a success.          "
+  },
+  {
+   "i": 1127,
+   "src": "c38ca8c1c3a9",
+   "t": "You can't {{medachange}} if even one {{part}}\nis destroyed,\nso be careful if you get targeted during\n{{prep}}."
+  },
+  {
+   "i": 1132,
+   "src": "fa4b1e4bf71e",
+   "t": "This time you charged to 100%, but you\ncan\n{{medachange}} with 20% or more on the\ngauge.                                                "
+  }
+ ]
+}

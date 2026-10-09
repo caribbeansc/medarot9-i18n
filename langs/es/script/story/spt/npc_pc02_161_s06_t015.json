@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s06_t015.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "7a5026d8d973",
+   "t": "Algo huele mal... Seguro que hay"
+  },
+  {
+   "i": 1038,
+   "src": "db44d1f76439",
+   "t": "algo raro con esos dos..."
+  }
+ ]
+}

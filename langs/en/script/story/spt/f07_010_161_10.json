@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f07_010_161_10.spt",
+ "lines": [
+  {
+   "i": 1167,
+   "src": "8d5bbcbbc7e5",
+   "t": "{{s8}}"
+  },
+  {
+   "i": 1174,
+   "src": "033389a3fcd3",
+   "t": "What game should we play before\nrevealing the password..."
+  },
+  {
+   "i": 1178,
+   "src": "e65234b1a211",
+   "t": "Rock-Paper-Scissors"
+  },
+  {
+   "i": 1179,
+   "src": "58b35274f174",
+   "t": "Arm Wrestling"
+  },
+  {
+   "i": 1180,
+   "src": "14f2512e7e42",
+   "t": "{{robattle}}"
+  },
+  {
+   "i": 1184,
+   "src": "e65234b1a211",
+   "t": "Rock-Paper-Scissors"
+  },
+  {
+   "i": 1193,
+   "src": "58b35274f174",
+   "t": "Arm Wrestling"
+  }
+ ]
+}

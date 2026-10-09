@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e55b8feb3073",
+   "t": "<c:00ff00>Técnica:<c>{{msl}}\nAtaque de {{shooting}} con\nexplosión.\nDaña todas las partes.\nSiempre acierta."
+  }
+ ]
+}

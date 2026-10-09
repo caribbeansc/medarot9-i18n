@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2a_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1038,
+   "src": "5e5aec0b1bed",
+   "t": "The school's huge, but the dorm"
+  },
+  {
+   "i": 1041,
+   "src": "fccd66f1f8df",
+   "t": "has a crazy number of rooms too."
+  },
+  {
+   "i": 1049,
+   "src": "b16c68d119a3",
+   "t": "I still can't find my own room"
+  },
+  {
+   "i": 1052,
+   "src": "7f82993ad05c",
+   "t": "and end up lost."
+  },
+  {
+   "i": 1060,
+   "src": "bc31be4ead7d",
+   "t": "And it's already my second year!"
+  },
+  {
+   "i": 1063,
+   "src": "80c27e668c1d",
+   "t": "Wahaha!"
+  }
+ ]
+}

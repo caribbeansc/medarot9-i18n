@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc05_161_s06_t051.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "0eb22c6c7b2d",
+   "t": "Vamos."
+  }
+ ]
+}

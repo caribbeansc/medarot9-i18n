@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc04_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  }
+ ]
+}

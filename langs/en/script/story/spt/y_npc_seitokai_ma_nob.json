@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_seitokai_ma_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "0a54b1650ed8",
+   "t": "...Sorry, I'm busy right now."
+  },
+  {
+   "i": 1038,
+   "src": "892aaa21b962",
+   "t": "I'll face you another time."
+  }
+ ]
+}

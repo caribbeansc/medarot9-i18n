@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_15.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "36d3098e6463",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>CG-20\nStart the {{robattle}} with your Charge\nGauge at 20%"
+  }
+ ]
+}

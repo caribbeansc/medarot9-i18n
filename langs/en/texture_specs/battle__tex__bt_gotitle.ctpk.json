@@ -1,0 +1,122 @@
+{
+ "rel": "battle/tex/bt_gotitle.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    44,
+    9,
+    36,
+    23
+   ],
+   "erase": "copy:8,9",
+   "text": ""
+  },
+  {
+   "box": [
+    80,
+    9,
+    36,
+    23
+   ],
+   "erase": "copy:8,9",
+   "text": ""
+  },
+  {
+   "box": [
+    116,
+    9,
+    36,
+    23
+   ],
+   "erase": "copy:8,9",
+   "text": ""
+  },
+  {
+   "box": [
+    152,
+    9,
+    14,
+    23
+   ],
+   "erase": "copy:8,9",
+   "text": ""
+  },
+  {
+   "box": [
+    21,
+    8,
+    166,
+    26
+   ],
+   "erase": "none",
+   "text": "Return to Title",
+   "font": "regular",
+   "size": 16.5,
+   "fill": "#FFFFFF",
+   "stroke": "#00000050",
+   "stroke_w": 2,
+   "align": "center",
+   "valign": "middle",
+   "pad": 1
+  },
+  {
+   "box": [
+    44,
+    50,
+    36,
+    23
+   ],
+   "erase": "copy:8,50",
+   "text": ""
+  },
+  {
+   "box": [
+    80,
+    50,
+    36,
+    23
+   ],
+   "erase": "copy:8,50",
+   "text": ""
+  },
+  {
+   "box": [
+    116,
+    50,
+    36,
+    23
+   ],
+   "erase": "copy:8,50",
+   "text": ""
+  },
+  {
+   "box": [
+    152,
+    50,
+    14,
+    23
+   ],
+   "erase": "copy:8,50",
+   "text": ""
+  },
+  {
+   "box": [
+    21,
+    49,
+    166,
+    26
+   ],
+   "erase": "none",
+   "text": "Return to Title",
+   "font": "regular",
+   "size": 16.5,
+   "fill": "#FFFFFF",
+   "stroke": "#00000034",
+   "stroke_w": 2,
+   "align": "center",
+   "valign": "middle",
+   "pad": 1
+  }
+ ]
+}

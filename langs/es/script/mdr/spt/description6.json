@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description6.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fb2ce0904770",
+   "t": "{{part|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "250fee8e3610",
+   "t": "Equipamiento que forma el cuerpo de un <c:ffff00>{{medabot}}<c>.\n\nCada {{part}} tiene <c:ffff00>{{slot}}<c> y <c:ffff00>{{gender}}<c> definidos, y se\ncoloca en el <c:ffff00>{{tinpet}}<c> según ellos.\n\nTiene <c:ffff00>{{model_number}}<c>, <c:ffff00>técnica<c>, <c:ffff00>{{stats}}<c> y\n<c:ffff00>{{part_trait}}<c>, entre otros. La combinación de las 4\nzonas decide gran parte de la capacidad y el aspecto\ndel {{medabot}}."
+  }
+ ]
+}

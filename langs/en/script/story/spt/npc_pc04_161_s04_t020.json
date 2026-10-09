@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc04_161_s04_t020.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "fd2cadb08165",
+   "t": "And the others?"
+  },
+  {
+   "i": 1042,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1048,
+   "src": "529266a8b07a",
+   "t": "I'm good."
+  },
+  {
+   "i": 1055,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1064,
+   "src": "93a9a6e0a7c4",
+   "t": "I finished a long time ago, though?"
+  },
+  {
+   "i": 1071,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1080,
+   "src": "41b3b3cec823",
+   "t": "All right."
+  },
+  {
+   "i": 1083,
+   "src": "edc4fe867d88",
+   "t": "Then let's go."
+  }
+ ]
+}

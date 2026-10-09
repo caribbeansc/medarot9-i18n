@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f07_010_161_10_t012.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "be1f70497f75",
+   "t": "The president's getting scolded again,\nhuh?"
+  },
+  {
+   "i": 1043,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1052,
+   "src": "c6b93ee5906a",
+   "t": "What did he do this time?"
+  },
+  {
+   "i": 1059,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1068,
+   "src": "5dce5fd11f2a",
+   "t": "Probably about the cultural festival."
+  },
+  {
+   "i": 1081,
+   "src": "d1330c54a11b",
+   "t": "A cultural festival!"
+  },
+  {
+   "i": 1084,
+   "src": "aa8b1eaa6e96",
+   "t": "There's one?!"
+  },
+  {
+   "i": 1092,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1101,
+   "src": "018b41dd114b",
+   "t": "They announced it at the opening\nceremony."
+  },
+  {
+   "i": 1104,
+   "src": "7f8c832dda22",
+   "t": "Weren't you listening?"
+  }
+ ]
+}

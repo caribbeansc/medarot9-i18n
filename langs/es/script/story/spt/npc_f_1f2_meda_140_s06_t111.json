@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1f2_meda_140_s06_t111.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0b712bde3551",
+   "t": "{{shiny_star}}"
+  },
+  {
+   "i": 1038,
+   "src": "5c2f34696479",
+   "t": "Se sintió algo raro."
+  },
+  {
+   "i": 1041,
+   "src": "f286d1dceaa4",
+   "t": "Era como pelear contra tofu."
+  }
+ ]
+}

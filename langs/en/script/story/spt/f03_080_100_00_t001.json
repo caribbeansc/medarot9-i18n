@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f03_080_100_00_t001.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1047,
+   "src": "ed64a828d8dc",
+   "t": "Yo, "
+  },
+  {
+   "i": 1049,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1052,
+   "src": "a8322aa7202e",
+   "t": "where have you been, out for a stroll?"
+  },
+  {
+   "i": 1067,
+   "src": "d42c1f60c33d",
+   "t": "Must be nice in the Carefree {{club|cap}},"
+  },
+  {
+   "i": 1070,
+   "src": "7a0ec1f55ac2",
+   "t": "taking it so easy."
+  },
+  {
+   "i": 1081,
+   "src": "54906cb2fbdd",
+   "t": "{{ryusei}}..."
+  },
+  {
+   "i": 1089,
+   "src": "bd30dcaf9159",
+   "t": "What are you doing here, anyway?"
+  },
+  {
+   "i": 1094,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1100,
+   "src": "20e54be56341",
+   "t": "Can't you tell just by looking?"
+  },
+  {
+   "i": 1103,
+   "src": "d1b998a34361",
+   "t": "I'm heading out to field training."
+  },
+  {
+   "i": 1111,
+   "src": "420d8dc8de45",
+   "t": "Today we're going to the {{outer_rim}}\nand back!"
+  },
+  {
+   "i": 1119,
+   "src": "3931b285e394",
+   "t": "The {{outer_rim}}...?"
+  },
+  {
+   "i": 1124,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1130,
+   "src": "1d67768681a4",
+   "t": "You don't know it?"
+  },
+  {
+   "i": 1138,
+   "src": "858d3a02d471",
+   "t": "You don't even know the island's place\nnames!"
+  },
+  {
+   "i": 1141,
+   "src": "2893dbccd7e0",
+   "t": "What do you guys even do?"
+  },
+  {
+   "i": 1149,
+   "src": "069b8afcc85d",
+   "t": "{{exploration_club}}... was it?"
+  },
+  {
+   "i": 1164,
+   "src": "8c413a730782",
+   "t": "Maybe you should change the name."
+  },
+  {
+   "i": 1167,
+   "src": "4ba87908e0c3",
+   "t": "To something like the Stroll Club."
+  },
+  {
+   "i": 1175,
+   "src": "998a25fcffad",
+   "t": "What did you say?!"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "file": "story/spt/f07_050_163_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "02c1ae34ddde",
+   "t": "Staaaare."
+  },
+  {
+   "i": 1048,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1054,
+   "src": "6885e84b26a7",
+   "t": "Oh my, young lady."
+  },
+  {
+   "i": 1057,
+   "src": "75a09a753148",
+   "t": "Please don't stare so much."
+  },
+  {
+   "i": 1064,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1070,
+   "src": "27eb252ff641",
+   "t": "What's broken?"
+  },
+  {
+   "i": 1077,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1083,
+   "src": "eff56bbaec5c",
+   "t": "What's broken is the leg {{part}}."
+  },
+  {
+   "i": 1086,
+   "src": "37e04faa94d9",
+   "t": "What good does looking at that do?"
+  },
+  {
+   "i": 1093,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1099,
+   "src": "db1b01e4476e",
+   "t": "I'm interested!"
+  },
+  {
+   "i": 1102,
+   "src": "b774189bb811",
+   "t": "I want to see it!"
+  },
+  {
+   "i": 1113,
+   "src": "1b5d739510cb",
+   "t": "Ah, um--"
+  },
+  {
+   "i": 1124,
+   "src": "4e9e327219b7",
+   "t": "This is {{main}}-chan, and, well..."
+  },
+  {
+   "i": 1127,
+   "src": "e1b0f26d471f",
+   "t": "she knows a lot about {{part|pl}}."
+  },
+  {
+   "i": 1135,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1144,
+   "src": "d106a1a96db5",
+   "t": "Can you fix it?!"
+  },
+  {
+   "i": 1155,
+   "src": "798ab78d9fe0",
+   "t": "I-I'm not sure about that..."
+  },
+  {
+   "i": 1160,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1169,
+   "src": "d433f24e9e46",
+   "t": "I see."
+  },
+  {
+   "i": 1172,
+   "src": "ac363185abc6",
+   "t": "In that case, please, have a look."
+  },
+  {
+   "i": 1182,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1188,
+   "src": "64682b90c9f6",
+   "t": "I'll look."
+  },
+  {
+   "i": 1191,
+   "src": "d3218910d585",
+   "t": "Mmmmmm."
+  },
+  {
+   "i": 1209,
+   "src": "da1813e48bf8",
+   "t": "Please walk a little."
+  },
+  {
+   "i": 1216,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1222,
+   "src": "cb66c9845955",
+   "t": "Like this?"
+  }
+ ]
+}

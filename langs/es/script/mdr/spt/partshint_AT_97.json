@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_97.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c4b4740c1209",
+   "t": "<c:00ff00>Técnica:<c>Francotirador\nDurante un tiempo, añade\nla subhabilidad \"puntería\"\na la {{part}} de tiro de un\n{{medabot}} {{ally_battle_term}}.\n{{up|cap}} la {{hit_rate}} al usar\nla puntería."
+  }
+ ]
+}

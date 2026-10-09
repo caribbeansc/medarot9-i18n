@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc02_117_s01_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "c808741ef2b8",
+   "t": "What?"
+  },
+  {
+   "i": 1043,
+   "src": "549df69077f4",
+   "t": "If you don't need anything, don't talk to\nme."
+  },
+  {
+   "i": 1046,
+   "src": "d1d2d6a7ebc4",
+   "t": "Stay out of a one-meter radius."
+  }
+ ]
+}

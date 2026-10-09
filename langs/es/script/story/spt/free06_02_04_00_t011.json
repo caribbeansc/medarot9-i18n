@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_04_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "831a63d02686",
+   "t": "La {{mission}} 'Recolección de {{medalia|pl}}:\nRuinas de la Estación de Vagonetas'..."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "b518080bc84f",
+   "t": "Aquí estaba la estación de vagonetas de"
+  },
+  {
+   "i": 1049,
+   "src": "5a06dd41e0f4",
+   "t": "Medarias; no es raro ver 100 o 200."
+  },
+  {
+   "i": 1059,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1065,
+   "src": "ace87af31e3b",
+   "t": "No creo que hayan caído tantas..."
+  }
+ ]
+}

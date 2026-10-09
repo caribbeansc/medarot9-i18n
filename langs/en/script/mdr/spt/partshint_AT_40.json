@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_40.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a8ca564ac7b4",
+   "t": "<c:00ff00>Action:<c> {{sword}}\nA fast melee attack.\nWith {{success}} of 40 or\nmore, it gains piercing."
+  }
+ ]
+}

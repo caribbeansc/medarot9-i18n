@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc04_339_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "5f29fdb53ea1",
+   "t": "Rayos."
+  },
+  {
+   "i": 1046,
+   "src": "320640bcc209",
+   "t": "Pensé que era bastante cuidadoso,"
+  },
+  {
+   "i": 1049,
+   "src": "e1a34856d263",
+   "t": "jamás creí que el puente caería..."
+  }
+ ]
+}

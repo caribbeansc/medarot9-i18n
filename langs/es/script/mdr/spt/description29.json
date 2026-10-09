@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description29.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "95133dbfea1c",
+   "t": "Toda {{slot}} ({{damage}})"
+  },
+  {
+   "i": 11,
+   "src": "81a0455bf428",
+   "t": "<c:ffff00>{{damage_trait|cap}}<c> que causa <c:ffff00>{{damage}}<c> a todas las\n<c:ffff00>zonas<c> a la vez.\n\nEl {{damage}} se reparte por igual entre las <c:ffff00>{{part|pl}}<c> del {{opponent}}\nque no están <c:ffff00>destruidas<c>.\n\nNo es compatible con la {{damage_trait}} de\n<c:ffff00>{{pierce}}<c>."
+  }
+ ]
+}

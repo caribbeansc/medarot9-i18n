@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/map_select.spt",
+ "lines": [
+  {
+   "i": 1293,
+   "src": "91c3699da0b0",
+   "t": "Map Select"
+  },
+  {
+   "i": 1318,
+   "src": "b4b92f10c5fe",
+   "t": "Press A to display\n\nSTART to go back"
+  },
+  {
+   "i": 1323,
+   "src": "069bf7fa1546",
+   "t": " data\n\nSTART to go back\""
+  },
+  {
+   "i": 1655,
+   "src": "b4b92f10c5fe",
+   "t": "Press A to display\n\nSTART to go back"
+  },
+  {
+   "i": 1660,
+   "src": "069bf7fa1546",
+   "t": " data\n\nSTART to go back\""
+  }
+ ]
+}

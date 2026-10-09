@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3d_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "aa44a83eaf3f",
+   "t": "Have you explored much outside the\nschool yet?"
+  },
+  {
+   "i": 1041,
+   "src": "07780e18f111",
+   "t": "Walking it, it's a pretty big island."
+  },
+  {
+   "i": 1049,
+   "src": "7c4b87dde28b",
+   "t": "I'm a third-year, but there are still\nunknown areas."
+  },
+  {
+   "i": 1052,
+   "src": "b66d26c39762",
+   "t": "By graduation, I'd like to at least fill in\nthe blank map."
+  }
+ ]
+}

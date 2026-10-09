@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_8.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "832a3258cb4f",
+   "t": "<c:00ff00>{{mf}}:<c>Vórtice\nEl {{terrain}} se vuelve {{sand}}\ny todos los {{medabot|pl}}\nvuelven al área de\ncomandos.\n<c:00ffff>#{{part|cap}} requerida<c>\n1 o más {{part|pl}} de ataque"
+  }
+ ]
+}

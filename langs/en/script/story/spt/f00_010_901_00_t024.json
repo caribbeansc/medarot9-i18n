@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f00_010_901_00_t024.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "f1f095daced2",
+   "t": "Ow, ow, ow..."
+  },
+  {
+   "i": 1047,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1056,
+   "src": "18b29b1aa871",
+   "t": "Watch where you're going, {{robo}}!"
+  },
+  {
+   "i": 1074,
+   "src": "8171c7eb2582",
+   "t": "S-sorry."
+  },
+  {
+   "i": 1077,
+   "src": "126b5d139a95",
+   "t": "Wait, why am I the one apologizing..."
+  },
+  {
+   "i": 1097,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1108,
+   "src": "f68ddfb9c691",
+   "t": "Whoa, no time to sit around here,\n{{robo}}!"
+  }
+ ]
+}

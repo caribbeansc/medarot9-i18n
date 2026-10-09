@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/free08_01_01_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "27c0a7f0978b",
+   "t": "{{mission|cap}} '{{medalia}} Gathering: {{crater}}'\ncompleted!"
+  },
+  {
+   "i": 1011,
+   "src": "913e0c661d21",
+   "t": "The {{exploration_club}}'s achievements\nwent up!"
+  }
+ ]
+}

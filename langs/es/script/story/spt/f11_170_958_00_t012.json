@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_170_958_00_t012.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1049,
+   "src": "cf5c76524d44",
+   "t": "¡Sus piernas! ¿...Qué?"
+  },
+  {
+   "i": 1067,
+   "src": "8afd6cbc3445",
+   "t": "¡Atravesó todo el {{school_building}}!"
+  },
+  {
+   "i": 1072,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1078,
+   "src": "b7fc5564d288",
+   "t": "...Ahí viene."
+  }
+ ]
+}

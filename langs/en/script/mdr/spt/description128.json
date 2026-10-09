@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description128.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8dabf4b51e23",
+   "t": "Leg Type"
+  },
+  {
+   "i": 11,
+   "src": "19d0fd15e984",
+   "t": "A classification of the movement mechanism of <c:ffff00>legs<c>\n<c:ffff00>{{part|pl}}<c>.\n\n  <c:ffff00>{{biped|cap}}<c>, <c:ffff00>Multi-Leg<c>, <c:ffff00>{{vehicle|cap}}<c>, <c:ffff00>{{tank|cap}}<c>,\n  <c:ffff00>{{hover|cap}}<c>, <c:ffff00>{{flying|cap}}<c> and <c:ffff00>{{submarine|cap}}<c>.\n\nThere are 7 types, and each has different\ntendencies in <c:ffff00>{{terrain_affinity}}<c> and <c:ffff00>{{stats}}<c>."
+  }
+ ]
+}

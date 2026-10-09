@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description8.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "70501226edd6",
+   "t": "{{head}} ({{slot|cap}})"
+  },
+  {
+   "i": 11,
+   "src": "b7825a5991b6",
+   "t": "The <c:ffff00>{{slot}}<c> covering a <c:ffff00>{{medabot}}<c>'s {{upper_body}} (head and\ntorso). It has a <c:ffff00>skill<c>, an <c:ffff00>action<c> and these <c:ffff00>{{stats}}<c>:\n<c:ffff00>{{armor}}<c>, <c:ffff00>{{success}}<c>, <c:ffff00>{{power}}<c>, <c:ffff00>{{prep}}<c>, <c:ffff00>{{cooldown}}<c> and <c:ffff00>{{uses}}<c>.\nActions can be used only a limited number of times\nper <c:ffff00>{{robattle}}<c>. It holds the <c:ffff00>{{medal}}<c> mechanism, so if it\nis <c:ffff00>destroyed<c> the {{medabot}} is <c:ffff00>{{knocked_out}}<c>.\nWhen the <c:ffff00>{{charge_gauge}}<c> fills, a stat rises by skill:\n{{power}} (<c:ffff00>Striking<c>), {{success}} (<c:ffff00>Shooting<c>), {{cooldown}}\n(<c:ffff00>Support<c>, <c:ffff00>Set-up<c>) or {{prep}} (<c:ffff00>Heal<c>, <c:ffff00>Block<c>)."
+  }
+ ]
+}

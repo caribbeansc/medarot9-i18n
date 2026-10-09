@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_87.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "27170723a534",
+   "t": "<c:00ff00>Técnica:<c>Refuerzo Tiro\nDurante un tiempo, {{up}}\nel tiro de la {{part}} de\n{{legs}} de todo tu equipo.\nSi se usa de nuevo\ndurante el {{effect}} de\nrefuerzo tiro, el {{effect}}\naumenta."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_1f_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "c5d418a24407",
+   "t": "Rayos, el Senpai ya terminó la carrera..."
+  },
+  {
+   "i": 1038,
+   "src": "5b0aca87ffed",
+   "t": "Está en otro {{level}}... La Academia MEDA"
+  },
+  {
+   "i": 1056,
+   "src": "9bb8241da46c",
+   "t": "es otra cosa... ¡Me estoy emocionando!"
+  }
+ ]
+}

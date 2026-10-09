@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f04_050_131_40_t032.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "6547496d45ce",
+   "t": "Estos, en cambio, como se preveía,"
+  },
+  {
+   "i": 1038,
+   "src": "0c263176aa5c",
+   "t": "avanzaron hasta la final."
+  },
+  {
+   "i": 1046,
+   "src": "4ddb87f4d757",
+   "t": "Todas {{wins}} claras y directas."
+  },
+  {
+   "i": 1049,
+   "src": "5895bf624d03",
+   "t": "¿Su coordinación, fruto del rigor?"
+  },
+  {
+   "i": 1057,
+   "src": "4e2b92163fd9",
+   "t": "¡A una victoria del tricampeonato!"
+  },
+  {
+   "i": 1060,
+   "src": "e96e03ccbd21",
+   "t": "¡Los campeones, el {{rescue_club}}!"
+  }
+ ]
+}

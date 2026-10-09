@@ -1,0 +1,363 @@
+{
+ "rel": "mdr/tex/mk_sort.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond-heavy",
+  "cap": 8.5,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "align": "left",
+  "crisp": 0.4
+ },
+ "items": [
+  {
+   "box": [
+    34,
+    67,
+    32,
+    11
+   ],
+   "erase_box": [
+    32,
+    66,
+    36,
+    12
+   ],
+   "erase": "hfill",
+   "text": "All",
+   "align": "center",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "stroke": "#161515",
+   "stroke_w": 0.9,
+   "baseline": 76,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    34,
+    83,
+    32,
+    11
+   ],
+   "erase_box": [
+    32,
+    82,
+    36,
+    12
+   ],
+   "erase": "hfill",
+   "text": "All",
+   "align": "center",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "stroke": "#505050",
+   "stroke_w": 0.9,
+   "baseline": 92,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    53,
+    97,
+    23,
+    13
+   ],
+   "erase_box": [
+    52,
+    97,
+    24,
+    13
+   ],
+   "erase": "hfill",
+   "text": "Only",
+   "align": "center",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "stroke": "#161515",
+   "stroke_w": 0.9,
+   "baseline": 108,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    53,
+    113,
+    23,
+    13
+   ],
+   "erase_box": [
+    52,
+    113,
+    24,
+    13
+   ],
+   "erase": "hfill",
+   "text": "Only",
+   "align": "center",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "stroke": "#505050",
+   "stroke_w": 0.9,
+   "baseline": 124,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    13,
+    97,
+    22,
+    13
+   ],
+   "erase_box": [
+    13,
+    97,
+    22,
+    13
+   ],
+   "erase": "hfill",
+   "text": "Only",
+   "align": "center",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "stroke": "#161515",
+   "stroke_w": 0.9,
+   "baseline": 108,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    13,
+    113,
+    22,
+    13
+   ],
+   "erase_box": [
+    13,
+    113,
+    22,
+    13
+   ],
+   "erase": "hfill",
+   "text": "Only",
+   "align": "center",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "stroke": "#505050",
+   "stroke_w": 0.9,
+   "baseline": 124,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    1,
+    0,
+    44,
+    16
+   ],
+   "erase_box": [
+    0,
+    0,
+    46,
+    16
+   ],
+   "text": "Skill",
+   "baseline": 14
+  },
+  {
+   "box": [
+    47,
+    0,
+    46,
+    16
+   ],
+   "erase_box": [
+    46,
+    0,
+    50,
+    16
+   ],
+   "text": "Level",
+   "baseline": 14
+  },
+  {
+   "box": [
+    1,
+    16,
+    44,
+    16
+   ],
+   "erase_box": [
+    0,
+    16,
+    46,
+    16
+   ],
+   "text": "Name",
+   "baseline": 30
+  },
+  {
+   "box": [
+    49,
+    16,
+    51,
+    16
+   ],
+   "erase_box": [
+    46,
+    16,
+    56,
+    16
+   ],
+   "text": "Armor",
+   "baseline": 30
+  },
+  {
+   "box": [
+    1,
+    32,
+    44,
+    16
+   ],
+   "erase_box": [
+    0,
+    32,
+    46,
+    16
+   ],
+   "text": "Type",
+   "baseline": 46
+  },
+  {
+   "box": [
+    51,
+    32,
+    49,
+    16
+   ],
+   "erase_box": [
+    46,
+    32,
+    56,
+    16
+   ],
+   "text": "Model",
+   "baseline": 46
+  },
+  {
+   "box": [
+    1,
+    48,
+    55,
+    16
+   ],
+   "erase_box": [
+    0,
+    48,
+    57,
+    16
+   ],
+   "text": "Personality",
+   "baseline": 62
+  },
+  {
+   "box": [
+    58,
+    48,
+    32,
+    12
+   ],
+   "erase_box": [
+    57,
+    48,
+    40,
+    13
+   ],
+   "text": "Parts",
+   "baseline": 57
+  },
+  {
+   "box": [
+    97,
+    0,
+    30,
+    11
+   ],
+   "erase_box": [
+    95,
+    0,
+    33,
+    11
+   ],
+   "text": "All",
+   "baseline": 9
+  },
+  {
+   "box": [
+    107,
+    11,
+    20,
+    11
+   ],
+   "erase_box": [
+    104,
+    11,
+    24,
+    14
+   ],
+   "text": "Only",
+   "baseline": 20
+  },
+  {
+   "box": [
+    82,
+    97,
+    46,
+    11
+   ],
+   "erase_box": [
+    80,
+    96,
+    48,
+    32
+   ],
+   "text": "Robattle",
+   "cap": 7,
+   "font": "sf-cond-heavy",
+   "baseline": 106
+  },
+  {
+   "box": [
+    82,
+    109,
+    46,
+    11
+   ],
+   "erase": "none",
+   "text": "Style",
+   "cap": 7,
+   "font": "sf-cond-heavy",
+   "baseline": 118
+  },
+  {
+   "box": [
+    105,
+    86,
+    23,
+    10
+   ],
+   "erase_box": [
+    104,
+    78,
+    24,
+    18
+   ],
+   "text": "Sort",
+   "cap": 7.5,
+   "font": "sf-cond-heavy",
+   "baseline": 94
+  }
+ ]
+}

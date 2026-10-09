@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_teach_ma_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d1fb6110e8e7",
+   "t": "{{belzelga}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

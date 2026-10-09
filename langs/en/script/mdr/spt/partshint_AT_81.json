@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_81.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "687e81de5c21",
+   "t": "<c:00ff00>Action:<c> {{radar_sight}}\nFor a while, raises the\nwhole team's {{success}} and\n{{critical}} rate. Also\nremoves the foe team's\n{{stealth}} and {{conceal}}\neffects."
+  }
+ ]
+}

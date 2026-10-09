@@ -1,0 +1,155 @@
+{
+ "file": "story/spt/f08_060_400_00_t015.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1042,
+   "src": "de1a88cb2249",
+   "t": "Medimos la señal en varios puntos."
+  },
+  {
+   "i": 1045,
+   "src": "c064ee7ac21f",
+   "t": "Calculamos la distancia del desfase."
+  },
+  {
+   "i": 1053,
+   "src": "d947745394fc",
+   "t": "La {{medalia}} está justo debajo o encima."
+  },
+  {
+   "i": 1056,
+   "src": "1b7cae083d7e",
+   "t": "A unos 180 metros de distancia."
+  },
+  {
+   "i": 1063,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1069,
+   "src": "824fbc69cb07",
+   "t": "Eh, ¿dijiste... 180 metros?"
+  },
+  {
+   "i": 1080,
+   "src": "d6e0ab60f79f",
+   "t": "Con una simple pala no haremos nada,\n¿verdad?"
+  },
+  {
+   "i": 1088,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1094,
+   "src": "09f5caebf189",
+   "t": "Oye."
+  },
+  {
+   "i": 1102,
+   "src": "e29bb422e657",
+   "t": "¿No estaba agotada la {{mine}}?"
+  },
+  {
+   "i": 1105,
+   "src": "66e4e9540a05",
+   "t": "¿Por qué queda tanta? ¿Qué pasa?"
+  },
+  {
+   "i": 1121,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1129,
+   "src": "a9c0f6312486",
+   "t": "Oye, {{ryoma}}-kun."
+  },
+  {
+   "i": 1140,
+   "src": "20f4f9377a07",
+   "t": "Creo que aquí cayó el meteorito--"
+  },
+  {
+   "i": 1143,
+   "src": "fb7db9474949",
+   "t": "...o sea, es un {{crater}}, ¿verdad?"
+  },
+  {
+   "i": 1150,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1156,
+   "src": "45ecaaff5853",
+   "t": "¿Eh?... Ah, así es."
+  },
+  {
+   "i": 1159,
+   "src": "8d724ff961b7",
+   "t": "Es muy antiguo, no está del todo claro..."
+  },
+  {
+   "i": 1167,
+   "src": "45c24664c349",
+   "t": "Por el {{terrain}} de alrededor, diría"
+  },
+  {
+   "i": 1170,
+   "src": "b06e7c956bbb",
+   "t": "que este es casi el centro del {{crater}}."
+  },
+  {
+   "i": 1184,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1190,
+   "src": "f3fff40e550a",
+   "t": "Ya veo, ya veo."
+  },
+  {
+   "i": 1193,
+   "src": "7348ed10f2c7",
+   "t": "O sea..."
+  },
+  {
+   "i": 1214,
+   "src": "17a4846653c1",
+   "t": "Tal vez esto sea..."
+  },
+  {
+   "i": 1225,
+   "src": "e98318abadd7",
+   "t": "{{medalium}}..."
+  },
+  {
+   "i": 1236,
+   "src": "17c8b7248b26",
+   "t": "Tal vez sea eso."
+  },
+  {
+   "i": 1247,
+   "src": "051d2f5ba15f",
+   "t": "¿{{medalium_character}}"
+  },
+  {
+   "i": 1252,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1261,
+   "src": "922a52813c7b",
+   "t": "¿Qué es eso?"
+  }
+ ]
+}

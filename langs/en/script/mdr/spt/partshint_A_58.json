@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_58.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "494e53d6f822",
+   "t": "<c:00ff00>{{mf}}:<c> C Absorber\nNeither allies nor\nopponents can raise their\n{{charge_gauge}} anymore.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

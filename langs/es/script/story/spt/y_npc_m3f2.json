@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3f2.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "39f12f1955b9",
+   "t": "{{momotaro}}"
+  },
+  {
+   "i": 1653,
+   "src": "deb8f21c4006",
+   "t": "¿Una {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "446af0a868fe",
+   "t": "¡Muy bien, te enfrentaré!"
+  }
+ ]
+}

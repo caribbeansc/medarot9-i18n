@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/bt0050.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "73632d568e8a",
+   "t": "{{medal_eater}}"
+  },
+  {
+   "i": 864,
+   "src": "d576cd4fcd3f",
+   "t": "¡Derrota al {{medal_eater}}!"
+  },
+  {
+   "i": 867,
+   "src": "d576cd4fcd3f",
+   "t": "¡Derrota al {{medal_eater}}!"
+  },
+  {
+   "i": 881,
+   "src": "28ebd8882085",
+   "t": "........."
+  }
+ ]
+}

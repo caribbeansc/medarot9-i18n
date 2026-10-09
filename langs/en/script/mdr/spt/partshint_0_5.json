@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_5.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3eeed4d1b312",
+   "t": "<c:00ff00>Robattle Style:<c> {{guard}}\n{{armor}} +40\nFor every defense made,\n{{charge_gauge}} +5%"
+  }
+ ]
+}

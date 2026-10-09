@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_teach_mc_132_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "9d002433b612",
+   "t": "{{mr_izumo}}"
+  },
+  {
+   "i": 1035,
+   "src": "7b659d5c5b6a",
+   "t": "¡Ah, qué bien, la juventud de las chicas"
+  },
+  {
+   "i": 1038,
+   "src": "27e1afe5405b",
+   "t": "en el festival! ¡Bien, bien, quiquiriquí!"
+  },
+  {
+   "i": 1049,
+   "src": "30b8b209a771",
+   "t": "Mmm, ¿quién eres tú? Estamos"
+  },
+  {
+   "i": 1052,
+   "src": "639228cbe62b",
+   "t": "ensayando, no interrumpas."
+  },
+  {
+   "i": 1060,
+   "src": "709f9792707e",
+   "t": "Eh, ¿yo? ¡Claro que está bien!"
+  },
+  {
+   "i": 1063,
+   "src": "97ef13ce1602",
+   "t": "Parezca o no, soy asesor del {{idol_club}}."
+  },
+  {
+   "i": 1071,
+   "src": "6e5e6feb6300",
+   "t": "Bueno, casi solo de nombre."
+  },
+  {
+   "i": 1074,
+   "src": "4ea5a97d0a49",
+   "t": "Es que su sala está vedada a los chicos."
+  },
+  {
+   "i": 1082,
+   "src": "b54deb64ec4c",
+   "t": "Jajajajaja."
+  }
+ ]
+}

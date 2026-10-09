@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d_meda_116_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dc985d3d3adc",
+   "t": "{{redmatador}}"
+  },
+  {
+   "i": 1035,
+   "src": "7cd14ff83583",
+   "t": "Oye, pronto es el examen, ¿verdad?"
+  },
+  {
+   "i": 1038,
+   "src": "c83c750e40b0",
+   "t": "Vamos a casa a estudiar. Yo te ayudo."
+  },
+  {
+   "i": 1046,
+   "src": "d5b58de15d8f",
+   "t": "Y oye, aquí no se hojean libros."
+  },
+  {
+   "i": 1049,
+   "src": "3be405625752",
+   "t": "Vamos antes de que nos regañe, dale."
+  }
+ ]
+}

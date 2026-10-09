@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_f_3b_163_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1038,
+   "src": "863696ba62d6",
+   "t": "¿Vacaciones? Sí fui a casa, pero"
+  },
+  {
+   "i": 1041,
+   "src": "27db19a57643",
+   "t": "fue un viaje muy rápido."
+  },
+  {
+   "i": 1049,
+   "src": "864baed56ed8",
+   "t": "Se acerca el festival; debo bailar"
+  },
+  {
+   "i": 1052,
+   "src": "f24183bd2ed8",
+   "t": "y ensayar, o no me tranquilizo."
+  },
+  {
+   "i": 1060,
+   "src": "59d1089b48f9",
+   "t": "Aunque vuelva con tanta prisa,"
+  },
+  {
+   "i": 1063,
+   "src": "dad9272e3e16",
+   "t": "¡no sirve si no hay nadie!"
+  },
+  {
+   "i": 1071,
+   "src": "1654e5b6adb9",
+   "t": "Estaba preocupada, pero no fue así."
+  },
+  {
+   "i": 1074,
+   "src": "be003b6c0c26",
+   "t": "Todos sentimos lo mismo."
+  }
+ ]
+}

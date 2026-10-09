@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_rival.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1675,
+   "src": "711c153df0fd",
+   "t": "Oh, ¿quieres pelear?"
+  },
+  {
+   "i": 1678,
+   "src": "5650e9a3a92f",
+   "t": "¡Bien, te ganaré sin esfuerzo!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description35.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "75025ce5fc2b",
+   "t": "Poder de {{evade}}"
+  },
+  {
+   "i": 11,
+   "src": "1289d70b2293",
+   "t": "Capacidad de lograr con {{success}} la <c:ffff00>{{evade}}<c>: esquivar\ncon rapidez justo antes de que el <c:ffff00>ataque<c> del {{opponent}}\nimpacte, intentando no recibir <c:ffff00>{{damage}}<c>.\n\nDepende sobre todo del <c:ffff00>{{stats}} de {{mobility}}<c>\nde las <c:ffff00>{{legs}}<c>; también influyen el {{stats}} de\n<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> y el <c:ffff00>{{medal_level}}<c>."
+  }
+ ]
+}

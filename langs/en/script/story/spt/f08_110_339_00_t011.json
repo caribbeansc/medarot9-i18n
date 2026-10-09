@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f08_110_339_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "88b7697b6479",
+   "t": "Hey, "
+  },
+  {
+   "i": 1047,
+   "src": "dd058b089d29",
+   "t": "-kun"
+  },
+  {
+   "i": 1050,
+   "src": "85a4725d8546",
+   "t": "I found it."
+  },
+  {
+   "i": 1065,
+   "src": "b151be7a6831",
+   "t": "Huh, really?"
+  },
+  {
+   "i": 1068,
+   "src": "ec92632e6b90",
+   "t": "Where?!"
+  },
+  {
+   "i": 1080,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1086,
+   "src": "763875d07d11",
+   "t": "Look, this."
+  }
+ ]
+}

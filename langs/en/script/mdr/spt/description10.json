@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description10.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "adee0750bce1",
+   "t": "{{left_arm}} ({{slot}})"
+  },
+  {
+   "i": 11,
+   "src": "01b681bb0ab8",
+   "t": "The <c:ffff00>{{slot}}<c> equivalent to a <c:ffff00>{{medabot}}<c>'s left arm. It has a\n<c:ffff00>skill<c>, an <c:ffff00>action<c>, and these <c:ffff00>{{stats}}<c>: <c:ffff00>{{armor}}<c>, <c:ffff00>{{success}}<c>,\n<c:ffff00>{{power}}<c>, <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c>.\nUnlike the <c:ffff00>head<c> {{part}}, it can use its action any\nnumber of times unless <c:ffff00>destroyed<c>. As a <c:ffff00>{{response}}<c> to\nan <c:ffff00>attack<c>, it can <c:ffff00>defend<c>.\nWhen the <c:ffff00>{{charge_gauge}}<c> fills, a stat rises depending\non the skill: {{power}} (<c:ffff00>Striking<c>), {{success}} (<c:ffff00>Shooting<c>),\n{{cooldown}} (<c:ffff00>Support<c>, <c:ffff00>Set-up<c>) or {{prep}} (<c:ffff00>Heal<c>, <c:ffff00>Block<c>)."
+  }
+ ]
+}

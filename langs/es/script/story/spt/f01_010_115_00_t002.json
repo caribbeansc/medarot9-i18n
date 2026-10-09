@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f01_010_115_00_t002.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "5fca4b48de2a",
+   "t": "Esto..."
+  },
+  {
+   "i": 1044,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1053,
+   "src": "c8c07edb2286",
+   "t": "Soy Suzune."
+  },
+  {
+   "i": 1064,
+   "src": "0efe9c590da0",
+   "t": "Suzune-san, este..."
+  },
+  {
+   "i": 1067,
+   "src": "ef82773ddab0",
+   "t": "¿estás en la misma {{class}} que yo?"
+  },
+  {
+   "i": 1072,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1081,
+   "src": "a3b896aecf35",
+   "t": "Soy de tercer año."
+  },
+  {
+   "i": 1101,
+   "src": "c22ddbbb5bdd",
+   "t": "¡Oh, de tercer año!"
+  },
+  {
+   "i": 1104,
+   "src": "3b892fe4a9a8",
+   "t": "¡L-lo siento...!"
+  }
+ ]
+}

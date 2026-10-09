@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_67.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e0d21fe285ea",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Distancia\nContra rivales con menor\n{{shooting}} que tú, tu nivel de\nmedalla sube\ntemporalmente a +10."
+  }
+ ]
+}

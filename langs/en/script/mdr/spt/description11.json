@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description11.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bcf4a0b6dbb6",
+   "t": "{{legs}} ({{slot}})"
+  },
+  {
+   "i": 11,
+   "src": "2621f59cfc3f",
+   "t": "The <c:ffff00>{{slot}}<c> equivalent to the {{lower_body}} that supports\na <c:ffff00>{{medabot}}<c>. It has a <c:ffff00>Leg Type<c>, a <c:ffff00>Leg Trait<c>, a <c:ffff00>Heavy<c>\n<c:ffff00>Limit<c> and these <c:ffff00>{{stats}}<c>: <c:ffff00>{{armor}}<c>, <c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c>,\n<c:ffff00>{{shooting}}<c>.\nIt is the foundation of a {{medabot}} and greatly affects\nthe other slots. As a <c:ffff00>{{response}}<c> to an <c:ffff00>attack<c>, most\nlegs can <c:ffff00>evade<c>, but <c:ffff00>{{tank}}<c> types can only <c:ffff00>defend<c>.\nWhen the <c:ffff00>{{charge_gauge}}<c> fills, {{mobility}}, {{fighting}} and\n{{shooting}} rise."
+  }
+ ]
+}

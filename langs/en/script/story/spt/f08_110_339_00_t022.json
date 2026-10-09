@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f08_110_339_00_t022.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "e3afc305c8c1",
+   "t": "Looks like our phones can connect."
+  },
+  {
+   "i": 1042,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "e3434aae8120",
+   "t": "No choice, I guess. The school--"
+  },
+  {
+   "i": 1054,
+   "src": "f9ee0f2461f6",
+   "t": "Should we try contacting the Rescue\n{{club|cap}}?"
+  },
+  {
+   "i": 1062,
+   "src": "f487f694e354",
+   "t": "The {{rescue_club}}, huh..."
+  },
+  {
+   "i": 1072,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1078,
+   "src": "81a077b787cf",
+   "t": "You don't want to?"
+  },
+  {
+   "i": 1089,
+   "src": "f29e065161a8",
+   "t": "N-no, it's not that, but... if possible,"
+  },
+  {
+   "i": 1092,
+   "src": "60fa58518d17",
+   "t": "I'd like to find a way back on our own,\num--"
+  },
+  {
+   "i": 1097,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1103,
+   "src": "84880f74cb8b",
+   "t": "Oh yeah, you and that first-year over\nthere"
+  },
+  {
+   "i": 1106,
+   "src": "c50b78d29f3d",
+   "t": "were always going at each other,\nweren't you?"
+  },
+  {
+   "i": 1114,
+   "src": "49dc53fb15ef",
+   "t": "But given the situation, just grin and\nbear it."
+  },
+  {
+   "i": 1117,
+   "src": "810952b8a686",
+   "t": "This is exactly what the {{rescue_club}} is\nfor."
+  },
+  {
+   "i": 1125,
+   "src": "2f3e8003a83f",
+   "t": "It's much more low-key than contacting"
+  },
+  {
+   "i": 1128,
+   "src": "e41c38da591c",
+   "t": "the teachers or the Student Council, I\nthink."
+  },
+  {
+   "i": 1136,
+   "src": "f96b16ca9b80",
+   "t": "You're right..."
+  },
+  {
+   "i": 1144,
+   "src": "063fa655fd4a",
+   "t": "Okay, understood!"
+  },
+  {
+   "i": 1147,
+   "src": "40cb8d5683cd",
+   "t": "I--"
+  },
+  {
+   "i": 1170,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  }
+ ]
+}

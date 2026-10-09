@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_kyoto_meda_116_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ee96157ef6a9",
+   "t": "{{carnelian}}"
+  },
+  {
+   "i": 1038,
+   "src": "1d77fd902b20",
+   "t": "Lo indeciso del {{master}} no cambió nada"
+  },
+  {
+   "i": 1041,
+   "src": "806303984e5e",
+   "t": "ni tras volverse {{vice_principal}}. No"
+  },
+  {
+   "i": 1049,
+   "src": "3bf50a4d157e",
+   "t": "podrá subir más alto en el escalafón"
+  },
+  {
+   "i": 1052,
+   "src": "c810715b2754",
+   "t": "así. No es que le haga falta."
+  }
+ ]
+}

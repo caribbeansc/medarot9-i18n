@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/free06_02_02_04_t021.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1042,
+   "src": "c9906b1abdc8",
+   "t": "Who are you guys? Where'd you come\nfrom!"
+  },
+  {
+   "i": 1049,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1058,
+   "src": "b4a6173c339a",
+   "t": "That's exactly what I was about to say."
+  },
+  {
+   "i": 1065,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1074,
+   "src": "39805e318b69",
+   "t": "Tch, I was in a great mood after finding"
+  },
+  {
+   "i": 1077,
+   "src": "5d83a886a5f9",
+   "t": "such a nice spot, and you ruin it."
+  },
+  {
+   "i": 1085,
+   "src": "e722b38f2134",
+   "t": "Listen up."
+  },
+  {
+   "i": 1088,
+   "src": "788c048a2220",
+   "t": "From today, this place is my castle."
+  },
+  {
+   "i": 1096,
+   "src": "1f7a4520322d",
+   "t": "In my kingdom, trespassing is a serious\ncrime."
+  },
+  {
+   "i": 1099,
+   "src": "2fef81516909",
+   "t": "How serious? Well, let's see..."
+  },
+  {
+   "i": 1114,
+   "src": "3fd31c482b7d",
+   "t": "It's worth five {{medal|pl}}!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description64.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bcf06006eb32",
+   "t": "{{trans_part}}"
+  },
+  {
+   "i": 11,
+   "src": "cc1a5169241d",
+   "t": "Función que transfiere una <c:ffff00>{{part}}<c> y reequipa al\n<c:ffff00>{{medabot}}<c> en plena <c:ffff00>{{robattle}}<c>.\nAntes hay que fijar la {{part}} EX a transferir, en una\nsola <c:ffff00>{{slot}}<c> que no sea la <c:ffff00>{{head}}<c>.\nSolo el <c:ffff00>{{leader}}<c> puede usarla, 1 vez por {{robattle}}, y\nal hacerlo se revela quién es. No se puede usar si\nesa {{slot}} está <c:ffff00>destruida<c>.\nSin <c:ffff00>{{prep}}<c> ni <c:ffff00>{{cooldown}}<c>: hay una espera fija en la\nque no se aplica ningún <c:ffff00>{{negative_status}}<c>."
+  }
+ ]
+}

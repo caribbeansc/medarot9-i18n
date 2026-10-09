@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_ten_140_s06_t111.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1037,
+   "src": "bdf3415abc2f",
+   "t": "¡Ay no, esto es difícil, voy a perder!"
+  },
+  {
+   "i": 1040,
+   "src": "4dd55b9fdb23",
+   "t": "¡Spi-chan, resiste!"
+  }
+ ]
+}

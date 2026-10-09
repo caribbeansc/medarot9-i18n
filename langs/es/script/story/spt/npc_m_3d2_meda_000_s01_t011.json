@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d2_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "66e71b8a95ea",
+   "t": "{{teppen}}"
+  },
+  {
+   "i": 1038,
+   "src": "378b8c55dca8",
+   "t": "Lo que más me gusta de esta escuela:"
+  },
+  {
+   "i": 1041,
+   "src": "767826eb0bd6",
+   "t": "humanos y {{medabot|pl}}, iguales del todo."
+  },
+  {
+   "i": 1049,
+   "src": "a874927d0f52",
+   "t": "¡Por eso hago cosas como limpiar"
+  },
+  {
+   "i": 1052,
+   "src": "4fb3e0b32b92",
+   "t": "y lavar la ropa sin quejarme!"
+  }
+ ]
+}

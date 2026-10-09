@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_8.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4234bc706a81",
+   "t": "<c:00ff00>{{effect|cap}} {{leader|cap}}:<c>Solo contra Todos\nCuando en tu equipo solo queda el {{leader}},\ntodo +10 excepto el {{armor}}"
+  }
+ ]
+}

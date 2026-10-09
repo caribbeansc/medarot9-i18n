@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_janit_meda_500_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d831eb772913",
+   "t": "Gloomeg"
+  },
+  {
+   "i": 1038,
+   "src": "4d4627042f0a",
+   "t": "Mi {{master}} y yo"
+  },
+  {
+   "i": 1041,
+   "src": "75398592d5f6",
+   "t": "vamos a limpiar la escuela cada mañana."
+  },
+  {
+   "i": 1049,
+   "src": "4e5f80a3d4c9",
+   "t": "Te veo seguido frente al {{dormitory}}. Te"
+  },
+  {
+   "i": 1052,
+   "src": "52d0e278369b",
+   "t": "recuerdo porque siempre corres."
+  }
+ ]
+}

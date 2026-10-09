@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f07_090_163_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1035,
+   "src": "d13999411142",
+   "t": "¿¡Qué es esto...!?"
+  },
+  {
+   "i": 1045,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1051,
+   "src": "6e5a7a71c0ff",
+   "t": "¡Vaya, mis piernas...!"
+  },
+  {
+   "i": 1058,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1064,
+   "src": "e1122e337b77",
+   "t": "¿Qué tal?"
+  },
+  {
+   "i": 1067,
+   "src": "3ca53a688465",
+   "t": "Ahora ya no puedes quejarte, ¿verdad?"
+  },
+  {
+   "i": 1085,
+   "src": "ec1a9e9444b9",
+   "t": "¡Aghh, esto es tan frustrante!"
+  },
+  {
+   "i": 1088,
+   "src": "479dd8ccaf1d",
+   "t": "¡Solo pruébalas de una vez!"
+  }
+ ]
+}

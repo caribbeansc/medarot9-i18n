@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc05_339_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "408de3251075",
+   "t": "Es un lugar precioso lleno de naturaleza."
+  },
+  {
+   "i": 1041,
+   "src": "ae02c60f2ad9",
+   "t": "¿Acampamos aquí esta noche?"
+  },
+  {
+   "i": 1052,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1055,
+   "src": "441446421db3",
+   "t": "Suena divertido, {{main}}-chan..."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_141.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ea0eff502a75",
+   "t": "<c:00ff00>Action:<c> {{charge_guard}}\nA {{guard_stance}} that\nintercepts attacks on\nallies. When\nintercepting, reduces\n{{damage}} by the Charge\nGauge %. Consumes 10%\nof\nthe {{charge_gauge}}."
+  }
+ ]
+}

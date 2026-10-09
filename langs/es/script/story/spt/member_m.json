@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/member_m.spt",
+ "lines": [
+  {
+   "i": 1073,
+   "src": "9862fb13b84e",
+   "t": " salió"
+  },
+  {
+   "i": 1076,
+   "src": "94ea42fb0b3a",
+   "t": "del grupo."
+  },
+  {
+   "i": 1103,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1104,
+   "src": "a1432ffee269",
+   "t": " "
+  },
+  {
+   "i": 1107,
+   "src": "94ea42fb0b3a",
+   "t": "ha dejado el equipo."
+  },
+  {
+   "i": 1134,
+   "src": "f1f3a69763ae",
+   "t": "Pres. {{exploration_club}}: Kunigiku"
+  },
+  {
+   "i": 1135,
+   "src": "a1432ffee269",
+   "t": " "
+  },
+  {
+   "i": 1138,
+   "src": "94ea42fb0b3a",
+   "t": "ha dejado el equipo."
+  },
+  {
+   "i": 1165,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1166,
+   "src": "a1432ffee269",
+   "t": " "
+  },
+  {
+   "i": 1169,
+   "src": "94ea42fb0b3a",
+   "t": "ha dejado el equipo."
+  },
+  {
+   "i": 1196,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1197,
+   "src": "a1432ffee269",
+   "t": " "
+  },
+  {
+   "i": 1200,
+   "src": "94ea42fb0b3a",
+   "t": "ha dejado el equipo."
+  }
+ ]
+}

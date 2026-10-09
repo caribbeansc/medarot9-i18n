@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description44.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "73e25ed84f14",
+   "t": "{{critical|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "0febd9a7b01d",
+   "t": "An <c:ffff00>attack<c> that hits the weak point of an {{opponent}}'s\n{{part}}.\nA {{critical}} hit deals <c:ffff00>{{damage}}<c> ignoring the {{opponent}}'s\n<c:ffff00>Defense Power<c>.\nThe higher the attack's <c:ffff00>{{success_power}}<c>, the likelier\nit is.\nAn attack <c:ffff00>taken<c> while <c:ffff00>unable to defend<c> and <c:ffff00>unable<c>\n<c:ffff00>to evade<c> is always {{critical}}."
+  }
+ ]
+}

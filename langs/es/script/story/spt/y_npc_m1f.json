@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m1f.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1653,
+   "src": "1ce8243532d5",
+   "t": "Eh, ¿ahora...?"
+  },
+  {
+   "i": 1656,
+   "src": "326646a7076c",
+   "t": "¡Qué va, lo hago! ¡Muy bien, vamos allá!"
+  }
+ ]
+}

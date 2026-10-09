@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_3c_130_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1035,
+   "src": "8c6ad288eec1",
+   "t": "Sí, las parejas de este año"
+  },
+  {
+   "i": 1038,
+   "src": "8bab4c621db5",
+   "t": "tienen mucha determinación, qué bien."
+  },
+  {
+   "i": 1046,
+   "src": "6632a37c5f45",
+   "t": "Hay grandes esperanzas para la\ncompetencia de novatos, ¿no?"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "rel": "mdr/tex/win_sound.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    13,
+    11,
+    110,
+    12
+   ],
+   "erase_box": [
+    12,
+    11,
+    74,
+    12
+   ],
+   "erase": "glyph",
+   "text": "APP DE MUSICA",
+   "font": "sf-heavy",
+   "cap": 7,
+   "tracking": 1.2,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0,
+   "fill": "auto-grad",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#00000060"
+   },
+   "crisp": 0.3
+  },
+  {
+   "box": [
+    137,
+    104,
+    46,
+    16
+   ],
+   "erase_box": [
+    140,
+    105,
+    43,
+    15
+   ],
+   "erase": "transparent",
+   "text": "Reproducir",
+   "font": "din",
+   "cap": 8.5,
+   "align": "center",
+   "valign": "middle",
+   "pad": 0,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "crisp": 0.8
+  }
+ ]
+}

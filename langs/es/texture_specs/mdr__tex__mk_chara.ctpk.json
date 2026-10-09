@@ -1,0 +1,436 @@
+{
+ "rel": "mdr/tex/mk_chara.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    3,
+    0,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    4,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    4,
+    4
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    7,
+    2,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Poder",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#FD9AD0",
+    "mid": "#F7627B",
+    "bottom": "#F5505F"
+   },
+   "stroke": "#2D161B",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    59,
+    0,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    60,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    60,
+    4
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    63,
+    2,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Cazador",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#FBDD6C",
+    "mid": "#EDAA38",
+    "bottom": "#E99926"
+   },
+   "stroke": "#261D1F",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    3,
+    16,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    4,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    4,
+    20
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    7,
+    18,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Guardia",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#DFE0E6",
+    "mid": "#D2D4DF",
+    "bottom": "#C8CBD9"
+   },
+   "stroke": "#1B191A",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    59,
+    16,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    60,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    60,
+    20
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    63,
+    18,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Azar",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#E6B3FF",
+    "mid": "#C992FF",
+    "bottom": "#B076FF"
+   },
+   "stroke": "#120E0E",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    3,
+    32,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    4,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    4,
+    36
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    7,
+    34,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Recup.",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#82E87C",
+    "mid": "#5DD470",
+    "bottom": "#3FC465"
+   },
+   "stroke": "#182619",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    59,
+    32,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    60,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    60,
+    36
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    63,
+    34,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Velocidad",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#8CF5FE",
+    "mid": "#77E5FE",
+    "bottom": "#52C8FF"
+   },
+   "stroke": "#2A2526",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    3,
+    48,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    4,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    4,
+    52
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    7,
+    50,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Francot.",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#7CC9FF",
+    "mid": "#65ACF9",
+    "bottom": "#4C82F8"
+   },
+   "stroke": "#161112",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    59,
+    48,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    60,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    60,
+    52
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    63,
+    50,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Tecnico",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#F7ED9B",
+    "mid": "#DACB5C",
+    "bottom": "#D2C02A"
+   },
+   "stroke": "#302D2B",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    3,
+    64,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    4,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    4,
+    68
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    7,
+    66,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Asistente",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#F5C191",
+    "mid": "#D99352",
+    "bottom": "#CF823C"
+   },
+   "stroke": "#2E2928",
+   "stroke_w": 1,
+   "pad": 0
+  },
+  {
+   "box": [
+    59,
+    64,
+    50,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    60,
+    84,
+    48,
+    8
+   ],
+   "to": [
+    60,
+    68
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    63,
+    66,
+    42,
+    10
+   ],
+   "erase": "none",
+   "text": "Cambio",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#F59CFA",
+    "mid": "#E466D6",
+    "bottom": "#F16BD0"
+   },
+   "stroke": "#261821",
+   "stroke_w": 1,
+   "pad": 0
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f01_130_161_00_t014.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "3b07381e0aa4",
+   "t": "Welcome to our {{exploration_club}}"
+  },
+  {
+   "i": 1046,
+   "src": "222a7652ec56",
+   "t": "-kun!"
+  },
+  {
+   "i": 1054,
+   "src": "0e092aac74ef",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1074,
+   "src": "9c0b3f2366a8",
+   "t": "Whaaat?!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/free06_01_03_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "b73b01ecc504",
+   "t": "Quest 'Sound Wave Survey:\n{{summit}}' cleared!"
+  },
+  {
+   "i": 1011,
+   "src": "913e0c661d21",
+   "t": "The {{exploration_club}}'s record went up!"
+  }
+ ]
+}

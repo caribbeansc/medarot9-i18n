@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f09_220_800_00_t113.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1038,
+   "src": "c194a0a8a51a",
+   "t": "Ya veo."
+  },
+  {
+   "i": 1049,
+   "src": "c0243bdd3ed6",
+   "t": "¿A ti también te atrapó el {{vice_principal}}?"
+  },
+  {
+   "i": 1067,
+   "src": "17aeed4e69f7",
+   "t": "Qué tonto."
+  },
+  {
+   "i": 1075,
+   "src": "1f0876aa2e9d",
+   "t": "L-lo siento..."
+  },
+  {
+   "i": 1080,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1086,
+   "src": "19e81ffb3b41",
+   "t": "No hablo de ti."
+  }
+ ]
+}

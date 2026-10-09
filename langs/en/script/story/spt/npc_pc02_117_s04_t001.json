@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_pc02_117_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "79093db5e93a",
+   "t": "So fake~."
+  },
+  {
+   "i": 1045,
+   "src": "7ce8c33aed0f",
+   "t": "What's with that 'desu~'?"
+  },
+  {
+   "i": 1053,
+   "src": "b43ef4368d3c",
+   "t": "She's definitely just acting. That girl"
+  },
+  {
+   "i": 1056,
+   "src": "836f98887b98",
+   "t": "definitely has a terrible personality."
+  },
+  {
+   "i": 1077,
+   "src": "daa69990930e",
+   "t": "What? Are you saying I'm the one with\nthe"
+  },
+  {
+   "i": 1080,
+   "src": "fc8277602156",
+   "t": "bad personality?"
+  },
+  {
+   "i": 1091,
+   "src": "36a03e05b61d",
+   "t": "I didn't say that, I didn't say that."
+  },
+  {
+   "i": 1096,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1105,
+   "src": "f9064d6f17fd",
+   "t": "Sorry for having such a terrible"
+  },
+  {
+   "i": 1108,
+   "src": "904cab79699c",
+   "t": "personality. Whatever, whatever,\nwhatever--"
+  },
+  {
+   "i": 1116,
+   "src": "663bd4c1f594",
+   "t": "Let's go, "
+  },
+  {
+   "i": 1118,
+   "src": "7d9d809ecbf1",
+   "t": ""
+  }
+ ]
+}

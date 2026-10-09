@@ -1,0 +1,255 @@
+{
+ "file": "story/spt/f06_100_600_00_t023.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1045,
+   "src": "e7054983b5ea",
+   "t": "S-sorry, President!"
+  },
+  {
+   "i": 1048,
+   "src": "2d9eb9758bb8",
+   "t": "I just got ahead of myself--"
+  },
+  {
+   "i": 1055,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1061,
+   "src": "2674106d5c10",
+   "t": "If you understand, that's fine."
+  },
+  {
+   "i": 1071,
+   "src": "733852b12d9f",
+   "t": "However, hmm..."
+  },
+  {
+   "i": 1074,
+   "src": "41c4c5f16214",
+   "t": "As an idea, it's not bad."
+  },
+  {
+   "i": 1082,
+   "src": "0c61415cdcfc",
+   "t": "There are too many target {{medabot|pl}},"
+  },
+  {
+   "i": 1085,
+   "src": "4015142dd8f3",
+   "t": "and even I was getting sick of it."
+  },
+  {
+   "i": 1093,
+   "src": "84c36b444e11",
+   "t": "A contest would be good motivation."
+  },
+  {
+   "i": 1096,
+   "src": "0dbee0ffdbee",
+   "t": "Plus, we could repay the debt from the\n{{medabot}} tournament the other day--"
+  },
+  {
+   "i": 1104,
+   "src": "0814cada342d",
+   "t": "right?"
+  },
+  {
+   "i": 1107,
+   "src": "37fe09f4a07d",
+   "t": "{{ryusei}}."
+  },
+  {
+   "i": 1121,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1127,
+   "src": "95039396e47f",
+   "t": "Ah..."
+  },
+  {
+   "i": 1130,
+   "src": "aaa9172a59b6",
+   "t": "Thank you, President!"
+  },
+  {
+   "i": 1140,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1146,
+   "src": "a66447f308cb",
+   "t": "What about the {{exploration_club}}?"
+  },
+  {
+   "i": 1149,
+   "src": "749c90609fee",
+   "t": "Any objections?"
+  },
+  {
+   "i": 1163,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1169,
+   "src": "ec119bd57ab8",
+   "t": "Ha ha ha."
+  },
+  {
+   "i": 1176,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1182,
+   "src": "53ca85f704c2",
+   "t": "Fine with me."
+  },
+  {
+   "i": 1192,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1201,
+   "src": "9df602b73a33",
+   "t": "Well..."
+  },
+  {
+   "i": 1204,
+   "src": "68c6a1e309f8",
+   "t": "We were sick of the numbers too."
+  },
+  {
+   "i": 1215,
+   "src": "8a3fe620da8c",
+   "t": "O-okay, understood."
+  },
+  {
+   "i": 1218,
+   "src": "f446dfe736e0",
+   "t": "Let's do it!"
+  },
+  {
+   "i": 1223,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1229,
+   "src": "5621dd8b8d38",
+   "t": "All right."
+  },
+  {
+   "i": 1232,
+   "src": "ebde7d3320d6",
+   "t": "Now, about the rules--"
+  },
+  {
+   "i": 1240,
+   "src": "c7e75fdff7de",
+   "t": "The period will last until the {{stray}}\n{{medabot|pl}}"
+  },
+  {
+   "i": 1243,
+   "src": "b647b425f681",
+   "t": "are wiped out of this area."
+  },
+  {
+   "i": 1251,
+   "src": "181ed27c5e52",
+   "t": "The winner will be decided by who\nhunted"
+  },
+  {
+   "i": 1254,
+   "src": "e92a53c26b90",
+   "t": "more Medabots within that period."
+  },
+  {
+   "i": 1262,
+   "src": "51e560d5c0f3",
+   "t": "Our {{homura}} will keep count."
+  },
+  {
+   "i": 1265,
+   "src": "ef2714089a1f",
+   "t": "She's very serious, so there's no chance\nof cheating."
+  },
+  {
+   "i": 1273,
+   "src": "a5bdd9d04cd9",
+   "t": "If you still doubt it,"
+  },
+  {
+   "i": 1276,
+   "src": "40caa23e1c4c",
+   "t": "the {{exploration_club}} can supervise\ninstead--"
+  },
+  {
+   "i": 1290,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1296,
+   "src": "872b401a3185",
+   "t": "No, I trust you. You cheating is as\nunlikely"
+  },
+  {
+   "i": 1299,
+   "src": "6840037932a5",
+   "t": "as pineapple on sweet and sour pork."
+  },
+  {
+   "i": 1306,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1312,
+   "src": "979c83933f71",
+   "t": "As a pineapple lover, I can't agree with\nthat, but"
+  },
+  {
+   "i": 1315,
+   "src": "77c40ce8aa9a",
+   "t": "never mind. Let's begin."
+  },
+  {
+   "i": 1329,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1335,
+   "src": "15fe6dedd81a",
+   "t": "Let's go!"
+  },
+  {
+   "i": 1338,
+   "src": "393492e59827",
+   "t": "I'll pay back what I owe you from last\ntime!"
+  },
+  {
+   "i": 1352,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1361,
+   "src": "6b846e1ee1c9",
+   "t": "Starting the count!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description73.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "53c2f6b25c59",
+   "t": "{{waterside|cap}} ({{field}})"
+  },
+  {
+   "i": 11,
+   "src": "c52223e0e315",
+   "t": "Un tipo de <c:ffff00>{{field}}<c> donde se hace la <c:ffff00>{{robattle}}<c>.\n{{terrain|cap}} con agua lo bastante honda para sumergir\nlas <c:ffff00>{{legs}}<c>.\nLa <c:ffff00>{{terrain_affinity}}<c> modifica la <c:ffff00>{{mobility}}<c>, el\n<c:ffff00>{{fighting}}<c> y el <c:ffff00>{{shooting}}<c> de cada <c:ffff00>{{leg_type}}<c>:\n  <c:ffff00>{{biped|cap}}<c> -6, <c:ffff00>{{multi_leg}}<c> -6, <c:ffff00>{{vehicle}}<c> -4, <c:ffff00>{{tank}}<c> 0,\n  <c:ffff00>{{hover}}<c> +4, <c:ffff00>{{flying}}<c> -6, <c:ffff00>{{submarine}}<c> +6."
+  }
+ ]
+}

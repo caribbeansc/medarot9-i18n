@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_158.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f906f8c13a4e",
+   "t": "<c:00ff00>Técnica:<c>\n{{trap|cap}} Instalación\nColoca una {{trap}} que\ndaña al reaccionar a la\nacción de colocar del\n{{opponent}}.\nAl colocarla\nrepetidamente {{up}} el\n{{armor}} y el {{damage}}."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_sel01_108_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1038,
+   "src": "a2608cd11db0",
+   "t": "¡Ay, esto es terrible!"
+  },
+  {
+   "i": 1041,
+   "src": "679005f57b60",
+   "t": "¿Qué deberíamos hacer ahora?"
+  },
+  {
+   "i": 1049,
+   "src": "cf5ce2bcb1a0",
+   "t": "No podemos volver al cuerpo así..."
+  }
+ ]
+}

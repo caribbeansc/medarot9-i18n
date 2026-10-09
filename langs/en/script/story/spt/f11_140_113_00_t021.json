@@ -1,0 +1,360 @@
+{
+ "file": "story/spt/f11_140_113_00_t021.spt",
+ "lines": [
+  {
+   "i": 1018,
+   "src": "317b1a64dfab",
+   "t": "*After winning the {{robattle}}"
+  },
+  {
+   "i": 1037,
+   "src": "011fa709183e",
+   "t": "So it was the same type as that guy"
+  },
+  {
+   "i": 1040,
+   "src": "e2e24becb560",
+   "t": "we fought at the lighthouse, huh."
+  },
+  {
+   "i": 1045,
+   "src": "dc5f06e91299",
+   "t": "{{sango}}"
+  },
+  {
+   "i": 1051,
+   "src": "7ed4adad65f6",
+   "t": "We already know their weakness."
+  },
+  {
+   "i": 1058,
+   "src": "2fb791d1c0b6",
+   "t": "{{ginsei}}"
+  },
+  {
+   "i": 1064,
+   "src": "19296e9d9657",
+   "t": "They're no match for us!"
+  },
+  {
+   "i": 1071,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1077,
+   "src": "05b318e7b5a4",
+   "t": "...Good."
+  },
+  {
+   "i": 1093,
+   "src": "cab256cffa17",
+   "t": "*Pres. turns toward the {{rescue_club}}\nPres."
+  },
+  {
+   "i": 1104,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1115,
+   "src": "7b3bbc0d9067",
+   "t": "As you can see, Stollen."
+  },
+  {
+   "i": 1118,
+   "src": "7b6a62836a66",
+   "t": "Once you know them, they aren't that\nstrong."
+  },
+  {
+   "i": 1126,
+   "src": "f0cbaf46cb69",
+   "t": "Go to the dormitory and, with the XX\n{{club|cap}},"
+  },
+  {
+   "i": 1129,
+   "src": "ec1784a0da5e",
+   "t": "hold off the ones coming from the back\ngate."
+  },
+  {
+   "i": 1136,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1142,
+   "src": "a0c57b8fcd5f",
+   "t": "What about here?"
+  },
+  {
+   "i": 1149,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1155,
+   "src": "a1989288fc94",
+   "t": "We'll handle it."
+  },
+  {
+   "i": 1171,
+   "src": "408d12bc1242",
+   "t": "*Pause"
+  },
+  {
+   "i": 1182,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1193,
+   "src": "6e4764cb7fd9",
+   "t": "Understood."
+  },
+  {
+   "i": 1209,
+   "src": "ba06ec36c7af",
+   "t": "*{{rescue_club_pres}} moves a little\ntoward"
+  },
+  {
+   "i": 1212,
+   "src": "74a40339a755",
+   "t": "the dormitory entrance (portal), then"
+  },
+  {
+   "i": 1223,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1234,
+   "src": "27f72902791c",
+   "t": "Hurry."
+  },
+  {
+   "i": 1237,
+   "src": "5c08205ccbf5",
+   "t": "We're heading to the dormitory."
+  },
+  {
+   "i": 1244,
+   "src": "8ae31a4af0df",
+   "t": "{{rescue_club_rival}}"
+  },
+  {
+   "i": 1250,
+   "src": "2eebb827e075",
+   "t": "H-hey, Prez."
+  },
+  {
+   "i": 1253,
+   "src": "7490c70c47df",
+   "t": "What these guys say is just--"
+  },
+  {
+   "i": 1260,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1266,
+   "src": "fdf5b09db956",
+   "t": "\"These guys\"?"
+  },
+  {
+   "i": 1269,
+   "src": "221ff2caf419",
+   "t": "What do you even know about him?"
+  },
+  {
+   "i": 1276,
+   "src": "8ae31a4af0df",
+   "t": "{{rescue_club_rival}}"
+  },
+  {
+   "i": 1282,
+   "src": "fe46cca64783",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1289,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1295,
+   "src": "9e0d864f7316",
+   "t": "Never mind... Let's go."
+  },
+  {
+   "i": 1311,
+   "src": "da3e93f4cba4",
+   "t": "*{{rescue_club}} exits, Pres. in the lead."
+  },
+  {
+   "i": 1314,
+   "src": "a05eca872716",
+   "t": "After seeing them off,"
+  },
+  {
+   "i": 1325,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1336,
+   "src": "785cf5b6cc0a",
+   "t": "That does it."
+  },
+  {
+   "i": 1339,
+   "src": "97a88a8603f7",
+   "t": "Next is... let's see."
+  },
+  {
+   "i": 1347,
+   "src": "e91c5960a6ae",
+   "t": "W-wow, that was kind of cool,"
+  },
+  {
+   "i": 1350,
+   "src": "11f122547fb5",
+   "t": "Prez..."
+  },
+  {
+   "i": 1355,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1361,
+   "src": "7a5d2746e482",
+   "t": "Ha ha ha."
+  },
+  {
+   "i": 1368,
+   "src": "07b521d1e88c",
+   "t": "{{chiffon}}"
+  },
+  {
+   "i": 1377,
+   "src": "f3dd6b19bdbc",
+   "t": "Seriously, what's with you all of a\nsudden?"
+  },
+  {
+   "i": 1380,
+   "src": "284997821eca",
+   "t": "It's like--"
+  },
+  {
+   "i": 1387,
+   "src": "6c9a6cb734bc",
+   "t": "{{tart}}"
+  },
+  {
+   "i": 1393,
+   "src": "222c77370620",
+   "t": "Here they come!"
+  },
+  {
+   "i": 1409,
+   "src": "a2cf339e4bf7",
+   "t": "*Turn to face front"
+  },
+  {
+   "i": 1412,
+   "src": "98031a3d2508",
+   "t": "~camera moves slightly toward the main\ngate"
+  },
+  {
+   "i": 1417,
+   "src": "56c28b5a03fe",
+   "t": "*Multiple {{medabot|pl}} invade"
+  },
+  {
+   "i": 1420,
+   "src": "489fed193f9b",
+   "t": "~the {{exploration_club}} moves to face\nthem while"
+  },
+  {
+   "i": 1431,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1442,
+   "src": "4da7ec4397de",
+   "t": "Mmm, well then,"
+  },
+  {
+   "i": 1445,
+   "src": "4045dc0e0b0e",
+   "t": "shall we head out soon?"
+  },
+  {
+   "i": 1452,
+   "src": "07b521d1e88c",
+   "t": "{{chiffon}}"
+  },
+  {
+   "i": 1461,
+   "src": "52c3b3b11325",
+   "t": "From beyond the gate, too,"
+  },
+  {
+   "i": 1464,
+   "src": "ce1903a63321",
+   "t": "they're coming at us one after another."
+  },
+  {
+   "i": 1471,
+   "src": "0517113512bd",
+   "t": "{{baum}}"
+  },
+  {
+   "i": 1480,
+   "src": "ce7d817a469a",
+   "t": "Be ready for back-to-back battles."
+  },
+  {
+   "i": 1487,
+   "src": "2fb791d1c0b6",
+   "t": "{{ginsei}}"
+  },
+  {
+   "i": 1493,
+   "src": "c1207b63f83c",
+   "t": "Right!"
+  },
+  {
+   "i": 1501,
+   "src": "ce1e0c4ea00e",
+   "t": "I'm counting on you, Sector!"
+  },
+  {
+   "i": 1512,
+   "src": "ec49e944e626",
+   "t": "Leave it to me!"
+  },
+  {
+   "i": 1528,
+   "src": "1ac55122bfad",
+   "t": "*To {{robattle}}"
+  },
+  {
+   "i": 1533,
+   "src": "5417fb462cdd",
+   "t": "*Assuming back-to-back battles"
+  },
+  {
+   "i": 1538,
+   "src": "11ac3e0ba4ad",
+   "t": "*Want text here based on who's\ndeployed"
+  },
+  {
+   "i": 1541,
+   "src": "e1a790b1c56f",
+   "t": "Needs review / provisional for now"
+  }
+ ]
+}

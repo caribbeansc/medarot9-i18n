@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc04_meda_161_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "88b4e5093dfa",
+   "t": "What's a culture festival?"
+  },
+  {
+   "i": 1067,
+   "src": "8667efa414fe",
+   "t": "I got it."
+  },
+  {
+   "i": 1070,
+   "src": "02d42e9b6d17",
+   "t": "It's the name of the {{robattle}}\ntournament."
+  },
+  {
+   "i": 1076,
+   "src": "7b3682ac3f13",
+   "t": "I have figured it out."
+  },
+  {
+   "i": 1079,
+   "src": "9d41d5ddb2a9",
+   "t": "The culture festival means the\ntournament."
+  },
+  {
+   "i": 1096,
+   "src": "6a649f056e46",
+   "t": "So that's what it is!"
+  },
+  {
+   "i": 1099,
+   "src": "1153f86963ce",
+   "t": "Then we'll win again!"
+  },
+  {
+   "i": 1125,
+   "src": "c1207b63f83c",
+   "t": "Yeah!"
+  },
+  {
+   "i": 1131,
+   "src": "015f1f7fb5b4",
+   "t": "Indeed!"
+  }
+ ]
+}

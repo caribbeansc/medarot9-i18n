@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3b_meda_163_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "48d28919cf40",
+   "t": "{{lovelydog}}"
+  },
+  {
+   "i": 1038,
+   "src": "141c371f4e35",
+   "t": "Porque es verano."
+  },
+  {
+   "i": 1041,
+   "src": "78b0f6b4e413",
+   "t": "Elegí un anillo eyector de color fresco."
+  },
+  {
+   "i": 1049,
+   "src": "2a3088c29996",
+   "t": "¿Ves? Lo que se ve bajo la"
+  },
+  {
+   "i": 1052,
+   "src": "ad3a640b65e3",
+   "t": "articulación del brazo. ¿No la ves?"
+  },
+  {
+   "i": 1060,
+   "src": "95d2743776e4",
+   "t": "Da igual. El {{medabot}} con estilo"
+  },
+  {
+   "i": 1063,
+   "src": "35efd40700e3",
+   "t": "no descuida ni lo que no se ve."
+  }
+ ]
+}

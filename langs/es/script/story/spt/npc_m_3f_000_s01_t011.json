@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_3f_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1038,
+   "src": "a56eb1ee2a94",
+   "t": "¿Eres de primer año?"
+  },
+  {
+   "i": 1046,
+   "src": "24981350aa6b",
+   "t": "No es que esté prohibido..."
+  },
+  {
+   "i": 1049,
+   "src": "d9736dd02fab",
+   "t": "pero mejor no andes fuera de la escuela."
+  },
+  {
+   "i": 1059,
+   "src": "a7f55d225eee",
+   "t": "Redrun"
+  },
+  {
+   "i": 1065,
+   "src": "c747c5f63736",
+   "t": "¡Los Medabots salvajes andan por ahí!"
+  },
+  {
+   "i": 1068,
+   "src": "c37c99517617",
+   "t": "¡Aquí son más duros que en tierra firme!"
+  }
+ ]
+}

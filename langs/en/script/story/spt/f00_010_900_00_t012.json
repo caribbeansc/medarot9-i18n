@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f00_010_900_00_t012.spt",
+ "lines": [
+  {
+   "i": 1004,
+   "src": "ab25c173225a",
+   "t": "Oh, so what are you up to today?"
+  },
+  {
+   "i": 1007,
+   "src": "cb7a2b6317f2",
+   "t": "{{teruru}}."
+  }
+ ]
+}

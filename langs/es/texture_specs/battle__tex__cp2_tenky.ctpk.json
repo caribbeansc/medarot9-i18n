@@ -1,0 +1,141 @@
+{
+ "rel": "battle/tex/cp2_tenky.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    1,
+    80,
+    26,
+    16
+   ],
+   "erase_box": [
+    0,
+    80,
+    28,
+    16
+   ],
+   "text": "Carga",
+   "font": "sf-cond-heavy",
+   "cap": 9.5,
+   "baseline": 91,
+   "fill": "#FFFFFF",
+   "stroke": "#000E1BA2",
+   "stroke_w": 1,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    33,
+    80,
+    26,
+    16
+   ],
+   "erase_box": [
+    32,
+    80,
+    28,
+    16
+   ],
+   "text": "Enfr.",
+   "font": "sf-cond-heavy",
+   "cap": 9.5,
+   "baseline": 91,
+   "fill": "#FFFFFF",
+   "stroke": "#000E1BA2",
+   "stroke_w": 1,
+   "crisp": 0.5
+  },
+  {
+   "erase_box": [
+    0,
+    96,
+    24,
+    8
+   ],
+   "text": ""
+  },
+  {
+   "erase_box": [
+    24,
+    96,
+    24,
+    8
+   ],
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    48,
+    66,
+    16
+   ],
+   "erase_box": [
+    0,
+    48,
+    72,
+    16
+   ],
+   "text": "JUGADOR",
+   "font": "din-alt",
+   "cap": 9.5,
+   "baseline": 61,
+   "tracking": 1.2,
+   "fill": "#009CC9B8",
+   "crisp": 0.2,
+   "strokes": [
+    {
+     "color": "#9AF6FF",
+     "w": 1
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#009CC9",
+    "blur": 2.5,
+    "opacity": 1
+   }
+  },
+  {
+   "box": [
+    4,
+    64,
+    66,
+    16
+   ],
+   "erase_box": [
+    0,
+    64,
+    72,
+    16
+   ],
+   "text": "RIVAL",
+   "font": "din-alt",
+   "cap": 9.5,
+   "baseline": 77,
+   "tracking": 1.0,
+   "fill": "#DA1B1BB8",
+   "crisp": 0.2,
+   "strokes": [
+    {
+     "color": "#FFC8C4",
+     "w": 1
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#DA1B1B",
+    "blur": 2.5,
+    "opacity": 1
+   },
+   "scale_x": 1.45
+  }
+ ]
+}

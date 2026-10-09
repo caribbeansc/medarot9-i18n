@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2f_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1038,
+   "src": "b93dcdc87105",
+   "t": "The {{rescue_club}} is a cultural {{club}},"
+  },
+  {
+   "i": 1041,
+   "src": "4554538e89af",
+   "t": "but our activities are more athletic."
+  },
+  {
+   "i": 1049,
+   "src": "7b560f694142",
+   "t": "We pair up with {{medabot|pl}} and train to\ndo"
+  },
+  {
+   "i": 1052,
+   "src": "8651b483e1a0",
+   "t": "rescues quickly in any terrain or\nsituation."
+  }
+ ]
+}

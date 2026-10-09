@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2e_163_meda_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3896aa720158",
+   "t": "{{girl_2_e_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "19db14fc6320",
+   "t": "No doy autógrafos, por favor."
+  },
+  {
+   "i": 1038,
+   "src": "70a24e6551c3",
+   "t": "Mi profesora me lo prohibió."
+  }
+ ]
+}

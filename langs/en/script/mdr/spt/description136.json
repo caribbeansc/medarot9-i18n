@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description136.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e8a78e73c67c",
+   "t": "Leg Trait"
+  },
+  {
+   "i": 11,
+   "src": "e757ccf11d8b",
+   "t": "A special ability of <c:ffff00>legs<c> <c:ffff00>{{part|pl}}<c> that activates\nautomatically.\n\nSome traits are always in {{effect}} during a <c:ffff00>{{robattle}}<c>,\nwhile others only take {{effect}} when certain\nconditions are met.\n\nMany of them strengthen the <c:ffff00>{{medabot}}<c> equipped\nwith the {{part}}."
+  }
+ ]
+}

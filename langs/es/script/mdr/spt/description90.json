@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description90.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a25e9eaa6ee4",
+   "t": "{{leader_effect|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "125cbbec2a3a",
+   "t": "{{effect|cap}} especial de cada <c:ffff00>{{medal}}<c> que solo se activa\ncuando es elegida <c:ffff00>{{leader}}<c> en la <c:ffff00>{{robattle}}<c>.\n\nMuchos son efectos potentes que alcanzan a todo el\nequipo {{ally_battle_term}} o {{opponent}}.\n\nSi se ponen 3 <c:ffff00>{{medalia|pl}}<c> de la misma forma en las\n<c:ffff00>ranuras de {{medalia}}<c>, el {{leader_effect}} de la {{medal}}\ncambia."
+  }
+ ]
+}

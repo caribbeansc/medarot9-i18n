@@ -1,0 +1,340 @@
+{
+ "file": "story/spt/f03_090_161_00_t002.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "16cc48c12855",
+   "t": "Hey, I've been waiting for you."
+  },
+  {
+   "i": 1050,
+   "src": "183b9dc42b6c",
+   "t": "We have a report, too!"
+  },
+  {
+   "i": 1053,
+   "src": "bb85d0c745c9",
+   "t": "Actually--"
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "0e7a1c985432",
+   "t": "A report?"
+  },
+  {
+   "i": 1067,
+   "src": "8287a320f7d6",
+   "t": "Nah, never mind that."
+  },
+  {
+   "i": 1082,
+   "src": "8d0b7bd3f88e",
+   "t": "That's harsh."
+  },
+  {
+   "i": 1087,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1093,
+   "src": "5b5d0a3a8c3f",
+   "t": "More importantly, listen."
+  },
+  {
+   "i": 1096,
+   "src": "5edd9a272de8",
+   "t": "Remember that memory crystal we\nfound the other day?"
+  },
+  {
+   "i": 1104,
+   "src": "f1c913191adf",
+   "t": "I finally managed to extract the data."
+  },
+  {
+   "i": 1111,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1117,
+   "src": "c6fc309e47a3",
+   "t": "Oh?"
+  },
+  {
+   "i": 1125,
+   "src": "b97ae930fc27",
+   "t": "So, what was on it?"
+  },
+  {
+   "i": 1135,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1141,
+   "src": "298935dec5be",
+   "t": "A {{blueprint}} for a {{medalia_detector}}."
+  },
+  {
+   "i": 1148,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1154,
+   "src": "6ab6e7a9cd63",
+   "t": "What?"
+  },
+  {
+   "i": 1163,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1169,
+   "src": "e0ce965c09c8",
+   "t": "It seems {{medalia}} is something"
+  },
+  {
+   "i": 1172,
+   "src": "53458e66071a",
+   "t": "that can be detected."
+  },
+  {
+   "i": 1179,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1185,
+   "src": "e9e9e3510d7d",
+   "t": "How does it work?"
+  },
+  {
+   "i": 1188,
+   "src": "97da82b8e46c",
+   "t": "Like a radar?"
+  },
+  {
+   "i": 1195,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1201,
+   "src": "6f5fb476031f",
+   "t": "Doesn't seem so."
+  },
+  {
+   "i": 1204,
+   "src": "eaafba69e757",
+   "t": "It's closer to a Geiger counter."
+  },
+  {
+   "i": 1212,
+   "src": "cfff93e5b8f7",
+   "t": "{{medalia}} gives off a special reaction,"
+  },
+  {
+   "i": 1215,
+   "src": "512c7beeaf1a",
+   "t": "and this can detect it, apparently."
+  },
+  {
+   "i": 1222,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1228,
+   "src": "1f4ffda7960e",
+   "t": "So with that, even without seeing it,"
+  },
+  {
+   "i": 1231,
+   "src": "e0228e703a9a",
+   "t": "you can tell where the {{medalia}} is...\nright?"
+  },
+  {
+   "i": 1238,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1244,
+   "src": "517c802ada4b",
+   "t": "Pretty much."
+  },
+  {
+   "i": 1252,
+   "src": "ff7c946c7f7d",
+   "t": "T-that's a big deal, isn't it...?!"
+  },
+  {
+   "i": 1260,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1266,
+   "src": "4b95446a5938",
+   "t": "Yeah, it's amazing."
+  },
+  {
+   "i": 1274,
+   "src": "ea2f1a01bb8c",
+   "t": "It's so amazing"
+  },
+  {
+   "i": 1277,
+   "src": "06ad4cf425c1",
+   "t": "that I've been excited ever since."
+  },
+  {
+   "i": 1284,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1293,
+   "src": "ab58371c3364",
+   "t": "You don't really look it, though."
+  },
+  {
+   "i": 1303,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1312,
+   "src": "19967a51e60e",
+   "t": "There's a problem, though."
+  },
+  {
+   "i": 1320,
+   "src": "a1b27f841d44",
+   "t": "A problem?"
+  },
+  {
+   "i": 1328,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1334,
+   "src": "a6c2b21a583f",
+   "t": "To properly understand and rebuild this\n{{blueprint}}"
+  },
+  {
+   "i": 1337,
+   "src": "cad24277e0de",
+   "t": "you need a lot of knowledge."
+  },
+  {
+   "i": 1352,
+   "src": "77feb89be518",
+   "t": "At least someone like me is totally\nclueless."
+  },
+  {
+   "i": 1355,
+   "src": "7a5d2746e482",
+   "t": "Hahaha."
+  },
+  {
+   "i": 1362,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1368,
+   "src": "17b333643cbe",
+   "t": "Specifically,"
+  },
+  {
+   "i": 1371,
+   "src": "9ddc49360f54",
+   "t": "how much knowledge do we need?"
+  },
+  {
+   "i": 1381,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1387,
+   "src": "ba62f2c0e3d8",
+   "t": "I'm not sure, but, well,"
+  },
+  {
+   "i": 1390,
+   "src": "f857dc80a5f6",
+   "t": "{{medabot}} engineering, for sure--"
+  },
+  {
+   "i": 1398,
+   "src": "9c65a7776b7b",
+   "t": "Physics, chemistry, math, mechanical\nengineering,"
+  },
+  {
+   "i": 1401,
+   "src": "7d328c3643e0",
+   "t": "it feels like we need almost all the\nadvanced sciences."
+  },
+  {
+   "i": 1415,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1424,
+   "src": "e45adfafc04c",
+   "t": "So it's impossible, basically."
+  },
+  {
+   "i": 1431,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1440,
+   "src": "8175d2e2c1e4",
+   "t": "Nah, nah, look, our school"
+  },
+  {
+   "i": 1443,
+   "src": "b6bf1f924e9d",
+   "t": "gathers elites from all over the world,\nright?"
+  },
+  {
+   "i": 1451,
+   "src": "6d7a1f097410",
+   "t": "In the special-admission {{class}}"
+  },
+  {
+   "i": 1454,
+   "src": "c7d46ac07557",
+   "t": "you never know what geniuses are\nhiding~."
+  },
+  {
+   "i": 1461,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1470,
+   "src": "dcc97b3cecbc",
+   "t": "Special students..."
+  }
+ ]
+}

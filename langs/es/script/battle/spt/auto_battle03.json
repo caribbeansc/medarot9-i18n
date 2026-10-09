@@ -1,0 +1,90 @@
+{
+ "file": "battle/spt/auto_battle03.spt",
+ "lines": [
+  {
+   "i": 1139,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 1142,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1145,
+   "src": "6577a7b00bbe",
+   "t": "{{cayenne}}"
+  },
+  {
+   "i": 1324,
+   "src": "cb6d999fb98f",
+   "t": "¡Crees que puedes ganarme!"
+  },
+  {
+   "i": 1441,
+   "src": "dd4bac05f29b",
+   "t": ", ¡transferencia!"
+  },
+  {
+   "i": 1491,
+   "src": "a11eaf18d1f9",
+   "t": "¡Es mi turno!\n¡Blazermate, transmisión!"
+  },
+  {
+   "i": 1541,
+   "src": "d0edc259ac91",
+   "t": "¡Vamos! ¡{{greed}}!\n¡transmisión!"
+  },
+  {
+   "i": 1639,
+   "src": "9b9fcc3f35c9",
+   "t": "¡Lo veo, lo veo!"
+  },
+  {
+   "i": 1791,
+   "src": "b610a86e52b4",
+   "t": "¡Da en el blanco!"
+  },
+  {
+   "i": 1859,
+   "src": "e430a70eb72d",
+   "t": "Qué lástima."
+  },
+  {
+   "i": 1995,
+   "src": "aeb685c9c0cc",
+   "t": "¡Allá voy!"
+  },
+  {
+   "i": 2078,
+   "src": "9932ab7a60d3",
+   "t": "Mmm..."
+  },
+  {
+   "i": 2089,
+   "src": "dff48b87b620",
+   "t": "¿{{pierce|cap}}...?"
+  },
+  {
+   "i": 2278,
+   "src": "f3702d460aef",
+   "t": "¡El siguiente!"
+  },
+  {
+   "i": 2361,
+   "src": "9e30ecb19147",
+   "t": "No puede ser..."
+  },
+  {
+   "i": 2550,
+   "src": "f327297b9e53",
+   "t": "¡El último!"
+  },
+  {
+   "i": 2638,
+   "src": "a00b05e6427f",
+   "t": "¡Aaaaah!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/free06_01_03_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "b73b01ecc504",
+   "t": "¡{{mission|cap}} 'Observación de Ondas:\n{{summit|cap}} de la Montaña' completada!"
+  },
+  {
+   "i": 1011,
+   "src": "913e0c661d21",
+   "t": "¡Los logros del {{exploration_club}}\naumentaron!"
+  }
+ ]
+}

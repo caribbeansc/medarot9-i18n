@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_kaicho_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

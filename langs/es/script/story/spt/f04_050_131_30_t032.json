@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f04_050_131_30_t032.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "300f662aa8c4",
+   "t": "¡Un grupo de mentes brillantes "
+  },
+  {
+   "i": 1038,
+   "src": "ecce34b0cd81",
+   "t": "y gran saber sobre Medabots!"
+  },
+  {
+   "i": 1046,
+   "src": "4c22f487ba2e",
+   "t": "Con tácticas finas y juego sólido,"
+  },
+  {
+   "i": 1049,
+   "src": "71343cfa7f5d",
+   "t": "llegaron a la segunda ronda."
+  },
+  {
+   "i": 1057,
+   "src": "84975103cab4",
+   "t": "¡El equipo del Club de Investigación\n{{medabot}}!"
+  }
+ ]
+}

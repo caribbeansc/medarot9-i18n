@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f11_260_959_00_t031.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1049,
+   "src": "a9e25972b461",
+   "t": "Esto es..."
+  },
+  {
+   "i": 1073,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1084,
+   "src": "019ff395de69",
+   "t": "¡Son {{medal|pl}}!"
+  },
+  {
+   "i": 1106,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1117,
+   "src": "7392f396b3e6",
+   "t": "¡Hay un montón, viejas y nuevas!"
+  },
+  {
+   "i": 1120,
+   "src": "b781b2d6c377",
+   "t": "¡Qué hermosas...!"
+  },
+  {
+   "i": 1142,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1153,
+   "src": "fc72906aef6d",
+   "t": "Son las {{medal|pl}} que él se comió, eh."
+  },
+  {
+   "i": 1180,
+   "src": "51fd6e8fde44",
+   "t": "¡Han regresado...!"
+  }
+ ]
+}

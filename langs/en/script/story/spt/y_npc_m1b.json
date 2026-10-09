@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m1b.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1653,
+   "src": "c214a0497949",
+   "t": "What? A {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "24f4a9ce3bd4",
+   "t": "Yeah, yeah!"
+  }
+ ]
+}

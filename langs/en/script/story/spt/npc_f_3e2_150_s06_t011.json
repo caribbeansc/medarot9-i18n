@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_f_3e2_150_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1035,
+   "src": "3b1253c5fe57",
+   "t": "Wait, so then, Senpai,"
+  },
+  {
+   "i": 1038,
+   "src": "6f6b7d9bc701",
+   "t": "do you know Suzune-san?"
+  },
+  {
+   "i": 1045,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1051,
+   "src": "f0bad5ac053f",
+   "t": "We're classmates."
+  },
+  {
+   "i": 1054,
+   "src": "4c4eb7659833",
+   "t": "We talk about all sorts of things."
+  },
+  {
+   "i": 1061,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1067,
+   "src": "fdd82c98f046",
+   "t": "Wow~, lucky you."
+  },
+  {
+   "i": 1070,
+   "src": "42b73ad6d108",
+   "t": "Suzune-san is my idol!"
+  },
+  {
+   "i": 1078,
+   "src": "7561104d2b3f",
+   "t": "So dignified, so cool..."
+  },
+  {
+   "i": 1081,
+   "src": "b1fc61edbd65",
+   "t": "And above all, the first {{student_council}}\nPresident of MEDA {{academy}}!"
+  },
+  {
+   "i": 1089,
+   "src": "c20ed7f1893c",
+   "t": "She's wonderful~!"
+  }
+ ]
+}

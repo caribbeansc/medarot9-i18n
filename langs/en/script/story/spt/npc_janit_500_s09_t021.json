@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_janit_500_s09_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 1038,
+   "src": "e93b96e3b648",
+   "t": "But what's the deal with those folks?"
+  },
+  {
+   "i": 1041,
+   "src": "e83bb9336289",
+   "t": "Dressed pitch-black like creepy\nscarecrows."
+  },
+  {
+   "i": 1049,
+   "src": "0933dd6864ff",
+   "t": "They've been wandering around like it's\nnormal lately,"
+  },
+  {
+   "i": 1052,
+   "src": "5e6c6e6103f7",
+   "t": "but this morning there's a huge crowd\nof them."
+  },
+  {
+   "i": 1060,
+   "src": "5d380d91278f",
+   "t": "They have harbor passes so I can't\ncomplain,"
+  },
+  {
+   "i": 1063,
+   "src": "fe1c65b7199d",
+   "t": "but they don't look like school staff by\nany measure."
+  },
+  {
+   "i": 1071,
+   "src": "4420e0fa6064",
+   "t": "They don't look like big shots from a\n{{conglomerate}}, either."
+  },
+  {
+   "i": 1074,
+   "src": "136db9d444d7",
+   "t": "Who on earth are they?"
+  }
+ ]
+}

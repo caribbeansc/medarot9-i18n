@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d2_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2b1fd07bd562",
+   "t": "{{homare}}"
+  },
+  {
+   "i": 1038,
+   "src": "e795627b3a93",
+   "t": "Whew~ "
+  },
+  {
+   "i": 1041,
+   "src": "5942d228fd63",
+   "t": "The sports festival's over. What a drag~."
+  },
+  {
+   "i": 1049,
+   "src": "5065ff892201",
+   "t": "Still, thinking it's my last high school\none"
+  },
+  {
+   "i": 1052,
+   "src": "58188cf685d1",
+   "t": "makes me a bit sentimental. Just a bit."
+  }
+ ]
+}

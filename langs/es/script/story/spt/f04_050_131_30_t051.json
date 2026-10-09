@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f04_050_131_30_t051.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "3376217f6fa2",
+   "t": "Qué-qué es esto..."
+  },
+  {
+   "i": 1043,
+   "src": "0eb28e7c19ca",
+   "t": "¡El ganador es el {{club|cap}} de"
+  },
+  {
+   "i": 1046,
+   "src": "b70adf470f98",
+   "t": "Exploración! ¡¡Van a la final!!"
+  },
+  {
+   "i": 1062,
+   "src": "bdf017420547",
+   "t": "¡Síii!"
+  },
+  {
+   "i": 1078,
+   "src": "f99464600b71",
+   "t": "¡Jeje!"
+  },
+  {
+   "i": 1081,
+   "src": "35785c3ff432",
+   "t": "¡Así se hace!"
+  }
+ ]
+}

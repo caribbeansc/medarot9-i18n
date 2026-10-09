@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/bt0039.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "b756b29efe5d",
+   "t": "{{stray_medabot}}"
+  },
+  {
+   "i": 864,
+   "src": "6e528df88f23",
+   "t": "Most shutdowns {{wins}}!"
+  },
+  {
+   "i": 867,
+   "src": "6e528df88f23",
+   "t": "Most shutdowns {{wins}}!"
+  },
+  {
+   "i": 870,
+   "src": "17132957ffa7",
+   "t": "Defeat as many as you can!"
+  },
+  {
+   "i": 884,
+   "src": "78ff9bac0e1c",
+   "t": "...Ugh..."
+  }
+ ]
+}

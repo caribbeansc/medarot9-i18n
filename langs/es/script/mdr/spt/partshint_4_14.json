@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_14.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "29ad63897115",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{shooter}}\nAl realizar acción Apuntar\n{{hit_rate}} a cada {{part}}\n+10%."
+  }
+ ]
+}

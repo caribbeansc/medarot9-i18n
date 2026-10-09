@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_3.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ee0514841215",
+   "t": "<c:00ff00>Action:<c> {{mega_gatling}}\nA fast ranged barrage.\n{{damage|cap}} varies but tends\nhigh at {{success}} 40+. Has\npiercing. With intact\nlegs, {{success}} x1.5.\nCannot evade while\ncooling down."
+  }
+ ]
+}

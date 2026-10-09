@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f06_220_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "83ce95f75aa1",
+   "t": "Hm?"
+  },
+  {
+   "i": 1037,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1046,
+   "src": "4c6d6e38651e",
+   "t": "I can't see anything at all!"
+  },
+  {
+   "i": 1053,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1059,
+   "src": "9a2a3976b5ce",
+   "t": "Reactions I remember are deleted\nautomatically."
+  },
+  {
+   "i": 1062,
+   "src": "6043b541d163",
+   "t": "You'll only see unknown {{medalia}}\nreactions."
+  }
+ ]
+}

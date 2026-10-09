@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_294.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b2921ca88b44",
+   "t": "Model-change version of\nthe beetle {{medabot}}.\n \nAttack-focused: more\n{{power}} and {{armor}} than\nthe old model, but less\nspeed. Still, it has the\nhighest load capacity of\nany {{biped}}."
+  }
+ ]
+}

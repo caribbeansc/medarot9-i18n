@@ -1,0 +1,45 @@
+{
+ "file": "mdr/spt/mlp_wifi.spt",
+ "lines": [
+  {
+   "i": 1409,
+   "src": "071d5d8596d5",
+   "t": "Te desconectarás\nsi pulsas el menú HOME\nmientras estás conectado."
+  },
+  {
+   "i": 1436,
+   "src": "25b89becaa3c",
+   "t": "Conectando a\nNintendo Network."
+  },
+  {
+   "i": 1781,
+   "src": "a0f41ef3a41d",
+   "t": "Desconectando de\nNintendo Network."
+  },
+  {
+   "i": 2251,
+   "src": "2f5fd0f6c0f3",
+   "t": "No tienes Medabots que"
+  },
+  {
+   "i": 2252,
+   "src": "ef44c1594127",
+   "t": "puedan usarse con estas reglas."
+  },
+  {
+   "i": 2657,
+   "src": "642bf96df871",
+   "t": "cancelando este combate."
+  },
+  {
+   "i": 2735,
+   "src": "18352f047d9c",
+   "t": " será tu rival."
+  },
+  {
+   "i": 3352,
+   "src": "7fea08db4269",
+   "t": "el {{opponent}} está eligiendo el {{field}}."
+  }
+ ]
+}

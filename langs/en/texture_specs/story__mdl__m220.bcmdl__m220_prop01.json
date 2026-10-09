@@ -1,0 +1,710 @@
+{
+ "rel": "story/mdl/m220.bcmdl",
+ "tex": "m220_prop01",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "erase_box": [
+    84,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#E2CB1B",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    88,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#E1C91A",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    92,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#E0C719",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    96,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#DFC518",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    100,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#DDC317",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    104,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#DCC017",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    108,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#DBBE16",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    112,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#DABC15",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    116,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#D8BA14",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    120,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#D7B814",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    124,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#D6B613",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    128,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#D4B412",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    132,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#D3B211",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    136,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#D2B010",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    140,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#D1AD10",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    144,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#CFAB0F",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    148,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#CEA90E",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    152,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#CDA70D",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    156,
+    16,
+    4,
+    48
+   ],
+   "erase": "solid:#CCA50C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    121,
+    16,
+    2,
+    1
+   ],
+   "erase": "solid:#F87A30",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    120,
+    17,
+    4,
+    1
+   ],
+   "erase": "solid:#F87930",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    120,
+    18,
+    4,
+    1
+   ],
+   "erase": "solid:#F7792F",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    119,
+    19,
+    6,
+    1
+   ],
+   "erase": "solid:#F7782F",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    119,
+    20,
+    6,
+    1
+   ],
+   "erase": "solid:#F7782F",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    118,
+    21,
+    8,
+    1
+   ],
+   "erase": "solid:#F6772E",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    118,
+    22,
+    9,
+    1
+   ],
+   "erase": "solid:#F6762E",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    117,
+    23,
+    10,
+    1
+   ],
+   "erase": "solid:#F6762E",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    117,
+    24,
+    11,
+    1
+   ],
+   "erase": "solid:#F5752D",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    116,
+    25,
+    12,
+    1
+   ],
+   "erase": "solid:#F5752D",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    116,
+    26,
+    13,
+    1
+   ],
+   "erase": "solid:#F5742D",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    115,
+    27,
+    15,
+    1
+   ],
+   "erase": "solid:#F4732C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    115,
+    28,
+    15,
+    1
+   ],
+   "erase": "solid:#F4732C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    114,
+    29,
+    17,
+    1
+   ],
+   "erase": "solid:#F4722C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    114,
+    30,
+    17,
+    1
+   ],
+   "erase": "solid:#F3722B",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    113,
+    31,
+    19,
+    1
+   ],
+   "erase": "solid:#F3712B",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    113,
+    32,
+    20,
+    1
+   ],
+   "erase": "solid:#F3702B",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    112,
+    33,
+    21,
+    1
+   ],
+   "erase": "solid:#F2702A",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    111,
+    34,
+    23,
+    1
+   ],
+   "erase": "solid:#F26F2A",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    111,
+    35,
+    23,
+    1
+   ],
+   "erase": "solid:#F26F2A",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    110,
+    36,
+    25,
+    1
+   ],
+   "erase": "solid:#F16E29",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    110,
+    37,
+    26,
+    1
+   ],
+   "erase": "solid:#F16D29",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    109,
+    38,
+    27,
+    1
+   ],
+   "erase": "solid:#F16D29",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    109,
+    39,
+    28,
+    1
+   ],
+   "erase": "solid:#F06C28",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    108,
+    40,
+    29,
+    1
+   ],
+   "erase": "solid:#F06C28",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    108,
+    41,
+    30,
+    1
+   ],
+   "erase": "solid:#EF6B27",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    107,
+    42,
+    32,
+    1
+   ],
+   "erase": "solid:#EF6B27",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    107,
+    43,
+    32,
+    1
+   ],
+   "erase": "solid:#EF6A27",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    106,
+    44,
+    34,
+    1
+   ],
+   "erase": "solid:#EE6926",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    106,
+    45,
+    34,
+    1
+   ],
+   "erase": "solid:#EE6926",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    105,
+    46,
+    36,
+    1
+   ],
+   "erase": "solid:#EE6826",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    105,
+    47,
+    37,
+    1
+   ],
+   "erase": "solid:#ED6825",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    104,
+    48,
+    38,
+    1
+   ],
+   "erase": "solid:#ED6725",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    104,
+    49,
+    39,
+    1
+   ],
+   "erase": "solid:#ED6625",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    103,
+    50,
+    40,
+    1
+   ],
+   "erase": "solid:#EC6624",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    102,
+    51,
+    42,
+    1
+   ],
+   "erase": "solid:#EC6524",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    102,
+    52,
+    43,
+    1
+   ],
+   "erase": "solid:#EC6524",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    101,
+    53,
+    44,
+    1
+   ],
+   "erase": "solid:#EB6423",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    101,
+    54,
+    45,
+    1
+   ],
+   "erase": "solid:#EB6323",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    100,
+    55,
+    46,
+    1
+   ],
+   "erase": "solid:#EB6323",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    100,
+    56,
+    47,
+    1
+   ],
+   "erase": "solid:#EA6222",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    99,
+    57,
+    49,
+    1
+   ],
+   "erase": "solid:#EA6222",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    99,
+    58,
+    49,
+    1
+   ],
+   "erase": "solid:#EA6122",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    98,
+    59,
+    51,
+    1
+   ],
+   "erase": "solid:#E96021",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    98,
+    60,
+    51,
+    1
+   ],
+   "erase": "solid:#E96021",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    97,
+    61,
+    53,
+    1
+   ],
+   "erase": "solid:#E95F21",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    97,
+    62,
+    54,
+    1
+   ],
+   "erase": "solid:#E85F20",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    96,
+    63,
+    55,
+    1
+   ],
+   "erase": "solid:#E85E20",
+   "text": ""
+  },
+  {
+   "box": [
+    86,
+    12,
+    72,
+    28
+   ],
+   "erase": "none",
+   "text": "DANGER",
+   "font": "sf-cond-heavy",
+   "cap": 18,
+   "fill": "#1E1A0C",
+   "stroke": null,
+   "pad": 0,
+   "baseline": 36
+  },
+  {
+   "box": [
+    86,
+    40,
+    72,
+    24
+   ],
+   "erase": "none",
+   "text": "KEEP OUT",
+   "font": "sf-cond-heavy",
+   "cap": 14,
+   "fill": "#1E1A0C",
+   "stroke": null,
+   "pad": 0,
+   "baseline": 59
+  }
+ ]
+}

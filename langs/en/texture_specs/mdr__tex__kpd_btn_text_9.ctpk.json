@@ -1,0 +1,133 @@
+{
+ "rel": "mdr/tex/kpd_btn_text_9.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "narrow",
+  "cap": 10,
+  "align": "center",
+  "valign": "middle",
+  "pad": 0
+ },
+ "styles": {
+  "gris": {
+   "fill": "#A6A6A6",
+   "stroke": "#000000D0",
+   "stroke_w": 1.2,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 1.5,
+    "color": "#000000",
+    "opacity": 0.5
+   }
+  },
+  "cian": {
+   "fill": "#2CEAE3",
+   "stroke": "#041C1BE8",
+   "stroke_w": 1.2,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 2,
+    "color": "#041C1B",
+    "opacity": 0.8
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    178,
+    177,
+    30,
+    15
+   ],
+   "erase_box": [
+    177,
+    176,
+    32,
+    17
+   ],
+   "text": "Kata",
+   "style": "gris",
+   "cap": 9
+  },
+  {
+   "box": [
+    178,
+    195,
+    30,
+    18
+   ],
+   "erase_box": [
+    177,
+    194,
+    32,
+    20
+   ],
+   "text": "Hira",
+   "style": "gris",
+   "cap": 9
+  },
+  {
+   "box": [
+    211,
+    167,
+    34,
+    18
+   ],
+   "erase_box": [
+    210,
+    166,
+    36,
+    20
+   ],
+   "text": "Kata",
+   "style": "cian",
+   "cap": 9
+  },
+  {
+   "box": [
+    211,
+    188,
+    34,
+    19
+   ],
+   "erase_box": [
+    210,
+    187,
+    36,
+    21
+   ],
+   "text": "Hira",
+   "style": "cian",
+   "cap": 9
+  },
+  {
+   "box": [
+    211,
+    121,
+    44,
+    20
+   ],
+   "erase_box": [
+    210,
+    120,
+    46,
+    22
+   ],
+   "text": "Big/Sm",
+   "cap": 9,
+   "style": "gris",
+   "stroke_w": 1.0,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 1,
+    "color": "#000000",
+    "opacity": 0.4
+   }
+  }
+ ]
+}

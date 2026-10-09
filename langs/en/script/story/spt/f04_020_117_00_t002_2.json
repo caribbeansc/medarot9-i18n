@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f04_020_117_00_t002_2.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1035,
+   "src": "4168d0b9b588",
+   "t": "It's gotta be marine sports! Beginners\nare"
+  },
+  {
+   "i": 1038,
+   "src": "d66a39623f76",
+   "t": "welcome, and our president's nice, too--"
+  },
+  {
+   "i": 1045,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1051,
+   "src": "78235ccaf6d5",
+   "t": "The {{gardening_club}}!"
+  },
+  {
+   "i": 1058,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1064,
+   "src": "42a72916b905",
+   "t": "The Fishing {{club|cap}} is great too~."
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "rel": "mdr/tex/bt_arl_cam.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    34,
+    8,
+    140,
+    24
+   ],
+   "erase": "hfill",
+   "text": "Camara AR",
+   "font": "sf-rounded-heavy",
+   "cap": 12.5,
+   "fill": "#FFFFFF",
+   "align": "center",
+   "valign": "middle",
+   "pad": 0,
+   "stroke": "#000000B0",
+   "stroke_w": 1.2,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 2,
+    "color": "#000000",
+    "opacity": 0.6
+   }
+  },
+  {
+   "box": [
+    34,
+    48,
+    140,
+    24
+   ],
+   "erase": "hfill",
+   "text": "Camara AR",
+   "font": "sf-rounded-heavy",
+   "cap": 12.5,
+   "fill": "#FFFFFF",
+   "align": "center",
+   "valign": "middle",
+   "pad": 0,
+   "stroke": "#4A4A4A",
+   "stroke_w": 1.2,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 2,
+    "color": "#303030",
+    "opacity": 0.5
+   }
+  },
+  {
+   "box": [
+    0,
+    80,
+    216,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    20,
+    90,
+    170,
+    18
+   ],
+   "erase": "none",
+   "text": "Elige un menu",
+   "font": "sf",
+   "wght": 600,
+   "cap": 10,
+   "fill": "#FBFCFC",
+   "stroke": null,
+   "align": "center",
+   "valign": "middle",
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 3,
+    "color": "#FFFFFF",
+    "opacity": 0.8
+   }
+  }
+ ]
+}

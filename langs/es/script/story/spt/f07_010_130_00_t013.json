@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f07_010_130_00_t013.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1133,
+   "src": "db1a00b2c9f8",
+   "t": "En ausencia del {{principal}}, yo, el"
+  },
+  {
+   "i": 1136,
+   "src": "ee7551baf585",
+   "t": "{{vice_principal}}, fungiré como su sustituto."
+  },
+  {
+   "i": 1144,
+   "src": "8de5a6dec351",
+   "t": "Sigan dedicándose a sus estudios"
+  },
+  {
+   "i": 1147,
+   "src": "14e47ed9ed45",
+   "t": "con esmero, como de costumbre."
+  },
+  {
+   "i": 1155,
+   "src": "17b59878fb45",
+   "t": "Y oremos todos por la pronta"
+  },
+  {
+   "i": 1158,
+   "src": "860152d22de1",
+   "t": "recuperación del director. Eso es todo."
+  },
+  {
+   "i": 1174,
+   "src": "5081eec42a79",
+   "t": "*Murmullos*..."
+  },
+  {
+   "i": 1185,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1196,
+   "src": "9d93e4f445d5",
+   "t": "Bien, entonces a continuación--"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_3f_163_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1035,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1043,
+   "src": "9a9720a42fbd",
+   "t": "Después de todo..."
+  },
+  {
+   "i": 1051,
+   "src": "e901b1fe0b90",
+   "t": "Pero..."
+  }
+ ]
+}

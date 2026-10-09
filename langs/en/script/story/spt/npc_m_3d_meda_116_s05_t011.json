@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d_meda_116_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dc985d3d3adc",
+   "t": "RedMatador"
+  },
+  {
+   "i": 1035,
+   "src": "7cd14ff83583",
+   "t": "Hey, hey, exams are coming up, right?"
+  },
+  {
+   "i": 1038,
+   "src": "c83c750e40b0",
+   "t": "Let's go home and study. I'll help."
+  },
+  {
+   "i": 1046,
+   "src": "d5b58de15d8f",
+   "t": "Also, no reading in the store."
+  },
+  {
+   "i": 1049,
+   "src": "3be405625752",
+   "t": "Let's go before we get yelled at, come\non."
+  }
+ ]
+}

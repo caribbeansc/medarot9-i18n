@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_m_1b_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "ff3b9b165a06",
+   "t": "Ah,"
+  },
+  {
+   "i": 1042,
+   "src": "0fdddc814c39",
+   "t": "..."
+  },
+  {
+   "i": 1050,
+   "src": "e794af3e30ab",
+   "t": "forget what happened just now."
+  },
+  {
+   "i": 1053,
+   "src": "5b4484634965",
+   "t": "I'll forget it too. "
+  },
+  {
+   "i": 1061,
+   "src": "eb159da97828",
+   "t": "She's just a flower on a high peak, after\nall."
+  },
+  {
+   "i": 1064,
+   "src": "0be30a8363f2",
+   "t": "...Haha."
+  },
+  {
+   "i": 1072,
+   "src": "1fbf161ea63f",
+   "t": "Huh, what am I talking about?"
+  },
+  {
+   "i": 1075,
+   "src": "b9fbca55f2c2",
+   "t": "Thanks, you're a better guy than I\nthought."
+  },
+  {
+   "i": 1083,
+   "src": "db18e50fd3ad",
+   "t": "Let's play games again."
+  },
+  {
+   "i": 1086,
+   "src": "72aa50349766",
+   "t": "How about tonight?"
+  }
+ ]
+}

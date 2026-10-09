@@ -1,0 +1,151 @@
+{
+ "rel": "mdr/tex/cp1_txt_b.ctpk",
+ "base": "jp",
+ "styles": {
+  "verde": {
+   "font": "impact",
+   "italic_skew": 0.3,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#7DFFA0"
+     ],
+     [
+      0.12,
+      "#5BE58A"
+     ],
+     [
+      0.32,
+      "#2EB868"
+     ],
+     [
+      0.46,
+      "#0B7A3A"
+     ],
+     [
+      0.5,
+      "#08642F"
+     ],
+     [
+      0.62,
+      "#18A458"
+     ],
+     [
+      0.82,
+      "#2CE78A"
+     ],
+     [
+      1,
+      "#58FFB6"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#6AFFD9",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#02A023",
+    "blur": 3.5,
+    "opacity": 0.85
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    230,
+    86
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    230,
+    0,
+    282,
+    80
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    86,
+    196,
+    54
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    196,
+    84,
+    160,
+    58
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "verde",
+   "box": [
+    8,
+    6,
+    214,
+    72
+   ],
+   "erase": "none",
+   "text": "VICTORIA",
+   "cap": 50
+  },
+  {
+   "style": "verde",
+   "box": [
+    236,
+    6,
+    262,
+    68
+   ],
+   "erase": "none",
+   "text": "A LUCHAR!",
+   "cap": 50
+  },
+  {
+   "style": "verde",
+   "box": [
+    8,
+    88,
+    182,
+    48
+   ],
+   "erase": "none",
+   "text": "EMPATE",
+   "cap": 34
+  },
+  {
+   "style": "verde",
+   "box": [
+    204,
+    88,
+    142,
+    48
+   ],
+   "erase": "none",
+   "text": "DERROTA",
+   "cap": 32
+  }
+ ]
+}

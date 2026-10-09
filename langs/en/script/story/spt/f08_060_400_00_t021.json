@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f08_060_400_00_t021.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1044,
+   "src": "db966eed478f",
+   "t": "Shall we head back?"
+  },
+  {
+   "i": 1052,
+   "src": "5966e8cfae01",
+   "t": "Either way, it's too deep to dig"
+  },
+  {
+   "i": 1055,
+   "src": "07ac9e52d754",
+   "t": "from here and get anywhere."
+  },
+  {
+   "i": 1072,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1078,
+   "src": "9d955461d0f8",
+   "t": "Yeah... Even if we could dig it out,"
+  },
+  {
+   "i": 1081,
+   "src": "003d391e7773",
+   "t": "it wouldn't be from here."
+  },
+  {
+   "i": 1099,
+   "src": "6f691824900b",
+   "t": "The mine..."
+  },
+  {
+   "i": 1115,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1123,
+   "src": "5780ed0e379e",
+   "t": "What's wrong?"
+  },
+  {
+   "i": 1141,
+   "src": "66ca9d0e95a3",
+   "t": "N-nothing, it's nothing..."
+  },
+  {
+   "i": 1144,
+   "src": "e0fc361ae0c5",
+   "t": "Let's go!"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f06_250_000_10_t024.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "4fb2333a49ae",
+   "t": "Mine's dead too."
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "1780e22cbbdc",
+   "t": "Mine too."
+  },
+  {
+   "i": 1067,
+   "src": "0cd1f868709e",
+   "t": "So it's not a problem with the terminal."
+  },
+  {
+   "i": 1074,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1080,
+   "src": "587518671a46",
+   "t": "Only the detection system is down."
+  },
+  {
+   "i": 1083,
+   "src": "feb5e64a6ece",
+   "t": "It doesn't seem to be the connection."
+  },
+  {
+   "i": 1098,
+   "src": "388a5e53b096",
+   "t": "Maybe the PC..."
+  },
+  {
+   "i": 1103,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1109,
+   "src": "f3d2482969b8",
+   "t": "Let's go back to the {{clubroom}} and\ncheck."
+  }
+ ]
+}

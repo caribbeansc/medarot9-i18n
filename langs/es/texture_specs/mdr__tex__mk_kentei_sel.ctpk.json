@@ -1,0 +1,43 @@
+{
+ "rel": "mdr/tex/mk_kentei_sel.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    3,
+    2,
+    170,
+    28
+   ],
+   "erase": "solid:#000000",
+   "erase_box": [
+    0,
+    0,
+    176,
+    32
+   ],
+   "text": "Elige el examen a realizar",
+   "font": "hiragino",
+   "cap": 9.5,
+   "fill": "#F4FAFA",
+   "align": "center",
+   "pad": 0,
+   "crisp": 0.5,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#707474",
+    "blur": 3,
+    "opacity": 1.0
+   },
+   "strokes": [
+    {
+     "color": "#00000000",
+     "w": 2.5
+    }
+   ],
+   "scale_x": 0.98,
+   "baseline": 16
+  }
+ ]
+}

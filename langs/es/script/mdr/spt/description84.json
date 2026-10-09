@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description84.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "604cf86515ee",
+   "t": "{{power_style}} (est.)"
+  },
+  {
+   "i": 11,
+   "src": "99e52c5d57dc",
+   "t": "<c:ffff00>{{robattle_style|cap}}<c> que prioriza el poder\ndestructivo.\n\n<c:ffff00>{{stats|cap}}<c> que sube:\n  <c:ffff00>{{power}}<c> +15\n\n{{condition_rotation|cap}} de subida de la <c:ffff00>{{charge_gauge}}<c>:\n+1% por cada 20 de <c:ffff00>{{damage}}<c> infligido al <c:ffff00>atacar<c>."
+  }
+ ]
+}

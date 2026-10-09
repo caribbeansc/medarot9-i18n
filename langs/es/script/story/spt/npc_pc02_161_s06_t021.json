@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s06_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "f168d4f6a4af",
+   "t": "Ya no doy más~ qué calor~. Con eso"
+  },
+  {
+   "i": 1038,
+   "src": "01fb3e90cb54",
+   "t": "basta, ¿no? Dejémoslo por hoy~."
+  }
+ ]
+}

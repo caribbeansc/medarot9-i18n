@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_mc_meda_132_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "979edb0773e8",
+   "t": "{{dr_bokchoy}} "
+  },
+  {
+   "i": 1038,
+   "src": "f84091f01994",
+   "t": "It's been a while since I've been in the\ngym."
+  },
+  {
+   "i": 1041,
+   "src": "2f0c7ea01605",
+   "t": "It's always the staff room, {{classroom}},\nschool store, and--"
+  },
+  {
+   "i": 1059,
+   "src": "c9d44057930c",
+   "t": "Basically I just go around in circles in\nthe same places."
+  },
+  {
+   "i": 1062,
+   "src": "17f068b94453",
+   "t": "{{master}} is such a lazybones, seriously!"
+  }
+ ]
+}

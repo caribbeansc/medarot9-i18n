@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "37e4fd11cfbc",
+   "t": "¡No te duermas, {{mio}}!"
+  },
+  {
+   "i": 1038,
+   "src": "ff3fc36460da",
+   "t": "Oye, la presidenta está mirando, ¿ves?"
+  }
+ ]
+}

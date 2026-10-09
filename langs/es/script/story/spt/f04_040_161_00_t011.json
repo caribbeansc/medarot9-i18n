@@ -1,0 +1,230 @@
+{
+ "file": "story/spt/f04_040_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "c0cf70cf166c",
+   "t": "Vaya, "
+  },
+  {
+   "i": 1047,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1050,
+   "src": "5780ed0e379e",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1058,
+   "src": "ab8f4de6addd",
+   "t": "¿Ya encontraste a un genio?"
+  },
+  {
+   "i": 1073,
+   "src": "9e5531e6424c",
+   "t": "No, no es eso."
+  },
+  {
+   "i": 1081,
+   "src": "bc63d1098d4d",
+   "t": "Es sobre el {{robattle_tournament}}."
+  },
+  {
+   "i": 1094,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1102,
+   "src": "28ba39d22582",
+   "t": "Ah, cierto."
+  },
+  {
+   "i": 1105,
+   "src": "63cebe6be872",
+   "t": "¿Es hoy?"
+  },
+  {
+   "i": 1120,
+   "src": "d0e20aaa21ed",
+   "t": "Entonces vamos."
+  },
+  {
+   "i": 1130,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1139,
+   "src": "62e567dc6279",
+   "t": "Espera un momento."
+  },
+  {
+   "i": 1149,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1158,
+   "src": "ddc112465323",
+   "t": "¿Qué pasa, {{mio}}-kun?"
+  },
+  {
+   "i": 1165,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1174,
+   "src": "a49427817a90",
+   "t": "Es un torneo grande, ¿no?"
+  },
+  {
+   "i": 1177,
+   "src": "ff93844206ef",
+   "t": "¿No quieres decir nada antes?"
+  },
+  {
+   "i": 1184,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1193,
+   "src": "f63253d07b71",
+   "t": "¿Algo que debería mencionar?"
+  },
+  {
+   "i": 1196,
+   "src": "71327faf407d",
+   "t": "¿Por ejemplo?"
+  },
+  {
+   "i": 1203,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1212,
+   "src": "e3d98ad4a401",
+   "t": "¿Una estrategia o algo así?"
+  },
+  {
+   "i": 1215,
+   "src": "8d017caa691a",
+   "t": "¡...O quizá una meta!"
+  },
+  {
+   "i": 1230,
+   "src": "48ba982b4754",
+   "t": "Debe haber algo, ¿no?"
+  },
+  {
+   "i": 1233,
+   "src": "b0d9d6fbc80a",
+   "t": "¿Nada de nada?"
+  },
+  {
+   "i": 1240,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1249,
+   "src": "b0a923432f46",
+   "t": "Mmm... Entonces la meta es..."
+  },
+  {
+   "i": 1264,
+   "src": "01243a2e0806",
+   "t": "{{win_the_championship|cap}}."
+  },
+  {
+   "i": 1281,
+   "src": "2abf3c547532",
+   "t": "¿¡Ga-ganar!?"
+  },
+  {
+   "i": 1293,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1302,
+   "src": "acc402452664",
+   "t": "Lo dice tan a la ligera..."
+  },
+  {
+   "i": 1309,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1318,
+   "src": "1520d6344c5d",
+   "t": "Ay, vaya. En realidad"
+  },
+  {
+   "i": 1321,
+   "src": "2478da08a9f4",
+   "t": "la presidenta me intimidó otra vez."
+  },
+  {
+   "i": 1329,
+   "src": "9a29340f8b76",
+   "t": "'Ya casi toca evaluar los clubes,'"
+  },
+  {
+   "i": 1332,
+   "src": "40920a75f50c",
+   "t": "'¡lo sabes, verdad, idiota!'"
+  },
+  {
+   "i": 1340,
+   "src": "1ec5e7883213",
+   "t": "Eso fue lo que dijo."
+  },
+  {
+   "i": 1348,
+   "src": "910fb10c2f7e",
+   "t": "Así que si ganamos el campeonato,"
+  },
+  {
+   "i": 1351,
+   "src": "5bc1f4d95fe9",
+   "t": "podríamos zafarnos un buen rato."
+  },
+  {
+   "i": 1358,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1367,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1370,
+   "src": "0785017da01d",
+   "t": "Te estoy preguntando en serio."
+  },
+  {
+   "i": 1377,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1386,
+   "src": "ea27bf08b2aa",
+   "t": "...No."
+  }
+ ]
+}

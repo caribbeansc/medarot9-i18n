@@ -1,0 +1,286 @@
+{
+ "rel": "mdr/tex/bt_list_sel.ctpk",
+ "base": "jp",
+ "styles": {
+  "tab": {
+   "erase": "none",
+   "font": "sf-rounded-heavy",
+   "fill": "#FFFFFF",
+   "stroke": "#00000036",
+   "stroke_w": 2,
+   "align": "center",
+   "valign": "middle",
+   "pad": [
+    2,
+    0,
+    2,
+    0
+   ]
+  },
+  "guia": {
+   "erase": "none",
+   "font": "sf-rounded",
+   "fill": "#FFFFFF",
+   "stroke": "#CAD0D040",
+   "stroke_w": 1.5,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#CAD0D0",
+    "blur": 2.5,
+    "opacity": 0.9
+   },
+   "align": "center",
+   "valign": "middle",
+   "pad": [
+    3,
+    0,
+    3,
+    0
+   ]
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    256,
+    228
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "tab",
+   "box": [
+    3,
+    1,
+    118,
+    20
+   ],
+   "text": "Album de fotos",
+   "cap": 10
+  },
+  {
+   "style": "tab",
+   "box": [
+    123,
+    1,
+    56,
+    20
+   ],
+   "text": "Medalla",
+   "cap": 9.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    182,
+    2,
+    44,
+    20
+   ],
+   "text": "Otros",
+   "cap": 10
+  },
+  {
+   "style": "tab",
+   "box": [
+    3,
+    26,
+    58,
+    15
+   ],
+   "text": "Piernas",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    59,
+    26,
+    50,
+    15
+   ],
+   "text": "Cabeza",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    109,
+    26,
+    54,
+    15
+   ],
+   "text": "Medaria",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    168,
+    26,
+    86,
+    15
+   ],
+   "text": "Set de piezas",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    2,
+    47,
+    42,
+    15
+   ],
+   "text": "Piezas",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    47,
+    47,
+    50,
+    15
+   ],
+   "text": "Medalla",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    97,
+    47,
+    42,
+    15
+   ],
+   "text": "Set",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    142,
+    47,
+    46,
+    15
+   ],
+   "text": "Br. izq.",
+   "cap": 8
+  },
+  {
+   "style": "tab",
+   "box": [
+    190,
+    47,
+    46,
+    15
+   ],
+   "text": "Br. der.",
+   "cap": 8
+  },
+  {
+   "style": "guia",
+   "box": [
+    4,
+    65,
+    160,
+    24
+   ],
+   "text": "Elige un album",
+   "cap": 9
+  },
+  {
+   "style": "tab",
+   "box": [
+    166,
+    71,
+    66,
+    22
+   ],
+   "text": "Comprar",
+   "cap": 10
+  },
+  {
+   "style": "guia",
+   "box": [
+    4,
+    93,
+    148,
+    22
+   ],
+   "text": "Elige una pieza",
+   "cap": 9
+  },
+  {
+   "style": "tab",
+   "box": [
+    158,
+    94,
+    88,
+    22
+   ],
+   "text": "Medabot",
+   "cap": 11
+  },
+  {
+   "style": "guia",
+   "box": [
+    4,
+    120,
+    172,
+    17
+   ],
+   "text": "Elige el tipo de articulo",
+   "cap": 9
+  },
+  {
+   "style": "guia",
+   "box": [
+    4,
+    147,
+    172,
+    17
+   ],
+   "text": "Elige el tipo de premio",
+   "cap": 9
+  },
+  {
+   "style": "tab",
+   "box": [
+    0,
+    172,
+    105,
+    25
+   ],
+   "text": "Consumibles",
+   "cap": 11
+  },
+  {
+   "style": "tab",
+   "box": [
+    106,
+    174,
+    108,
+    24
+   ],
+   "text": "Importantes",
+   "cap": 11
+  },
+  {
+   "style": "guia",
+   "box": [
+    6,
+    200,
+    196,
+    22
+   ],
+   "text": "Elige el tipo de objeto",
+   "cap": 9
+  }
+ ]
+}

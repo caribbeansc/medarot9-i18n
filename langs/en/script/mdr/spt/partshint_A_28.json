@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_28.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "3c65f74ed357",
+   "t": "<c:00ff00>{{mf}}:<c> High {{mobility}}\nGreatly raises the {{mobility}}\nstat of your whole team.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

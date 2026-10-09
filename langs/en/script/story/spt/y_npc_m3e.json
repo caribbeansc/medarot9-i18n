@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3e.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1653,
+   "src": "deb8f21c4006",
+   "t": "{{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "2a9e7762be19",
+   "t": "Well, I don't mind, but..."
+  }
+ ]
+}

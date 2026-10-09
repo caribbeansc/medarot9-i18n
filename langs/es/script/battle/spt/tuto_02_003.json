@@ -1,0 +1,45 @@
+{
+ "file": "battle/spt/tuto_02_003.spt",
+ "lines": [
+  {
+   "i": 1098,
+   "src": "ca7d9e980504",
+   "t": "Tsk, las trampas de {{shooting}} molestan...\nOye, usemos la <c:ff00ff>{{medaforce}}<c>!"
+  },
+  {
+   "i": 1107,
+   "src": "61b56163de21",
+   "t": "Mm, son más y sus misiles no fallan...\n¡Oye, acabemos esto con la <c:ff00ff>{{medaforce}}<c>!                  "
+  },
+  {
+   "i": 1116,
+   "src": "965a1be465f9",
+   "t": "¿¿¿{{medaforce}}{{term}}"
+  },
+  {
+   "i": 1129,
+   "src": "dba5f3794f20",
+   "t": "¡Te explico los detalles después!"
+  },
+  {
+   "i": 1138,
+   "src": "6c8d891a0b89",
+   "t": "Te explicaré los detalles después."
+  },
+  {
+   "i": 1152,
+   "src": "b25d47ac71fb",
+   "t": "¡En fin, carga la fuerza y llena\nla {{charge_gauge}} al 100%!   "
+  },
+  {
+   "i": 1161,
+   "src": "586732421a82",
+   "t": "En fin, carga la fuerza y llena\nla {{charge_gauge}} al 100%.    "
+  },
+  {
+   "i": 1170,
+   "src": "1c32c5889815",
+   "t": "¡E-entendido!"
+  }
+ ]
+}

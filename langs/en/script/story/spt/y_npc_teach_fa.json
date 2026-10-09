@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_fa.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1653,
+   "src": "588f720ea8d1",
+   "t": "My, with me?"
+  },
+  {
+   "i": 1656,
+   "src": "d173ba9c53f0",
+   "t": "Of course, come at me!"
+  }
+ ]
+}

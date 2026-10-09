@@ -1,0 +1,230 @@
+{
+ "file": "story/spt/f06_270_600_10_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "6b5fba00e7ba",
+   "t": "Look, it's starting."
+  },
+  {
+   "i": 1052,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1063,
+   "src": "26aa1ea6ca98",
+   "t": "Oh... that's pretty impressive."
+  },
+  {
+   "i": 1070,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1079,
+   "src": "2c8c34da07e2",
+   "t": "Hey, those are proper fireworks."
+  },
+  {
+   "i": 1082,
+   "src": "b207a6e4e283",
+   "t": "They really put on a show."
+  },
+  {
+   "i": 1089,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1098,
+   "src": "05a3600abee2",
+   "t": "Tama~yaaa~!"
+  },
+  {
+   "i": 1105,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1111,
+   "src": "1afa4ff20d83",
+   "t": "Huh? What's that?"
+  },
+  {
+   "i": 1114,
+   "src": "343341793cde",
+   "t": "Some kind of spell?"
+  },
+  {
+   "i": 1121,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1127,
+   "src": "95946d9b5495",
+   "t": "It's the trade name of a famous old\nfireworks maker."
+  },
+  {
+   "i": 1130,
+   "src": "0f4983696fa3",
+   "t": "My grandpa taught me to shout it at\nfireworks."
+  },
+  {
+   "i": 1140,
+   "src": "79e1be719219",
+   "t": "Kaaa~giyaaa~!"
+  },
+  {
+   "i": 1165,
+   "src": "a6610e2cbc5e",
+   "t": "Summer vacation's over already..."
+  },
+  {
+   "i": 1170,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1176,
+   "src": "5f2fe648ef48",
+   "t": "It went by in a flash."
+  },
+  {
+   "i": 1186,
+   "src": "ed8f8ffd12a8",
+   "t": "I wonder if the {{principal|cap}} will forgive us."
+  },
+  {
+   "i": 1191,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1197,
+   "src": "1810714beb75",
+   "t": "Who knows."
+  },
+  {
+   "i": 1200,
+   "src": "7c9613d256af",
+   "t": "All we can do is pray to the stars."
+  },
+  {
+   "i": 1207,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1216,
+   "src": "86aa88a3bc2b",
+   "t": "Shouldn't it be the Vice-Principal\nrather than the stars?"
+  },
+  {
+   "i": 1223,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1232,
+   "src": "9a03aa5cb19e",
+   "t": "Right."
+  },
+  {
+   "i": 1239,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1245,
+   "src": "ce77b8427ecd",
+   "t": "Anyway, it was a great summer."
+  },
+  {
+   "i": 1248,
+   "src": "d51d32eab970",
+   "t": "Thrills and achievements. Totally\nsatisfied."
+  },
+  {
+   "i": 1256,
+   "src": "f7214806018a",
+   "t": "From next semester, I'm not doing a\nthing."
+  },
+  {
+   "i": 1266,
+   "src": "0be30a8363f2",
+   "t": "...Haha."
+  },
+  {
+   "i": 1271,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1277,
+   "src": "69ab48ff36ca",
+   "t": "That's a relief to hear."
+  },
+  {
+   "i": 1280,
+   "src": "22f4b6c41a2d",
+   "t": "Lately you've been acting like a\ndifferent person."
+  },
+  {
+   "i": 1287,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1293,
+   "src": "c68aa3e88303",
+   "t": "Yeah. I felt really off inside too."
+  },
+  {
+   "i": 1296,
+   "src": "d0b4aebe7ecd",
+   "t": "It felt wrong somehow."
+  },
+  {
+   "i": 1304,
+   "src": "c6a5c9e7992e",
+   "t": "I overdid it."
+  },
+  {
+   "i": 1307,
+   "src": "b7626af4f5fd",
+   "t": "The {{club}} closure, the big adventure over\nthe detector..."
+  },
+  {
+   "i": 1315,
+   "src": "60a295d0a575",
+   "t": "Come to think of it... "
+  },
+  {
+   "i": 1317,
+   "src": "dd058b089d29",
+   "t": "-kun, it all"
+  },
+  {
+   "i": 1320,
+   "src": "7b4c58ec1a54",
+   "t": "started around when you showed up."
+  },
+  {
+   "i": 1328,
+   "src": "08d4600b399e",
+   "t": "W-what, all of a sudden?"
+  },
+  {
+   "i": 1331,
+   "src": "352efe3612f7",
+   "t": "Are you saying it's my fault!?"
+  }
+ ]
+}

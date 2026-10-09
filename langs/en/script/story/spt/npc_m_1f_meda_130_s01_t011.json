@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_1f_meda_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "a27d6ad071f0",
+   "t": "{{attack_tyranno}}"
+  },
+  {
+   "i": 1035,
+   "src": "49d6723f2d1b",
+   "t": "Uwoooooooo!"
+  }
+ ]
+}

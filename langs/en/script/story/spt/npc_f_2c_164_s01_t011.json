@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_2c_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1038,
+   "src": "1bf6a2a2db65",
+   "t": "Oh,"
+  },
+  {
+   "i": 1041,
+   "src": "34ad2359aebd",
+   "t": "you're touring the clubs."
+  },
+  {
+   "i": 1049,
+   "src": "ae2038a3f0cb",
+   "t": "That must be tough at this time of year."
+  },
+  {
+   "i": 1052,
+   "src": "d729fef80de8",
+   "t": "The popular clubs must already be full."
+  },
+  {
+   "i": 1060,
+   "src": "95fa55d35241",
+   "t": "...Huh, ours?"
+  },
+  {
+   "i": 1063,
+   "src": "8a45495aeebe",
+   "t": "Of course we're always recruiting,\nahahaha."
+  },
+  {
+   "i": 1071,
+   "src": "24bdfd47510e",
+   "t": "Sigh..."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s06_t015.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "9798491aa342",
+   "t": "{{defeat_achievement|cap}} {{medabot|pl}} salvajes en la playa."
+  },
+  {
+   "i": 1041,
+   "src": "718d0323ae58",
+   "t": "Nada temible, pero son muchos..."
+  }
+ ]
+}

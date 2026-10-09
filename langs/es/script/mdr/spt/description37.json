@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description37.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8921b7125b02",
+   "t": "{{response|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "8ff3ce8d7e32",
+   "t": "Lo que hace el <c:ffff00>{{target}}<c> ante un <c:ffff00>ataque<c>.\nAntes de recibirlo se elige la <c:ffff00>{{part}}<c> que responde: si\npuede <c:ffff00>defender<c>, defiende; si puede <c:ffff00>evadir<c>, intenta\nevadir; si no, <c:ffff00>recibe<c> el ataque tal cual. En <c:ffff00>forma<c>\n<c:ffff00>{{medachange}}<c> se elige {{defend}} o {{evade}} en vez de\nuna {{part}}, es decir, la acción misma.\nSi hay un {{medabot}} en <c:ffff00>{{guard_stance}}<c>, se hace\n<c:ffff00>{{interrupt_guard}}<c>. Si el ataque {{opponent}} es de\n<c:ffff00>puntería<c>, no se puede responder."
+  }
+ ]
+}

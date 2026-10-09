@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f08_070_339_00_t012.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "c5f069424f57",
+   "t": "¡Aaaah!"
+  },
+  {
+   "i": 1058,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1067,
+   "src": "8dea0571f4c4",
+   "t": "¿Q-Qué rayos hacemos ahora?"
+  },
+  {
+   "i": 1074,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1083,
+   "src": "7e682281fc62",
+   "t": "Veamos si hay otro camino de regreso."
+  }
+ ]
+}

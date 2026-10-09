@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f2_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "39f12f1955b9",
+   "t": "{{momotaro}}"
+  },
+  {
+   "i": 1035,
+   "src": "e7723c2a77ed",
+   "t": "What's wrong!"
+  },
+  {
+   "i": 1038,
+   "src": "94afb955915f",
+   "t": "Come at me! Come on!"
+  }
+ ]
+}

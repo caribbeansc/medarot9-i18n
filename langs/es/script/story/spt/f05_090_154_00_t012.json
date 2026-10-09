@@ -1,0 +1,185 @@
+{
+ "file": "story/spt/f05_090_154_00_t012.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1047,
+   "src": "d1809f2760b5",
+   "t": "Hacen mucho ruido y me distraen."
+  },
+  {
+   "i": 1065,
+   "src": "d53d7a8e173b",
+   "t": "¡Por favor guarden silencio!"
+  },
+  {
+   "i": 1072,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1078,
+   "src": "7498d1e46398",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1089,
+   "src": "c8a2b39f704f",
+   "t": "¿Crees que puedes decir eso?"
+  },
+  {
+   "i": 1092,
+   "src": "422ffc43d986",
+   "t": "Tras poner esa trampa, mira que..."
+  },
+  {
+   "i": 1099,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1108,
+   "src": "abd28222a226",
+   "t": "Calma, calma, {{mio}}-kun, tranquilízate."
+  },
+  {
+   "i": 1111,
+   "src": "306658d6200c",
+   "t": "Más importante, a ver, este..."
+  },
+  {
+   "i": 1122,
+   "src": "9868dfe05bd8",
+   "t": "Tú eres {{main}}-chan, ¿verdad?"
+  },
+  {
+   "i": 1139,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1148,
+   "src": "4fdb21beed09",
+   "t": "Sí, soy {{main}}. Tú eres el presidente"
+  },
+  {
+   "i": 1151,
+   "src": "00edd2bd7858",
+   "t": "del {{exploration_club}}, ¿no?"
+  },
+  {
+   "i": 1158,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1167,
+   "src": "5e7b2a36f09f",
+   "t": "Así que me conoces."
+  },
+  {
+   "i": 1174,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1183,
+   "src": "eccb61f5632c",
+   "t": "Peleamos en la segunda ronda\ndel torneo."
+  },
+  {
+   "i": 1190,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1199,
+   "src": "cbd56345b8e5",
+   "t": "¿Segunda ronda? ¿Contra quién fue?"
+  },
+  {
+   "i": 1202,
+   "src": "62f0ddd2b252",
+   "t": "Ah... el Club Medabot, ya veo."
+  },
+  {
+   "i": 1209,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1218,
+   "src": "29ea8facacf3",
+   "t": "¿Por qué viniste aquí?"
+  },
+  {
+   "i": 1221,
+   "src": "040d1cfc29ce",
+   "t": "¿Notaste las {{part|pl}} que faltan?"
+  },
+  {
+   "i": 1235,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1244,
+   "src": "d380e91a0a50",
+   "t": "Correcto."
+  },
+  {
+   "i": 1251,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1260,
+   "src": "a178faed932c",
+   "t": "Solo las tomé prestadas un momento."
+  },
+  {
+   "i": 1263,
+   "src": "75b6209b6b63",
+   "t": "Las devolveré pronto."
+  },
+  {
+   "i": 1270,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1279,
+   "src": "c859d70fac92",
+   "t": "¿Por qué hiciste algo así?"
+  },
+  {
+   "i": 1286,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1295,
+   "src": "6138fbbb4600",
+   "t": "En el combate fallé mis predicciones."
+  },
+  {
+   "i": 1298,
+   "src": "452a37e06f18",
+   "t": "Las tomé prestadas por saber por qué."
+  },
+  {
+   "i": 1313,
+   "src": "dc651fed5869",
+   "t": "Pero al final no logré descubrir nada."
+  },
+  {
+   "i": 1316,
+   "src": "ac01573b54a7",
+   "t": "No había diferencias en las {{part|pl}}."
+  }
+ ]
+}

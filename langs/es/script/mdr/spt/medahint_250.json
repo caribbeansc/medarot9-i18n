@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_250.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9bfc6b9f45b8",
+   "t": "Modelo inicial de\n{{medabot}} {{type}} automóvil\nque surca la tierra.\n{{unit|cap}} con {{medachange}}\nexperimental para\nayudar al {{medafighter}}\na moverse. Forma de\nmarcha: \"Land GTZ\"\n(nombre en clave)."
+  }
+ ]
+}

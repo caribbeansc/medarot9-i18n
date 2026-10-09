@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_12.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "b47697d2c4df",
+   "t": "<c:00ff00>{{mf}}:<c> Transition\nThe {{terrain}} becomes\n{{forest}} and all {{medabot|pl}}\nreturn to the command\narea.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

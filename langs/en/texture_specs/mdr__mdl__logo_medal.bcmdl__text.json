@@ -1,0 +1,72 @@
+{
+ "rel": "mdr/mdl/logo_medal.bcmdl",
+ "tex": "text",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "sf-heavy",
+  "wdth": 125,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0,
+  "scale_x": 1.0,
+  "strokes": [
+   {
+    "color": "#00000000",
+    "w": 5.5
+   }
+  ],
+  "shadow": {
+   "dx": 0,
+   "dy": 0,
+   "color": "#61FAC7",
+   "blur": 4.2,
+   "opacity": 0.9
+  }
+ },
+ "items": [
+  {
+   "erase_box": [
+    0,
+    0,
+    256,
+    64
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    8,
+    255,
+    20
+   ],
+   "text": "WELCOME TO",
+   "wght": 700,
+   "cap": 7,
+   "baseline": 22,
+   "strokes": [
+    {
+     "color": "#00000000",
+     "w": 4.5
+    }
+   ]
+  },
+  {
+   "box": [
+    0,
+    29,
+    255,
+    26
+   ],
+   "text": "MEDABOT WORLD",
+   "wght": 720,
+   "cap": 15,
+   "baseline": 49,
+   "scale_x": 1.0
+  }
+ ]
+}

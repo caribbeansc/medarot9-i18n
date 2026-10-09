@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f09_220_800_00_t116.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1038,
+   "src": "4b7c8ec36e96",
+   "t": "I see, you're the one from back then..."
+  },
+  {
+   "i": 1047,
+   "src": "74181552cd71",
+   "t": "... what happened?"
+  },
+  {
+   "i": 1055,
+   "src": "a743c2ac2de3",
+   "t": "Uh..."
+  },
+  {
+   "i": 1063,
+   "src": "e33f69768466",
+   "t": "Actually..."
+  },
+  {
+   "i": 1071,
+   "src": "13a07cac6659",
+   "t": "We'd been apart for a while."
+  },
+  {
+   "i": 1074,
+   "src": "fe283f77e629",
+   "t": "We were apart even right before I was\nbrought here..."
+  },
+  {
+   "i": 1079,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1085,
+   "src": "b8a8865047e7",
+   "t": "Why did you take your eyes off him?"
+  },
+  {
+   "i": 1103,
+   "src": "c02a4bf2d905",
+   "t": "A master and {{medabot}}"
+  },
+  {
+   "i": 1106,
+   "src": "cb11fb98bd09",
+   "t": "must act together."
+  },
+  {
+   "i": 1114,
+   "src": "492962f196cc",
+   "t": "If you split up so easily over"
+  },
+  {
+   "i": 1117,
+   "src": "1f0664ab02a9",
+   "t": "some pointless stubborn quarrel--"
+  },
+  {
+   "i": 1125,
+   "src": "71aec54054ab",
+   "t": "you're unfit to be a master."
+  },
+  {
+   "i": 1133,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

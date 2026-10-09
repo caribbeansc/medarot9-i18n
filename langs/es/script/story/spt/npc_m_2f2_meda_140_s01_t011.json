@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2f2_meda_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d2f6527aa504",
+   "t": "Kingpharaoh"
+  },
+  {
+   "i": 1038,
+   "src": "897582c63e9d",
+   "t": "Las artes marciales son geniales,"
+  },
+  {
+   "i": 1041,
+   "src": "9ca21ac73c9b",
+   "t": "pero a veces quiero {{robattle|pl}}."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/npc_kyoto_116_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1043,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1051,
+   "src": "b7e61f14bc60",
+   "t": "¿.........Eh?"
+  },
+  {
+   "i": 1062,
+   "src": "45acbe28e04b",
+   "t": "Hola, eres "
+  },
+  {
+   "i": 1064,
+   "src": "6ad500e18e60",
+   "t": "-kun."
+  },
+  {
+   "i": 1067,
+   "src": "41b72c5f3d9b",
+   "t": "Hola. Qué calor todos los días, ¿no?"
+  },
+  {
+   "i": 1075,
+   "src": "f5f0735ff4d3",
+   "t": "¿Yo? De compras. ¡Imaginé que habría"
+  },
+  {
+   "i": 1078,
+   "src": "1b71a668d718",
+   "t": "muchas cosas nuevas hoy y tenía razón!"
+  },
+  {
+   "i": 1086,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1094,
+   "src": "12b7bf94d8ad",
+   "t": "Pero tengo un pequeño dilema."
+  },
+  {
+   "i": 1097,
+   "src": "2ffa382b50ff",
+   "t": "Hay tantas cosas que no me decido..."
+  },
+  {
+   "i": 1105,
+   "src": "191877b4edfa",
+   "t": "¿Cuál debería comprar? Mmm..."
+  },
+  {
+   "i": 1108,
+   "src": "ee6fc6192b9c",
+   "t": "Ojalá alguien decidiera por mí, mmm..."
+  }
+ ]
+}

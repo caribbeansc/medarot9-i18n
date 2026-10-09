@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3f2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "39f12f1955b9",
+   "t": "{{momotaro}}"
+  },
+  {
+   "i": 1035,
+   "src": "e0ed8ef88159",
+   "t": "Ah, ¿ahora? Ahora, pues..."
+  },
+  {
+   "i": 1038,
+   "src": "3fe077009fcc",
+   "t": "Perdón, ¿lo dejamos para otra vez?"
+  }
+ ]
+}

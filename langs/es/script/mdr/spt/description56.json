@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description56.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "230ce1dbab58",
+   "t": "{{charge_gauge|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "05a60118031f",
+   "t": "Muestra la fuerza acumulada en la <c:ffff00>{{medal}}<c>. Sube al\n<c:ffff00>cargar<c>, al recibir <c:ffff00>{{damage}}<c> y con condiciones especiales\npropias de cada <c:ffff00>{{robattle_style}}<c>.\nAl acumularse, sube cierto <c:ffff00>{{stats}}<c> por <c:ffff00>{{part}}<c>:\n  <c:ffff00>{{fighting|cap}}<c>: <c:ffff00>{{power}}<c>; <c:ffff00>{{shooting|cap}}<c>: <c:ffff00>{{success}}<c>; <c:ffff00>Apoyo<c>/<c:ffff00>Trampa<c>:\n  <c:ffff00>{{cooldown}}<c>; <c:ffff00>Curación<c>/<c:ffff00>Defensa<c>: <c:ffff00>{{prep}}<c>; <c:ffff00>{{legs|cap}}<c>:\n  <c:ffff00>{{mobility}}<c>/<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c>.\nCon 20% o más se puede usar <c:ffff00>{{medachange}}<c>; con\n100%, la <c:ffff00>{{medaforce}}<c>."
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f01_090_167_00_t001.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "54fe05c2711c",
+   "t": "Ah, there you are!"
+  },
+  {
+   "i": 1053,
+   "src": "19799e8590da",
+   "t": "Don't just run off like that, "
+  },
+  {
+   "i": 1055,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1058,
+   "src": "0be4f855cec1",
+   "t": "Now I can't {{join_the_club}}, thanks to you."
+  },
+  {
+   "i": 1082,
+   "src": "895ddf3a68c9",
+   "t": "You couldn't {{join_the_club}}?"
+  },
+  {
+   "i": 1088,
+   "src": "138e743f257f",
+   "t": "You couldn't {{join_the_club}}..."
+  },
+  {
+   "i": 1094,
+   "src": "1b430b4806ad",
+   "t": "Nice going!"
+  },
+  {
+   "i": 1109,
+   "src": "26fb22b2892b",
+   "t": "No, I didn't do anything!"
+  },
+  {
+   "i": 1128,
+   "src": "1f2b4cbd3559",
+   "t": "?...??"
+  },
+  {
+   "i": 1134,
+   "src": "a1cf2657124c",
+   "t": ", d-did you want to join?"
+  },
+  {
+   "i": 1137,
+   "src": "f2dd26ce532c",
+   "t": "Do you like studying?"
+  },
+  {
+   "i": 1145,
+   "src": "acabaee96980",
+   "t": "N-not really, but..."
+  },
+  {
+   "i": 1169,
+   "src": "9f54fef3f1f9",
+   "t": "Then it's good you didn't get in, right?"
+  },
+  {
+   "i": 1172,
+   "src": "3c8ac552d66b",
+   "t": "What's the problem?"
+  },
+  {
+   "i": 1178,
+   "src": "e9fe93cf3a79",
+   "t": "Then it's good you didn't get in, isn't it?"
+  },
+  {
+   "i": 1181,
+   "src": "741579422576",
+   "t": "What are you so worried about?"
+  },
+  {
+   "i": 1197,
+   "src": "4eda78e33c83",
+   "t": "Oh, forget it already."
+  }
+ ]
+}

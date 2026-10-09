@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2a_000_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1038,
+   "src": "ab9a627bcc21",
+   "t": "¡Aaah! ¡Nada como el aire fresco de"
+  },
+  {
+   "i": 1041,
+   "src": "fce2c7171a80",
+   "t": "afuera, no hay nada mejor!"
+  },
+  {
+   "i": 1049,
+   "src": "d2fe3e7cc558",
+   "t": "Aun antes de un {{exam}} no puedes"
+  },
+  {
+   "i": 1052,
+   "src": "0ad6b2017b8c",
+   "t": "encerrarte o se te oxidan las juntas."
+  }
+ ]
+}

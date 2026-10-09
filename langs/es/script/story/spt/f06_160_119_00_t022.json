@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f06_160_119_00_t022.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "3be33764e299",
+   "t": "Qué sorpresa me llevé..."
+  },
+  {
+   "i": 1046,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1055,
+   "src": "3873245d22c5",
+   "t": "Desaparecer sin dejarme decir nada."
+  },
+  {
+   "i": 1058,
+   "src": "504f0603cb46",
+   "t": "¡Esa chica no es nada normal!"
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1077,
+   "src": "2f9bad7090cf",
+   "t": "Y bien, ¿qué vamos a hacer?"
+  },
+  {
+   "i": 1091,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1097,
+   "src": "7a5d2746e482",
+   "t": "Jajaja."
+  },
+  {
+   "i": 1108,
+   "src": "cb98955b0e5d",
+   "t": "Esto no es cosa de risa."
+  },
+  {
+   "i": 1113,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1119,
+   "src": "d7580218aacf",
+   "t": "Así es."
+  },
+  {
+   "i": 1139,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1147,
+   "src": "bd6f8178d5ad",
+   "t": "¿Dónde está {{main}}?"
+  },
+  {
+   "i": 1162,
+   "src": "59dad80fec7d",
+   "t": "¿Eh?"
+  }
+ ]
+}

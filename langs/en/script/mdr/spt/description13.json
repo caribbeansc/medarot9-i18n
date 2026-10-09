@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description13.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ed96e1ae43df",
+   "t": "Model Number"
+  },
+  {
+   "i": 11,
+   "src": "d152b74e3ac8",
+   "t": "A product number assigned to identify the {{type}} of a\n<c:ffff00>{{part}}<c> when it is made. It is assigned based on the\ndesign concept and development version.\n\nAs a rule, {{part|pl}} are developed and designed\ntogether for all 4 <c:ffff00>slots<c>, so there is one {{part}} with the\nsame {{model_number}} for each {{slot}}. A <c:ffff00>{{medabot}}<c> with\nthe full set of those 4 {{part|pl}} of the same model is\ncalled <c:ffff00>{{original|cap}}<c>."
+  }
+ ]
+}

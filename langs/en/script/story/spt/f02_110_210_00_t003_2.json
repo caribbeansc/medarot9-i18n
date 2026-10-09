@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f02_110_210_00_t003_2.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "2caea50ee5d1",
+   "t": "I see, then it's fine."
+  },
+  {
+   "i": 1038,
+   "src": "afe01d3a87dd",
+   "t": "Sorry for rushing you."
+  }
+ ]
+}

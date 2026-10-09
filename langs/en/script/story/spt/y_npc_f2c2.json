@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f2c2.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1653,
+   "src": "6a6b75035164",
+   "t": "Fine, but..."
+  },
+  {
+   "i": 1656,
+   "src": "825221aaf736",
+   "t": "I'm not responsible for whatever\nhappens..."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_136.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0602435273ca",
+   "t": "'NIN00 {{nin_ninja}}'\nmodificado por la Banda\nRubberobo.\n \nEquipa trampas en las\n{{legs_part_slot}} y un sistema de\ncoordinación. Ve a través\nde todo y descubre a los\nninjas rivales."
+  }
+ ]
+}

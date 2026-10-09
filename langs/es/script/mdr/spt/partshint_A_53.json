@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_53.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "7ee612cb5aaf",
+   "t": "<c:00ff00>{{mf}}:<c>{{plant|cap}} Prodigio\nColoca en tu área una\n{{plant}} que {{up}} la {{prep}} y\nrefrigeración.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

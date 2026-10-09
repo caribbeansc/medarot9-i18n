@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2b2f24707d30",
+   "t": "{{medal}}"
+  },
+  {
+   "i": 11,
+   "src": "e9ffb59deb58",
+   "t": "A hexagonal object that serves as the <c:ffff00>{{medabot}}<c>'s\nbrain. With excellent computing ability and a will\nand individuality close to a person's, it could be\ncalled the {{medabot}}'s \"core\".\n\nIt has abilities and traits such as: <c:ffff00>{{rank}}<c>, <c:ffff00>{{medalia_slot}}<c>,\n<c:ffff00>{{medal_level}}<c>, <c:ffff00>{{skill_level}}<c>, <c:ffff00>{{robattle_style}}<c>, <c:ffff00>{{leader_effect}}<c>,\n<c:ffff00>{{charge_type}}<c>, <c:ffff00>{{medaforce}}<c>, <c:ffff00>{{best_skill}}<c> and <c:ffff00>{{best_legs}}<c>."
+  }
+ ]
+}

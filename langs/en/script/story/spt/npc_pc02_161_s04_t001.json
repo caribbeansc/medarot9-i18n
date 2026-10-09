@@ -1,0 +1,130 @@
+{
+ "file": "story/spt/npc_pc02_161_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "4d60e33d6fe8",
+   "t": "Hey, {{mio}}. There's a {{robattle}}\ntournament."
+  },
+  {
+   "i": 1038,
+   "src": "5b10e894d5c9",
+   "t": "I can't wait!"
+  },
+  {
+   "i": 1048,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1054,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1065,
+   "src": "a670749c592b",
+   "t": "Hey"
+  },
+  {
+   "i": 1068,
+   "src": "1102129d6b12",
+   "t": "I have a question..."
+  },
+  {
+   "i": 1079,
+   "src": "504e8bc66809",
+   "t": "W-what?"
+  },
+  {
+   "i": 1084,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1093,
+   "src": "04a14375e99c",
+   "t": "Is the tournament set up in teams\nof three?"
+  },
+  {
+   "i": 1104,
+   "src": "d9cb664f7379",
+   "t": "W-well, I guess so..."
+  },
+  {
+   "i": 1112,
+   "src": "4734c285b58f",
+   "t": "But only for that one match. If"
+  },
+  {
+   "i": 1115,
+   "src": "f6a5edf4825f",
+   "t": "you win, you can pick your team again."
+  },
+  {
+   "i": 1120,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1129,
+   "src": "39eb530f04e8",
+   "t": "If you win--"
+  },
+  {
+   "i": 1132,
+   "src": "0b36ddd2d5a8",
+   "t": "Yeah, the tournament is a knockout."
+  },
+  {
+   "i": 1143,
+   "src": "4a0bc80dff15",
+   "t": "Probably. Official Robattle"
+  },
+  {
+   "i": 1146,
+   "src": "952b8b5bbe44",
+   "t": "tournaments usually are."
+  },
+  {
+   "i": 1151,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1160,
+   "src": "c57f22fd8399",
+   "t": "An official {{robattle_tournament}}...\nhmm, I see."
+  },
+  {
+   "i": 1171,
+   "src": "9677a2192774",
+   "t": "Could it be, {{mio}}"
+  },
+  {
+   "i": 1174,
+   "src": "6c3a4bf5e98f",
+   "t": "entered a {{robattle_tournament}} before?"
+  },
+  {
+   "i": 1179,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1188,
+   "src": "3f9d6ed01ac1",
+   "t": "What of it?"
+  },
+  {
+   "i": 1199,
+   "src": "e5ef07d6dfd8",
+   "t": "N-no."
+  },
+  {
+   "i": 1202,
+   "src": "fff802a63977",
+   "t": "Nothing."
+  }
+ ]
+}

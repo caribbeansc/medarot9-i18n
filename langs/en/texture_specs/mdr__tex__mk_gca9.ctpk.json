@@ -1,0 +1,132 @@
+{
+ "rel": "mdr/tex/mk_gca9.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    299,
+    30
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    300,
+    0,
+    184,
+    27
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    0,
+    295,
+    30
+   ],
+   "erase": "none",
+   "text": "ALL PARTS!",
+   "font": "sf-black-italic",
+   "cap": 21,
+   "pad": 0,
+   "min_scale_x": 0.8,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#449EFF"
+     ],
+     [
+      0.3,
+      "#5CA6FF"
+     ],
+     [
+      0.5,
+      "#8BC6FF"
+     ],
+     [
+      0.72,
+      "#B3E3FF"
+     ],
+     [
+      0.92,
+      "#CAEDFF"
+     ],
+     [
+      1,
+      "#FFFFFF"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#0042FF",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 2.5,
+    "color": "#000000",
+    "opacity": 1
+   },
+   "dy": -1.2
+  },
+  {
+   "box": [
+    301,
+    0,
+    181,
+    27
+   ],
+   "erase": "none",
+   "text": "JACKPOT!",
+   "font": "sf-black-italic",
+   "cap": 17.5,
+   "pad": 0,
+   "min_scale_x": 0.8,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FF8A5E"
+     ],
+     [
+      0.3,
+      "#FFA682"
+     ],
+     [
+      0.55,
+      "#FFC1A1"
+     ],
+     [
+      0.85,
+      "#FFD2B6"
+     ],
+     [
+      1,
+      "#FFE6C8"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#B61500",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 2.5,
+    "color": "#000000",
+    "opacity": 1
+   },
+   "dy": -1
+  }
+ ]
+}

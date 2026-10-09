@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description42.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "39fd73b44075",
+   "t": "{{guard}} Stance"
+  },
+  {
+   "i": 11,
+   "src": "9bc0e3e2848a",
+   "t": "The standby state of an <c:ffff00>{{interrupt_guard}}<c>.\nIn {{guard}} Stance, no other <c:ffff00>act<c> can be performed and\nthe Medabot becomes <c:ffff00>unable to evade<c>.\nThe stance ends and <c:ffff00>{{cooldown}}<c> begins if allies act 4\ntimes or a set time passes.\nDepending on the <c:ffff00>action<c>, the <c:ffff00>attacks<c> that trigger\nthe {{interrupt_guard}} differ. The <c:ffff00>{{acting_part}}<c> of the\nstance is the one that <c:ffff00>defends<c>."
+  }
+ ]
+}

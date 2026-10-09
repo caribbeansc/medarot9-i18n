@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rescue_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "65ba7afe5a3a",
+   "t": "Hmm, the east side of the mountain is a\ncliff..."
+  },
+  {
+   "i": 1038,
+   "src": "2944e7e7f489",
+   "t": "It might be usable for rappelling."
+  },
+  {
+   "i": 1046,
+   "src": "a532f0562d97",
+   "t": "However, the bridge on the way\nconcerns me."
+  },
+  {
+   "i": 1049,
+   "src": "fa1c980b57da",
+   "t": "If it dates from the mining era, its\ndurability is a worry--"
+  },
+  {
+   "i": 1070,
+   "src": "9cb84c5f2af1",
+   "t": "What is it?"
+  },
+  {
+   "i": 1073,
+   "src": "f94a4dd56c67",
+   "t": "I'm busy right now. If it's talk, make it\nlater."
+  }
+ ]
+}

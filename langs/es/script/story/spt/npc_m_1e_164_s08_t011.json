@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1e_164_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "Hola, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "db4e7527a03c",
+   "t": "La {{app}} detectora de {{medalia}} es genial."
+  },
+  {
+   "i": 1051,
+   "src": "6afa93742873",
+   "t": "Los demás del {{club}} también"
+  },
+  {
+   "i": 1054,
+   "src": "6f03c624a755",
+   "t": "buscan como locos, claro."
+  },
+  {
+   "i": 1062,
+   "src": "5da74fea30d4",
+   "t": "Eh, ¿yo? Cuido el lugar."
+  },
+  {
+   "i": 1065,
+   "src": "062474fea539",
+   "t": "No venzo a los {{medabot|pl}} salvajes... jaja."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_155.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3069e0be5da8",
+   "t": "<c:00ff00>Action:<c> {{support_trap}}\nSets a trap that deals\n{{damage}} when it reacts to\nthe {{opponent}}'s\nSupport action. Setting it\nrepeatedly raises its\n{{armor}} and {{damage}}."
+  }
+ ]
+}

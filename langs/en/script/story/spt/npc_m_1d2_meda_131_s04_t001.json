@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1d2_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "eed25e246c29",
+   "t": "{{baroncastle}}"
+  },
+  {
+   "i": 1038,
+   "src": "5c3e035905ce",
+   "t": "I wanna play a match, too."
+  },
+  {
+   "i": 1041,
+   "src": "b70929136c34",
+   "t": "Just watching is so boring."
+  }
+ ]
+}

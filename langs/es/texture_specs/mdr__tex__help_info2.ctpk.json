@@ -1,0 +1,63 @@
+{
+ "rel": "mdr/tex/help_info2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf",
+  "wght": 470,
+  "cap": 9.5,
+  "tracking": 0.4,
+  "fill": {
+   "top": "#FFFFFF",
+   "bottom": "#D6E3E1"
+  },
+  "stroke": null,
+  "pad": 0,
+  "align": "center",
+  "crisp": 0.2,
+  "strokes": [
+   {
+    "color": "#FFFFFF34",
+    "w": 1
+   },
+   {
+    "color": "#FFFFFF24",
+    "w": 1.5
+   },
+   {
+    "color": "#FFFFFF14",
+    "w": 2
+   }
+  ]
+ },
+ "items": [
+  {
+   "segments": [
+    [
+     0,
+     0,
+     128,
+     32,
+     0,
+     0
+    ],
+    [
+     0,
+     32,
+     84,
+     32,
+     128,
+     0
+    ]
+   ],
+   "box": [
+    0,
+    4,
+    212,
+    24
+   ],
+   "baseline": 20,
+   "text": "Elige al Medabot lider"
+  }
+ ]
+}

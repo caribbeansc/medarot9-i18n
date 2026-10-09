@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_25.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "e27866c27e60",
+   "t": "<c:00ff00>{{mf}}:<c>Berserk\n{{up|cap}} tu {{attack_power}}\nhasta el final de la\n{{robattle}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2f_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1038,
+   "src": "d30776aac004",
+   "t": "Hey there."
+  },
+  {
+   "i": 1041,
+   "src": "524715809c40",
+   "t": "Please come to Room 3-B at the\nfestival!"
+  },
+  {
+   "i": 1049,
+   "src": "d46aa39cf609",
+   "t": "We're holding a screening of our new\nfilm."
+  },
+  {
+   "i": 1052,
+   "src": "d3bf18aea537",
+   "t": "It's the best in Film {{club|cap}} history."
+  },
+  {
+   "i": 1060,
+   "src": "84896194052a",
+   "t": "Please, please come see it."
+  },
+  {
+   "i": 1063,
+   "src": "87f7c4927627",
+   "t": "Please do!"
+  }
+ ]
+}

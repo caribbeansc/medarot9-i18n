@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f01_000_110_00_t001.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1051,
+   "src": "2394a7028091",
+   "t": "Bien, ahora el sello aquí."
+  },
+  {
+   "i": 1054,
+   "src": "87d3d220b1ef",
+   "t": "Aquí y aquí... Listo, listo."
+  },
+  {
+   "i": 1062,
+   "src": "dfda983b0dc3",
+   "t": "Con eso se completa el trámite."
+  },
+  {
+   "i": 1065,
+   "src": "9b643dd31627",
+   "t": "Bien, ahora lo siguiente..."
+  }
+ ]
+}

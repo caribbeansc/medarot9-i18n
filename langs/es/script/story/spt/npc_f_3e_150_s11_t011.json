@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3e_150_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "8cd73f900539",
+   "t": "Uf, menos mal"
+  },
+  {
+   "i": 1038,
+   "src": "8aa0099255d9",
+   "t": "que por fin se fueron."
+  },
+  {
+   "i": 1046,
+   "src": "a49c57673d33",
+   "t": "Pero podrían volver a atacar de nuevo,"
+  },
+  {
+   "i": 1049,
+   "src": "572460f941c5",
+   "t": "así que tendré que vigilar."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t026.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "7384a2e31611",
+   "t": "The more similar the traits of the\n{{medalia}} you fuse,"
+  },
+  {
+   "i": 1038,
+   "src": "9768bdfea2e5",
+   "t": "the stronger the result. You know that\nalready, right?"
+  },
+  {
+   "i": 1046,
+   "src": "048e32261dc5",
+   "t": "But the opposite can happen too."
+  },
+  {
+   "i": 1049,
+   "src": "51a8ee73ca71",
+   "t": "For example--"
+  },
+  {
+   "i": 1057,
+   "src": "c276862be233",
+   "t": "If you fuse five {{medalia}} whose color,\nshape, or skills"
+  },
+  {
+   "i": 1060,
+   "src": "e82c3d8f75e3",
+   "t": "all differ from the base {{medalia}},"
+  },
+  {
+   "i": 1068,
+   "src": "1cedb4c169c4",
+   "t": "you can end up with a {{medalia}}"
+  },
+  {
+   "i": 1071,
+   "src": "a143d312ce80",
+   "t": "whose traits have changed from the\nbase."
+  },
+  {
+   "i": 1079,
+   "src": "b6ca03adc0aa",
+   "t": "It's a bit of a gamble to sink valuable\n{{medalia}} into it,"
+  },
+  {
+   "i": 1082,
+   "src": "3167b7c17aea",
+   "t": "but if you've got spares, it's worth a try."
+  },
+  {
+   "i": 1090,
+   "src": "1b40cd3750c6",
+   "t": "Not that I can afford to, though."
+  },
+  {
+   "i": 1093,
+   "src": "0e151e537708",
+   "t": "Ahahaha."
+  }
+ ]
+}

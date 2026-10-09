@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description24.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "01d32bb66498",
+   "t": "{{cooldown|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "8f2a67051dc1",
+   "t": "Tiempo de procesamiento posterior que acompaña a\nla <c:ffff00>acción<c> de una <c:ffff00>técnica<c> o <c:ffff00>Medafuerza<c>, desde que\nse ejecuta hasta la siguiente elección de comando.\n\nSu duración varía según las capacidades de la\n<c:ffff00>{{medal}}<c> y las <c:ffff00>{{part|pl}}<c>."
+  }
+ ]
+}

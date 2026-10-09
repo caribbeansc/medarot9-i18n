@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f07_010_161_10_t021.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1133,
+   "src": "68537c49ea5a",
+   "t": "Ugh, what a pain."
+  },
+  {
+   "i": 1136,
+   "src": "c39260216bc1",
+   "t": "Geez."
+  },
+  {
+   "i": 1146,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1152,
+   "src": "77af09e9b555",
+   "t": "What's wrong?"
+  },
+  {
+   "i": 1155,
+   "src": "ddf5824a8809",
+   "t": "What now?"
+  },
+  {
+   "i": 1165,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1171,
+   "src": "cc3990f10f02",
+   "t": "Yeah, it's just that, somehow--"
+  },
+  {
+   "i": 1189,
+   "src": "6c3a9788cdb0",
+   "t": "Excuse me."
+  }
+ ]
+}

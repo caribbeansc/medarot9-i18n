@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/npc_pc03_161_s02_t012.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "6e00ae98f03b",
+   "t": "By the way, how is it? It's a"
+  },
+  {
+   "i": 1041,
+   "src": "d61fa8cad47d",
+   "t": "pretty spacious, nice room, isn't it?"
+  },
+  {
+   "i": 1049,
+   "src": "b42b79e76622",
+   "t": "It even has a large storage room\nin the basement."
+  },
+  {
+   "i": 1057,
+   "src": "0e0d1f53111b",
+   "t": "Well, rather than a storage room"
+  },
+  {
+   "i": 1060,
+   "src": "71117727402c",
+   "t": "it's more like a dungeon..."
+  },
+  {
+   "i": 1068,
+   "src": "b98f6926372b",
+   "t": "Hey, what is that? Why is there a"
+  },
+  {
+   "i": 1071,
+   "src": "0f8df80ff870",
+   "t": "space like that inside the {{clubroom}}\nbuilding?"
+  },
+  {
+   "i": 1076,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1082,
+   "src": "7a5d2746e482",
+   "t": "Ha ha ha."
+  },
+  {
+   "i": 1085,
+   "src": "b830bf455816",
+   "t": "Mysterious, right?"
+  },
+  {
+   "i": 1093,
+   "src": "f8f00c18209e",
+   "t": "No, this is no laughing matter."
+  },
+  {
+   "i": 1098,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1104,
+   "src": "b0bf650e4169",
+   "t": "Well, I'll explain gradually. For now,"
+  },
+  {
+   "i": 1107,
+   "src": "b24ee437256d",
+   "t": "let's do our best to keep the {{club}} alive."
+  },
+  {
+   "i": 1115,
+   "src": "169ca2527fe6",
+   "t": "*Sigh*"
+  }
+ ]
+}

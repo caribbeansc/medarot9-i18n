@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f04_050_131_20_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "53891052b612",
+   "t": "El torneo seguirá las reglas oficiales y"
+  },
+  {
+   "i": 1038,
+   "src": "afde16924793",
+   "t": "se jugará al mejor de tres encuentros."
+  },
+  {
+   "i": 1046,
+   "src": "c0552f895472",
+   "t": "Primero, ronda uno: ¡el combate inicial!"
+  }
+ ]
+}

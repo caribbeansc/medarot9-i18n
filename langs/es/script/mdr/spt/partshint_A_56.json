@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_56.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "40604e0da60f",
+   "t": "<c:00ff00>{{mf}}:<c>{{trap|cap}} de Ataque\nDestruye las trampas de tu\nárea y coloca una {{trap}}\nde ataque en el área {{opponent}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

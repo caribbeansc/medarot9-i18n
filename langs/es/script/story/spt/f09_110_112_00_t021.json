@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f09_110_112_00_t021.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "dcf10fdcddf3",
+   "t": "Por favor dígame, {{vice_principal|cap}}. ¿Por qué"
+  },
+  {
+   "i": 1004,
+   "src": "41e5be6fbe25",
+   "t": "nos dio permiso para usar la {{app}}?"
+  },
+  {
+   "i": 1012,
+   "src": "e40f1aa94de7",
+   "t": "Aunque el {{principal}} lo prohibió,"
+  },
+  {
+   "i": 1015,
+   "src": "29fb902a718d",
+   "t": "usted dijo que la hiciéramos pública."
+  },
+  {
+   "i": 1023,
+   "src": "493b0021fc8a",
+   "t": "Quizá usted sabía que ellos"
+  },
+  {
+   "i": 1026,
+   "src": "6fabddf10375",
+   "t": "buscaban la {{app}} de {{detect}}--"
+  },
+  {
+   "i": 1034,
+   "src": "381e61bc322a",
+   "t": "No, ¿propuso hacerla pública"
+  },
+  {
+   "i": 1037,
+   "src": "c036983ba1f8",
+   "t": "para que ellos la usaran?"
+  },
+  {
+   "i": 1055,
+   "src": "4d255cbaa831",
+   "t": "Por favor dígame."
+  },
+  {
+   "i": 1058,
+   "src": "6a00a1aaa01a",
+   "t": "¿Qué pasa en esta isla ahora?"
+  },
+  {
+   "i": 1066,
+   "src": "d8b5cde19efc",
+   "t": "{{rubberobo_gang}}, usted y el {{conglomerate}},"
+  },
+  {
+   "i": 1069,
+   "src": "35ceda471eed",
+   "t": "¿qué quieren hacer abriendo la {{mine}}?"
+  },
+  {
+   "i": 1077,
+   "src": "65162bebe664",
+   "t": "¿El {{principal}} sabe\nde todo esto?"
+  },
+  {
+   "i": 1085,
+   "src": "b32b5209ad75",
+   "t": "¿Qué hace el {{principal}} ahora mismo?"
+  },
+  {
+   "i": 1088,
+   "src": "9af757b6bc55",
+   "t": "Dice que está enfermo, pero..."
+  }
+ ]
+}

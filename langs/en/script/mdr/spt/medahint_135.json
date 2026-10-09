@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_135.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9db0d601d865",
+   "t": "'UNI02 {{legend_horn}}'\ntuned for the Select\nCorps.\n \nBoth arms are now\nfighting {{part|pl}},\ncustomized to prioritize\n{{armor}} and {{fighting}}\n{{stats}}."
+  }
+ ]
+}

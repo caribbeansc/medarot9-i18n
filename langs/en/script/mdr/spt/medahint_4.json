@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "df51508cbc1e",
+   "t": "Bat-{{type}} {{medabot}}\nexpert at anti-air attacks.\n \nEmits ultrasound from its\nhead and senses its\nsurroundings by the echo\nto\ndodge enemy attacks."
+  }
+ ]
+}

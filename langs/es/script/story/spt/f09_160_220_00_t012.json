@@ -1,0 +1,255 @@
+{
+ "file": "story/spt/f09_160_220_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "5f91ae9c3634",
+   "t": "...Oh."
+  },
+  {
+   "i": 1040,
+   "src": "e4433fbab24e",
+   "t": "Las {{old_mine_cart_station}}."
+  },
+  {
+   "i": 1043,
+   "src": "a31ff77e3387",
+   "t": "Así que después de todo sí llevaba aquí."
+  },
+  {
+   "i": 1053,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1059,
+   "src": "08ce9359408b",
+   "t": "Oye."
+  },
+  {
+   "i": 1069,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1075,
+   "src": "91908cc727dc",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1082,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1088,
+   "src": "09c72774210c",
+   "t": "Ahora que hemos llegado tan lejos,\nes algo tarde para decir esto, pero..."
+  },
+  {
+   "i": 1108,
+   "src": "2ce8fff7dd59",
+   "t": "¿Nos estamos acercando a la respuesta\ncorrecta?"
+  },
+  {
+   "i": 1115,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1121,
+   "src": "899259392439",
+   "t": "¿Cuál respuesta correcta?"
+  },
+  {
+   "i": 1128,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1138,
+   "src": "4a491f48b0d1",
+   "t": "-kun? ¿Hablas de dónde está?"
+  },
+  {
+   "i": 1145,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1154,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1162,
+   "src": "e9c13a42567c",
+   "t": "No hay nada que parezca una pista."
+  },
+  {
+   "i": 1165,
+   "src": "ec529ccd7cba",
+   "t": "Solo fuimos adonde antes no podíamos."
+  },
+  {
+   "i": 1173,
+   "src": "e5911ddde14f",
+   "t": "¿Tal vez estamos"
+  },
+  {
+   "i": 1176,
+   "src": "9f62f9ad2df7",
+   "t": "completamente perdidos?"
+  },
+  {
+   "i": 1183,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1189,
+   "src": "4f9b9c1db681",
+   "t": "Hmm, pues..."
+  },
+  {
+   "i": 1196,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1205,
+   "src": "dbbcf45e315e",
+   "t": "¿Deberíamos volver al {{club}}\nun momento...?"
+  },
+  {
+   "i": 1239,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1260,
+   "src": "a2c12ef38eb8",
+   "t": "Es mi culpa."
+  },
+  {
+   "i": 1266,
+   "src": "31e92d776225",
+   "t": "Toda la culpa es mía."
+  },
+  {
+   "i": 1288,
+   "src": "30af5aa6b9cb",
+   "t": "Si hubiera estado siempre a su lado,"
+  },
+  {
+   "i": 1291,
+   "src": "3325cf576668",
+   "t": "esto no habría pasado..."
+  },
+  {
+   "i": 1297,
+   "src": "2733d67b4c90",
+   "t": "Si me hubiera quedado a su lado,"
+  },
+  {
+   "i": 1300,
+   "src": "91bb3418f5b5",
+   "t": "esto no habría pasado..."
+  },
+  {
+   "i": 1311,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1320,
+   "src": "c8b8fdf8300f",
+   "t": "Oye, "
+  },
+  {
+   "i": 1324,
+   "src": "b947673ab70f",
+   "t": "Deja de decir cosas de mal agüero."
+  },
+  {
+   "i": 1334,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1343,
+   "src": "3a6910788f63",
+   "t": "Así es."
+  },
+  {
+   "i": 1346,
+   "src": "46a78b277c3c",
+   "t": "Aún no sabemos siquiera si vino aquí."
+  },
+  {
+   "i": 1375,
+   "src": "ce0428193a9b",
+   "t": "¿Entonces dónde está?"
+  },
+  {
+   "i": 1378,
+   "src": "d2678e819298",
+   "t": "¿Dónde rayos debería buscar?"
+  },
+  {
+   "i": 1384,
+   "src": "ce0428193a9b",
+   "t": "¿Entonces dónde está?"
+  },
+  {
+   "i": 1387,
+   "src": "d4410d8ed2eb",
+   "t": "¿Dónde rayos debería buscar?"
+  },
+  {
+   "i": 1404,
+   "src": "3b734b7dbbf9",
+   "t": "Cálmate."
+  },
+  {
+   "i": 1407,
+   "src": "136fc15fc4ac",
+   "t": "Mi {{master}} no tiene la culpa."
+  },
+  {
+   "i": 1436,
+   "src": "35e5317be63c",
+   "t": "¡Ya lo sé!"
+  },
+  {
+   "i": 1439,
+   "src": "2e4443bab5db",
+   "t": "Pero..."
+  },
+  {
+   "i": 1445,
+   "src": "1c7b61705983",
+   "t": "¡Ya lo sé!"
+  },
+  {
+   "i": 1448,
+   "src": "2e4443bab5db",
+   "t": "Pero..."
+  },
+  {
+   "i": 1459,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1465,
+   "src": "ba5ce278dc84",
+   "t": "¿Eh?"
+  }
+ ]
+}

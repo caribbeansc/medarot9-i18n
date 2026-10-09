@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description137.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d911327172b9",
+   "t": "{{object|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "dd4bd05bcea6",
+   "t": "A general term for everything on the <c:ffff00>{{field}}<c> during a\n<c:ffff00>{{robattle}}<c> other than <c:ffff00>{{medabot|pl}}<c>.\nObjects have <c:ffff00>{{stats}}<c> and <c:ffff00>actions<c> like {{medabot|pl}}, as\nwell as unique effects. They can also be the <c:ffff00>{{target}}<c>\nof <c:ffff00>attacks<c> and, like {{medabot|pl}}, are <c:ffff00>destroyed<c> when\ntheir <c:ffff00>{{armor}}<c> reaches 0.\n<c:ffff00>Traps<c> and <c:ffff00>Plants<c>, which are mostly placed with\nactions of the <c:ffff00>Set-up skill<c>, are also classified as\nobjects and can be destroyed by attacks."
+  }
+ ]
+}

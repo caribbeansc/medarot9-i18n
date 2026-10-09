@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0512.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 872,
+   "src": "898f53f025f4",
+   "t": "A Robattle, robo?"
+  },
+  {
+   "i": 875,
+   "src": "b3ee4fb5964d",
+   "t": "Wow, of course I'll do it, {{robo}}! I won't\nlose, {{robo}}~!"
+  }
+ ]
+}

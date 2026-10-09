@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_52.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "77c6d49514fb",
+   "t": "<c:00ff00>Leg Trait:<c> {{blood_stain}}\nEach time you {{destroy}} a\n{{part}},\n{{power}} stat +3.\n*Max +15."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_339_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "191788c2e69d",
+   "t": "What am I supposed to do with this..."
+  }
+ ]
+}

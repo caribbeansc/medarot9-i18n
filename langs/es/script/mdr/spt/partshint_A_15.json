@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_15.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "f49d8c750347",
+   "t": "<c:00ff00>{{mf}}:<c>{{shooting|cap}} de Aguja\nAtaque a distancia que\nsiempre impacta en la\n{{head_part}} de un\n{{enemy}}.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de tiro"
+  }
+ ]
+}

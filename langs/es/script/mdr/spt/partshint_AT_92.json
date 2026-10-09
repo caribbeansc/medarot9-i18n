@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_92.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "39e35fd6b108",
+   "t": "<c:00ff00>Técnica:<c>{{change}}\nTus {{part|pl}}, salvo la de\n{{head}}, se transforman en\notras {{part|pl}}."
+  }
+ ]
+}

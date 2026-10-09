@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/free03_01_02_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "835a8c5d52a0",
+   "t": "{{mission|cap}} 'Explor.: {{entrance}} de la {{mine_shaft}}'..."
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1048,
+   "src": "327743f2f2c3",
+   "t": "En el monte hallé una vieja"
+  },
+  {
+   "i": 1051,
+   "src": "cc4a08ccdbb1",
+   "t": "puerta de hierro. Quizá sea una mina."
+  },
+  {
+   "i": 1062,
+   "src": "c35ca47bf23f",
+   "t": "La entrada a la {{mine_shaft}} de la mina..."
+  },
+  {
+   "i": 1065,
+   "src": "c9bbcb055102",
+   "t": "¡La de la {{medalia_mine}}, verdad!"
+  },
+  {
+   "i": 1070,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1076,
+   "src": "97c4870c1998",
+   "t": "Probablemente."
+  },
+  {
+   "i": 1084,
+   "src": "862d502502bb",
+   "t": "Está al este, en el {{outer_rim}}."
+  },
+  {
+   "i": 1087,
+   "src": "f4b048391994",
+   "t": "Al entrar al sendero desde {{mountains|cap}}."
+  }
+ ]
+}

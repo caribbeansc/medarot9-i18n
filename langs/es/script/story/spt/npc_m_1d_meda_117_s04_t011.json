@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1d_meda_117_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0eaa75f692bf",
+   "t": "Agadama"
+  },
+  {
+   "i": 1035,
+   "src": "6648b51efebd",
+   "t": "El {{master}} lo está dando todo."
+  },
+  {
+   "i": 1038,
+   "src": "da7b52fb66d5",
+   "t": "Puedo sentir su aura de seriedad."
+  }
+ ]
+}

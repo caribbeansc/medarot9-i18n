@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_2f2_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1038,
+   "src": "22fc82795760",
+   "t": "Don't recognize you. A first-year?"
+  },
+  {
+   "i": 1041,
+   "src": "51b0ac2eb17e",
+   "t": "What {{club}}?"
+  },
+  {
+   "i": 1049,
+   "src": "eadbccba0730",
+   "t": "Huh? Haven't decided yet?"
+  },
+  {
+   "i": 1052,
+   "src": "e08281dcc306",
+   "t": "That's bad at this point in the year."
+  },
+  {
+   "i": 1060,
+   "src": "a69c4b58ab19",
+   "t": "By the way, we're full, so you can't join."
+  },
+  {
+   "i": 1063,
+   "src": "58c180f384b1",
+   "t": "Well, unless you're seriously\nexperienced."
+  },
+  {
+   "i": 1071,
+   "src": "41011ed777d2",
+   "t": "And you don't seem to have martial arts\ncustomization..."
+  },
+  {
+   "i": 1074,
+   "src": "b233fbaaee0c",
+   "t": "You're a beginner. Try somewhere else."
+  }
+ ]
+}

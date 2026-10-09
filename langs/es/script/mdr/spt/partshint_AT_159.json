@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_159.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "cd26c67231af",
+   "t": "<c:00ff00>Técnica:<c>{{disturbance}}\nColoca una {{trap}} que\nhace fallar las técnicas del\n{{opponent}} que no son ataque.\nAl colocarla\nrepetidamente {{up}} el\n{{armor}}.\nDesaparece al activarse."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7338130feab0",
+   "t": "<c:00ff00>{{effect|cap}} {{leader|cap}}:<c>Táctica de Cerco\nSi tu equipo tiene más {{medabot|pl}} que el {{opponent}},\nel {{damage}} que infliges sube a 120%"
+  }
+ ]
+}

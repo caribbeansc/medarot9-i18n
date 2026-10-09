@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc03_meda_161_s03_t021.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "58edbccf5f9c",
+   "t": "La mente del {{master}} está ocupada."
+  },
+  {
+   "i": 1041,
+   "src": "89a5b6c22157",
+   "t": "No vale la pena preguntarle nada."
+  }
+ ]
+}

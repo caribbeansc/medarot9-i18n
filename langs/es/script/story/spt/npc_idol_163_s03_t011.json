@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_idol_163_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "0e06506dc448",
+   "t": "Ah, eres del {{exploration_club}}."
+  },
+  {
+   "i": 1041,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  },
+  {
+   "i": 1049,
+   "src": "d44c8311b2d2",
+   "t": "Me lo contó {{flora}}."
+  },
+  {
+   "i": 1052,
+   "src": "3a0d2570b4c2",
+   "t": "{{mio}}, ¿ya viste a "
+  },
+  {
+   "i": 1054,
+   "src": "3a40adaf4630",
+   "t": " sana y salva?"
+  },
+  {
+   "i": 1062,
+   "src": "03835c433a43",
+   "t": "Entonces, este..."
+  },
+  {
+   "i": 1070,
+   "src": "b62692ee6380",
+   "t": "¿Cómo está {{mio}}? Oí que se"
+  },
+  {
+   "i": 1073,
+   "src": "8eb099445800",
+   "t": "unió al {{exploration_club}}, pero--"
+  },
+  {
+   "i": 1091,
+   "src": "2d4ae41876d3",
+   "t": "No, mejor olvídalo."
+  },
+  {
+   "i": 1094,
+   "src": "f29303625851",
+   "t": "Me alegra saber que está bien."
+  }
+ ]
+}

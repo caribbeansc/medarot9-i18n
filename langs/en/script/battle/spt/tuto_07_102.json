@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_07_102.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1123,
+   "src": "4a55533f2101",
+   "t": "The {{charge_gauge}} is at 100%."
+  },
+  {
+   "i": 1128,
+   "src": "53b3a1fe9241",
+   "t": "First, press $ｷ and\nselect {{medachange}}.           "
+  },
+  {
+   "i": 1149,
+   "src": "3dcc097244be",
+   "t": "Then confirm with the $* button.    "
+  }
+ ]
+}

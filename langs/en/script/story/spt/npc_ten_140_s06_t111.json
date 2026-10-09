@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_ten_140_s06_t111.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1037,
+   "src": "bdf3415abc2f",
+   "t": "Oh no, this is hard, I'm going to lose!"
+  },
+  {
+   "i": 1040,
+   "src": "4dd55b9fdb23",
+   "t": "Spi-chan, hang in there!"
+  }
+ ]
+}

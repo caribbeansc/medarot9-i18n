@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f01_040_117_20_t002.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "077e0a33e67a",
+   "t": "¿Por qué? Pues es que..."
+  },
+  {
+   "i": 1047,
+   "src": "d76a6131bbda",
+   "t": "Así son las {{robattle|pl}}, simplemente."
+  },
+  {
+   "i": 1071,
+   "src": "ea5b604ccb9e",
+   "t": "¿Por qué? El que pelea soy yo, ¿no?"
+  },
+  {
+   "i": 1074,
+   "src": "25dacff09a2e",
+   "t": "Tú solo miras, ¿no es así?"
+  },
+  {
+   "i": 1080,
+   "src": "10e3bc9d84b7",
+   "t": "¿Por qué? ¡El que pelea soy yo!"
+  },
+  {
+   "i": 1083,
+   "src": "1bc1d094b586",
+   "t": "¿Acaso tú no estás solo mirando?"
+  },
+  {
+   "i": 1099,
+   "src": "9c59d726007a",
+   "t": "¡Ya te dije que no es así!"
+  },
+  {
+   "i": 1102,
+   "src": "1e37b7bf5eba",
+   "t": "Las {{robattle|pl}} son--"
+  },
+  {
+   "i": 1107,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1116,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

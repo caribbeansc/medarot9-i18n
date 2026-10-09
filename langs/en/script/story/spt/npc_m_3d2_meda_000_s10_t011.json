@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3d2_meda_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "66e71b8a95ea",
+   "t": "{{teppen}}"
+  },
+  {
+   "i": 1038,
+   "src": "ea2e62b2d9fa",
+   "t": "I got a lot of exercise today,"
+  },
+  {
+   "i": 1041,
+   "src": "467ed633f962",
+   "t": "so I'd better do some proper\nmaintenance."
+  }
+ ]
+}

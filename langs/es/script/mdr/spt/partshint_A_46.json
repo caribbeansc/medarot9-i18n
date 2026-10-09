@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_46.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "a78249e91dce",
+   "t": "<c:00ff00>{{mf}}:<c>Reanimar Todo\nRevive a los {{medabot|pl}}\nfuera de servicio de todo\ntu equipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

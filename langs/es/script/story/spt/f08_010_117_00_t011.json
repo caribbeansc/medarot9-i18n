@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f08_010_117_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1035,
+   "src": "95dcd46dee0d",
+   "t": "Bien, eso es todo por hoy."
+  },
+  {
+   "i": 1038,
+   "src": "fc70ad0661a0",
+   "t": "¡Muy bien todos, hasta mañana!"
+  }
+ ]
+}

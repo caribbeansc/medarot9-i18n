@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f_meda_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a7f55d225eee",
+   "t": "Redrun"
+  },
+  {
+   "i": 1038,
+   "src": "b1072a8ae982",
+   "t": "Mi {{master}} y yo somos guitarristas."
+  },
+  {
+   "i": 1041,
+   "src": "1229ed40e0ca",
+   "t": "Quién hace el solo depende del tema."
+  }
+ ]
+}

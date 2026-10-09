@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_68.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e7933991558e",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nCuerpo a Cuerpo\nContra rivales con menor\n{{fighting}} que tú, tu nivel\nde medalla sube\ntemporalmente a +10."
+  }
+ ]
+}

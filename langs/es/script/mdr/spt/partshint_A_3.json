@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_3.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "f2153509e813",
+   "t": "<c:00ff00>{{mf}}:<c>Genocidio\nLanza un ataque de\ndestrucción contra todo el\nequipo {{opponent}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nUna o más {{part|pl}} de\nataque"
+  }
+ ]
+}

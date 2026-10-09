@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f02_000_117_00_t002.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1044,
+   "src": "b898723e74e6",
+   "t": "I know the {{exploration_club}}."
+  },
+  {
+   "i": 1047,
+   "src": "60cd6331b251",
+   "t": "That's the one, right?"
+  },
+  {
+   "i": 1055,
+   "src": "08306fa3eeec",
+   "t": "Their {{clubroom}}'s in some underground\nstoreroom"
+  },
+  {
+   "i": 1058,
+   "src": "d0aa070e3683",
+   "t": "Nobody knows what they do, right?"
+  },
+  {
+   "i": 1066,
+   "src": "68bef2a9d792",
+   "t": "Oh, I see."
+  },
+  {
+   "i": 1069,
+   "src": "ebd9b467cd35",
+   "t": "The {{exploration_club}}, of all things?"
+  },
+  {
+   "i": 1084,
+   "src": "56ebd14e3fe9",
+   "t": "But hey, maybe that's for the best?"
+  },
+  {
+   "i": 1092,
+   "src": "48f2ea10ff84",
+   "t": "You couldn't join any club, so I was"
+  },
+  {
+   "i": 1095,
+   "src": "02e6f8125659",
+   "t": "worried you'd get expelled right away."
+  },
+  {
+   "i": 1106,
+   "src": "a853850da599",
+   "t": "Ha ha ha!"
+  }
+ ]
+}

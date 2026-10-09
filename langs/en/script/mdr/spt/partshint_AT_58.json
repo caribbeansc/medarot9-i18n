@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_58.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a69f19d21128",
+   "t": "<c:00ff00>Action:<c> Recharge\nA melee attack that lowers\nthe {{opponent}}'s Charge\nGauge by the {{damage}}\ndealt."
+  }
+ ]
+}

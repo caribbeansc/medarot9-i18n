@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description127.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6707c205585b",
+   "t": "{{anti_sea}} (sub-skill)"
+  },
+  {
+   "i": 11,
+   "src": "0819d26ec7da",
+   "t": "An <c:ffff00>attack<c> <c:ffff00>sub-skill<c> for <c:ffff00>{{part|pl}}<c> with special ammo or\nmechanisms that greatly boosts <c:ffff00>{{stats}}<c> on {{terrain}} with\nplentiful water.\nPreparing it drops the <c:ffff00>action<c>'s <c:ffff00>{{prep}}<c> by 50%.\nIf, when <c:ffff00>{{prep}}<c> completes, the <c:ffff00>{{field}}<c> is <c:ffff00>{{waterside}}<c> or\n<c:ffff00>{{underwater}}<c>: <c:ffff00>{{power}}<c> +20, <c:ffff00>evasion<c> {{success_rate}} 0%,\nand always <c:ffff00>{{critical}}<c>. Otherwise, a normal attack."
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/npc_teach_117_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1035,
+   "src": "afd98dd37d75",
+   "t": "En otras palabras-"
+  },
+  {
+   "i": 1043,
+   "src": "64bf68f17bd2",
+   "t": "Así, la era de ver {{medal|pl}} solo"
+  },
+  {
+   "i": 1046,
+   "src": "c9b0e96a57b8",
+   "t": "por eficiencia toca a su fin..."
+  },
+  {
+   "i": 1054,
+   "src": "43b767a8c7ca",
+   "t": "A la vez, es notable que fuera tomando"
+  },
+  {
+   "i": 1057,
+   "src": "5493c7cfcc8c",
+   "t": "el carácter de una ciencia de la vida."
+  },
+  {
+   "i": 1065,
+   "src": "19bf63e56ced",
+   "t": "Porque el ser humano--"
+  },
+  {
+   "i": 1083,
+   "src": "29fbc8ffd672",
+   "t": "Mmm~, esto es muy aburrido."
+  },
+  {
+   "i": 1086,
+   "src": "0bf9251d8f20",
+   "t": "Todos se dormirán."
+  },
+  {
+   "i": 1094,
+   "src": "4a673a163942",
+   "t": "Mejor, primero muestro el diagrama--"
+  },
+  {
+   "i": 1105,
+   "src": "38f3037f1aba",
+   "t": "¡Kyaa!"
+  },
+  {
+   "i": 1123,
+   "src": "c7f7f85d4960",
+   "t": "¡Ay no, "
+  },
+  {
+   "i": 1125,
+   "src": "905b38552a62",
+   "t": "-kun!"
+  },
+  {
+   "i": 1128,
+   "src": "a69ecea414f8",
+   "t": "¿¡Estabas mirando!?"
+  },
+  {
+   "i": 1139,
+   "src": "8171c7eb2582",
+   "t": "P-perdón."
+  },
+  {
+   "i": 1144,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1153,
+   "src": "5d992bb45db8",
+   "t": "Ah, no tienes que disculparte así."
+  },
+  {
+   "i": 1156,
+   "src": "35196fbdf486",
+   "t": "Me dio vergüenza, así que sin querer..."
+  }
+ ]
+}

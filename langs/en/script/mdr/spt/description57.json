@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description57.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9e52b6c3e2c8",
+   "t": "Charge Type"
+  },
+  {
+   "i": 11,
+   "src": "93ede5b7de4e",
+   "t": "A setting for how long each <c:ffff00>charge<c> lasts. You\nchoose from 3 types:\n  - {{short}} (brief): <c:ffff00>{{charge_gauge}}<c> +10%\n  - {{normal}} (medium): {{charge_gauge}} +20%\n  - {{long}} (lengthy): {{charge_gauge}} +50%\n\nPer unit of time, the {{charge_gauge}} rises more in\nthis order: {{long}} > {{normal}} > {{short}}.\n(The longer it is, the more efficient the charge)"
+  }
+ ]
+}

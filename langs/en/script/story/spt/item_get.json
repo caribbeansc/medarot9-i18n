@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/item_get.spt",
+ "lines": [
+  {
+   "i": 923,
+   "src": "a6202cec9357",
+   "t": " received!"
+  },
+  {
+   "i": 936,
+   "src": "988e32d18d45",
+   "t": " received "
+  },
+  {
+   "i": 938,
+   "src": "7344f3d75c4f",
+   "t": " item!"
+  },
+  {
+   "i": 945,
+   "src": "988e32d18d45",
+   "t": " received "
+  },
+  {
+   "i": 947,
+   "src": "7001d5e4e02b",
+   "t": " items!"
+  },
+  {
+   "i": 957,
+   "src": "a6202cec9357",
+   "t": " received!"
+  }
+ ]
+}

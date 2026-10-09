@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3f_163_s01_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1035,
+   "src": "16c549e243fb",
+   "t": "In that case, could you leave soon?"
+  },
+  {
+   "i": 1038,
+   "src": "ac04d931ec56",
+   "t": "I want to change."
+  }
+ ]
+}

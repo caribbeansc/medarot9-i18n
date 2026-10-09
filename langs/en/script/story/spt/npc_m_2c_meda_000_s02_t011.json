@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_meda_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0d229f8a0d3f",
+   "t": "2nd-Yr Boy C's Medabot"
+  },
+  {
+   "i": 1035,
+   "src": "426b606d34c0",
+   "t": "Waaah!!"
+  },
+  {
+   "i": 1038,
+   "src": "36a2ea80b01c",
+   "t": "{{master}}, what do we do? What do we\ndo!??"
+  }
+ ]
+}

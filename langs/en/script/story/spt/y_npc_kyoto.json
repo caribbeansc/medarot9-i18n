@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_kyoto.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1653,
+   "src": "4e8a7af43931",
+   "t": "Eh, me? I don't mind, but..."
+  },
+  {
+   "i": 1656,
+   "src": "f3d4ab61bf10",
+   "t": "I'm not very confident."
+  }
+ ]
+}

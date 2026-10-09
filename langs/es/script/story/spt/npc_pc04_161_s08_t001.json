@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/npc_pc04_161_s08_t001.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1133,
+   "src": "84099fc518e2",
+   "t": "Últimamente, vaya a donde vaya,"
+  },
+  {
+   "i": 1136,
+   "src": "e5d96a261b54",
+   "t": "me topo con gente de algún {{club}}."
+  },
+  {
+   "i": 1144,
+   "src": "348c60d7d8bc",
+   "t": "Es como una guerra por las {{medalia|pl}}"
+  },
+  {
+   "i": 1147,
+   "src": "911aac69e39f",
+   "t": "entre clubes. Por cierto--"
+  },
+  {
+   "i": 1155,
+   "src": "ced0afb900b3",
+   "t": "¿Viste el {{bulletin_board}}?"
+  },
+  {
+   "i": 1158,
+   "src": "7375ba0feb92",
+   "t": "Agregué más puntos de {{explore}}."
+  },
+  {
+   "i": 1166,
+   "src": "c5ef260f3fa4",
+   "t": "Antes de que los otros clubes los tomen,"
+  },
+  {
+   "i": 1169,
+   "src": "29eae60c3ae5",
+   "t": "vamos a buscarlos pronto."
+  },
+  {
+   "i": 1185,
+   "src": "df691ceecc4e",
+   "t": "*{{ryoma}} desactiva trampas"
+  },
+  {
+   "i": 1188,
+   "src": "1c90505b095e",
+   "t": "(Detalles pendientes)"
+  },
+  {
+   "i": 1193,
+   "src": "5a04ae9f0ecf",
+   "t": "*->Nuevas Misiones Libres"
+  },
+  {
+   "i": 1196,
+   "src": "84124731345e",
+   "t": "Una: '{{crater|cap}}' (tentativo)"
+  },
+  {
+   "i": 1201,
+   "src": "6adf4b1801f1",
+   "t": "*Disparador sin definir,"
+  },
+  {
+   "i": 1204,
+   "src": "f907e2ee4b02",
+   "t": "'{{mission|cap}} A ({{crater|cap}})' ON"
+  },
+  {
+   "i": 1209,
+   "src": "a5c2fff5da15",
+   "t": "*Dirígete hacia la zona del {{crater}}"
+  }
+ ]
+}

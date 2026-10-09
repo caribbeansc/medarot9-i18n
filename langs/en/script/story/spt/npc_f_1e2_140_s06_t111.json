@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_1e2_140_s06_t111.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f44d21d69865",
+   "t": "{{hanayuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "82f41329cd62",
+   "t": "A {{transfer_student}} was just here visiting."
+  },
+  {
+   "i": 1046,
+   "src": "d9bf475f9902",
+   "t": "She wants to pick a {{club}} for next term,"
+  },
+  {
+   "i": 1049,
+   "src": "06c20d44bd5a",
+   "t": "so she's been looking around\neverywhere!"
+  },
+  {
+   "i": 1057,
+   "src": "daf7ea655620",
+   "t": "She's strange. I've never seen her in the\ndorm."
+  },
+  {
+   "i": 1060,
+   "src": "505d3a2a6c35",
+   "t": "It's a boarding school, so where does\nshe live?"
+  },
+  {
+   "i": 1068,
+   "src": "be564d231465",
+   "t": "Well, Senpai, you were all lovestruck,"
+  },
+  {
+   "i": 1071,
+   "src": "41190dca4282",
+   "t": "and didn't seem to mind at all, huh?"
+  }
+ ]
+}

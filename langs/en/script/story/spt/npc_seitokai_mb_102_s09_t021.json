@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_seitokai_mb_102_s09_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 1035,
+   "src": "a94957a8c8e4",
+   "t": "Well then,"
+  },
+  {
+   "i": 1038,
+   "src": "14778036db22",
+   "t": "all that's left is tidying up this area,\nand..."
+  },
+  {
+   "i": 1049,
+   "src": "29ad03ba39fb",
+   "t": "Hey, thanks to everyone's help,"
+  },
+  {
+   "i": 1052,
+   "src": "4af896499753",
+   "t": "the preparations we planned are all\ndone."
+  },
+  {
+   "i": 1060,
+   "src": "89b306d17612",
+   "t": "Good work, everyone."
+  },
+  {
+   "i": 1063,
+   "src": "370790603cf2",
+   "t": "Get some good rest until school starts."
+  }
+ ]
+}

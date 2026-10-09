@@ -1,0 +1,1804 @@
+{
+ "rel": "battle/tex/cp2_state9_a.ctpk",
+ "base": "jp",
+ "styles": {
+  "skill": {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "fill": "#8CF0A8",
+   "stroke": "#04180A",
+   "pad": 0,
+   "cap": 7,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "stroke_w": 1.0
+  },
+  "tag": {
+   "erase": "hfill",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "fill": "#101010",
+   "stroke": null,
+   "pad": 0,
+   "cap": 5,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  }
+ },
+ "items": [
+  {
+   "box": [
+    465,
+    174,
+    47,
+    13
+   ],
+   "style": "skill",
+   "text": "PUNTERIA",
+   "scale_x": 1
+  },
+  {
+   "box": [
+    465,
+    188,
+    47,
+    13
+   ],
+   "style": "skill",
+   "text": "ARREMET."
+  },
+  {
+   "box": [
+    465,
+    216,
+    47,
+    13
+   ],
+   "style": "skill",
+   "text": "ANTIAIRE"
+  },
+  {
+   "box": [
+    465,
+    230,
+    47,
+    13
+   ],
+   "style": "skill",
+   "text": "ANTIMAR"
+  },
+  {
+   "erase_box": [
+    468,
+    333,
+    5,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    488,
+    333,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    468,
+    343,
+    8,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    480,
+    343,
+    8,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    462,
+    353,
+    7,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    476,
+    353,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    490,
+    353,
+    6,
+    1
+   ],
+   "erase": "solid:#CDAB45",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    464,
+    363,
+    12,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    484,
+    363,
+    12,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    464,
+    373,
+    8,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    476,
+    373,
+    4,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    492,
+    373,
+    4,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    463,
+    383,
+    9,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    476,
+    383,
+    20,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    464,
+    391,
+    28,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    463,
+    393,
+    25,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    463,
+    333,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    334,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Carga",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    343,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    344,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Guard",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    353,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    354,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Pieza T",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    363,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    364,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Punteria",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    373,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    374,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Arremet.",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    383,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    384,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "AntiAire",
+   "fill": "#FFFFFF"
+  },
+  {
+   "box": [
+    463,
+    393,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    394,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "AntiMar",
+   "fill": "#FFFFFF"
+  },
+  {
+   "box": [
+    444,
+    159,
+    42,
+    10
+   ],
+   "erase_box": [
+    444,
+    158,
+    42,
+    12
+   ],
+   "erase": "glyph:bg",
+   "bg": "#020A23CC",
+   "text": "TIEMPO",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#F0F0F8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    178,
+    217,
+    31,
+    11
+   ],
+   "erase_box": [
+    177,
+    216,
+    33,
+    13
+   ],
+   "erase": "transparent",
+   "text": "Combo",
+   "font": "din",
+   "cap": 8,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "align": "left",
+   "pad": 0,
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    144,
+    239,
+    36,
+    12
+   ],
+   "erase_box": [
+    143,
+    238,
+    38,
+    14
+   ],
+   "erase": "hfill",
+   "text": "Volver",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "fill": "#303030",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    250,
+    239,
+    38,
+    12
+   ],
+   "erase_box": [
+    249,
+    238,
+    40,
+    14
+   ],
+   "erase": "hfill",
+   "text": "Menu",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "fill": "#303030",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    38,
+    450,
+    55,
+    12
+   ],
+   "erase_box": [
+    37,
+    451,
+    57,
+    11
+   ],
+   "erase": "hfill",
+   "text": "Sin animacion",
+   "font": "sf-cond",
+   "cap": 8,
+   "fill": "#303030",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    128,
+    441,
+    75,
+    11
+   ],
+   "erase_box": [
+    128,
+    441,
+    75,
+    11
+   ],
+   "erase": "transparent",
+   "text": "Esperando comando",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    204,
+    440,
+    36,
+    12
+   ],
+   "erase_box": [
+    204,
+    440,
+    36,
+    12
+   ],
+   "erase": "transparent",
+   "text": "Carga",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    128,
+    453,
+    53,
+    11
+   ],
+   "erase_box": [
+    128,
+    453,
+    53,
+    11
+   ],
+   "erase": "transparent",
+   "text": "MedaCambio",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "erase_box": [
+    16,
+    489,
+    6,
+    1
+   ],
+   "erase": "solid:#606060",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    490,
+    24,
+    9
+   ],
+   "erase_box": [
+    1,
+    490,
+    24,
+    9
+   ],
+   "erase": "hfill",
+   "text": "Tipo",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#A4FADC",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    275,
+    499,
+    26,
+    9
+   ],
+   "erase_box": [
+    275,
+    499,
+    26,
+    9
+   ],
+   "erase": "hfill",
+   "text": "Habil.",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#A4FADC",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "dy": -1
+  },
+  {
+   "box": [
+    0,
+    500,
+    112,
+    12
+   ],
+   "erase_box": [
+    0,
+    500,
+    112,
+    12
+   ],
+   "erase": "transparent",
+   "text": "Robobatalla auto: Inicio!",
+   "font": "din",
+   "cap": 9.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "pad": 0,
+   "crisp": 1.0,
+   "baseline": 510
+  },
+  {
+   "box": [
+    382,
+    450,
+    9,
+    9
+   ],
+   "erase_box": [
+    382,
+    450,
+    9,
+    10
+   ],
+   "erase": "solid:#000610C0",
+   "text": "D",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#A5E9FA",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    382,
+    466,
+    9,
+    9
+   ],
+   "erase_box": [
+    382,
+    466,
+    9,
+    10
+   ],
+   "erase": "solid:#000610C0",
+   "text": "E",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#A5E9FA",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "erase_box": [
+    345,
+    17,
+    25,
+    6
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "copy": [
+    346,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    348,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    354,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    352,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    358,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    356,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    362,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    360,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    354,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    364,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "erase_box": [
+    421,
+    17,
+    25,
+    6
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "copy": [
+    422,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    424,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    430,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    428,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    434,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    432,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    438,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    436,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    430,
+    17,
+    3,
+    6
+   ],
+   "to": [
+    440,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "erase_box": [
+    94,
+    479,
+    14,
+    9
+   ],
+   "erase": "vfill",
+   "box": [
+    94,
+    478,
+    14,
+    11
+   ],
+   "text": "Si",
+   "font": "helv-cond-black",
+   "cap": 9.5,
+   "fill": "#3A3A3A",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    237,
+    462,
+    94,
+    12
+   ],
+   "erase_box": [
+    235,
+    461,
+    98,
+    14
+   ],
+   "erase": "transparent",
+   "text": "CARGANDO",
+   "font": "din-alt",
+   "cap": 9.5,
+   "tracking": 2,
+   "italic_skew": 0.18,
+   "fill": "#6CE7CF",
+   "stroke": "#0E6F66",
+   "stroke_w": 1.0,
+   "pad": 0,
+   "crisp": 1.0,
+   "align": "center"
+  },
+  {
+   "erase_box": [
+    131,
+    366,
+    60,
+    12
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "text": ""
+  },
+  {
+   "box": [
+    132,
+    366,
+    58,
+    12
+   ],
+   "erase": "none",
+   "text": "OBJETIVO",
+   "font": "din-alt",
+   "cap": 9,
+   "tracking": 0.6,
+   "baseline": 377,
+   "fill": "#FFE9A0",
+   "stroke": "#4A1C04",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0.3,
+   "align": "center"
+  },
+  {
+   "erase_box": [
+    131,
+    399,
+    60,
+    12
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "text": ""
+  },
+  {
+   "box": [
+    132,
+    399,
+    58,
+    12
+   ],
+   "erase": "none",
+   "text": "OBJETIVO",
+   "font": "din-alt",
+   "cap": 9,
+   "tracking": 0.6,
+   "baseline": 410,
+   "fill": "#C4F6F0",
+   "stroke": "#06283A",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0.3,
+   "align": "center"
+  },
+  {
+   "erase_box": [
+    478,
+    21,
+    23,
+    1
+   ],
+   "erase": "solid:#373726",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    478,
+    22,
+    23,
+    2
+   ],
+   "erase": "solid:#2A2400",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    478,
+    24,
+    23,
+    2
+   ],
+   "erase": "solid:#2F1E00",
+   "text": ""
+  },
+  {
+   "box": [
+    481,
+    21,
+    17,
+    5
+   ],
+   "erase": "none",
+   "text": "LIDER",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFF4B8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 26
+  },
+  {
+   "erase_box": [
+    483,
+    114,
+    29,
+    7
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "box": [
+    485,
+    115,
+    11,
+    5
+   ],
+   "erase": "none",
+   "text": "TRA",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 120
+  },
+  {
+   "box": [
+    497,
+    115,
+    5,
+    5
+   ],
+   "erase": "none",
+   "text": "M",
+   "font": "translation-work/tex/fuentes_pixel/pix5x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 120
+  },
+  {
+   "box": [
+    503,
+    115,
+    7,
+    5
+   ],
+   "erase": "none",
+   "text": "PA",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 120
+  },
+  {
+   "erase_box": [
+    483,
+    121,
+    27,
+    7
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "box": [
+    485,
+    122,
+    9,
+    5
+   ],
+   "erase": "none",
+   "text": "TIE",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 127
+  },
+  {
+   "box": [
+    495,
+    122,
+    5,
+    5
+   ],
+   "erase": "none",
+   "text": "M",
+   "font": "translation-work/tex/fuentes_pixel/pix5x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 127
+  },
+  {
+   "box": [
+    501,
+    122,
+    7,
+    5
+   ],
+   "erase": "none",
+   "text": "PO",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 127
+  },
+  {
+   "erase_box": [
+    457,
+    249,
+    34,
+    7
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "box": [
+    459,
+    250,
+    30,
+    5
+   ],
+   "erase": "none",
+   "text": "PLANTA",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 255
+  },
+  {
+   "erase_box": [
+    491,
+    249,
+    21,
+    7
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "box": [
+    503,
+    250,
+    7,
+    5
+   ],
+   "erase": "none",
+   "text": "KO",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 255
+  },
+  {
+   "erase_box": [
+    414,
+    387,
+    36,
+    9
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    417,
+    389,
+    30,
+    5
+   ],
+   "erase": "none",
+   "text": "PLANTA",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#A8F4F4",
+   "stroke": "#0A5258",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 394,
+   "stroke_w": 1
+  },
+  {
+   "erase_box": [
+    414,
+    396,
+    36,
+    9
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    416,
+    398,
+    31,
+    5
+   ],
+   "erase": "none",
+   "text": "TRAMPA",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#A8F4F4",
+   "stroke": "#0A5258",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 403,
+   "stroke_w": 1
+  },
+  {
+   "erase_box": [
+    474,
+    481,
+    38,
+    9
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    478,
+    483,
+    29,
+    5
+   ],
+   "erase": "none",
+   "text": "CABEZA",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#A8F4F4",
+   "stroke": "#0A5258",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 488,
+   "stroke_w": 1
+  },
+  {
+   "erase_box": [
+    474,
+    491,
+    38,
+    9
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    480,
+    493,
+    25,
+    5
+   ],
+   "erase": "none",
+   "text": "BR.IZQ",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#A8F4F4",
+   "stroke": "#0A5258",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 498,
+   "stroke_w": 1
+  },
+  {
+   "erase_box": [
+    474,
+    501,
+    38,
+    9
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    480,
+    503,
+    26,
+    5
+   ],
+   "erase": "none",
+   "text": "BR.DER",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#A8F4F4",
+   "stroke": "#0A5258",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 508,
+   "stroke_w": 1
+  },
+  {
+   "erase_box": [
+    141,
+    225,
+    19,
+    5
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    141,
+    225,
+    17,
+    5
+   ],
+   "erase": "none",
+   "text": "VENC.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 230
+  },
+  {
+   "erase_box": [
+    444,
+    183,
+    18,
+    8
+   ],
+   "erase": "solid:#0A1A1270",
+   "text": ""
+  },
+  {
+   "box": [
+    444,
+    184,
+    17,
+    5
+   ],
+   "erase": "none",
+   "text": "COMB.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#9DF0C8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 189
+  },
+  {
+   "erase_box": [
+    444,
+    191,
+    18,
+    7
+   ],
+   "erase": "solid:#0A1A1270",
+   "text": ""
+  },
+  {
+   "box": [
+    445,
+    192,
+    15,
+    5
+   ],
+   "erase": "none",
+   "text": "DISP.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#9DF0C8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 197
+  },
+  {
+   "erase_box": [
+    444,
+    198,
+    18,
+    7
+   ],
+   "erase": "solid:#0A1A1270",
+   "text": ""
+  },
+  {
+   "box": [
+    446,
+    199,
+    13,
+    5
+   ],
+   "erase": "none",
+   "text": "CAB.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#9DF0C8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 204
+  },
+  {
+   "erase_box": [
+    444,
+    205,
+    18,
+    7
+   ],
+   "erase": "solid:#0A1A1270",
+   "text": ""
+  },
+  {
+   "box": [
+    445,
+    206,
+    15,
+    5
+   ],
+   "erase": "none",
+   "text": "PIER.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#9DF0C8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 211
+  },
+  {
+   "erase_box": [
+    444,
+    212,
+    18,
+    8
+   ],
+   "erase": "solid:#0A1A1270",
+   "text": ""
+  },
+  {
+   "box": [
+    444,
+    213,
+    17,
+    5
+   ],
+   "erase": "none",
+   "text": "CARG.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#9DF0C8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 218
+  },
+  {
+   "erase_box": [
+    444,
+    220,
+    18,
+    7
+   ],
+   "erase": "solid:#0A1A1270",
+   "text": ""
+  },
+  {
+   "box": [
+    444,
+    221,
+    17,
+    5
+   ],
+   "erase": "none",
+   "text": "APOY.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#9DF0C8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 226
+  },
+  {
+   "erase_box": [
+    436,
+    488,
+    18,
+    7
+   ],
+   "erase": "solid:#0A1A1270",
+   "text": ""
+  },
+  {
+   "box": [
+    438,
+    489,
+    13,
+    5
+   ],
+   "erase": "none",
+   "text": "ATQ.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#9DF0C8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 494
+  },
+  {
+   "erase_box": [
+    426,
+    197,
+    17,
+    8
+   ],
+   "erase": "solid:#0A1A1270",
+   "text": ""
+  },
+  {
+   "box": [
+    426,
+    198,
+    17,
+    5
+   ],
+   "erase": "none",
+   "text": "CARG.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#9DF0C8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 203
+  },
+  {
+   "erase_box": [
+    369,
+    449,
+    7,
+    7
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    368,
+    460,
+    8,
+    7
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    368,
+    471,
+    8,
+    7
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    370,
+    450,
+    4,
+    1
+   ],
+   "erase": "solid:#54DCDC",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    371,
+    451,
+    2,
+    2
+   ],
+   "erase": "solid:#54DCDC",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    371,
+    453,
+    2,
+    1
+   ],
+   "erase": "solid:#72E9E9",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    370,
+    454,
+    4,
+    1
+   ],
+   "erase": "solid:#72E9E9",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    369,
+    461,
+    5,
+    1
+   ],
+   "erase": "solid:#54DCDC",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    369,
+    462,
+    2,
+    2
+   ],
+   "erase": "solid:#54DCDC",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    373,
+    462,
+    2,
+    2
+   ],
+   "erase": "solid:#54DCDC",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    369,
+    464,
+    2,
+    1
+   ],
+   "erase": "solid:#72E9E9",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    373,
+    464,
+    2,
+    1
+   ],
+   "erase": "solid:#72E9E9",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    369,
+    465,
+    5,
+    1
+   ],
+   "erase": "solid:#72E9E9",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    370,
+    472,
+    5,
+    1
+   ],
+   "erase": "solid:#54DCDC",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    369,
+    473,
+    2,
+    2
+   ],
+   "erase": "solid:#54DCDC",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    369,
+    475,
+    2,
+    1
+   ],
+   "erase": "solid:#72E9E9",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    370,
+    476,
+    5,
+    1
+   ],
+   "erase": "solid:#72E9E9",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    [
+     347,
+     16,
+     22,
+     1
+    ],
+    [
+     347,
+     23,
+     22,
+     1
+    ]
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    [
+     423,
+     16,
+     22,
+     1
+    ],
+    [
+     423,
+     23,
+     22,
+     1
+    ]
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  }
+ ]
+}

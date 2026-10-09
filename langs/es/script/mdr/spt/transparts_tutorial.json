@@ -1,0 +1,40 @@
+{
+ "file": "mdr/spt/transparts_tutorial.spt",
+ "lines": [
+  {
+   "i": 3437,
+   "src": "01cd213bbad6",
+   "t": "¡La {{medal}} cambió a <c:00ff00>"
+  },
+  {
+   "i": 3439,
+   "src": "b22f8865c0fc",
+   "t": "<c>!"
+  },
+  {
+   "i": 3483,
+   "src": "923b51010542",
+   "t": "Se añadió una pestaña de {{part|pl}} EX a\nla pantalla de {{settings}}."
+  },
+  {
+   "i": 3487,
+   "src": "4526345e7725",
+   "t": "Pulsa el botón R y elige la\npestaña de {{part|pl}} EX."
+  },
+  {
+   "i": 3499,
+   "src": "928468cc392a",
+   "t": "Aquí puedes configurar las {{part|pl}} EX."
+  },
+  {
+   "i": 3503,
+   "src": "b3d5e33a77c9",
+   "t": "Probemos a elegir una {{part}} cualquiera."
+  },
+  {
+   "i": 3520,
+   "src": "c535565e73a3",
+   "t": "Las {{part|pl}} EX ya están configuradas.\nPulsa el botón X para terminar."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f11_110_000_00_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1037,
+   "src": "a1eda12337f6",
+   "t": "Attention, all students."
+  },
+  {
+   "i": 1045,
+   "src": "983ede961746",
+   "t": "The {{stray}} {{medabot|pl}} that invaded the\n{{classroom}}"
+  },
+  {
+   "i": 1048,
+   "src": "24cb74ae0b47",
+   "t": "building and clubroom building have\nbeen wiped out."
+  },
+  {
+   "i": 1056,
+   "src": "d0f006e97ff6",
+   "t": "Those with energy to spare, please go to\nthe gate or behind"
+  },
+  {
+   "i": 1059,
+   "src": "f298bd69e996",
+   "t": "the dorms and support the clubs on\ndefense."
+  },
+  {
+   "i": 1067,
+   "src": "124acc379f11",
+   "t": "The injured should go to the gym, and\nfor"
+  },
+  {
+   "i": 1070,
+   "src": "9260ee9a55cb",
+   "t": "broken partners, see the {{medabot}}\nResearch Club."
+  },
+  {
+   "i": 1078,
+   "src": "609ccf1e20fa",
+   "t": "I'll notify you again if there's any\ndevelopment."
+  },
+  {
+   "i": 1081,
+   "src": "995533852dee",
+   "t": "That is all."
+  }
+ ]
+}

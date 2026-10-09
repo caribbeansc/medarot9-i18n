@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_rescue_meda_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a6e23e611714",
+   "t": "{{kongo}}"
+  },
+  {
+   "i": 1038,
+   "src": "6d8e4afca7b2",
+   "t": "The boss's muttering,"
+  },
+  {
+   "i": 1041,
+   "src": "80f51e5320fb",
+   "t": "don't take it too seriously."
+  },
+  {
+   "i": 1049,
+   "src": "07b187d1fd5c",
+   "t": "that's how he organizes his thoughts\nout loud."
+  },
+  {
+   "i": 1052,
+   "src": "cd6147259c39",
+   "t": "He's not talking to anyone, you know."
+  }
+ ]
+}

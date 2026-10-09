@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_pc01_meda_161_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1043,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1050,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1057,
+   "src": "adbe50e327fa",
+   "t": "-kun... ¿estás preocupado?"
+  },
+  {
+   "i": 1086,
+   "src": "073eac7c812e",
+   "t": "¿Preocuparme?"
+  },
+  {
+   "i": 1089,
+   "src": "2cd207b7cd62",
+   "t": "Para nada."
+  },
+  {
+   "i": 1095,
+   "src": "3032d2e88a11",
+   "t": "¿Que me preocupe?"
+  },
+  {
+   "i": 1098,
+   "src": "2cd207b7cd62",
+   "t": "Para nada."
+  },
+  {
+   "i": 1112,
+   "src": "2463403b764b",
+   "t": "No tienes que mentir."
+  },
+  {
+   "i": 1115,
+   "src": "76eb8d940e80",
+   "t": "Yo me doy cuenta."
+  },
+  {
+   "i": 1136,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

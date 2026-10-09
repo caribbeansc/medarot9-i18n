@@ -1,0 +1,40 @@
+{
+ "file": "battle/spt/tuto_01_008.spt",
+ "lines": [
+  {
+   "i": 1142,
+   "src": "5f9bd1f68ab3",
+   "t": "¡Carga completa!"
+  },
+  {
+   "i": 1153,
+   "src": "f4432f0c2f4a",
+   "t": "¡Con esto se activa el {{effect}} del\n{{leg_trait}} \"{{ground_control}}\"!               "
+  },
+  {
+   "i": 1170,
+   "src": "a251c95a34e7",
+   "t": "Carga completada."
+  },
+  {
+   "i": 1181,
+   "src": "20c502cd079a",
+   "t": "¡Así se activa el {{effect}} de la\nhabilidad de patas \"Charge Fight\"!"
+  },
+  {
+   "i": 1192,
+   "src": "38f0b651165d",
+   "t": "La {{mobility}} y el {{fighting}} suben +5."
+  },
+  {
+   "i": 1338,
+   "src": "0cd3b1a9a6fc",
+   "t": "La {{charge_gauge}} ya está al 100%.\n¡Ataquemos! "
+  },
+  {
+   "i": 1362,
+   "src": "2fe8b7267497",
+   "t": "¡Elijamos una {{attack_part}}!"
+  }
+ ]
+}

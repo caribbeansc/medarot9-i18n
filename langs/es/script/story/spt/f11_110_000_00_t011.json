@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f11_110_000_00_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1037,
+   "src": "a1eda12337f6",
+   "t": "Aviso a todos los alumnos."
+  },
+  {
+   "i": 1045,
+   "src": "983ede961746",
+   "t": "Neutralizamos a los {{medabot|pl}} que"
+  },
+  {
+   "i": 1048,
+   "src": "24cb74ae0b47",
+   "t": "entraron a aulas y salas de club."
+  },
+  {
+   "i": 1056,
+   "src": "d0f006e97ff6",
+   "t": "Quien pueda ir al portón o detrás"
+  },
+  {
+   "i": 1059,
+   "src": "f298bd69e996",
+   "t": "del dormitorio y apoye la defensa."
+  },
+  {
+   "i": 1067,
+   "src": "124acc379f11",
+   "t": "Los heridos deben ir al {{gymnasium}},"
+  },
+  {
+   "i": 1070,
+   "src": "9260ee9a55cb",
+   "t": "y los {{medabot|pl}} rotos al Club {{medabot}}."
+  },
+  {
+   "i": 1078,
+   "src": "609ccf1e20fa",
+   "t": "Les avisaré si hay novedades."
+  },
+  {
+   "i": 1081,
+   "src": "995533852dee",
+   "t": "Es todo."
+  }
+ ]
+}

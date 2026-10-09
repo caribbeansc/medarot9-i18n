@@ -1,0 +1,55 @@
+{
+ "file": "battle/spt/auto_battle08.spt",
+ "lines": [
+  {
+   "i": 894,
+   "src": "3c7edee2c1de",
+   "t": "{{asad_arak}}"
+  },
+  {
+   "i": 1107,
+   "src": "81394e1dbc17",
+   "t": "I have no reason to {{robattle}}\nants like you."
+  },
+  {
+   "i": 1227,
+   "src": "4540284ae3ae",
+   "t": ".\n...Leave me behind and run."
+  },
+  {
+   "i": 1235,
+   "src": "739ba3300d3b",
+   "t": ".\n...Leave me behind and run."
+  },
+  {
+   "i": 1272,
+   "src": "2efd8b981518",
+   "t": "Idiot! What are you saying?!\nThat's impossible!"
+  },
+  {
+   "i": 1310,
+   "src": "4412ffb88cd0",
+   "t": "Never mind that, go!\nRun, quick!"
+  },
+  {
+   "i": 1316,
+   "src": "4412ffb88cd0",
+   "t": "Never mind that, go!\nRun, quick!"
+  },
+  {
+   "i": 1450,
+   "src": "8bee73235d75",
+   "t": "..."
+  },
+  {
+   "i": 1564,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1707,
+   "src": "e66498070058",
+   "t": "Think this is over? Be blown away, {{medal}}\nand all, and vanish from this world."
+  }
+ ]
+}

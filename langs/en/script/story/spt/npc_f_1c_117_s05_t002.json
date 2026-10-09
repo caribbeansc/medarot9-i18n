@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_1c_117_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "c808741ef2b8",
+   "t": "What?"
+  },
+  {
+   "i": 1042,
+   "src": "17c1027988c8",
+   "t": "-kun, studying with us too?"
+  },
+  {
+   "i": 1050,
+   "src": "74350899803b",
+   "t": "Huh, you're looking for someone?"
+  },
+  {
+   "i": 1053,
+   "src": "72afcf2fc4d0",
+   "t": "A hacker?!"
+  },
+  {
+   "i": 1061,
+   "src": "66a6decc170e",
+   "t": "Never heard of anyone like that."
+  },
+  {
+   "i": 1064,
+   "src": "57b565695e50",
+   "t": "I mean, do hackers actually exist?"
+  }
+ ]
+}

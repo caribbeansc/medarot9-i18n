@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3f_163_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1035,
+   "src": "269268613f44",
+   "t": "Sí, ¡todo empieza a tomar forma!"
+  },
+  {
+   "i": 1038,
+   "src": "d2880b0a622b",
+   "t": "¿Parece que llegaremos justo a tiempo?"
+  },
+  {
+   "i": 1049,
+   "src": "4edf4a22891d",
+   "t": "¿...Eh? Hablo de la rutina del"
+  },
+  {
+   "i": 1052,
+   "src": "30f0cf5013c2",
+   "t": "{{culture_festival}}. ¡Claro que voy a estar"
+  },
+  {
+   "i": 1060,
+   "src": "84051f5eca82",
+   "t": "animada! ¡Es el festival más grande"
+  },
+  {
+   "i": 1063,
+   "src": "f28e37592cad",
+   "t": "del año, y nos verán en vivo!"
+  }
+ ]
+}

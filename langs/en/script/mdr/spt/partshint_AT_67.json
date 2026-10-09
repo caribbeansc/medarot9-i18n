@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_67.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3f14521a27ce",
+   "t": "<c:00ff00>Action:<c> {{effect_clear}}\nA melee attack that erases\nthe {{opponent}}'s positive\neffects.\nThe more positive effects\nthe {{opponent}} has, the\nmore {{damage}}."
+  }
+ ]
+}

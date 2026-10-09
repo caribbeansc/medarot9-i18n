@@ -1,0 +1,135 @@
+{
+ "file": "story/spt/f09_040_102_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1040,
+   "src": "83498cc08f8e",
+   "t": "Welcome back~!"
+  },
+  {
+   "i": 1043,
+   "src": "5fca4b48de2a",
+   "t": "Um..."
+  },
+  {
+   "i": 1051,
+   "src": "f0c12583b673",
+   "t": "Did you ask the {{janitor}}?"
+  },
+  {
+   "i": 1062,
+   "src": "869fd5f0d6e5",
+   "t": "Yes, um--"
+  },
+  {
+   "i": 1067,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1073,
+   "src": "fb3d86807b27",
+   "t": "Sorry, the package just arrived."
+  },
+  {
+   "i": 1076,
+   "src": "3c3ea71793f1",
+   "t": "A clerk from the harbor came all the\nway to school--"
+  },
+  {
+   "i": 1084,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1089,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1095,
+   "src": "bea73e8f7710",
+   "t": "Oh, what's wrong?"
+  },
+  {
+   "i": 1098,
+   "src": "92af32eefc63",
+   "t": "Are you angry?"
+  },
+  {
+   "i": 1106,
+   "src": "ea5c9c05df56",
+   "t": "N-no, um--"
+  },
+  {
+   "i": 1114,
+   "src": "acc16e2edcac",
+   "t": "Where are my {{club}} members?"
+  },
+  {
+   "i": 1119,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1125,
+   "src": "9f03285ec3e2",
+   "t": "{{club|cap}} members... hm."
+  },
+  {
+   "i": 1132,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1141,
+   "src": "c130b31afd6d",
+   "t": "Ah, if you mean the {{exploration_club}}\nmembers--"
+  },
+  {
+   "i": 1149,
+   "src": "6b8c0fa60198",
+   "t": "The Council Pres. asked them for\nsomething,"
+  },
+  {
+   "i": 1152,
+   "src": "323660898228",
+   "t": "so they all went off somewhere\ntogether."
+  },
+  {
+   "i": 1163,
+   "src": "577b49db34ad",
+   "t": "Somewhere..."
+  },
+  {
+   "i": 1166,
+   "src": "c83c555ece69",
+   "t": "Where did they go?!"
+  },
+  {
+   "i": 1171,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1180,
+   "src": "925c34e3cc29",
+   "t": "W-well, I don't know where."
+  },
+  {
+   "i": 1183,
+   "src": "e6bc727e4410",
+   "t": "I'm sure they'll be back soon, yes."
+  },
+  {
+   "i": 1194,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

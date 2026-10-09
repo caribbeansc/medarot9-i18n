@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f06_020_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "68946933a9e9",
+   "t": "So,"
+  },
+  {
+   "i": 1041,
+   "src": "1e34002c66d5",
+   "t": "are you enjoying summer vacation?"
+  },
+  {
+   "i": 1052,
+   "src": "8a290d06f025",
+   "t": "Of course!"
+  },
+  {
+   "i": 1060,
+   "src": "20e8e4dcf7b2",
+   "t": "Oh, but my parents got worried..."
+  },
+  {
+   "i": 1063,
+   "src": "affef9d647eb",
+   "t": "They assumed I'd come home for the\nsummer."
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "ca2d13aba6d8",
+   "t": "First-years can't go home\nuntil winter, you know."
+  },
+  {
+   "i": 1082,
+   "src": "caafe29687cb",
+   "t": "Once you're a second-year, you can go\nhome in summer too."
+  },
+  {
+   "i": 1085,
+   "src": "dcebc356886e",
+   "t": "Though the time is short."
+  },
+  {
+   "i": 1093,
+   "src": "6d1837fcb6a6",
+   "t": "Oh right, {{ryoma}}-san just got back, too."
+  },
+  {
+   "i": 1096,
+   "src": "c2a9711458b1",
+   "t": "How was it?"
+  },
+  {
+   "i": 1101,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1107,
+   "src": "437d7ff30621",
+   "t": "Ordinary."
+  },
+  {
+   "i": 1115,
+   "src": "b8544f396e0c",
+   "t": "I met my parents like normal,"
+  },
+  {
+   "i": 1118,
+   "src": "b5e694dabfb6",
+   "t": "met up with the local guys and ate--"
+  },
+  {
+   "i": 1125,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1131,
+   "src": "c575c2c39691",
+   "t": "Hello, hello, everyone."
+  }
+ ]
+}

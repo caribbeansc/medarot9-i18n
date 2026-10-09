@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1e_meda_117_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1038,
+   "src": "356c8a3e96d7",
+   "t": "Me pregunto cómo será afuera de la"
+  },
+  {
+   "i": 1041,
+   "src": "b1f1a77e1064",
+   "t": "escuela. Me gustaría ir allí alguna vez."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f06_070_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "e9369a0f7621",
+   "t": "Disculpa."
+  },
+  {
+   "i": 1038,
+   "src": "d9a2bbf2762e",
+   "t": "No veo hacia adelante."
+  },
+  {
+   "i": 1046,
+   "src": "f2fae7cd7bd7",
+   "t": "¿Te importaría hacerte a un lado?"
+  }
+ ]
+}

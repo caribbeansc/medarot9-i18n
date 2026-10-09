@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f04_010_117_00_t008.spt",
+ "lines": [
+  {
+   "i": 1131,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1142,
+   "src": "9c466fc0770a",
+   "t": "Let me introduce her."
+  },
+  {
+   "i": 1150,
+   "src": "9824c88c1dc9",
+   "t": "Starting today, she'll be studying in this\n{{class}} with you."
+  },
+  {
+   "i": 1153,
+   "src": "4694cd7d6c3e",
+   "t": "This is {{saika}}-san."
+  },
+  {
+   "i": 1169,
+   "src": "5081eec42a79",
+   "t": "*Murmur*..."
+  },
+  {
+   "i": 1180,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1191,
+   "src": "c1aac1a0e359",
+   "t": "H-hello..."
+  },
+  {
+   "i": 1194,
+   "src": "80ad379a147a",
+   "t": "My name is {{saika}}."
+  },
+  {
+   "i": 1202,
+   "src": "e16f1eb5d9c1",
+   "t": "Because of my family, I got here a bit\nlate,"
+  },
+  {
+   "i": 1205,
+   "src": "1eb776b870ae",
+   "t": "but I'm a first-year just like all of you."
+  },
+  {
+   "i": 1213,
+   "src": "965236a01e04",
+   "t": "So, um..."
+  },
+  {
+   "i": 1221,
+   "src": "50ec6b739851",
+   "t": "I..."
+  },
+  {
+   "i": 1229,
+   "src": "11e10ed3adf5",
+   "t": "I'd be so happy if we could be friends!"
+  },
+  {
+   "i": 1246,
+   "src": "7758134c738e",
+   "t": "Please take care of me!"
+  },
+  {
+   "i": 1262,
+   "src": "98c0cb6cb401",
+   "t": "Nice to meet you all~!"
+  },
+  {
+   "i": 1273,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1284,
+   "src": "269ae368d6ca",
+   "t": "Now please take your seat. Yours is"
+  },
+  {
+   "i": 1287,
+   "src": "f8a13c1744bd",
+   "t": "in the back row, by the hallway."
+  },
+  {
+   "i": 1296,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1302,
+   "src": "74d4623a0e99",
+   "t": "Okay."
+  }
+ ]
+}

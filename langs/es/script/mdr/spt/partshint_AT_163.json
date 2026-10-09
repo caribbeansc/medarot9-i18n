@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_163.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "50a377c1869d",
+   "t": "<c:00ff00>Técnica:<c>Planta Enfriador\nColoca un dispositivo que\n{{up}} el {{cooldown}} de\nlas {{part|pl}} de todo el\nequipo {{ally_battle_term}}.\nAl colocarlo\nrepetidamente {{up}} el\n{{armor}} y el aumento."
+  }
+ ]
+}

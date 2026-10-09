@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_2d2_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "dc847932ab89",
+   "t": "{{ptolemy}}"
+  },
+  {
+   "i": 1038,
+   "src": "880d3f03ac2e",
+   "t": "Is it time yet?"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description103.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b5018f4fc4bc",
+   "t": "Set-up (skill)"
+  },
+  {
+   "i": 11,
+   "src": "1700843f0f50",
+   "t": "A <c:ffff00>support type<c> <c:ffff00>skill<c>: the ability to handle <c:ffff00>{{part|pl}}<c> with\nmechanisms for setting up <c:ffff00>objects<c>. <c:ffff00>Actions<c> that\nplace <c:ffff00>Traps<c> and <c:ffff00>Plants<c> belong to it.\n\nThe higher the <c:ffff00>{{skill_level}}<c>, the faster <c:ffff00>{{prep}}<c> and\n<c:ffff00>{{cooldown}}<c> are, and the higher <c:ffff00>defense power<c> and\n<c:ffff00>evasion power<c> become.\nOn Set-up {{part|pl}}, the <c:ffff00>{{cooldown}}<c> stat rises when the\n<c:ffff00>{{charge_gauge}}<c> fills."
+  }
+ ]
+}

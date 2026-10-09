@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_3a_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "89de420946d3",
+   "t": "Ya casi llega el segundo semestre. "
+  },
+  {
+   "i": 1041,
+   "src": "82213733a606",
+   "t": "Aun así quedaron varios de primero."
+  },
+  {
+   "i": 1049,
+   "src": "e990c3200cba",
+   "t": "Sobre todo ese tipo me sorprendió."
+  },
+  {
+   "i": 1052,
+   "src": "9f323ddbf3ba",
+   "t": "Creí que era puro hablar y que"
+  },
+  {
+   "i": 1060,
+   "src": "4f4a934f4f45",
+   "t": "se rendiría primero, pero... resultó tener"
+  },
+  {
+   "i": 1063,
+   "src": "0540cefd9a7b",
+   "t": "bastante aguante. ¿Quién lo diría? Jeje."
+  }
+ ]
+}

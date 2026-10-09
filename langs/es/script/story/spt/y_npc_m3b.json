@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3b.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "e9bcfb45423c",
+   "t": "{{nagisa}}"
+  },
+  {
+   "i": 1653,
+   "src": "24f4a9ce3bd4",
+   "t": "¡Claro que sí!"
+  },
+  {
+   "i": 1656,
+   "src": "e3e3c57e7bf3",
+   "t": "¿{{robattle|pl|cap}}? ¡Siempre estoy listo!"
+  }
+ ]
+}

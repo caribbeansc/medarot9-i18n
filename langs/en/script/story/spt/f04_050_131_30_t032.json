@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f04_050_131_30_t032.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "300f662aa8c4",
+   "t": "A brain trust second to none "
+  },
+  {
+   "i": 1038,
+   "src": "ecce34b0cd81",
+   "t": "when it comes to Medabot knowledge!"
+  },
+  {
+   "i": 1046,
+   "src": "4c22f487ba2e",
+   "t": "With sharp tactics and steady play,"
+  },
+  {
+   "i": 1049,
+   "src": "71343cfa7f5d",
+   "t": "they've advanced to Round 2."
+  },
+  {
+   "i": 1057,
+   "src": "84975103cab4",
+   "t": "Team {{medabot_research_club}}!"
+  }
+ ]
+}

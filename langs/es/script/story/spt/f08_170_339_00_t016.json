@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f08_170_339_00_t016.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1044,
+   "src": "d257dadfdcb7",
+   "t": "¡Víctima encontrada!"
+  },
+  {
+   "i": 1051,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1060,
+   "src": "b9807d970dd8",
+   "t": "¡Iniciando operación de rescate!"
+  },
+  {
+   "i": 1070,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1079,
+   "src": "8b0c74877273",
+   "t": "¡Revisen el punto de apoyo!"
+  },
+  {
+   "i": 1089,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1098,
+   "src": "e47084e41662",
+   "t": "¡Tres puntos asegurados!"
+  },
+  {
+   "i": 1108,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1117,
+   "src": "cad62e9af3e9",
+   "t": "¡Eslinga colocada!"
+  },
+  {
+   "i": 1124,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1130,
+   "src": "8b07702b3649",
+   "t": "¡Descendiendo!"
+  }
+ ]
+}

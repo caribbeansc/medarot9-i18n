@@ -1,0 +1,75 @@
+{
+ "file": "mdr/spt/mdr_tutorial.spt",
+ "lines": [
+  {
+   "i": 2354,
+   "src": "18e2e6d0fbff",
+   "t": "Save your activities so far"
+  },
+  {
+   "i": 2361,
+   "src": "888d671010a2",
+   "t": "Set up your {{medabot|pl}}"
+  },
+  {
+   "i": 2375,
+   "src": "3b624a1c3d64",
+   "t": "Check your info"
+  },
+  {
+   "i": 2379,
+   "src": "7d7bb7f0cb4a",
+   "t": "Info on allies who can join {{robattle|pl}}"
+  },
+  {
+   "i": 2387,
+   "src": "db8ad828bbd8",
+   "t": "Check {{part}} information"
+  },
+  {
+   "i": 2394,
+   "src": "60fdeb7b0c01",
+   "t": "Check the map and set a destination"
+  },
+  {
+   "i": 2401,
+   "src": "6105ba1a7d0f",
+   "t": "Check {{mission}} progress reports"
+  },
+  {
+   "i": 2408,
+   "src": "da18f5438c63",
+   "t": "Browse the {{medabot}} album"
+  },
+  {
+   "i": 2415,
+   "src": "a51efcbba00c",
+   "t": "{{robattle}} and swap {{part|pl}} over wireless"
+  },
+  {
+   "i": 2422,
+   "src": "e502fd3bad01",
+   "t": "Check and use your items"
+  },
+  {
+   "i": 2429,
+   "src": "76e70360d81b",
+   "t": "Check and change {{robattle}} settings"
+  },
+  {
+   "i": 2436,
+   "src": "640e66a4d558",
+   "t": "Review {{robattle}} rules and {{terms}}"
+  },
+  {
+   "i": 3098,
+   "src": "6f1df9d310e5",
+   "t": "Let's pick the <c:00ff00>{{settings|cap}}<c> icon!"
+  },
+  {
+   "i": 3121,
+   "src": "244bfcdf02c3",
+   "t": "Let's {{launch}} the map app!"
+  }
+ ]
+}

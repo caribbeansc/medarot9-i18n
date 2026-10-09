@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description114.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3454619c0d9f",
+   "t": "{{shooting|cap}} (rend.)"
+  },
+  {
+   "i": 11,
+   "src": "797a28977466",
+   "t": "Tipo de <c:ffff00>{{stats}}<c> de la <c:ffff00>{{part}}<c> de <c:ffff00>{{legs}}<c>.\n\nMide la adaptación al combate de {{shooting}}, en ataque\ny {{defend}}.\nA mayor valor, la <c:ffff00>habilidad de {{shooting}}<c> tiene <c:ffff00>{{prep}}<c> y\n<c:ffff00>{{cooldown}}<c> más rápidos, y sus <c:ffff00>ataques de {{shooting}}<c>\nganan <c:ffff00>{{success_power}}<c> y <c:ffff00>{{attack_power}}<c>.\nAdemás suben el <c:ffff00>poder de {{defend}}<c> y el <c:ffff00>poder de<c>\n<c:ffff00>{{evade}}<c> ante los ataques de {{shooting}} del {{opponent}}."
+  }
+ ]
+}

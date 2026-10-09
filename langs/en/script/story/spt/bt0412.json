@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0412.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 872,
+   "src": "095c7985c057",
+   "t": "A {{robattle}}?"
+  },
+  {
+   "i": 875,
+   "src": "df4b753ddab9",
+   "t": "I guess so..."
+  }
+ ]
+}

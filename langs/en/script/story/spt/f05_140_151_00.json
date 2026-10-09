@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f05_140_151_00.spt",
+ "lines": [
+  {
+   "i": 1262,
+   "src": "e1a18b4233d5",
+   "t": "Take a break?"
+  },
+  {
+   "i": 1263,
+   "src": "12c906ac42fa",
+   "t": "Rest"
+  },
+  {
+   "i": 1264,
+   "src": "49ebc5ac59a9",
+   "t": "Don't rest"
+  },
+  {
+   "i": 1268,
+   "src": "49ebc5ac59a9",
+   "t": "Don't rest"
+  }
+ ]
+}

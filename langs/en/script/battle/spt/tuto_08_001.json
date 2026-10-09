@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/tuto_08_001.spt",
+ "lines": [
+  {
+   "i": 1118,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1124,
+   "src": "a251dca814f8",
+   "t": "The Crossfire you just set is \"Shooting\",\nso make the next one a \"Fighting\"\nCrossfire.          "
+  },
+  {
+   "i": 1129,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1135,
+   "src": "d8ba69e85271",
+   "t": "Press right twice and select\na {{part}} that can use Crossfire.              "
+  },
+  {
+   "i": 1193,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1199,
+   "src": "9c05d1d72e1f",
+   "t": "Press $* to confirm the command.      "
+  }
+ ]
+}

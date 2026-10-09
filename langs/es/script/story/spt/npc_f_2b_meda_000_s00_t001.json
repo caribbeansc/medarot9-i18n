@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_2b_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "9ebb4aab5418",
+   "t": "Blazermate"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_91.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e20ec0760ef5",
+   "t": "Healing goldfish-{{type}}\n{{medabot}} with a dazzling\ngolden sheen.\n \nIts {{full_fix}} fully\nrestores one {{part}}. They\nsay some {{medabot|pl}} fall\nfor its beauty and\nkindness."
+  }
+ ]
+}

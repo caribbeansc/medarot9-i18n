@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_01_02_04_t022.spt",
+ "lines": [
+  {
+   "i": 1043,
+   "src": "77cf45f91b7e",
+   "t": "Is here okay?"
+  },
+  {
+   "i": 1050,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1056,
+   "src": "b01f7d610a65",
+   "t": "Yeah, perfect."
+  }
+ ]
+}

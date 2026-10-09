@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f04_050_131_50_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1037,
+   "src": "f6024997564e",
+   "t": "¡El {{exploration_club}} gana!"
+  },
+  {
+   "i": 1040,
+   "src": "56ac9ac95ba9",
+   "t": "¡¡El {{exploration_club}} gana!!"
+  },
+  {
+   "i": 1047,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 1056,
+   "src": "742b5aed6643",
+   "t": "No puede ser..."
+  },
+  {
+   "i": 1063,
+   "src": "e9bcfb45423c",
+   "t": "{{nagisa}}"
+  },
+  {
+   "i": 1072,
+   "src": "a93893adbcbe",
+   "t": "El {{rescue_club}}..."
+  },
+  {
+   "i": 1079,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1085,
+   "src": "770434c9efa9",
+   "t": "¿Qué club ganó el campeonato?"
+  },
+  {
+   "i": 1092,
+   "src": "02d3fd812897",
+   "t": "{{megumi}}"
+  },
+  {
+   "i": 1101,
+   "src": "01c396a3e89f",
+   "t": "¿Existía ese {{club}}?"
+  },
+  {
+   "i": 1104,
+   "src": "6efb48daae28",
+   "t": "Eh, ¿en el sótano?"
+  },
+  {
+   "i": 1111,
+   "src": "97c3154bbe1b",
+   "t": "{{yukishiro}}"
+  },
+  {
+   "i": 1117,
+   "src": "f7f1ad743e24",
+   "t": "{{club|cap}} de Detectives..."
+  },
+  {
+   "i": 1124,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1133,
+   "src": "81321ef10457",
+   "t": "No, es el {{exploration_club}}, dicen."
+  },
+  {
+   "i": 1140,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1149,
+   "src": "3c0ee25032e6",
+   "t": "{{exploration_club}}..."
+  }
+ ]
+}

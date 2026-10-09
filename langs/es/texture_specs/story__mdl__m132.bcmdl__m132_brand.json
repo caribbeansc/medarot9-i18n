@@ -1,0 +1,53 @@
+{
+ "rel": "story/mdl/m132.bcmdl",
+ "tex": "m132_brand",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "#FFFFFFFF",
+  "grow": 1,
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    8,
+    16,
+    46,
+    14
+   ],
+   "baseline": 29,
+   "erase_box": [
+    8,
+    16,
+    46,
+    31
+   ],
+   "text": "FESTIVAL",
+   "font": "anton",
+   "cap": 12,
+   "scale_x": 0.93,
+   "fill": "#C8102E",
+   "stroke": null,
+   "crisp": 0.3
+  },
+  {
+   "box": [
+    8,
+    32,
+    46,
+    14
+   ],
+   "baseline": 45,
+   "erase": "none",
+   "text": "CULTURAL",
+   "font": "anton",
+   "cap": 12,
+   "scale_x": 0.84,
+   "fill": "#1E6FD0",
+   "stroke": null,
+   "crisp": 0.3
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f08_180_113_00_t016.spt",
+ "lines": [
+  {
+   "i": 1129,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1140,
+   "src": "1631e66d429e",
+   "t": "Yo también soy estudiante. No es"
+  },
+  {
+   "i": 1143,
+   "src": "61d9f1cfba85",
+   "t": "mi intención limitar los clubes."
+  },
+  {
+   "i": 1151,
+   "src": "4555f14ef02c",
+   "t": "Pero la cosa cambia cuando peligra"
+  },
+  {
+   "i": 1154,
+   "src": "23cb2d20e642",
+   "t": "la seguridad de los alumnos."
+  },
+  {
+   "i": 1162,
+   "src": "bf8355d76d59",
+   "t": "Ya no podemos dejar el problema así."
+  },
+  {
+   "i": 1165,
+   "src": "980909dd34dc",
+   "t": "Pensamos prohibir la {{app}} de {{detect}}."
+  },
+  {
+   "i": 1180,
+   "src": "29688cb705dd",
+   "t": "La {{app}} queda vetada hasta que haya"
+  },
+  {
+   "i": 1183,
+   "src": "b40d0e38c4fa",
+   "t": "una decisión oficial. ¿Entendido?"
+  },
+  {
+   "i": 1204,
+   "src": "ac3493770db7",
+   "t": "¿Tienes algo que decir?"
+  },
+  {
+   "i": 1211,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1220,
+   "src": "1e60ab7f65f3",
+   "t": "No."
+  },
+  {
+   "i": 1227,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1236,
+   "src": "3c2cc677e2cb",
+   "t": "Y además--"
+  },
+  {
+   "i": 1244,
+   "src": "9145f618e1ad",
+   "t": "El {{exploration_club}} también ayudará\na preparar el festival deportivo."
+  },
+  {
+   "i": 1260,
+   "src": "aca19eb974d1",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1271,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1282,
+   "src": "9f689353bd6a",
+   "t": "Silencio."
+  }
+ ]
+}

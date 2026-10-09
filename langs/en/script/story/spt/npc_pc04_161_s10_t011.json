@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_pc04_161_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "3789abcff109",
+   "t": "The destination is surely that mine..."
+  },
+  {
+   "i": 1046,
+   "src": "dce6f8e01085",
+   "t": "But you've had it rough."
+  },
+  {
+   "i": 1049,
+   "src": "08ef7c4fb06f",
+   "t": "You were just held captive a moment\nago."
+  },
+  {
+   "i": 1057,
+   "src": "166323598526",
+   "t": "What are you talking about?"
+  },
+  {
+   "i": 1060,
+   "src": "5773f6220190",
+   "t": "I basically just rested the whole time."
+  },
+  {
+   "i": 1068,
+   "src": "7aa0b100ef29",
+   "t": "Well, I was alone with the {{principal}},"
+  },
+  {
+   "i": 1071,
+   "src": "aebcabdc0f81",
+   "t": "so I'm mentally wiped out... Ha ha."
+  }
+ ]
+}

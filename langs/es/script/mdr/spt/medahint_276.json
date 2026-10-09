@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_276.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5a0e18302e79",
+   "t": "{{medabot}} {{type}} escarabajo\nbuceador, gran nadador\nincluso entre los insectos\nacuáticos.\n \nDe larva tiene un veneno\nde caza que paraliza al\n{{enemy}} y anula su\n{{defend}} y sus acciones."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_24.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0dd9369ebecd",
+   "t": "<c:00ff00>Action:<c> {{charge_buster}}\nA ranged attack that adds\nthe\n{{charge_gauge}} % to its\n{{power}}.\nAfter acting, consumes\n10% of the Charge\nGauge.\nHas piercing."
+  }
+ ]
+}

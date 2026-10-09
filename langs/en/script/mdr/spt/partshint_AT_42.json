@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_42.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2500bfd9a128",
+   "t": "<c:00ff00>Action:<c> {{hammer}}\nA slow melee attack with\nhigh {{power}}.\nIgnores the {{defend}} boost\nfrom the {{opponent}}'s\ndefending."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free03_01_02_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9b0a088e49c4",
+   "t": "{{mission|cap}} '{{explore|cap}}: {{mine_shaft}}\n{{entrance}}' begins!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "162e523f0510",
+   "t": "You should be able to get down from\nsomewhere along\nthe mountain path."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f1f2.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "2fcba1bd9f86",
+   "t": "{{suiro}}"
+  },
+  {
+   "i": 1653,
+   "src": "d84af7d12392",
+   "t": "Fine."
+  },
+  {
+   "i": 1656,
+   "src": "4349482e2dd0",
+   "t": "...Let's fight!"
+  }
+ ]
+}

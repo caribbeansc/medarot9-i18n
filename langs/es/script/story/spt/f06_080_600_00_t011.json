@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f06_080_600_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "ad55493008ee",
+   "t": "¡¡El mar!!"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "263e08f5c6ce",
+   "t": "Y bien, ¿qué hacemos?"
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "d845dda2564f",
+   "t": "Mmm. Por ahora"
+  },
+  {
+   "i": 1065,
+   "src": "9730cb5af0dd",
+   "t": "caminemos un poco y robobatallemos."
+  },
+  {
+   "i": 1075,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1084,
+   "src": "12f1862b49af",
+   "t": "Aunque lo hagas,"
+  },
+  {
+   "i": 1087,
+   "src": "5c3893b85d67",
+   "t": "¿no volverán a aparecer enseguida?"
+  },
+  {
+   "i": 1097,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1106,
+   "src": "9e9d0c32dffd",
+   "t": "Qué más da, con que aguante"
+  },
+  {
+   "i": 1109,
+   "src": "829e9f19dfef",
+   "t": "hasta el último día de vacaciones, ¿va?"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "file": "mdr/spt/shop_tutorial.spt",
+ "lines": [
+  {
+   "i": 4715,
+   "src": "2375a0e51baa",
+   "t": "No tienes suficiente dinero."
+  },
+  {
+   "i": 4730,
+   "src": "887be9728e26",
+   "t": "Has llegado al límite de posesión."
+  },
+  {
+   "i": 6595,
+   "src": "2375a0e51baa",
+   "t": "No tienes suficiente dinero."
+  },
+  {
+   "i": 6610,
+   "src": "75e296e50955",
+   "t": "Ya lo tienes."
+  },
+  {
+   "i": 6934,
+   "src": "0da2cf604308",
+   "t": "<c>: ¿quieres ponerle nombre?"
+  },
+  {
+   "i": 8375,
+   "src": "2239f68e36c9",
+   "t": "Si no te alcanza, tendrás que <c:ff00ff>vender<c>"
+  },
+  {
+   "i": 8378,
+   "src": "f950d4cd11ec",
+   "t": "tus piezas para tener dinero..."
+  },
+  {
+   "i": 8386,
+   "src": "90950e1a444d",
+   "t": "Ahora debería tener de sobra."
+  },
+  {
+   "i": 8394,
+   "src": "283208eea2a7",
+   "t": "Bien, voy a comprar {{part|pl}}."
+  },
+  {
+   "i": 8413,
+   "src": "f836aa8ece5e",
+   "t": "Vaya, venden de todo aquí."
+  },
+  {
+   "i": 8416,
+   "src": "b77c9711dde7",
+   "t": "Además de {{part|pl}}, hay consumibles."
+  },
+  {
+   "i": 8424,
+   "src": "aa1f59235998",
+   "t": "Pero hoy he venido a comprar <c:ff00ff>{{part|pl}}<c>."
+  },
+  {
+   "i": 8443,
+   "src": "ae92c8dd2920",
+   "t": "Puedo comprar pieza por pieza"
+  },
+  {
+   "i": 8446,
+   "src": "1a4b91756bd5",
+   "t": "o un juego {{original}} completo..."
+  },
+  {
+   "i": 8454,
+   "src": "d170fe7a04a0",
+   "t": "Parece más barato comprar todo junto,"
+  },
+  {
+   "i": 8457,
+   "src": "f7c91de2bb3f",
+   "t": "así que voy por el <c:ff00ff>set<c>."
+  },
+  {
+   "i": 8478,
+   "src": "3712f4357693",
+   "t": "Cuál elegiré..."
+  },
+  {
+   "i": 8551,
+   "src": "5f07920b4ccb",
+   "t": "Debería tener dinero suficiente."
+  },
+  {
+   "i": 8554,
+   "src": "015eabc966f2",
+   "t": "Voy a comprar {{part|pl}}."
+  },
+  {
+   "i": 8573,
+   "src": "6ccaba8df010",
+   "t": "No, otras cosas también me interesan,"
+  },
+  {
+   "i": 8576,
+   "src": "a87fe4ec8cd6",
+   "t": "pero hoy vine a comprar <c:ff00ff>{{part|pl}}<c>."
+  },
+  {
+   "i": 8595,
+   "src": "7dcaf3d80dae",
+   "t": "Parece que comprar en <c:ff00ff>set<c> sale\nmás a cuenta."
+  },
+  {
+   "i": 8619,
+   "src": "5f07920b4ccb",
+   "t": "Debería tener dinero suficiente."
+  },
+  {
+   "i": 8622,
+   "src": "015eabc966f2",
+   "t": "Voy a comprar {{part|pl}}."
+  }
+ ]
+}

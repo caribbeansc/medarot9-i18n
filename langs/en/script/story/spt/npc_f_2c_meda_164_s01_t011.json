@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2c_meda_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3d612eeb1007",
+   "t": "{{sailormate}}"
+  },
+  {
+   "i": 1038,
+   "src": "5dbbd0233f15",
+   "t": "I like mixing different parts"
+  },
+  {
+   "i": 1041,
+   "src": "cafe96edc87c",
+   "t": "instead of using a set."
+  },
+  {
+   "i": 1049,
+   "src": "0d13af741206",
+   "t": "If you combine them well, it looks cute\nand"
+  },
+  {
+   "i": 1052,
+   "src": "95f863151a80",
+   "t": "stylish, different from everyone else, I\nthink."
+  }
+ ]
+}

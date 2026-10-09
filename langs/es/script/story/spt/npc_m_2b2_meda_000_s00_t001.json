@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_2b2_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d0f3e43d8d58",
+   "t": "Ours Blanc"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

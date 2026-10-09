@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f11_240_955_00_t015.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f71322c5c57d",
+   "t": "{{principal}}"
+  },
+  {
+   "i": 1049,
+   "src": "34a586ee71b9",
+   "t": "You're different from the Rubberobo\nGang\nand the {{select_corps}}."
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1065,
+   "src": "99506a0d8456",
+   "t": "Why is that?"
+  },
+  {
+   "i": 1079,
+   "src": "f71322c5c57d",
+   "t": "{{principal}}"
+  },
+  {
+   "i": 1085,
+   "src": "e66730193504",
+   "t": "Because you are students educated at\nthis academy."
+  },
+  {
+   "i": 1088,
+   "src": "01de87fc84aa",
+   "t": "That's why I founded this academy."
+  },
+  {
+   "i": 1111,
+   "src": "9869db082a1a",
+   "t": "Now then."
+  }
+ ]
+}

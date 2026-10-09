@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_251.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "851151361879",
+   "t": "Modelo inicial de {{medabot}}\n{{type}} {{submarine}} que navega\nbajo el gran mar.\n{{unit|cap}} con {{medachange}}\nexperimental para ayudar\nal {{medafighter}} a\nmoverse. Forma\nsumergida: \"Uzushio-go\"\n(nombre en clave)."
+  }
+ ]
+}

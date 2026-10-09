@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc03_161_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "080d5d5d69cd",
+   "t": "The {{idol_club}}, huh."
+  },
+  {
+   "i": 1041,
+   "src": "36343cf0267b",
+   "t": "Let's go, let's go."
+  }
+ ]
+}

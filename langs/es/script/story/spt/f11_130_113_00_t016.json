@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_130_113_00_t016.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1049,
+   "src": "2be59af7741c",
+   "t": "Vamos al portón. Primero "
+  },
+  {
+   "i": 1052,
+   "src": "898e6aa86c81",
+   "t": "hay que ver quién es."
+  },
+  {
+   "i": 1060,
+   "src": "d969c4571326",
+   "t": "Te avisaré enseguida."
+  },
+  {
+   "i": 1063,
+   "src": "cdc50dc78307",
+   "t": "Hasta entonces, gana tiempo como sea."
+  },
+  {
+   "i": 1074,
+   "src": "6215b954e0b0",
+   "t": "Bien, vamos."
+  }
+ ]
+}

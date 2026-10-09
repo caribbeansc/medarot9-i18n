@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f04_020_117_00_t010.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1042,
+   "src": "68f40b007c73",
+   "t": "Please join the {{gardening_club}}!"
+  },
+  {
+   "i": 1049,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1055,
+   "src": "11b0df2251f3",
+   "t": "Marine sports!"
+  },
+  {
+   "i": 1062,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1068,
+   "src": "42a72916b905",
+   "t": "The Fishing {{club|cap}} is great too~."
+  },
+  {
+   "i": 1084,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1093,
+   "src": "5956666f4c05",
+   "t": "Oh no, what do I do? Everything sounds"
+  },
+  {
+   "i": 1096,
+   "src": "877c09ba5250",
+   "t": "so fun that I can't decide~."
+  }
+ ]
+}

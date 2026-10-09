@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/tuto_06_001.spt",
+ "lines": [
+  {
+   "i": 1108,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1114,
+   "src": "a50dac0cf310",
+   "t": "Also, there are three points\nto note about combos.                         "
+  },
+  {
+   "i": 1119,
+   "src": "2c872704cda5",
+   "t": "First, a combo\n<c:ff00ff>can't repeat a {{part}}<c>.           "
+  },
+  {
+   "i": 1124,
+   "src": "4c5518324125",
+   "t": "Second, it needs the {{prep}} and\n{{cooldown}} of every {{part}} in the combo.                                 "
+  },
+  {
+   "i": 1129,
+   "src": "d4cd974bc7e3",
+   "t": "Third, if <c:ff00ff>even one {{part}}<c> is destroyed\nduring {{prep}}, the combo is <c:ff00ff>canceled<c>.                                                     "
+  },
+  {
+   "i": 1134,
+   "src": "b0f8f8889352",
+   "t": "Combos prep slowly, leaving gaps,\nso they cancel easily, but...                                               "
+  },
+  {
+   "i": 1139,
+   "src": "077fa7ee1928",
+   "t": "Master it and it's an attack {{technique}}\nthat widens your strategy a lot.                                             "
+  },
+  {
+   "i": 1144,
+   "src": "40b3a408ca05",
+   "t": "Now, use combos to win\nthis {{robattle}}."
+  },
+  {
+   "i": 1152,
+   "src": "412411c8833c",
+   "t": "Understood, I'll give it a try."
+  }
+ ]
+}

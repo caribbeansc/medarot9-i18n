@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1a_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1038,
+   "src": "408dd6711cf5",
+   "t": "Qué ring tan genial..."
+  },
+  {
+   "i": 1041,
+   "src": "e3b023ac3a9c",
+   "t": "¡El próximo año será nuestro...!"
+  }
+ ]
+}

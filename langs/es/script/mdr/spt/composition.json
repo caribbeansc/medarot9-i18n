@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/composition.spt",
+ "lines": [
+  {
+   "i": 1467,
+   "src": "d42af9014fe2",
+   "t": "Síntesis de {{medalia}}"
+  },
+  {
+   "i": 1476,
+   "src": "d5aa5e3e18ef",
+   "t": "Selecciona la {{medalia}} que será la base."
+  },
+  {
+   "i": 1509,
+   "src": "4d24697ea281",
+   "t": "Elige la {{medalia}} que será el material."
+  },
+  {
+   "i": 1894,
+   "src": "9bd9db121d9b",
+   "t": "¿Confirmas esta síntesis?"
+  },
+  {
+   "i": 2238,
+   "src": "79f2f63734ca",
+   "t": "La síntesis fue exitosa."
+  }
+ ]
+}

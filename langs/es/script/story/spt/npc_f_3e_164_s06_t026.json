@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t026.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "7384a2e31611",
+   "t": "Cuanto más parecidas las combines,"
+  },
+  {
+   "i": 1038,
+   "src": "9768bdfea2e5",
+   "t": "más fuerte sale, ya lo sabes, ¿no?"
+  },
+  {
+   "i": 1046,
+   "src": "048e32261dc5",
+   "t": "Pero también pasa lo contrario."
+  },
+  {
+   "i": 1049,
+   "src": "51a8ee73ca71",
+   "t": "Por ejemplo, si"
+  },
+  {
+   "i": 1057,
+   "src": "c276862be233",
+   "t": "combinas una base con otras cinco"
+  },
+  {
+   "i": 1060,
+   "src": "e82c3d8f75e3",
+   "t": "distintas en color, forma o habilidad,"
+  },
+  {
+   "i": 1068,
+   "src": "1cedb4c169c4",
+   "t": "podrías sacar una con propiedades"
+  },
+  {
+   "i": 1071,
+   "src": "a143d312ce80",
+   "t": "muy distintas a la base."
+  },
+  {
+   "i": 1079,
+   "src": "b6ca03adc0aa",
+   "t": "Es arriesgado usar {{medalia|pl}} valiosas,"
+  },
+  {
+   "i": 1082,
+   "src": "3167b7c17aea",
+   "t": "pero si te sobran, vale probar."
+  },
+  {
+   "i": 1090,
+   "src": "1b40cd3750c6",
+   "t": "Yo no tengo ese lujo, eso sí."
+  },
+  {
+   "i": 1093,
+   "src": "0e151e537708",
+   "t": "Ajaja."
+  }
+ ]
+}

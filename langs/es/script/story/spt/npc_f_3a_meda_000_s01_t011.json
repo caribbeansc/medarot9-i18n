@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3a_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "6bf82bf0f282",
+   "t": "{{chrono_rabbit}}"
+  },
+  {
+   "i": 1035,
+   "src": "ef04775fdac2",
+   "t": "Oye, oye, {{master}}, ¡vamos afuera!"
+  },
+  {
+   "i": 1038,
+   "src": "ec08300dd12c",
+   "t": "¡Quiero correr a más no poder!"
+  }
+ ]
+}

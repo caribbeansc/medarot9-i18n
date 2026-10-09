@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f07_010_130_00_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1037,
+   "src": "52bb7bfbac5f",
+   "t": "Así pues, hoy marca el"
+  },
+  {
+   "i": 1040,
+   "src": "24d9c2a88370",
+   "t": "inicio del segundo semestre--"
+  },
+  {
+   "i": 1048,
+   "src": "68d066212cb5",
+   "t": "En este primer día,"
+  },
+  {
+   "i": 1051,
+   "src": "138fc754300a",
+   "t": "tengo unas tristes noticias que dar."
+  }
+ ]
+}

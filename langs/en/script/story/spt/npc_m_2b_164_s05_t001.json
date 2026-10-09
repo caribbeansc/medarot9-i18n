@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b_164_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1035,
+   "src": "1c0b389ef921",
+   "t": "Oh, the latest parts catalog is in!"
+  },
+  {
+   "i": 1038,
+   "src": "f93eba25fb9b",
+   "t": "The president remembered after all."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f07_010_161_10_t052.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1037,
+   "src": "f0009bd28e66",
+   "t": "Let's make revealing the detection {{app}}'s"
+  },
+  {
+   "i": 1040,
+   "src": "3e68c2f7ecca",
+   "t": "password our festival attraction."
+  },
+  {
+   "i": 1050,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1059,
+   "src": "73f63a46a39b",
+   "t": "Huh?"
+  },
+  {
+   "i": 1066,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1075,
+   "src": "ff180bd21d05",
+   "t": "We'll play a simple game. Win it,"
+  },
+  {
+   "i": 1078,
+   "src": "2a6d1ada3475",
+   "t": "and you get the password, sort of\nthing..."
+  },
+  {
+   "i": 1085,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1091,
+   "src": "c93c6d8d682d",
+   "t": "What's this simple game?"
+  },
+  {
+   "i": 1101,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1107,
+   "src": "76d25405a8f7",
+   "t": "Well, what could it be?"
+  },
+  {
+   "i": 1111,
+   "src": "52072de790a0",
+   "t": "-kun, think of something."
+  },
+  {
+   "i": 1122,
+   "src": "10bdd6b7e4bf",
+   "t": "Huh, me again?"
+  },
+  {
+   "i": 1125,
+   "src": "b2d43fdf2185",
+   "t": "All right, all right... Hmm..."
+  }
+ ]
+}

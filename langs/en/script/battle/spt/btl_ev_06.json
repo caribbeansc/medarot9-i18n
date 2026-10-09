@@ -1,0 +1,15 @@
+{
+ "file": "battle/spt/btl_ev_06.spt",
+ "lines": [
+  {
+   "i": 32,
+   "src": "e108616da469",
+   "t": "{{trap}} Description"
+  },
+  {
+   "i": 55,
+   "src": "e108616da469",
+   "t": "{{trap}} Description"
+  }
+ ]
+}

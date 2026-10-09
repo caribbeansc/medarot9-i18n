@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1c_meda_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7a441a7cc7bf",
+   "t": "{{seitei_king}}"
+  },
+  {
+   "i": 1038,
+   "src": "5c33be67cc75",
+   "t": "Watering is my job, you know~"
+  },
+  {
+   "i": 1041,
+   "src": "677ab2848d7f",
+   "t": "It's my daily routine, la la la~"
+  }
+ ]
+}

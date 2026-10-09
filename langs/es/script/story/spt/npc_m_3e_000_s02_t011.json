@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_m_3e_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1038,
+   "src": "6ab6e7a9cd63",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1041,
+   "src": "279768d127c5",
+   "t": "¿Buscas a una chica llamada {{aoi}}...?"
+  },
+  {
+   "i": 1049,
+   "src": "afc8f0e24b39",
+   "t": "¿¡Está desaparecida!?"
+  },
+  {
+   "i": 1057,
+   "src": "85ba16d4b811",
+   "t": "N-no, no es eso... Solo preguntaba"
+  },
+  {
+   "i": 1060,
+   "src": "a28751b82d6e",
+   "t": "por si la habías visto antes."
+  },
+  {
+   "i": 1065,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1071,
+   "src": "40d49e26581c",
+   "t": "...Ah, solo era eso."
+  },
+  {
+   "i": 1074,
+   "src": "16fc293bb1c7",
+   "t": "Pensé que era un caso de verdad."
+  },
+  {
+   "i": 1082,
+   "src": "9930c91a6a57",
+   "t": "En fin, da igual."
+  },
+  {
+   "i": 1085,
+   "src": "74fbc1eea719",
+   "t": "Sobre esa tal {{aoi}}-chan..."
+  },
+  {
+   "i": 1093,
+   "src": "209a18b34d1b",
+   "t": "Lo siento, no tengo ni idea."
+  },
+  {
+   "i": 1096,
+   "src": "a167e4e9c23f",
+   "t": "¿Por qué no le preguntas a una chica?"
+  }
+ ]
+}

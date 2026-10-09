@@ -1,0 +1,360 @@
+{
+ "file": "story/spt/f11_140_113_00_t021.spt",
+ "lines": [
+  {
+   "i": 1018,
+   "src": "317b1a64dfab",
+   "t": "*Tras ganar la {{robattle}}"
+  },
+  {
+   "i": 1037,
+   "src": "011fa709183e",
+   "t": "Al final, ese tipo del faro era"
+  },
+  {
+   "i": 1040,
+   "src": "e2e24becb560",
+   "t": "del mismo tipo, ¿eh?"
+  },
+  {
+   "i": 1045,
+   "src": "dc5f06e91299",
+   "t": "{{sango}}"
+  },
+  {
+   "i": 1051,
+   "src": "7ed4adad65f6",
+   "t": "Ya conozco sus puntos débiles."
+  },
+  {
+   "i": 1058,
+   "src": "2fb791d1c0b6",
+   "t": "{{ginsei}}"
+  },
+  {
+   "i": 1064,
+   "src": "19296e9d9657",
+   "t": "¡No son {{opponent}} para nosotros!"
+  },
+  {
+   "i": 1071,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1077,
+   "src": "05b318e7b5a4",
+   "t": "...Bien."
+  },
+  {
+   "i": 1093,
+   "src": "cab256cffa17",
+   "t": "*Hacia el presidente de Rescate"
+  },
+  {
+   "i": 1104,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1115,
+   "src": "7b3bbc0d9067",
+   "t": "Como puedes ver, Stollen."
+  },
+  {
+   "i": 1118,
+   "src": "7b6a62836a66",
+   "t": "Si los conoces, no son tan fuertes."
+  },
+  {
+   "i": 1126,
+   "src": "f0cbaf46cb69",
+   "t": "Rodeen hacia el {{dormitory}} y con el"
+  },
+  {
+   "i": 1129,
+   "src": "ec1784a0da5e",
+   "t": "club OO frenen a los de la trasera."
+  },
+  {
+   "i": 1136,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1142,
+   "src": "a0c57b8fcd5f",
+   "t": "¿Qué hacemos aquí?"
+  },
+  {
+   "i": 1149,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1155,
+   "src": "a1989288fc94",
+   "t": "Yo me encargo."
+  },
+  {
+   "i": 1171,
+   "src": "408d12bc1242",
+   "t": "*Pausa"
+  },
+  {
+   "i": 1182,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1193,
+   "src": "6e4764cb7fd9",
+   "t": "Entendido."
+  },
+  {
+   "i": 1209,
+   "src": "ba06ec36c7af",
+   "t": "*Pres. de Rescate avanza un poco"
+  },
+  {
+   "i": 1212,
+   "src": "74a40339a755",
+   "t": "hacia el dormitorio (portal)"
+  },
+  {
+   "i": 1223,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1234,
+   "src": "27f72902791c",
+   "t": "Rápido."
+  },
+  {
+   "i": 1237,
+   "src": "5c08205ccbf5",
+   "t": "Vamos a la entrada del {{dormitory}}."
+  },
+  {
+   "i": 1244,
+   "src": "8ae31a4af0df",
+   "t": "{{rescue_club_rival}}"
+  },
+  {
+   "i": 1250,
+   "src": "2eebb827e075",
+   "t": "O-oye, presidente."
+  },
+  {
+   "i": 1253,
+   "src": "7490c70c47df",
+   "t": "Lo que dicen estos tipos es solo--"
+  },
+  {
+   "i": 1260,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1266,
+   "src": "fdf5b09db956",
+   "t": "¿Este tipo?"
+  },
+  {
+   "i": 1269,
+   "src": "221ff2caf419",
+   "t": "¿Qué sabes tú de él?"
+  },
+  {
+   "i": 1276,
+   "src": "8ae31a4af0df",
+   "t": "{{rescue_club_rival}}"
+  },
+  {
+   "i": 1282,
+   "src": "fe46cca64783",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1289,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1295,
+   "src": "9e0d864f7316",
+   "t": "Bueno, da igual... Vamos."
+  },
+  {
+   "i": 1311,
+   "src": "da3e93f4cba4",
+   "t": "*Rescate sale, presidente al frente."
+  },
+  {
+   "i": 1314,
+   "src": "a05eca872716",
+   "t": "Tras despedirlos,"
+  },
+  {
+   "i": 1325,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1336,
+   "src": "785cf5b6cc0a",
+   "t": "Con esto, listo."
+  },
+  {
+   "i": 1339,
+   "src": "97a88a8603f7",
+   "t": "Lo siguiente..."
+  },
+  {
+   "i": 1347,
+   "src": "e91c5960a6ae",
+   "t": "V-vaya, eso fue genial,"
+  },
+  {
+   "i": 1350,
+   "src": "11f122547fb5",
+   "t": "presidente..."
+  },
+  {
+   "i": 1355,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1361,
+   "src": "7a5d2746e482",
+   "t": "Ja ja ja."
+  },
+  {
+   "i": 1368,
+   "src": "07b521d1e88c",
+   "t": "{{chiffon}}"
+  },
+  {
+   "i": 1377,
+   "src": "f3dd6b19bdbc",
+   "t": "En serio, ¿qué te pasa de repente?"
+  },
+  {
+   "i": 1380,
+   "src": "284997821eca",
+   "t": "Es como si--"
+  },
+  {
+   "i": 1387,
+   "src": "6c9a6cb734bc",
+   "t": "{{tart}}"
+  },
+  {
+   "i": 1393,
+   "src": "222c77370620",
+   "t": "¡Ahí vienen!"
+  },
+  {
+   "i": 1409,
+   "src": "a2cf339e4bf7",
+   "t": "*Voltear hacia el frente"
+  },
+  {
+   "i": 1412,
+   "src": "98031a3d2508",
+   "t": "~cámara hacia la entrada principal"
+  },
+  {
+   "i": 1417,
+   "src": "56c28b5a03fe",
+   "t": "*Varios {{medabot|pl}} invaden"
+  },
+  {
+   "i": 1420,
+   "src": "489fed193f9b",
+   "t": "~Exploración se mueve a enfrentarlos"
+  },
+  {
+   "i": 1431,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1442,
+   "src": "4da7ec4397de",
+   "t": "Mmm, bueno"
+  },
+  {
+   "i": 1445,
+   "src": "4045dc0e0b0e",
+   "t": "creo que ya deberíamos salir."
+  },
+  {
+   "i": 1452,
+   "src": "07b521d1e88c",
+   "t": "{{chiffon}}"
+  },
+  {
+   "i": 1461,
+   "src": "52c3b3b11325",
+   "t": "Desde el otro lado de la puerta"
+  },
+  {
+   "i": 1464,
+   "src": "ce1903a63321",
+   "t": "vienen para acá en oleadas."
+  },
+  {
+   "i": 1471,
+   "src": "0517113512bd",
+   "t": "{{baum}}"
+  },
+  {
+   "i": 1480,
+   "src": "ce7d817a469a",
+   "t": "Prepárate para una serie de batallas."
+  },
+  {
+   "i": 1487,
+   "src": "2fb791d1c0b6",
+   "t": "{{ginsei}}"
+  },
+  {
+   "i": 1493,
+   "src": "c1207b63f83c",
+   "t": "¡Bien!"
+  },
+  {
+   "i": 1501,
+   "src": "ce1e0c4ea00e",
+   "t": "¡Cuento contigo, Sector!"
+  },
+  {
+   "i": 1512,
+   "src": "ec49e944e626",
+   "t": "¡Déjamelo a mí!"
+  },
+  {
+   "i": 1528,
+   "src": "1ac55122bfad",
+   "t": "*A {{robattle}}"
+  },
+  {
+   "i": 1533,
+   "src": "5417fb462cdd",
+   "t": "*Asumiendo batallas consecutivas"
+  },
+  {
+   "i": 1538,
+   "src": "11ac3e0ba4ad",
+   "t": "*Texto según miembros en combate"
+  },
+  {
+   "i": 1541,
+   "src": "e1a790b1c56f",
+   "t": "Revisar / por ahora provisional"
+  }
+ ]
+}

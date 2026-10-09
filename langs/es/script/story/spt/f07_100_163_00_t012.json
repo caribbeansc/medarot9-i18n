@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f07_100_163_00_t012.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1042,
+   "src": "2c290d795d62",
+   "t": "Ah, gracias."
+  },
+  {
+   "i": 1045,
+   "src": "70909eeac8a1",
+   "t": "Pero, ¿por qué...?"
+  },
+  {
+   "i": 1065,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1073,
+   "src": "4d716163bbca",
+   "t": "¿Qué más puedo hacer?"
+  },
+  {
+   "i": 1076,
+   "src": "c80489a13881",
+   "t": "Simplemente me lo encontré."
+  },
+  {
+   "i": 1084,
+   "src": "b9396d95fdec",
+   "t": "Así que yo quedo fuera de juego."
+  },
+  {
+   "i": 1087,
+   "src": "b31dac50814a",
+   "t": "Anda, apúrate y ve al {{gymnasium}}."
+  }
+ ]
+}

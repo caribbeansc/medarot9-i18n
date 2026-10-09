@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_50.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dc185ff53b6c",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nVida o Muerte\nCada vez que un ataque\ncuerpo a cuerpo causa un\n{{critical}}, la {{leg_part}}\ngana +3 en {{fighting}}.\n*Máximo +15."
+  }
+ ]
+}

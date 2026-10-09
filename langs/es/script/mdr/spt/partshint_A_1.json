@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_1.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "8a57d91cb6bc",
+   "t": "<c:00ff00>{{mf}}:<c>Pistolero\nCon movimientos rápidos,\nusa a la vez las {{part|pl}} de\n{{right_arm}} e izquierdo.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nAmbos brazos como\n{{part|pl}} de ataque"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3f_163_s02_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "d613c6db4a17",
+   "t": "Aun así, estoy preocupada."
+  },
+  {
+   "i": 1041,
+   "src": "b1e6b59b1eae",
+   "t": "Tiendes a ser demasiado seria, ¿sabes?"
+  },
+  {
+   "i": 1049,
+   "src": "628b21c41a36",
+   "t": "No debes excederte para nada, ¿vale?"
+  },
+  {
+   "i": 1052,
+   "src": "e28fb2ae0763",
+   "t": "Prométemelo."
+  }
+ ]
+}

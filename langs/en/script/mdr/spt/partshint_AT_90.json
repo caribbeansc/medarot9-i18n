@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_90.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6104d6eaefc6",
+   "t": "<c:00ff00>Action:<c> DoubleDrive L\nUses {{part|pl}} in sequence,\nfrom the left arm to the\nright arm."
+  }
+ ]
+}

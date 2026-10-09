@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2a_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1038,
+   "src": "57fa7c209582",
+   "t": "I'm wiped from practicing every day\nlately."
+  },
+  {
+   "i": 1041,
+   "src": "69c936c65959",
+   "t": "The festival's a huge event for the Band\n{{club|cap}}."
+  }
+ ]
+}

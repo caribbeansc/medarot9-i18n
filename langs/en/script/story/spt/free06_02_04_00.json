@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/free06_02_04_00.spt",
+ "lines": [
+  {
+   "i": 1005,
+   "src": "1070ada7d7be",
+   "t": "Accept this {{mission}}?"
+  },
+  {
+   "i": 1006,
+   "src": "d06c8ec09c1f",
+   "t": "Confirm!"
+  },
+  {
+   "i": 1007,
+   "src": "d3e995f02b88",
+   "t": "Rethink it"
+  },
+  {
+   "i": 1011,
+   "src": "d06c8ec09c1f",
+   "t": "Confirm!"
+  },
+  {
+   "i": 1028,
+   "src": "d3e995f02b88",
+   "t": "Rethink it"
+  }
+ ]
+}

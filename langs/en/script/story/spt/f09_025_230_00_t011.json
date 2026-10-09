@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f09_025_230_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1038,
+   "src": "1e6bf7179d2f",
+   "t": "Whoa, you scared me."
+  },
+  {
+   "i": 1052,
+   "src": "42095fd2660d",
+   "t": "We weren't flirting, {{robo}}."
+  },
+  {
+   "i": 1055,
+   "src": "0e639cfbb94b",
+   "t": "We're on traffic control duty, {{robo}}."
+  },
+  {
+   "i": 1066,
+   "src": "5230240d0a70",
+   "t": "That's right, {{robo}}. This is closed to\ntraffic, {{robo}}."
+  },
+  {
+   "i": 1069,
+   "src": "e1f0759b7251",
+   "t": "It was decided at this morning's\nmeeting, {{robo}}."
+  },
+  {
+   "i": 1080,
+   "src": "b9ad3c5aba9d",
+   "t": "Good kids go that way, {{robo}}."
+  },
+  {
+   "i": 1083,
+   "src": "8cd18031ae87",
+   "t": "I've got a date with a sexy lady, {{robo}}~."
+  }
+ ]
+}

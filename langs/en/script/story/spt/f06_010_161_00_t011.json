@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f06_010_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "7a783ea033ef",
+   "t": "Good morning!"
+  },
+  {
+   "i": 1043,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1049,
+   "src": "571ecde32cb9",
+   "t": "Yo."
+  }
+ ]
+}

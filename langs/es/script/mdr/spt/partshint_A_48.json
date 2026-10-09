@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_48.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "403335efcc08",
+   "t": "<c:00ff00>{{mf}}:<c>Recarga\nRecupera los {{uses}} de la\n{{head_part}} de todo\ntu equipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

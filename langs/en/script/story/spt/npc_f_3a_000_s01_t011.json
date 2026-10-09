@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3a_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "02d3fd812897",
+   "t": "{{megumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "d01a5f3150a2",
+   "t": "I only stepped outside the school\ngrounds"
+  },
+  {
+   "i": 1041,
+   "src": "158981f5a438",
+   "t": "and a {{stray_medabot}} attacked me."
+  },
+  {
+   "i": 1049,
+   "src": "ab68e646a545",
+   "t": "Compared to the mainland,"
+  },
+  {
+   "i": 1052,
+   "src": "618cefb1e3f2",
+   "t": "the strays on this island seem meaner."
+  }
+ ]
+}

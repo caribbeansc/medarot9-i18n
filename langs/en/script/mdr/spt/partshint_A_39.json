@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_39.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "b9b1e35a6704",
+   "t": "<c:00ff00>{{mf}}:<c> {{bind}}\nMelee attacks by your\nwhole team gain an {{effect}}\nthat slows the opponent.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

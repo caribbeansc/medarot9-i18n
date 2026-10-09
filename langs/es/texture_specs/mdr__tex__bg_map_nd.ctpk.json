@@ -1,0 +1,145 @@
+{
+ "rel": "mdr/tex/bg_map_nd.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf",
+  "wght": 720,
+  "cap": 11,
+  "fill": {
+   "top": "#585858",
+   "bottom": "#424242"
+  },
+  "stroke": null,
+  "pad": 0,
+  "baseline": 14,
+  "crisp": 0,
+  "scale_x": 1
+ },
+ "items": [
+  {
+   "box": [
+    2,
+    0,
+    100,
+    16
+   ],
+   "erase_box": [
+    0,
+    0,
+    104,
+    16
+   ],
+   "text": "SIN  DATOS",
+   "wdth": 116,
+   "tracking": 0.6
+  },
+  {
+   "segments": [
+    [
+     0,
+     16,
+     44,
+     16,
+     0,
+     1
+    ],
+    [
+     44,
+     16,
+     32,
+     16,
+     44,
+     1
+    ]
+   ],
+   "box": [
+    2,
+    0,
+    74,
+    17
+   ],
+   "text": "FUERA DE",
+   "align": "left",
+   "wdth": 98,
+   "tracking": 0.4
+  },
+  {
+   "segments": [
+    [
+     76,
+     16,
+     44,
+     16,
+     78,
+     1
+    ],
+    [
+     124,
+     16,
+     4,
+     16,
+     123,
+     1
+    ],
+    [
+     104,
+     0,
+     24,
+     16,
+     127,
+     1
+    ]
+   ],
+   "box": [
+    79,
+    0,
+    42,
+    17
+   ],
+   "text": "ALCA",
+   "align": "left",
+   "wdth": 98,
+   "tracking": 0.5
+  },
+  {
+   "segments": [
+    [
+     76,
+     16,
+     44,
+     16,
+     78,
+     1
+    ],
+    [
+     124,
+     16,
+     4,
+     16,
+     123,
+     1
+    ],
+    [
+     104,
+     0,
+     24,
+     16,
+     127,
+     1
+    ]
+   ],
+   "box": [
+    100,
+    0,
+    51,
+    17
+   ],
+   "text": "NCE",
+   "align": "right",
+   "wdth": 93,
+   "tracking": -0.2,
+   "erase": "none"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f11_020_108_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "511033ce8bc7",
+   "t": "We're free as long as we stay within the"
+  },
+  {
+   "i": 1038,
+   "src": "c0fe72a0dc02",
+   "t": "academy grounds--so they said."
+  },
+  {
+   "i": 1046,
+   "src": "acd23ae14b2d",
+   "t": "In that case, there's no need to worry\nfurther."
+  },
+  {
+   "i": 1049,
+   "src": "a69e2da73380",
+   "t": "Just carry on as usual."
+  },
+  {
+   "i": 1056,
+   "src": "43aa2cb11823",
+   "t": "{{ms_tomigiku}}"
+  },
+  {
+   "i": 1065,
+   "src": "3d57a7112cb5",
+   "t": "But..."
+  },
+  {
+   "i": 1076,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1081,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1087,
+   "src": "04f169943805",
+   "t": "You should rest while you can."
+  },
+  {
+   "i": 1095,
+   "src": "17bbbb677471",
+   "t": "Y-yes, sir."
+  }
+ ]
+}

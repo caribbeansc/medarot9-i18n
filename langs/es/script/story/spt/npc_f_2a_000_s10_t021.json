@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_000_s10_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "2ae63de7bf03",
+   "t": "Oye, ¿eso fue un temblor recién?"
+  },
+  {
+   "i": 1041,
+   "src": "8a6983b67c93",
+   "t": "¿O solo fue mi imaginación...?"
+  }
+ ]
+}

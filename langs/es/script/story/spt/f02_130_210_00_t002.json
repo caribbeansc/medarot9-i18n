@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/f02_130_210_00_t002.spt",
+ "lines": [
+  {
+   "i": 1058,
+   "src": "85e370c7b89e",
+   "t": "¡Qué genial!"
+  },
+  {
+   "i": 1064,
+   "src": "b1e2d009d039",
+   "t": "¡Bien hecho!"
+  },
+  {
+   "i": 1090,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1093,
+   "src": "f683b0c27ef4",
+   "t": "¡Yo también quiero transformarme!"
+  },
+  {
+   "i": 1100,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1103,
+   "src": "ed1afdc21c39",
+   "t": "¡Yo también quiero transformarme!"
+  },
+  {
+   "i": 1122,
+   "src": "c21fd0c524f9",
+   "t": "Jaja, con las piezas de "
+  },
+  {
+   "i": 1124,
+   "src": "cff65d7b7b58",
+   "t": ","
+  },
+  {
+   "i": 1127,
+   "src": "44f26241b36a",
+   "t": "por desgracia no hay {{medachange}}."
+  },
+  {
+   "i": 1135,
+   "src": "e1f9a2655b5d",
+   "t": "Los Medabots que pueden hacer"
+  },
+  {
+   "i": 1138,
+   "src": "dc6524337eea",
+   "t": "MedaCambio ya están predeterminados."
+  },
+  {
+   "i": 1162,
+   "src": "e93eb6841384",
+   "t": "Conque eso era..."
+  },
+  {
+   "i": 1168,
+   "src": "e93eb6841384",
+   "t": "Conque eso era..."
+  },
+  {
+   "i": 1177,
+   "src": "a5916ca3afb4",
+   "t": "Bueno, para poder usar {{medachange}},"
+  },
+  {
+   "i": 1180,
+   "src": "e4c19c211143",
+   "t": "ya configuré mi {{medawatch}}."
+  },
+  {
+   "i": 1195,
+   "src": "1674e94c3219",
+   "t": "Si obtenemos una {{unit}} {{medachange}},"
+  },
+  {
+   "i": 1198,
+   "src": "131dbf1aa0bb",
+   "t": "vamos a probarlo, ¿vale?"
+  },
+  {
+   "i": 1222,
+   "src": "2490475c04ce",
+   "t": "¡Claro que sí!"
+  },
+  {
+   "i": 1228,
+   "src": "015f1f7fb5b4",
+   "t": "¡Sí!"
+  },
+  {
+   "i": 1252,
+   "src": "e1f53dacbaa9",
+   "t": "Ah, perdón presidente."
+  },
+  {
+   "i": 1255,
+   "src": "8e323e31c7af",
+   "t": "Así creo que lo lograremos, ¿verdad?"
+  },
+  {
+   "i": 1263,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1269,
+   "src": "d3118e60cc66",
+   "t": "Sí, sí, podrías jalar un bote fácil."
+  },
+  {
+   "i": 1272,
+   "src": "6312a11c9ba1",
+   "t": "Pues manos a la obra..."
+  }
+ ]
+}

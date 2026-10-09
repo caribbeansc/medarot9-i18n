@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/gacha_06.spt",
+ "lines": [
+  {
+   "i": 1295,
+   "src": "d673567fb399",
+   "t": "¡Super Medagacha!"
+  },
+  {
+   "i": 1298,
+   "src": "41c187b4b42e",
+   "t": "Cada tirada cuesta 20 monedas."
+  },
+  {
+   "i": 1306,
+   "src": "f1456ad2aef6",
+   "t": "¿Qué hago?"
+  },
+  {
+   "i": 1307,
+   "src": "9d27f405a4a7",
+   "t": "Hacerlo"
+  },
+  {
+   "i": 1308,
+   "src": "eb5532fe54eb",
+   "t": "No hacerlo"
+  },
+  {
+   "i": 1312,
+   "src": "9d27f405a4a7",
+   "t": "Hacerlo"
+  },
+  {
+   "i": 1323,
+   "src": "eb5532fe54eb",
+   "t": "No hacerlo"
+  },
+  {
+   "i": 1329,
+   "src": "529e3e745130",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1332,
+   "src": "76d74c0b1b9e",
+   "t": "Mejor no."
+  }
+ ]
+}

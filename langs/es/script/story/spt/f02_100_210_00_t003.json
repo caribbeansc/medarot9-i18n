@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f02_100_210_00_t003.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1038,
+   "src": "6a3c92a7f59c",
+   "t": "Encontré una pieza importante tirada."
+  },
+  {
+   "i": 1041,
+   "src": "113054780b48",
+   "t": "Ya puedes moverte, perdón por eso."
+  },
+  {
+   "i": 1049,
+   "src": "e5ef07d6dfd8",
+   "t": "N-no, está bien."
+  },
+  {
+   "i": 1057,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1063,
+   "src": "187d6ff29116",
+   "t": "¿...Eh?"
+  }
+ ]
+}

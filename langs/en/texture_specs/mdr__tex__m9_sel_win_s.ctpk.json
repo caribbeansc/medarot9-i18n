@@ -1,0 +1,996 @@
+{
+ "rel": "mdr/tex/m9_sel_win_s.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    197,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    197,
+    22,
+    11
+   ],
+   "text": "SUCC.",
+   "baseline": 205
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    209,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    209,
+    22,
+    11
+   ],
+   "text": "POW.",
+   "baseline": 217
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    221,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    221,
+    22,
+    11
+   ],
+   "text": "PREP",
+   "baseline": 229
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    233,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    233,
+    22,
+    11
+   ],
+   "text": "COOL.",
+   "baseline": 241
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    245,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    245,
+    22,
+    11
+   ],
+   "text": "USES",
+   "baseline": 253
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    125,
+    210,
+    22,
+    11
+   ],
+   "box": [
+    125,
+    210,
+    22,
+    11
+   ],
+   "text": "MOBIL.",
+   "baseline": 218
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    235,
+    0,
+    21,
+    11
+   ],
+   "box": [
+    235,
+    0,
+    21,
+    11
+   ],
+   "text": "FIGHT",
+   "baseline": 8
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    235,
+    12,
+    21,
+    11
+   ],
+   "box": [
+    235,
+    12,
+    21,
+    11
+   ],
+   "text": "SHOOT",
+   "baseline": 20
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    161,
+    24,
+    42,
+    8
+   ],
+   "box": [
+    162,
+    24,
+    42,
+    8
+   ],
+   "text": "HEAD",
+   "baseline": 30
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    204,
+    24,
+    42,
+    8
+   ],
+   "box": [
+    205,
+    24,
+    42,
+    8
+   ],
+   "text": "L-ARM",
+   "baseline": 30
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    161,
+    32,
+    42,
+    8
+   ],
+   "box": [
+    162,
+    32,
+    42,
+    8
+   ],
+   "text": "R-ARM",
+   "baseline": 38
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    204,
+    32,
+    47,
+    8
+   ],
+   "box": [
+    205,
+    32,
+    47,
+    8
+   ],
+   "text": "LEGS",
+   "baseline": 38
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    33,
+    90,
+    32,
+    8
+   ],
+   "box": [
+    34,
+    90,
+    32,
+    8
+   ],
+   "text": "PRESET",
+   "baseline": 96
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    192,
+    232,
+    23,
+    8
+   ],
+   "box": [
+    193,
+    232,
+    23,
+    8
+   ],
+   "text": "BONUS",
+   "baseline": 238
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    57,
+    249,
+    23,
+    6
+   ],
+   "box": [
+    59,
+    249,
+    23,
+    6
+   ],
+   "text": "ARMOR",
+   "baseline": 254
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    32,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    32,
+    172,
+    13,
+    12
+   ],
+   "text": "FOR",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    52,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    52,
+    172,
+    13,
+    12
+   ],
+   "text": "ROC",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    72,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    72,
+    172,
+    13,
+    12
+   ],
+   "text": "SAN",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    92,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    92,
+    172,
+    13,
+    12
+   ],
+   "text": "PLA",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    112,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    112,
+    172,
+    13,
+    12
+   ],
+   "text": "WAT",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    132,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    132,
+    172,
+    13,
+    12
+   ],
+   "text": "SKY",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    152,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    152,
+    172,
+    13,
+    12
+   ],
+   "text": "TUN",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    172,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    172,
+    172,
+    13,
+    12
+   ],
+   "text": "HAL",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    192,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    192,
+    172,
+    13,
+    12
+   ],
+   "text": "CYB",
+   "baseline": 181
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    35,
+    186,
+    25,
+    9
+   ],
+   "box": [
+    34,
+    186,
+    27,
+    9
+   ],
+   "text": "SKILL",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    67,
+    186,
+    35,
+    9
+   ],
+   "box": [
+    66,
+    186,
+    38,
+    9
+   ],
+   "text": "STATS",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    110,
+    186,
+    25,
+    9
+   ],
+   "box": [
+    109,
+    186,
+    27,
+    9
+   ],
+   "text": "TECH",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    142,
+    186,
+    33,
+    9
+   ],
+   "box": [
+    141,
+    186,
+    36,
+    9
+   ],
+   "text": "TRAIT",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    35,
+    199,
+    60,
+    9
+   ],
+   "box": [
+    34,
+    199,
+    63,
+    9
+   ],
+   "text": "MEDAL AFF.",
+   "baseline": 205
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    35,
+    212,
+    60,
+    9
+   ],
+   "box": [
+    34,
+    212,
+    63,
+    9
+   ],
+   "text": "ATK RESP.",
+   "baseline": 218
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    35,
+    225,
+    60,
+    9
+   ],
+   "box": [
+    34,
+    225,
+    63,
+    9
+   ],
+   "text": "TERRAIN AFF.",
+   "baseline": 231
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    39,
+    238,
+    52,
+    9
+   ],
+   "box": [
+    38,
+    238,
+    55,
+    9
+   ],
+   "text": "LEG TYPE",
+   "baseline": 244
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#4CCB98",
+   "stroke": "#102820",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    135,
+    198,
+    50,
+    10
+   ],
+   "box": [
+    127,
+    198,
+    68,
+    10
+   ],
+   "text": "CHARGE TYPE",
+   "baseline": 205
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#4CCB98",
+   "stroke": "#102820",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    156,
+    211,
+    58,
+    10
+   ],
+   "box": [
+    152,
+    211,
+    68,
+    10
+   ],
+   "text": "BEST LEGS",
+   "baseline": 218
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#4CCB98",
+   "stroke": "#102820",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    184,
+    186,
+    32,
+    9
+   ],
+   "box": [
+    182,
+    186,
+    40,
+    9
+   ],
+   "text": "SKILL LV.",
+   "baseline": 192
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D6D6D6"
+   },
+   "stroke": "#000000",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "crisp": 0,
+   "valign": "middle",
+   "erase_box": [
+    77,
+    105,
+    98,
+    15
+   ],
+   "box": [
+    80,
+    105,
+    94,
+    14
+   ],
+   "text": "Go to Medachange",
+   "align": "left"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D6D6D6"
+   },
+   "stroke": "#000000",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "crisp": 0,
+   "valign": "middle",
+   "erase_box": [
+    194,
+    105,
+    44,
+    15
+   ],
+   "box": [
+    197,
+    105,
+    40,
+    14
+   ],
+   "text": "Rotate",
+   "align": "left"
+  }
+ ]
+}

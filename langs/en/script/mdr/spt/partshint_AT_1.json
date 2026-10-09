@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dce97f1b237d",
+   "t": "<c:00ff00>Action:<c> {{power_rifle}}\nA fast ranged attack.\nWith {{power}} 40 or more,\nit gains piercing.\nWith intact legs,\n{{power}} x1.5. Cannot\nevade while cooling\ndown."
+  }
+ ]
+}

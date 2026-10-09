@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description54.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5af0deee358f",
+   "t": "Cargar"
+  },
+  {
+   "i": 11,
+   "src": "4c5f6376c167",
+   "t": "<c:ffff00>Acción<c> que acumula la fuerza oculta en la <c:ffff00>{{medal}}<c>\nsin usar <c:ffff00>{{part|pl}}<c>. No hay <c:ffff00>{{prep}}<c> ni <c:ffff00>{{cooldown}}<c>: se\nqueda cierto tiempo en <c:ffff00>postura de {{prep}}<c>, en la que\nse puede <c:ffff00>defender<c>, pero no <c:ffff00>evadir<c>.\n\nLa <c:ffff00>{{charge_gauge}}<c> sube poco a poco y, al\ncompletarse, una cantidad fija más. El tiempo de\ncada {{prep}} y la fuerza que suma dependen del <c:ffff00>tipo<c>\n<c:ffff00>de {{prep}}<c> de cada {{medal}}."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description5.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dfc6a6f8c5e0",
+   "t": "{{tinpet}}"
+  },
+  {
+   "i": 11,
+   "src": "09f1b86bf860",
+   "t": "The basic frame of a <c:ffff00>{{medabot}}<c>, combining the\nfunctions of nerves and skeleton. Fitting it with a\n<c:ffff00>{{medal}}<c> and <c:ffff00>{{part|pl}}<c> completes the {{medabot}}.\n\nThere are two <c:ffff00>genders<c>, male {{type}} and female {{type}},\nand only {{part|pl}} of the same {{gender}} can be fitted."
+  }
+ ]
+}

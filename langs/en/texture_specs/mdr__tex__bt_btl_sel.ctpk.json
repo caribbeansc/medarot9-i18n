@@ -1,0 +1,180 @@
+{
+ "rel": "mdr/tex/bt_btl_sel.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "sf-rounded-heavy",
+  "fill": "#FFFFFF",
+  "stroke": "#00000036",
+  "stroke_w": 2,
+  "align": "center",
+  "valign": "middle",
+  "pad": [
+   3,
+   1,
+   3,
+   1
+  ]
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    240,
+    26
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    25,
+    208,
+    26
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    50,
+    256,
+    28
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    78,
+    256,
+    48
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    0,
+    154,
+    23
+   ],
+   "text": "Medabot Select",
+   "cap": 10.5
+  },
+  {
+   "box": [
+    155,
+    2,
+    80,
+    18
+   ],
+   "text": "Settings",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    0,
+    26,
+    102,
+    23
+   ],
+   "text": "Robattle\nwith partners",
+   "cap": 7.5,
+   "leading": 0.92,
+   "stroke_w": 1.5,
+   "pad": [
+    3,
+    0,
+    3,
+    0
+   ]
+  },
+  {
+   "box": [
+    103,
+    26,
+    101,
+    23
+   ],
+   "text": "Robattle\nsolo",
+   "cap": 7.5,
+   "leading": 0.92,
+   "stroke_w": 1.5,
+   "pad": [
+    3,
+    0,
+    3,
+    0
+   ]
+  },
+  {
+   "box": [
+    0,
+    51,
+    105,
+    26
+   ],
+   "text": "Start\nRobattle",
+   "cap": 8.5,
+   "leading": 0.92,
+   "stroke_w": 1.5,
+   "pad": [
+    3,
+    0,
+    3,
+    0
+   ]
+  },
+  {
+   "box": [
+    105,
+    51,
+    147,
+    20
+   ],
+   "text": "Check rival Medabots",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    0,
+    79,
+    170,
+    20
+   ],
+   "text": "Team not set",
+   "cap": 9,
+   "fill": "#A6A6A6",
+   "align": "left",
+   "pad": [
+    4,
+    1,
+    3,
+    1
+   ]
+  },
+  {
+   "box": [
+    0,
+    100,
+    135,
+    26
+   ],
+   "text": "Check current team",
+   "cap": 9,
+   "align": "left",
+   "pad": [
+    4,
+    1,
+    3,
+    1
+   ]
+  }
+ ]
+}

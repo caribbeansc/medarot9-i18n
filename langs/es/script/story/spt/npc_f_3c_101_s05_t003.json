@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_f_3c_101_s05_t003.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "8c6492b6f766",
+   "t": "¿{{main}}-chan?"
+  },
+  {
+   "i": 1046,
+   "src": "3b804aa78ce2",
+   "t": "¡Oh, ya he oído ese nombre antes!"
+  },
+  {
+   "i": 1049,
+   "src": "7b444e5e2547",
+   "t": "Dónde fue... mmm, mmm..."
+  },
+  {
+   "i": 1057,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1065,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1073,
+   "src": "9fc57c59defd",
+   "t": "*Jadea* ¡De ninguna manera!"
+  },
+  {
+   "i": 1076,
+   "src": "cd1135f7bfd6",
+   "t": "¡Simplemente no logro recordarlo!"
+  },
+  {
+   "i": 1084,
+   "src": "cf4ca82e39f8",
+   "t": "¡Sé que lo he oído en alguna parte!"
+  },
+  {
+   "i": 1087,
+   "src": "692a604f3dbf",
+   "t": "¡¡Mmm!!"
+  }
+ ]
+}

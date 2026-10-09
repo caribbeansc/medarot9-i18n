@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_05_004.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "3c8c116a6d87",
+   "t": "¡L-lo logramos!"
+  },
+  {
+   "i": 1125,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1131,
+   "src": "9eee3c55a3e5",
+   "t": "Activar la {{medaforce}} <c:ff00ff>consume toda<c>\nla {{charge_gauge}}.   "
+  },
+  {
+   "i": 1136,
+   "src": "816305b38ec5",
+   "t": "No se puede usar una y otra vez.\nTenla como tu último as bajo la manga.            "
+  }
+ ]
+}

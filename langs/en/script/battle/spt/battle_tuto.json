@@ -1,0 +1,185 @@
+{
+ "file": "battle/spt/battle_tuto.spt",
+ "lines": [
+  {
+   "i": 1158,
+   "src": "96f724b21d69",
+   "t": "{{melt}} caused\n10 {{damage}} to all armor {{part|pl}}!"
+  },
+  {
+   "i": 1189,
+   "src": "d6990d92fd8d",
+   "t": "Repair plant \nrestored armor to all {{part|pl}}!"
+  },
+  {
+   "i": 1220,
+   "src": "555a7be6b3a2",
+   "t": " {{guard}} Stance Ended!"
+  },
+  {
+   "i": 1352,
+   "src": "19d0a839eecd",
+   "t": "\nRestored armor to all {{part|pl}}!"
+  },
+  {
+   "i": 1477,
+   "src": "96f724b21d69",
+   "t": "{{melt}} caused\n10 {{damage}} to all armor {{part|pl}}!"
+  },
+  {
+   "i": 1640,
+   "src": "19d0a839eecd",
+   "t": "\nRestored armor to all {{part|pl}}!"
+  },
+  {
+   "i": 1667,
+   "src": "555a7be6b3a2",
+   "t": " {{guard}} Stance Ended!"
+  },
+  {
+   "i": 2601,
+   "src": "7a88cf80e09f",
+   "t": "Waiting for the {{opponent}}'s input"
+  },
+  {
+   "i": 2741,
+   "src": "e01527c47954",
+   "t": "Activated leg ability {{brilliance}}!\n"
+  },
+  {
+   "i": 2743,
+   "src": "d7dba5ede7ac",
+   "t": "recovered armor to all {{part|pl}}!"
+  },
+  {
+   "i": 2751,
+   "src": "a02e13931cab",
+   "t": "Activated leg ability Dejavu!\n"
+  },
+  {
+   "i": 2753,
+   "src": "da74a98451d3",
+   "t": "recovered from {{status}} effects!"
+  },
+  {
+   "i": 2761,
+   "src": "8ab9ccd86d02",
+   "t": "Activated leg ability {{illusion}}!\n"
+  },
+  {
+   "i": 2763,
+   "src": "5d25808ca153",
+   "t": "is in an invisible state!"
+  },
+  {
+   "i": 2771,
+   "src": "fdf8240f8358",
+   "t": "Activated leg ability {{clairvoyance}}!\n"
+  },
+  {
+   "i": 2773,
+   "src": "f1bc96fefb46",
+   "t": "is in a detecting state!"
+  },
+  {
+   "i": 2781,
+   "src": "aedaa0adbf22",
+   "t": "Activated leg ability {{generator}}!\n"
+  },
+  {
+   "i": 2783,
+   "src": "9a610afdfafd",
+   "t": "is in a heating state!"
+  },
+  {
+   "i": 2791,
+   "src": "365f8c9e0d0d",
+   "t": "Activated leg ability {{radiator}}!\n"
+  },
+  {
+   "i": 2793,
+   "src": "c37b0a6f693b",
+   "t": "is now in a cooling state!"
+  },
+  {
+   "i": 2801,
+   "src": "e161699437ae",
+   "t": "Activated leg ability Barrier!\n"
+  },
+  {
+   "i": 2803,
+   "src": "ea64137a6b53",
+   "t": "is now in a guard boost state!"
+  },
+  {
+   "i": 2811,
+   "src": "3fd2052d3a2c",
+   "t": "Activated leg ability {{accel}}!\n"
+  },
+  {
+   "i": 2813,
+   "src": "b63fc71ca7ad",
+   "t": "is now in a mobile boost state!"
+  },
+  {
+   "i": 2821,
+   "src": "82381f51c50c",
+   "t": "Activated leg ability {{assail}}!\n"
+  },
+  {
+   "i": 2823,
+   "src": "e7165ec38013",
+   "t": "is now in a shoot boost state!"
+  },
+  {
+   "i": 2831,
+   "src": "81499e7525c2",
+   "t": "Activated leg ability {{rumbling}}!\n"
+  },
+  {
+   "i": 2833,
+   "src": "2e41f9cdc351",
+   "t": "is now in a fight boost state!"
+  },
+  {
+   "i": 2841,
+   "src": "24572cc2ac9d",
+   "t": "Activated leg ability Brave!\n"
+  },
+  {
+   "i": 2843,
+   "src": "19bbdd1c2e05",
+   "t": "is now in a desperate state!"
+  },
+  {
+   "i": 2851,
+   "src": "7c0e802bbb77",
+   "t": "Activated leg ability {{mirage}}!\n"
+  },
+  {
+   "i": 2853,
+   "src": "2c7e913917f2",
+   "t": "is now in a concealed state!"
+  },
+  {
+   "i": 2861,
+   "src": "c8b232b42537",
+   "t": "Activated leg ability {{nest}}!\nIncreased durability of trap plants!"
+  },
+  {
+   "i": 2869,
+   "src": "0a6d410c35cc",
+   "t": "Activated leg ability {{shape_memory}}!\n"
+  },
+  {
+   "i": 2871,
+   "src": "2feeea2cb6b8",
+   "t": "part has been reconstructed!"
+  },
+  {
+   "i": 3057,
+   "src": "7a88cf80e09f",
+   "t": "Waiting for the {{opponent}}'s input"
+  }
+ ]
+}

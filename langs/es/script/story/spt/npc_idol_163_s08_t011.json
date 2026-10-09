@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_idol_163_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "062d4dc75e0d",
+   "t": "La {{app}} detectora de {{medalia}} es popular."
+  },
+  {
+   "i": 1041,
+   "src": "d2d04b1199a8",
+   "t": "Como ven, nuestro {{club}} no se salva."
+  },
+  {
+   "i": 1049,
+   "src": "16289e69e9b5",
+   "t": "Todos felices porque sentían que era"
+  },
+  {
+   "i": 1052,
+   "src": "4093eba60347",
+   "t": "un buen respiro tras un gran evento."
+  },
+  {
+   "i": 1060,
+   "src": "494021ea558e",
+   "t": "¿Nosotras? Ensayamos el baile. Ahora,"
+  },
+  {
+   "i": 1063,
+   "src": "68e728de0e1a",
+   "t": "bailar es lo más divertido... Jeje."
+  }
+ ]
+}

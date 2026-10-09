@@ -1,0 +1,383 @@
+{
+ "file": "param/HeadParts.b",
+ "slots": [
+  {
+   "off": 3714,
+   "size": 20,
+   "src": "63a56d8de43b",
+   "t": "{{hunter_ii}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19720,
+   "size": 22,
+   "src": "c961726fce47",
+   "t": "{{sunshine}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19778,
+   "size": 23,
+   "src": "093cc091b6a4",
+   "t": "{{kamikaze}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19836,
+   "size": 22,
+   "src": "c058b99a807e",
+   "t": "{{icenown}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19894,
+   "size": 22,
+   "src": "609ca38ffb03",
+   "t": "{{head_cannon}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19952,
+   "size": 22,
+   "src": "4ef76508f936",
+   "t": "{{anten}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 20126,
+   "size": 22,
+   "src": "83c305fc996f",
+   "t": "{{meta_msl}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 20184,
+   "size": 22,
+   "src": "4a3d014515e2",
+   "t": "{{meta_msl}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 20242,
+   "size": 22,
+   "src": "a4696423d884",
+   "t": "{{meta_msl}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 20300,
+   "size": 22,
+   "src": "1337c3eda1e4",
+   "t": "{{junk_head}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25114,
+   "size": 22,
+   "src": "ab9342b849c3",
+   "t": "{{target|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25172,
+   "size": 22,
+   "src": "444306d714de",
+   "t": "{{rock}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25230,
+   "size": 22,
+   "src": "6936e7354c7b",
+   "t": "{{rock}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25288,
+   "size": 22,
+   "src": "1db52d9a3bef",
+   "t": "{{rock}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25346,
+   "size": 22,
+   "src": "ab52d6d8e74d",
+   "t": "{{target|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25578,
+   "size": 22,
+   "src": "24cbfd6d232c",
+   "t": "{{door}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25636,
+   "size": 22,
+   "src": "fd3ea48104c5",
+   "t": "{{msl}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25694,
+   "size": 22,
+   "src": "c14a9763af1c",
+   "t": "{{rifle}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25752,
+   "size": 22,
+   "src": "e9afa3aa03c1",
+   "t": "{{laser}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25810,
+   "size": 22,
+   "src": "df8ad3f0cf09",
+   "t": "{{gatling}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25868,
+   "size": 22,
+   "src": "f66f65f87e02",
+   "t": "{{box}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25926,
+   "size": 22,
+   "src": "79de79c0e0a2",
+   "t": "{{debris}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25984,
+   "size": 22,
+   "src": "2db474b41b62",
+   "t": "{{debris}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26042,
+   "size": 22,
+   "src": "c1d7541c4678",
+   "t": "{{debris}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26100,
+   "size": 22,
+   "src": "0cc4055a8248",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26158,
+   "size": 22,
+   "src": "53bfe9e41a9c",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26216,
+   "size": 22,
+   "src": "416a36f57ba7",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26274,
+   "size": 22,
+   "src": "74833482ada3",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26332,
+   "size": 22,
+   "src": "be50c0b6461d",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26390,
+   "size": 22,
+   "src": "2830e3d1d16f",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26448,
+   "size": 22,
+   "src": "cf7fd8122f23",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26506,
+   "size": 22,
+   "src": "346a747377e3",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26564,
+   "size": 22,
+   "src": "17e26bb69d3b",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26622,
+   "size": 22,
+   "src": "9e672480ca45",
+   "t": "{{trap|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26680,
+   "size": 22,
+   "src": "861fcce21c6a",
+   "t": "{{plant|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26738,
+   "size": 22,
+   "src": "ab768b9a2336",
+   "t": "{{plant|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26796,
+   "size": 22,
+   "src": "6aae55bc0d22",
+   "t": "{{plant|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26854,
+   "size": 22,
+   "src": "8119ff6d08ce",
+   "t": "{{plant|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26912,
+   "size": 22,
+   "src": "7e4698c8d44a",
+   "t": "{{plant|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26970,
+   "size": 22,
+   "src": "d21ee8889fcb",
+   "t": "{{plant|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 27028,
+   "size": 23,
+   "src": "1b93bd7f1f87",
+   "t": "{{plant|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 27086,
+   "size": 22,
+   "src": "e291727fdf4f",
+   "t": "{{plant|cap}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  }
+ ]
+}

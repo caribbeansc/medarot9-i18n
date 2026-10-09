@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f00_010_901_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "1c9c24460fd4",
+   "t": "Oye, ¡pasemos por la {{part_shop}}!"
+  },
+  {
+   "i": 1045,
+   "src": "1b48814e3776",
+   "t": "{{teruru}}"
+  },
+  {
+   "i": 1064,
+   "src": "2d1043cb231f",
+   "t": "¿La {{part_shop}}?"
+  },
+  {
+   "i": 1067,
+   "src": "a2b22049fc26",
+   "t": "¿Qué vas a comprar?"
+  },
+  {
+   "i": 1081,
+   "src": "b9db6c9e2def",
+   "t": "¿Sabes que mañana es el torneo,\nverdad?"
+  },
+  {
+   "i": 1089,
+   "src": "cfa5bb8a2b24",
+   "t": "Primer torneo de la escuela, ¡a dar todo!"
+  },
+  {
+   "i": 1092,
+   "src": "d1d96aa375c9",
+   "t": "A ver si llegaron buenas {{part|pl}}."
+  },
+  {
+   "i": 1097,
+   "src": "1b48814e3776",
+   "t": "{{teruru}}"
+  },
+  {
+   "i": 1114,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1140,
+   "src": "e156b844cbc7",
+   "t": "¡No quiero! Las {{part|pl}} de {{robattle}}"
+  },
+  {
+   "i": 1143,
+   "src": "5e1829b80e2b",
+   "t": "son toscas y nada lindas."
+  },
+  {
+   "i": 1157,
+   "src": "9dddfca2003b",
+   "t": "¡Eso no es cierto! Hay muchas piezas"
+  },
+  {
+   "i": 1160,
+   "src": "0e97dd5df365",
+   "t": "esbeltas y geniales también-"
+  },
+  {
+   "i": 1165,
+   "src": "1b48814e3776",
+   "t": "{{teruru}}"
+  },
+  {
+   "i": 1182,
+   "src": "b1fe0d320b68",
+   "t": "N-"
+  },
+  {
+   "i": 1187,
+   "src": "fa596b1c782c",
+   "t": "¡No!"
+  }
+ ]
+}

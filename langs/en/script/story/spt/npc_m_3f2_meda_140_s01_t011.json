@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f2_meda_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0d793da5d065",
+   "t": "{{ashton}}"
+  },
+  {
+   "i": 1035,
+   "src": "887ad8261d62",
+   "t": "Hurry up, {{master}}!"
+  },
+  {
+   "i": 1038,
+   "src": "be07ee445d1e",
+   "t": "I wanna play a match too!"
+  }
+ ]
+}

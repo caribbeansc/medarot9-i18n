@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_130_113_00_t012.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 1038,
+   "src": "552b37b87acd",
+   "t": "Ah, pardon me--"
+  },
+  {
+   "i": 1048,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1057,
+   "src": "9cb84c5f2af1",
+   "t": "What is it?"
+  },
+  {
+   "i": 1060,
+   "src": "77af09e9b555",
+   "t": "What happened?"
+  }
+ ]
+}

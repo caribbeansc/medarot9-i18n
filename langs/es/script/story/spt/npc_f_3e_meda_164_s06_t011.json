@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_3e_meda_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a406e2127b08",
+   "t": "{{saisho_gunshi}}"
+  },
+  {
+   "i": 1038,
+   "src": "c49852ad6646",
+   "t": "Volví a mi pueblo tras mucho tiempo"
+  },
+  {
+   "i": 1041,
+   "src": "24e7aed65add",
+   "t": "con mi maestro, y entré al torneo local."
+  },
+  {
+   "i": 1049,
+   "src": "67813945709f",
+   "t": "¡Y resulta que gané el campeonato!"
+  },
+  {
+   "i": 1057,
+   "src": "2c89a78d6f14",
+   "t": "Aquí siempre me dan una paliza."
+  },
+  {
+   "i": 1060,
+   "src": "43b9f1d0be3c",
+   "t": "Estoy feliz, ¡pero también sorprendido!"
+  }
+ ]
+}

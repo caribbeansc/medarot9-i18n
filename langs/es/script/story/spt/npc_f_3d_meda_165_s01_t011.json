@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3d_meda_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4e1ee0d069ed",
+   "t": "{{float_spinner}}"
+  },
+  {
+   "i": 1038,
+   "src": "0f6a84ace1d7",
+   "t": "En rescates el espacio es estrecho e"
+  },
+  {
+   "i": 1041,
+   "src": "7f98c8c2f12e",
+   "t": "inestable; flotantes tienen ventaja."
+  }
+ ]
+}

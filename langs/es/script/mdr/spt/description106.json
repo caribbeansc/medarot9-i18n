@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description106.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "20f909235983",
+   "t": "{{armor|cap}} (rend.)"
+  },
+  {
+   "i": 11,
+   "src": "3880af377b46",
+   "t": "Tipo de <c:ffff00>{{stats}}<c> de <c:ffff00>{{part|pl}}<c> de <c:ffff00>{{head}}<c>, <c:ffff00>brazos<c> y\n<c:ffff00>{{legs}}<c> y de <c:ffff00>objetos<c>: mide cuánto <c:ffff00>{{damage}}<c> resisten.\n\nDisminuye al {{take_it}} <c:ffff00>ataques<c> del {{enemy}}; al llegar a\n0, la {{part}} o el {{object}} queda <c:ffff00>destruido<c>.\nAl {{take_it}} <c:ffff00>técnicas<c> de <c:ffff00>{{recover}}<c> o <c:ffff00>efectos<c>\n<c:ffff00>positivos<c>, aumenta hasta su valor inicial.\nAl terminar la <c:ffff00>{{robattle}}<c> se recupera por completo\nde forma automática."
+  }
+ ]
+}

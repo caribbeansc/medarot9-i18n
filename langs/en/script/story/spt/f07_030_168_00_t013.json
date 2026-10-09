@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f07_030_168_00_t013.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1045,
+   "src": "d041f132e0c1",
+   "t": "Please, {{mio}}. Would you dance"
+  },
+  {
+   "i": 1048,
+   "src": "fd4fb644be9f",
+   "t": "at the cultural festival?"
+  },
+  {
+   "i": 1063,
+   "src": "59a99d3d3adc",
+   "t": "Please help the {{idol_club}}!"
+  }
+ ]
+}

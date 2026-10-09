@@ -1,0 +1,41 @@
+{
+ "rel": "story/mdl/m331.bcmdl",
+ "tex": "m331_prop01",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "grow": 1,
+  "font": "sf-cond-heavy",
+  "cap": 10,
+  "fill": "#17150A",
+  "stroke": null,
+  "pad": 0,
+  "thr": 80
+ },
+ "items": [
+  {
+   "box": [
+    18,
+    10,
+    50,
+    14
+   ],
+   "erase_box": [
+    [
+     18,
+     10,
+     19,
+     15
+    ],
+    [
+     48,
+     10,
+     19,
+     15
+    ]
+   ],
+   "text": "PELIGRO"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_seitokai_ma_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1038,
+   "src": "e9486048d548",
+   "t": "Hey, could you go see the {{janitor}} at the\nharbor"
+  },
+  {
+   "i": 1041,
+   "src": "aab044b43167",
+   "t": "and pick up a package for me?"
+  },
+  {
+   "i": 1049,
+   "src": "80a4b7a36a03",
+   "t": "Just tell him you're from the {{student|cap}}\nCouncil and he'll hand it right over."
+  },
+  {
+   "i": 1052,
+   "src": "bc2d020a5295",
+   "t": "The duct tape is in that package too, so\ngrab it while you're at it."
+  }
+ ]
+}

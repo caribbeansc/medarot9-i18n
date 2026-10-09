@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_150.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3ae8719dbda4",
+   "t": "<c:00ff00>Técnica:<c>{{trap|cap}} {{fighting|cap}}\nColoca una {{trap}} que\ndaña al reaccionar a\nataques cuerpo a cuerpo\ncontra aliados.\nAl colocarla\nrepetidamente {{up}} el\n{{armor}} y el {{damage}}."
+  }
+ ]
+}

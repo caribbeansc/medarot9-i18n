@@ -1,0 +1,65 @@
+{
+ "file": "mdr/spt/skill_up.spt",
+ "lines": [
+  {
+   "i": 2019,
+   "src": "f19ec55f1b16",
+   "t": "skill"
+  },
+  {
+   "i": 2021,
+   "src": "2982a1a808ee",
+   "t": "."
+  },
+  {
+   "i": 2038,
+   "src": "aa9a59bd0d01",
+   "t": "Every skill"
+  },
+  {
+   "i": 2040,
+   "src": "2982a1a808ee",
+   "t": "."
+  },
+  {
+   "i": 2051,
+   "src": "0eb4ddf294f2",
+   "t": "Total level"
+  },
+  {
+   "i": 2053,
+   "src": "2982a1a808ee",
+   "t": "."
+  },
+  {
+   "i": 2068,
+   "src": "7fa5707357b6",
+   "t": "{{medal}} has dropped to bronze rank."
+  },
+  {
+   "i": 2089,
+   "src": "49c6f5adc09c",
+   "t": "{{medal}} has dropped to silver rank."
+  },
+  {
+   "i": 2093,
+   "src": "5d66ec4f0e91",
+   "t": "{{medal}} has become silver rank."
+  },
+  {
+   "i": 2110,
+   "src": "bc091fd51086",
+   "t": "{{medal}} has become gold rank."
+  },
+  {
+   "i": 2129,
+   "src": "01cd213bbad6",
+   "t": "{{medal}} changed to <c:00ff00>"
+  },
+  {
+   "i": 2131,
+   "src": "b22f8865c0fc",
+   "t": "<c>!"
+  }
+ ]
+}

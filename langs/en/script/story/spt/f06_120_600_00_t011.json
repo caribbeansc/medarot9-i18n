@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_120_600_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1035,
+   "src": "a19a7918c284",
+   "t": "Reporting in!"
+  },
+  {
+   "i": 1043,
+   "src": "f1d3866c637f",
+   "t": "Only a few {{stray}} {{medabot|pl}} are left"
+  },
+  {
+   "i": 1046,
+   "src": "74cde5866411",
+   "t": "along the coastline--"
+  },
+  {
+   "i": 1054,
+   "src": "4ee630b53d56",
+   "t": "We're almost done!"
+  }
+ ]
+}

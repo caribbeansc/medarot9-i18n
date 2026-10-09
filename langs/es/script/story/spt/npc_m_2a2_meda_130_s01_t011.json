@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2a2_meda_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "57b0e6beef55",
+   "t": "Stingray"
+  },
+  {
+   "i": 1038,
+   "src": "cf710a0dd1ca",
+   "t": "Amo el piso liso del {{gymnasium}}."
+  },
+  {
+   "i": 1041,
+   "src": "e390ae01058c",
+   "t": "¡Ese taconeo es genial!"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "mdr/spt/memo51.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "c343a2b19c4a",
+   "t": "\"Explorar: {{storehouse|cap}} subterráneo\""
+  },
+  {
+   "i": 32,
+   "src": "5eb6a3f3f225",
+   "t": "Investiguemos la puerta al fondo de las ruinas.\nBajemos por el ascensor del fondo del {{storehouse}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "be233e5a76e7",
+   "t": "Busquemos otro camino al otro lado de la puerta.\n"
+  },
+  {
+   "i": 52,
+   "src": "768880f7f9a7",
+   "t": "Logramos pasar al otro lado por el conducto.\nBusquemos un interruptor o algo parecido.\n"
+  },
+  {
+   "i": 62,
+   "src": "ae9e4f8e26ab",
+   "t": "Hay energía y se abrió el camino. Exploremos la zona.\n"
+  },
+  {
+   "i": 72,
+   "src": "d0bf470dda70",
+   "t": "Salimos a un lugar amplio. Parece la {{mine_entrance}}.\n"
+  },
+  {
+   "i": 82,
+   "src": "3b259e72f43e",
+   "t": "Objetivo cumplido. Volvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 92,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_3e2_meda_140_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3456179ce831",
+   "t": "{{chugen_hao}}"
+  },
+  {
+   "i": 1035,
+   "src": "89e586849d27",
+   "t": "Maldición, este tipo"
+  },
+  {
+   "i": 1038,
+   "src": "11324177d741",
+   "t": "sigue sin dejar aberturas..."
+  },
+  {
+   "i": 1046,
+   "src": "b89e66fb5621",
+   "t": "¡No me puedo mover!"
+  }
+ ]
+}

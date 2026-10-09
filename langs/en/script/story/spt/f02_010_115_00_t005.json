@@ -1,0 +1,155 @@
+{
+ "file": "story/spt/f02_010_115_00_t005.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "6a72f1d380c8",
+   "t": "The President again..."
+  },
+  {
+   "i": 1051,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1060,
+   "src": "c03b37e59763",
+   "t": "What's the {{condition_rotation}}?"
+  },
+  {
+   "i": 1069,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1078,
+   "src": "b95a2c6224f9",
+   "t": "If we find your {{partner}},"
+  },
+  {
+   "i": 1081,
+   "src": "c99308c6d729",
+   "t": "you'll join the {{exploration_club}}."
+  },
+  {
+   "i": 1095,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1104,
+   "src": "7498d1e46398",
+   "t": "Huh?"
+  },
+  {
+   "i": 1111,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1120,
+   "src": "6e7f1f042282",
+   "t": "Well, you're not in"
+  },
+  {
+   "i": 1123,
+   "src": "3a0a76cf1002",
+   "t": "any {{club}}, right?"
+  },
+  {
+   "i": 1131,
+   "src": "cf73a24f261c",
+   "t": "If you stay unaffiliated forever,"
+  },
+  {
+   "i": 1134,
+   "src": "55b805b08423",
+   "t": "your standing will only get harder."
+  },
+  {
+   "i": 1142,
+   "src": "7ac97949f72e",
+   "t": "If you join us, you're safe on that front,"
+  },
+  {
+   "i": 1145,
+   "src": "dfacc4c0b2ed",
+   "t": "and we get a member: two birds, one\nstone, no?"
+  },
+  {
+   "i": 1153,
+   "src": "af010cdcd601",
+   "t": "No wait, you'd get your {{partner}} back\ntoo, so"
+  },
+  {
+   "i": 1156,
+   "src": "2ab5bb93e89b",
+   "t": "that's three birds! Good deal, huh~?"
+  },
+  {
+   "i": 1164,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1169,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1178,
+   "src": "39ca3c8ed114",
+   "t": "Fine, whatever."
+  },
+  {
+   "i": 1192,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1201,
+   "src": "a02577522c8b",
+   "t": "Good, good, good."
+  },
+  {
+   "i": 1204,
+   "src": "655f17de15c7",
+   "t": "Well then..."
+  },
+  {
+   "i": 1215,
+   "src": "b5954206ab51",
+   "t": "All right, let's get investigating with\ngusto,"
+  },
+  {
+   "i": 1219,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1227,
+   "src": "2fda98fab091",
+   "t": "Huh, President."
+  },
+  {
+   "i": 1230,
+   "src": "6a059c100f63",
+   "t": "Didn't you say you had an important\nmeeting?"
+  },
+  {
+   "i": 1235,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1241,
+   "src": "317e6949189f",
+   "t": "I changed my mind."
+  },
+  {
+   "i": 1244,
+   "src": "656b0628128a",
+   "t": "It looks fun, so I'm joining after all~."
+  }
+ ]
+}

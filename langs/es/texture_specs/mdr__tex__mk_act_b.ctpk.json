@@ -1,0 +1,355 @@
+{
+ "rel": "mdr/tex/mk_act_b.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "helv-cond-black",
+  "cap": 7.5,
+  "stroke_w": 1,
+  "pad": 0,
+  "min_scale_x": 0.8
+ },
+ "items": [
+  {
+   "erase_box": [
+    40,
+    16,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    20,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    21,
+    40,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    27,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    41,
+    17,
+    38,
+    14
+   ],
+   "erase": "none",
+   "text": "Combate",
+   "baseline": 28,
+   "fill": {
+    "top": "#FD9CD4",
+    "mid": "#F65E79",
+    "bottom": "#F5505F"
+   },
+   "stroke": "#260D12"
+  },
+  {
+   "erase_box": [
+    56,
+    0,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    56,
+    4,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    56,
+    5,
+    40,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    56,
+    11,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    57,
+    1,
+    38,
+    14
+   ],
+   "erase": "none",
+   "text": "Disparo",
+   "baseline": 12,
+   "fill": {
+    "top": "#98FFFE",
+    "mid": "#7AE4FE",
+    "bottom": "#52C8FF"
+   },
+   "stroke": "#201E22"
+  },
+  {
+   "erase_box": [
+    80,
+    16,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    80,
+    20,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    80,
+    21,
+    40,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    80,
+    27,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    81,
+    17,
+    38,
+    14
+   ],
+   "erase": "none",
+   "text": "Apoyo",
+   "baseline": 28,
+   "fill": {
+    "top": "#FBDD6C",
+    "mid": "#E9A136",
+    "bottom": "#E99926"
+   },
+   "stroke": "#261D1F"
+  },
+  {
+   "erase_box": [
+    0,
+    48,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    52,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    53,
+    40,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    59,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    49,
+    38,
+    14
+   ],
+   "erase": "none",
+   "text": "Curacion",
+   "baseline": 60,
+   "fill": {
+    "top": "#A4FB88",
+    "mid": "#62D26F",
+    "bottom": "#3FC465"
+   },
+   "stroke": "#203321"
+  },
+  {
+   "erase_box": [
+    81,
+    32,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    81,
+    36,
+    39,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    81,
+    37,
+    39,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    81,
+    43,
+    39,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    82,
+    33,
+    37,
+    14
+   ],
+   "erase": "none",
+   "text": "Defensa",
+   "baseline": 44,
+   "fill": {
+    "top": "#EBECED",
+    "mid": "#CCCFDB",
+    "bottom": "#C8CBD9"
+   },
+   "stroke": "#2A292D"
+  },
+  {
+   "erase_box": [
+    40,
+    48,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    52,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    53,
+    40,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    59,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    41,
+    49,
+    38,
+    14
+   ],
+   "erase": "none",
+   "text": "Trampa",
+   "baseline": 60,
+   "fill": {
+    "top": "#D9A6FF",
+    "mid": "#BA82FF",
+    "bottom": "#B076FF"
+   },
+   "stroke": "#120E0E"
+  }
+ ]
+}

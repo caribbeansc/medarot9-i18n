@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f00_010_901_00_t035.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "e10902970db1",
+   "t": "W-w-we didn't steal anything, {{robo}}!!"
+  },
+  {
+   "i": 1046,
+   "src": "9cfe05f13517",
+   "t": "I don't have anything, {{robo}}!"
+  },
+  {
+   "i": 1049,
+   "src": "533a5d4fb96e",
+   "t": "I'm telling the truth, {{robo}}~!"
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "rel": "mdr/tex/bt_t_taisen.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    56,
+    48,
+    44,
+    33
+   ],
+   "erase": "vfill",
+   "text": "",
+   "repeat": [
+    [
+     0,
+     88
+    ]
+   ]
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    6,
+    58,
+    140,
+    21
+   ],
+   "text": "Espectador",
+   "baseline": 70,
+   "cap": 11,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#0A1A24",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    6,
+    146,
+    140,
+    21
+   ],
+   "text": "Espectador",
+   "baseline": 158,
+   "cap": 11,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#44566A",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "box": [
+    154,
+    48,
+    84,
+    33
+   ],
+   "erase": "vfill",
+   "text": "",
+   "repeat": [
+    [
+     0,
+     88
+    ]
+   ]
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    154,
+    51,
+    84,
+    15
+   ],
+   "text": "Partida",
+   "baseline": 61.5,
+   "cap": 9.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#0A1A24",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    154,
+    64,
+    84,
+    13
+   ],
+   "text": "(anfitrion)",
+   "baseline": 73,
+   "cap": 7.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#0A1A24",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    154,
+    139,
+    84,
+    15
+   ],
+   "text": "Partida",
+   "baseline": 149.5,
+   "cap": 9.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#44566A",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    154,
+    152,
+    84,
+    13
+   ],
+   "text": "(anfitrion)",
+   "baseline": 161,
+   "cap": 7.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#44566A",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "box": [
+    2,
+    220,
+    84,
+    27
+   ],
+   "erase": "vfill",
+   "text": "",
+   "repeat": [
+    [
+     88,
+     0
+    ]
+   ]
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    2,
+    219,
+    84,
+    15
+   ],
+   "text": "Partida",
+   "baseline": 229.5,
+   "cap": 9.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#0A1A24",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    2,
+    232,
+    84,
+    13
+   ],
+   "text": "(invitado)",
+   "baseline": 241,
+   "cap": 7.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#0A1A24",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    90,
+    219,
+    84,
+    15
+   ],
+   "text": "Partida",
+   "baseline": 229.5,
+   "cap": 9.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#44566A",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  },
+  {
+   "font": "avenir-heavy",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "erase": "none",
+   "align": "center",
+   "box": [
+    90,
+    232,
+    84,
+    13
+   ],
+   "text": "(invitado)",
+   "baseline": 241,
+   "cap": 7.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#44566A",
+    "opacity": 0.65,
+    "blur": 0.6
+   }
+  }
+ ]
+}

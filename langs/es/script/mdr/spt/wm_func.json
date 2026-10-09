@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/wm_func.spt",
+ "lines": [
+  {
+   "i": 1229,
+   "src": "16cccbf71b7d",
+   "t": "Te has desconectado.        "
+  },
+  {
+   "i": 1238,
+   "src": "cf0cb48c04e4",
+   "t": "Como tu wifi está en OFF,\nno puedes conectarte.\n\nDesliza el interruptor wifi\na ON para conectarte."
+  },
+  {
+   "i": 1242,
+   "src": "6e8a0e969606",
+   "t": "Se perdió la conexión."
+  }
+ ]
+}

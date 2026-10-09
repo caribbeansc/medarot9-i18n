@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_117.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9ddf00bfd13b",
+   "t": "<c:00ff00>Action:<c> {{all_repair}}\nRecovers a little {{damage}}\non one {{part}} of each\nmember of the allied\nteam."
+  }
+ ]
+}

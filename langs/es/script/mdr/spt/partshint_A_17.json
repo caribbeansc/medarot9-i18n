@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_17.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "f06161998ae7",
+   "t": "<c:00ff00>{{mf}}:<c>{{shooting|cap}} Sónico\nLanza un ataque a\ndistancia sobre todo el\nequipo {{opponent}}.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de tiro"
+  }
+ ]
+}

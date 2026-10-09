@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f01_000_110_00_t001.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1051,
+   "src": "2394a7028091",
+   "t": "Okay, now the stamp here."
+  },
+  {
+   "i": 1054,
+   "src": "87d3d220b1ef",
+   "t": "Here, and here... Okay, all set."
+  },
+  {
+   "i": 1062,
+   "src": "dfda983b0dc3",
+   "t": "That completes the paperwork."
+  },
+  {
+   "i": 1065,
+   "src": "9b643dd31627",
+   "t": "Now, next up..."
+  }
+ ]
+}

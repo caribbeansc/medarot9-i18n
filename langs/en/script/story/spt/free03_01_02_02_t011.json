@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/free03_01_02_02_t011.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "3a09688d55b2",
+   "t": "Is it around here?"
+  },
+  {
+   "i": 1050,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1056,
+   "src": "ff3b9b165a06",
+   "t": "Yeah, a little farther along"
+  },
+  {
+   "i": 1059,
+   "src": "dbfb9d83809b",
+   "t": "this path, just below it."
+  },
+  {
+   "i": 1066,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1075,
+   "src": "e061755e8715",
+   "t": "Down..."
+  },
+  {
+   "i": 1078,
+   "src": "13adacbb3a6e",
+   "t": "That's a sheer cliff, though."
+  },
+  {
+   "i": 1088,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1097,
+   "src": "83829141775b",
+   "t": "Don't worry. Keep going a bit"
+  },
+  {
+   "i": 1100,
+   "src": "57cb88be34ea",
+   "t": "and you'll see stone steps."
+  },
+  {
+   "i": 1115,
+   "src": "e0fc361ae0c5",
+   "t": "Let's go!"
+  }
+ ]
+}

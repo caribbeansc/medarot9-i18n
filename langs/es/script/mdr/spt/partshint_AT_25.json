@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_25.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "80416cdee09c",
+   "t": "<c:00ff00>Técnica:<c>Microond.\nAtaque de {{shooting}} que\nsuma a la {{power}} el % de\nla {{charge_gauge}}. Anula el\naumento de {{defend}} que\nobtiene el {{opponent}} al\ndefender. Con {{effect}} de\n{{pierce}}. Tras atacar,\nse autodestruye."
+  }
+ ]
+}

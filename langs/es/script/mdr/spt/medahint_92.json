@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_92.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b99075f172fe",
+   "t": "{{medabot}} {{themed_on}} la\nHidra, criatura de cuellos\nque se regeneran sin fin.\n \nEn vez de {{head_part_slot}} y\nbrazos alza seis cuellos y\ncomparte también con\nsus aliados su\nautorreparación."
+  }
+ ]
+}

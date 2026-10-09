@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_140.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "31aa4412f86c",
+   "t": "<c:00ff00>Action:<c> {{counter_action}}\nA {{guard_stance}} against\nmelee attacks on allies.\nWhen intercepting,\nnullifies melee {{damage}}\nand reflects it with the\nsame {{attack_power}}. Ends\nafter allies act 4 times or\na set time passes."
+  }
+ ]
+}

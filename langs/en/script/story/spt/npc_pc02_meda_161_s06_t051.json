@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_meda_161_s06_t051.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "2fd66218d7d6",
+   "t": "That's too bad."
+  },
+  {
+   "i": 1041,
+   "src": "328ae9ae69a5",
+   "t": "But searching for {{medalia}} was fun."
+  }
+ ]
+}

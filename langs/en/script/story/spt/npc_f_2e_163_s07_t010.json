@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_2e_163_s07_t010.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1035,
+   "src": "8fe017c091fb",
+   "t": "I'm against it!"
+  },
+  {
+   "i": 1038,
+   "src": "860885a19937",
+   "t": "Relying on that girl after all this time!"
+  },
+  {
+   "i": 1046,
+   "src": "4907a194305b",
+   "t": "If it comes to that,"
+  },
+  {
+   "i": 1049,
+   "src": "cb385d1b358d",
+   "t": "I'd be way better--"
+  },
+  {
+   "i": 1070,
+   "src": "d9b21bf6de3b",
+   "t": "Hey~, what are you looking at?"
+  },
+  {
+   "i": 1073,
+   "src": "70b6761ff91a",
+   "t": "This place is off-limits to boys~."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1a_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c5839dad975a",
+   "t": "{{g_o_death}}"
+  },
+  {
+   "i": 1038,
+   "src": "bdd098ee93e6",
+   "t": "Jugar {{robattle|pl}} es divertido,"
+  },
+  {
+   "i": 1041,
+   "src": "1eea804f463c",
+   "t": "y verlas también. ¡Hasta se aprende!"
+  }
+ ]
+}

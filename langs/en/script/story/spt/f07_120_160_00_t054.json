@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f07_120_160_00_t054.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1035,
+   "src": "f6f77fe80f05",
+   "t": "...All right! I'll try it out right after"
+  },
+  {
+   "i": 1038,
+   "src": "4cfde3c404b4",
+   "t": "the {{culture_festival}} ends!"
+  },
+  {
+   "i": 1046,
+   "src": "4ba8ecce0e6d",
+   "t": "Heh heh, I can't wait!"
+  }
+ ]
+}

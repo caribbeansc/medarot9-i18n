@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_rescue_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "a6e23e611714",
+   "t": "{{kongo}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

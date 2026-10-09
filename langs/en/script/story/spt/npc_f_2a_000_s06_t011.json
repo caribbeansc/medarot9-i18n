@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_2a_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "3eca694c340b",
+   "t": "Is it true there's a secret Robattle arena"
+  },
+  {
+   "i": 1041,
+   "src": "f5aa7fce4fda",
+   "t": "that only the boys know about?"
+  },
+  {
+   "i": 1049,
+   "src": "d711b5e81871",
+   "t": "I heard there are really strong {{medabot|pl}},"
+  },
+  {
+   "i": 1052,
+   "src": "5727236e6a3f",
+   "t": "and if you win you get amazing {{part|pl}},\nright?"
+  },
+  {
+   "i": 1060,
+   "src": "5352107e6cd3",
+   "t": "When I ask the boys in my {{club}}, they\njust laugh it off."
+  },
+  {
+   "i": 1063,
+   "src": "2d69eca2b7a5",
+   "t": "That's not fair, I want to fight there too!"
+  }
+ ]
+}

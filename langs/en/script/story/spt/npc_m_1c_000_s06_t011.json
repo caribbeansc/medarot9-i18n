@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1c_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1038,
+   "src": "68a1e5835dc8",
+   "t": "Hi, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "fe01cb494a6b",
+   "t": "{{club|cap}} activities now? You're dedicated,\nin summer break."
+  },
+  {
+   "i": 1051,
+   "src": "466a89bbab24",
+   "t": "Huh? You mean we're doing it too?"
+  },
+  {
+   "i": 1054,
+   "src": "aa8f63370d73",
+   "t": "Well, yeah, plants don't care about\nsummer break."
+  },
+  {
+   "i": 1062,
+   "src": "7a56a936f40d",
+   "t": "Besides..."
+  },
+  {
+   "i": 1065,
+   "src": "e48a96b708d8",
+   "t": "my summer break is already over... haha."
+  }
+ ]
+}

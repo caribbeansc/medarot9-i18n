@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f01_040_117_20_t004.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1038,
+   "src": "e4054ad0716f",
+   "t": "Qué débil."
+  },
+  {
+   "i": 1041,
+   "src": "a690a4e98af6",
+   "t": "Eres un novato total."
+  },
+  {
+   "i": 1049,
+   "src": "2c47bceda38e",
+   "t": "Lee la enciclopedia de {{robattle}}."
+  },
+  {
+   "i": 1052,
+   "src": "b6e31aef8c9a",
+   "t": "Mejor repasa lo básico, ¿no crees?"
+  },
+  {
+   "i": 1065,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1077,
+   "src": "7573d549b2ee",
+   "t": "~~~~~!"
+  },
+  {
+   "i": 1104,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1110,
+   "src": "b6c887e5e3d8",
+   "t": "¿Hmm?"
+  },
+  {
+   "i": 1132,
+   "src": "6363f7b619a3",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1138,
+   "src": "ccddf39603f6",
+   "t": "¿Hmm?"
+  }
+ ]
+}

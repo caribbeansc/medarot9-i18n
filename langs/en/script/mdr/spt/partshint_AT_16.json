@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_16.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0268ad24d4a4",
+   "t": "<c:00ff00>Action:<c> {{slip}}\nA ranged attack that\ninterrupts the action if it\nhits the legs of a foe who\nis prepping or {{waiting}}.\nHitting another {{part}} is a\nnormal attack."
+  }
+ ]
+}

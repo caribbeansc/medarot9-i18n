@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "37e4fd11cfbc",
+   "t": "Don't fall asleep, {{mio}}!"
+  },
+  {
+   "i": 1038,
+   "src": "ff3fc36460da",
+   "t": "Look, the president is watching, you\nknow?"
+  }
+ ]
+}

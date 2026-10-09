@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc05_161_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "f70f45c63f7b",
+   "t": "I'm interested in broken leg {{part|pl}}."
+  },
+  {
+   "i": 1041,
+   "src": "74733bf437d6",
+   "t": "Let's go to the {{idol_club}}."
+  }
+ ]
+}

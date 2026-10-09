@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f02_030_163_00_t102.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "2ab348386af6",
+   "t": "H-hola."
+  },
+  {
+   "i": 1051,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1060,
+   "src": "3f1e9d454c67",
+   "t": "Sí, hola."
+  },
+  {
+   "i": 1071,
+   "src": "5fca4b48de2a",
+   "t": "Eh..."
+  },
+  {
+   "i": 1089,
+   "src": "1c1a291aab09",
+   "t": "Ay, no."
+  },
+  {
+   "i": 1097,
+   "src": "50969d68f05c",
+   "t": "Rayos."
+  },
+  {
+   "i": 1100,
+   "src": "fcc951babaa2",
+   "t": "Se supone que debía ir al {{club}} primero..."
+  },
+  {
+   "i": 1108,
+   "src": "56b65b07dda2",
+   "t": "¡Lo siento, volveré después!"
+  },
+  {
+   "i": 1113,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1122,
+   "src": "44c4fa2de7a3",
+   "t": "¿...?"
+  }
+ ]
+}

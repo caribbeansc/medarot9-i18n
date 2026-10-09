@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f09_020_102_00_t021.spt",
+ "lines": [
+  {
+   "i": 1002,
+   "src": "a42cb37c8788",
+   "t": " isn't here..."
+  },
+  {
+   "i": 1005,
+   "src": "f723b0a616c8",
+   "t": "We can't {{robattle}} like this."
+  },
+  {
+   "i": 1013,
+   "src": "2ab7a05de4dc",
+   "t": "Let's go back."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_196.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e5b61b55804e",
+   "t": "{{medabot}} {{type}} arma,\nprototipo 3 de la\n{{rubberobo_gang}}.\n \nMantiene la durabilidad y\ncambia el {{type}} de {{legs_part_slot}}\nde {{tank}} a {{multi_leg}}.\nCada vez es más grande."
+  }
+ ]
+}

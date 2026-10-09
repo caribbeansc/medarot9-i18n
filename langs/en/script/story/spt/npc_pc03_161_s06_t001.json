@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc03_161_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "b9b1064cba60",
+   "t": "You've got the mic, right? Good, good."
+  },
+  {
+   "i": 1041,
+   "src": "b3313e22db95",
+   "t": "Then you're in charge of picking up\nsound waves."
+  },
+  {
+   "i": 1049,
+   "src": "889294da3643",
+   "t": "In charge...?"
+  },
+  {
+   "i": 1052,
+   "src": "619d0cf2b457",
+   "t": "Is there something special I have to do?"
+  },
+  {
+   "i": 1057,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1063,
+   "src": "c15c2bd68534",
+   "t": "Hm? Nope."
+  },
+  {
+   "i": 1066,
+   "src": "0b7dc42f3200",
+   "t": "Just go where the quest decides."
+  },
+  {
+   "i": 1074,
+   "src": "819d792f51d8",
+   "t": "You're the guy in charge of never\ndropping or losing anything."
+  },
+  {
+   "i": 1077,
+   "src": "6a305d593efc",
+   "t": "Good luck."
+  },
+  {
+   "i": 1085,
+   "src": "24bdfd47510e",
+   "t": "Sigh..."
+  }
+ ]
+}

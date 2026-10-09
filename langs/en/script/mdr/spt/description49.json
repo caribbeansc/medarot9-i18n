@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description49.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e2026165d4a5",
+   "t": "{{recover|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "37c78ee4f560",
+   "t": "An {{effect}} that increases the <c:ffff00>{{armor}}<c> value (<c:ffff00>{{damage}}<c>)\nthat a <c:ffff00>{{part}}<c> or <c:ffff00>{{object}}<c> lost from taking an <c:ffff00>attack<c>, with\nthe initial value as the cap.\n\nIt is mostly an <c:ffff00>action<c> of {{part|pl}} with the <c:ffff00>Heal skill<c>.\n\nThe {{armor}} of a <c:ffff00>destroyed<c> {{part}} can't be recovered,\nbut the <c:ffff00>{{restore}}<c> {{effect}} works."
+  }
+ ]
+}

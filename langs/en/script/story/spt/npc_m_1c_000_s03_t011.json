@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1c_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1038,
+   "src": "68a1e5835dc8",
+   "t": "Hi, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "7acebfc6283f",
+   "t": "Nice weather every day, isn't it~."
+  },
+  {
+   "i": 1051,
+   "src": "e0498dc50b8e",
+   "t": "The climate here is perfect for growing\nplants,"
+  },
+  {
+   "i": 1054,
+   "src": "28c2a7bbb29c",
+   "t": "but it's so easy that it's a little\nunsatisfying."
+  },
+  {
+   "i": 1062,
+   "src": "d0dd77d1d039",
+   "t": "I wouldn't mind a storm once in a while."
+  },
+  {
+   "i": 1065,
+   "src": "d888d07cde2b",
+   "t": "Is that insensitive?"
+  }
+ ]
+}

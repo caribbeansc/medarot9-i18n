@@ -1,0 +1,464 @@
+{
+ "rel": "mdr/tex/m9_mum1.ctpk",
+ "base": "jp",
+ "styles": {
+  "etq": {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#BDBDBD"
+   },
+   "stroke": "#000000D8",
+   "stroke_w": 1.0,
+   "crisp": 0,
+   "pad": 0,
+   "align": "left",
+   "valign": "middle"
+  }
+ },
+ "items": [
+  {
+   "style": "etq",
+   "box": [
+    1,
+    214,
+    56,
+    15
+   ],
+   "erase_box": [
+    0,
+    214,
+    58,
+    15
+   ],
+   "text": "Play Time",
+   "baseline": 224
+  },
+  {
+   "style": "etq",
+   "box": [
+    60,
+    214,
+    34,
+    15
+   ],
+   "erase_box": [
+    59,
+    214,
+    36,
+    15
+   ],
+   "text": "Money",
+   "baseline": 224
+  },
+  {
+   "style": "etq",
+   "box": [
+    97,
+    214,
+    89,
+    15
+   ],
+   "erase_box": [
+    96,
+    214,
+    91,
+    15
+   ],
+   "text": "Medagacha Coins",
+   "baseline": 224
+  },
+  {
+   "style": "etq",
+   "box": [
+    188,
+    214,
+    25,
+    15
+   ],
+   "erase_box": [
+    188,
+    214,
+    24,
+    15
+   ],
+   "text": "NAME",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "stroke": null,
+   "crisp": 0,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.9
+   },
+   "baseline": 225,
+   "scale_x": 1,
+   "fill": "#F0F0F0"
+  },
+  {
+   "style": "etq",
+   "box": [
+    214,
+    214,
+    34,
+    15
+   ],
+   "erase_box": [
+    213,
+    214,
+    36,
+    15
+   ],
+   "text": "Place",
+   "baseline": 224
+  },
+  {
+   "style": "etq",
+   "box": [
+    15,
+    229,
+    61,
+    13
+   ],
+   "erase_box": [
+    14,
+    230,
+    62,
+    12
+   ],
+   "text": "Berserk",
+   "baseline": 239
+  },
+  {
+   "style": "etq",
+   "box": [
+    99,
+    229,
+    61,
+    13
+   ],
+   "erase_box": [
+    98,
+    230,
+    62,
+    12
+   ],
+   "text": "Aimshot",
+   "baseline": 239
+  },
+  {
+   "style": "etq",
+   "box": [
+    161,
+    229,
+    61,
+    13
+   ],
+   "erase_box": [
+    161,
+    230,
+    61,
+    12
+   ],
+   "text": "Medaforce",
+   "baseline": 239
+  },
+  {
+   "style": "etq",
+   "box": [
+    15,
+    242,
+    61,
+    14
+   ],
+   "erase_box": [
+    14,
+    243,
+    62,
+    12
+   ],
+   "text": "Crossfire",
+   "baseline": 252
+  },
+  {
+   "style": "etq",
+   "box": [
+    99,
+    242,
+    61,
+    14
+   ],
+   "erase_box": [
+    98,
+    243,
+    62,
+    12
+   ],
+   "text": "Combo",
+   "baseline": 252
+  },
+  {
+   "style": "etq",
+   "box": [
+    161,
+    242,
+    61,
+    14
+   ],
+   "erase_box": [
+    161,
+    243,
+    61,
+    12
+   ],
+   "text": "Medachange",
+   "baseline": 252
+  },
+  {
+   "style": "etq",
+   "box": [
+    168,
+    72,
+    31,
+    16
+   ],
+   "erase_box": [
+    168,
+    72,
+    76,
+    16
+   ],
+   "text": "My",
+   "font": "sf-heavy",
+   "cap": 10,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#B4B4B4"
+   },
+   "stroke": "#000000C0",
+   "stroke_w": 1.2,
+   "align": "center",
+   "baseline": 85
+  },
+  {
+   "style": "etq",
+   "box": [
+    199,
+    72,
+    45,
+    16
+   ],
+   "erase": "none",
+   "text": "Data",
+   "font": "sf-heavy",
+   "cap": 10,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#B4B4B4"
+   },
+   "stroke": "#000000C0",
+   "stroke_w": 1.2,
+   "align": "center",
+   "baseline": 85
+  },
+  {
+   "style": "etq",
+   "box": [
+    104,
+    83,
+    48,
+    10
+   ],
+   "erase_box": [
+    103,
+    83,
+    50,
+    10
+   ],
+   "text": "Activity",
+   "cap": 6.5,
+   "stroke_w": 0.8,
+   "stroke": "#000000C0",
+   "baseline": 91,
+   "align": "right"
+  },
+  {
+   "style": "etq",
+   "box": [
+    189,
+    102,
+    59,
+    14
+   ],
+   "erase_box": [
+    189,
+    102,
+    59,
+    14
+   ],
+   "text": "Explor. Club",
+   "cap": 8,
+   "baseline": 112
+  },
+  {
+   "style": "etq",
+   "box": [
+    189,
+    90,
+    9,
+    10
+   ],
+   "erase_box": [
+    189,
+    90,
+    9,
+    10
+   ],
+   "text": "Y",
+   "cap": 7,
+   "align": "center",
+   "baseline": 98,
+   "fill": {
+    "top": "#C8C8C8",
+    "bottom": "#8E8E8E"
+   },
+   "stroke_w": 0.7,
+   "stroke": "#000000C8"
+  },
+  {
+   "style": "etq",
+   "box": [
+    199,
+    90,
+    11,
+    10
+   ],
+   "erase_box": [
+    199,
+    90,
+    11,
+    10
+   ],
+   "text": "pc.",
+   "cap": 6.5,
+   "align": "center",
+   "baseline": 98,
+   "fill": {
+    "top": "#9A9A9A",
+    "bottom": "#6A6A6A"
+   },
+   "stroke_w": 0.7,
+   "stroke": "#000000C8"
+  },
+  {
+   "erase": "transparent",
+   "box": [
+    100,
+    72,
+    56,
+    11
+   ],
+   "erase_box": [
+    100,
+    72,
+    56,
+    11
+   ],
+   "text": "PARTNER",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#6BADBA",
+   "stroke": null,
+   "crisp": 0,
+   "pad": 0,
+   "align": "left",
+   "baseline": 81,
+   "scale_x": 1
+  },
+  {
+   "erase": "transparent",
+   "box": [
+    103,
+    93,
+    74,
+    11
+   ],
+   "erase_box": [
+    103,
+    93,
+    74,
+    11
+   ],
+   "text": "MEDAFIGHTER",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#6BADBA",
+   "stroke": null,
+   "crisp": 0,
+   "pad": 0,
+   "align": "left",
+   "baseline": 102,
+   "scale_x": 1
+  }
+ ],
+ "protect": [
+  [
+   15,
+   242,
+   61,
+   1
+  ],
+  [
+   99,
+   242,
+   123,
+   1
+  ],
+  [
+   15,
+   255,
+   61,
+   1
+  ],
+  [
+   99,
+   255,
+   123,
+   1
+  ],
+  [
+   160,
+   229,
+   1,
+   28
+  ],
+  [
+   222,
+   229,
+   1,
+   28
+  ],
+  [
+   0,
+   229,
+   256,
+   1
+  ],
+  [
+   0,
+   150,
+   256,
+   6
+  ],
+  [
+   0,
+   209,
+   256,
+   4
+  ]
+ ]
+}

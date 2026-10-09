@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f06_130_600_00_t031.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "95039396e47f",
+   "t": "Ah..."
+  },
+  {
+   "i": 1046,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1052,
+   "src": "70acdb2579c7",
+   "t": "Vaya, vaya."
+  },
+  {
+   "i": 1066,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1072,
+   "src": "07959b248885",
+   "t": "-¡¡¡Síiii!!!"
+  },
+  {
+   "i": 1086,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1092,
+   "src": "34adca2fad99",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1100,
+   "src": "e4bfb8d67caf",
+   "t": "Bueno, supongo que es lo esperable."
+  },
+  {
+   "i": 1111,
+   "src": "69e3540b5d12",
+   "t": "Gracias, {{exploration_club}}. Gracias a"
+  },
+  {
+   "i": 1114,
+   "src": "61acf34a7ab6",
+   "t": "ustedes, logré matar el aburrimiento."
+  },
+  {
+   "i": 1124,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1130,
+   "src": "e585f0fb497a",
+   "t": "No, no, ¡gracias a ti por decirlo!"
+  },
+  {
+   "i": 1137,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1143,
+   "src": "aab51a6b0e85",
+   "t": "Pero no saqué tanta ventaja como"
+  },
+  {
+   "i": 1146,
+   "src": "bf1ecafa336d",
+   "t": "esperaba. Error de cálculo inicial..."
+  }
+ ]
+}

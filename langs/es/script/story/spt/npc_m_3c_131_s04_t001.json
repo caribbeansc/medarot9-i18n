@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_3c_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2ebc46fccac9",
+   "t": "{{akitora}}"
+  },
+  {
+   "i": 1035,
+   "src": "9ee21b6a8774",
+   "t": "¡Qué vista!"
+  }
+ ]
+}

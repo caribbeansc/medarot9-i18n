@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_61.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fa36a9a65452",
+   "t": "<c:00ff00>Action:<c> {{countdown}}\nA melee attack that\napplies\n{{countdown}}.\n<c:00ffff>{{status|cap}}:<c> {{countdown}}\nLights up a count of 3.\nEach hit lowers it by\n1, and at 0 it shuts\ndown."
+  }
+ ]
+}

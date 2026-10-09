@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f05_070_152_00_t014.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "bf7883a2d832",
+   "t": "H-huh?"
+  },
+  {
+   "i": 1040,
+   "src": "68edd33eaaaa",
+   "t": "It opened..."
+  },
+  {
+   "i": 1058,
+   "src": "e6c9e3994a63",
+   "t": "Is anyone there?"
+  },
+  {
+   "i": 1061,
+   "src": "e5afb3b33287",
+   "t": "Hellooo...!"
+  },
+  {
+   "i": 1079,
+   "src": "10103cdf0156",
+   "t": "No response, huh..."
+  },
+  {
+   "i": 1084,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1090,
+   "src": "af97e9fe7f43",
+   "t": "Can't be helped, let's go in."
+  },
+  {
+   "i": 1097,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1103,
+   "src": "ee4ba2eddb82",
+   "t": "Y-you're really going in...!?"
+  },
+  {
+   "i": 1110,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1116,
+   "src": "2acbdc0d8697",
+   "t": "The longer we dawdle here,"
+  },
+  {
+   "i": 1119,
+   "src": "0a2a0a8bfdbf",
+   "t": "the bigger the commotion will get."
+  },
+  {
+   "i": 1127,
+   "src": "c7df47ab4e70",
+   "t": "R-right, you're right..."
+  },
+  {
+   "i": 1135,
+   "src": "6d27b998c972",
+   "t": "Well then..."
+  }
+ ]
+}

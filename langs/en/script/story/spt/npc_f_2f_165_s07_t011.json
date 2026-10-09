@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2f_165_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1038,
+   "src": "775feb96578e",
+   "t": "The {{rescue_club}} can't run a festival\nbooth."
+  },
+  {
+   "i": 1041,
+   "src": "5d7623b430d8",
+   "t": "It overlaps with the pre-tournament\ncrunch."
+  }
+ ]
+}

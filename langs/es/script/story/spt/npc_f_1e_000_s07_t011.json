@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/npc_f_1e_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1035,
+   "src": "3fcb54ac9f88",
+   "t": "Oye, ¿qué hará tu club"
+  },
+  {
+   "i": 1038,
+   "src": "204883c6da1b",
+   "t": "para el {{culture_festival}}?"
+  },
+  {
+   "i": 1045,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1051,
+   "src": "7612f90d9ad3",
+   "t": "¿Mi club?"
+  },
+  {
+   "i": 1054,
+   "src": "ad7612e44acb",
+   "t": "Es un puesto de crepas."
+  },
+  {
+   "i": 1061,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1067,
+   "src": "270ca3b25372",
+   "t": "¿¡Quéeee!? ¿El Club de Ocultismo con"
+  },
+  {
+   "i": 1070,
+   "src": "54ac309a239b",
+   "t": "un puesto de comida?"
+  },
+  {
+   "i": 1078,
+   "src": "4403381d4ca8",
+   "t": "¡Hay opciones! ¡Una casa embrujada,"
+  },
+  {
+   "i": 1081,
+   "src": "febf3388870b",
+   "t": "o un tour por los sitios paranormales!"
+  },
+  {
+   "i": 1088,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1094,
+   "src": "e2772bd824e6",
+   "t": "Si lo hiciéramos, terminaríamos\ninvocándolos..."
+  },
+  {
+   "i": 1101,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1107,
+   "src": "86766b2e2dcb",
+   "t": "¿In-invocarlos?"
+  },
+  {
+   "i": 1110,
+   "src": "070518efd2e4",
+   "t": "¿¿Invocar a qué??"
+  },
+  {
+   "i": 1117,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1123,
+   "src": "6f15dd031bb3",
+   "t": "El año pasado hice una casa embrujada."
+  },
+  {
+   "i": 1126,
+   "src": "dc9b7d2d18e3",
+   "t": "Y entonces..."
+  },
+  {
+   "i": 1133,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1139,
+   "src": "1b71cfc9da19",
+   "t": "¡Ah! ¡Olvídalo, me da miedo!"
+  },
+  {
+   "i": 1142,
+   "src": "0d17550faa73",
+   "t": "¡Cancelémoslo! ¡Basta ya, Senpai!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description91.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3155ccaa3075",
+   "t": "{{medalia}}"
+  },
+  {
+   "i": 11,
+   "src": "30148e16c54d",
+   "t": "A mysterious gem that draws out the power of a\n<c:ffff00>{{medal}}<c>.\nEach <c:ffff00>{{medalia_slot}}<c> takes 1 {{medalia}}.\nEach {{medalia}} has an {{effect}}, a shape, a color, and an\nextra <c:ffff00>{{best_skill}}<c> with its <c:ffff00>{{level_bonus}}<c> (0-99).\nIf all 3 slots hold {{medalia}} of one shape, the <c:ffff00>{{leader}}<c>\n<c:ffff00>{{effect}}<c> changes; of one color, a <c:ffff00>{{medal_change}}<c>\noccurs."
+  }
+ ]
+}

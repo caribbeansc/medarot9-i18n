@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_30.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "692b16dcda63",
+   "t": "<c:00ff00>{{mf}}:<c>Súper Búsqueda\n{{up|cap}} bastante el\n{{stats}} de {{success}} de\ntodo tu equipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

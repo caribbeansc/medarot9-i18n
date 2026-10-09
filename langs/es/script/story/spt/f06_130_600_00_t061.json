@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f06_130_600_00_t061.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1052,
+   "src": "a5f8d1a9ef0f",
+   "t": "¿Qué rayos fue eso? Qué cursi."
+  },
+  {
+   "i": 1055,
+   "src": "4629b035c0f7",
+   "t": "¿De qué época es ese tipo?"
+  },
+  {
+   "i": 1065,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1074,
+   "src": "26b2cbafc265",
+   "t": "Sí~."
+  },
+  {
+   "i": 1082,
+   "src": "e04a43bd0580",
+   "t": "Me alegra que nos ayudaran. Gracias"
+  },
+  {
+   "i": 1085,
+   "src": "93675839c7de",
+   "t": "a ellos completamos la misión fácil."
+  },
+  {
+   "i": 1096,
+   "src": "912bf8b95dc1",
+   "t": "Bueno, volvamos a la {{clubroom}}."
+  },
+  {
+   "i": 1099,
+   "src": "b5bd3893c3f2",
+   "t": "{{main}}-chan nos espera~."
+  },
+  {
+   "i": 1110,
+   "src": "342c20413c8f",
+   "t": "¡Sí!"
+  }
+ ]
+}

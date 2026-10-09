@@ -1,0 +1,76 @@
+{
+ "rel": "mdr/tex/mk_gca.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    232,
+    44
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    3,
+    3,
+    218,
+    36
+   ],
+   "erase": "none",
+   "text": "JACKPOT!",
+   "font": "sf-black-italic",
+   "cap": 23,
+   "pad": 0,
+   "min_scale_x": 0.8,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFE9E2"
+     ],
+     [
+      0.1,
+      "#FFE5DE"
+     ],
+     [
+      0.35,
+      "#FFB5AA"
+     ],
+     [
+      0.46,
+      "#FE9D96"
+     ],
+     [
+      0.52,
+      "#FB6560"
+     ],
+     [
+      0.6,
+      "#F5535D"
+     ],
+     [
+      0.75,
+      "#E3365D"
+     ],
+     [
+      0.9,
+      "#CE1960"
+     ],
+     [
+      1,
+      "#BE0767"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f07_120_160_00_t063.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1052,
+   "src": "d5393e449bda",
+   "t": "Salió bien, jajaja."
+  },
+  {
+   "i": 1055,
+   "src": "d569650f5614",
+   "t": "Por cierto, {{mio}}-kun."
+  },
+  {
+   "i": 1065,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1074,
+   "src": "daa69990930e",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1081,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1090,
+   "src": "eea03f499280",
+   "t": "Llevas un rato inquieta y nerviosa,"
+  },
+  {
+   "i": 1093,
+   "src": "5780ed0e379e",
+   "t": "¿qué te pasa?"
+  },
+  {
+   "i": 1100,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1109,
+   "src": "fff802a63977",
+   "t": "Nada en realidad."
+  },
+  {
+   "i": 1116,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1125,
+   "src": "bc4a01eb6fbb",
+   "t": "Mmm."
+  },
+  {
+   "i": 1128,
+   "src": "8e61088365e1",
+   "t": "Si tú lo dices."
+  },
+  {
+   "i": 1136,
+   "src": "907885795987",
+   "t": "Si surge algo, puedes tomarte un"
+  },
+  {
+   "i": 1139,
+   "src": "4a0083c95ae7",
+   "t": "descanso. Aquí hay gente de sobra."
+  },
+  {
+   "i": 1146,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1155,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1163,
+   "src": "ac9dfeb9365b",
+   "t": "Ah."
+  },
+  {
+   "i": 1166,
+   "src": "11c510d9163a",
+   "t": "Bien, me ausentaré un momento."
+  }
+ ]
+}

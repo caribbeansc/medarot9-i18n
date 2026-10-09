@@ -1,0 +1,136 @@
+{
+ "rel": "battle/tex/m9_def_chk.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    58,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    58,
+    0,
+    68,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    1,
+    48,
+    29
+   ],
+   "erase": "none",
+   "text": "DEF",
+   "font": "impact",
+   "cap": 20,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFFF"
+     ],
+     [
+      0.5,
+      "#F4F8FC"
+     ],
+     [
+      0.56,
+      "#C8D8E2"
+     ],
+     [
+      1,
+      "#B6CAD8"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#6AAAD4",
+     "w": 1
+    },
+    {
+     "color": "#3E6CA0",
+     "w": 1.2
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   }
+  },
+  {
+   "box": [
+    62,
+    1,
+    63,
+    29
+   ],
+   "erase": "none",
+   "text": "MISS!",
+   "font": "impact",
+   "cap": 19,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFFF"
+     ],
+     [
+      0.5,
+      "#F4F8FC"
+     ],
+     [
+      0.56,
+      "#C8D8E2"
+     ],
+     [
+      1,
+      "#B6CAD8"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#6AAAD4",
+     "w": 1
+    },
+    {
+     "color": "#3E6CA0",
+     "w": 1.2
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   }
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "file": "mdr/spt/shop_tutorial.spt",
+ "lines": [
+  {
+   "i": 4715,
+   "src": "2375a0e51baa",
+   "t": "You don't have enough money."
+  },
+  {
+   "i": 4730,
+   "src": "887be9728e26",
+   "t": "You can't carry any more."
+  },
+  {
+   "i": 6595,
+   "src": "2375a0e51baa",
+   "t": "You don't have enough money."
+  },
+  {
+   "i": 6610,
+   "src": "75e296e50955",
+   "t": "You already have it."
+  },
+  {
+   "i": 6934,
+   "src": "0da2cf604308",
+   "t": "{{medal}}<c>: give it a name?"
+  },
+  {
+   "i": 8375,
+   "src": "2239f68e36c9",
+   "t": "If you're short on money, you have to\n<c:ff00ff>sell<c>"
+  },
+  {
+   "i": 8378,
+   "src": "f950d4cd11ec",
+   "t": "your parts for cash, but..."
+  },
+  {
+   "i": 8386,
+   "src": "90950e1a444d",
+   "t": "I should have plenty now."
+  },
+  {
+   "i": 8394,
+   "src": "283208eea2a7",
+   "t": "Okay, time to buy some {{part|pl}}."
+  },
+  {
+   "i": 8413,
+   "src": "f836aa8ece5e",
+   "t": "Wow, they sell all kinds of things."
+  },
+  {
+   "i": 8416,
+   "src": "b77c9711dde7",
+   "t": "Besides {{part|pl}}, there are consumable\nitems too."
+  },
+  {
+   "i": 8424,
+   "src": "aa1f59235998",
+   "t": "But today I came to buy <c:ff00ff>{{part|pl}}<c>."
+  },
+  {
+   "i": 8443,
+   "src": "ae92c8dd2920",
+   "t": "I can buy parts one {{slot}} at a time,"
+  },
+  {
+   "i": 8446,
+   "src": "1a4b91756bd5",
+   "t": "or a full set of {{original}} {{part|pl}}..."
+  },
+  {
+   "i": 8454,
+   "src": "d170fe7a04a0",
+   "t": "Buying together looks cheaper,"
+  },
+  {
+   "i": 8457,
+   "src": "f7c91de2bb3f",
+   "t": "so I'll go for the <c:ff00ff>set<c>."
+  },
+  {
+   "i": 8478,
+   "src": "3712f4357693",
+   "t": "Which one should I get..."
+  },
+  {
+   "i": 8551,
+   "src": "5f07920b4ccb",
+   "t": "I should have enough money."
+  },
+  {
+   "i": 8554,
+   "src": "015eabc966f2",
+   "t": "Let's buy some {{part|pl}}."
+  },
+  {
+   "i": 8573,
+   "src": "6ccaba8df010",
+   "t": "Nah, other goods interest me too, but"
+  },
+  {
+   "i": 8576,
+   "src": "a87fe4ec8cd6",
+   "t": "today I came to buy <c:ff00ff>{{part|pl}}<c>."
+  },
+  {
+   "i": 8595,
+   "src": "7dcaf3d80dae",
+   "t": "Buying as a <c:ff00ff>set<c> looks\nlike a better deal."
+  },
+  {
+   "i": 8619,
+   "src": "5f07920b4ccb",
+   "t": "I should have enough money."
+  },
+  {
+   "i": 8622,
+   "src": "015eabc966f2",
+   "t": "Let's buy some {{part|pl}}."
+  }
+ ]
+}

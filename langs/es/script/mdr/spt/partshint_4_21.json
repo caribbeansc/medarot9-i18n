@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_21.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dfcc1930eed7",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{fair_charge}}\nTras la acción de cada\n{{part}} aumenta la barra de\ncarga en 1/20 del {{armor}}\nde las trampas y plantas\ncolocadas."
+  }
+ ]
+}

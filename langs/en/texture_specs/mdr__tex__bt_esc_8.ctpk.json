@@ -1,0 +1,29 @@
+{
+ "rel": "mdr/tex/bt_esc_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    18,
+    1,
+    31,
+    14
+   ],
+   "erase_box": [
+    16,
+    0,
+    36,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Flee",
+   "font": "avenir-cond-heavy",
+   "cap": 9.5,
+   "fill": "#272D3D",
+   "stroke": "#FFFFFFC0",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "dy": 0.5
+  }
+ ]
+}

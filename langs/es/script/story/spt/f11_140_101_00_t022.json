@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f11_140_101_00_t022.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "27f72902791c",
+   "t": "Apúrate."
+  },
+  {
+   "i": 1038,
+   "src": "5c08205ccbf5",
+   "t": "Vamos al frente del {{dormitory}}."
+  },
+  {
+   "i": 1045,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1051,
+   "src": "2eebb827e075",
+   "t": "Oye, presidente."
+  },
+  {
+   "i": 1054,
+   "src": "7490c70c47df",
+   "t": "Lo que estos tipos acaban de decir..."
+  },
+  {
+   "i": 1061,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1067,
+   "src": "fdf5b09db956",
+   "t": "¿Un tipo como este?"
+  },
+  {
+   "i": 1070,
+   "src": "221ff2caf419",
+   "t": "¿Qué sabes tú siquiera de este tipo?"
+  },
+  {
+   "i": 1077,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1083,
+   "src": "fe46cca64783",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1090,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1096,
+   "src": "9e0d864f7316",
+   "t": "Bueno, lo que sea... Vamos."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_rescue_333_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "1a624fd51c35",
+   "t": "It's almost time..."
+  },
+  {
+   "i": 1038,
+   "src": "5a700c3a312f",
+   "t": "I need to send a backup request to the\nstandby unit..."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3f_160_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1035,
+   "src": "b077b4acafce",
+   "t": "Yeah, it looks great visually, but..."
+  },
+  {
+   "i": 1038,
+   "src": "ccc96bdbc098",
+   "t": "the faces are hidden for way too long."
+  },
+  {
+   "i": 1046,
+   "src": "723e14c8aa54",
+   "t": "I keep telling you, {{sakkara}}-kun..."
+  },
+  {
+   "i": 1049,
+   "src": "05722559c626",
+   "t": "This isn't a movie. It's the {{idol_club}}'s\nPV."
+  },
+  {
+   "i": 1057,
+   "src": "4ec21785331d",
+   "t": "Sorry, but"
+  },
+  {
+   "i": 1060,
+   "src": "f475ef12c947",
+   "t": "could you think about it a bit more?"
+  }
+ ]
+}

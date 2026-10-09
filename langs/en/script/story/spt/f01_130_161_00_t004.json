@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f01_130_161_00_t004.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1052,
+   "src": "ecb9683cddba",
+   "t": "Thank you."
+  },
+  {
+   "i": 1057,
+   "src": "0e5a6eec974e",
+   "t": "If you leave usable {{medal|pl}} and {{part|pl}}\nlying"
+  },
+  {
+   "i": 1060,
+   "src": "2f0255aa6069",
+   "t": "around, they start moving on their own."
+  },
+  {
+   "i": 1065,
+   "src": "ecb0b907fa24",
+   "t": "The {{club}} almost got disbanded over that\nonce."
+  },
+  {
+   "i": 1068,
+   "src": "fc9353b71a8a",
+   "t": "I nearly did it again, ha ha."
+  },
+  {
+   "i": 1076,
+   "src": "a2961c8733cd",
+   "t": "Um."
+  },
+  {
+   "i": 1079,
+   "src": "ee69f1f733f3",
+   "t": "What kind of {{club}} is this?"
+  },
+  {
+   "i": 1086,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1092,
+   "src": "4632ba417e99",
+   "t": "This place?"
+  },
+  {
+   "i": 1095,
+   "src": "bbda04d9ca79",
+   "t": "This is--"
+  },
+  {
+   "i": 1104,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1113,
+   "src": "cda18a5e738a",
+   "t": "Excuse me."
+  }
+ ]
+}

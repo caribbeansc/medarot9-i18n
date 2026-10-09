@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f11_060_108_00_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1037,
+   "src": "a1eda12337f6",
+   "t": "Attention, all students."
+  },
+  {
+   "i": 1045,
+   "src": "687f60d725ba",
+   "t": "I want you to defeat the {{stray}} {{medabot|pl}}"
+  },
+  {
+   "i": 1048,
+   "src": "40024b950c43",
+   "t": "that have invaded the school on sight."
+  },
+  {
+   "i": 1056,
+   "src": "04d1b74454dc",
+   "t": "Currently, their main points of entry are"
+  },
+  {
+   "i": 1059,
+   "src": "b6ac0ef850f8",
+   "t": "the main gate and the area behind the\ndorms."
+  },
+  {
+   "i": 1067,
+   "src": "5b0a24116030",
+   "t": "A small number have also been\nconfirmed"
+  },
+  {
+   "i": 1070,
+   "src": "4d3942d210e6",
+   "t": "entering through {{classroom}} windows\nand such."
+  },
+  {
+   "i": 1078,
+   "src": "7daee21ab102",
+   "t": "{{rescue_club}}, take the school gate.\n{{medabot_research_club}},"
+  },
+  {
+   "i": 1081,
+   "src": "02a72a5d8bce",
+   "t": "intercept the invaders in front of the\ndorms."
+  },
+  {
+   "i": 1089,
+   "src": "22fb90914da1",
+   "t": "The other clubs should act"
+  },
+  {
+   "i": 1092,
+   "src": "7b299bb2ca26",
+   "t": "on their own judgment for now."
+  },
+  {
+   "i": 1100,
+   "src": "93a025017249",
+   "t": "I'll notify you again if anything changes. "
+  },
+  {
+   "i": 1103,
+   "src": "995533852dee",
+   "t": "That is all."
+  }
+ ]
+}

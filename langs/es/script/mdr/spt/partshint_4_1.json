@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0059bda26fb6",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{forester}}\nSea cual sea el tipo de\n{{legs}} mejora la {{affinity}}\ncon el {{terrain}} boscoso."
+  }
+ ]
+}

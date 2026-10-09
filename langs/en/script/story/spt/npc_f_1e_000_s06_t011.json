@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_1e_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1038,
+   "src": "b7ae44c4b862",
+   "t": "Our {{vice_principal}} is really kind, isn't\nhe?"
+  },
+  {
+   "i": 1046,
+   "src": "65c3be4793d5",
+   "t": "The other day, when I was running\ndown the hall in a hurry,"
+  },
+  {
+   "i": 1049,
+   "src": "3f8ad4b7779f",
+   "t": "I crashed right into him."
+  },
+  {
+   "i": 1057,
+   "src": "c4eb38506abb",
+   "t": "It was my fault, but he said, 'Are you\nokay?' and"
+  },
+  {
+   "i": 1060,
+   "src": "0ae8ee7e9d68",
+   "t": "held out a handkerchief with a smile."
+  },
+  {
+   "i": 1068,
+   "src": "d8879b768d29",
+   "t": "What a gentleman!"
+  },
+  {
+   "i": 1071,
+   "src": "5e5375a0ec53",
+   "t": "He was a picture-perfect gentleman...!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_53.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "7ee612cb5aaf",
+   "t": "<c:00ff00>{{mf}}:<c> Wonder {{plant}}\nSets a {{plant}} in your {{area}}\nthat raises\n{{prep}} and {{cooldown}}.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_22.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8805bc69987d",
+   "t": "<c:00ff00>Leg Trait:<c> {{continual_p}}\nAfter each {{part}}'s action,\n{{prep}} and {{cooldown}} {{stats}}\n+2\n*Max +20."
+  }
+ ]
+}

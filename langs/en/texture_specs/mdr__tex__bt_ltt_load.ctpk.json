@@ -1,0 +1,534 @@
+{
+ "rel": "mdr/tex/bt_ltt_load.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    112,
+    108,
+    144,
+    12
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    128,
+    149,
+    128,
+    22
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    16,
+    48,
+    176,
+    24
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 12,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    0,
+    1,
+    0,
+    1
+   ],
+   "box": [
+    48,
+    48,
+    72,
+    24
+   ],
+   "text": "Rotation",
+   "align": "left"
+  },
+  {
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 12,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    1,
+    1,
+    0,
+    1
+   ],
+   "box": [
+    121,
+    48,
+    71,
+    24
+   ],
+   "text": "Load",
+   "align": "left"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    6,
+    1,
+    1,
+    1
+   ],
+   "box": [
+    16,
+    112,
+    84,
+    16
+   ],
+   "text": "Delete data",
+   "align": "left"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    0,
+    128,
+    34,
+    20
+   ],
+   "text": "Rival",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    36,
+    128,
+    34,
+    20
+   ],
+   "text": "Select",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    70,
+    128,
+    46,
+    20
+   ],
+   "text": "Part",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 11,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    1,
+    1,
+    3,
+    1
+   ],
+   "box": [
+    117,
+    128,
+    60,
+    20
+   ],
+   "text": "Aim at",
+   "align": "right"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    179,
+    128,
+    17,
+    20
+   ],
+   "text": "not",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    200,
+    128,
+    34,
+    20
+   ],
+   "text": "seen",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 11,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    0,
+    150,
+    34,
+    20
+   ],
+   "text": "non",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 11,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    36,
+    150,
+    90,
+    20
+   ],
+   "text": "Defend",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    1,
+    1,
+    3,
+    1
+   ],
+   "box": [
+    0,
+    171,
+    78,
+    20
+   ],
+   "text": "Target:",
+   "align": "right"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    4,
+    1,
+    1,
+    1
+   ],
+   "box": [
+    78,
+    171,
+    63,
+    20
+   ],
+   "text": "Conditions",
+   "align": "left"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    1,
+    1,
+    3,
+    1
+   ],
+   "box": [
+    142,
+    171,
+    78,
+    20
+   ],
+   "text": "Aimshot:",
+   "align": "right"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    222,
+    171,
+    34,
+    20
+   ],
+   "text": "Case",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 12,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    0,
+    193,
+    152,
+    20
+   ],
+   "text": "Defense: Conditions",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    3,
+    1,
+    3,
+    1
+   ],
+   "box": [
+    159,
+    191,
+    33,
+    20
+   ],
+   "text": "found",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 11,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    2,
+    1,
+    1,
+    1
+   ],
+   "box": [
+    194,
+    192,
+    48,
+    20
+   ],
+   "text": "leader",
+   "align": "left"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 12,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    1,
+    1,
+    3,
+    1
+   ],
+   "box": [
+    0,
+    212,
+    106,
+    20
+   ],
+   "text": "I'm leader:",
+   "align": "right"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 12,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": 1,
+   "box": [
+    108,
+    213,
+    18,
+    20
+   ],
+   "text": "Yes",
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 12,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    4,
+    1,
+    1,
+    1
+   ],
+   "box": [
+    129,
+    212,
+    47,
+    20
+   ],
+   "text": "No",
+   "align": "left"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#00000090",
+   "stroke_w": 1,
+   "min_scale_x": 0.8,
+   "valign": "middle",
+   "pad": [
+    1,
+    1,
+    3,
+    1
+   ],
+   "box": [
+    177,
+    212,
+    77,
+    20
+   ],
+   "text": "Enemy leader",
+   "align": "right"
+  },
+  {
+   "box": [
+    0,
+    233,
+    20,
+    20
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    22,
+    233,
+    34,
+    20
+   ],
+   "erase": "transparent",
+   "text": ""
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_55.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "20729e38dc45",
+   "t": "{{medabot}} {{type}} fénix que\nviste {{part|pl}} de llamas\ncarmesí.\n \nEl fuego que brota de\ntodo su cuerpo no se\napaga hasta consumir por\ncompleto al {{opponent}}."
+  }
+ ]
+}

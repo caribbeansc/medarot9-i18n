@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "df51508cbc1e",
+   "t": "{{medabot}} murciélago\nexperto en ataques\nantiaéreos.\n \nEmite ultrasonidos por la\n{{head_part_slot}} y, por su reflejo,\npercibe el entorno para\nesquivar con maestría los\nataques rivales."
+  }
+ ]
+}

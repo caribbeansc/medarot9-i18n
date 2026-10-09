@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_80.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "78382ef15271",
+   "t": "<c:00ff00>Leg Trait:<c> {{mascot}}\nOpponents targeting you\nget\n{{shooting}} and {{fighting}}\n{{stats}}\n-15."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_080_150_10_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1037,
+   "src": "6f8527986728",
+   "t": "There are a lot of them..."
+  },
+  {
+   "i": 1044,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1050,
+   "src": "441eb6b326c6",
+   "t": "Let's lend a hand."
+  },
+  {
+   "i": 1058,
+   "src": "342c20413c8f",
+   "t": "Yes!"
+  }
+ ]
+}

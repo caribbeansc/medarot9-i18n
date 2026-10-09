@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_idol_163_s07_t010.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "6ebac1159a7f",
+   "t": "I'm sorry about {{mio}}."
+  },
+  {
+   "i": 1041,
+   "src": "8776cc834496",
+   "t": "At such a busy time, because of us..."
+  }
+ ]
+}

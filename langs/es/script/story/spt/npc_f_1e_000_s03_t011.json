@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/npc_f_1e_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1035,
+   "src": "03b3b42522de",
+   "t": "Oye, Senpai."
+  },
+  {
+   "i": 1038,
+   "src": "468514228940",
+   "t": "¿Has oído los rumores sobre el {{principal}}?"
+  },
+  {
+   "i": 1046,
+   "src": "15a1b3bccdbf",
+   "t": "Mis compañeros dicen que lo vieron"
+  },
+  {
+   "i": 1049,
+   "src": "d3b4b5879131",
+   "t": "salir de la escuela de madrugada..."
+  },
+  {
+   "i": 1056,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1062,
+   "src": "74553c6c47d2",
+   "t": "Yo también lo he visto."
+  },
+  {
+   "i": 1069,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1075,
+   "src": "da0dca31334a",
+   "t": "¿¡En serio!?"
+  },
+  {
+   "i": 1082,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1088,
+   "src": "cd2e9daf3e2f",
+   "t": "Fui de noche al {{classroom}} por un olvido,"
+  },
+  {
+   "i": 1091,
+   "src": "44cdcf4b3308",
+   "t": "y lo vi por azar en la entrada."
+  },
+  {
+   "i": 1098,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1104,
+   "src": "6153def68b11",
+   "t": "¿Y? ¿Y qué pasó?"
+  },
+  {
+   "i": 1111,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1117,
+   "src": "a21735ac7af0",
+   "t": "En la oscuridad total sin luna,"
+  },
+  {
+   "i": 1120,
+   "src": "83c6672b89cc",
+   "t": "caminaba sin encender ninguna luz."
+  },
+  {
+   "i": 1128,
+   "src": "801fb5fad3fa",
+   "t": "Pensé en saludarlo, pero no lo hice."
+  },
+  {
+   "i": 1131,
+   "src": "77904fb14cb7",
+   "t": "Porque, quizá me equivoque, pero..."
+  },
+  {
+   "i": 1139,
+   "src": "f8176e80d33c",
+   "t": "Me pareció ver, más allá del director, "
+  },
+  {
+   "i": 1142,
+   "src": "1127ec81e99e",
+   "t": "muchas manos haciéndole señas--"
+  },
+  {
+   "i": 1149,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1155,
+   "src": "4ec7827eb805",
+   "t": "¡Ni hablar!"
+  },
+  {
+   "i": 1158,
+   "src": "5f4015c1eb4e",
+   "t": "¡Deja de hacer eso, Senpai!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3d_165_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "2b451dc01cd4",
+   "t": "I'm heading into the mountains for a\nwhile."
+  },
+  {
+   "i": 1041,
+   "src": "8adadf84c71a",
+   "t": "The President and the others should\nalready be at the camp site."
+  },
+  {
+   "i": 1049,
+   "src": "d64a73d908bf",
+   "t": "Huh, the festival? You're asking if we'll\ntake part?"
+  },
+  {
+   "i": 1052,
+   "src": "d1c1eccf6a4f",
+   "t": "Don't ask any more! It'll just make me\nsadder..."
+  }
+ ]
+}

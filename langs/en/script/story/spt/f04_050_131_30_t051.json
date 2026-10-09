@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f04_050_131_30_t051.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "3376217f6fa2",
+   "t": "W-what is this...!"
+  },
+  {
+   "i": 1043,
+   "src": "0eb28e7c19ca",
+   "t": "The winner is, believe it or not, the"
+  },
+  {
+   "i": 1046,
+   "src": "b70adf470f98",
+   "t": "Exploration Club! They're in the finals!!"
+  },
+  {
+   "i": 1062,
+   "src": "bdf017420547",
+   "t": "Yay!"
+  },
+  {
+   "i": 1078,
+   "src": "f99464600b71",
+   "t": "Heh heh!"
+  },
+  {
+   "i": 1081,
+   "src": "35785c3ff432",
+   "t": "That's how it's done!"
+  }
+ ]
+}

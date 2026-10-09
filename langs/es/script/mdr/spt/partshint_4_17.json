@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_17.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1e6098dd0e02",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Fortaleza\nAl defender reduce el {{damage}}\nrecibido en un 10%."
+  }
+ ]
+}

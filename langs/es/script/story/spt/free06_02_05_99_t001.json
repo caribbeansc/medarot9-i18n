@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_02_05_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "La {{mission}} actual es 'Recolección de"
+  },
+  {
+   "i": 1004,
+   "src": "8d49ccd8c8f9",
+   "t": "{{medalia|pl}}: Costa de {{old_harbor_town}}'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Revisa la app de misiones para más\ndetalles."
+  }
+ ]
+}

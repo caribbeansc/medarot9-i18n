@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0469.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 872,
+   "src": "09f9aa73d20c",
+   "t": "{{robattle}}..."
+  },
+  {
+   "i": 875,
+   "src": "7554c73c0fe3",
+   "t": "Oh, o-okay, I'll be your {{opponent}}."
+  }
+ ]
+}

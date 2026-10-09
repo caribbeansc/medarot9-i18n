@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f06_190_111_00_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1045,
+   "src": "46b1058b98b1",
+   "t": "I put it back."
+  },
+  {
+   "i": 1063,
+   "src": "458cca5e2da4",
+   "t": "Phew."
+  },
+  {
+   "i": 1068,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1077,
+   "src": "ee73069d245a",
+   "t": "You're done?!"
+  },
+  {
+   "i": 1080,
+   "src": "764b5cfc7156",
+   "t": "Then quickly--"
+  },
+  {
+   "i": 1087,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1096,
+   "src": "517c802ada4b",
+   "t": "Right."
+  },
+  {
+   "i": 1099,
+   "src": "6b106d8353ca",
+   "t": "Let's hurry out."
+  }
+ ]
+}

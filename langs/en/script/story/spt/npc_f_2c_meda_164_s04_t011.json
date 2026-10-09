@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_2c_meda_164_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3d612eeb1007",
+   "t": "{{sailormate}}"
+  },
+  {
+   "i": 1035,
+   "src": "2b2dc3122222",
+   "t": "Wow, it's "
+  },
+  {
+   "i": 1037,
+   "src": "4494a75d08e8",
+   "t": "."
+  },
+  {
+   "i": 1040,
+   "src": "adcec14e6268",
+   "t": "huge!"
+  }
+ ]
+}

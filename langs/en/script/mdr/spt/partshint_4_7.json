@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_7.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3cd47ef39d69",
+   "t": "<c:00ff00>Leg Trait:<c> {{space_type}}\nRegardless of {{leg_type}},\nimproves {{terrain_affinity}}\nwith Space."
+  }
+ ]
+}

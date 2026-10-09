@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f07_120_160_00_t091.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "bd8110fb4d0a",
+   "t": "Vaya, qué lástima."
+  },
+  {
+   "i": 1042,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1051,
+   "src": "7c7966bda0dc",
+   "t": "¡Inténtalo de nuevo!"
+  },
+  {
+   "i": 1054,
+   "src": "27c5febda8c2",
+   "t": "¡Te estaré esperando!"
+  }
+ ]
+}

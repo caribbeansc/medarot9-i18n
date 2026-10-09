@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_100.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f0bca9ee0b83",
+   "t": "<c:00ff00>Action:<c> {{cyber_core}}\nGives the whole allied\nteam the effects of Radar\nSight and {{conceal}}."
+  }
+ ]
+}

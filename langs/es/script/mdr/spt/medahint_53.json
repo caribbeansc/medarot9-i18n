@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_53.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f8061c31d6b0",
+   "t": "{{medabot}} {{type}} caballero\nespecializado en {{defend}},\ncon todas las {{part|pl}}\nreforzadas con {{guard}}.\n \nDestruir sus robustos\nescudos y llegar a\natacar su {{head_part_slot}} costará\nmuchísimo."
+  }
+ ]
+}

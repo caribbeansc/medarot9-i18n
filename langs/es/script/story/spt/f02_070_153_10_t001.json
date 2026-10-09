@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f02_070_153_10_t001.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "adfd774eeb67",
+   "t": "Hola, perdón por irrumpir así."
+  },
+  {
+   "i": 1054,
+   "src": "445b05950efe",
+   "t": "Tranquila, no soy nadie sospechoso."
+  },
+  {
+   "i": 1062,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1070,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1076,
+   "src": "5c517917d0eb",
+   "t": "Por cierto, tú de ahí"
+  },
+  {
+   "i": 1079,
+   "src": "6bde5b49ddb9",
+   "t": "Eres la compañera de {{mio}}-kun, ¿verdad?"
+  },
+  {
+   "i": 1095,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1102,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1111,
+   "src": "8f093f663eb3",
+   "t": "Mio-kun estaba muy preocupada por ti"
+  },
+  {
+   "i": 1114,
+   "src": "1129959c710b",
+   "t": "cuando no estabas."
+  },
+  {
+   "i": 1122,
+   "src": "a25fe1484f00",
+   "t": "No ha dormido nada desde ayer"
+  },
+  {
+   "i": 1125,
+   "src": "399ad3143af2",
+   "t": "y no parece poder comer nada."
+  },
+  {
+   "i": 1140,
+   "src": "6a6e5e7b28d5",
+   "t": "Si las cosas siguen así,"
+  },
+  {
+   "i": 1143,
+   "src": "bb4795df75a1",
+   "t": "me preocupa que se desplo-"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description97.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bd85b0b57655",
+   "t": "Auxiliar (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "79b549ff0948",
+   "t": "Las <c:ffff00>habilidades<c> que no se usan para <c:ffff00>atacar<c>, o su\n<c:ffff00>{{skill_level}}<c>: <c:ffff00>apoyo<c>, <c:ffff00>curación<c>, <c:ffff00>{{defend}}<c> y\n<c:ffff00>trampa<c>. Las demás son <c:ffff00>ofensivas<c>.\n\nA mayor {{skill_level}}, más rápidos son la <c:ffff00>{{prep}}<c>\ny el <c:ffff00>{{cooldown}}<c> de las técnicas y mayores el <c:ffff00>poder<c>\n<c:ffff00>de {{defend}}<c> y el <c:ffff00>poder de {{evade}}<c>. La mejora en\n{{prep}} y {{cooldown}} es mayor que en las ofensivas."
+  }
+ ]
+}

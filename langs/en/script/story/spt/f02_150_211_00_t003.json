@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f02_150_211_00_t003.spt",
+ "lines": [
+  {
+   "i": 1037,
+   "src": "e84d1056e9c1",
+   "t": "I thought we should stay apart for a\nwhile."
+  },
+  {
+   "i": 1045,
+   "src": "3907fdaef9b9",
+   "t": "I thought it would be better for {{mio}}."
+  },
+  {
+   "i": 1056,
+   "src": "4edf4a22891d",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1070,
+   "src": "860bb9462c6f",
+   "t": "{{mio}} only talks to me. She says"
+  },
+  {
+   "i": 1073,
+   "src": "f5f2f5d980b8",
+   "t": "she doesn't need friends as long as she\nhas me."
+  },
+  {
+   "i": 1081,
+   "src": "92881ed9318f",
+   "t": "Even after joining the {{idol_club}}, that\ndidn't change."
+  },
+  {
+   "i": 1084,
+   "src": "759e399e5479",
+   "t": "She hardly talks to anyone and practices\nalone."
+  },
+  {
+   "i": 1092,
+   "src": "bda9879bbfb3",
+   "t": "And then one day, {{aoi}}--"
+  }
+ ]
+}

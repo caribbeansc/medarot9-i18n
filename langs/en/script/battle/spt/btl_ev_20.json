@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/btl_ev_20.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "cf78bd892f21",
+   "t": "Hey "
+  },
+  {
+   "i": 1122,
+   "src": "1c0d627bd716",
+   "t": "!\nWhy won't you listen to your master?!"
+  },
+  {
+   "i": 1138,
+   "src": "566f01675311",
+   "t": "Do I have to listen to you?\nWhy?"
+  },
+  {
+   "i": 1147,
+   "src": "a3a721ca8e89",
+   "t": "Must I heed what you say?\nWhy?"
+  }
+ ]
+}

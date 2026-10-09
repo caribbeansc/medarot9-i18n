@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description135.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7e605b2dff60",
+   "t": "{{submarine|cap}} (legs)"
+  },
+  {
+   "i": 11,
+   "src": "9111f5dfde8c",
+   "t": "A <c:ffff00>Leg Type<c> that swims on the surface, underwater\nand at low altitude. Its <c:ffff00>{{stats}}<c> favor <c:ffff00>{{armor}}<c> and\n<c:ffff00>{{mobility}}<c>. Built for water, it does poorly elsewhere.\n\n<c:ffff00>{{terrain|cap}} {{affinity|cap}}<c> ({{mobility}}, <c:ffff00>{{fighting}}<c>, <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains}}<c>, <c:ffff00>{{forest}}<c>, <c:ffff00>{{rocky_ground}}<c>: 0. <c:ffff00>{{waterside}}<c>,\n  <c:ffff00>{{underwater}}<c>: +6.\n  <c:ffff00>{{sand}}<c>, <c:ffff00>{{tundra}}<c>, <c:ffff00>{{hall}}<c>: -4. <c:ffff00>{{cyber}}<c>: +4.\n  <c:ffff00>{{sky}}<c>: {{robattle|pl}} not possible."
+  }
+ ]
+}

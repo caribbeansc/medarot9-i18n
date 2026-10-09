@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_57.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "d2911e4ded55",
+   "t": "<c:00ff00>{{mf}}:<c> Effect {{trap}}\nDestroys the Traps in your\n{{area}} and sets a Support\n{{trap}} in the {{opponent}}'s\n{{area}}.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

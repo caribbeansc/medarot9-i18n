@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2b_164_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1038,
+   "src": "67b1b0d64533",
+   "t": "Look at all these {{medabot}} catalogs! And"
+  },
+  {
+   "i": 1041,
+   "src": "ed8d3d906f30",
+   "t": "this is just a fraction. With new parts"
+  },
+  {
+   "i": 1049,
+   "src": "be0ce246565c",
+   "t": "coming out every year, it's tough"
+  },
+  {
+   "i": 1052,
+   "src": "8d167a6dcb51",
+   "t": "just keeping up."
+  },
+  {
+   "i": 1060,
+   "src": "41a4d10fa1b2",
+   "t": "And actually getting them..."
+  },
+  {
+   "i": 1063,
+   "src": "9a6fda57ef59",
+   "t": "That's a distant dream, huh... *sigh*"
+  }
+ ]
+}

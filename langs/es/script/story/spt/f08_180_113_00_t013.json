@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f08_180_113_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "2b1a49769714",
+   "t": "Los alumnos solo buscan {{medalia|pl}}"
+  },
+  {
+   "i": 1038,
+   "src": "30aedf9e7194",
+   "t": "y descuidan las clases, me dicen."
+  },
+  {
+   "i": 1046,
+   "src": "8c89acb93b5c",
+   "t": "Segundo."
+  }
+ ]
+}

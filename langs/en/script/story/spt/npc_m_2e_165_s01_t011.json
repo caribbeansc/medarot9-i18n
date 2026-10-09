@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_2e_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1038,
+   "src": "8b13358a0fd2",
+   "t": "You want to join the {{rescue_club}}?"
+  },
+  {
+   "i": 1046,
+   "src": "66f13c107020",
+   "t": "We're basically always recruiting\nmembers,"
+  },
+  {
+   "i": 1049,
+   "src": "eddb258f7198",
+   "t": "since people quit so fast."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_3d_320_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "9794b2e7f98c",
+   "t": "Mm, say what you will,"
+  },
+  {
+   "i": 1041,
+   "src": "4a31318e5759",
+   "t": "camping this time of year feels great."
+  },
+  {
+   "i": 1049,
+   "src": "f60ce24839c2",
+   "t": "The air is delicious~!"
+  }
+ ]
+}

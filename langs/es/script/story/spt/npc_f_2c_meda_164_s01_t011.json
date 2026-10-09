@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2c_meda_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3d612eeb1007",
+   "t": "Sailormate"
+  },
+  {
+   "i": 1038,
+   "src": "5dbbd0233f15",
+   "t": "Me gusta combinar distintas"
+  },
+  {
+   "i": 1041,
+   "src": "cafe96edc87c",
+   "t": "{{part|pl}}, no comprar un set."
+  },
+  {
+   "i": 1049,
+   "src": "0d13af741206",
+   "t": "Si las combinas bien, queda lindo y"
+  },
+  {
+   "i": 1052,
+   "src": "95f863151a80",
+   "t": "con estilo, distinto de los demás, creo."
+  }
+ ]
+}

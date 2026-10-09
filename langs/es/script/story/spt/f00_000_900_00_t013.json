@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f00_000_900_00_t013.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "bdf017420547",
+   "t": "¡Síii!"
+  },
+  {
+   "i": 1040,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1046,
+   "src": "9c505be918cb",
+   "t": "Rayos, no funcionó."
+  },
+  {
+   "i": 1049,
+   "src": "55579ed8c697",
+   "t": "Creí que esto funcionaría mejor..."
+  },
+  {
+   "i": 1057,
+   "src": "5ac6f9e98515",
+   "t": "Como prueba, no estuvo mal, ¿no?"
+  },
+  {
+   "i": 1060,
+   "src": "9a0e895ecbb8",
+   "t": "Iría mejor en pelea de equipo..."
+  }
+ ]
+}

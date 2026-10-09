@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3b_meda_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "48d28919cf40",
+   "t": "LovelyDog"
+  },
+  {
+   "i": 1038,
+   "src": "347b94dfa228",
+   "t": "I'm bad at {{robattle}} setups."
+  },
+  {
+   "i": 1041,
+   "src": "2e1427eb6d1c",
+   "t": "They're heavy and hard to move in."
+  }
+ ]
+}

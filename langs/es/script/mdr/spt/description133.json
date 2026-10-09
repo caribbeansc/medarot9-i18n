@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description133.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b0d62ae522f0",
+   "t": "{{hover|cap}} ({{legs}})"
+  },
+  {
+   "i": 11,
+   "src": "e489b5330975",
+   "t": "<c:ffff00>{{leg_type|cap}}<c> que flota sobre el suelo y se mueve\na baja altura. Su <c:ffff00>{{stats}}<c> tiende a ser bajo en\ngeneral, pero se lleva bien con cualquier {{terrain}} y\nrinde de forma estable.\n\n<c:ffff00>{{terrain_affinity|cap}}<c> (<c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains|cap}}<c>, <c:ffff00>{{forest|cap}}<c>, <c:ffff00>{{rocky_ground|cap}}<c>, <c:ffff00>{{sand|cap}}<c>, <c:ffff00>{{tundra|cap}}<c>, <c:ffff00>{{hall|cap}}<c>,\n  <c:ffff00>{{waterside|cap}}<c> y <c:ffff00>{{cyber|cap}}<c>: +4.\n  <c:ffff00>{{underwater|cap}}<c> y <c:ffff00>{{sky|cap}}<c>: no se puede robobatallar."
+  }
+ ]
+}

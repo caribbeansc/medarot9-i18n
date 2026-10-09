@@ -1,0 +1,62 @@
+{
+ "rel": "battle/tex/cp1_load.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    2,
+    1,
+    70,
+    15
+   ],
+   "erase": "transparent",
+   "erase_box": [
+    0,
+    0,
+    72,
+    16
+   ],
+   "text": "cargando",
+   "font": "sf",
+   "font_var": "Expanded Light",
+   "cap": 9.5,
+   "fill": "#FFFFFF",
+   "stroke": "#2222227C",
+   "stroke_w": 0.5,
+   "align": "left",
+   "pad": 0,
+   "baseline": 12.5,
+   "crisp": 0.8,
+   "tracking": 0.6
+  },
+  {
+   "box": [
+    176,
+    1,
+    70,
+    15
+   ],
+   "erase": "transparent",
+   "erase_box": [
+    173,
+    0,
+    75,
+    16
+   ],
+   "text": "cargando",
+   "font": "sf",
+   "font_var": "Expanded Bold",
+   "cap": 8.6,
+   "fill": "#FFFC93",
+   "stroke": "#FFFC93",
+   "stroke_w": 0.6,
+   "align": "left",
+   "pad": 0,
+   "baseline": 12.0,
+   "embolden": 0.45,
+   "blur": 0.8,
+   "tracking": 0.6,
+   "dark_edges": true
+  }
+ ]
+}

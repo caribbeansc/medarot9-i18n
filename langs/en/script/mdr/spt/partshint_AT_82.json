@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_82.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2fef5b28e72b",
+   "t": "<c:00ff00>Action:<c> {{commander}}\nGives the whole allied\nteam Radar\nSight and gives yourself\nthe\n{{stealth}} {{effect}}."
+  }
+ ]
+}

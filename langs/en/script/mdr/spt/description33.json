@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description33.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4a2d39ea0356",
+   "t": "Attack Power"
+  },
+  {
+   "i": 11,
+   "src": "176d7976c0d1",
+   "t": "The ability to deal more <c:ffff00>{{damage}}<c> in an <c:ffff00>attack<c>.\n\nIt is mostly determined by the <c:ffff00>{{power}}<c> stat of the\n<c:ffff00>{{acting_part}}<c>; the <c:ffff00>{{success}}<c> stat and the\n<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> stat of the <c:ffff00>legs<c> also have an\neffect."
+  }
+ ]
+}

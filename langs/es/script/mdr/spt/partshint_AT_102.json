@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_102.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4766a9fcaf42",
+   "t": "<c:00ff00>Técnica:<c>Subir {{plant|cap}}\nMaximiza el {{armor}} de la\n{{plant}} que un {{ally_battle_term}}\ncolocó en el propio\ncampo."
+  }
+ ]
+}

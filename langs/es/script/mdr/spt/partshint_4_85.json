@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_85.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "425fb9d60cd4",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nBaile de Batalla\nCada vez que esquivas\ncon {{success}} la {{mobility}} de\nlas {{part|pl}} de {{legs}}\naumenta +2.\n*Máximo +20."
+  }
+ ]
+}

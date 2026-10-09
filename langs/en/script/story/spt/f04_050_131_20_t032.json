@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f04_050_131_20_t032.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "a84e84f375b2",
+   "t": "In a real fight, the school's number one."
+  },
+  {
+   "i": 1038,
+   "src": "fc9611106601",
+   "t": "Even in {{robattle|pl}}, they favor close\ncombat."
+  },
+  {
+   "i": 1046,
+   "src": "62f71c7fb0b9",
+   "t": "Team Martial Arts {{club|cap}}!"
+  }
+ ]
+}

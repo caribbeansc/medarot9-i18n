@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/free03_01_03_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "01fb2bf6f169",
+   "t": "{{mission|cap}} '{{explore|cap}}: {{deep_forest|cap}} de\nNiebla'..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "390e31aa0331",
+   "t": "En el noreste de la isla hay un"
+  },
+  {
+   "i": 1049,
+   "src": "3c1941403b29",
+   "t": "bosque extraño siempre con niebla."
+  },
+  {
+   "i": 1057,
+   "src": "2206b1308c8f",
+   "t": "La niebla espesa frenaba todo,"
+  },
+  {
+   "i": 1060,
+   "src": "2c90264ac766",
+   "t": "pero hace poco hallé ruta segura."
+  },
+  {
+   "i": 1068,
+   "src": "866950ef27ea",
+   "t": "Conoces la playa del este, ¿no?"
+  },
+  {
+   "i": 1071,
+   "src": "324c3223785d",
+   "t": "Está al norte, tras el sendero costero."
+  },
+  {
+   "i": 1079,
+   "src": "4149da2743bf",
+   "t": "Un sendero firme lleva al {{deep_forest|cap}} de"
+  },
+  {
+   "i": 1082,
+   "src": "aa0364cd5647",
+   "t": "Niebla. ¿Quieres explorarlo?"
+  }
+ ]
+}

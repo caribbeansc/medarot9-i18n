@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo61.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "ecc6d5a3b400",
+   "t": "\"Recoger {{medalia}}: Costa {{old_harbor_town}}\""
+  },
+  {
+   "i": 32,
+   "src": "5caa699161cd",
+   "t": "Gran {{react}} de {{medalia|pl}} en el muelle de {{old_harbor_town}}.\nDebe estar bajo el {{underwater}}; conviene una {{part}} submarina.\n"
+  },
+  {
+   "i": 42,
+   "src": "79fab279cbbd",
+   "t": "En el mar hallamos un misterioso {{sunken_ship}}.\n¡Dentro estaba la {{medalia}}! Volvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

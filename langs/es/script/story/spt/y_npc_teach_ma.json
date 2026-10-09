@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_ma.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1653,
+   "src": "994c5b6b8b97",
+   "t": "¡Muy bien!"
+  },
+  {
+   "i": 1656,
+   "src": "9cd9526eccaf",
+   "t": "¡Ven con todo!"
+  }
+ ]
+}

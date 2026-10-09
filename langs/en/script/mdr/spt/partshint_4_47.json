@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_47.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "db20f0e1ffde",
+   "t": "<c:00ff00>Leg Trait:<c> {{charm}}\nReduces {{damage}} from\nattacks by {{medabot|pl}} of\nthe opposite {{type}} by 20%."
+  }
+ ]
+}

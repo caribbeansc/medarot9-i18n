@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m2c_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1035,
+   "src": "4569c1df46ee",
+   "t": "Perdona, ahora estoy un poco ocupado."
+  },
+  {
+   "i": 1038,
+   "src": "92cf3e4a8a98",
+   "t": "¿Lo dejamos para otro momento?"
+  }
+ ]
+}

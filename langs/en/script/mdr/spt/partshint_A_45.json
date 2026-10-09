@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_45.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "b296167c48ad",
+   "t": "<c:00ff00>{{mf}}:<c> {{hyper_repair}}\nGives your whole team a\npowerful continuous\nrepair {{effect}}.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

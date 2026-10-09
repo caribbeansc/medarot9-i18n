@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free08_01_02_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "74da5da5595c",
+   "t": "{{mission|cap}} 'Recolección de {{medalia|pl}}:\n{{old_harbor_town}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "0ede7f719412",
+   "t": "Es un buen sitio para buscar {{medalia|pl}}."
+  },
+  {
+   "i": 1049,
+   "src": "88c6c1f3b920",
+   "t": "Seguro hay gente de otros clubes..."
+  },
+  {
+   "i": 1057,
+   "src": "1cef224c2a67",
+   "t": "Aún hay reacciones. Recojamos"
+  },
+  {
+   "i": 1060,
+   "src": "c9623abecdee",
+   "t": "una antes de que se acaben todas."
+  }
+ ]
+}

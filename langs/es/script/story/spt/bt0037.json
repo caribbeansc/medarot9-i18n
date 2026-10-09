@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/bt0037.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "36e429ccccb3",
+   "t": "{{medabot}} Gigante"
+  },
+  {
+   "i": 864,
+   "src": "14cecb4c7afa",
+   "t": "¡Derrota sin destruir su brazo izq.!"
+  },
+  {
+   "i": 867,
+   "src": "9aee5fc6592a",
+   "t": "¡Robobatalla gigante!"
+  },
+  {
+   "i": 870,
+   "src": "14cecb4c7afa",
+   "t": "¡Derrota sin destruir su brazo izq.!"
+  },
+  {
+   "i": 884,
+   "src": "f3f71118fb31",
+   "t": "¡...Enemigo detectado!"
+  },
+  {
+   "i": 887,
+   "src": "db3c1e124464",
+   "t": "¡...Eliminarlos!"
+  }
+ ]
+}

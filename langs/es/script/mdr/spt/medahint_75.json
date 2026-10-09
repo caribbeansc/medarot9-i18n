@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_75.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5c6a0d9ff8e9",
+   "t": "{{medabot}} {{type}} tiburón\nmartillo, de {{head_part_slot}}\nsaliente a los lados como\nun mazo.\n \nMuerde con brazos en\nforma de mandíbula y\nasesta ataques de\n{{break}}."
+  }
+ ]
+}

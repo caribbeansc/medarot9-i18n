@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3b_meda_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "48d28919cf40",
+   "t": "{{lovelydog}}"
+  },
+  {
+   "i": 1038,
+   "src": "347b94dfa228",
+   "t": "No se me dan los ajustes de {{robattle}}."
+  },
+  {
+   "i": 1041,
+   "src": "2e1427eb6d1c",
+   "t": "Pesan y cuesta moverse en ellos."
+  }
+ ]
+}

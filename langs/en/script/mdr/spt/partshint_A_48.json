@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_48.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "403335efcc08",
+   "t": "<c:00ff00>{{mf}}:<c> Reload\nRestores the {{uses}} of the\nhead {{part|pl}} of your whole\nteam.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_meda_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5d1f8cd82138",
+   "t": "{{pingen}}"
+  },
+  {
+   "i": 1038,
+   "src": "80e6262d2822",
+   "t": "¡Conozco a ese humano que pasó!"
+  },
+  {
+   "i": 1041,
+   "src": "b587987341af",
+   "t": "Es el {{principal}}, ¿verdad?"
+  }
+ ]
+}

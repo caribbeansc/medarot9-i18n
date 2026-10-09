@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_2f_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

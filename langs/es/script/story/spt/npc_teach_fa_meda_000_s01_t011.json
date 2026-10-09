@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_teach_fa_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "88e901d21553",
+   "t": "{{saldron}}"
+  },
+  {
+   "i": 1038,
+   "src": "c402781b953b",
+   "t": "Mi maestra enseña idiomas."
+  },
+  {
+   "i": 1041,
+   "src": "3e05a668bbc1",
+   "t": "Habla seis idiomas. Es increíble."
+  }
+ ]
+}

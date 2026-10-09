@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f08_060_400_00_t012.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "60e4437ad225",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1053,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1059,
+   "src": "a9e25972b461",
+   "t": "Esto es..."
+  },
+  {
+   "i": 1075,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1084,
+   "src": "1bb7da89f06a",
+   "t": "¿Eso es todo?"
+  },
+  {
+   "i": 1099,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1110,
+   "src": "b29fdc30631e",
+   "t": "La {{react}} no desaparece..."
+  },
+  {
+   "i": 1127,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1136,
+   "src": "3fe583de2275",
+   "t": "¿No queda algo todavía?"
+  },
+  {
+   "i": 1139,
+   "src": "2d644494a162",
+   "t": "¿Lo recogiste bien?"
+  },
+  {
+   "i": 1162,
+   "src": "be8f55742378",
+   "t": "Sí."
+  },
+  {
+   "i": 1165,
+   "src": "e22dd9207f3e",
+   "t": "Mira."
+  },
+  {
+   "i": 1170,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1176,
+   "src": "bb3db727b580",
+   "t": "Qué raro."
+  },
+  {
+   "i": 1179,
+   "src": "48a3f91597bc",
+   "t": "Tal vez está descompuesto."
+  },
+  {
+   "i": 1188,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1197,
+   "src": "6fce2f28e7c7",
+   "t": "Uy."
+  }
+ ]
+}

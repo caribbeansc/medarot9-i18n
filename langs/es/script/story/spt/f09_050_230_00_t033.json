@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_050_230_00_t033.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "63711ec09334",
+   "t": "¿No deberías estar saliendo ya?"
+  },
+  {
+   "i": 1043,
+   "src": "c6dfb87b67c5",
+   "t": "¿{{robo|cap}}?"
+  },
+  {
+   "i": 1054,
+   "src": "60fdfa930a87",
+   "t": "Sé que estás escondido, ¿lo sabes?"
+  },
+  {
+   "i": 1057,
+   "src": "21541dbc0ef2",
+   "t": "{{robo|cap}}."
+  },
+  {
+   "i": 1068,
+   "src": "89e198e749fa",
+   "t": "¿...{{robo|cap}}?"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_14.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "29ad63897115",
+   "t": "<c:00ff00>Leg Trait:<c> {{shooter}}\nWhen using Aimshot, hit\nrate on each {{part}} +10%."
+  }
+ ]
+}

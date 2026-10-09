@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free03_01_02_03_t031.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "6f6107a90532",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1044,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1050,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1080,
+   "src": "b65e1fe116fb",
+   "t": "Por la dirección, está más allá"
+  },
+  {
+   "i": 1083,
+   "src": "3fcbf5d9e8fc",
+   "t": "de ese pastizal. Vamos."
+  },
+  {
+   "i": 1097,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1106,
+   "src": "56d55e4e15bc",
+   "t": "Ehhh."
+  }
+ ]
+}

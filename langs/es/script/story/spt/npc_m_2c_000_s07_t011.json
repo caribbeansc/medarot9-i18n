@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2c_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1038,
+   "src": "3f943f91fa8b",
+   "t": "Pronto será el {{culture_festival}}."
+  },
+  {
+   "i": 1041,
+   "src": "1b8afe6aa216",
+   "t": "Es triste que no vengan de afuera."
+  },
+  {
+   "i": 1049,
+   "src": "6eb568269673",
+   "t": "Aun así es divertido, ¿verdad?"
+  },
+  {
+   "i": 1052,
+   "src": "a8c3b85041b9",
+   "t": "Al fin y al cabo es un festival."
+  }
+ ]
+}

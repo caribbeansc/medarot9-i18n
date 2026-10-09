@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_11.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8d486f152aa0",
+   "t": "<c:00ff00>Técnica:<c>{{sacrifice}}\nAtaque de {{shooting}} que\nsuma a su {{power}} la\nmitad del valor de {{armor}}\nde la {{part}}.\nTras atacar, no resiste el\n{{recoil}} y explota."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_050_108_00_t014.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "fe562aa37220",
+   "t": "{{heal_angel}}"
+  },
+  {
+   "i": 1044,
+   "src": "7fd17006a22b",
+   "t": "The neural circuits are normal."
+  },
+  {
+   "i": 1058,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1064,
+   "src": "80260111d2f4",
+   "t": "Yes, brain waves are normal too..."
+  },
+  {
+   "i": 1067,
+   "src": "1d076b345ac2",
+   "t": "It's only accumulated fatigue. Thank\ngoodness..."
+  },
+  {
+   "i": 1078,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

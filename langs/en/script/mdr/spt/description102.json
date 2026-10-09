@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description102.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1a349975edce",
+   "t": "Block (skill)"
+  },
+  {
+   "i": 11,
+   "src": "e5ea94d8c8d3",
+   "t": "A <c:ffff00>support type<c> <c:ffff00>skill<c>: the ability to handle <c:ffff00>{{part|pl}}<c> that\nprotect allies from {{enemy}} <c:ffff00>attacks<c>. <c:ffff00>Actions<c> that\nperform an <c:ffff00>{{interrupt_guard}}<c> belong to it.\nThe higher the <c:ffff00>{{skill_level}}<c>, the faster <c:ffff00>{{prep}}<c> and\n<c:ffff00>{{cooldown}}<c> are, and the higher <c:ffff00>defense power<c> and\n<c:ffff00>evasion power<c> become; defense power rises even\nmore during an {{interrupt_guard}}.\nOn Block {{part|pl}}, the <c:ffff00>{{prep}}<c> stat rises when the <c:ffff00>Charge<c>\n<c:ffff00>Gauge<c> fills."
+  }
+ ]
+}

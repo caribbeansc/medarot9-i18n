@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_167.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1437be83ff28",
+   "t": "<c:00ff02>Técnica:<c>Dron {{shooting|cap}}\nColoca un dispositivo que\nhace fuego cruzado de\n{{shooting}} con los ataques\naliados.\nAl colocarlo varias veces\nsuben el {{armor}} y el\n{{attack_power}}."
+  }
+ ]
+}

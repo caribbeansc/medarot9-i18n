@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f03_030_230_10_t003.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1049,
+   "src": "89439ce48609",
+   "t": "Por ahí es la salida, ¿verdad?"
+  },
+  {
+   "i": 1052,
+   "src": "bad21be5243f",
+   "t": "Vamos."
+  },
+  {
+   "i": 1062,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1071,
+   "src": "26bbba510fd2",
+   "t": "No te impacientes."
+  },
+  {
+   "i": 1074,
+   "src": "099289160e63",
+   "t": "Ya que vinimos, investiguemos más."
+  },
+  {
+   "i": 1084,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1093,
+   "src": "8abab59ec9f4",
+   "t": "Aaayyy."
+  }
+ ]
+}

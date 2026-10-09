@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description71.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c13560746c0d",
+   "t": "{{tundra|cap}} ({{field}})"
+  },
+  {
+   "i": 11,
+   "src": "f7f7cd133d80",
+   "t": "Un tipo de <c:ffff00>{{field}}<c> donde se hace la <c:ffff00>{{robattle}}<c>.\n{{terrain|cap}} cubierto de nieve o hielo, de suelo\ninestable.\nLa <c:ffff00>{{terrain_affinity}}<c> modifica la <c:ffff00>{{mobility}}<c>, el\n<c:ffff00>{{fighting}}<c> y el <c:ffff00>{{shooting}}<c> de cada <c:ffff00>{{leg_type}}<c>:\n  <c:ffff00>{{biped|cap}}<c> -6, <c:ffff00>{{multi_leg}}<c> 0, <c:ffff00>{{vehicle}}<c> -4, <c:ffff00>{{tank}}<c> 0,\n  <c:ffff00>{{hover}}<c> +4, <c:ffff00>{{flying}}<c> 0, <c:ffff00>{{submarine}}<c> -4."
+  }
+ ]
+}

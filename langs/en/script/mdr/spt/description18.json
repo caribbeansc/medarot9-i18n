@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description18.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "47ed0c27252b",
+   "t": "Time Limit"
+  },
+  {
+   "i": 11,
+   "src": "b2363c81f2e5",
+   "t": "The span of time from the start to the end of the\n<c:ffff00>{{robattle}}<c>.\n\nAs time passes the count goes down; at 0, time is\nup and the <c:ffff00>{{result_decision}}<c> is made.\n\nIf the {{time_limit}} is infinite, time never runs out."
+  }
+ ]
+}

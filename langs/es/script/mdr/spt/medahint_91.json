@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_91.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e20ec0760ef5",
+   "t": "{{medabot}} {{type}} pez dorado,\nsanador, de deslumbrante\nbrillo dorado.\n \nSu Reparación Total\nrecupera una {{part}}\nentera. Dicen que hay\n{{medabot|pl}} enamorados\nde su belleza y dulzura."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_53.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "95ecf547ae37",
+   "t": "<c:00ff00>Leg Trait:<c> {{emergency}}\nEach time one of your\nteam's {{part|pl}} is destroyed,\n{{leg_part}}'s\n{{mobility}} stat +4.\n*Max +20."
+  }
+ ]
+}

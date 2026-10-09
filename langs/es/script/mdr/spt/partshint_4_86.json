@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_86.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8d7dd8d1ffa4",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nEn Espera\nSi durante la espera de CF\nel {{opponent}} queda sin poder\nesquivar la espera de CF\nse cancela y se le ataca a\nese {{opponent}} con un {{critical}}\ngarantizado."
+  }
+ ]
+}

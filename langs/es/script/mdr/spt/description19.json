@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description19.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a12f616e504d",
+   "t": "Veredicto"
+  },
+  {
+   "i": 11,
+   "src": "7a43c8b158f7",
+   "t": "Método para decidir el resultado cuando el <c:ffff00>tiempo<c>\n<c:ffff00>límite<c> llega a 0 en una <c:ffff00>{{robattle}}<c> sin que ningún\n<c:ffff00>{{leader}}<c> haya quedado <c:ffff00>{{knocked_out}}<c>.\n\nSe comparan los equipos con estos criterios: 1)\nnúmero de <c:ffff00>{{medabot|pl}}<c> dejados {{knocked_out}}; 2)\nnúmero de <c:ffff00>{{part|pl}}<c> <c:ffff00>destruidas<c>; 3) <c:ffff00>{{damage}}<c> total infligido.\nSe empieza por el criterio 1 y, si hay empate, se\npasa al siguiente."
+  }
+ ]
+}

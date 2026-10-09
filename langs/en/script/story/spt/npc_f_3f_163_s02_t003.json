@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_f_3f_163_s02_t003.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "4e2a43b436f6",
+   "t": "{{aoi}} and {{mio}}'s relationship... Hmm."
+  },
+  {
+   "i": 1041,
+   "src": "66d05a8dff53",
+   "t": "I can't really say they got along well."
+  },
+  {
+   "i": 1049,
+   "src": "6debcdbc99cf",
+   "t": "With {{mio}}'s personality,"
+  },
+  {
+   "i": 1052,
+   "src": "8696ffc97f03",
+   "t": "she never quite fit in with the {{club}}."
+  },
+  {
+   "i": 1060,
+   "src": "b75fadf27f86",
+   "t": "{{aoi}} tried to be considerate and talked to\nher about all sorts of things,"
+  },
+  {
+   "i": 1063,
+   "src": "3dcd0a498f24",
+   "t": "but it didn't seem to work out. In the\nend--"
+  },
+  {
+   "i": 1071,
+   "src": "15d3a98eb81b",
+   "t": "No, never mind."
+  },
+  {
+   "i": 1079,
+   "src": "ead2b7ef0a59",
+   "t": "Well, when more people join, things\ncome up, you know."
+  },
+  {
+   "i": 1082,
+   "src": "1b8002668fbe",
+   "t": "Neither of them is at fault."
+  }
+ ]
+}

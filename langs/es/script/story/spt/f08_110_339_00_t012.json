@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f08_110_339_00_t012.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "1a9d69ac7d06",
+   "t": "¡Ah, lo lograste!"
+  },
+  {
+   "i": 1074,
+   "src": "eecb97256e89",
+   "t": "¡...Espera, no es eso! ¡Solo quiero"
+  },
+  {
+   "i": 1077,
+   "src": "354eab51d17c",
+   "t": "saber si encontraste un camino o no!"
+  },
+  {
+   "i": 1082,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1088,
+   "src": "bb3494964395",
+   "t": "Ya sé, ya sé."
+  },
+  {
+   "i": 1091,
+   "src": "3d00979b2fe1",
+   "t": "Solo estaba bromeando, te digo."
+  },
+  {
+   "i": 1099,
+   "src": "83cf4b5b1452",
+   "t": "Entonces,"
+  },
+  {
+   "i": 1102,
+   "src": "957b041850e0",
+   "t": "¿cómo va el asunto del camino?"
+  },
+  {
+   "i": 1107,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1113,
+   "src": "25f6fe28173f",
+   "t": "Sí, nada. Hay acantilados por doquier."
+  },
+  {
+   "i": 1116,
+   "src": "75c30f744e9d",
+   "t": "Solo nos queda ese {{suspension_bridge}}."
+  }
+ ]
+}

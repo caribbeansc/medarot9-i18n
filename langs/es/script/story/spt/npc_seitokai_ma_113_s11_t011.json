@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_ma_113_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "7a07f54eb8e4",
+   "t": "¡Maldición, una cosa tras otra!"
+  },
+  {
+   "i": 1038,
+   "src": "86f4f0929e8d",
+   "t": "¿Y ahora qué diablos es esto?"
+  }
+ ]
+}

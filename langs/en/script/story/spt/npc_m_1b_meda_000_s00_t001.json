@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_1b_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5c5b43b2f274",
+   "t": "{{bustroyer}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  }
+ ]
+}

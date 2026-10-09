@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo60.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "2bfbaa52d1fd",
+   "t": "\"Recoger {{medalia}}: Est. Vagonetas\""
+  },
+  {
+   "i": 32,
+   "src": "9e4d776314eb",
+   "t": "Gran {{react}} de {{medalia|pl}} en la estación de vagonetas.\nAvancemos al oeste desde la {{mine_entrance}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "51aec252b6ae",
+   "t": "Nos topamos con un tipo raro, pero hallamos la {{medalia}}.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

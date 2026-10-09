@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_110_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "f800e37fc829",
+   "t": "Esta situación... Cuando lo pienso"
+  },
+  {
+   "i": 1041,
+   "src": "5a2423aa5b99",
+   "t": "con calma, se vuelve aterrador..."
+  }
+ ]
+}

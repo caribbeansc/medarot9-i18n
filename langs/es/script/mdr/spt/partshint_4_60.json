@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_60.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a1b9408ded29",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>-\nSin rasgo."
+  }
+ ]
+}

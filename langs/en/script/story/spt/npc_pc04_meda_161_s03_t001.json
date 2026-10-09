@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc04_meda_161_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "78cde81e54aa",
+   "t": "Come on."
+  },
+  {
+   "i": 1041,
+   "src": "937c430a73a8",
+   "t": "Mountains or sea, I don't care."
+  },
+  {
+   "i": 1049,
+   "src": "02065d36f4a8",
+   "t": "Let's go outside, outside! I'm sick"
+  },
+  {
+   "i": 1052,
+   "src": "69c49a75e065",
+   "t": "of staring at walls all the time!"
+  }
+ ]
+}

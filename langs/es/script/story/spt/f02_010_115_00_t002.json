@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f02_010_115_00_t002.spt",
+ "lines": [
+  {
+   "i": 1106,
+   "src": "a1bc48d51000",
+   "t": "¡Presidente!"
+  },
+  {
+   "i": 1121,
+   "src": "f69c98659550",
+   "t": "¡Aaahhhh!"
+  },
+  {
+   "i": 1124,
+   "src": "82324aa00242",
+   "t": "Vaya, estoy en problemas."
+  },
+  {
+   "i": 1140,
+   "src": "5994fede3d48",
+   "t": "Oye, quiero preguntarte algo."
+  },
+  {
+   "i": 1159,
+   "src": "f276548b4b8f",
+   "t": "Sí, sí"
+  },
+  {
+   "i": 1162,
+   "src": "697bb280b00e",
+   "t": "¿Qué pasa ahora~?"
+  }
+ ]
+}

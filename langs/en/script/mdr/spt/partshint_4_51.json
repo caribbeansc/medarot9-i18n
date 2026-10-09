@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_51.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b1b749386dbf",
+   "t": "<c:00ff00>Leg Trait:<c> {{trigger_happy}}\nEach time a ranged attack\nlands a {{critical}}, {{leg_part}}'s\n{{shooting}} stat +3.\n*Max +15."
+  }
+ ]
+}

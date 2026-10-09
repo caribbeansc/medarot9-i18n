@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_ｍ2e.spt",
+ "lines": [
+  {
+   "i": 1515,
+   "src": "01e9608e9448",
+   "t": "¡Vamos a robobatallar!"
+  },
+  {
+   "i": 1520,
+   "src": "860a6f1d0476",
+   "t": "{{boy_2_e}}"
+  },
+  {
+   "i": 1526,
+   "src": "9e20da738db7",
+   "t": "¡A definir esto!"
+  }
+ ]
+}

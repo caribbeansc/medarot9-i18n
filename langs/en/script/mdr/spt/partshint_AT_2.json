@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "57f3aff45765",
+   "t": "<c:00ff00>Action:<c> {{gatling}}\nA ranged attack that fires\nrapidly. {{damage|cap}} varies,\nbut with\n{{success}} of 40 or more, it\nsettles on the high side."
+  }
+ ]
+}

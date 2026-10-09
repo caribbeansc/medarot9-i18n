@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_194.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d959a0fa5148",
+   "t": "Weapon-{{type}} {{medabot}},\n{{rubberobo_gang}}\nprototype No. 1.\n \nConcept: 'make it sturdy\nand load it with big guns'.\nVery well made."
+  }
+ ]
+}

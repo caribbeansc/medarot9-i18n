@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_150_161_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "85c4ded9e9c8",
+   "t": "Hmm!"
+  },
+  {
+   "i": 1045,
+   "src": "0972e713a702",
+   "t": "Found it!"
+  },
+  {
+   "i": 1053,
+   "src": "51bb4c398ec0",
+   "t": "Right here!"
+  },
+  {
+   "i": 1056,
+   "src": "2a3b9a890b23",
+   "t": "This is the most suspicious point!"
+  }
+ ]
+}

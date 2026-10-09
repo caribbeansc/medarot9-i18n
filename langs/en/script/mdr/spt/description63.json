@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description63.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9f0c9c45b2be",
+   "t": "Combo"
+  },
+  {
+   "i": 11,
+   "src": "b94d8a3a9144",
+   "t": "An <c:ffff00>attack<c> that chains the <c:ffff00>actions<c> of several <c:ffff00>{{part|pl}}<c>\ninto a single <c:ffff00>action<c>.\nYou pick actions in execution order. <c:ffff00>Sub-skills<c>\ncannot be used, there is only 1 <c:ffff00>target<c>, and every\n{{part}} included becomes an <c:ffff00>{{acting_part}}<c>.\n<c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c> are based on the total of all\nactions and vary by attack type. A combo mixing\n<c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c> is faster than an all-{{fighting}}\nor all-{{shooting}} combo."
+  }
+ ]
+}

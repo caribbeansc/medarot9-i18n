@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_f_3b_163_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1038,
+   "src": "863696ba62d6",
+   "t": "Summer vacation? I did go home,"
+  },
+  {
+   "i": 1041,
+   "src": "27db19a57643",
+   "t": "but it was a whirlwind trip."
+  },
+  {
+   "i": 1049,
+   "src": "864baed56ed8",
+   "t": "The festival's close, and if I don't dance\nand rehearse as much as I can,"
+  },
+  {
+   "i": 1052,
+   "src": "f24183bd2ed8",
+   "t": "I just get restless."
+  },
+  {
+   "i": 1060,
+   "src": "59d1089b48f9",
+   "t": "Even if I rush back like that,"
+  },
+  {
+   "i": 1063,
+   "src": "dad9272e3e16",
+   "t": "it's pointless if nobody's here!"
+  },
+  {
+   "i": 1071,
+   "src": "1654e5b6adb9",
+   "t": "That's what I was worried about, but it\nwasn't like that."
+  },
+  {
+   "i": 1074,
+   "src": "be003b6c0c26",
+   "t": "We all feel the same way."
+  }
+ ]
+}

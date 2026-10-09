@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_9.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4bbbf23ecedd",
+   "t": "{{medabot}} {{type}} gato rojo,\ndiestro en el control\neléctrico.\n \nBurla las guardias con\n{{stealth}} y lanza ataques\nde {{thunder}} que quitan\nel movimiento a quien\ngolpea."
+  }
+ ]
+}

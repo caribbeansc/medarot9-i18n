@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_3f_163_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "4da7c12a55bf",
+   "t": "Eh, ¿visitar el {{club}}...?"
+  },
+  {
+   "i": 1046,
+   "src": "34ed0bfff83a",
+   "t": "¿En serio?"
+  },
+  {
+   "i": 1049,
+   "src": "bdcb6cdd7d35",
+   "t": "Este es el {{idol_club}}, ¿sabes...?"
+  }
+ ]
+}

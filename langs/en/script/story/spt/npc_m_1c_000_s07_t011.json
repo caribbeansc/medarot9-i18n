@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_1c_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1038,
+   "src": "68a1e5835dc8",
+   "t": "Hi, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "e406dc6c3d40",
+   "t": "The {{culture_festival}} is finally here."
+  },
+  {
+   "i": 1051,
+   "src": "d713727fd580",
+   "t": "The {{gardening_club}} is running a\nsandwich stand."
+  },
+  {
+   "i": 1054,
+   "src": "d1a61b5f53a7",
+   "t": "Loaded with homegrown veggies,\nthey're delicious~."
+  }
+ ]
+}

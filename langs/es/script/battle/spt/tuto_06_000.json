@@ -1,0 +1,95 @@
+{
+ "file": "battle/spt/tuto_06_000.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1123,
+   "src": "fbc847988197",
+   "t": "Ahora, practiquemos un <c:ff00ff>combo<c>."
+  },
+  {
+   "i": 1128,
+   "src": "edfabe903106",
+   "t": "Normalmente eliges las {{part|pl}} con $*   "
+  },
+  {
+   "i": 1129,
+   "src": "6c538fecf9a6",
+   "t": "\npero para elegir combos usa $!"
+  },
+  {
+   "i": 1130,
+   "src": "4d4e33efb3e2",
+   "t": "."
+  },
+  {
+   "i": 1135,
+   "src": "752299fa39eb",
+   "t": "Primero, la {{part}} del {{left_arm}}\nserá el primer comando del combo.  "
+  },
+  {
+   "i": 1140,
+   "src": "18c39c738d39",
+   "t": "Elige el {{left_arm}}...  "
+  },
+  {
+   "i": 1169,
+   "src": "dc076650aeda",
+   "t": " para confirmar."
+  },
+  {
+   "i": 1188,
+   "src": "0adfd110c5ea",
+   "t": "El segundo comando será\nel {{right_arm}}.         "
+  },
+  {
+   "i": 1193,
+   "src": "f450184eb9d4",
+   "t": "Elige el {{right_arm}}...     "
+  },
+  {
+   "i": 1222,
+   "src": "dc076650aeda",
+   "t": " para confirmar."
+  },
+  {
+   "i": 1241,
+   "src": "271d2704d689",
+   "t": "Para cerrar el combo, el tercer\ncomando será la {{head}}.           "
+  },
+  {
+   "i": 1246,
+   "src": "4fbfe068acbd",
+   "t": "El último comando del combo\nes el normal: $*    "
+  },
+  {
+   "i": 1247,
+   "src": "dc076650aeda",
+   "t": "para confirmar."
+  },
+  {
+   "i": 1252,
+   "src": "b0cf89c5f546",
+   "t": "Elige la {{head}}...     "
+  },
+  {
+   "i": 1281,
+   "src": "77b6dd56d17e",
+   "t": " para confirmar."
+  },
+  {
+   "i": 1300,
+   "src": "b86a554c4ee9",
+   "t": "Un combo ataca a <c:ff00ff>un solo<c> {{medabot}}.\nNo puedes atacar a varios rivales.                           "
+  },
+  {
+   "i": 1305,
+   "src": "af772fbff149",
+   "t": "Ahora elige el {{target}} a atacar.       "
+  }
+ ]
+}

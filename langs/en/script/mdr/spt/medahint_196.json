@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_196.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e5b61b55804e",
+   "t": "Weapon-{{type}} {{medabot}},\n{{rubberobo_gang}}\nprototype No. 3.\n \nKeeps its durability but\nchanges leg {{type}} from\n{{tank}} to {{multi_leg}}. Bigger\nthan ever."
+  }
+ ]
+}

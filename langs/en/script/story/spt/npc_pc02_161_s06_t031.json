@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc02_161_s06_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "74a933261c3a",
+   "t": "The {{principal}}'s office... The {{principal}}\nwho"
+  },
+  {
+   "i": 1041,
+   "src": "793e7eb10274",
+   "t": "looks like a pirate is in there, right?"
+  },
+  {
+   "i": 1049,
+   "src": "b8043b663270",
+   "t": "Maybe we should skip it?"
+  },
+  {
+   "i": 1052,
+   "src": "2d2e2bfbc980",
+   "t": "We'll be kidnapped and sold overseas,\nI'm sure."
+  }
+ ]
+}

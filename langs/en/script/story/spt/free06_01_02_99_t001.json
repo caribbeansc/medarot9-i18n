@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_01_02_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "The quest in progress is"
+  },
+  {
+   "i": 1004,
+   "src": "d6bca3302e93",
+   "t": "'Sound Wave Survey: {{shaft_tower}}'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Check the quest app for details."
+  }
+ ]
+}

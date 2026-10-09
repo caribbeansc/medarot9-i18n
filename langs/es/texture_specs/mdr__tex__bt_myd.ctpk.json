@@ -1,0 +1,220 @@
+{
+ "rel": "mdr/tex/bt_myd.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond-heavy",
+  "cap": 8,
+  "fill": "#FFFFFF",
+  "stroke": "#353535C7",
+  "stroke_w": 1,
+  "pad": 0,
+  "crisp": 0.3,
+  "min_scale_x": 0.75
+ },
+ "items": [
+  {
+   "box": [
+    226,
+    1,
+    29,
+    19
+   ],
+   "erase_box": [
+    225,
+    1,
+    31,
+    19
+   ],
+   "text": "Largo",
+   "cap": 7.5
+  },
+  {
+   "box": [
+    226,
+    41,
+    29,
+    19
+   ],
+   "erase_box": [
+    225,
+    41,
+    31,
+    19
+   ],
+   "text": "Corto",
+   "cap": 7.5
+  },
+  {
+   "box": [
+    226,
+    66,
+    29,
+    19
+   ],
+   "erase_box": [
+    225,
+    66,
+    31,
+    19
+   ],
+   "text": "Normal",
+   "cap": 7.5
+  },
+  {
+   "box": [
+    144,
+    32,
+    42,
+    14
+   ],
+   "erase_box": [
+    144,
+    32,
+    48,
+    16
+   ],
+   "text": "Modelo",
+   "cap": 9
+  },
+  {
+   "box": [
+    138,
+    48,
+    54,
+    14
+   ],
+   "erase_box": [
+    136,
+    48,
+    56,
+    16
+   ],
+   "text": "Medalla",
+   "cap": 9
+  },
+  {
+   "box": [
+    192,
+    32,
+    32,
+    8
+   ],
+   "erase_box": [
+    [
+     192,
+     32,
+     32,
+     8
+    ],
+    [
+     192,
+     40,
+     16,
+     8
+    ]
+   ],
+   "text": ""
+  },
+  {
+   "box": [
+    14,
+    24,
+    42,
+    10
+   ],
+   "erase_box": [
+    14,
+    24,
+    42,
+    10
+   ],
+   "text": "Carga",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#9C9C9C"
+   },
+   "stroke": null,
+   "align": "left",
+   "crisp": 0.3,
+   "baseline": 32
+  },
+  {
+   "box": [
+    57,
+    24,
+    80,
+    10
+   ],
+   "erase_box": [
+    57,
+    24,
+    80,
+    10
+   ],
+   "text": "Medafuerza",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#9C9C9C"
+   },
+   "stroke": null,
+   "align": "left",
+   "crisp": 0.3,
+   "baseline": 32
+  },
+  {
+   "box": [
+    14,
+    35,
+    42,
+    10
+   ],
+   "erase_box": [
+    14,
+    35,
+    42,
+    10
+   ],
+   "text": "Medaria",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#9C9C9C"
+   },
+   "stroke": null,
+   "align": "left",
+   "crisp": 0.3,
+   "baseline": 43
+  },
+  {
+   "box": [
+    57,
+    35,
+    64,
+    10
+   ],
+   "erase_box": [
+    57,
+    35,
+    64,
+    10
+   ],
+   "text": "Voz guia",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#9C9C9C"
+   },
+   "stroke": null,
+   "align": "left",
+   "crisp": 0.3,
+   "baseline": 43
+  }
+ ]
+}

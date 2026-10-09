@@ -1,0 +1,200 @@
+{
+ "file": "battle/spt/battle_control.spt",
+ "lines": [
+  {
+   "i": 3284,
+   "src": "c872b602a145",
+   "t": "Simple"
+  },
+  {
+   "i": 3290,
+   "src": "78f8d9cdca82",
+   "t": "Normal"
+  },
+  {
+   "i": 3299,
+   "src": "bd9fb01ffb98",
+   "t": "Ninguna"
+  },
+  {
+   "i": 3309,
+   "src": "42a90e3199c6",
+   "t": "Tipo 1"
+  },
+  {
+   "i": 3319,
+   "src": "0d251d2c8227",
+   "t": "Tipo 2"
+  },
+  {
+   "i": 3328,
+   "src": "90c221c0246f",
+   "t": "Nom. Medabot"
+  },
+  {
+   "i": 3338,
+   "src": "33efff07ba73",
+   "t": "N. {{medal}}"
+  },
+  {
+   "i": 3357,
+   "src": "57e147284172",
+   "t": "Robattle Fight! (M7)"
+  },
+  {
+   "i": 3367,
+   "src": "ee29d5aee985",
+   "t": "Towards Victory (M8)"
+  },
+  {
+   "i": 3377,
+   "src": "8183d6139047",
+   "t": "Strike Enemy (M2)"
+  },
+  {
+   "i": 3387,
+   "src": "aa70ce944f12",
+   "t": "Shout! (M3)"
+  },
+  {
+   "i": 3397,
+   "src": "a73b4421c389",
+   "t": "Beat Up (M3)"
+  },
+  {
+   "i": 3407,
+   "src": "3656988a0e9a",
+   "t": "Let's Robattle Dance (M4)"
+  },
+  {
+   "i": 3417,
+   "src": "bbcd209a824b",
+   "t": "Dark Night (M4)"
+  },
+  {
+   "i": 3427,
+   "src": "184feec72939",
+   "t": "DO.OR.DIE (M4)"
+  },
+  {
+   "i": 3437,
+   "src": "5b18105df232",
+   "t": "Robattle No.1 (M5)"
+  },
+  {
+   "i": 3447,
+   "src": "7870f5cbe436",
+   "t": "Beat The Diamonds (M5)"
+  },
+  {
+   "i": 3457,
+   "src": "5e1530b5fa0f",
+   "t": "Days of Typhoon (Mnavi)"
+  },
+  {
+   "i": 3467,
+   "src": "1a4479e8d235",
+   "t": "Robattle 2 (M7)"
+  },
+  {
+   "i": 3477,
+   "src": "182e5bc216c2",
+   "t": "Robattle 3 (M7)"
+  },
+  {
+   "i": 3487,
+   "src": "1298efef8fad",
+   "t": "Robattle Of Fate (M7)"
+  },
+  {
+   "i": 3497,
+   "src": "bbe04f8afd78",
+   "t": "The Chaos Emperor (M7)"
+  },
+  {
+   "i": 3507,
+   "src": "bfc0863b0319",
+   "t": "Nirvana (M7)"
+  },
+  {
+   "i": 3517,
+   "src": "c623b1895574",
+   "t": "Robattle 2 (DS)"
+  },
+  {
+   "i": 3527,
+   "src": "aefbdcb7c667",
+   "t": "Robattle 3 (DS)"
+  },
+  {
+   "i": 3537,
+   "src": "06701b71ffca",
+   "t": "Last Boss (DS)"
+  },
+  {
+   "i": 3547,
+   "src": "1948c8f2820b",
+   "t": "Disobey (MD)"
+  },
+  {
+   "i": 3557,
+   "src": "1c78b2255816",
+   "t": "Make a Breakthrough (MD)"
+  },
+  {
+   "i": 3567,
+   "src": "d0a05993060d",
+   "t": "Over the Top (MD)"
+  },
+  {
+   "i": 3577,
+   "src": "0af12ed20a8a",
+   "t": "Robin Hood (MD)"
+  },
+  {
+   "i": 3587,
+   "src": "37586d4baad7",
+   "t": "Rays Of the Sun (MD)"
+  },
+  {
+   "i": 3597,
+   "src": "dc8ca8c55e1e",
+   "t": "Absolute zero (MD)"
+  },
+  {
+   "i": 3607,
+   "src": "b8fa09c23672",
+   "t": "Shake It Up Baby (M8)"
+  },
+  {
+   "i": 3617,
+   "src": "7225c23ea0d7",
+   "t": "Mysterious (M8)"
+  },
+  {
+   "i": 3627,
+   "src": "ca758577fa42",
+   "t": "T.S.B.T (M8)"
+  },
+  {
+   "i": 3637,
+   "src": "83d365f55db3",
+   "t": "Dancing Phantom (M8)"
+  },
+  {
+   "i": 3647,
+   "src": "a2e7492676ba",
+   "t": "Shut Up! (M8)"
+  },
+  {
+   "i": 3657,
+   "src": "200df3c56256",
+   "t": "Core of Black (M8)"
+  },
+  {
+   "i": 3667,
+   "src": "98dde40329bc",
+   "t": "Eternal Darkness (M8)"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/npc_f_3b_163_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1035,
+   "src": "e70f18378554",
+   "t": "Hmm, I feel kind of sluggish..."
+  },
+  {
+   "i": 1038,
+   "src": "b94317fcf816",
+   "t": "Maybe I gained weight!?"
+  },
+  {
+   "i": 1048,
+   "src": "48d28919cf40",
+   "t": "LovelyDog"
+  },
+  {
+   "i": 1054,
+   "src": "825280801ab2",
+   "t": "Let's see, hmm..."
+  },
+  {
+   "i": 1065,
+   "src": "e20ac9c1974e",
+   "t": "Ta-da! 45.65 kg."
+  },
+  {
+   "i": 1068,
+   "src": "05f83cdf42c3",
+   "t": "You haven't gained a thing!"
+  },
+  {
+   "i": 1075,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1081,
+   "src": "60087a490a1e",
+   "t": "Phew, what a relief! I was worried"
+  },
+  {
+   "i": 1084,
+   "src": "aff4f01973b0",
+   "t": "because I ate too much yesterday--"
+  },
+  {
+   "i": 1105,
+   "src": "4d2e5d45ec2e",
+   "t": "Hey! What the heck, dude?"
+  },
+  {
+   "i": 1108,
+   "src": "0b41c71f743b",
+   "t": "How long have you been standing\nthere!?"
+  },
+  {
+   "i": 1116,
+   "src": "7f897b9ade76",
+   "t": "Go away!"
+  },
+  {
+   "i": 1119,
+   "src": "dece52c88b03",
+   "t": "Boys out!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "rel": "mdr/tex/p_eve.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    80,
+    0,
+    38,
+    8
+   ],
+   "erase_box": [
+    80,
+    0,
+    38,
+    8
+   ],
+   "erase": "transparent",
+   "text": "TIEMPO",
+   "font": "translation-work/tex/fuentes_pixel/pix5x5.ttf",
+   "cap": 5,
+   "fill": "#82FFDA",
+   "stroke": "#09110F",
+   "stroke_w": 1,
+   "crisp": 0,
+   "pad": 0,
+   "baseline": 6
+  }
+ ]
+}

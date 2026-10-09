@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/tuto_01_004.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "496e4e418320",
+   "t": "Viene un ataque {{enemy}}.\n¿Cómo debo <c:ff00ff>responder<c>?  "
+  },
+  {
+   "i": 1131,
+   "src": "496e4e418320",
+   "t": "Viene un ataque {{enemy}}.\n¿Cómo debo <c:ff00ff>responder<c>?     "
+  },
+  {
+   "i": 1152,
+   "src": "e31cbbc154c9",
+   "t": "Hay que decidir cómo responder\nal ataque del {{opponent}}...       "
+  },
+  {
+   "i": 1163,
+   "src": "8d117d05fd82",
+   "t": "Si nos destruyen la {{head}}, perdemos,\nasí que...                               "
+  },
+  {
+   "i": 1183,
+   "src": "53402eb65d5c",
+   "t": "Lo normal es <c:ff00ff>defender<c> con un brazo...                         "
+  },
+  {
+   "i": 1200,
+   "src": "dfc31d670cf3",
+   "t": "o intentar <c:ff00ff>esquivar<c> con las {{legs}}...                                "
+  },
+  {
+   "i": 1223,
+   "src": "61277b41283f",
+   "t": "Con un brazo, el {{damage}} siempre baja.     "
+  },
+  {
+   "i": 1237,
+   "src": "54bafe419a00",
+   "t": "Si esquivas bien, evitas todo el {{damage}}.\nSi fallas, recibirás mucho {{damage}}."
+  },
+  {
+   "i": 1248,
+   "src": "6957e3ce6476",
+   "t": "Hay que elegir la {{response}} según\nlas {{part|pl}} rivales y la situación.                 "
+  }
+ ]
+}

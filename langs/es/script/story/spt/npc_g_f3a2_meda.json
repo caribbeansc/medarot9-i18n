@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_g_f3a2_meda.spt",
+ "lines": [
+  {
+   "i": 1030,
+   "src": "8bc49da03d8a",
+   "t": "{{rouge_katze}}"
+  },
+  {
+   "i": 1041,
+   "src": "d897f59a4c05",
+   "t": "Hoy me siento bastante bien."
+  },
+  {
+   "i": 1044,
+   "src": "340c51253cd1",
+   "t": "El mantenimiento es muy importante."
+  }
+ ]
+}

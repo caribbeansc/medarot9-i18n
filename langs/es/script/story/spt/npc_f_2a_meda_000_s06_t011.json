@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_meda_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5d1f8cd82138",
+   "t": "{{pingen}}"
+  },
+  {
+   "i": 1038,
+   "src": "a546013599cc",
+   "t": "Quiero ganar {{part|pl}} increíbles."
+  },
+  {
+   "i": 1041,
+   "src": "e90240f363db",
+   "t": "Pero {{legs_part_slot}} no submarinas, qué pena."
+  }
+ ]
+}

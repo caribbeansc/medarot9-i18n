@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_seitokai_ma_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "27d6a5dcccd2",
+   "t": "Sí, no hay problemas con el cableado."
+  },
+  {
+   "i": 1038,
+   "src": "e292a4efa7e0",
+   "t": "Solo falta la prueba de sonido."
+  },
+  {
+   "i": 1049,
+   "src": "db4e9c93eb74",
+   "t": "...Je, está perfecto."
+  }
+ ]
+}

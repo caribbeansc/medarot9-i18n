@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_idol_150_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1056,
+   "src": "65391cb973ea",
+   "t": "Oh!"
+  },
+  {
+   "i": 1064,
+   "src": "6b93250ac5c6",
+   "t": "I'm sorry for not noticing you."
+  },
+  {
+   "i": 1067,
+   "src": "3e2b748a8c7e",
+   "t": "Is there something you need from me?"
+  },
+  {
+   "i": 1075,
+   "src": "79848d80c8c4",
+   "t": "Oh, you want to look around the clubs?"
+  },
+  {
+   "i": 1078,
+   "src": "a03825ae4c76",
+   "t": "In that case, why not try the {{club|cap}}\nBuilding?"
+  },
+  {
+   "i": 1086,
+   "src": "e466bb43a683",
+   "t": "The {{club_building}} is on the opposite\nside of the school building from here."
+  },
+  {
+   "i": 1089,
+   "src": "86acd39cf7ba",
+   "t": "The quickest way is straight down this\npath."
+  },
+  {
+   "i": 1097,
+   "src": "76ecd8122da5",
+   "t": "Are you looking for a {{club}} now?"
+  },
+  {
+   "i": 1100,
+   "src": "297d7d13f990",
+   "t": "Good luck!"
+  }
+ ]
+}

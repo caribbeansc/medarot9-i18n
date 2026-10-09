@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description34.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0c9582c0ab21",
+   "t": "Poder de {{defend}}"
+  },
+  {
+   "i": 11,
+   "src": "55b39d08a96d",
+   "t": "Capacidad de reducir el <c:ffff00>{{damage}}<c> de un <c:ffff00>ataque<c> del {{opponent}}.\n\nDepende sobre todo del {{stats}} de\n<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> de las <c:ffff00>{{legs}}<c>; también influyen el\n<c:ffff00>{{stats}} de {{mobility}}<c> y el <c:ffff00>{{medal_level}}<c>.\n\nSube temporalmente al elegir <c:ffff00>{{defend}}<c> en el\ncomando de <c:ffff00>{{response}}<c>."
+  }
+ ]
+}

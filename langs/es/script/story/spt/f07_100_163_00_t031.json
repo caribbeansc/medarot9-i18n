@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f07_100_163_00_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "f036ccf70cdc",
+   "t": "Vaya, vaya, vaya. De verdad que"
+  },
+  {
+   "i": 1041,
+   "src": "1d85e413f121",
+   "t": "apareces en todas partes, ¿no?"
+  },
+  {
+   "i": 1051,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1060,
+   "src": "91053abb75ee",
+   "t": "Te devuelvo esas palabras."
+  },
+  {
+   "i": 1063,
+   "src": "f03d2b9c732c",
+   "t": "El puesto de Exploración luce intacto."
+  },
+  {
+   "i": 1074,
+   "src": "54916a17c3fa",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1079,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1088,
+   "src": "f46e83a5b6b2",
+   "t": "El {{culture_festival}} es mañana."
+  },
+  {
+   "i": 1091,
+   "src": "ad02269bd837",
+   "t": "¿Preparando toda la noche? Qué duro."
+  },
+  {
+   "i": 1101,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1110,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

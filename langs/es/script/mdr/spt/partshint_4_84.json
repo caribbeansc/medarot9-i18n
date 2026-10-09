@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_84.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e089a38cbc3d",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nMás Críticos\n1/3 de la diferencia de\n{{mobility}} con el {{opponent}} se\nsuma a tu tasa de\ncríticos."
+  }
+ ]
+}

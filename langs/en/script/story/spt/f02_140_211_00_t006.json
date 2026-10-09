@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f02_140_211_00_t006.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "1520d6344c5d",
+   "t": "Aw, shucks."
+  },
+  {
+   "i": 1049,
+   "src": "34189ec84ae6",
+   "t": "Good job finding it."
+  },
+  {
+   "i": 1052,
+   "src": "ac5cc2dc9312",
+   "t": "You came through again, "
+  },
+  {
+   "i": 1054,
+   "src": "33ebbb226ca7",
+   "t": "-kuun."
+  },
+  {
+   "i": 1080,
+   "src": "06ada4040701",
+   "t": "I'm the one who found it, though!"
+  },
+  {
+   "i": 1086,
+   "src": "c3f834434b97",
+   "t": "I'm the one who found it, though!"
+  }
+ ]
+}

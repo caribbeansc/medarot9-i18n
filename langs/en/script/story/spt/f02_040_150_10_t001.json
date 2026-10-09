@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f02_040_150_10_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "ef5407fcaaee",
+   "t": "Hey, hey, "
+  },
+  {
+   "i": 1037,
+   "src": "dd058b089d29",
+   "t": "-kun"
+  },
+  {
+   "i": 1040,
+   "src": "f1bd479b7a03",
+   "t": "where are you going?"
+  },
+  {
+   "i": 1048,
+   "src": "f1b41db2e088",
+   "t": "Huh, we can't?"
+  },
+  {
+   "i": 1053,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1059,
+   "src": "e804a6a950b4",
+   "t": "It's not that we can't. That sounds kind\nof fun."
+  },
+  {
+   "i": 1062,
+   "src": "752d7e439c43",
+   "t": "But I'm busy now, so let's save it for\nlater."
+  }
+ ]
+}

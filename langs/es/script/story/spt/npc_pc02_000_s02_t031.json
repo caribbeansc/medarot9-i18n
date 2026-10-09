@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc02_000_s02_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "06fe012b7302",
+   "t": "¿Q-qué?"
+  },
+  {
+   "i": 1041,
+   "src": "ee62eaa52436",
+   "t": "Total, yo no te importo para nada."
+  },
+  {
+   "i": 1049,
+   "src": "784956ade281",
+   "t": "Apúrate y encuentra a "
+  },
+  {
+   "i": 1051,
+   "src": "89bb9a7ab885",
+   "t": ", ¿sí?"
+  }
+ ]
+}

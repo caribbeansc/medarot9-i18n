@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_idol_meda_132_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1038,
+   "src": "7c5cb7b4b523",
+   "t": "{{aoi}} has had stage fright since she was\nlittle."
+  },
+  {
+   "i": 1041,
+   "src": "958f0e9a6c34",
+   "t": "She's gotten a bit better, actually."
+  }
+ ]
+}

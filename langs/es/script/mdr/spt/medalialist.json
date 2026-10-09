@@ -1,0 +1,50 @@
+{
+ "file": "mdr/spt/medalialist.spt",
+ "lines": [
+  {
+   "i": 1828,
+   "src": "6ec816ad3b23",
+   "t": "¿Volver sin guardar cambios?"
+  },
+  {
+   "i": 1928,
+   "src": "02c0db203f4c",
+   "t": "Ajusta la carga en \"Larga\".\nCuesta calcular el tiempo, pero\nla {{charge_gauge}} se llena mejor."
+  },
+  {
+   "i": 1936,
+   "src": "421ae199782b",
+   "t": "Ajusta la carga en \"Normal\".\nEs el ajuste básico."
+  },
+  {
+   "i": 1944,
+   "src": "89aede56f223",
+   "t": "Ajusta la carga en \"Corta\".\nEs fácil calcular el tiempo, pero\nla {{charge_gauge}} se llena peor."
+  },
+  {
+   "i": 1952,
+   "src": "73482504e241",
+   "t": "Ajusta la {{medaforce}} que se usa\ndurante la {{robattle}}."
+  },
+  {
+   "i": 2043,
+   "src": "bf8c0d0ec885",
+   "t": "Largo"
+  },
+  {
+   "i": 2051,
+   "src": "682f3f007a8b",
+   "t": "Normal"
+  },
+  {
+   "i": 2059,
+   "src": "88c4d966dc6f",
+   "t": "Corto"
+  },
+  {
+   "i": 2113,
+   "src": "bd9fb01ffb98",
+   "t": "Ninguna"
+  }
+ ]
+}

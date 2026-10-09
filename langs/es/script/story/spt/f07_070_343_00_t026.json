@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f07_070_343_00_t026.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "f320ced879a0",
+   "t": "Oh, esto es..."
+  },
+  {
+   "i": 1044,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1053,
+   "src": "5c0c219d7fb9",
+   "t": "Las {{legs_part_slot}} de {{flora}}."
+  },
+  {
+   "i": 1067,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1076,
+   "src": "5e20e5df7791",
+   "t": "Están mucho mejor de lo que esperaba."
+  },
+  {
+   "i": 1079,
+   "src": "98ce802d89ac",
+   "t": "Parece que puedo usarlas de inmediato."
+  }
+ ]
+}

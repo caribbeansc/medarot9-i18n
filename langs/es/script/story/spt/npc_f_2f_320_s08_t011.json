@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2f_320_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1038,
+   "src": "04774ef1a25c",
+   "t": "¿Buscar {{medalia|pl}}?"
+  },
+  {
+   "i": 1041,
+   "src": "92ddebfe6bfb",
+   "t": "No, de verdad no tengo tiempo para eso."
+  },
+  {
+   "i": 1049,
+   "src": "cd8294cfb6fa",
+   "t": "Por alguna razón el entrenamiento se ha"
+  },
+  {
+   "i": 1052,
+   "src": "094b945fea8e",
+   "t": "vuelto más duro, y estoy agotadísima..."
+  }
+ ]
+}

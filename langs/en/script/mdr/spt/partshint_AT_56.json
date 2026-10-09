@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_56.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4a69d318b8f3",
+   "t": "<c:00ff00>Action:<c> {{level_drain}}\nA melee attack that lowers\nthe {{opponent}}'s {{medal}}\nlevel by 5 and raises your\nown {{medal}} level by 5."
+  }
+ ]
+}

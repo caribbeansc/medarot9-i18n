@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description58.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "66a3be4dbc02",
+   "t": "{{medaforce}}"
+  },
+  {
+   "i": 11,
+   "src": "d5b2575ce231",
+   "t": "Gran técnica que saca al máximo el poder oculto de\nla <c:ffff00>{{medal}}<c>. Antes algunos la veían peligrosa por ser\nfuerza descontrolada, pero con tecnología de\ncontrol es hoy una <c:ffff00>acción<c> oficial de la <c:ffff00>{{robattle}}<c>.\nRequiere la <c:ffff00>{{charge_gauge}}<c> al 100% y la gasta toda.\nSegún su <c:ffff00>{{rank}}<c>, la <c:ffff00>{{medal}}<c> permite hasta 3 tipos.\nCuanto mayor es el <c:ffff00>{{medal_level}}<c>, más rápidas\nson la <c:ffff00>{{prep}}<c> y el <c:ffff00>{{cooldown}}<c>. La <c:ffff00>{{acting_part}}<c> es\nla <c:ffff00>{{head}}<c>, más otras <c:ffff00>zonas<c> según el tipo."
+  }
+ ]
+}

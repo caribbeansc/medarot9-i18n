@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description28.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "86d168095940",
+   "t": "{{pierce|cap}} ({{damage}})"
+  },
+  {
+   "i": 11,
+   "src": "2672bc303c78",
+   "t": "<c:ffff00>{{damage_trait|cap}}<c> que, al dejar en 0 el <c:ffff00>{{armor}}<c>\nde alguna <c:ffff00>{{part}}<c> del {{opponent}} y <c:ffff00>destruirla<c>, inflige el <c:ffff00>{{damage}}<c>\nsobrante como {{damage}} adicional a la {{part}} de <c:ffff00>{{head}}<c>.\n\nNo es compatible con la {{damage_trait}} de\n<c:ffff00>{{all_parts}}<c>."
+  }
+ ]
+}

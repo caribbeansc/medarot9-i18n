@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free08_01_02_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "The {{mission}} I'm working on now is"
+  },
+  {
+   "i": 1004,
+   "src": "61764d8ae420",
+   "t": "'{{medalia}} Gathering: {{old_harbor_town}}'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Check the mission app for details."
+  }
+ ]
+}

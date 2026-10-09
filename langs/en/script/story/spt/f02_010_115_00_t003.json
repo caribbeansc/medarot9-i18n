@@ -1,0 +1,345 @@
+{
+ "file": "story/spt/f02_010_115_00_t003.spt",
+ "lines": [
+  {
+   "i": 914,
+   "src": "5c6f261ace9e",
+   "t": "Oh..."
+  },
+  {
+   "i": 921,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 930,
+   "src": "a1c0104e6b9f",
+   "t": "You're in the {{exploration_club}}, right?"
+  },
+  {
+   "i": 941,
+   "src": "a0bdf6add811",
+   "t": "S-sort of, it seems."
+  },
+  {
+   "i": 946,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 955,
+   "src": "6224fe986853",
+   "t": "The {{exploration_club}} solves tough cases"
+  },
+  {
+   "i": 958,
+   "src": "b5a9ca0c7f9b",
+   "t": "and catches bad guys, right?"
+  },
+  {
+   "i": 969,
+   "src": "9c3abce6c8bc",
+   "t": "Uh, hmm?"
+  },
+  {
+   "i": 977,
+   "src": "0f49e059a697",
+   "t": "If anything, that's not for the"
+  },
+  {
+   "i": 980,
+   "src": "e4e73cbc0f3f",
+   "t": "{{exploration_club}}, but for detect-"
+  },
+  {
+   "i": 985,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 994,
+   "src": "ce16b1cbc86e",
+   "t": "Either one's fine."
+  },
+  {
+   "i": 997,
+   "src": "1ba6ae3ad593",
+   "t": "I have a favor to ask."
+  },
+  {
+   "i": 1008,
+   "src": "f17e3e23d64f",
+   "t": "A favor?"
+  },
+  {
+   "i": 1013,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1023,
+   "src": "2e5c704fd832",
+   "t": "... will you look for her?"
+  },
+  {
+   "i": 1038,
+   "src": "c761f1c87ada",
+   "t": "My {{partner}}."
+  },
+  {
+   "i": 1049,
+   "src": "139f8979eb12",
+   "t": "{{partner|cap}}..."
+  },
+  {
+   "i": 1052,
+   "src": "5bd214867dd0",
+   "t": "Ah, now that you mention it..."
+  },
+  {
+   "i": 1057,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1066,
+   "src": "3a679917923f",
+   "t": "When I woke up this morning, she was\ngone."
+  },
+  {
+   "i": 1069,
+   "src": "ff6d9e73c717",
+   "t": "I'm sure she was kidnapped."
+  },
+  {
+   "i": 1080,
+   "src": "aaba956e710d",
+   "t": "What?!"
+  },
+  {
+   "i": 1088,
+   "src": "2699c557deee",
+   "t": "If that's true, it's serious."
+  },
+  {
+   "i": 1091,
+   "src": "abb3bb037ae6",
+   "t": "Did you report it to a {{teacher}}?"
+  },
+  {
+   "i": 1096,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1105,
+   "src": "5716e5297e76",
+   "t": "If I were going to do that, I wouldn't"
+  },
+  {
+   "i": 1108,
+   "src": "982fe97a7f50",
+   "t": "be asking you. More importantly-"
+  },
+  {
+   "i": 1123,
+   "src": "8074fbb7987b",
+   "t": "Find the culprit and quickly bring"
+  },
+  {
+   "i": 1127,
+   "src": "60ce715ce77a",
+   "t": " back right away."
+  },
+  {
+   "i": 1135,
+   "src": "f82b170e8e92",
+   "t": "Are you going to take the job?"
+  },
+  {
+   "i": 1138,
+   "src": "346c6acc6674",
+   "t": "Or not?"
+  },
+  {
+   "i": 1149,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1157,
+   "src": "2e58038f6791",
+   "t": "Any idea who the culprit is?"
+  },
+  {
+   "i": 1169,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1178,
+   "src": "aeb3607b7a45",
+   "t": "I do."
+  },
+  {
+   "i": 1186,
+   "src": "67d3130cf6bc",
+   "t": "{{aoi}}, a first-year in the {{idol_club}}."
+  },
+  {
+   "i": 1189,
+   "src": "74b900310772",
+   "t": "No doubt about it."
+  },
+  {
+   "i": 1200,
+   "src": "a50f6902e42f",
+   "t": "Why do you think that?"
+  },
+  {
+   "i": 1205,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1214,
+   "src": "089ec2023f00",
+   "t": "Because she has a record."
+  },
+  {
+   "i": 1225,
+   "src": "881775369baa",
+   "t": "A record?"
+  },
+  {
+   "i": 1230,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1239,
+   "src": "0bdb225df666",
+   "t": "She's always envied me and "
+  },
+  {
+   "i": 1241,
+   "src": "d48404aeb305",
+   "t": ","
+  },
+  {
+   "i": 1244,
+   "src": "c0e8e7a71515",
+   "t": "and has tried to split us up."
+  },
+  {
+   "i": 1252,
+   "src": "6a4346949f0d",
+   "t": "But since that never worked,"
+  },
+  {
+   "i": 1255,
+   "src": "c176c3df46ee",
+   "t": "I think she finally resorted to force."
+  },
+  {
+   "i": 1266,
+   "src": "169ca2527fe6",
+   "t": "Sigh."
+  },
+  {
+   "i": 1278,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1287,
+   "src": "edcb72feac80",
+   "t": "Honestly, she's so clingy it's ridiculous."
+  },
+  {
+   "i": 1295,
+   "src": "00c619cac42e",
+   "t": "Kicking us out of the {{idol_club}} wasn't\nenough,"
+  },
+  {
+   "i": 1298,
+   "src": "8f631a095b4e",
+   "t": "now she pesters us nonstop."
+  },
+  {
+   "i": 1313,
+   "src": "31889c37b6c2",
+   "t": "Is it that hard for her to stand that\nthere's"
+  },
+  {
+   "i": 1316,
+   "src": "0890d466de76",
+   "t": "a girl cuter than her? Ugh, so annoying."
+  },
+  {
+   "i": 1327,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1335,
+   "src": "fed537c5ae87",
+   "t": "Huh?"
+  },
+  {
+   "i": 1338,
+   "src": "242f52f1f417",
+   "t": "So that means..."
+  },
+  {
+   "i": 1346,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1349,
+   "src": "a9374d1148cb",
+   "t": "You used to be in the {{idol_club}}?"
+  },
+  {
+   "i": 1354,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1363,
+   "src": "8e631e5b8487",
+   "t": "So what if I was?"
+  },
+  {
+   "i": 1374,
+   "src": "8936c0f1d889",
+   "t": "\"Used to\" means, in other words-"
+  },
+  {
+   "i": 1379,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1388,
+   "src": "84f263262000",
+   "t": "Who cares about that?"
+  },
+  {
+   "i": 1391,
+   "src": "2d56339d3b4b",
+   "t": "More importantly, you haven't answered\nme yet."
+  },
+  {
+   "i": 1399,
+   "src": "f82b170e8e92",
+   "t": "Are you going to take the job?"
+  },
+  {
+   "i": 1402,
+   "src": "346c6acc6674",
+   "t": "Or not?"
+  }
+ ]
+}

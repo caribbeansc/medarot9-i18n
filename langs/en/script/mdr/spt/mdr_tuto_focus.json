@@ -1,0 +1,65 @@
+{
+ "file": "mdr/spt/mdr_tuto_focus.spt",
+ "lines": [
+  {
+   "i": 1161,
+   "src": "627df48f8687",
+   "t": "Check {{medal}} information"
+  },
+  {
+   "i": 1168,
+   "src": "951e3f03644f",
+   "t": "Set up your {{medabot|pl}}"
+  },
+  {
+   "i": 1175,
+   "src": "db8ad828bbd8",
+   "t": "Check {{part}} information"
+  },
+  {
+   "i": 1182,
+   "src": "d1b4382069b6",
+   "t": "Check received mail"
+  },
+  {
+   "i": 1189,
+   "src": "7a0d8b57af1d",
+   "t": "Check the map"
+  },
+  {
+   "i": 1196,
+   "src": "e502fd3bad01",
+   "t": "Check and use your items"
+  },
+  {
+   "i": 1203,
+   "src": "6d93a72efde8",
+   "t": "Listen to music"
+  },
+  {
+   "i": 1210,
+   "src": "e3f6c388c478",
+   "t": "Check {{medabot|pl}} & {{medal|pl}} seen so far"
+  },
+  {
+   "i": 1217,
+   "src": "e520e86fb186",
+   "t": "Check your own data"
+  },
+  {
+   "i": 1224,
+   "src": "c777f8debe12",
+   "t": "Save your adventure so far"
+  },
+  {
+   "i": 1231,
+   "src": "a51efcbba00c",
+   "t": "{{robattle}} and swap {{part|pl}} over wireless"
+  },
+  {
+   "i": 1238,
+   "src": "de9e7e548b60",
+   "t": "Check your detective notes"
+  }
+ ]
+}

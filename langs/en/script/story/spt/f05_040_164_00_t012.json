@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f05_040_164_00_t012.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1038,
+   "src": "792e8da5fc5b",
+   "t": "Wait, that's a crime, isn't it?"
+  },
+  {
+   "i": 1041,
+   "src": "9822cea05a26",
+   "t": "No one in our {{club}} would do that."
+  },
+  {
+   "i": 1049,
+   "src": "9bf23279f208",
+   "t": "Besides, you may not know this,"
+  },
+  {
+   "i": 1052,
+   "src": "ceed92844eb0",
+   "t": "but that takes incredible talent."
+  },
+  {
+   "i": 1060,
+   "src": "05eff3489f55",
+   "t": "Not just knowledge. You need sense\nand..."
+  },
+  {
+   "i": 1063,
+   "src": "c6bf46fc0953",
+   "t": "something like mental reflexes."
+  },
+  {
+   "i": 1071,
+   "src": "5f8149f2f155",
+   "t": "At {{main}}-chan's level."
+  },
+  {
+   "i": 1079,
+   "src": "8c6492b6f766",
+   "t": "{{main}}-chan?"
+  },
+  {
+   "i": 1087,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1093,
+   "src": "3383a5003226",
+   "t": "Oh no, the shop's about to close!"
+  },
+  {
+   "i": 1096,
+   "src": "40327867c35f",
+   "t": "I'm locking up, so come out with me?"
+  },
+  {
+   "i": 1104,
+   "src": "40147b8d191b",
+   "t": "Hurry, hurry!"
+  }
+ ]
+}

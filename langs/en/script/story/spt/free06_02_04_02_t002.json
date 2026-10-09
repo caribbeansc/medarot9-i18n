@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/free06_02_04_02_t002.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "ed2975402417",
+   "t": "Someone's there..."
+  },
+  {
+   "i": 1042,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1048,
+   "src": "54a562662ee3",
+   "t": "The reading came from right around\nthere."
+  },
+  {
+   "i": 1055,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1064,
+   "src": "36c0076d3238",
+   "t": "What is he doing..."
+  },
+  {
+   "i": 1072,
+   "src": "b910e290a89b",
+   "t": "Is he a {{student}} of the {{academy}}?"
+  },
+  {
+   "i": 1080,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1089,
+   "src": "a61679088f6c",
+   "t": "No way!"
+  },
+  {
+   "i": 1092,
+   "src": "a00b21a35a6e",
+   "t": "He's clearly an old guy."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_141.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ea0eff502a75",
+   "t": "<c:00ff00>Técnica:<c>{{charge_guard}}\n{{guard}} que intercepta\nataques a los aliados.\nAl interceptar, reduce el\n{{damage}} según el % de la\n{{charge_gauge}}.\nConsume 10% de la barra\nde carga."
+  }
+ ]
+}

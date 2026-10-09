@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f1d2.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "1c4b8d5a4d2d",
+   "t": "{{sen}}"
+  },
+  {
+   "i": 1653,
+   "src": "c12b5b0f528c",
+   "t": "You're on!"
+  },
+  {
+   "i": 1656,
+   "src": "3858aa8e2ebe",
+   "t": "Let's fight!"
+  }
+ ]
+}

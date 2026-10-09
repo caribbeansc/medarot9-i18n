@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/npc_f_3e2_150_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1035,
+   "src": "a2182eaf696a",
+   "t": "Did you hear about the intruder?"
+  },
+  {
+   "i": 1042,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1048,
+   "src": "2d4c4e0f1c50",
+   "t": "I heard, I heard! It was a boy, right?"
+  },
+  {
+   "i": 1051,
+   "src": "886f3d17396b",
+   "t": "Aww, I wasn't in the dorm, I wanted to\nsee!"
+  },
+  {
+   "i": 1058,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1064,
+   "src": "54b06b2f6c6c",
+   "t": "So carefree. Well,"
+  },
+  {
+   "i": 1067,
+   "src": "abf054b89da7",
+   "t": "it seems there was no damage this time,\nthough."
+  },
+  {
+   "i": 1074,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1080,
+   "src": "d6449f126d95",
+   "t": "Maybe he just mistook it for the boys'\ndorm?"
+  },
+  {
+   "i": 1083,
+   "src": "3014a4b4773c",
+   "t": "Look, this place is needlessly big and\nthe rooms all have the same layout."
+  },
+  {
+   "i": 1091,
+   "src": "6ce57431c57e",
+   "t": "I once walked into the boys' dorm by\naccident too,"
+  },
+  {
+   "i": 1094,
+   "src": "8bab688cb76a",
+   "t": "and when I went into the restroom there\nwas a boy I didn't know. I totally\npanicked!"
+  },
+  {
+   "i": 1101,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1107,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1110,
+   "src": "3ddf94211bac",
+   "t": "You'd think they'd notice before that."
+  }
+ ]
+}

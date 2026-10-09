@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a90efed24d4d",
+   "t": "<c:00ff00>{{effect|cap}} {{leader|cap}}:<c>Formación Cerrada\nReduce a 90% el {{damage}} que recibes del {{opponent}}\n{{legs|cap}}: Mov. -10, {{prep|cap}} +10 si no es ataque"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description139.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "71df84bae9af",
+   "t": "{{plant|cap}} ({{object}})"
+  },
+  {
+   "i": 11,
+   "src": "18933c38c1dc",
+   "t": "<c:ffff00>{{object|cap}}<c> que aplica automáticamente efectos\nauxiliares a los aliados. Se coloca en el <c:ffff00>{{field}}<c>,\nsobre todo con <c:ffff00>técnicas<c> de la <c:ffff00>habilidad de trampa<c>.\nUn solo tipo por equipo: colocar otro lo reemplaza.\nAl colocarse, su <c:ffff00>{{armor}}<c> es 100. No se puede\n<c:ffff00>recuperar<c>, pero volver a colocar el mismo tipo\n(ampliar) lo sube 50 (máximo 300); si queda por\ndebajo de 100, vuelve a 100.\nAlgunos tipos cambian de {{effect}} según el {{armor}}."
+  }
+ ]
+}

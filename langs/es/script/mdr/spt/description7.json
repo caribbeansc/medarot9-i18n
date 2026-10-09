@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description7.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8046ea9bcde0",
+   "t": "{{slot|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "7201da75f9c8",
+   "t": "Indica dónde se montan las <c:ffff00>{{part|pl}}<c> en la forma\nhumanoide del <c:ffff00>{{tinpet}}<c>.\n\n  <c:ffff00>{{head}}<c> (a veces se escribe H)\n  <c:ffff00>{{right_arm}}<c> (a veces R)\n  <c:ffff00>{{left_arm}}<c> (a veces L)\n  <c:ffff00>{{legs}}<c> (a veces F)\n\nSon 4 tipos y cada uno cumple un papel distinto."
+  }
+ ]
+}

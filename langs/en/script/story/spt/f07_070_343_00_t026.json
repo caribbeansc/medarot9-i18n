@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f07_070_343_00_t026.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "f320ced879a0",
+   "t": "Oh, this is..."
+  },
+  {
+   "i": 1044,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1053,
+   "src": "5c0c219d7fb9",
+   "t": "{{flora}}'s leg {{part|pl}}."
+  },
+  {
+   "i": 1067,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1076,
+   "src": "5e20e5df7791",
+   "t": "Their {{condition}} is-- oh, much better\nthan I thought."
+  },
+  {
+   "i": 1079,
+   "src": "98ce802d89ac",
+   "t": "Looks like I can use them right away."
+  }
+ ]
+}

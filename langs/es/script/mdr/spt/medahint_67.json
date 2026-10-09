@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_67.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0948907e46ac",
+   "t": "{{medabot}} {{type}} unicornio\n{{has}} un poder sanador\nuniversal.\n \nResponde a la plegaria de\nuna doncella y borra los\nsíntomas negativos. Su\ncuerno atraviesa {{has}}\nferocidad a los impuros."
+  }
+ ]
+}

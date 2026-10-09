@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo58.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "76376349aef2",
+   "t": "'{{medalia}} {{collect|cap}}:{{mine}} Site'"
+  },
+  {
+   "i": 32,
+   "src": "67233b24c534",
+   "t": "Large medalia reaction around the mountain mine site.\nEnter the mountain road from the hill {{area}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "7fec8731c1be",
+   "t": "It should be around here...\n"
+  },
+  {
+   "i": 52,
+   "src": "d58914248e0c",
+   "t": "Take the rope down the cliff...\n"
+  },
+  {
+   "i": 62,
+   "src": "35d4d5b938b4",
+   "t": "We managed to arrive at the base,of the mine site.\nRan into a strange man,but {{medalia}} was found safe.\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 72,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_rival_333_s08_t002.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1035,
+   "src": "451d30d3d7f4",
+   "t": "Oye, ¿conoces el {{campsite}}?"
+  },
+  {
+   "i": 1038,
+   "src": "d52eea479f28",
+   "t": "Es donde acampamos ahora."
+  },
+  {
+   "i": 1046,
+   "src": "a444d9513bd2",
+   "t": "Estarás aburrido, ¿no?"
+  },
+  {
+   "i": 1049,
+   "src": "3ccac7cc0e4e",
+   "t": "¡Ven a jugar-- digo, a una {{robattle}}!"
+  },
+  {
+   "i": 1057,
+   "src": "dbe00bdcbe67",
+   "t": "Salvo al entrenar, todo es aburrido."
+  },
+  {
+   "i": 1060,
+   "src": "cbd402ccd95b",
+   "t": "¡Y tampoco nos dejan usar internet!"
+  },
+  {
+   "i": 1070,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1076,
+   "src": "bd3e58bf0842",
+   "t": "¡{{ryusei}}!"
+  },
+  {
+   "i": 1083,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1089,
+   "src": "313ce6584d9f",
+   "t": "Ay, no."
+  }
+ ]
+}

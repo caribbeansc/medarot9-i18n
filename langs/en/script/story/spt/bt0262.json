@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/bt0262.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "b756b29efe5d",
+   "t": "{{stray_medabot}}(s)"
+  },
+  {
+   "i": 872,
+   "src": "a08d2440b08f",
+   "t": "...{{robattle}}... Do you want to?"
+  }
+ ]
+}

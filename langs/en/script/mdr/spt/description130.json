@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description130.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c86010755ee0",
+   "t": "Multi-Leg (legs)"
+  },
+  {
+   "i": 11,
+   "src": "bd7c2014afac",
+   "t": "A <c:ffff00>Leg Type<c> that moves on many supporting limbs.\nIts <c:ffff00>{{stats}}<c> tend toward high <c:ffff00>{{armor}}<c>. It is very stable\nand handles rough {{terrain}} well.\n\n<c:ffff00>{{terrain|cap}} {{affinity|cap}}<c> (<c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains}}<c> -6, <c:ffff00>{{forest}}<c> 0, <c:ffff00>{{rocky_ground}}<c> +6, <c:ffff00>{{sand}}<c> 0,\n  <c:ffff00>{{tundra}}<c> 0, <c:ffff00>{{hall}}<c> +4, <c:ffff00>{{waterside}}<c> -6, <c:ffff00>{{cyber}}<c> +4.\n  <c:ffff00>{{underwater}}<c> and <c:ffff00>{{sky}}<c>: {{robattle|pl}} not possible."
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f06_210_119_00_t012.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1047,
+   "src": "88b7697b6479",
+   "t": "Hello,"
+  },
+  {
+   "i": 1050,
+   "src": "cec24170a88e",
+   "t": "Vice-Principal."
+  },
+  {
+   "i": 1060,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1066,
+   "src": "ab3ff4d19ebc",
+   "t": "What are you doing?"
+  },
+  {
+   "i": 1073,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1079,
+   "src": "da8879e6a368",
+   "t": "I'm on my way to the {{clubroom}}."
+  },
+  {
+   "i": 1086,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1092,
+   "src": "ea27bf08b2aa",
+   "t": "...No."
+  },
+  {
+   "i": 1100,
+   "src": "853a4137002a",
+   "t": "You just came out of the {{principal|cap}}'s\noffice."
+  },
+  {
+   "i": 1103,
+   "src": "a11435174486",
+   "t": "The {{principal|cap}} shouldn't be in there right\nnow."
+  },
+  {
+   "i": 1116,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1124,
+   "src": "1ac6bd1624c9",
+   "t": "Haha, so you saw us."
+  },
+  {
+   "i": 1127,
+   "src": "1abc6ead969b",
+   "t": "Then I can't talk my way out of it."
+  },
+  {
+   "i": 1142,
+   "src": "fed671cdcab2",
+   "t": "All right,"
+  },
+  {
+   "i": 1145,
+   "src": "eef0fac999ba",
+   "t": "I'll tell you everything."
+  },
+  {
+   "i": 1152,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1158,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1166,
+   "src": "6960833dfad2",
+   "t": "Come to the Vice-Principal's office."
+  }
+ ]
+}

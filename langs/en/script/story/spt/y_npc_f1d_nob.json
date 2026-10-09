@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f1d_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "cc4e33627947",
+   "t": "{{hana}}"
+  },
+  {
+   "i": 1035,
+   "src": "6dcdccd50215",
+   "t": "A {{robattle}}, huh."
+  },
+  {
+   "i": 1038,
+   "src": "760ed1e76ea7",
+   "t": "Not right now... could we do it next\ntime?"
+  }
+ ]
+}

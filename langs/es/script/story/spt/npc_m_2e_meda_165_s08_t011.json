@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2e_meda_165_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e5d5c2111d8c",
+   "t": "Banisher"
+  },
+  {
+   "i": 1038,
+   "src": "51394225f253",
+   "t": "La verdad, creo que está bien buscar"
+  },
+  {
+   "i": 1041,
+   "src": "7df5afaf0b43",
+   "t": "{{medalia|pl}} mientras entrenamos."
+  },
+  {
+   "i": 1049,
+   "src": "c4569e9be350",
+   "t": "Entrenar al aire libre y buscar {{medalia|pl}}"
+  },
+  {
+   "i": 1052,
+   "src": "5a3e598bad07",
+   "t": "son prácticamente lo mismo."
+  }
+ ]
+}

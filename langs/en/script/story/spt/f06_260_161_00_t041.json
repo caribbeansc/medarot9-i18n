@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f06_260_161_00_t041.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "d8826f130043",
+   "t": "Ugh..."
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1051,
+   "src": "ca964d0c7a43",
+   "t": "That's certainly the right call, but..."
+  },
+  {
+   "i": 1058,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1067,
+   "src": "048e8899d59d",
+   "t": "We just got yelled at in a fury,\nremember?"
+  },
+  {
+   "i": 1070,
+   "src": "6908e8a8a0c3",
+   "t": "Someone a bit less scary, you know..."
+  },
+  {
+   "i": 1081,
+   "src": "8c1bbc559252",
+   "t": "I-I guess so."
+  },
+  {
+   "i": 1084,
+   "src": "7556cba214b0",
+   "t": "Then..."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc05_161_s06_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "b6ade65f7e2a",
+   "t": "Hay que ir a la fuente de las"
+  },
+  {
+   "i": 1041,
+   "src": "8434d909bdfc",
+   "t": "ondas. Vamos a la {{principal_s_office}}."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3a_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1047,
+   "src": "09e19376c2a7",
+   "t": "Perdona, ahora estoy ocupado..."
+  },
+  {
+   "i": 1050,
+   "src": "f30d19f98e41",
+   "t": "Te atenderé en otra ocasión."
+  }
+ ]
+}

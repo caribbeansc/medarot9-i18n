@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_130_113_00_t015.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1037,
+   "src": "ee6f97cde8f1",
+   "t": "Try to hold out for us, okay?"
+  },
+  {
+   "i": 1047,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1056,
+   "src": "7c5f89e438a5",
+   "t": "!?"
+  }
+ ]
+}

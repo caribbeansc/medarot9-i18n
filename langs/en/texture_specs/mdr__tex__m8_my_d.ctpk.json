@@ -1,0 +1,57 @@
+{
+ "rel": "mdr/tex/m8_my_d.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-compressed",
+  "cap": 10,
+  "fill": "#FFFFFF",
+  "stroke": "#000000C8",
+  "stroke_w": 1.2,
+  "pad": 0,
+  "crisp": 0.3,
+  "align": "center"
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    16,
+    60,
+    16
+   ],
+   "text": "Aya Endo",
+   "baseline": 28
+  },
+  {
+   "box": [
+    62,
+    16,
+    60,
+    16
+   ],
+   "text": "Nao Toyama",
+   "baseline": 28
+  },
+  {
+   "box": [
+    122,
+    16,
+    60,
+    16
+   ],
+   "text": "Natsuki Hanae",
+   "baseline": 28
+  },
+  {
+   "box": [
+    183,
+    16,
+    24,
+    16
+   ],
+   "text": "None",
+   "baseline": 28
+  }
+ ]
+}

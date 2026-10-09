@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_meda_200_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "def11564f886",
+   "t": "Si quieres robobatallar, dile a {{ryoma}}."
+  },
+  {
+   "i": 1046,
+   "src": "bc4fc22f849b",
+   "t": "Yo hago las {{robattle|pl}}, pero"
+  },
+  {
+   "i": 1049,
+   "src": "199b8c381db8",
+   "t": "{{ryoma}} decide cuándo las hacemos."
+  }
+ ]
+}

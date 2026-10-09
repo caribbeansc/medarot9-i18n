@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1f2_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2fcba1bd9f86",
+   "t": "{{suiro}}"
+  },
+  {
+   "i": 1038,
+   "src": "6bc4220ef4e3",
+   "t": "Sometimes older students come from\n{{medafighter}}"
+  },
+  {
+   "i": 1041,
+   "src": "9d114343e1ee",
+   "t": "Academy University to teach us."
+  },
+  {
+   "i": 1049,
+   "src": "78de2c37d167",
+   "t": "One of them even won the national\nchampionship last year!"
+  },
+  {
+   "i": 1052,
+   "src": "eb7b6333714d",
+   "t": "They're super strong!"
+  }
+ ]
+}

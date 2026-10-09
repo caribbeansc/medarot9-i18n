@@ -1,0 +1,157 @@
+{
+ "rel": "mdr/tex/bt_gm3.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "compact-rounded",
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "shadow": {
+   "dx": 1,
+   "dy": 1,
+   "color": "#000000",
+   "opacity": 0.7
+  },
+  "cap": 9.5,
+  "pad": 0,
+  "crisp": 0.3
+ },
+ "items": [
+  {
+   "box": [
+    192,
+    32,
+    48,
+    16
+   ],
+   "erase_box": [
+    192,
+    32,
+    48,
+    16
+   ],
+   "text": "Back"
+  },
+  {
+   "box": [
+    0,
+    88,
+    80,
+    16
+   ],
+   "erase_box": [
+    0,
+    88,
+    80,
+    16
+   ],
+   "text": "Double Down"
+  },
+  {
+   "box": [
+    80,
+    88,
+    40,
+    16
+   ],
+   "erase_box": [
+    80,
+    88,
+    40,
+    16
+   ],
+   "text": "Hit"
+  },
+  {
+   "box": [
+    0,
+    104,
+    64,
+    16
+   ],
+   "erase_box": [
+    0,
+    104,
+    64,
+    16
+   ],
+   "text": "Split"
+  },
+  {
+   "box": [
+    64,
+    104,
+    64,
+    16
+   ],
+   "erase_box": [
+    64,
+    104,
+    64,
+    16
+   ],
+   "text": "Surrender"
+  },
+  {
+   "box": [
+    48,
+    144,
+    64,
+    16
+   ],
+   "erase_box": [
+    48,
+    144,
+    64,
+    16
+   ],
+   "text": "Stand"
+  },
+  {
+   "box": [
+    112,
+    144,
+    64,
+    16
+   ],
+   "erase_box": [
+    112,
+    144,
+    64,
+    16
+   ],
+   "text": "Duel"
+  },
+  {
+   "box": [
+    0,
+    144,
+    48,
+    16
+   ],
+   "erase_box": [
+    0,
+    144,
+    48,
+    16
+   ],
+   "text": "Hit"
+  },
+  {
+   "box": [
+    8,
+    126,
+    36,
+    13
+   ],
+   "erase": "solid:#2B2B2B",
+   "text": "Total",
+   "font": "compact-rounded",
+   "cap": 8.5,
+   "fill": "#A8A8A8",
+   "shadow": null,
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

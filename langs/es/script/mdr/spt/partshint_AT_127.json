@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_127.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dd3fa01ee932",
+   "t": "<c:00ff00>Técnica:<c>Reparar en Campo\nRecupera el {{damage}} de todas\nlas {{part|pl}} de un {{medabot}}\n{{ally_battle_term}}.\nLa cantidad recuperada\nvaría según la {{affinity}} de\n{{legs_part_slot}}."
+  }
+ ]
+}

@@ -1,0 +1,380 @@
+{
+ "file": "mdr/spt/credit.spt",
+ "lines": [
+  {
+   "i": 837,
+   "src": "85931dfc0d01",
+   "t": "<c:a0a0a0>Obra Original / Diseño de Medabots"
+  },
+  {
+   "i": 845,
+   "src": "206d3f7942ad",
+   "t": "<c:ffffff>Horumarin"
+  },
+  {
+   "i": 853,
+   "src": "29c4dfc2926e",
+   "t": "<c:a0a0a0>Diseño de Personajes"
+  },
+  {
+   "i": 861,
+   "src": "2d0c686ba393",
+   "t": "<c:ffffff>Kamichi Shindo"
+  },
+  {
+   "i": 869,
+   "src": "5bad57f3350b",
+   "t": "<c:a0a0a0>Concepto de Historia"
+  },
+  {
+   "i": 877,
+   "src": "599aa8f5993e",
+   "t": "<c:ffffff>Masaki Wachi"
+  },
+  {
+   "i": 885,
+   "src": "2b94d151f95c",
+   "t": "<c:a0a0a0>Voz del Navegador"
+  },
+  {
+   "i": 893,
+   "src": "ab3a77687f8d",
+   "t": "<c:ffffff>Aya Endo"
+  },
+  {
+   "i": 901,
+   "src": "0981895befb7",
+   "t": "<c:a0a0a0>Director de Grabación"
+  },
+  {
+   "i": 909,
+   "src": "7ada21abc80f",
+   "t": "<c:a0a0a0>Fellow Co., Ltd."
+  },
+  {
+   "i": 914,
+   "src": "036f7a8687eb",
+   "t": "<c:ffffff>Ryuichi Onuma"
+  },
+  {
+   "i": 922,
+   "src": "e42430cfd7f2",
+   "t": "<c:a0a0a0>Desarrollo"
+  },
+  {
+   "i": 930,
+   "src": "d29b90adfb63",
+   "t": "<c:a0a0a0>Delta Arts Co., Ltd."
+  },
+  {
+   "i": 935,
+   "src": "e449e9059b40",
+   "t": "<c:a0a0a0>Director"
+  },
+  {
+   "i": 940,
+   "src": "8f5fa58486ef",
+   "t": "<c:ffffff>Masashi Kato"
+  },
+  {
+   "i": 945,
+   "src": "4a42677638c4",
+   "t": "<c:a0a0a0>Director Asistente"
+  },
+  {
+   "i": 950,
+   "src": "c2806073466d",
+   "t": "<c:ffffff>Daiki Mochizuki"
+  },
+  {
+   "i": 955,
+   "src": "e1c92c494f74",
+   "t": "<c:a0a0a0>Programadores"
+  },
+  {
+   "i": 960,
+   "src": "b06211c2d23f",
+   "t": "<c:ffffff>Takayuki Sasaki"
+  },
+  {
+   "i": 965,
+   "src": "ad5f345d4eb6",
+   "t": "<c:ffffff>Takaaki Shirasaki"
+  },
+  {
+   "i": 970,
+   "src": "f553858e6f53",
+   "t": "<c:ffffff>Masato Hayashi"
+  },
+  {
+   "i": 975,
+   "src": "3af9020bc1bf",
+   "t": "<c:ffffff>Masashi Yokoi"
+  },
+  {
+   "i": 980,
+   "src": "ed1c93dbba06",
+   "t": "<c:a0a0a0>Diseñadores"
+  },
+  {
+   "i": 985,
+   "src": "4692a714420c",
+   "t": "<c:ffffff>Yasumichi Watanabe"
+  },
+  {
+   "i": 990,
+   "src": "777b63bea470",
+   "t": "<c:ffffff>Takahide Asanuma"
+  },
+  {
+   "i": 995,
+   "src": "e3b77a6a1937",
+   "t": "<c:ffffff>Takuya Ishii"
+  },
+  {
+   "i": 1000,
+   "src": "5798a2b64a00",
+   "t": "<c:ffffff>Yuki Uemura"
+  },
+  {
+   "i": 1005,
+   "src": "14482dcdb2d0",
+   "t": "<c:ffffff>Fumiaki Higuchi"
+  },
+  {
+   "i": 1013,
+   "src": "1c1492bd9c2d",
+   "t": "<c:a0a0a0>Apoyo de Guion de Eventos"
+  },
+  {
+   "i": 1018,
+   "src": "e2fbdbe726ab",
+   "t": "<c:ffffff>Ritsuko Hisamatsu"
+  },
+  {
+   "i": 1026,
+   "src": "66bfab1d9496",
+   "t": "<c:a0a0a0>Apoyo Gráfico"
+  },
+  {
+   "i": 1034,
+   "src": "b642bd4a66e6",
+   "t": "<c:a0a0a0>256graph Co., Ltd."
+  },
+  {
+   "i": 1039,
+   "src": "b0fc6178cbf8",
+   "t": "<c:ffffff>Yuji Yawata"
+  },
+  {
+   "i": 1044,
+   "src": "7f3a0242929e",
+   "t": "<c:ffffff>Satoshi Maruyama"
+  },
+  {
+   "i": 1055,
+   "src": "9af2762822ad",
+   "t": "<c:a0a0a0>NAC Co., Ltd."
+  },
+  {
+   "i": 1060,
+   "src": "9457b6ee38ca",
+   "t": "<c:ffffff>Tatsuya Endo"
+  },
+  {
+   "i": 1065,
+   "src": "e3a5c844ce8a",
+   "t": "<c:ffffff>Hidenori Machida"
+  },
+  {
+   "i": 1070,
+   "src": "75b50dc36367",
+   "t": "<c:ffffff>Takuya Matsuda"
+  },
+  {
+   "i": 1075,
+   "src": "4b49eb0c1975",
+   "t": "<c:ffffff>Akihiro Okada"
+  },
+  {
+   "i": 1083,
+   "src": "27a5e8cff7ef",
+   "t": "<c:a0a0a0>Digital Works Entertainment Co., Ltd."
+  },
+  {
+   "i": 1088,
+   "src": "ef5654e7923e",
+   "t": "<c:ffffff>Masatoshi Nakata"
+  },
+  {
+   "i": 1146,
+   "src": "12f020d286c7",
+   "t": "<c:a0a0a0>Apoyo de Diseño de Personajes"
+  },
+  {
+   "i": 1154,
+   "src": "dfe97638ed87",
+   "t": "<c:a0a0a0>DOGON Ltd."
+  },
+  {
+   "i": 1159,
+   "src": "cc7b60e6996b",
+   "t": "<c:ffffff>Kenji Matsumae"
+  },
+  {
+   "i": 1164,
+   "src": "9fba096e2e7b",
+   "t": "<c:ffffff>Miki Kanazawa"
+  },
+  {
+   "i": 1174,
+   "src": "b0021ce76f1f",
+   "t": "<c:ffffff>Ehiro Amaichi"
+  },
+  {
+   "i": 1184,
+   "src": "6c33face236f",
+   "t": "<c:ffffff>Sakura Me"
+  },
+  {
+   "i": 1189,
+   "src": "c049ee6e501c",
+   "t": "<c:ffffff>Ayana Hashimoto"
+  },
+  {
+   "i": 1197,
+   "src": "2c07d1200621",
+   "t": "<c:a0a0a0>Sonido"
+  },
+  {
+   "i": 1205,
+   "src": "0ac54d4753ef",
+   "t": "<c:a0a0a0>Sound Fontin Co., Ltd."
+  },
+  {
+   "i": 1210,
+   "src": "1d9970d13cf0",
+   "t": "<c:ffffff>Kaoru Mizutani"
+  },
+  {
+   "i": 1215,
+   "src": "eab20aa51f7e",
+   "t": "<c:ffffff>Kazuki Asada"
+  },
+  {
+   "i": 1223,
+   "src": "53fd60c62872",
+   "t": "<c:a0a0a0>Apoyo de Composición"
+  },
+  {
+   "i": 1228,
+   "src": "f33d8cd01330",
+   "t": "<c:ffffff>Kinuyo Yamashita"
+  },
+  {
+   "i": 1236,
+   "src": "755876e1d9de",
+   "t": "<c:a0a0a0>Apoyo de Depuración"
+  },
+  {
+   "i": 1244,
+   "src": "2d0222140893",
+   "t": "<c:a0a0a0>Digital Hearts Co., Ltd."
+  },
+  {
+   "i": 1252,
+   "src": "2b1dbd9f724b",
+   "t": "<c:a0a0a0>Ilustración"
+  },
+  {
+   "i": 1265,
+   "src": "0db910b1f43c",
+   "t": "<c:ffffff>Takashi Maeda"
+  },
+  {
+   "i": 1273,
+   "src": "37fbaf3ca637",
+   "t": "<c:a0a0a0>Producción / Distribución"
+  },
+  {
+   "i": 1281,
+   "src": "c7239cc10adb",
+   "t": "<c:a0a0a0>Rocket Company Co., Ltd."
+  },
+  {
+   "i": 1286,
+   "src": "b99c7c4c92af",
+   "t": "<c:a0a0a0>Promoción"
+  },
+  {
+   "i": 1291,
+   "src": "403b486adae3",
+   "t": "<c:ffffff>Hiroyuki Hashida"
+  },
+  {
+   "i": 1296,
+   "src": "72ff5152529c",
+   "t": "<c:ffffff>Emi Sato"
+  },
+  {
+   "i": 1301,
+   "src": "9c4193e05ad6",
+   "t": "<c:a0a0a0>Ventas"
+  },
+  {
+   "i": 1306,
+   "src": "3c04f596d31f",
+   "t": "<c:ffffff>Kozo Kayanuma"
+  },
+  {
+   "i": 1311,
+   "src": "9a70d989b2a6",
+   "t": "<c:a0a0a0>Agradecimientos Especiales"
+  },
+  {
+   "i": 1316,
+   "src": "f4ec1d1c43d8",
+   "t": "<c:ffffff>Koichi Kobayashi"
+  },
+  {
+   "i": 1321,
+   "src": "0ff8b95d61d8",
+   "t": "<c:ffffff>Shiho Akiyama"
+  },
+  {
+   "i": 1326,
+   "src": "eb69badb47a5",
+   "t": "<c:ffffff>Yukiko Toguchi"
+  },
+  {
+   "i": 1334,
+   "src": "109c2ee2b9b5",
+   "t": "<c:a0a0a0>Productor"
+  },
+  {
+   "i": 1339,
+   "src": "0cd24f90ecfe",
+   "t": "<c:ffffff>Yutaka Saito"
+  },
+  {
+   "i": 1347,
+   "src": "6b77916b255c",
+   "t": "<c:a0a0a0>Gerente de Ventas"
+  },
+  {
+   "i": 1352,
+   "src": "f8e33f8b5805",
+   "t": "<c:ffffff>Hikaru Horiuchi"
+  },
+  {
+   "i": 1360,
+   "src": "2db7d9e55cb2",
+   "t": "<c:a0a0a0>Productor Ejecutivo"
+  },
+  {
+   "i": 1365,
+   "src": "5871fc35f068",
+   "t": "<c:ffffff>Shuhei Iida"
+  }
+ ]
+}

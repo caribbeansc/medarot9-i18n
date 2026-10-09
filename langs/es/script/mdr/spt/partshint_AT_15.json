@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_15.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c89c9b2abe01",
+   "t": "<c:00ff00>Técnica:<c>{{static}}\nAtaque de {{shooting}} que\nreduce a\n1/4 el {{armor}} de la {{part}}\nimpactada. Sin embargo,\nno puede destruir la\n{{part}}."
+  }
+ ]
+}

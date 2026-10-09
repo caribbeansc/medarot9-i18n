@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description61.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "13be2e028785",
+   "t": "Drive"
+  },
+  {
+   "i": 11,
+   "src": "a63ab30d0bca",
+   "t": "An <c:ffff00>action<c> unique to the <c:ffff00>{{medachange_form}}<c>.\nLike the actions of <c:ffff00>{{part|pl}}<c>, each Drive has the\nfollowing <c:ffff00>{{stats}}<c>: <c:ffff00>{{success}}<c>, <c:ffff00>{{power}}<c>, <c:ffff00>{{prep}}<c> and\n<c:ffff00>{{cooldown}}<c>.\n\nEach <c:ffff00>{{medabot}}<c> that has performed <c:ffff00>{{medachange}}<c> can\nuse 3 types of Drive: A, B and C."
+  }
+ ]
+}

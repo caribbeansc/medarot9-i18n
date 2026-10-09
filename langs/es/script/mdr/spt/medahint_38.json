@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_38.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "92ac749cfa56",
+   "t": "{{medabot}} {{themed_on}}\nel calamar gigante, de\naspecto algo siniestro.\n \nExperto en ataques de\n{{sacrifice}}: destruye las\n{{part|pl}} del {{opponent}} junto con\nsus propios tentáculos."
+  }
+ ]
+}

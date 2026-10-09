@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f00_030_910_00_t013.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "b5233c606076",
+   "t": "What's this? MEDA {{academy}}..."
+  },
+  {
+   "i": 1042,
+   "src": "38ca0c3d788c",
+   "t": "..."
+  },
+  {
+   "i": 1057,
+   "src": "9c0b3f2366a8",
+   "t": "Whaaat!?"
+  },
+  {
+   "i": 1069,
+   "src": "8fbde6a30075",
+   "t": "{{asahi}}"
+  },
+  {
+   "i": 1078,
+   "src": "b350994d860d",
+   "t": "Hurry up and open it, Big Brother!"
+  },
+  {
+   "i": 1089,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

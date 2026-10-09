@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_05_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "1bab09e32c62",
+   "t": "{{mission|cap}} '{{medalia}} Collection:\nOld Harbor Coast'..."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "fca953180907",
+   "t": "There's an old harbor before you enter"
+  },
+  {
+   "i": 1049,
+   "src": "aacb36e844a6",
+   "t": "Old Harbor Town. A strong reading\ncomes from there."
+  },
+  {
+   "i": 1059,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1065,
+   "src": "7eea82b8f0f4",
+   "t": "Let's go."
+  }
+ ]
+}

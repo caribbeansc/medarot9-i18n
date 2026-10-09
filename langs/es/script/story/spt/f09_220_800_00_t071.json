@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f09_220_800_00_t071.spt",
+ "lines": [
+  {
+   "i": 997,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1005,
+   "src": "696db7e445b3",
+   "t": "Hay un agujero hexagonal."
+  },
+  {
+   "i": 1008,
+   "src": "e958bf233980",
+   "t": "Se parece justo al de un {{tinpet}}."
+  },
+  {
+   "i": 1016,
+   "src": "de3fa81e0445",
+   "t": "Si pongo la {{medal}} aquí..."
+  },
+  {
+   "i": 1019,
+   "src": "6ee7db5efa42",
+   "t": "No puede ser, pero..."
+  },
+  {
+   "i": 1037,
+   "src": "da859b7d3116",
+   "t": "Ah."
+  },
+  {
+   "i": 1045,
+   "src": "a75139d53eb0",
+   "t": "Ahora que lo pienso..."
+  }
+ ]
+}

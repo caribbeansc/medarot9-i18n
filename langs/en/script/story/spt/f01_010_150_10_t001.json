@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f01_010_150_10_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1038,
+   "src": "5fa50d75ca43",
+   "t": "We're here."
+  },
+  {
+   "i": 1041,
+   "src": "9a7e16c2fb1f",
+   "t": "This is the boys' dorm."
+  }
+ ]
+}

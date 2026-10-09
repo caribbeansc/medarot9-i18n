@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_153.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7e7842382f65",
+   "t": "<c:00ff00>Action:<c> {{legs_trap}}\nSets a trap that damages\nthe {{leg_part}} when it reacts\nto the {{opponent}} using a\n{{part}}. Setting it repeatedly\nraises its {{armor}} and\n{{damage}}."
+  }
+ ]
+}

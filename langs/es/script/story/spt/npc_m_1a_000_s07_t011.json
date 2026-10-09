@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1a_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1038,
+   "src": "e687ce3e19e1",
+   "t": "El {{culture_festival}}, eh."
+  },
+  {
+   "i": 1046,
+   "src": "bd5240117fa9",
+   "t": "¿...Ah, ya te lo había contado?"
+  },
+  {
+   "i": 1049,
+   "src": "be8dc08c706e",
+   "t": "Ya sabes, ¿esa chica tan popular, {{saika}}?"
+  },
+  {
+   "i": 1057,
+   "src": "38ffc6f527fa",
+   "t": "Parece que a todos los Senpais los"
+  },
+  {
+   "i": 1060,
+   "src": "50b8d784dedf",
+   "t": "rechazaron. Se deprimieron, pero"
+  },
+  {
+   "i": 1068,
+   "src": "7117389a04f8",
+   "t": "se recuperaron juntos. Ya están"
+  },
+  {
+   "i": 1071,
+   "src": "29c771add180",
+   "t": "normales. Da algo de pena. Jajaja."
+  }
+ ]
+}

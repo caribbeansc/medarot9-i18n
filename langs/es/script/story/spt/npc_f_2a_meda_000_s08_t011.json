@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_2a_meda_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5d1f8cd82138",
+   "t": "{{pingen}}"
+  },
+  {
+   "i": 1038,
+   "src": "475d38d9f299",
+   "t": "¡Soy muy buena buceando! Pero"
+  },
+  {
+   "i": 1046,
+   "src": "c706a63e22e1",
+   "t": "no encuentro muchas Medarias tiradas"
+  },
+  {
+   "i": 1049,
+   "src": "a58c724f9607",
+   "t": "por el fondo del océano."
+  }
+ ]
+}

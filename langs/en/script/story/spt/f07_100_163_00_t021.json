@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f07_100_163_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "8252b0a248f3",
+   "t": "She's quite stubborn, isn't she?"
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "0b616351daf1",
+   "t": "Still amusing as ever, isn't she?"
+  },
+  {
+   "i": 1050,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1059,
+   "src": "4d9668341c87",
+   "t": "Oh, visiting other clubs, are we?"
+  }
+ ]
+}

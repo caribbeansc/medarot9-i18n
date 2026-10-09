@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f09_240_800_00_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "afae0bbd94fb",
+   "t": "Huh, oh?"
+  },
+  {
+   "i": 1038,
+   "src": "a083ddff77f5",
+   "t": "Could that person be..."
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1054,
+   "src": "a79c3e558321",
+   "t": "{{principal|cap}}?!"
+  },
+  {
+   "i": 1061,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1067,
+   "src": "12391dc6c0e0",
+   "t": "Why are you here...?!"
+  },
+  {
+   "i": 1074,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1080,
+   "src": "236939fa3ca3",
+   "t": "Never mind me for now."
+  },
+  {
+   "i": 1088,
+   "src": "e444aed7de2b",
+   "t": "What happened?"
+  },
+  {
+   "i": 1091,
+   "src": "e3638398dda8",
+   "t": "Explain."
+  }
+ ]
+}

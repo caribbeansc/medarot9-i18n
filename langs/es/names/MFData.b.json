@@ -1,0 +1,815 @@
+{
+ "file": "param/MFData.b",
+ "slots": [
+  {
+   "off": 1,
+   "size": 20,
+   "src": "bda05c84916d",
+   "t": "Tirano",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 45,
+   "size": 20,
+   "src": "689beb982ccd",
+   "t": "Pistolero",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 89,
+   "size": 20,
+   "src": "8e741dc7dcf2",
+   "t": "Ataque Sigiloso",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 133,
+   "size": 20,
+   "src": "be2c45bcee3e",
+   "t": "Genocidio",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 177,
+   "size": 20,
+   "src": "8588d4c3ca56",
+   "t": "{{low_mobil}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 221,
+   "size": 20,
+   "src": "02ce860f8d5e",
+   "t": "{{survival}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 265,
+   "size": 20,
+   "src": "0ef571a58ad1",
+   "t": "{{level_loss}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 309,
+   "size": 20,
+   "src": "d24c24fbcd5c",
+   "t": "{{non_evasive}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 353,
+   "size": 20,
+   "src": "5e5628d2ff7f",
+   "t": "Vórtice",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 397,
+   "size": 20,
+   "src": "d0024aad880e",
+   "t": "Orogenia",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 441,
+   "size": 20,
+   "src": "5745fe36c5b1",
+   "t": "Maremoto",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 485,
+   "size": 20,
+   "src": "3e42c4dc41fb",
+   "t": "Glaciar",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 529,
+   "size": 20,
+   "src": "cd3be9768c63",
+   "t": "Transición",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 573,
+   "size": 20,
+   "src": "3a5dc7054b83",
+   "t": "Construcción",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 617,
+   "size": 20,
+   "src": "eb84f55b0325",
+   "t": "Descarga Total",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 661,
+   "size": 20,
+   "src": "8f3b05587655",
+   "t": "Disparo de Aguja",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 705,
+   "size": 20,
+   "src": "5b5355ec20e8",
+   "t": "Rompe-Rocas",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 749,
+   "size": 20,
+   "src": "340092c538d5",
+   "t": "Disparo Sónico",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 793,
+   "size": 20,
+   "src": "a4437f0d5d9f",
+   "t": "Incendio",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 837,
+   "size": 20,
+   "src": "6ab7229a9eaa",
+   "t": "Relámpago",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 881,
+   "size": 20,
+   "src": "2f52f86508d2",
+   "t": "Atadura Total",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 925,
+   "size": 20,
+   "src": "e928a7569eaa",
+   "t": "Tajo Horizontal",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 969,
+   "size": 20,
+   "src": "04f0e913ca6a",
+   "t": "{{bamboo_splitter}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1013,
+   "size": 20,
+   "src": "e7f38425b8dd",
+   "t": "{{body_slam}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1101,
+   "size": 20,
+   "src": "486f70029296",
+   "t": "Berserk",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1145,
+   "size": 20,
+   "src": "c16f6d000b29",
+   "t": "{{invasion}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1189,
+   "size": 20,
+   "src": "b9056750a530",
+   "t": "{{overdrive}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1233,
+   "size": 20,
+   "src": "c71a3727b410",
+   "t": "{{high_mobility}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1277,
+   "size": 20,
+   "src": "3217da56df85",
+   "t": "{{high_defense}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1321,
+   "size": 20,
+   "src": "bf462fc37f35",
+   "t": "{{super_search}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1365,
+   "size": 20,
+   "src": "8bc3c3423aa8",
+   "t": "{{ninja_action}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1409,
+   "size": 20,
+   "src": "3d1a394fd3ba",
+   "t": "{{power_up}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1453,
+   "size": 20,
+   "src": "9f6ad5a2b284",
+   "t": "{{protection}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1497,
+   "size": 20,
+   "src": "bddf919ce42f",
+   "t": "{{impregnable}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1541,
+   "size": 20,
+   "src": "2a6b5c382d71",
+   "t": "{{explosive_medaforce}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1585,
+   "size": 20,
+   "src": "b39d6594a356",
+   "t": "{{optical_medaforce}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1629,
+   "size": 20,
+   "src": "9aac88d6e853",
+   "t": "{{gravity_medaforce}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1673,
+   "size": 20,
+   "src": "e6b4ed357670",
+   "t": "{{burn}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1717,
+   "size": 20,
+   "src": "4dab41544433",
+   "t": "{{bind}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1761,
+   "size": 20,
+   "src": "9131fa054ed1",
+   "t": "{{stasis}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1805,
+   "size": 20,
+   "src": "e4fab16f3764",
+   "t": "{{float}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1849,
+   "size": 20,
+   "src": "ad4198cea793",
+   "t": "{{super_charge}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1937,
+   "size": 20,
+   "src": "809032b80c97",
+   "t": "Restauración",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1981,
+   "size": 20,
+   "src": "27baf6c9b3b8",
+   "t": "{{hyper_repair}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2025,
+   "size": 20,
+   "src": "8b47040376e0",
+   "t": "Reanimar Todo",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2069,
+   "size": 20,
+   "src": "fc39d4b86041",
+   "t": "Regeneración",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2113,
+   "size": 20,
+   "src": "cd3589af417e",
+   "t": "Recarga",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2201,
+   "size": 20,
+   "src": "8d1e32723e20",
+   "t": "Reflector",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2245,
+   "size": 20,
+   "src": "1cbe8fc106b2",
+   "t": "Valeroso",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2333,
+   "size": 20,
+   "src": "a3a6e744a3ad",
+   "t": "Planta Prodigio",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2377,
+   "size": 20,
+   "src": "5a0df4721661",
+   "t": "{{repair_plant}} S",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2421,
+   "size": 20,
+   "src": "08b55ba5915f",
+   "t": "Planta Reductora",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2465,
+   "size": 20,
+   "src": "64d9ceefa506",
+   "t": "Trampa de Ataque",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2509,
+   "size": 20,
+   "src": "bc67de0166ac",
+   "t": "Trampa de Efecto",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2553,
+   "size": 20,
+   "src": "8c3c00837013",
+   "t": "Absorbedor C",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3037,
+   "size": 20,
+   "src": "07f031abb323",
+   "t": "{{beam}} ME",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3521,
+   "size": 20,
+   "src": "7e228aed97e5",
+   "t": "{{badhacker}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3565,
+   "size": 20,
+   "src": "5fd0dd6e8cd1",
+   "t": "{{uglyduck}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3609,
+   "size": 20,
+   "src": "a951aed59cb0",
+   "t": "{{potatobug}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3653,
+   "size": 20,
+   "src": "7614df520557",
+   "t": "Blakbeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3697,
+   "size": 20,
+   "src": "e0f5eadc60e9",
+   "t": "Saikachi",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3741,
+   "size": 20,
+   "src": "e5448569b0ae",
+   "t": "Blackstag",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3785,
+   "size": 20,
+   "src": "28e685317b64",
+   "t": "Roks",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3829,
+   "size": 20,
+   "src": "256fe46b5f95",
+   "t": "{{first_ace}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3873,
+   "size": 20,
+   "src": "7189600cb972",
+   "t": "{{gun_king}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3917,
+   "size": 20,
+   "src": "4dfd6e795a80",
+   "t": "Redrun",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3961,
+   "size": 20,
+   "src": "5b12e6898579",
+   "t": "{{the_edge}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4005,
+   "size": 20,
+   "src": "87bfe281e6af",
+   "t": "{{garutman}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4049,
+   "size": 20,
+   "src": "ced1743dd39f",
+   "t": "Shushu Taito",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4093,
+   "size": 20,
+   "src": "b064c2837173",
+   "t": "Noel",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4137,
+   "size": 20,
+   "src": "48c8062c868f",
+   "t": "Tyrrellbeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4181,
+   "size": 20,
+   "src": "08ee68d33d82",
+   "t": "{{pinecone}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4225,
+   "size": 20,
+   "src": "b83ad3679048",
+   "t": "{{swallowtail}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4269,
+   "size": 20,
+   "src": "0572f4f56bb0",
+   "t": "Yata-Crow",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4313,
+   "size": 20,
+   "src": "cf00d75db22d",
+   "t": "Arcbeetle Dash",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4357,
+   "size": 20,
+   "src": "3f283bdb1ca5",
+   "t": "Granbeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4401,
+   "size": 20,
+   "src": "2e192d53b525",
+   "t": "Sonic Stag",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4445,
+   "size": 20,
+   "src": "f21b192d8fe6",
+   "t": "Navi Commun",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4489,
+   "size": 20,
+   "src": "4f1af783c7b1",
+   "t": "Buriki-Oh",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4533,
+   "size": 20,
+   "src": "28fa11f9f538",
+   "t": "Haikara-Mate",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4577,
+   "size": 20,
+   "src": "586258258738",
+   "t": "Kimengar",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4621,
+   "size": 20,
+   "src": "1b2d053b58a2",
+   "t": "Landmotor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4665,
+   "size": 20,
+   "src": "9e81d980242b",
+   "t": "{{blue_submarine}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4709,
+   "size": 20,
+   "src": "725006a512dd",
+   "t": "Femjet",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4753,
+   "size": 20,
+   "src": "27c9ec0048a7",
+   "t": "Super Exp",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4797,
+   "size": 20,
+   "src": "e3bae3f5a1a8",
+   "t": "{{grausam_tiger}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4841,
+   "size": 20,
+   "src": "6ddaee6c1967",
+   "t": "{{xianglong}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4885,
+   "size": 20,
+   "src": "46e31d04b769",
+   "t": "Landraider",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4929,
+   "size": 20,
+   "src": "1af179e490da",
+   "t": "Lady Raptor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4973,
+   "size": 20,
+   "src": "9ba5e2627cc3",
+   "t": "Exp 7",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  }
+ ]
+}

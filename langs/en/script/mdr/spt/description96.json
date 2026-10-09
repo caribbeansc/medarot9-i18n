@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description96.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "46d3bd65904d",
+   "t": "Offensive (Skill)"
+  },
+  {
+   "i": 11,
+   "src": "3b141f7bb95b",
+   "t": "The <c:ffff00>skills<c> used to <c:ffff00>attack<c>, or their corresponding <c:ffff00>skill<c>\n<c:ffff00>level<c>: <c:ffff00>Striking<c> and <c:ffff00>Shooting<c>. The others are <c:ffff00>support<c>\n<c:ffff00>type<c>.\n\nThe higher these skill levels, the faster the <c:ffff00>{{prep}}<c>\nand <c:ffff00>{{cooldown}}<c> of actions and the higher the <c:ffff00>{{success}}<c>\n<c:ffff00>Power<c>."
+  }
+ ]
+}

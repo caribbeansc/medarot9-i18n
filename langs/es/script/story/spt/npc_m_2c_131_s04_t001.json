@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1038,
+   "src": "c3bebc730056",
+   "t": "Si lo haces, apunta al primer puesto."
+  },
+  {
+   "i": 1041,
+   "src": "401bd477004f",
+   "t": "En estudios, club y {{robattle|pl}}."
+  }
+ ]
+}

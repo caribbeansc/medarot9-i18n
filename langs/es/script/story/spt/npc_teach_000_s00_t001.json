@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_teach_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

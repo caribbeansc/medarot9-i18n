@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo65.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "c1329f7e8229",
+   "t": "\"Recoger {{medalia}}: Sendero bloqueado\""
+  },
+  {
+   "i": 32,
+   "src": "8349b923176e",
+   "t": "Gran {{react}} de {{medalia|pl}} junto al sendero, zona nueva.\nMás allá habría un {{suspension_bridge}} en desuso, pero...\n"
+  },
+  {
+   "i": 42,
+   "src": "1bda55261236",
+   "t": "Desde el cartel de \"Peligro\" hasta el {{suspension_bridge}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "f802e221dd54",
+   "t": "El {{suspension_bridge}} se derrumbó.\nHay que explorar la zona y hallar el camino de vuelta.\n"
+  },
+  {
+   "i": 62,
+   "src": "400d705bb63e",
+   "t": "Hallamos la {{medalia}}, pero hay que pensar cómo volver.\n"
+  },
+  {
+   "i": 72,
+   "src": "92f4bc010f49",
+   "t": "¡Logramos volver sanos y salvos y completamos la {{mission}}!\n"
+  }
+ ]
+}

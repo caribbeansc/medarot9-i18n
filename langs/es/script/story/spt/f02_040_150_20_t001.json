@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f02_040_150_20_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "ef5407fcaaee",
+   "t": "Oye, oye, "
+  },
+  {
+   "i": 1037,
+   "src": "dd058b089d29",
+   "t": "-kun"
+  },
+  {
+   "i": 1040,
+   "src": "f1bd479b7a03",
+   "t": "¿Adónde vas?"
+  },
+  {
+   "i": 1048,
+   "src": "a7d3c7f5d600",
+   "t": "¿Eh? ¿No vamos a volver?"
+  },
+  {
+   "i": 1053,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1059,
+   "src": "02b5ff994e46",
+   "t": "Entonces ¿para qué vinimos hasta aquí?"
+  },
+  {
+   "i": 1062,
+   "src": "c5285f1bc4d0",
+   "t": "Entremos."
+  },
+  {
+   "i": 1070,
+   "src": "d2ac4be124d5",
+   "t": "Ella ya está adentro."
+  },
+  {
+   "i": 1073,
+   "src": "62eaa7584196",
+   "t": "Pero es un {{dormitory}} de chicas."
+  },
+  {
+   "i": 1078,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1084,
+   "src": "6bcbb88ad21f",
+   "t": "Por eso el plan es ir tras ella."
+  },
+  {
+   "i": 1092,
+   "src": "cadf1eca18c1",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1097,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1103,
+   "src": "296492a65bdc",
+   "t": "Tranquilo. Mientras no nos encuentren,"
+  },
+  {
+   "i": 1111,
+   "src": "7854c4dabb2d",
+   "t": "no hay nada de que preocuparse."
+  },
+  {
+   "i": 1119,
+   "src": "b96eceadd258",
+   "t": "E-..."
+  },
+  {
+   "i": 1127,
+   "src": "7ab5e4831760",
+   "t": "¿En serio?"
+  }
+ ]
+}

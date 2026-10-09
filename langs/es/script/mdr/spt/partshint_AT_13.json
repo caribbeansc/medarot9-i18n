@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_13.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "58b9dfd9cf48",
+   "t": "<c:00ff00>Técnica:<c>Antiaéreo\nAtaque de {{shooting}} que\ninflige gran {{damage}} si las\n{{legs}} del {{opponent}} son del\ntipo {{flying}}.\nTiene {{effect}} perforante."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo11.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "3a85510786b1",
+   "t": "Hablemos con {{stella}}."
+  },
+  {
+   "i": 32,
+   "src": "25e90d48eb09",
+   "t": "2 Hallazgo de {{stella}}\n"
+  },
+  {
+   "i": 42,
+   "src": "32966eb59d8d",
+   "t": "2 Cuarto de {{stella}}\n"
+  },
+  {
+   "i": 52,
+   "src": "7cd00baba921",
+   "t": "2 Fin en el cuarto de {{stella}}\n"
+  }
+ ]
+}

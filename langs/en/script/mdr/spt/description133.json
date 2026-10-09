@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description133.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b0d62ae522f0",
+   "t": "{{hover|cap}} (legs)"
+  },
+  {
+   "i": 11,
+   "src": "e489b5330975",
+   "t": "A <c:ffff00>Leg Type<c> that floats above the ground and moves\nat low altitude. Its <c:ffff00>{{stats}}<c> tend to be low overall, but it\nhandles every {{terrain}} well and performs steadily.\n\n<c:ffff00>{{terrain|cap}} {{affinity|cap}}<c> (<c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains}}<c>, <c:ffff00>{{forest}}<c>, <c:ffff00>{{rocky_ground}}<c>, <c:ffff00>{{sand}}<c>, <c:ffff00>{{tundra}}<c>, <c:ffff00>{{hall}}<c>,\n  <c:ffff00>{{waterside}}<c> and <c:ffff00>{{cyber}}<c>: +4.\n  <c:ffff00>{{underwater}}<c> and <c:ffff00>{{sky}}<c>: {{robattle|pl}} not possible."
+  }
+ ]
+}

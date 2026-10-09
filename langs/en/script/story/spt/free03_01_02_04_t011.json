@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free03_01_02_04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "04b018d5a5b8",
+   "t": "Wait. We came all this way."
+  },
+  {
+   "i": 1038,
+   "src": "6c12afaa3f95",
+   "t": "Let's investigate a bit more."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description117.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9f313e11f29f",
+   "t": "{{heavy}} (trait)"
+  },
+  {
+   "i": 11,
+   "src": "69da39aa3ad3",
+   "t": "A <c:ffff00>{{part|cap}} Trait<c> indicating heavy <c:ffff00>head<c> and <c:ffff00>arm<c> {{part|pl}}.\nThey often perform well, but their weight strains the\n<c:ffff00>legs<c>.\n\nEvery legs {{part}} has a <c:ffff00>Heavy Limit<c>; if you exceed it\nwith heavy {{part|pl}} (going {{over_the_limit}}), the <c:ffff00>{{stats}}<c> of\nthe legs and of those {{part|pl}} drop.\nWhen {{over_the_limit}}, heavy {{part|pl}} lose 25% of their\n<c:ffff00>{{success}}<c>, <c:ffff00>{{power}}<c>, <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c>."
+  }
+ ]
+}

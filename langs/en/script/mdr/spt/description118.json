@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description118.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "13d3e71f33c9",
+   "t": "Heavy Limit"
+  },
+  {
+   "i": 11,
+   "src": "18935ea1cbc1",
+   "t": "The design tolerance of <c:ffff00>legs<c> for bearing the weight\nof <c:ffff00>heavy<c> {{part|pl}}.\n\nIf you equip more heavy {{part|pl}} than the limit (going\n{{over_the_limit}}), the <c:ffff00>{{stats}}<c> of the legs and the heavy\n{{part|pl}} drop.\nThe more you exceed it, the worse the legs perform:\n  Over by 1: <c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c> -25%\n  Over by 2: -50%; over by 3: -75%"
+  }
+ ]
+}

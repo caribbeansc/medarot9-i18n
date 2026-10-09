@@ -1,0 +1,110 @@
+{
+ "file": "battle/spt/auto_battle04.spt",
+ "lines": [
+  {
+   "i": 1084,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1087,
+   "src": "630d17ded0da",
+   "t": "{{erica}}"
+  },
+  {
+   "i": 1090,
+   "src": "1493cf70bd2b",
+   "t": "{{rianda}}"
+  },
+  {
+   "i": 1255,
+   "src": "3e7e277d11e1",
+   "t": "¡Fennel! ¡Es tu turno!"
+  },
+  {
+   "i": 1261,
+   "src": "de3f5b67f493",
+   "t": "¡Paprika! ¡Es tu turno!"
+  },
+  {
+   "i": 1326,
+   "src": "dd4bac05f29b",
+   "t": ", ¡transferencia!"
+  },
+  {
+   "i": 1376,
+   "src": "d0edc259ac91",
+   "t": "¡Vamos! ¡{{greed}}!\n¡Transferencia!"
+  },
+  {
+   "i": 1517,
+   "src": "8a6e31ff5abc",
+   "t": "\n¡Usa la {{gatling}}!"
+  },
+  {
+   "i": 1524,
+   "src": "c406b1117d61",
+   "t": "\n¡Usa el {{hammer}}!"
+  },
+  {
+   "i": 1678,
+   "src": "aeb685c9c0cc",
+   "t": "¡Vamos!"
+  },
+  {
+   "i": 1790,
+   "src": "65b66f1eb351",
+   "t": "Nada mal.\nPero, ¡qué tal esto!"
+  },
+  {
+   "i": 2020,
+   "src": "c57b3e447b94",
+   "t": "¡Ugh!\nDe un golpe... cómo..."
+  },
+  {
+   "i": 2122,
+   "src": "7f4994c77c5a",
+   "t": "Qué fue\nesa técnica de ahora..."
+  },
+  {
+   "i": 2153,
+   "src": "33ef5d842844",
+   "t": "¡Es la <c:ff00ff>{{medaforce}}<c>!"
+  },
+  {
+   "i": 2181,
+   "src": "4611fd8416fc",
+   "t": "<c:ff00ff>{{medaforce}}<c>..."
+  },
+  {
+   "i": 2209,
+   "src": "a5b3206e2e98",
+   "t": "P-perdón.\n¡Ayúdame, por favor!"
+  },
+  {
+   "i": 2237,
+   "src": "48a643192ee3",
+   "t": "¿Eh?\nTú eres de Elda..."
+  },
+  {
+   "i": 2262,
+   "src": "5089c100a882",
+   "t": "A Elda...\nunas personas raras de negro..."
+  },
+  {
+   "i": 2290,
+   "src": "62143b283903",
+   "t": "De negro...\n¿¡Acaso es la {{rubberobo_gang}}!?"
+  },
+  {
+   "i": 2318,
+   "src": "6e3d32122dbb",
+   "t": "Parece una situación que no puedo\npasar por alto."
+  },
+  {
+   "i": 2327,
+   "src": "a63335bf091e",
+   "t": "Este combate queda\nen pausa por ahora."
+  }
+ ]
+}

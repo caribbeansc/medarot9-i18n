@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f04_050_131_20_t051.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1042,
+   "src": "724eb995da22",
+   "t": "Whoa there?"
+  },
+  {
+   "i": 1045,
+   "src": "e29df61db2ae",
+   "t": "What an unexpected turn of events!"
+  },
+  {
+   "i": 1053,
+   "src": "213176c41638",
+   "t": "The {{exploration_club}} {{wins}}!"
+  },
+  {
+   "i": 1056,
+   "src": "c0f3266f3fc4",
+   "t": "The Martial Arts {{club|cap}} is defeated!"
+  },
+  {
+   "i": 1071,
+   "src": "5f91ae9c3634",
+   "t": "...Huh."
+  },
+  {
+   "i": 1079,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1088,
+   "src": "e606434639ef",
+   "t": "What's with that surprised reaction?"
+  }
+ ]
+}

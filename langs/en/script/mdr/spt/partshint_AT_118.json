@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_118.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f36b0a1561a3",
+   "t": "<c:00ff00>Action:<c> {{continued_fix}}\nApplies an {{effect}} to one\nallied\n{{medabot}} that recovers a\nlittle {{damage}} each time\ncooldown completes."
+  }
+ ]
+}

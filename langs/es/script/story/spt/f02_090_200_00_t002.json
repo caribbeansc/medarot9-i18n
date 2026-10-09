@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f02_090_200_00_t002.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "ad8f09d561e5",
+   "t": "Qué edificio tan ruinoso."
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "2ed838cc7c6f",
+   "t": "Parece una vieja instalación que se\nusaba antes"
+  },
+  {
+   "i": 1051,
+   "src": "db001e7186bd",
+   "t": "¿Se usaba?"
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "b368003fd97a",
+   "t": "Sí."
+  },
+  {
+   "i": 1065,
+   "src": "63b6dfc94160",
+   "t": "Ahora es como un {{storehouse}} escolar."
+  },
+  {
+   "i": 1073,
+   "src": "1acd06a03ef2",
+   "t": "Bueno, casi nunca viene nadie,"
+  },
+  {
+   "i": 1076,
+   "src": "7f6cb46d3438",
+   "t": "y a veces se cuelan {{medabot|pl}} salvajes."
+  },
+  {
+   "i": 1084,
+   "src": "ae3c324f4fa0",
+   "t": "{{medabot|pl}} salvajes, eh..."
+  }
+ ]
+}

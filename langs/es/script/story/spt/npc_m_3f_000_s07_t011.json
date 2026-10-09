@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_3f_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1035,
+   "src": "13b90dff1e98",
+   "t": "Je, al fin llegó el momento."
+  },
+  {
+   "i": 1038,
+   "src": "39b5d56ce8f2",
+   "t": "Mi gran escenario... arde mi pick."
+  },
+  {
+   "i": 1046,
+   "src": "e1f9e66ea858",
+   "t": "También tengo ganas\nde ver el show del {{idol_club}}..."
+  }
+ ]
+}

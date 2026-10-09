@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_janit_500_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 1038,
+   "src": "841b0fe97300",
+   "t": "You a student?"
+  },
+  {
+   "i": 1041,
+   "src": "78900ab09a39",
+   "t": "What's up so early in the morning?"
+  },
+  {
+   "i": 1049,
+   "src": "0e2dbab23697",
+   "t": "What, you came to pick up a package?"
+  },
+  {
+   "i": 1057,
+   "src": "cff850cdf05e",
+   "t": "Ah, then you're just a step too late."
+  },
+  {
+   "i": 1060,
+   "src": "fda5298efda3",
+   "t": "My daughter just left to deliver it."
+  },
+  {
+   "i": 1068,
+   "src": "91311c625519",
+   "t": "I think it's arrived safely by now."
+  },
+  {
+   "i": 1071,
+   "src": "dea039671897",
+   "t": "Sorry for making you come all this way."
+  }
+ ]
+}

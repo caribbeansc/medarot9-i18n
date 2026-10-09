@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_66.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8819d58427bc",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nSin Guardia\nDurante la {{prep}} de un\nataque cuerpo a cuerpo\nno puede evadir ni\ndefender. {{prep|cap}} y {{success}}\n+10."
+  }
+ ]
+}

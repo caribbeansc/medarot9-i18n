@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_20.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a65de76a6513",
+   "t": "Duck-{{type}} {{medabot}} that\ndreams of being a swan.\n \nIts head {{part}} leaves foes\nunable to defend and its\narm {{part|pl}} launch\nhard-to-evade {{gravity}}\nattacks."
+  }
+ ]
+}

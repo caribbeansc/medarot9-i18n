@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1035,
+   "src": "0b2ba5e3f117",
+   "t": "¡Ay, aguanta! ¡Va a estar todo bien,"
+  },
+  {
+   "i": 1038,
+   "src": "d181fbecd593",
+   "t": "falta poquito para la carga completa!"
+  }
+ ]
+}

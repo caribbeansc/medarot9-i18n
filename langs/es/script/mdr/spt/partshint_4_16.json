@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_16.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8412fdf934ff",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Abscond\nDurante {{cooldown}}\n{{stats}} de {{mobility}}\n+15."
+  }
+ ]
+}

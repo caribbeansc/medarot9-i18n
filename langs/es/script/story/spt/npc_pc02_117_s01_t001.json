@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc02_117_s01_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "c808741ef2b8",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1043,
+   "src": "549df69077f4",
+   "t": "Si no necesitas nada, no me hables."
+  },
+  {
+   "i": 1046,
+   "src": "d1d2d6a7ebc4",
+   "t": "No te acerques a un metro de mí."
+  }
+ ]
+}

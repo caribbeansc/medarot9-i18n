@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f02_050_150_00_t002.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "c60041e594d4",
+   "t": "President, this is"
+  },
+  {
+   "i": 1042,
+   "src": "a179c1f4be72",
+   "t": "my first time seeing a girls' dorm."
+  },
+  {
+   "i": 1047,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1053,
+   "src": "7b543b16b870",
+   "t": "I see."
+  },
+  {
+   "i": 1068,
+   "src": "a382212e98c3",
+   "t": "Yeah!"
+  },
+  {
+   "i": 1076,
+   "src": "bc02898cec28",
+   "t": "I never had anything to do with dorms"
+  },
+  {
+   "i": 1079,
+   "src": "2738ae66c6fc",
+   "t": "before I came here, after all. "
+  },
+  {
+   "i": 1087,
+   "src": "4e2d5ab8f08f",
+   "t": "Let alone a girls' dorm..."
+  }
+ ]
+}

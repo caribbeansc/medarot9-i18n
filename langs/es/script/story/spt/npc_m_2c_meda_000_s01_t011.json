@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e2d11d6f76f2",
+   "t": "Cordy"
+  },
+  {
+   "i": 1038,
+   "src": "da2d57d67a48",
+   "t": "Qué fastidio cambiarse de ropa."
+  },
+  {
+   "i": 1041,
+   "src": "3bbdcc689d3c",
+   "t": "Ojalá los humanos se configuraran."
+  }
+ ]
+}

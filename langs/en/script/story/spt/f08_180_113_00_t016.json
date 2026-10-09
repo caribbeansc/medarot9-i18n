@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f08_180_113_00_t016.spt",
+ "lines": [
+  {
+   "i": 1129,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1140,
+   "src": "1631e66d429e",
+   "t": "I'm a student too."
+  },
+  {
+   "i": 1143,
+   "src": "61d9f1cfba85",
+   "t": "I have no wish to narrow the choice of\nclub activities."
+  },
+  {
+   "i": 1151,
+   "src": "4555f14ef02c",
+   "t": "But when it's a matter that threatens"
+  },
+  {
+   "i": 1154,
+   "src": "23cb2d20e642",
+   "t": "the students' safety, that's another\nstory."
+  },
+  {
+   "i": 1162,
+   "src": "bf8355d76d59",
+   "t": "We can't leave the root cause\nunchecked any longer."
+  },
+  {
+   "i": 1165,
+   "src": "980909dd34dc",
+   "t": "We're considering banning use of the\ndetection {{app}}."
+  },
+  {
+   "i": 1180,
+   "src": "29688cb705dd",
+   "t": "The {{app}} is off-limits until an official\ndecision is made."
+  },
+  {
+   "i": 1183,
+   "src": "b40d0e38c4fa",
+   "t": "Understood?"
+  },
+  {
+   "i": 1204,
+   "src": "ac3493770db7",
+   "t": "Do you have anything to say?"
+  },
+  {
+   "i": 1211,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1220,
+   "src": "1e60ab7f65f3",
+   "t": "No, ma'am."
+  },
+  {
+   "i": 1227,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1236,
+   "src": "3c2cc677e2cb",
+   "t": "And furthermore--"
+  },
+  {
+   "i": 1244,
+   "src": "9145f618e1ad",
+   "t": "The {{exploration_club}} will take part in\npreparing for the Sports Festival."
+  },
+  {
+   "i": 1260,
+   "src": "aca19eb974d1",
+   "t": "Whaaat?"
+  },
+  {
+   "i": 1271,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1282,
+   "src": "9f689353bd6a",
+   "t": "Silence."
+  }
+ ]
+}

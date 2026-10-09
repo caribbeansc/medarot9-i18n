@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description99.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7c0633abd4a3",
+   "t": "Disparo (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "dd798506c26b",
+   "t": "<c:ffff00>Habilidad<c> <c:ffff00>ofensiva<c>: capacidad de manejar <c:ffff00>{{part|pl}}<c> con\nmecanismo de arma para <c:ffff00>atacar<c> a rivales lejanos.\nIncluye <c:ffff00>técnicas<c> de <c:ffff00>ataque de {{shooting}}<c>.\n\nA mayor <c:ffff00>{{skill_level}}<c>: <c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c> más\nrápidos, y mayor <c:ffff00>{{success_power}}<c>.\n\nEn las {{part|pl}} de {{shooting}}, el <c:ffff00>{{stats}} de {{success}}<c>\nsube al llenarse la <c:ffff00>{{charge_gauge}}<c>."
+  }
+ ]
+}

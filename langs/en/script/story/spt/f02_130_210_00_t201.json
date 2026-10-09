@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f02_130_210_00_t201.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "bc2571607784",
+   "t": "I found a boat, but the current is too\nfast."
+  },
+  {
+   "i": 1004,
+   "src": "abe286c5d41a",
+   "t": "If only a {{medabot}} could pull it\nunderwater..."
+  }
+ ]
+}

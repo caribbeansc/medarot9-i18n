@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free06_02_01_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "d360bc7ed966",
+   "t": "¡{{mission|cap}} 'Recolección de {{medalia|pl}}:\n{{storehouse|cap}}' comienza!"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "393c832e3eb3",
+   "t": "Bien, vamos."
+  },
+  {
+   "i": 1049,
+   "src": "a74ec321dda2",
+   "t": "...Ya me sé el camino."
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "cfb254f2fea4",
+   "t": "El {{storehouse}} es grande. Prestemos"
+  },
+  {
+   "i": 1065,
+   "src": "b27415232192",
+   "t": "atención al sonido del detector."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_78.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "79bfe516cd29",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nTodoterreno\nSi todas las {{part|pl}} tienen\nhabilidades distintas,\n{{prep}} y {{cooldown}} +10\nen todas."
+  }
+ ]
+}

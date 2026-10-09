@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f09_050_230_00_t031.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1037,
+   "src": "fa81493443f8",
+   "t": "We did it! We won, {{robo}}~!"
+  },
+  {
+   "i": 1048,
+   "src": "09729dfca46f",
+   "t": "As expected of the {{teacher}}, {{robo}}!"
+  },
+  {
+   "i": 1051,
+   "src": "03333c1d1be7",
+   "t": "So incredibly strong, {{robo}}~!"
+  },
+  {
+   "i": 1059,
+   "src": "6433f020ad6c",
+   "t": "Heh."
+  }
+ ]
+}

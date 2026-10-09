@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3e_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4c27f3813e67",
+   "t": "{{boy_3_e}}"
+  },
+  {
+   "i": 1035,
+   "src": "460d3a5e9cc4",
+   "t": "¿Quieres ver los clubes?"
+  },
+  {
+   "i": 1038,
+   "src": "012b3e76b505",
+   "t": "El {{club_building}} es lo mejor."
+  },
+  {
+   "i": 1046,
+   "src": "d2bbcbb85975",
+   "t": "Para deportes, la cancha o el {{gymnasium}}."
+  },
+  {
+   "i": 1049,
+   "src": "22b15f365bd3",
+   "t": "Gira a la derecha y lo verás."
+  }
+ ]
+}

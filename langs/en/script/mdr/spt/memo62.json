@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo62.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "f543c54aeeec",
+   "t": "'{{medalia}} {{collect|cap}}:{{crater}}'"
+  },
+  {
+   "i": 32,
+   "src": "d699c44d6187",
+   "t": "Large medalia reaction around the crater.\nFrom the outer rim,let's go down to the inner crater.\n"
+  },
+  {
+   "i": 42,
+   "src": "ebabac3f6c0d",
+   "t": "From the dusty summit,go down the hill...\n"
+  },
+  {
+   "i": 52,
+   "src": "0f9ca5d21e89",
+   "t": "When we reach the crater, the medalia reaction is huge in number or quality.\n"
+  },
+  {
+   "i": 62,
+   "src": "226af812001e",
+   "t": "Found a medalia in the center, but the reaction hasn't changed.\nIs a huge amount of medalia buried underground...?\nFor the time being,let's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 72,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

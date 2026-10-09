@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2b_meda_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9ebb4aab5418",
+   "t": "Blazermate"
+  },
+  {
+   "i": 1038,
+   "src": "46d66774458c",
+   "t": "Muy bien, ¡a empezar esta {{robattle}}!"
+  },
+  {
+   "i": 1041,
+   "src": "ba34c97b82cd",
+   "t": "¡Este año lo voy a dar todo!"
+  }
+ ]
+}

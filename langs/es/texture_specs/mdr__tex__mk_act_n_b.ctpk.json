@@ -1,0 +1,303 @@
+{
+ "rel": "mdr/tex/mk_act_n_b.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+  "cap": 5,
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0,
+  "scale_x": 1,
+  "align": "center"
+ },
+ "items": [
+  {
+   "box": [
+    3,
+    2,
+    33,
+    10
+   ],
+   "erase_box": [
+    4,
+    3,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 70,
+   "grow": 1,
+   "text": "COMBATE",
+   "baseline": 10,
+   "fill": "#161B1E"
+  },
+  {
+   "box": [
+    3,
+    17,
+    33,
+    10
+   ],
+   "erase_box": [
+    4,
+    18,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 70,
+   "grow": 1,
+   "text": "DISPARO",
+   "baseline": 25,
+   "fill": "#161B1E"
+  },
+  {
+   "box": [
+    3,
+    32,
+    33,
+    10
+   ],
+   "erase_box": [
+    4,
+    33,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 70,
+   "grow": 1,
+   "text": "APOYO",
+   "baseline": 40,
+   "fill": "#161B1E"
+  },
+  {
+   "box": [
+    3,
+    47,
+    33,
+    10
+   ],
+   "erase_box": [
+    4,
+    48,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 70,
+   "grow": 1,
+   "text": "CURACION",
+   "baseline": 55,
+   "fill": "#161B1E"
+  },
+  {
+   "box": [
+    3,
+    62,
+    33,
+    10
+   ],
+   "erase_box": [
+    4,
+    63,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 70,
+   "grow": 1,
+   "text": "DEFENSA",
+   "baseline": 70,
+   "fill": "#161B1E"
+  },
+  {
+   "box": [
+    3,
+    77,
+    33,
+    10
+   ],
+   "erase_box": [
+    4,
+    78,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 70,
+   "grow": 1,
+   "text": "TRAMPA",
+   "baseline": 85,
+   "fill": "#161B1E"
+  },
+  {
+   "box": [
+    42,
+    2,
+    33,
+    10
+   ],
+   "erase_box": [
+    43,
+    3,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 90,
+   "grow": 1,
+   "text": "COMBATE",
+   "baseline": 10,
+   "fill": "#12161A"
+  },
+  {
+   "box": [
+    42,
+    18,
+    33,
+    10
+   ],
+   "erase_box": [
+    43,
+    19,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 90,
+   "grow": 1,
+   "text": "DISPARO",
+   "baseline": 26,
+   "fill": "#12161A"
+  },
+  {
+   "box": [
+    42,
+    34,
+    33,
+    10
+   ],
+   "erase_box": [
+    43,
+    35,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 90,
+   "grow": 1,
+   "text": "APOYO",
+   "baseline": 42,
+   "fill": "#12161A"
+  },
+  {
+   "box": [
+    42,
+    50,
+    33,
+    10
+   ],
+   "erase_box": [
+    43,
+    51,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 90,
+   "grow": 1,
+   "text": "CURACION",
+   "baseline": 58,
+   "fill": "#12161A"
+  },
+  {
+   "box": [
+    42,
+    66,
+    33,
+    10
+   ],
+   "erase_box": [
+    43,
+    67,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 90,
+   "grow": 1,
+   "text": "DEFENSA",
+   "baseline": 74,
+   "fill": "#12161A"
+  },
+  {
+   "box": [
+    42,
+    82,
+    33,
+    10
+   ],
+   "erase_box": [
+    43,
+    83,
+    31,
+    8
+   ],
+   "erase": "glyph",
+   "thr": 90,
+   "grow": 1,
+   "text": "TRAMPA",
+   "baseline": 90,
+   "fill": "#12161A"
+  },
+  {
+   "box": [
+    10,
+    96,
+    41,
+    10
+   ],
+   "erase_box": [
+    0,
+    96,
+    62,
+    10
+   ],
+   "erase": "transparent",
+   "text": "LARGO",
+   "baseline": 105,
+   "font": "sf",
+   "wght": 400,
+   "wdth": 75,
+   "tracking": 1.5,
+   "cap": 9,
+   "fill": "#F4F4F4",
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    5,
+    107,
+    51,
+    10
+   ],
+   "erase_box": [
+    0,
+    107,
+    62,
+    10
+   ],
+   "erase": "transparent",
+   "text": "CORTO",
+   "baseline": 116,
+   "font": "sf",
+   "wght": 400,
+   "wdth": 75,
+   "tracking": 3,
+   "cap": 9,
+   "fill": "#F4F4F4",
+   "crisp": 0.5
+  }
+ ]
+}

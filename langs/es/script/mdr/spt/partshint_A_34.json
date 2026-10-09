@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_34.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "2214d9c52d49",
+   "t": "<c:00ff00>{{mf}}:<c>{{impregnable}}\nEl {{damage}} que recibe todo tu\nequipo se reduce a 1/2."
+  }
+ ]
+}

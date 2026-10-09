@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f06_130_600_00_t042.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1038,
+   "src": "69e3540b5d12",
+   "t": "Gracias, {{exploration_club}}. Gracias a"
+  },
+  {
+   "i": 1041,
+   "src": "61acf34a7ab6",
+   "t": "ustedes, logré matar el aburrimiento."
+  },
+  {
+   "i": 1051,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1057,
+   "src": "e585f0fb497a",
+   "t": "No, no, ¡gracias a ti por decirlo!"
+  },
+  {
+   "i": 1064,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1070,
+   "src": "babb598cd7e8",
+   "t": "Y luego..."
+  }
+ ]
+}

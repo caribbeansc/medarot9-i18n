@@ -1,0 +1,52 @@
+{
+ "rel": "mdr/tex/ysd_bt_8.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-rounded-heavy",
+  "cap": 10,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "align": "left",
+  "valign": "middle",
+  "pad": 0,
+  "shadow": {
+   "dx": 1,
+   "dy": 1,
+   "color": "#000000",
+   "opacity": 0.65
+  }
+ },
+ "items": [
+  {
+   "box": [
+    28,
+    3,
+    26,
+    15
+   ],
+   "erase_box": [
+    22,
+    2,
+    34,
+    18
+   ],
+   "text": "Yes"
+  },
+  {
+   "box": [
+    84,
+    3,
+    42,
+    15
+   ],
+   "erase_box": [
+    78,
+    2,
+    50,
+    18
+   ],
+   "text": "No"
+  }
+ ]
+}

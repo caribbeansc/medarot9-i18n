@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/bt0041.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 864,
+   "src": "abe677f7ff80",
+   "t": "{{survival_robattle}}!"
+  },
+  {
+   "i": 867,
+   "src": "abe677f7ff80",
+   "t": "{{survival_robattle}}!"
+  },
+  {
+   "i": 870,
+   "src": "efc1fc43e51f",
+   "t": "Defeat every {{medabot}}!"
+  },
+  {
+   "i": 884,
+   "src": "3eff79892fdb",
+   "t": "With this many, we can't lose, {{robo}}!"
+  }
+ ]
+}

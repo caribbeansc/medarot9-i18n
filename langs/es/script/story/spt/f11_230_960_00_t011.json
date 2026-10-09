@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_230_960_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "835e01d25847",
+   "t": "Este lugar..."
+  },
+  {
+   "i": 1040,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1046,
+   "src": "3c5d5b56bb53",
+   "t": "No me digas que es tu primera vez aquí."
+  },
+  {
+   "i": 1053,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1062,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

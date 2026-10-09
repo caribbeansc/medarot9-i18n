@@ -1,0 +1,60 @@
+{
+ "file": "battle/spt/tuto_08_006.spt",
+ "lines": [
+  {
+   "i": 1111,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1117,
+   "src": "6def6ef551f4",
+   "t": "Shoot CF cuts in and attacks\n<c:ff00ff>before the trigger attack<c>."
+  },
+  {
+   "i": 1122,
+   "src": "60063e51bd4d",
+   "t": "Meanwhile, Fighting Crossfire attacks\n<c:ff00ff>after the trigger attack<c>."
+  },
+  {
+   "i": 1127,
+   "src": "66b7e66d6b84",
+   "t": "So in this case, the order is\nShooting CF, trigger attack, Fighting CF.                                          "
+  },
+  {
+   "i": 1132,
+   "src": "1658614ebfc2",
+   "t": "Also, Crossfire has a trait: if one attack\nhits, the next one is guaranteed to {{hit}}.                     "
+  },
+  {
+   "i": 1140,
+   "src": "804f53f5a6ab",
+   "t": "Using that, even attack {{part|pl}} with low\n{{success}} are easier to land.                                 "
+  },
+  {
+   "i": 1148,
+   "src": "64522e2fe03c",
+   "t": "Also, a target hit by chained Crossfire\ncan only choose one {{defense}} action.                                 "
+  },
+  {
+   "i": 1153,
+   "src": "ab7c1fd0f571",
+   "t": "If you defend the 1st hit with your right\narm, you defend every other hit with it.                                                                         "
+  },
+  {
+   "i": 1158,
+   "src": "8a0d8aac88b4",
+   "t": "In that case, if your right arm is\ndestroyed, you can't defend or evade.                           "
+  },
+  {
+   "i": 1163,
+   "src": "7c6d91f5371b",
+   "t": "Crossfire is a hassle to set up, but once\nyou master it, it can end a Robattle fast.                                                                                                        "
+  },
+  {
+   "i": 1171,
+   "src": "59fa2e113ce3",
+   "t": "Now, win this {{robattle}}."
+  }
+ ]
+}

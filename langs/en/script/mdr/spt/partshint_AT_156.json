@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_156.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "232e6b11c216",
+   "t": "<c:00ff00>Action:<c> {{heal_trap}}\nSets a trap that deals\n{{damage}} when it reacts to\nthe {{opponent}}'s\nHeal action. Setting it\nrepeatedly raises its\n{{armor}} and {{damage}}."
+  }
+ ]
+}

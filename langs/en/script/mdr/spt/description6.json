@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description6.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fb2ce0904770",
+   "t": "{{part|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "250fee8e3610",
+   "t": "Equipment that makes up a <c:ffff00>{{medabot}}<c>'s body.\n\nEach {{part}} has a defined <c:ffff00>{{slot}}<c> and <c:ffff00>{{gender}}<c>, and is\nfitted to the <c:ffff00>{{tinpet}}<c> accordingly.\n\nIt has features such as <c:ffff00>{{model_number}}<c>, <c:ffff00>action<c>, <c:ffff00>{{stats}}<c>\nand <c:ffff00>{{part|cap}} Trait<c>. The combination of the 4 slots\ndecides much of the {{medabot}}'s abilities and\nappearance."
+  }
+ ]
+}

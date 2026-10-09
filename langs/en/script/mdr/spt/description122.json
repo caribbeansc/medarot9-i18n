@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description122.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "17f4e667c104",
+   "t": "Crossfire (sub-skill)"
+  },
+  {
+   "i": 11,
+   "src": "a2faeac9f39b",
+   "t": "A <c:ffff00>sub-skill<c> that performs a <c:ffff00>combo attack<c>.\nUnlike a normal <c:ffff00>attack<c>, no <c:ffff00>{{target}}<c> is chosen when\nchoosing the command: when <c:ffff00>{{prep}}<c> completes, it\nenters the <c:ffff00>CF Stance<c> instead of attacking.\nWhen an {{ally_battle_term}}'s <c:ffff00>trigger<c> attack finishes {{prep}}, the CF\nStance ends and the combo attack is carried out.\n<c:ffff00>{{shooting}}<c> Crossfire attacks ahead of the trigger\nattack; <c:ffff00>{{fighting}}<c> Crossfire attacks after it."
+  }
+ ]
+}

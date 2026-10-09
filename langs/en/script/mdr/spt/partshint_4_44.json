@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_44.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c03afe13bf89",
+   "t": "<c:00ff00>Leg Trait:<c>\n{{quick_attack}}\n{{fighting}} {{part|pl}} with {{power}}\n40 or less gain the \"Chain\"\n{{effect}}.\n<c:00ffff>Chain:<c> In a combo,\na {{part}} with this {{effect}}\ngets {{prep}} +10."
+  }
+ ]
+}

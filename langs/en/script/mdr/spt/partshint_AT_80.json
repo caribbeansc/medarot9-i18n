@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_80.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0e984ce51a2e",
+   "t": "<c:00ff00>Action:<c> {{stealth}}\nUntil your next action, you\ndrop out of the opposing\nteam's attack targets. You\ncan attack by slipping\npast {{interrupt_guard}}."
+  }
+ ]
+}

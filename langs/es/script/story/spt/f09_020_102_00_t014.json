@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f09_020_102_00_t014.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1038,
+   "src": "63d7375f6545",
+   "t": "¿En qué puedo ayudarla?"
+  },
+  {
+   "i": 1045,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1054,
+   "src": "3a631a81ae3a",
+   "t": "Los suministros que pedimos no\naparecen."
+  },
+  {
+   "i": 1061,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1070,
+   "src": "c8b481cc0756",
+   "t": "Ah, ahora que lo pienso."
+  },
+  {
+   "i": 1073,
+   "src": "ac6e407f24d6",
+   "t": "El {{janitor}} debería haberlos entregado..."
+  },
+  {
+   "i": 1081,
+   "src": "ae88e090f1a0",
+   "t": "Yo iría a recogerlos, pero estoy ocupado"
+  },
+  {
+   "i": 1084,
+   "src": "152a42848984",
+   "t": "ahora mismo, iré por ellos en un rato--"
+  },
+  {
+   "i": 1102,
+   "src": "ddcf0ae44096",
+   "t": "Un momento."
+  }
+ ]
+}

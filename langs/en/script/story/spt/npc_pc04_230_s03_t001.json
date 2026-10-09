@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_230_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "eff2090a9a9f",
+   "t": "This is a wall... man-made?"
+  },
+  {
+   "i": 1038,
+   "src": "bc134bc0e6c3",
+   "t": "I'm surprised, I assumed it was natural\nrock..."
+  }
+ ]
+}

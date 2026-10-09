@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_1c_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_010_101_00_t012.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "bfa18efb41d9",
+   "t": "Select Captain"
+  },
+  {
+   "i": 1049,
+   "src": "fef729cf1ded",
+   "t": "Wait there, monster! I, Tenshin,"
+  },
+  {
+   "i": 1052,
+   "src": "f0915dc0d050",
+   "t": "will take you down!"
+  },
+  {
+   "i": 1060,
+   "src": "4d211b2a7ab4",
+   "t": "Advance!"
+  },
+  {
+   "i": 1067,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1073,
+   "src": "cff340ce5541",
+   "t": "Sir!"
+  }
+ ]
+}

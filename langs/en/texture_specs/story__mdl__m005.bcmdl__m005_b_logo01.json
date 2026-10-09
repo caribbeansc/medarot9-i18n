@@ -1,0 +1,57 @@
+{
+ "rel": "story/mdl/m005.bcmdl",
+ "tex": "m005_b_logo01",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "grow": 1,
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    14,
+    10,
+    36,
+    232
+   ],
+   "erase_box": [
+    12,
+    8,
+    40,
+    236
+   ],
+   "text": "SAFE DUEL",
+   "rotate": 270,
+   "font": "sf-cond-heavy",
+   "cap": 28,
+   "tracking": 2,
+   "fill": "#318600",
+   "stroke": null
+  },
+  {
+   "box": [
+    80,
+    6,
+    32,
+    180
+   ],
+   "erase_box": [
+    70,
+    2,
+    50,
+    188
+   ],
+   "bg": "#1F4092FF",
+   "text": "GREET WITH GUSTO",
+   "rotate": 270,
+   "font": "anton",
+   "cap": 21,
+   "fill": "#E81414",
+   "stroke": "#FFFFFF",
+   "stroke_w": 3.5,
+   "grow": 2
+  }
+ ]
+}

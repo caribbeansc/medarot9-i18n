@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description59.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f85aafacdae5",
+   "t": "{{medachange}}"
+  },
+  {
+   "i": 11,
+   "src": "4a0f6501e3fb",
+   "t": "An <c:ffff00>act<c> that transforms a transformable <c:ffff00>{{medabot}}<c> into\nits <c:ffff00>{{medachange_form}}<c>. <c:ffff00>{{part|pl|cap}}<c> with \"-C\" in their <c:ffff00>model<c>\n<c:ffff00>number<c> are designed to {{transform}}; they are required\nin all 4 <c:ffff00>slots<c>, in <c:ffff00>{{original|cap}}<c> configuration.\nRequires none of the 4 slots to be <c:ffff00>destroyed<c> and\nthe <c:ffff00>{{charge_gauge}}<c> at 20% or more. The higher the\n<c:ffff00>{{medal_level}}<c>, the faster <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c> are.\nIt uses 10% of the {{charge_gauge}} and clears all\n<c:ffff00>negative statuses<c>."
+  }
+ ]
+}

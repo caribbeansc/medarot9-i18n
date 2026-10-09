@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_150.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3ae8719dbda4",
+   "t": "<c:00ff00>Action:<c> {{fighting_trap}}\nSets a trap that deals\n{{damage}} when it reacts to\nmelee attacks on allies.\nSetting it repeatedly\nraises its {{armor}} and\n{{damage}}."
+  }
+ ]
+}

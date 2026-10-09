@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description95.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "66f870133560",
+   "t": "Habilidad"
+  },
+  {
+   "i": 11,
+   "src": "cbddb90ceda7",
+   "t": "Clasificación de la capacidad necesaria para usar las\n<c:ffff00>técnicas<c> de <c:ffff00>{{part|pl}}<c> y <c:ffff00>Drive<c>, en 6 tipos: <c:ffff00>combate<c>,\n<c:ffff00>disparo<c>, <c:ffff00>apoyo<c>, <c:ffff00>curación<c>, <c:ffff00>defensa<c> y <c:ffff00>trampa<c>. Combate\ny disparo son <c:ffff00>ofensivas<c>; las demás, <c:ffff00>auxiliares<c>.\nCada una corresponde a uno de los 6 <c:ffff00>niveles de<c>\n<c:ffff00>habilidad<c> de la <c:ffff00>{{medal}}<c> y afecta a la velocidad de\n<c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c> de las técnicas y a su {{effect}}.\nHay {{part|pl}} <c:ffff00>especiales<c> que no pertenecen a ninguna\nhabilidad ni se ven afectadas por su nivel."
+  }
+ ]
+}

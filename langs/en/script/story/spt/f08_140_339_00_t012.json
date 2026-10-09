@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f08_140_339_00_t012.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "ccd439e37b77",
+   "t": "No, that's got nothing to do with it."
+  },
+  {
+   "i": 1004,
+   "src": "b643abcb2e09",
+   "t": "It's because it's dangerous!"
+  },
+  {
+   "i": 1012,
+   "src": "007371a58481",
+   "t": "Look, the way we came got blocked by\na landslide."
+  },
+  {
+   "i": 1015,
+   "src": "93a1bc211327",
+   "t": "How are we supposed to get back?!"
+  },
+  {
+   "i": 1023,
+   "src": "426a60c267c6",
+   "t": "On top of that, I hear some nasty sound\nin the grass over there."
+  },
+  {
+   "i": 1026,
+   "src": "9693930bafdf",
+   "t": "What if it's a strong {{stray}} Medabot?!"
+  },
+  {
+   "i": 1034,
+   "src": "f9888300549a",
+   "t": "If we get attacked now, it'll just be us--"
+  }
+ ]
+}

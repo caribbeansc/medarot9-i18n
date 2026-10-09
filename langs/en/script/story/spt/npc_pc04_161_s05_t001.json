@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "2867862d9d26",
+   "t": "Let's get this over with quickly."
+  },
+  {
+   "i": 1041,
+   "src": "6e56f469f113",
+   "t": "We have an {{exam}} tomorrow!"
+  }
+ ]
+}

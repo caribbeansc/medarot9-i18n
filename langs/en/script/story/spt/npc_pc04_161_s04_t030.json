@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc04_161_s04_t030.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "ef86350d793b",
+   "t": "I see. We still have time,"
+  },
+  {
+   "i": 1038,
+   "src": "78952bd1f226",
+   "t": "so no need to rush. It's a special\ntournament,"
+  },
+  {
+   "i": 1046,
+   "src": "d9753cc673ce",
+   "t": "after all. Maybe it's a good idea to"
+  },
+  {
+   "i": 1049,
+   "src": "fc60788bc8f2",
+   "t": "review your setup."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_14.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a883d56b5495",
+   "t": "<c:00ff00>Action:<c> {{anti_sea}}\nA ranged attack that deals\nbig {{damage}} if the\n{{opponent}}'s {{leg_part}} is a\ndiving type. Has piercing."
+  }
+ ]
+}

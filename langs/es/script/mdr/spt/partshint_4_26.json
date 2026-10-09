@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_26.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "80bf9bf9107d",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nControl G\nCon la {{charge_gauge}} al\n50% o más toda {{affinity}}\nde {{terrain}} +6."
+  }
+ ]
+}

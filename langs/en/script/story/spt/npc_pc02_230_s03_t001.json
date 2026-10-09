@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc02_230_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "f75b8ca5a0e5",
+   "t": "Ugh, ugh..."
+  },
+  {
+   "i": 1038,
+   "src": "33460b7a0c93",
+   "t": "My hair and clothes are covered in dust."
+  },
+  {
+   "i": 1046,
+   "src": "e5d50db4d376",
+   "t": "When I get home, I have to take a bath\nright away..."
+  },
+  {
+   "i": 1049,
+   "src": "0f325719d843",
+   "t": "Will this come out if I wash it..."
+  },
+  {
+   "i": 1070,
+   "src": "5889d9577f32",
+   "t": "Hey."
+  },
+  {
+   "i": 1073,
+   "src": "bec9556f4a48",
+   "t": "What are you staring at?"
+  },
+  {
+   "i": 1081,
+   "src": "cf27282768f0",
+   "t": "Why don't you get back to your\nso-called investigation?"
+  },
+  {
+   "i": 1084,
+   "src": "d7845592d6e4",
+   "t": "Leave me alone."
+  }
+ ]
+}

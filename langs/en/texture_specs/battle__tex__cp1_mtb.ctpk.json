@@ -1,0 +1,104 @@
+{
+ "rel": "battle/tex/cp1_mtb.ctpk",
+ "base": "jp",
+ "styles": {
+  "etq": {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 8,
+   "fill": "#F4F4F4",
+   "stroke": "#000000D0",
+   "stroke_w": 1,
+   "pad": 0,
+   "align": "left",
+   "crisp": 0.4
+  }
+ },
+ "items": [
+  {
+   "style": "etq",
+   "box": [
+    1,
+    0,
+    40,
+    12
+   ],
+   "erase_box": [
+    0,
+    0,
+    44,
+    12
+   ],
+   "text": "Head",
+   "baseline": 9
+  },
+  {
+   "style": "etq",
+   "box": [
+    1,
+    13,
+    40,
+    12
+   ],
+   "erase_box": [
+    0,
+    12,
+    44,
+    13
+   ],
+   "text": "R-Arm",
+   "baseline": 22
+  },
+  {
+   "style": "etq",
+   "box": [
+    1,
+    26,
+    40,
+    12
+   ],
+   "erase_box": [
+    0,
+    25,
+    44,
+    13
+   ],
+   "text": "L-Arm",
+   "baseline": 35
+  },
+  {
+   "style": "etq",
+   "box": [
+    1,
+    39,
+    40,
+    12
+   ],
+   "erase_box": [
+    0,
+    38,
+    44,
+    13
+   ],
+   "text": "Legs",
+   "baseline": 48
+  },
+  {
+   "style": "etq",
+   "box": [
+    1,
+    51,
+    40,
+    13
+   ],
+   "erase_box": [
+    0,
+    51,
+    44,
+    13
+   ],
+   "text": "Armor",
+   "baseline": 60.5
+  }
+ ]
+}

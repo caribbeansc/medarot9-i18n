@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_fa_000_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1038,
+   "src": "adcf5255982e",
+   "t": "My, it's you,"
+  },
+  {
+   "i": 1041,
+   "src": "392caacfefa4",
+   "t": "what are you doing in a place like this?"
+  },
+  {
+   "i": 1049,
+   "src": "ac9e2b2e7615",
+   "t": "There are no {{club_activities}} today."
+  },
+  {
+   "i": 1052,
+   "src": "2b41b00f03b5",
+   "t": "Wouldn't you be better off going back\nto your room?"
+  }
+ ]
+}

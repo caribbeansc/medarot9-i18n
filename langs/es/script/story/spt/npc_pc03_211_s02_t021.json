@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc03_211_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "f79a0c9d15b3",
+   "t": "Naturalmente, el software ya no está"
+  },
+  {
+   "i": 1050,
+   "src": "0dd766cf556c",
+   "t": "aquí... o más bien, el disco duro mismo"
+  },
+  {
+   "i": 1053,
+   "src": "90cf86876df5",
+   "t": "ya fue retirado. Por alguna razón,"
+  },
+  {
+   "i": 1061,
+   "src": "6ab61e52ee9c",
+   "t": "la energía enciende, pero... creo"
+  },
+  {
+   "i": 1064,
+   "src": "323b0729c9fa",
+   "t": "que no esperaré mucho de esto, ¿no?"
+  },
+  {
+   "i": 1079,
+   "src": "cad22b03a4a8",
+   "t": "No, no, te lo digo, tenemos que \nidear algo..."
+  },
+  {
+   "i": 1087,
+   "src": "23bce93dafed",
+   "t": "¿No habrá algo por aquí...?"
+  },
+  {
+   "i": 1090,
+   "src": "e3e9848937c8",
+   "t": "Mmm..."
+  }
+ ]
+}

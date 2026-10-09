@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2e_165_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1038,
+   "src": "e83685b388d4",
+   "t": "Otra vez tú. Eres raro. ¿Tanto"
+  },
+  {
+   "i": 1041,
+   "src": "1164cdc65f9c",
+   "t": "te gusta este lugar?"
+  },
+  {
+   "i": 1049,
+   "src": "8f1790bd1e49",
+   "t": "No me molesta que vengas aquí,"
+  },
+  {
+   "i": 1052,
+   "src": "8d86411a74b5",
+   "t": "solo no estorbes al presidente."
+  },
+  {
+   "i": 1060,
+   "src": "0436ac6de859",
+   "t": "No puedo dejar que nada lo distraiga. Él"
+  },
+  {
+   "i": 1063,
+   "src": "19cf2541c25a",
+   "t": "ya tarda una eternidad en decidirse..."
+  }
+ ]
+}

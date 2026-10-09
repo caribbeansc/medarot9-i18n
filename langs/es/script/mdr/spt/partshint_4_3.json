@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_3.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7d082b4b6e35",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nTipo Nieve\nSin importar el tipo de\npierna mejora la {{affinity}}\nde {{terrain}} con zonas\nheladas."
+  }
+ ]
+}

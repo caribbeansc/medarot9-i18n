@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3c_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f7af0c618128",
+   "t": "{{wild_ukon}}"
+  },
+  {
+   "i": 1035,
+   "src": "5175a2d776ac",
+   "t": "{{master|cap}}, bajemos ya."
+  },
+  {
+   "i": 1038,
+   "src": "d7e724534645",
+   "t": "Nos van a regañar."
+  }
+ ]
+}

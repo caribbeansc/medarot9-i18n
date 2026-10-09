@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_07_010.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "b19fba52b56e",
+   "t": "¡Viene un ataque {{opponent}}!\n¿...Eh?"
+  },
+  {
+   "i": 1125,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1131,
+   "src": "a211f94923fb",
+   "t": "En {{medachange}}, las barras de {{armor}}\nde las 4 {{part|pl}} <c:ff00ff>se suman<c> en una sola.                             "
+  },
+  {
+   "i": 1136,
+   "src": "8695d2e0a571",
+   "t": "Y solo puedes responder al ataque {{opponent}}\ncon <c:ff00ff>{{defend}}<c> o <c:ff00ff>{{evade}}<c>.   "
+  },
+  {
+   "i": 1141,
+   "src": "292d5eba1ae4",
+   "t": "Si recibes {{damage}} y el {{armor}} llega a 0,\nquedas {{knocked_out}}. ¡Ten cuidado!                           "
+  }
+ ]
+}

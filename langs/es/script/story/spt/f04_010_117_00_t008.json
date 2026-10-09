@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f04_010_117_00_t008.spt",
+ "lines": [
+  {
+   "i": 1131,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1142,
+   "src": "9c466fc0770a",
+   "t": "Déjame presentarla."
+  },
+  {
+   "i": 1150,
+   "src": "9824c88c1dc9",
+   "t": "Desde hoy estudiará en esta {{class}}."
+  },
+  {
+   "i": 1153,
+   "src": "4694cd7d6c3e",
+   "t": "Ella es {{saika}}-san."
+  },
+  {
+   "i": 1169,
+   "src": "5081eec42a79",
+   "t": "*Murmullos*..."
+  },
+  {
+   "i": 1180,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1191,
+   "src": "c1aac1a0e359",
+   "t": "H-hola..."
+  },
+  {
+   "i": 1194,
+   "src": "80ad379a147a",
+   "t": "Me llamo {{saika}}."
+  },
+  {
+   "i": 1202,
+   "src": "e16f1eb5d9c1",
+   "t": "Por mi familia llegué tarde,"
+  },
+  {
+   "i": 1205,
+   "src": "1eb776b870ae",
+   "t": "pero soy de primer año como ustedes."
+  },
+  {
+   "i": 1213,
+   "src": "965236a01e04",
+   "t": "Así que, este..."
+  },
+  {
+   "i": 1221,
+   "src": "50ec6b739851",
+   "t": "Pues..."
+  },
+  {
+   "i": 1229,
+   "src": "11e10ed3adf5",
+   "t": "¡Me alegraría mucho que pudiéramos ser\namigos!"
+  },
+  {
+   "i": 1246,
+   "src": "7758134c738e",
+   "t": "¡Gracias de antemano!"
+  },
+  {
+   "i": 1262,
+   "src": "98c0cb6cb401",
+   "t": "¡Mucho gusto!"
+  },
+  {
+   "i": 1273,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1284,
+   "src": "269ae368d6ca",
+   "t": "Por favor toma asiento. Tu lugar"
+  },
+  {
+   "i": 1287,
+   "src": "f8a13c1744bd",
+   "t": "está hasta atrás, junto al pasillo."
+  },
+  {
+   "i": 1296,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1302,
+   "src": "74d4623a0e99",
+   "t": "Sí."
+  }
+ ]
+}

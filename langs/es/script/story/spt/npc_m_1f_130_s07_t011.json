@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_1f_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "f431e7737400",
+   "t": "Los Senpais se lo toman con calma,"
+  },
+  {
+   "i": 1038,
+   "src": "6241a3a6e519",
+   "t": "no deberíamos prepararnos ya..."
+  },
+  {
+   "i": 1046,
+   "src": "cdcc99270537",
+   "t": "Aunque sea un puesto sencillo,"
+  },
+  {
+   "i": 1049,
+   "src": "dc186d7095df",
+   "t": "hay mucho que hacer, las compras-"
+  },
+  {
+   "i": 1070,
+   "src": "708bb4cb270d",
+   "t": "Ah... ¿me estabas hablando?"
+  },
+  {
+   "i": 1073,
+   "src": "05fbe5477878",
+   "t": "Estaba distraído, no me di cuenta."
+  },
+  {
+   "i": 1081,
+   "src": "8138f70e7407",
+   "t": "Poder distraerme mientras corro"
+  },
+  {
+   "i": 1084,
+   "src": "8f2f510fa3c9",
+   "t": "es que de verdad he crecido. Jajaja."
+  }
+ ]
+}

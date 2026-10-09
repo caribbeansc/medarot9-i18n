@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f02_015_161_00_t023.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "6044b5354554",
+   "t": "Oh right, speaking of transferring {{part|pl}}..."
+  },
+  {
+   "i": 1038,
+   "src": "ba55749e30ae",
+   "t": "Are you using the {{trans_part}}?"
+  },
+  {
+   "i": 1046,
+   "src": "b0542d74159f",
+   "t": "The {{trans_part}}...?"
+  },
+  {
+   "i": 1051,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1057,
+   "src": "c6bf24c42aa8",
+   "t": "It sends {{part|pl}} to a {{medabot}}\nmid-{{robattle}}."
+  },
+  {
+   "i": 1060,
+   "src": "b1ba99a53c64",
+   "t": "It's from the latest official rules."
+  },
+  {
+   "i": 1068,
+   "src": "7891c9d37b88",
+   "t": "Only to the {{leader}}, once per {{robattle}}."
+  },
+  {
+   "i": 1071,
+   "src": "806fcf4a4752",
+   "t": "And only EX {{part|pl}} you set in advance."
+  }
+ ]
+}

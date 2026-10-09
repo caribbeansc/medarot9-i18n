@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f05_020_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "1ab9edd0c91e",
+   "t": "Llegas tarde."
+  },
+  {
+   "i": 1048,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1057,
+   "src": "b07d248ef880",
+   "t": "¿Ya estamos todos?"
+  },
+  {
+   "i": 1065,
+   "src": "65d1cd1c09dd",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1073,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1079,
+   "src": "f59fba59a0bd",
+   "t": "Revisa la {{part_box}}."
+  },
+  {
+   "i": 1082,
+   "src": "7265ee2e4acc",
+   "t": "Así será más rápido de explicar."
+  },
+  {
+   "i": 1093,
+   "src": "4edf4a22891d",
+   "t": "¿...Eh?"
+  }
+ ]
+}

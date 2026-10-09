@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2e_meda_163_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "cf697f1bc64f",
+   "t": "{{haikara_mate}}"
+  },
+  {
+   "i": 1038,
+   "src": "19db14fc6320",
+   "t": "No autographs, please."
+  },
+  {
+   "i": 1041,
+   "src": "70a24e6551c3",
+   "t": "My {{teacher}} told me not to."
+  },
+  {
+   "i": 1049,
+   "src": "4b598ae6c2e3",
+   "t": "There's an autograph session at the fair,"
+  },
+  {
+   "i": 1052,
+   "src": "a727b27f1b51",
+   "t": "so I'll sign for you there."
+  }
+ ]
+}

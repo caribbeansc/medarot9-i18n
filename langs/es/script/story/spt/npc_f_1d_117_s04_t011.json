@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1d_117_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "cc4e33627947",
+   "t": "{{hana}}"
+  },
+  {
+   "i": 1038,
+   "src": "e7c04fd6a06b",
+   "t": "Pensaba mostrarte la escuela,"
+  },
+  {
+   "i": 1041,
+   "src": "465fce9baece",
+   "t": "pero parece que ya no me necesitan."
+  }
+ ]
+}

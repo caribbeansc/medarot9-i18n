@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f01_080_164_10_t001.spt",
+ "lines": [
+  {
+   "i": 896,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 907,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 915,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 926,
+   "src": "5106474f2727",
+   "t": "...Hm?"
+  },
+  {
+   "i": 934,
+   "src": "74b166ca0204",
+   "t": "You're not a {{club_member}}, are you?"
+  },
+  {
+   "i": 942,
+   "src": "84e1b04be734",
+   "t": "Oh!"
+  },
+  {
+   "i": 945,
+   "src": "b5af368569ec",
+   "t": "Could it be...!"
+  },
+  {
+   "i": 953,
+   "src": "bc19d50c5b72",
+   "t": "You want to join?!"
+  },
+  {
+   "i": 956,
+   "src": "3bc5fa61bcf4",
+   "t": "Just kidding!"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f09_020_102_00_t017.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "3e0b599a70f7",
+   "t": "Tsk."
+  },
+  {
+   "i": 1035,
+   "src": "5c3a5ad5d55f",
+   "t": "Is he still mad...?"
+  },
+  {
+   "i": 1040,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1046,
+   "src": "3fb2424e52f2",
+   "t": "What's wrong?"
+  },
+  {
+   "i": 1057,
+   "src": "02b14c05a3c3",
+   "t": "Oh, it's nothing."
+  },
+  {
+   "i": 1060,
+   "src": "a55840449cad",
+   "t": "It was the harbor, right?"
+  },
+  {
+   "i": 1068,
+   "src": "aed225025993",
+   "t": "I'm off~!"
+  }
+ ]
+}

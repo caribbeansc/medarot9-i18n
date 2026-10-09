@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f02_150_211_00_t001.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "67fe56e00c70",
+   "t": "¡Ahí está!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "32947e8c73ea",
+   "t": "La sala más profunda..."
+  },
+  {
+   "i": 1050,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1056,
+   "src": "df10d632fb9b",
+   "t": "Oh."
+  },
+  {
+   "i": 1059,
+   "src": "d0fcef369657",
+   "t": "Este lugar parece un escenario."
+  },
+  {
+   "i": 1067,
+   "src": "faf7869a62a1",
+   "t": "Se nota que es ex del {{idol_club}}."
+  }
+ ]
+}

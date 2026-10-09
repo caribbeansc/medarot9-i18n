@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_08_004.spt",
+ "lines": [
+  {
+   "i": 1114,
+   "src": "9bef4892df41",
+   "t": "¡Bien, los 2 ya están en espera\nde fuego cruzado!     "
+  },
+  {
+   "i": 1119,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1125,
+   "src": "bbeba577334f",
+   "t": "Ojo: un {{medabot}} en espera de FC\nqueda <c:ff00ff>{{cannot_evade}}<c>, igual que al cargar.                "
+  },
+  {
+   "i": 1130,
+   "src": "2d3d1232d614",
+   "t": "Y si destruyen una {{part}} {{waiting}} de\nfuego cruzado, se cancela la espera."
+  },
+  {
+   "i": 1135,
+   "src": "a4ba63e3978f",
+   "t": "Solo falta el <c:ff00ff>disparador<c>: el ataque de\nun {{ally_battle_term}} que inicia el fuego cruzado.  "
+  }
+ ]
+}

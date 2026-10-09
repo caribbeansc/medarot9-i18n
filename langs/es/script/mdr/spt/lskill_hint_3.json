@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_3.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d3d7db9fbf1b",
+   "t": "<c:00ff00>{{effect|cap}} {{leader|cap}}:<c>Táctica de Confusión\nAumenta la {{evade}} de tu equipo en 10%"
+  }
+ ]
+}

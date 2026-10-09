@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc03_meda_161_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "4b6f38cb7686",
+   "t": "¿Vas a salir otra vez?"
+  },
+  {
+   "i": 1041,
+   "src": "107de2b04b23",
+   "t": "¿A dónde vas esta vez?"
+  }
+ ]
+}

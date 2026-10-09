@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_43.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "e1638ea5b5b4",
+   "t": "<c:00ff00>{{mf}}:<c> Restoration\nRecovers 50 {{damage}} on\nall {{part|pl}} of your whole\nteam.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

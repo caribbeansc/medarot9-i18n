@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/tuto_07_003.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "84beed2c2e84",
+   "t": "It transformed!     "
+  },
+  {
+   "i": 1125,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1131,
+   "src": "322ac5268527",
+   "t": "{{medachange}} success!\n<c:ff00ff>{{stats|cap}}, {{leg_type}}, traits<c> changed.                               "
+  },
+  {
+   "i": 1136,
+   "src": "57ebead24180",
+   "t": "<c:ff00ff>You can't {{transform}} if even one {{part}} is\ndestroyed<c>,\n"
+  },
+  {
+   "i": 1137,
+   "src": "319a6a0e34fc",
+   "t": "so be careful not to get destroyed\nbefore you {{transform}}."
+  },
+  {
+   "i": 1142,
+   "src": "f112875af334",
+   "t": "This time it was 100%, but\n<c:ff00ff>20% or more<c> lets you {{medachange}}.                            "
+  }
+ ]
+}

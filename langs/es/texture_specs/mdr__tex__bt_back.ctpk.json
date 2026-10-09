@@ -1,0 +1,58 @@
+{
+ "rel": "mdr/tex/bt_back.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    19,
+    7,
+    34,
+    15
+   ],
+   "erase_box": [
+    19,
+    8,
+    35,
+    13
+   ],
+   "erase": "glyph",
+   "text": "Volver",
+   "font": "compact-rounded-heavy",
+   "cap": 8.5,
+   "fill": "auto",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#F4F4F4",
+    "opacity": 0.8
+   }
+  },
+  {
+   "box": [
+    75,
+    7,
+    34,
+    15
+   ],
+   "erase_box": [
+    75,
+    8,
+    35,
+    13
+   ],
+   "erase": "glyph",
+   "text": "Volver",
+   "font": "compact-rounded-heavy",
+   "cap": 8.5,
+   "fill": "auto",
+   "stroke": null,
+   "repeat": [
+    [
+     56,
+     0
+    ]
+   ]
+  }
+ ]
+}

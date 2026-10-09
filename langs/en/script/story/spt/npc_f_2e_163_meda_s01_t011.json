@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2e_163_meda_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3896aa720158",
+   "t": "2nd-Yr Girl E's Medabot"
+  },
+  {
+   "i": 1035,
+   "src": "19db14fc6320",
+   "t": "No autographs, please."
+  },
+  {
+   "i": 1038,
+   "src": "70a24e6551c3",
+   "t": "My {{teacher}} told me not to."
+  }
+ ]
+}

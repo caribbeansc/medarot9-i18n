@@ -1,0 +1,40 @@
+{
+ "rel": "mdr/tex/win_mail.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "solid:#000000",
+  "font": "tahoma",
+  "cap": 7.2,
+  "fill": "#B2B2B2",
+  "stroke": null,
+  "pad": [
+   1,
+   0,
+   1,
+   0
+  ],
+  "valign": "middle",
+  "dy": 4,
+  "crisp": 0.6
+ },
+ "items": [
+  {
+   "box": [
+    72,
+    176,
+    32,
+    24
+   ],
+   "text": "Asunto"
+  },
+  {
+   "box": [
+    104,
+    176,
+    40,
+    24
+   ],
+   "text": "Remitente"
+  }
+ ]
+}

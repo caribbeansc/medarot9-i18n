@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f2_meda_140_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0d793da5d065",
+   "t": "{{ashton}}"
+  },
+  {
+   "i": 1035,
+   "src": "e7723c2a77ed",
+   "t": "What's wrong!"
+  },
+  {
+   "i": 1038,
+   "src": "94afb955915f",
+   "t": "Come at me! Come on!"
+  }
+ ]
+}

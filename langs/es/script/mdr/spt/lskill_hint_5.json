@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_5.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "68f9df83f43b",
+   "t": "<c:00ff00>{{effect|cap}} {{leader|cap}}:<c>Táctica del Yunque\nMientras estás {{waiting}} de guardia,\nla tasa de {{critical}} del equipo {{up}} 20%"
+  }
+ ]
+}

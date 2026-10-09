@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f10_040_161_00_t023.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "10c9d2fca172",
+   "t": "W-what is this?"
+  },
+  {
+   "i": 1046,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1052,
+   "src": "ab560117abc2",
+   "t": "An earthquake?!"
+  },
+  {
+   "i": 1055,
+   "src": "44f38ac3e8bf",
+   "t": "N-no, this is..."
+  },
+  {
+   "i": 1083,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

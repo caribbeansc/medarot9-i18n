@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "470cea56e9ed",
+   "t": "<c:00ff00>Estilo robobatalla:<c>\n{{sniper}}\n{{power|cap}} +5 {{success|cap}} +12\n{{shooting|cap}} +10\nAl destruir 1 {{part}} la\n{{charge_gauge}} sube 10%"
+  }
+ ]
+}

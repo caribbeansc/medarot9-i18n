@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description38.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "07439e8b653c",
+   "t": "Take It ({{response}})"
+  },
+  {
+   "i": 11,
+   "src": "d932d92955ae",
+   "t": "A <c:ffff00>{{response}}<c> in which the {{opponent}}'s <c:ffff00>attack<c> is taken\nas is.\n\nMore than a {{response}}, in practice it is close to being\nunable to do anything.\n\nThe <c:ffff00>{{damage}}<c> taken is reduced slightly by the normal\n<c:ffff00>Defense Power<c>."
+  }
+ ]
+}

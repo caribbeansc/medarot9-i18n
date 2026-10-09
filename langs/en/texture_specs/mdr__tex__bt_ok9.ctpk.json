@@ -1,0 +1,397 @@
+{
+ "rel": "mdr/tex/bt_ok9.ctpk",
+ "base": "jp",
+ "styles": {
+  "etq": {
+   "font": "sf-compressed",
+   "cap": 9.5,
+   "tracking": 0.2,
+   "fill": "#101010",
+   "stroke": "#EDEDED",
+   "stroke_w": 1,
+   "align": "center",
+   "pad": 0
+  }
+ },
+ "protect": [
+  [
+   55,
+   48,
+   1,
+   15
+  ],
+  [
+   49,
+   67,
+   1,
+   14
+  ]
+ ],
+ "items": [
+  {
+   "box": [
+    23,
+    4,
+    27,
+    18
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    30,
+    47,
+    14
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    81,
+    31,
+    24,
+    14
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    49,
+    52,
+    14
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    66,
+    46,
+    15
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    69,
+    89,
+    47,
+    14
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "copy": [
+    110,
+    48,
+    1,
+    15
+   ],
+   "to": [
+    55,
+    48
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    56,
+    48,
+    54,
+    15
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "copy": [
+    104,
+    67,
+    1,
+    14
+   ],
+   "to": [
+    49,
+    67
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    50,
+    67,
+    54,
+    14
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    14,
+    86,
+    53,
+    18
+   ],
+   "erase": "copy:14,3",
+   "text": ""
+  },
+  {
+   "box": [
+    11,
+    89,
+    3,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    10,
+    90,
+    4,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    9,
+    91,
+    5,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    92,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    93,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    94,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    95,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    9,
+    96,
+    5,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    9,
+    97,
+    5,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    98,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    7,
+    99,
+    7,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    7,
+    100,
+    7,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    101,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    9,
+    102,
+    5,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "style": "etq",
+   "box": [
+    14,
+    5,
+    52,
+    15
+   ],
+   "erase": "none",
+   "text": "Done",
+   "cap": 11,
+   "baseline": 18
+  },
+  {
+   "style": "etq",
+   "box": [
+    2,
+    30,
+    45,
+    15
+   ],
+   "erase": "none",
+   "text": "Apply",
+   "baseline": 41.5
+  },
+  {
+   "style": "etq",
+   "box": [
+    80,
+    30,
+    26,
+    15
+   ],
+   "erase": "none",
+   "text": "Set",
+   "baseline": 41.5
+  },
+  {
+   "style": "etq",
+   "box": [
+    2,
+    48,
+    50,
+    15
+   ],
+   "erase": "none",
+   "text": "Rotation",
+   "baseline": 59.5
+  },
+  {
+   "style": "etq",
+   "box": [
+    58,
+    48,
+    51,
+    15
+   ],
+   "erase": "none",
+   "text": "Profile",
+   "baseline": 59.5
+  },
+  {
+   "style": "etq",
+   "box": [
+    2,
+    66,
+    45,
+    15
+   ],
+   "erase": "none",
+   "text": "Random",
+   "baseline": 77.5
+  },
+  {
+   "style": "etq",
+   "box": [
+    52,
+    66,
+    51,
+    15
+   ],
+   "erase": "none",
+   "text": "Rename",
+   "baseline": 77.5
+  },
+  {
+   "style": "etq",
+   "box": [
+    69,
+    88,
+    47,
+    15
+   ],
+   "erase": "none",
+   "text": "Synthesize",
+   "baseline": 100
+  },
+  {
+   "style": "etq",
+   "box": [
+    8,
+    88,
+    57,
+    15
+   ],
+   "erase": "none",
+   "text": "Switch cam.",
+   "baseline": 100
+  }
+ ]
+}

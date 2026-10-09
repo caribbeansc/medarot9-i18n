@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_42.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2500bfd9a128",
+   "t": "<c:00ff00>Técnica:<c>{{hammer}}\nAtaque cuerpo a cuerpo\nlento pero de gran\n{{power}}.\nIgnora el aumento de\n{{defend}} por la {{defend}}\ndel {{opponent}}."
+  }
+ ]
+}

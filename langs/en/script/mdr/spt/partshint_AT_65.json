@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_65.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e900539718b1",
+   "t": "<c:00ff00>Action:<c> {{anti_sea}}\nA melee attack that deals\nbig {{damage}} if the\n{{opponent}}'s {{leg_part}} is a\ndiving type.\nHas piercing."
+  }
+ ]
+}

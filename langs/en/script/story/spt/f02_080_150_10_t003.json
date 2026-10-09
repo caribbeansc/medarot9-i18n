@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f02_080_150_10_t003.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "25b09330f071",
+   "t": "She went that way, right?"
+  },
+  {
+   "i": 1038,
+   "src": "6a4eecb80ce7",
+   "t": "Shall we follow her?"
+  }
+ ]
+}

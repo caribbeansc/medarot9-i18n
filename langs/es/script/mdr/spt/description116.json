@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description116.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3cffa034bd5d",
+   "t": "Cadena (rasgo)"
+  },
+  {
+   "i": 11,
+   "src": "99ae70b71046",
+   "t": "<c:ffff00>{{part_trait|cap}}<c> que indica un mecanismo adecuado\npara <c:ffff00>ataques<c> encadenados con otras <c:ffff00>{{part|pl}}<c>.\n\nSi incluyes en un <c:ffff00>combo<c> la <c:ffff00>técnica<c> de una {{part}} con\neste rasgo, su <c:ffff00>{{stats}} de {{prep}}<c> aumenta en 10."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_12.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "b47697d2c4df",
+   "t": "<c:00ff00>{{mf}}:<c>Transición\nEl {{terrain}} pasa a ser\nboscoso y todos los\n{{medabot|pl}} vuelven al área\nde comandos.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de\nataque"
+  }
+ ]
+}

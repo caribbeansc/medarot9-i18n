@@ -1,0 +1,115 @@
+{
+ "file": "battle/spt/tuto_02_000.spt",
+ "lines": [
+  {
+   "i": 1131,
+   "src": "45682ab66b4f",
+   "t": "Whoa, there are three enemies!\nWhat now?!    "
+  },
+  {
+   "i": 1144,
+   "src": "f54d397bdc4f",
+   "t": "Basic {{robattle}} rule: knock out the\nenemy {{leader}} and you win.                              "
+  },
+  {
+   "i": 1153,
+   "src": "7bb4bb291966",
+   "t": "Basic {{robattle}} rule: knocking out\nthe enemy {{leader}} means victory.                    "
+  },
+  {
+   "i": 1159,
+   "src": "853d5d03fe72",
+   "t": "At the start you can't tell which\nenemy {{medabot}} is the {{leader}}, but...                      "
+  },
+  {
+   "i": 1164,
+   "src": "eb7d653c6a1f",
+   "t": "{{damage|cap}} its {{head_part}} to\nsee if it's the {{leader}}.           "
+  },
+  {
+   "i": 1179,
+   "src": "458af514dc89",
+   "t": "When you find the leader, the\n\"LEADER\" mark appears on screen!                "
+  },
+  {
+   "i": 1183,
+   "src": "308ac9ae33a2",
+   "t": "Once you find the leader, the\n\"LEADER\" mark lights up on screen.            "
+  },
+  {
+   "i": 1197,
+   "src": "bda10be39eee",
+   "t": "So I {{damage}} heads to find the {{leader}},\nand knock it out to win, right?           "
+  },
+  {
+   "i": 1210,
+   "src": "afff4be20fa4",
+   "t": "My head \"<c:ff00ff>Meta Missile<c>\" can {{damage}}\nall of the foe's {{part|pl}}.             "
+  },
+  {
+   "i": 1215,
+   "src": "4b91f85b73ab",
+   "t": "First I'll use \"Meta Missile\" to\nidentify the {{leader}}!                "
+  },
+  {
+   "i": 1226,
+   "src": "ca54b85790d2",
+   "t": "My head \"Aerial\" can raise\nattack success.                    "
+  },
+  {
+   "i": 1231,
+   "src": "1aa217a41b37",
+   "t": "I'll use \"Aerial\" first, then\ntake the {{enemy}} down for sure.    "
+  },
+  {
+   "i": 1376,
+   "src": "186833e3d05c",
+   "t": "Time to pick an {{attack_part}}!              "
+  },
+  {
+   "i": 1385,
+   "src": "4ffa8c18993f",
+   "t": "I told you to use \"Aerial\"!"
+  },
+  {
+   "i": 1424,
+   "src": "4ffa8c18993f",
+   "t": "I told you to use \"Aerial\"!"
+  },
+  {
+   "i": 1462,
+   "src": "e5ee0fd0e762",
+   "t": "Use Meta Missile!    "
+  },
+  {
+   "i": 1506,
+   "src": "9aca370a68f7",
+   "t": "Which {{medabot}} do I attack?!    "
+  },
+  {
+   "i": 1522,
+   "src": "a2ba5cc96640",
+   "t": "Switch the attack <c:ff00ff>target<c> with\nleft and right on the <c:ff00ff>D-Pad<c>.                              "
+  },
+  {
+   "i": 1527,
+   "src": "08c00dd4fb1a",
+   "t": "Pick targets by armor and action order!\nThen confirm with the $* button!                 "
+  },
+  {
+   "i": 1532,
+   "src": "6657161d87f0",
+   "t": "Well, the {{leader}} should be\nthe middle one! Aim for it!            "
+  },
+  {
+   "i": 1719,
+   "src": "96857e7b6256",
+   "t": "Aim for the middle one!       "
+  },
+  {
+   "i": 1728,
+   "src": "96857e7b6256",
+   "t": "Aim for the middle one!       "
+  }
+ ]
+}

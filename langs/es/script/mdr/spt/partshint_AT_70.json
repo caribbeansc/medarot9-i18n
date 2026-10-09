@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_70.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b3aea380e9b3",
+   "t": "<c:00ff00>Técnica:<c>Deathlock\nAtaque de {{fighting}} que\naplica estos síntomas.\n<c:00ffff>{{status|cap}}:<c>{{wave}}\n{{prep|cap}}/{{cooldown}} x1.5.\n{{cannot_defend|cap}}.\n<c:00ffff>{{status|cap}}:<c>{{hold}}\n{{prep|cap}}/{{cooldown}} x1.5.\n{{cannot_evade|cap}}."
+  }
+ ]
+}

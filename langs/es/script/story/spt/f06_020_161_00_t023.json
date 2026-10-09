@@ -1,0 +1,130 @@
+{
+ "file": "story/spt/f06_020_161_00_t023.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1037,
+   "src": "ed29aa42c655",
+   "t": "Analizamos los planos y logramos"
+  },
+  {
+   "i": 1040,
+   "src": "86a7af972142",
+   "t": "digitalizarlos. Y revelaron"
+  },
+  {
+   "i": 1048,
+   "src": "e3b3a3c08f1e",
+   "t": "un programa que capta las ondas"
+  },
+  {
+   "i": 1051,
+   "src": "9a0505fa09be",
+   "t": "de la Medaria y ubica su origen."
+  },
+  {
+   "i": 1058,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1067,
+   "src": "bab6bd955575",
+   "t": "Ondas sonoras..."
+  },
+  {
+   "i": 1070,
+   "src": "a4df9a494dc0",
+   "t": "¿La {{medalia}} emite sonidos?"
+  },
+  {
+   "i": 1077,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1086,
+   "src": "7640093ef6fd",
+   "t": "Sí los emite. Son frecuencias "
+  },
+  {
+   "i": 1089,
+   "src": "b00b43ef932f",
+   "t": "que el humano no oye. Capta las ondas,"
+  },
+  {
+   "i": 1097,
+   "src": "2659ce116493",
+   "t": "las envía a una PC, las analiza"
+  },
+  {
+   "i": 1100,
+   "src": "ea27330f6084",
+   "t": "y devuelve solo la ubicación correcta"
+  },
+  {
+   "i": 1108,
+   "src": "c76adbee6c48",
+   "t": "de vuelta al aparato. Así puede\ndeterminar la ubicación de la {{medalia}}."
+  },
+  {
+   "i": 1119,
+   "src": "cc531ce0b14c",
+   "t": "Un aparato..."
+  },
+  {
+   "i": 1124,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1133,
+   "src": "abf6fd9bb523",
+   "t": "Un {{smartphone}} sirve. Mantén tu Medawatch"
+  },
+  {
+   "i": 1136,
+   "src": "dd962fa29540",
+   "t": "activo y reaccionará automáticamente."
+  },
+  {
+   "i": 1143,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1152,
+   "src": "6a4d13641b87",
+   "t": "¿Puedo usar mi {{smartphone}}?"
+  },
+  {
+   "i": 1155,
+   "src": "ee45fbc3327c",
+   "t": "¡Qué increíble! ¿¡Ya puedo usarlo!?"
+  },
+  {
+   "i": 1162,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1171,
+   "src": "e3ea9f328c77",
+   "t": "Todavía no."
+  },
+  {
+   "i": 1178,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1187,
+   "src": "cb0676f62351",
+   "t": "Ahí es donde entramos nosotros."
+  }
+ ]
+}

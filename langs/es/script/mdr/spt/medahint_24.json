@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_24.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3da544fdeaa9",
+   "t": "{{medabot}} {{type}}\nluciérnaga que emite\nuna luz fantástica\ndesde las {{legs_part_slot}}.\n \nEspecializado en\nataques antimar, es\nmuy fuerte contra los\n{{medabot|pl}} submarinos."
+  }
+ ]
+}

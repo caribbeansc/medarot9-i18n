@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0529.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 872,
+   "src": "c28d2fd5dd56",
+   "t": "¡A la orden! Es una {{robattle}}, ¿no?"
+  },
+  {
+   "i": 875,
+   "src": "9efbd1510500",
+   "t": "¡Será un placer ser tu {{opponent}}!"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc02_161_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "fab68fe28960",
+   "t": "Exploration, huh..."
+  },
+  {
+   "i": 1043,
+   "src": "737a80996f1e",
+   "t": "The {{exploration_club}} sounds boring."
+  },
+  {
+   "i": 1046,
+   "src": "1b19b92e5324",
+   "t": "Maybe I should quit."
+  },
+  {
+   "i": 1059,
+   "src": "0978be51de0e",
+   "t": "Come on Mio, quit saying stuff like that."
+  },
+  {
+   "i": 1062,
+   "src": "55e27577baac",
+   "t": "We haven't even done anything yet!"
+  },
+  {
+   "i": 1070,
+   "src": "8dd49b1982dc",
+   "t": "Did you forget your promise?"
+  },
+  {
+   "i": 1077,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1083,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1091,
+   "src": "8d67d47a3d5f",
+   "t": "Yes, yes, I know."
+  },
+  {
+   "i": 1094,
+   "src": "a1d62576ed74",
+   "t": "I'll behave... for a while, anyway."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_72.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "074508ba564d",
+   "t": "<c:00ff00>Leg Trait:<c> {{holy_grace}}\nFor every {{positive_effect}},\n{{mobility}}, {{shooting}} and\n{{fighting}} {{stats}} +3."
+  }
+ ]
+}

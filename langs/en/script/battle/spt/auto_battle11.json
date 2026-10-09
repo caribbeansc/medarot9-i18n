@@ -1,0 +1,115 @@
+{
+ "file": "battle/spt/auto_battle11.spt",
+ "lines": [
+  {
+   "i": 881,
+   "src": "cd5a0c53a167",
+   "t": "{{phantom_thief_jill}}"
+  },
+  {
+   "i": 887,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 890,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 893,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 896,
+   "src": "3c7edee2c1de",
+   "t": "{{asad_arak}}"
+  },
+  {
+   "i": 1130,
+   "src": "61d382b0d43a",
+   "t": "What's wrong?\nYou can't win just by defending."
+  },
+  {
+   "i": 1198,
+   "src": "b92be2ec490e",
+   "t": "\"Your attacks can't reach my body.\"\nThat's what you said, right?"
+  },
+  {
+   "i": 1209,
+   "src": "edee419b7467",
+   "t": "You blocked every attack\nwith that black aura, but..."
+  },
+  {
+   "i": 1214,
+   "src": "e023bba5b141",
+   "t": "I bet you never imagined\nyour own attack getting blocked."
+  },
+  {
+   "i": 1241,
+   "src": "28ebb89208de",
+   "t": "So what?"
+  },
+  {
+   "i": 1274,
+   "src": "1e8a61811d59",
+   "t": "Go on, use it.\nYour real {{medaforce}}!"
+  },
+  {
+   "i": 1353,
+   "src": "bf478669310e",
+   "t": "Don't underestimate my power,\nyou mere human!"
+  },
+  {
+   "i": 1586,
+   "src": "e0e7a9c631fc",
+   "t": "Ngh, this much power...!"
+  },
+  {
+   "i": 1630,
+   "src": "14d337d8c62e",
+   "t": "Aaaaahh...!"
+  },
+  {
+   "i": 1690,
+   "src": "0b06aec44d38",
+   "t": "Ah!\n{{phantom_thief_jill}}'s mask!"
+  },
+  {
+   "i": 1720,
+   "src": "fe46cca64783",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1747,
+   "src": "b700b5f68384",
+   "t": "{{phantom_thief_jill}} is really Marie?!"
+  },
+  {
+   "i": 1774,
+   "src": "ca3b84315756",
+   "t": "...!"
+  },
+  {
+   "i": 1916,
+   "src": "d734851106a5",
+   "t": "Still standing...?\nYou're in my way!"
+  },
+  {
+   "i": 1946,
+   "src": "b09a6042816f",
+   "t": "Now even this will work...!"
+  },
+  {
+   "i": 2000,
+   "src": "1337806c4951",
+   "t": "Don't get smart!"
+  },
+  {
+   "i": 2125,
+   "src": "39045524d4f6",
+   "t": "This seems to be the end..."
+  }
+ ]
+}

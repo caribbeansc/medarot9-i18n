@@ -1,0 +1,58 @@
+{
+ "rel": "mdr/tex/bt_back_gca.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    37,
+    9,
+    44,
+    15
+   ],
+   "erase_box": [
+    36,
+    10,
+    44,
+    13
+   ],
+   "erase": "hfill",
+   "text": "Back",
+   "font": "compact-rounded-heavy",
+   "cap": 9,
+   "fill": "#F2F2F2",
+   "stroke": null,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0
+  },
+  {
+   "box": [
+    37,
+    41,
+    44,
+    15
+   ],
+   "erase_box": [
+    36,
+    42,
+    44,
+    13
+   ],
+   "erase": "hfill",
+   "text": "Back",
+   "font": "compact-rounded-heavy",
+   "cap": 9,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#808080",
+    "opacity": 0.55
+   },
+   "align": "left",
+   "valign": "middle",
+   "pad": 0
+  }
+ ]
+}

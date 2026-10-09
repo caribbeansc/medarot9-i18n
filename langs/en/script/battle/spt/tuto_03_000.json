@@ -1,0 +1,85 @@
+{
+ "file": "battle/spt/tuto_03_000.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1123,
+   "src": "f7ca6a40504a",
+   "t": "<c:ff00ff>Aimshot<c>: shooting {{part|pl}} only,\nwith that <c:ff00ff>sub-skill<c>.     "
+  },
+  {
+   "i": 1137,
+   "src": "2df08e882afe",
+   "t": "The {{part|pl}} with this Aimshot\ncommand displayed. "
+  },
+  {
+   "i": 1163,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1169,
+   "src": "c8d087d149df",
+   "t": "First, use the <c:ff00ff>D-Pad<c> to select\na {{part}} that can use Aimshot.                      "
+  },
+  {
+   "i": 1245,
+   "src": "34560d71e4e5",
+   "t": "After selecting the {{part}}, press\n<c:ff00ff>the same D-Pad direction<c> again.           "
+  },
+  {
+   "i": 1320,
+   "src": "ca14e77f0ff3",
+   "t": "Huh?\n<c:ff00ff>{{prep}} dropped<c>...?         "
+  },
+  {
+   "i": 1333,
+   "src": "c115047f9adb",
+   "t": "To aim precisely, you need a longer\nprep time than usual."
+  },
+  {
+   "i": 1342,
+   "src": "c115047f9adb",
+   "t": "To aim precisely, you need a longer\nprep time than usual."
+  },
+  {
+   "i": 1354,
+   "src": "c180ba0a76b4",
+   "t": "I see..."
+  },
+  {
+   "i": 1359,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1365,
+   "src": "9c05d1d72e1f",
+   "t": "Confirm the command with $*.          "
+  },
+  {
+   "i": 1395,
+   "src": "eb5e55fb5901",
+   "t": "That's normally enough. With Aimshot\nyou also pick which foe {{part}} to aim at.                             "
+  },
+  {
+   "i": 1406,
+   "src": "df56be0b6ad2",
+   "t": "Here you see the Aimshot <c:ff00ff>{{success_rate}}<c>.\nIt varies by the <c:ff00ff>{{slot}}<c> you aim at.                                                      "
+  },
+  {
+   "i": 1417,
+   "src": "c7a40892c50b",
+   "t": "Okay, let's aim for the <c:ff00ff>arm<c>, which\nlooks easy to hit. Pick with the <c:ff00ff>D-Pad<c>...                                              "
+  },
+  {
+   "i": 1451,
+   "src": "058daddad73d",
+   "t": "Then confirm with the $* button.    "
+  }
+ ]
+}

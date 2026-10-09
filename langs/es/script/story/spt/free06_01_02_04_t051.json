@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free06_01_02_04_t051.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "92a914ee3bb9",
+   "t": "Uf..."
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "f0d2afaceff1",
+   "t": "Buen trabajo, "
+  },
+  {
+   "i": 1045,
+   "src": "0bd99c71f0ed",
+   "t": "-chan."
+  },
+  {
+   "i": 1052,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1058,
+   "src": "f7ebc7ed1ee7",
+   "t": "Ya tenemos los datos de ondas sonoras."
+  },
+  {
+   "i": 1061,
+   "src": "f4f558b10594",
+   "t": "¿Volvemos al {{club}}?"
+  }
+ ]
+}

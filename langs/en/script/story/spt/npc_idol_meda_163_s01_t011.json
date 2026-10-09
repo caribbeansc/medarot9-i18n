@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_idol_meda_163_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1035,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}},"
+  },
+  {
+   "i": 1038,
+   "src": "db58ed35ccce",
+   "t": "you said you'd be right back, but you\nsure are taking your time."
+  },
+  {
+   "i": 1046,
+   "src": "d5ccdb20940c",
+   "t": "I wonder if things aren't going well."
+  },
+  {
+   "i": 1049,
+   "src": "79e8a92cdd03",
+   "t": "Maybe I should have gone with her..."
+  }
+ ]
+}

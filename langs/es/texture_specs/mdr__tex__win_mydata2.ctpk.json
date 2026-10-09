@@ -1,0 +1,142 @@
+{
+ "rel": "mdr/tex/win_mydata2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0,
+  "valign": "middle",
+  "align": "left"
+ },
+ "items": [
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#9E97FC",
+    "bottom": "#857DED"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    162,
+    17,
+    70,
+    13
+   ],
+   "erase_box": [
+    160,
+    16,
+    72,
+    16
+   ],
+   "text": "Rotacion nivel",
+   "align": "left"
+  },
+  {
+   "erase_box": [
+    200,
+    32,
+    16,
+    24
+   ],
+   "text": "",
+   "box": [
+    200,
+    32,
+    16,
+    24
+   ]
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#DDBFFB",
+    "bottom": "#C49DF4"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    2,
+    33,
+    68,
+    13
+   ],
+   "erase_box": [
+    0,
+    32,
+    72,
+    16
+   ],
+   "text": "Llave cohete",
+   "align": "left"
+  },
+  {
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "fill": {
+    "top": "#FB6E6E",
+    "bottom": "#D0262C"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    106,
+    34,
+    84,
+    21
+   ],
+   "erase_box": [
+    104,
+    32,
+    88,
+    24
+   ],
+   "text": "Campeon mundial\nde robobatalla",
+   "align": "left",
+   "leading": 1.0
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#FB834B",
+    "bottom": "#F0602A"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    0,
+    0,
+    64,
+    16
+   ],
+   "erase_box": [
+    0,
+    56,
+    128,
+    8
+   ],
+   "text": "Cazadores",
+   "align": "center",
+   "segments": [
+    [
+     0,
+     56,
+     64,
+     8,
+     1,
+     0
+    ],
+    [
+     64,
+     56,
+     64,
+     8,
+     0,
+     8
+    ]
+   ]
+  }
+ ]
+}

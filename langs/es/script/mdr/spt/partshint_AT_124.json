@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_124.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c1a831842994",
+   "t": "<c:00ff00>Técnica:<c>Limpiar {{field|cap}}\nElimina todas las trampas\ny plantas colocadas en el\n{{field}}, sin importar si son\nde aliados o enemigos."
+  }
+ ]
+}

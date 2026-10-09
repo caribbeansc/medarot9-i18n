@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f04_050_131_20_t022.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "bfae1cfe6f15",
+   "t": "Saved from closure, they earned a spot!"
+  },
+  {
+   "i": 1038,
+   "src": "0eed0b4490ed",
+   "t": "Of course, it's their first appearance."
+  },
+  {
+   "i": 1046,
+   "src": "0c0152b058da",
+   "t": "Their strength is a complete unknown..."
+  },
+  {
+   "i": 1049,
+   "src": "ce5cf9d54f27",
+   "t": "Can they become the dark horse?! "
+  },
+  {
+   "i": 1057,
+   "src": "e2c352bee0da",
+   "t": "Team {{exploration_club}}!"
+  }
+ ]
+}

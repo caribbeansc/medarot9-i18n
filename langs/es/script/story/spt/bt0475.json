@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0475.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 872,
+   "src": "deb8f21c4006",
+   "t": "¿{{robattle|cap}}? Ah, ¿quieres ajustarlo?"
+  },
+  {
+   "i": 875,
+   "src": "89d46c761ed4",
+   "t": "Te echo una mano."
+  }
+ ]
+}

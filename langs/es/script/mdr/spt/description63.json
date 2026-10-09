@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description63.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9f0c9c45b2be",
+   "t": "Combo"
+  },
+  {
+   "i": 11,
+   "src": "b94d8a3a9144",
+   "t": "<c:ffff00>Ataque<c> que encadena las <c:ffff00>técnicas<c> de varias <c:ffff00>{{part|pl}}<c>\nen una sola <c:ffff00>acción<c>.\nSe escogen las técnicas en el orden de ejecución.\nNo admite <c:ffff00>subhabilidades<c>, solo hay 1 <c:ffff00>{{target}}<c> y\ntodas las {{part|pl}} incluidas son <c:ffff00>{{part|pl}} ejecutoras<c>.\nLa <c:ffff00>{{prep}}<c> y el <c:ffff00>{{cooldown}}<c> se calculan con la suma\nde las técnicas y cambian según el tipo de ataque.\nUn combo que mezcla <c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c> los tiene\nmás rápidos que uno solo de {{fighting}} o de {{shooting}}."
+  }
+ ]
+}

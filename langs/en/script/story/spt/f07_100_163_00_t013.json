@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f07_100_163_00_t013.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "a84bf8f6a5ea",
+   "t": "Ah, geez."
+  },
+  {
+   "i": 1041,
+   "src": "248c874ad1dc",
+   "t": "I was planning to do whatever I wanted\non stage."
+  },
+  {
+   "i": 1052,
+   "src": "d4232de27015",
+   "t": "I'm such a softie, aren't I?"
+  },
+  {
+   "i": 1062,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1068,
+   "src": "cdf997c193e9",
+   "t": "Wait, {{mio}}, I have a favor to ask!"
+  },
+  {
+   "i": 1071,
+   "src": "e967b3d321fa",
+   "t": "You and I--"
+  }
+ ]
+}

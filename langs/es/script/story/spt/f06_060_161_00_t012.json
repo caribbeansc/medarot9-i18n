@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f06_060_161_00_t012.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "ca900b0c5a3a",
+   "t": "Vaya, también detecta la distancia."
+  },
+  {
+   "i": 1044,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1050,
+   "src": "79ac2f814f9c",
+   "t": "Esto es... increíble."
+  },
+  {
+   "i": 1062,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1071,
+   "src": "263adadf9c35",
+   "t": "Hmm."
+  },
+  {
+   "i": 1085,
+   "src": "129b5efbdde5",
+   "t": "¿Qué pasa, {{mio}}?"
+  },
+  {
+   "i": 1100,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1110,
+   "src": "b1f3f042bcd0",
+   "t": ", un poco más lejos-"
+  },
+  {
+   "i": 1113,
+   "src": "fd7b89fcaf00",
+   "t": "Sí, ve hasta la {{part_box}}."
+  },
+  {
+   "i": 1129,
+   "src": "be8f55742378",
+   "t": "Bien."
+  }
+ ]
+}

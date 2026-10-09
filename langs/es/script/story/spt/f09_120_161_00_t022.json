@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f09_120_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1037,
+   "src": "fca449fae047",
+   "t": "Pero ¿a dónde se habrá ido? La"
+  },
+  {
+   "i": 1040,
+   "src": "fcab84a16a78",
+   "t": "última vez lo vi rumbo al puerto..."
+  },
+  {
+   "i": 1048,
+   "src": "27f86b2836e4",
+   "t": "¿Alguien ha visto a "
+  },
+  {
+   "i": 1050,
+   "src": "0b10a89c7463",
+   "t": "-kun"
+  },
+  {
+   "i": 1053,
+   "src": "4b4900c200f0",
+   "t": "desde entonces?"
+  },
+  {
+   "i": 1060,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1069,
+   "src": "f795c6e78a54",
+   "t": "Yo sí."
+  }
+ ]
+}

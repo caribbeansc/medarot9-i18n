@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_07_100.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1123,
+   "src": "91f63375d230",
+   "t": "{{medachange}} usa la {{charge_gauge}}."
+  },
+  {
+   "i": 1128,
+   "src": "e9e96abac9cf",
+   "t": "Primero, llénala al 100%.  "
+  },
+  {
+   "i": 1136,
+   "src": "04b551043bbf",
+   "t": "Bien, hora de cargar, "
+  },
+  {
+   "i": 1138,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  }
+ ]
+}

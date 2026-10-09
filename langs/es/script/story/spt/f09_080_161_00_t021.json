@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f09_080_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "53ef48802c64",
+   "t": "¡Este {{medabot}}-san es de la entrada de\nla {{mine}}!"
+  },
+  {
+   "i": 1046,
+   "src": "be8f55742378",
+   "t": "Sí."
+  },
+  {
+   "i": 1051,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1060,
+   "src": "fca546c33deb",
+   "t": "Es horrible..."
+  },
+  {
+   "i": 1063,
+   "src": "632bfef3c25e",
+   "t": "Está hecho pedazos..."
+  },
+  {
+   "i": 1071,
+   "src": "cec81e20b170",
+   "t": "Pobrecito..."
+  }
+ ]
+}

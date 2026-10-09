@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_fa_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1038,
+   "src": "9b3f54c19a64",
+   "t": "At MEDA {{academy}}, {{club_activities}}"
+  },
+  {
+   "i": 1041,
+   "src": "adb247ea8dcf",
+   "t": "are left up to the students' own\ninitiative."
+  },
+  {
+   "i": 1049,
+   "src": "affe5d730758",
+   "t": "That's why there are no faculty\nadvisors."
+  },
+  {
+   "i": 1052,
+   "src": "6a5d2c708f4c",
+   "t": "Everything is entrusted to the clubs and\nthe {{student_council}}."
+  }
+ ]
+}

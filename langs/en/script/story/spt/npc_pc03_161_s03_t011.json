@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_pc03_161_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "9b7b440a9342",
+   "t": "A genius... I wonder if there's one\nsomewhere."
+  },
+  {
+   "i": 1038,
+   "src": "384721cb011d",
+   "t": "No, not just somewhere. To my school!"
+  },
+  {
+   "i": 1046,
+   "src": "d21a5b629f0e",
+   "t": "With so many elites gathered here,"
+  },
+  {
+   "i": 1049,
+   "src": "517bafc722cb",
+   "t": "there should be at least one, I think."
+  },
+  {
+   "i": 1057,
+   "src": "6290ba6c66d9",
+   "t": "The {{student_council_president}}... is out\nof the question."
+  },
+  {
+   "i": 1060,
+   "src": "a8ef23dfc3c6",
+   "t": "Maybe I'll ask the Medabot Research\nClub, hmm... "
+  }
+ ]
+}

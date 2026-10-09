@@ -1,0 +1,38 @@
+{
+ "rel": "mdr/tex/m9_m_disp.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "tahoma",
+  "cap": 6,
+  "fill": "auto",
+  "stroke": "auto",
+  "stroke_w": 1.0,
+  "pad": 0,
+  "crisp": 0.0
+ },
+ "items": [
+  {
+   "box": [
+    100,
+    11,
+    27,
+    10
+   ],
+   "text": "MONEY",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5
+  },
+  {
+   "box": [
+    119,
+    0,
+    9,
+    10
+   ],
+   "text": "Y",
+   "cap": 7,
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf"
+  }
+ ]
+}

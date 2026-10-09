@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f07_010_161_10_t051.spt",
+ "lines": [
+  {
+   "i": 1044,
+   "src": "827d71fd9f09",
+   "t": "Qué ajetreado se ve el {{vice_principal}}."
+  },
+  {
+   "i": 1052,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1058,
+   "src": "13231f283cff",
+   "t": "Debe estar abrumado\ncon ser el sustituto del {{principal}}."
+  },
+  {
+   "i": 1068,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1077,
+   "src": "8ba27378fdc7",
+   "t": "Por cierto--"
+  },
+  {
+   "i": 1088,
+   "src": "bfdf80b9d120",
+   "t": "¿En serio vas a lanzar la {{app}}?"
+  },
+  {
+   "i": 1098,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1107,
+   "src": "f648424a43e1",
+   "t": "Hablo en serio."
+  },
+  {
+   "i": 1114,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1123,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1130,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1139,
+   "src": "4c9d868f28f9",
+   "t": "Estará bien. Es como obtener"
+  },
+  {
+   "i": 1142,
+   "src": "e38b035e8828",
+   "t": "el visto bueno de la escuela."
+  },
+  {
+   "i": 1150,
+   "src": "be75997f3ad1",
+   "t": "No tiene sentido acumular"
+  },
+  {
+   "i": 1153,
+   "src": "2fb23f97ddea",
+   "t": "más Medarias de las que puedas usar."
+  },
+  {
+   "i": 1161,
+   "src": "11b189669b22",
+   "t": "En vez de eso, usar esto para subir los"
+  },
+  {
+   "i": 1164,
+   "src": "b5c392fd9c0e",
+   "t": "logros del club es mucho mejor a futuro."
+  },
+  {
+   "i": 1172,
+   "src": "e3fe94594344",
+   "t": "¿Subir los logros del {{club}}...?"
+  },
+  {
+   "i": 1184,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1190,
+   "src": "75c9f25cb614",
+   "t": "Se me acaba de ocurrir una gran idea."
+  }
+ ]
+}

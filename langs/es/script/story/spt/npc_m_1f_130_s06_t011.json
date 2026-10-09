@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_1f_130_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "1cb3321f8407",
+   "t": "El {{medafighter}} más fuerte..."
+  },
+  {
+   "i": 1038,
+   "src": "79be8cd99bd8",
+   "t": "Yo quiero ser el mejor atacante..."
+  },
+  {
+   "i": 1046,
+   "src": "a0b05ad12b87",
+   "t": "Dicen que quien persigue dos liebres "
+  },
+  {
+   "i": 1049,
+   "src": "18d334951b45",
+   "t": "no atrapa ninguna..."
+  },
+  {
+   "i": 1070,
+   "src": "708bb4cb270d",
+   "t": "Ah... ¿me estabas hablando?"
+  },
+  {
+   "i": 1073,
+   "src": "05fbe5477878",
+   "t": "Estaba distraído, no me di cuenta."
+  },
+  {
+   "i": 1081,
+   "src": "8138f70e7407",
+   "t": "Poder distraerme mientras corro"
+  },
+  {
+   "i": 1084,
+   "src": "8f2f510fa3c9",
+   "t": "es que de verdad he crecido. Jajaja."
+  }
+ ]
+}

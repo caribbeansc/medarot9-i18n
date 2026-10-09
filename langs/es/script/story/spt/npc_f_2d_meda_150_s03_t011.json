@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_2d_meda_150_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "bc0f987f256d",
+   "t": "Noir Katze"
+  },
+  {
+   "i": 1038,
+   "src": "0e76a46b0391",
+   "t": "Mi {{master}} es del Club de Ocultismo."
+  },
+  {
+   "i": 1046,
+   "src": "2eef50991856",
+   "t": "No entiendo mucho del ocultismo,"
+  },
+  {
+   "i": 1049,
+   "src": "fdae27dd672a",
+   "t": "pero con mi {{master}} es divertido."
+  }
+ ]
+}

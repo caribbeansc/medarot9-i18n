@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc05_161_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "800cb0070b6b",
+   "t": "Es imposible."
+  },
+  {
+   "i": 1038,
+   "src": "38e3f7c15442",
+   "t": "Esa {{medal}} estaba definitivamente rota."
+  },
+  {
+   "i": 1046,
+   "src": "cf6f7c559109",
+   "t": "Las {{medal|pl}} están llenas de misterios."
+  },
+  {
+   "i": 1049,
+   "src": "1f65a9bec0f0",
+   "t": "No lo entiendo..."
+  }
+ ]
+}

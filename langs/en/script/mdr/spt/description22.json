@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description22.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6e97919dfa4f",
+   "t": "Acting {{part|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "b210805a8613",
+   "t": "The <c:ffff00>{{part}}<c> used for a <c:ffff00>{{medabot}}<c>'s <c:ffff00>act<c>. It depends on the\ntype of act and isn't always just one. For an <c:ffff00>action<c>,\nit is the {{part}} that has that action.\n\nIf the {{acting_part}} is <c:ffff00>destroyed<c> before the act is\ncompleted (for example, during <c:ffff00>{{prep}}<c>), the act is\ninterrupted and <c:ffff00>{{cooldown}}<c> begins immediately,\nlasting a fixed time regardless of the action's\n<c:ffff00>{{cooldown}}<c> stat."
+  }
+ ]
+}

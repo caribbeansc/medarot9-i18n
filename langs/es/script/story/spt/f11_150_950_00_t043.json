@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_150_950_00_t043.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "454f06abf6f1",
+   "t": "Ahh, el pasillo está **."
+  },
+  {
+   "i": 1037,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1043,
+   "src": "a5bcf8ea95a3",
+   "t": "Pasen por la {{staff_room}}."
+  },
+  {
+   "i": 1046,
+   "src": "bec6c3a3d8ad",
+   "t": "Por aquí."
+  }
+ ]
+}

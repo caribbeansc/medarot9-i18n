@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free08_01_02_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "74da5da5595c",
+   "t": "{{mission|cap}} '{{medalia}} Gathering:\n{{old_harbor_town}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "0ede7f719412",
+   "t": "It's a hot spot for {{medalia}} hunting."
+  },
+  {
+   "i": 1049,
+   "src": "88c6c1f3b920",
+   "t": "I bet other clubs are wandering around,\nbut..."
+  },
+  {
+   "i": 1057,
+   "src": "1cef224c2a67",
+   "t": "There are still signals. Let's grab"
+  },
+  {
+   "i": 1060,
+   "src": "c9623abecdee",
+   "t": "one before they're all taken."
+  }
+ ]
+}

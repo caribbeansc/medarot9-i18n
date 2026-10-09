@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_1a_117_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "9a3edbed436c",
+   "t": "*Place two people studying together"
+  },
+  {
+   "i": 1138,
+   "src": "47ee163be707",
+   "t": "1st-Yr Girl A"
+  },
+  {
+   "i": 1149,
+   "src": "c808741ef2b8",
+   "t": "What?"
+  },
+  {
+   "i": 1153,
+   "src": "17c1027988c8",
+   "t": "-kun, studying with us too?"
+  },
+  {
+   "i": 1161,
+   "src": "74350899803b",
+   "t": "Huh, you're looking for someone?"
+  },
+  {
+   "i": 1164,
+   "src": "72afcf2fc4d0",
+   "t": "A hacker?!"
+  },
+  {
+   "i": 1172,
+   "src": "66a6decc170e",
+   "t": "Never heard of anyone like that.\nBesides,"
+  },
+  {
+   "i": 1175,
+   "src": "ff6927575df6",
+   "t": "do hackers really exist in real life?"
+  }
+ ]
+}

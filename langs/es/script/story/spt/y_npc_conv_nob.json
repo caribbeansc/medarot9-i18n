@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_conv_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "a8a3307fddf8",
+   "t": "{{store_clerk}}"
+  },
+  {
+   "i": 1035,
+   "src": "2f8178a599bc",
+   "t": "Lo siento."
+  },
+  {
+   "i": 1038,
+   "src": "18f54d271815",
+   "t": "Ahora estoy un poco ocupado..."
+  }
+ ]
+}

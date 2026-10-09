@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_65.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e900539718b1",
+   "t": "<c:00ff00>Técnica:<c>Antisubmarino\nAtaque cuerpo a cuerpo\nque causa gran {{damage}} si las\n{{legs}} del {{opponent}} son de\ntipo buceo.\nTiene {{effect}} de\npenetración."
+  }
+ ]
+}

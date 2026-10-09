@@ -1,0 +1,45 @@
+{
+ "file": "mdr/spt/ecdk_menu.spt",
+ "lines": [
+  {
+   "i": 1453,
+   "src": "fda8ad2f412b",
+   "t": "Failed to load."
+  },
+  {
+   "i": 1508,
+   "src": "ce44d314d555",
+   "t": "Could not load additional data."
+  },
+  {
+   "i": 1580,
+   "src": "f31ba6885938",
+   "t": "From where you saved"
+  },
+  {
+   "i": 1583,
+   "src": "df9ac80c9b35",
+   "t": "Resume."
+  },
+  {
+   "i": 1618,
+   "src": "ad4ecaea2490",
+   "t": "SD was removed."
+  },
+  {
+   "i": 1687,
+   "src": "59148f798463",
+   "t": "Create new additional data."
+  },
+  {
+   "i": 1722,
+   "src": "fe40f99de9f0",
+   "t": "The SD Card could not be recognized."
+  },
+  {
+   "i": 1763,
+   "src": "fe40f99de9f0",
+   "t": "The SD Card could not be recognized."
+  }
+ ]
+}

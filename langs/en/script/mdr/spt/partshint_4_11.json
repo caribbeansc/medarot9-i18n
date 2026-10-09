@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_11.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "34074ba11cb7",
+   "t": "<c:00ff00>Leg Trait:<c> {{protect_plus}}\nWhen using a Protect\naction, {{part}} {{prep}} stat +10."
+  }
+ ]
+}

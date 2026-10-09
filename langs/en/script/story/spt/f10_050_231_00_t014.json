@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f10_050_231_00_t014.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "494a45c95e1d",
+   "t": "That's why I told you to quit~"
+  },
+  {
+   "i": 1038,
+   "src": "51a87729803b",
+   "t": "{{robo|cap}}~!"
+  },
+  {
+   "i": 1046,
+   "src": "53131717158e",
+   "t": "First time I've heard that, {{robo}}~!"
+  }
+ ]
+}

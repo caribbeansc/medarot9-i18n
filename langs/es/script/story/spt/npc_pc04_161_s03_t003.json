@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc04_161_s03_t003.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "5d5636e392f1",
+   "t": "¿Qué tal? ¿Hay alguna "
+  },
+  {
+   "i": 1041,
+   "src": "fe706d9bf8d7",
+   "t": "área de {{explore}} que te interese?"
+  },
+  {
+   "i": 1049,
+   "src": "9be9fe5e40c7",
+   "t": "Si es así, toca la pantalla"
+  },
+  {
+   "i": 1052,
+   "src": "5728cf00486f",
+   "t": "y elige la {{mission}} que quieras aceptar."
+  }
+ ]
+}

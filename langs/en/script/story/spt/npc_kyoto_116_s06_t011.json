@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/npc_kyoto_116_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1035,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1043,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1051,
+   "src": "b7e61f14bc60",
+   "t": "......Hm?"
+  },
+  {
+   "i": 1062,
+   "src": "45acbe28e04b",
+   "t": "Hi there, you're "
+  },
+  {
+   "i": 1064,
+   "src": "6ad500e18e60",
+   "t": "-kun, right?"
+  },
+  {
+   "i": 1067,
+   "src": "41b72c5f3d9b",
+   "t": "Hello. Hot every day, isn't it?"
+  },
+  {
+   "i": 1075,
+   "src": "f5f0735ff4d3",
+   "t": "Me? Shopping. A ship came in yesterday\nso"
+  },
+  {
+   "i": 1078,
+   "src": "1b71a668d718",
+   "t": "I figured lots of things arrived, and\nbingo!"
+  },
+  {
+   "i": 1086,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1094,
+   "src": "12b7bf94d8ad",
+   "t": "But I'm in a pickle."
+  },
+  {
+   "i": 1097,
+   "src": "2ffa382b50ff",
+   "t": "There's so much it dazzles me..."
+  },
+  {
+   "i": 1105,
+   "src": "191877b4edfa",
+   "t": "Which one should I buy? Hmm..."
+  },
+  {
+   "i": 1108,
+   "src": "ee6fc6192b9c",
+   "t": "I wish someone would decide for me,\nhmm..."
+  }
+ ]
+}

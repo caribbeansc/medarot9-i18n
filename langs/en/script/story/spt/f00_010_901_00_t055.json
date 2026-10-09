@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f00_010_901_00_t055.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1045,
+   "src": "4c71b67e0a39",
+   "t": "What about you?"
+  },
+  {
+   "i": 1056,
+   "src": "5ed4ea0d1501",
+   "t": "You seem to have Robattled that\n{{medabot}} earlier,"
+  },
+  {
+   "i": 1059,
+   "src": "4c5bedc5c23c",
+   "t": "but that {{medabot}}, is it yours--"
+  },
+  {
+   "i": 1074,
+   "src": "c1b4e750f1d2",
+   "t": "N-no, it's not like that!"
+  },
+  {
+   "i": 1082,
+   "src": "329bbf8ad8f4",
+   "t": "I was just passing by, and that {{medabot}},"
+  },
+  {
+   "i": 1085,
+   "src": "8ff4944db379",
+   "t": "I'd never met it before in my life!"
+  },
+  {
+   "i": 1090,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1096,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1107,
+   "src": "ef86350d793b",
+   "t": "I see."
+  }
+ ]
+}

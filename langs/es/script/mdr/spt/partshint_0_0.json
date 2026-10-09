@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_0.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8190fc41aaf8",
+   "t": "<c:00ff00>Estilo robobatalla:<c>{{power_style}}\n{{power|cap}} +15\nPor cada 20 de {{damage}}\ninfligido la {{charge_gauge}}\nsube 1%"
+  }
+ ]
+}

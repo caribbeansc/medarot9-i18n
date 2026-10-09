@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1e_meda_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1038,
+   "src": "a9b981cde5ca",
+   "t": "What's wrong with master?"
+  },
+  {
+   "i": 1041,
+   "src": "c53be9aa992a",
+   "t": "Did you drink old oil or something?"
+  }
+ ]
+}

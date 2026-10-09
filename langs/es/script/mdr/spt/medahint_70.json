@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_70.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "32892a7893a0",
+   "t": "{{medabot}} inspirado en un\ntorero que lidia con gracia\na un toro bravo.\n \nEsquiva con la capa roja\ny da una estocada veloz\ncon su sable. Su {{head_part_slot}}\ntiene {{perfect_guard}}:\n{{defend}} total."
+  }
+ ]
+}

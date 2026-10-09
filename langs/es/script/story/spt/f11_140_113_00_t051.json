@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/f11_140_113_00_t051.spt",
+ "lines": [
+  {
+   "i": 1018,
+   "src": "546f881a9c9d",
+   "t": "*{{victory|cap}} en el tercer combate"
+  },
+  {
+   "i": 1029,
+   "src": "2fb791d1c0b6",
+   "t": "{{ginsei}}"
+  },
+  {
+   "i": 1040,
+   "src": "528efdf6afe3",
+   "t": "¡Lo logré!"
+  },
+  {
+   "i": 1048,
+   "src": "8db29e30a8b2",
+   "t": "¿Estás bien, Sector?"
+  },
+  {
+   "i": 1059,
+   "src": "96f4ebfd480a",
+   "t": "¡Todo bien!"
+  },
+  {
+   "i": 1075,
+   "src": "408d12bc1242",
+   "t": "*Pausa"
+  },
+  {
+   "i": 1094,
+   "src": "4b0fa025d89b",
+   "t": "Eh, será que..."
+  },
+  {
+   "i": 1099,
+   "src": "07b521d1e88c",
+   "t": "{{chiffon}}"
+  },
+  {
+   "i": 1108,
+   "src": "eb3c6e741de4",
+   "t": "¿Terminó?"
+  },
+  {
+   "i": 1119,
+   "src": "bd047f58ed5c",
+   "t": "...Uf."
+  },
+  {
+   "i": 1124,
+   "src": "6c9a6cb734bc",
+   "t": "{{tart}}"
+  },
+  {
+   "i": 1133,
+   "src": "bdf017420547",
+   "t": "¡Bien!"
+  },
+  {
+   "i": 1140,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1149,
+   "src": "2a97c534ae01",
+   "t": "Bien, este lugar está listo."
+  },
+  {
+   "i": 1156,
+   "src": "0517113512bd",
+   "t": "{{baum}}"
+  },
+  {
+   "i": 1162,
+   "src": "5a81333fd4ef",
+   "t": "¿Qué hacemos ahora?"
+  },
+  {
+   "i": 1165,
+   "src": "ebd341d2e65e",
+   "t": "Vamos a revisar la entrada trasera..."
+  },
+  {
+   "i": 1181,
+   "src": "e2c3506a458b",
+   "t": "*Temblores y demás"
+  },
+  {
+   "i": 1200,
+   "src": "608e43e02722",
+   "t": "¿¡Eh!?"
+  },
+  {
+   "i": 1205,
+   "src": "6c9a6cb734bc",
+   "t": "{{tart}}"
+  },
+  {
+   "i": 1214,
+   "src": "2ee8b394f921",
+   "t": "¡¡Este temblor...!!"
+  },
+  {
+   "i": 1230,
+   "src": "cb7f2b811826",
+   "t": "*Así renace el {{medal_eater}}"
+  },
+  {
+   "i": 1233,
+   "src": "d507aea1c70b",
+   "t": "*Por ahora hasta aquí / apurado, pero"
+  }
+ ]
+}

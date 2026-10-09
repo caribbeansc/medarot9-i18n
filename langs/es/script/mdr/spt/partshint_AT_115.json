@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_115.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "da3299a1767c",
+   "t": "<c:00ff00>Técnica:<c>Reparación Total\nRecupera por completo el\n{{damage}} de una {{part}} de un\n{{medabot}} {{ally_battle_term}}."
+  }
+ ]
+}

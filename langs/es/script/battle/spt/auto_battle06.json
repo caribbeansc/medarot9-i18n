@@ -1,0 +1,70 @@
+{
+ "file": "battle/spt/auto_battle06.spt",
+ "lines": [
+  {
+   "i": 1047,
+   "src": "b7c9ff1d73f6",
+   "t": "{{taisan}}"
+  },
+  {
+   "i": 1050,
+   "src": "da2ab879f668",
+   "t": "Rubberobo"
+  },
+  {
+   "i": 1053,
+   "src": "3b51bd24bf63",
+   "t": "{{trinidad}}"
+  },
+  {
+   "i": 1189,
+   "src": "0b3158b4882d",
+   "t": "¡Es el turno del Prototipo 2 que\nClairsa modificó de forma ilegal!"
+  },
+  {
+   "i": 1263,
+   "src": "aff4dca37d6b",
+   "t": "¡Nosotros también vamos, {{robo}}!"
+  },
+  {
+   "i": 1387,
+   "src": "952319443dc5",
+   "t": "¡No importa que se junten los débiles!"
+  },
+  {
+   "i": 1527,
+   "src": "e153fbfb28fc",
+   "t": "¡Si lo rodeamos todos, no da miedo, {{robo}}!"
+  },
+  {
+   "i": 1600,
+   "src": "d5b2eb3a52ad",
+   "t": "¿Qué es eso?\n¿Se supone que es un ataque?"
+  },
+  {
+   "i": 1672,
+   "src": "d9ecb63f8920",
+   "t": "¡Bah, a ustedes los liquido en un segundo!"
+  },
+  {
+   "i": 1955,
+   "src": "4a36497a8445",
+   "t": "¡¡Roboooooo!!"
+  },
+  {
+   "i": 2086,
+   "src": "29b41380829f",
+   "t": "¡¡Robobobooooo!!"
+  },
+  {
+   "i": 2229,
+   "src": "0f5e1584990b",
+   "t": "¡¡A-aaaaaaay!!"
+  },
+  {
+   "i": 2244,
+   "src": "0f53929987a1",
+   "t": "¡E-es increíble, robo!\n¡¡Qué facilidad, robo!!"
+  }
+ ]
+}

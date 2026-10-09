@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/f05_125_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1040,
+   "src": "cf78bd892f21",
+   "t": "Oye "
+  },
+  {
+   "i": 1042,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1053,
+   "src": "80b98c8d2ca4",
+   "t": "¿...Mmm?"
+  },
+  {
+   "i": 1066,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1082,
+   "src": "2a136eb7f244",
+   "t": "Mejor vete a casa y descansa hoy."
+  },
+  {
+   "i": 1085,
+   "src": "38da6c96c01c",
+   "t": "No podrás concentrarte en nada."
+  },
+  {
+   "i": 1093,
+   "src": "f07eb8cb62ac",
+   "t": "No podré relajarme aunque vaya a casa."
+  },
+  {
+   "i": 1098,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1104,
+   "src": "ae0426017b1f",
+   "t": "Aun así, es mejor que"
+  },
+  {
+   "i": 1107,
+   "src": "519cb030b797",
+   "t": "quedarte aquí suspirando todo el día."
+  },
+  {
+   "i": 1115,
+   "src": "f095d4123503",
+   "t": "Así que pensaba salir a explorar--"
+  },
+  {
+   "i": 1123,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1132,
+   "src": "3e88a23af9dd",
+   "t": "¡Nada de excursiones! Ni loca voy"
+  },
+  {
+   "i": 1135,
+   "src": "cd8dc340df2c",
+   "t": "a aguantar tus suspiros todo el día."
+  },
+  {
+   "i": 1146,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1151,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1157,
+   "src": "a4ff10f767a5",
+   "t": "Lo diré otra vez."
+  },
+  {
+   "i": 1160,
+   "src": "aa34d1ed1465",
+   "t": "Vete a casa y descansa hoy."
+  },
+  {
+   "i": 1168,
+   "src": "b40d0e38c4fa",
+   "t": "¿Entendido?"
+  },
+  {
+   "i": 1176,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1179,
+   "src": "b59d97d125b8",
+   "t": "Entendido."
+  }
+ ]
+}

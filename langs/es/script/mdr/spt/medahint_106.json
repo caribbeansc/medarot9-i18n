@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_106.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7a52d4220cfa",
+   "t": "{{medabot}} {{type}} lobo que\nlucha envuelto en el frío\nde la nieve.\n \nLas garras heladas de sus\nbrazos detienen al\n{{target}}; su aliento frío\nacelera la disipación de\ncalor de las {{part|pl}}."
+  }
+ ]
+}

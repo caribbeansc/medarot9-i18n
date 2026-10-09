@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f01_000_110_00_t011.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "b8e0e7770f03",
+   "t": "¡Ya lo decidí!"
+  },
+  {
+   "i": 1049,
+   "src": "1ecab5425ff7",
+   "t": "Tu nombre es "
+  },
+  {
+   "i": 1051,
+   "src": "4494a75d08e8",
+   "t": "."
+  },
+  {
+   "i": 1059,
+   "src": "bf4aea038cde",
+   "t": "Mucho gusto, "
+  },
+  {
+   "i": 1061,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1086,
+   "src": "fd7977ac5b9b",
+   "t": "? ¿Es mi nombre?  "
+  },
+  {
+   "i": 1093,
+   "src": "6a8ecc21f982",
+   "t": "? ¿Ese es mi nombre?"
+  },
+  {
+   "i": 1106,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1111,
+   "src": "ec6893a4bbc0",
+   "t": "¡Qué nombre tan raro!"
+  },
+  {
+   "i": 1119,
+   "src": "0109b264e432",
+   "t": "¡¿Qué dijiste?!"
+  },
+  {
+   "i": 1124,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1130,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1137,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1146,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1153,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1162,
+   "src": "41fa161c13e7",
+   "t": "Jaja..."
+  },
+  {
+   "i": 1172,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1178,
+   "src": "b5a3d9b1ced9",
+   "t": "Dale el {{student_id}}."
+  },
+  {
+   "i": 1192,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1198,
+   "src": "9e043ff5f115",
+   "t": "¿Eh?...¡ah!"
+  },
+  {
+   "i": 1201,
+   "src": "3b0f6e15b116",
+   "t": "¡Enseguida!"
+  }
+ ]
+}

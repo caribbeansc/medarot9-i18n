@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc04_161_s03_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "8283947dc45a",
+   "t": "Tired?"
+  },
+  {
+   "i": 1046,
+   "src": "42ee2acea771",
+   "t": "A lot happened today. I think "
+  },
+  {
+   "i": 1049,
+   "src": "ac3b693ced00",
+   "t": "I'll go back to the dorm and rest."
+  },
+  {
+   "i": 1057,
+   "src": "7d86f4d76436",
+   "t": "If you still want to keep at it,\nof course I'll join you."
+  }
+ ]
+}

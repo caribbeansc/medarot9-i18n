@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_39.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "b9b1e35a6704",
+   "t": "<c:00ff00>{{mf}}:<c>{{bind}}\nLos ataques cuerpo a\ncuerpo de todo tu equipo\nralentizan la acción del\nrival.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

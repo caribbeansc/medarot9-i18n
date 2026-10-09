@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f02_120_210_10_t001.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "41be7077a438",
+   "t": "What did {{mio}} say?"
+  },
+  {
+   "i": 1046,
+   "src": "7ace89df9335",
+   "t": "Huh? She just said to find you..."
+  },
+  {
+   "i": 1060,
+   "src": "3b00c50c8670",
+   "t": "What did Mio say about"
+  },
+  {
+   "i": 1063,
+   "src": "ded5044bf83f",
+   "t": "why I disappeared?"
+  },
+  {
+   "i": 1074,
+   "src": "706af967adc9",
+   "t": "Hmm, let me think..."
+  },
+  {
+   "i": 1082,
+   "src": "b300e64f3bcc",
+   "t": "She said she thought maybe someone"
+  },
+  {
+   "i": 1085,
+   "src": "8c6820d5c805",
+   "t": "had taken you away or something."
+  },
+  {
+   "i": 1099,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

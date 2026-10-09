@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc02_000_s02_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "06fe012b7302",
+   "t": "W-what?"
+  },
+  {
+   "i": 1041,
+   "src": "ee62eaa52436",
+   "t": "Anyway, I don't matter to you at all."
+  },
+  {
+   "i": 1049,
+   "src": "784956ade281",
+   "t": "Hurry up and find "
+  },
+  {
+   "i": 1051,
+   "src": "89bb9a7ab885",
+   "t": ", find it, okay!"
+  }
+ ]
+}

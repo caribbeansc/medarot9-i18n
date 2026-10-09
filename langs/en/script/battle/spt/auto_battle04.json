@@ -1,0 +1,110 @@
+{
+ "file": "battle/spt/auto_battle04.spt",
+ "lines": [
+  {
+   "i": 1084,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1087,
+   "src": "630d17ded0da",
+   "t": "{{erica}}"
+  },
+  {
+   "i": 1090,
+   "src": "1493cf70bd2b",
+   "t": "{{rianda}}"
+  },
+  {
+   "i": 1255,
+   "src": "3e7e277d11e1",
+   "t": "Fennel! It's your turn!"
+  },
+  {
+   "i": 1261,
+   "src": "de3f5b67f493",
+   "t": "Paprika! It's your turn!"
+  },
+  {
+   "i": 1326,
+   "src": "dd4bac05f29b",
+   "t": ", transfer!"
+  },
+  {
+   "i": 1376,
+   "src": "d0edc259ac91",
+   "t": "Here we go! {{greed}}!\nTransfer!"
+  },
+  {
+   "i": 1517,
+   "src": "8a6e31ff5abc",
+   "t": "\nUse {{gatling}}!"
+  },
+  {
+   "i": 1524,
+   "src": "c406b1117d61",
+   "t": "\nUse {{hammer}}!"
+  },
+  {
+   "i": 1678,
+   "src": "aeb685c9c0cc",
+   "t": "Let's go!"
+  },
+  {
+   "i": 1790,
+   "src": "65b66f1eb351",
+   "t": "Not bad.\nBut how about this!"
+  },
+  {
+   "i": 2020,
+   "src": "c57b3e447b94",
+   "t": "Ugh!\nIn one hit...?"
+  },
+  {
+   "i": 2122,
+   "src": "7f4994c77c5a",
+   "t": "What was\nthat move just now..."
+  },
+  {
+   "i": 2153,
+   "src": "33ef5d842844",
+   "t": "It's <c:ff00ff>{{medaforce}}<c>!"
+  },
+  {
+   "i": 2181,
+   "src": "4611fd8416fc",
+   "t": "<c:ff00ff>{{medaforce}}<c>..."
+  },
+  {
+   "i": 2209,
+   "src": "a5b3206e2e98",
+   "t": "E-excuse me.\nPlease help me!"
+  },
+  {
+   "i": 2237,
+   "src": "48a643192ee3",
+   "t": "Huh?\nYou're Elda's..."
+  },
+  {
+   "i": 2262,
+   "src": "5089c100a882",
+   "t": "Elda...\nThose weird people in black..."
+  },
+  {
+   "i": 2290,
+   "src": "62143b283903",
+   "t": "In black...\nCould it be the {{rubberobo_gang}}?!"
+  },
+  {
+   "i": 2318,
+   "src": "6e3d32122dbb",
+   "t": "Looks like this is a situation\nI can't ignore."
+  },
+  {
+   "i": 2327,
+   "src": "a63335bf091e",
+   "t": "We'll have to put this {{match}}\non hold."
+  }
+ ]
+}

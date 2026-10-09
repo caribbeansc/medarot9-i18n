@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f00_010_901_00_t034.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "8cdf46e8903e",
+   "t": "What are you going to do, {{robo}}~? Is it"
+  },
+  {
+   "i": 1038,
+   "src": "4276b0f34b8d",
+   "t": "okay for a {{medabot}} to do something like\nthat, {{robo}}?"
+  },
+  {
+   "i": 1067,
+   "src": "f778f96374e8",
+   "t": "Who knows."
+  },
+  {
+   "i": 1073,
+   "src": "c41e0fb39015",
+   "t": "I know not."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_4.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "55ea144e92f1",
+   "t": "<c:00ff00>{{mf}}:<c> Low {{mobility}}\nLowers the {{mobility}} of the\nwhole opposing team."
+  }
+ ]
+}

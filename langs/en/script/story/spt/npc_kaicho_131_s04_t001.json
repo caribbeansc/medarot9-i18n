@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_kaicho_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "ef07bb3ab1a9",
+   "t": "Which {{club}} are you in?"
+  },
+  {
+   "i": 1046,
+   "src": "f94325d171e9",
+   "t": "T-the {{exploration_club}}."
+  },
+  {
+   "i": 1051,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1060,
+   "src": "fb7051001d95",
+   "t": "Explora--"
+  },
+  {
+   "i": 1081,
+   "src": "fdd02ee1a001",
+   "t": "So you're the special-admission student."
+  },
+  {
+   "i": 1092,
+   "src": "f74c7ae7f428",
+   "t": "Please stop calling me that already~."
+  },
+  {
+   "i": 1097,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1106,
+   "src": "519cee7ca63e",
+   "t": "What do you want?"
+  },
+  {
+   "i": 1117,
+   "src": "5fca4b48de2a",
+   "t": "Um..."
+  },
+  {
+   "i": 1122,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1131,
+   "src": "1c53f4f9abe6",
+   "t": "If you have nothing to say, don't talk to\nme."
+  },
+  {
+   "i": 1134,
+   "src": "43de761de912",
+   "t": "I'm busy."
+  }
+ ]
+}

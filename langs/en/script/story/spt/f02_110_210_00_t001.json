@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f02_110_210_00_t001.spt",
+ "lines": [
+  {
+   "i": 1055,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1071,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1092,
+   "src": "d494dc761e05",
+   "t": "......"
+  },
+  {
+   "i": 1102,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1108,
+   "src": "d668a707c8a5",
+   "t": "What is it?"
+  },
+  {
+   "i": 1132,
+   "src": "a028f94f264f",
+   "t": "Your {{part|pl}} are awesome!"
+  },
+  {
+   "i": 1148,
+   "src": "14c4c8c0c548",
+   "t": "Right?"
+  },
+  {
+   "i": 1155,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1161,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1179,
+   "src": "ef86350d793b",
+   "t": "I see."
+  },
+  {
+   "i": 1182,
+   "src": "2964678dc968",
+   "t": "I could ask you two... that's an option."
+  },
+  {
+   "i": 1193,
+   "src": "f5607e45a83a",
+   "t": "Me and "
+  },
+  {
+   "i": 1195,
+   "src": "1766f366f5e9",
+   "t": "?"
+  },
+  {
+   "i": 1198,
+   "src": "7a65662aa7b0",
+   "t": "What is it?"
+  },
+  {
+   "i": 1210,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1216,
+   "src": "e8868fef8257",
+   "t": "We need a real combat test."
+  },
+  {
+   "i": 1224,
+   "src": "5d5d56b7e717",
+   "t": "You and my partner seem like a good\nmatch."
+  },
+  {
+   "i": 1227,
+   "src": "4b9d4ec03e19",
+   "t": "I'm sure it'll be a great fight."
+  },
+  {
+   "i": 1235,
+   "src": "05755f0b0250",
+   "t": "Can you be my {{robattle}} {{opponent}}?"
+  },
+  {
+   "i": 1243,
+   "src": "e75f9f0127d9",
+   "t": "That's--"
+  },
+  {
+   "i": 1270,
+   "src": "aa293255c635",
+   "t": "I'll do it!"
+  },
+  {
+   "i": 1276,
+   "src": "4284b2971675",
+   "t": "You got it!"
+  },
+  {
+   "i": 1284,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1290,
+   "src": "dc9fa7ccf6d5",
+   "t": "That's a big help. When you're ready,"
+  },
+  {
+   "i": 1293,
+   "src": "252414085ba6",
+   "t": "give me the signal with the Y Button."
+  },
+  {
+   "i": 1301,
+   "src": "7a2adc8ab131",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1309,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1315,
+   "src": "41ac1e913572",
+   "t": "Here, the \"Let's {{robattle}}!\" signal is Y."
+  },
+  {
+   "i": 1318,
+   "src": "3a76cd200662",
+   "t": "When you're ready, talk to me with Y."
+  }
+ ]
+}

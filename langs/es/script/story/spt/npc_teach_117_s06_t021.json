@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_117_s06_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "837a91736028",
+   "t": "Estaba ensayando mi clase."
+  },
+  {
+   "i": 1041,
+   "src": "9ceba082fde5",
+   "t": "Quería hacerla más clara."
+  },
+  {
+   "i": 1049,
+   "src": "4ffec8991c54",
+   "t": "Pero me da vergüenza que me oigan."
+  },
+  {
+   "i": 1052,
+   "src": "24322b43959b",
+   "t": "¡Y eso que ensayo para eso mismo!"
+  }
+ ]
+}

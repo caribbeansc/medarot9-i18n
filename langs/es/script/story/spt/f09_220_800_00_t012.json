@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f09_220_800_00_t012.spt",
+ "lines": [
+  {
+   "i": 1015,
+   "src": "ac696f578b33",
+   "t": "¡No hay!"
+  },
+  {
+   "i": 1023,
+   "src": "7665f3fb1ab9",
+   "t": "Espera, esto... esta sensación..."
+  },
+  {
+   "i": 1031,
+   "src": "f2e2d8523742",
+   "t": "¡No es humano!"
+  },
+  {
+   "i": 1034,
+   "src": "d0c7e40c1500",
+   "t": "Un muñeco, igual que-"
+  },
+  {
+   "i": 1042,
+   "src": "a36a38bf2185",
+   "t": "¡Es un robot!"
+  }
+ ]
+}

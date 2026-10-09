@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_teach_meda_117_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f36baaf6bab0",
+   "t": "{{samurai}}"
+  },
+  {
+   "i": 1038,
+   "src": "f546482b9d08",
+   "t": "Hasta la maestra se esfuerza en secreto."
+  },
+  {
+   "i": 1041,
+   "src": "2ece713daf57",
+   "t": "Esfuércense ustedes también."
+  }
+ ]
+}

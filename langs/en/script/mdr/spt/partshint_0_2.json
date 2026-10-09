@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "470cea56e9ed",
+   "t": "<c:00ff00>Robattle Style:<c> {{sniper}}\n{{power}} +5 {{success}} +12\n{{shooting}} +10\nWhen you {{destroy}} 1 {{part}},\n{{charge_gauge}} +10%"
+  }
+ ]
+}

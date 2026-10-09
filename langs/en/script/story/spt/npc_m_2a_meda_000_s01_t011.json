@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2a_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e21dfec68ed5",
+   "t": "{{pretty_prime}}"
+  },
+  {
+   "i": 1038,
+   "src": "3cfabb91d4ed",
+   "t": "I wish I had {{radar_sight}}."
+  },
+  {
+   "i": 1041,
+   "src": "2b34a85f14ce",
+   "t": "Then I wouldn't get lost."
+  }
+ ]
+}

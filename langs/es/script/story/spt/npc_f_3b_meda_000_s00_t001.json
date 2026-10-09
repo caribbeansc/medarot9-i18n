@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_3b_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "48d28919cf40",
+   "t": "{{lovelydog}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

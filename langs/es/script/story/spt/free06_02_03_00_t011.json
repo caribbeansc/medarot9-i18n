@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free06_02_03_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "5fcaedc4bc2f",
+   "t": "{{mission|cap}} 'Recolección de {{medalia|pl}}:\n{{mountain_stream|cap}}'..."
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "5e1aec939f30",
+   "t": "Al oeste del {{misty_deep_forest}}"
+  },
+  {
+   "i": 1046,
+   "src": "eb11139b290d",
+   "t": "hay un arroyo con señal fuerte."
+  },
+  {
+   "i": 1053,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1059,
+   "src": "1d958470756d",
+   "t": "Las {{medalia|pl}} se hallaban junto al {{river}}."
+  },
+  {
+   "i": 1062,
+   "src": "9eeb2f1399f8",
+   "t": "No sería raro que aún queden."
+  }
+ ]
+}

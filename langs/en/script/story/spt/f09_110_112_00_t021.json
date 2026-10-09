@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f09_110_112_00_t021.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "dcf10fdcddf3",
+   "t": "Please tell me, Vice-Principal."
+  },
+  {
+   "i": 1004,
+   "src": "41e5be6fbe25",
+   "t": "Why did you give permission to use the\n{{app}}?"
+  },
+  {
+   "i": 1012,
+   "src": "e40f1aa94de7",
+   "t": "Even though the {{principal|cap}} banned it,"
+  },
+  {
+   "i": 1015,
+   "src": "29fb902a718d",
+   "t": "you told us to release it."
+  },
+  {
+   "i": 1023,
+   "src": "493b0021fc8a",
+   "t": "Maybe you knew"
+  },
+  {
+   "i": 1026,
+   "src": "6fabddf10375",
+   "t": "they were looking for the detection\n{{app}}--"
+  },
+  {
+   "i": 1034,
+   "src": "381e61bc322a",
+   "t": "No, did you suggest releasing it"
+  },
+  {
+   "i": 1037,
+   "src": "c036983ba1f8",
+   "t": "so that they would use it?"
+  },
+  {
+   "i": 1055,
+   "src": "4d255cbaa831",
+   "t": "Please tell me."
+  },
+  {
+   "i": 1058,
+   "src": "6a00a1aaa01a",
+   "t": "What is happening on this island right\nnow?"
+  },
+  {
+   "i": 1066,
+   "src": "d8b5cde19efc",
+   "t": "The {{rubberobo_gang}}-- you and the\n{{conglomerate}} people,"
+  },
+  {
+   "i": 1069,
+   "src": "35ceda471eed",
+   "t": "what are you trying to do by opening\nthe mine?"
+  },
+  {
+   "i": 1077,
+   "src": "65162bebe664",
+   "t": "Does the {{principal|cap}} know\nabout all this?"
+  },
+  {
+   "i": 1085,
+   "src": "b32b5209ad75",
+   "t": "What is the {{principal|cap}} doing right now?"
+  },
+  {
+   "i": 1088,
+   "src": "9af757b6bc55",
+   "t": "They say he's ill, but really--"
+  }
+ ]
+}

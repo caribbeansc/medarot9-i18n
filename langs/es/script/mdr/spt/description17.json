@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description17.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a3482ce2d1c6",
+   "t": "{{leader|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "748e6b870832",
+   "t": "<c:ffff00>{{medabot}}<c> elegido en cada <c:ffff00>{{robattle}}<c> como jefe del\nequipo.\nSi el {{leader}} queda <c:ffff00>{{knocked_out}}<c>, el equipo pierde\nsin importar el {{condition}} de los demás {{medabot|pl}}.\n\nEl {{leader}} tiene privilegios exclusivos: se activa el\n<c:ffff00>{{leader_effect}}<c> de su <c:ffff00>{{medal}}<c> y, con la <c:ffff00>{{part}}<c> EX\nconfigurada de antemano, puede cambiar {{part|pl}}\ndurante la {{robattle}} (<c:ffff00>{{trans_part}}<c>)."
+  }
+ ]
+}

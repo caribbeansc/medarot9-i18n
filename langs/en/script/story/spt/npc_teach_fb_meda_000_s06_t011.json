@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_teach_fb_meda_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fe562aa37220",
+   "t": "{{heal_angel}}"
+  },
+  {
+   "i": 1038,
+   "src": "2280ad2bd9ae",
+   "t": "Oh, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "925e3225bf70",
+   "t": "How are you feeling?"
+  },
+  {
+   "i": 1051,
+   "src": "cbd56d531f6f",
+   "t": "If you go in the sea, wash off properly\nafterward."
+  },
+  {
+   "i": 1054,
+   "src": "219307f99117",
+   "t": "Even if you're waterproof, sand and salt\nare bad for you."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free08_01_02_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "3bf4f8de71b8",
+   "t": "{{mission|cap}} '{{medalia}} Gathering: Old Harbor\nTown' started!"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "2a19ac46d703",
+   "t": "{{old_harbor_town}} is far past the Cart\nStation."
+  },
+  {
+   "i": 1049,
+   "src": "61185ce7f55c",
+   "t": "Let's head west from the {{mine}}\nEntrance."
+  }
+ ]
+}

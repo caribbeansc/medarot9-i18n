@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f09_080_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "2f1c15942b36",
+   "t": "Can it be fixed?"
+  },
+  {
+   "i": 1054,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1063,
+   "src": "e4dfc5b85ae6",
+   "t": "Humans can't repair a {{medal}}."
+  },
+  {
+   "i": 1074,
+   "src": "b19436a65093",
+   "t": "I see."
+  },
+  {
+   "i": 1077,
+   "src": "84992e1cfd39",
+   "t": "That's right..."
+  },
+  {
+   "i": 1085,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1094,
+   "src": "95eb2affbf22",
+   "t": "But if it isn't completely broken..."
+  }
+ ]
+}

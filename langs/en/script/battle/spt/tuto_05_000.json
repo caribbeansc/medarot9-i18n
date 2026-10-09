@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_05_000.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1123,
+   "src": "a90f66e2d41b",
+   "t": "To use {{medaforce}}, the {{charge_gauge}}\nmust be at 100%.         "
+  },
+  {
+   "i": 1131,
+   "src": "04b551043bbf",
+   "t": "Okay, let's charge,   "
+  },
+  {
+   "i": 1133,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  }
+ ]
+}

@@ -1,0 +1,392 @@
+{
+ "rel": "mdr/tex/cp1_win_lose.ctpk",
+ "base": "jp",
+ "styles": {
+  "ban": {
+   "erase": "none",
+   "font": "sf-heavy-italic",
+   "italic_skew": 0.14,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "tracking": 2.5
+  },
+  "oro": {
+   "erase": "none",
+   "font": "sf-rounded-heavy",
+   "pad": 0,
+   "cap": 12,
+   "min_scale_x": 0.8,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FBD42A"
+     ],
+     [
+      0.4,
+      "#F9C827"
+     ],
+     [
+      0.7,
+      "#F0A52C"
+     ],
+     [
+      1,
+      "#E88831"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#98592B",
+     "w": 1.0
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#8C4125",
+    "blur": 1.2,
+    "opacity": 0.4
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    175,
+    57
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    57,
+    240,
+    79
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    84,
+    144,
+    172,
+    63
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    84,
+    207,
+    172,
+    56
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    318,
+    128,
+    148
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "ban",
+   "box": [
+    5,
+    4,
+    166,
+    46
+   ],
+   "text": "PIERDES",
+   "cap": 25,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#78AACB"
+     ],
+     [
+      0.14,
+      "#6AA3C8"
+     ],
+     [
+      0.2,
+      "#4D96BF"
+     ],
+     [
+      0.35,
+      "#3284B8"
+     ],
+     [
+      0.55,
+      "#2778AA"
+     ],
+     [
+      0.75,
+      "#28719F"
+     ],
+     [
+      0.85,
+      "#337EB3"
+     ],
+     [
+      1,
+      "#4990C1"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.8
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#1E7BB5",
+    "blur": 3.5,
+    "opacity": 0.8
+   }
+  },
+  {
+   "style": "ban",
+   "box": [
+    8,
+    64,
+    217,
+    66
+   ],
+   "text": "GANAS",
+   "cap": 48,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#DA6F9F"
+     ],
+     [
+      0.1,
+      "#D65197"
+     ],
+     [
+      0.25,
+      "#D4228D"
+     ],
+     [
+      0.7,
+      "#C50B85"
+     ],
+     [
+      0.9,
+      "#D10D8B"
+     ],
+     [
+      1,
+      "#D85991"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 2.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#D1008E",
+    "blur": 4.5,
+    "opacity": 0.8
+   },
+   "tracking": 4
+  },
+  {
+   "style": "ban",
+   "box": [
+    90,
+    150,
+    162,
+    50
+   ],
+   "text": "PASADO!",
+   "cap": 25,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#CC999D"
+     ],
+     [
+      0.12,
+      "#C88386"
+     ],
+     [
+      0.3,
+      "#BB494B"
+     ],
+     [
+      0.5,
+      "#B12F29"
+     ],
+     [
+      0.78,
+      "#A73B30"
+     ],
+     [
+      0.92,
+      "#A63B29"
+     ],
+     [
+      1,
+      "#BF4340"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.8
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#C3252F",
+    "blur": 3.5,
+    "opacity": 0.8
+   }
+  },
+  {
+   "style": "ban",
+   "box": [
+    90,
+    212,
+    162,
+    48
+   ],
+   "text": "EMPATE",
+   "cap": 25,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#CD9A9E"
+     ],
+     [
+      0.12,
+      "#C8888A"
+     ],
+     [
+      0.3,
+      "#BB494B"
+     ],
+     [
+      0.5,
+      "#B22D26"
+     ],
+     [
+      0.78,
+      "#A03E2C"
+     ],
+     [
+      0.92,
+      "#AB3F30"
+     ],
+     [
+      1,
+      "#CA4D4B"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.8
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#C42833",
+    "blur": 3.5,
+    "opacity": 0.8
+   },
+   "tracking": 3
+  },
+  {
+   "style": "oro",
+   "box": [
+    4,
+    321,
+    112,
+    21
+   ],
+   "text": "Seguro"
+  },
+  {
+   "style": "oro",
+   "box": [
+    4,
+    344,
+    112,
+    21
+   ],
+   "text": "Pago igual"
+  },
+  {
+   "style": "oro",
+   "box": [
+    4,
+    368,
+    112,
+    21
+   ],
+   "text": "7 cartas"
+  },
+  {
+   "style": "oro",
+   "box": [
+    4,
+    393,
+    112,
+    21
+   ],
+   "text": "Triple 7"
+  },
+  {
+   "style": "oro",
+   "box": [
+    4,
+    418,
+    112,
+    20
+   ],
+   "text": "A al 6"
+  },
+  {
+   "style": "oro",
+   "box": [
+    4,
+    442,
+    112,
+    21
+   ],
+   "text": "Pura"
+  }
+ ]
+}

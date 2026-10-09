@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description136.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e8a78e73c67c",
+   "t": "{{leg_trait|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "e757ccf11d8b",
+   "t": "Capacidad especial de las <c:ffff00>{{part|pl}}<c> de <c:ffff00>{{legs}}<c> que se\nactiva automáticamente.\n\nAlgunos rasgos tienen {{effect}} durante toda la\n<c:ffff00>{{robattle}}<c> y otros solo al cumplirse cierta\n{{condition_rotation}}.\n\nMuchos refuerzan al propio <c:ffff00>{{medabot}}<c> que equipa la\n{{part}}."
+  }
+ ]
+}

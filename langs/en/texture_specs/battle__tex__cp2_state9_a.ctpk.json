@@ -1,0 +1,685 @@
+{
+ "rel": "battle/tex/cp2_state9_a.ctpk",
+ "base": "jp",
+ "styles": {
+  "skill": {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "fill": "#8CF0A8",
+   "stroke": "#04180A",
+   "pad": 0,
+   "cap": 7,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "stroke_w": 1.0
+  },
+  "tag": {
+   "erase": "hfill",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "fill": "#101010",
+   "stroke": null,
+   "pad": 0,
+   "cap": 5,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  }
+ },
+ "items": [
+  {
+   "box": [
+    465,
+    174,
+    47,
+    13
+   ],
+   "style": "skill",
+   "text": "AIMSHOT",
+   "scale_x": 1
+  },
+  {
+   "box": [
+    465,
+    188,
+    47,
+    13
+   ],
+   "style": "skill",
+   "text": "BERSERK"
+  },
+  {
+   "box": [
+    465,
+    216,
+    47,
+    13
+   ],
+   "style": "skill",
+   "text": "ANTI-AIR"
+  },
+  {
+   "box": [
+    465,
+    230,
+    47,
+    13
+   ],
+   "style": "skill",
+   "text": "ANTI-SEA"
+  },
+  {
+   "erase_box": [
+    468,
+    333,
+    5,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    488,
+    333,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    468,
+    343,
+    8,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    480,
+    343,
+    8,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    462,
+    353,
+    7,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    476,
+    353,
+    6,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    490,
+    353,
+    6,
+    1
+   ],
+   "erase": "solid:#CDAB45",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    464,
+    363,
+    12,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    484,
+    363,
+    12,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    464,
+    373,
+    8,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    476,
+    373,
+    4,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    492,
+    373,
+    4,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    463,
+    383,
+    9,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    476,
+    383,
+    20,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    464,
+    391,
+    28,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    463,
+    393,
+    25,
+    1
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    463,
+    333,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    334,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Charge",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    343,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    344,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Guard",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    353,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    354,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "T-Part",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    363,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    364,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Aimshot",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    373,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    374,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Berserk",
+   "fill": "#101010"
+  },
+  {
+   "box": [
+    463,
+    383,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    384,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Anti-Air",
+   "fill": "#FFFFFF"
+  },
+  {
+   "box": [
+    463,
+    393,
+    33,
+    9
+   ],
+   "erase_box": [
+    461,
+    394,
+    38,
+    7
+   ],
+   "style": "tag",
+   "text": "Anti-Sea",
+   "fill": "#FFFFFF"
+  },
+  {
+   "box": [
+    444,
+    159,
+    42,
+    10
+   ],
+   "erase_box": [
+    444,
+    158,
+    42,
+    12
+   ],
+   "erase": "glyph:bg",
+   "bg": "#020A23CC",
+   "text": "TIME",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#F0F0F8",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    178,
+    217,
+    31,
+    11
+   ],
+   "erase_box": [
+    177,
+    216,
+    33,
+    13
+   ],
+   "erase": "transparent",
+   "text": "Combo",
+   "font": "din",
+   "cap": 8,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "align": "left",
+   "pad": 0,
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    144,
+    239,
+    36,
+    12
+   ],
+   "erase_box": [
+    143,
+    238,
+    38,
+    14
+   ],
+   "erase": "hfill",
+   "text": "Back",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "fill": "#303030",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    250,
+    239,
+    38,
+    12
+   ],
+   "erase_box": [
+    249,
+    238,
+    40,
+    14
+   ],
+   "erase": "hfill",
+   "text": "Menu",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "fill": "#303030",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    38,
+    450,
+    55,
+    12
+   ],
+   "erase_box": [
+    37,
+    451,
+    57,
+    11
+   ],
+   "erase": "hfill",
+   "text": "No animation",
+   "font": "sf-cond",
+   "cap": 8,
+   "fill": "#303030",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0
+  },
+  {
+   "box": [
+    128,
+    441,
+    75,
+    11
+   ],
+   "erase_box": [
+    128,
+    441,
+    75,
+    11
+   ],
+   "erase": "transparent",
+   "text": "Waiting for command",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    204,
+    440,
+    36,
+    12
+   ],
+   "erase_box": [
+    204,
+    440,
+    36,
+    12
+   ],
+   "erase": "transparent",
+   "text": "Charge",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    128,
+    453,
+    53,
+    11
+   ],
+   "erase_box": [
+    128,
+    453,
+    53,
+    11
+   ],
+   "erase": "transparent",
+   "text": "Medachange",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "erase_box": [
+    16,
+    489,
+    6,
+    1
+   ],
+   "erase": "solid:#606060",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    490,
+    24,
+    9
+   ],
+   "erase_box": [
+    1,
+    490,
+    24,
+    9
+   ],
+   "erase": "hfill",
+   "text": "Type",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#A4FADC",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    275,
+    499,
+    26,
+    9
+   ],
+   "erase_box": [
+    275,
+    499,
+    26,
+    9
+   ],
+   "erase": "hfill",
+   "text": "Skill",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#A4FADC",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "dy": -1
+  },
+  {
+   "box": [
+    0,
+    500,
+    112,
+    12
+   ],
+   "erase_box": [
+    0,
+    500,
+    112,
+    12
+   ],
+   "erase": "transparent",
+   "text": "Auto Robattle: Start!",
+   "font": "din",
+   "cap": 9.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "pad": 0,
+   "crisp": 1.0,
+   "baseline": 510
+  },
+  {
+   "box": [
+    382,
+    450,
+    9,
+    9
+   ],
+   "erase_box": [
+    382,
+    450,
+    9,
+    10
+   ],
+   "erase": "solid:#000610C0",
+   "text": "D",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#A5E9FA",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "box": [
+    382,
+    466,
+    9,
+    9
+   ],
+   "erase_box": [
+    382,
+    466,
+    9,
+    10
+   ],
+   "erase": "solid:#000610C0",
+   "text": "E",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#A5E9FA",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "erase_box": [
+    94,
+    479,
+    14,
+    9
+   ],
+   "erase": "vfill",
+   "box": [
+    94,
+    478,
+    14,
+    11
+   ],
+   "text": "On",
+   "font": "helv-cond-black",
+   "cap": 9.5,
+   "fill": "#3A3A3A",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "crisp": 1.0
+  }
+ ]
+}

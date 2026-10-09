@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f10_070_234_00_t033.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1047,
+   "src": "2e54438405a7",
+   "t": "¡Para qué crees que te protegí todo"
+  },
+  {
+   "i": 1050,
+   "src": "c2885b4c5ead",
+   "t": "este tiempo! ¡Para que lo golpearas!"
+  },
+  {
+   "i": 1070,
+   "src": "58182d3f4bee",
+   "t": "¡Aún no hemos terminado!"
+  },
+  {
+   "i": 1073,
+   "src": "89d1f68db062",
+   "t": "¡No dejes que acabe aquí, {{metabee}}!"
+  },
+  {
+   "i": 1079,
+   "src": "58182d3f4bee",
+   "t": "¡Aún no hemos terminado!"
+  },
+  {
+   "i": 1082,
+   "src": "926ada2b97d8",
+   "t": "¡No dejes que acabe aquí, {{rokusho}}!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_robo_m_230_s09_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1038,
+   "src": "cb11585a4f71",
+   "t": "Si no te vas, me darán una paliza, {{robo}}."
+  },
+  {
+   "i": 1041,
+   "src": "acb22562ee6b",
+   "t": "Vete a casa tranquilo, robo."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f_000_s10_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1038,
+   "src": "50c6d1c8a509",
+   "t": "Was that the {{principal|cap}} who just left at\ntop speed?"
+  },
+  {
+   "i": 1041,
+   "src": "6bcb87a1f491",
+   "t": "Wasn't the Principal off the island...?!"
+  }
+ ]
+}

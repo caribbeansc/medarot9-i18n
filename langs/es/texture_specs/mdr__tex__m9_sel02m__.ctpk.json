@@ -1,0 +1,73 @@
+{
+ "rel": "mdr/tex/m9_sel02m__.ctpk",
+ "base": "jp",
+ "styles": {
+  "titulo": {
+   "font": "sf-rounded",
+   "wght": 700,
+   "cap": 13,
+   "fill": "#A4FFD8",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#0A3A3E",
+    "opacity": 0.85
+   },
+   "crisp": 0.3,
+   "pad": 0,
+   "align": "left",
+   "valign": "middle"
+  }
+ },
+ "defaults": {
+  "erase": "transparent",
+  "style": "titulo"
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    330,
+    78,
+    21
+   ],
+   "text": "Escuela"
+  },
+  {
+   "box": [
+    79,
+    330,
+    95,
+    21
+   ],
+   "text": "Edif. Clubes"
+  },
+  {
+   "box": [
+    14,
+    357,
+    52,
+    16
+   ],
+   "erase": "glyph",
+   "erase_box": [
+    14,
+    357,
+    52,
+    16
+   ],
+   "text": "Salir",
+   "style": [],
+   "font": "sf-rounded-heavy",
+   "cap": 9.5,
+   "fill": "#101010",
+   "stroke": "#F1F1F1",
+   "stroke_w": 1,
+   "crisp": 0.3,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle"
+  }
+ ]
+}

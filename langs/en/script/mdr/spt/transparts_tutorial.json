@@ -1,0 +1,40 @@
+{
+ "file": "mdr/spt/transparts_tutorial.spt",
+ "lines": [
+  {
+   "i": 3437,
+   "src": "01cd213bbad6",
+   "t": "The {{medal}} changed to <c:00ff00> "
+  },
+  {
+   "i": 3439,
+   "src": "b22f8865c0fc",
+   "t": "<c>!"
+  },
+  {
+   "i": 3483,
+   "src": "923b51010542",
+   "t": "An EX {{part|cap}} setting tab has been added\nto the {{settings}} screen."
+  },
+  {
+   "i": 3487,
+   "src": "4526345e7725",
+   "t": "Press the R button and select\nthe EX {{part|cap}} setting tab."
+  },
+  {
+   "i": 3499,
+   "src": "928468cc392a",
+   "t": "You can set EX {{part|pl|cap}} on this screen."
+  },
+  {
+   "i": 3503,
+   "src": "b3d5e33a77c9",
+   "t": "Let's try selecting some {{part}}."
+  },
+  {
+   "i": 3520,
+   "src": "c535565e73a3",
+   "t": "The EX {{part|pl|cap}} are now set.\nPress the X button to finish the {{settings}}."
+  }
+ ]
+}

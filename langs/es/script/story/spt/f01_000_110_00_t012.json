@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f01_000_110_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "062cc210376c",
+   "t": "Hmm."
+  },
+  {
+   "i": 1046,
+   "src": "58a129af81c0",
+   "t": "El resto depende de ustedes dos."
+  },
+  {
+   "i": 1049,
+   "src": "22bf546f7f2a",
+   "t": "Presidenta del Consejo, guíalos."
+  }
+ ]
+}

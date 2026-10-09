@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f09_180_810_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1045,
+   "src": "4039925aadea",
+   "t": "Are you hurt?"
+  },
+  {
+   "i": 1052,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1061,
+   "src": "a573fff38c9b",
+   "t": "I'm fine~."
+  },
+  {
+   "i": 1075,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1081,
+   "src": "d490b019bf0e",
+   "t": "I almost got whiplash..."
+  },
+  {
+   "i": 1095,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1104,
+   "src": "7a5d2746e482",
+   "t": "Ha ha ha. Well, let's be glad"
+  },
+  {
+   "i": 1107,
+   "src": "5d108a40e049",
+   "t": "everyone's safe in the end."
+  },
+  {
+   "i": 1132,
+   "src": "982fe97a7f50",
+   "t": "But more importantly--"
+  },
+  {
+   "i": 1139,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1145,
+   "src": "a5176379afe4",
+   "t": "I've never been to this place."
+  },
+  {
+   "i": 1159,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1165,
+   "src": "1aeac3801e1e",
+   "t": "I didn't know a place like this was still\nhere."
+  },
+  {
+   "i": 1186,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

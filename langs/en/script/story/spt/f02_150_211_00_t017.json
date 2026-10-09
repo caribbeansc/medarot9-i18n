@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f02_150_211_00_t017.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "901f09848f17",
+   "t": "W-what do you mean, how..."
+  },
+  {
+   "i": 1041,
+   "src": "e2c7f8148661",
+   "t": "I just took the elevator, obviously."
+  },
+  {
+   "i": 1052,
+   "src": "e0d41e7b74c3",
+   "t": "The elevator?"
+  },
+  {
+   "i": 1060,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1069,
+   "src": "f6590697642e",
+   "t": "Yeah, it suddenly started working..."
+  },
+  {
+   "i": 1072,
+   "src": "2208d4175a2d",
+   "t": "Didn't you guys flip the switch?"
+  }
+ ]
+}

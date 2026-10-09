@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f07_090_163_00_t014.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1042,
+   "src": "6094841c1d5a",
+   "t": "My body feels light!"
+  },
+  {
+   "i": 1045,
+   "src": "233998118f3a",
+   "t": "I can move the way I want!"
+  },
+  {
+   "i": 1063,
+   "src": "a33bdd7e3a5c",
+   "t": "Hey, look, {{aoi}}! I'm back to normal!"
+  },
+  {
+   "i": 1066,
+   "src": "106e9212658f",
+   "t": "I can dance with you again...!"
+  },
+  {
+   "i": 1076,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1082,
+   "src": "729923ffe808",
+   "t": "{{flora}}..."
+  }
+ ]
+}

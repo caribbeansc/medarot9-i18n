@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_121.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ca22ada310fa",
+   "t": "<c:00ff00>Action:<c> {{all_restore}}\nRestores one {{part}} of each\nmember of the allied team."
+  }
+ ]
+}

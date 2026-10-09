@@ -1,0 +1,339 @@
+{
+ "rel": "mdr/tex/bg_tuto_t.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "helv-cond-black",
+  "pad": 0,
+  "snap": true
+ },
+ "protect": [
+  [
+   296,
+   0,
+   24,
+   24
+  ]
+ ],
+ "items": [
+  {
+   "box": [
+    160,
+    0,
+    328,
+    56
+   ],
+   "erase": "solid:#15A48F00",
+   "text": ""
+  },
+  {
+   "box": [
+    160,
+    0,
+    136,
+    24
+   ],
+   "erase": "none",
+   "text": "Medabot Course",
+   "cap": 13,
+   "baseline": 19,
+   "align": "left",
+   "dx": 2.5,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#8BEFFB"
+     ],
+     [
+      0.08,
+      "#5DE5F7"
+     ],
+     [
+      0.15,
+      "#4BE0ED"
+     ],
+     [
+      0.31,
+      "#27D1D1"
+     ],
+     [
+      0.46,
+      "#12B9B0"
+     ],
+     [
+      0.62,
+      "#00988A"
+     ],
+     [
+      0.77,
+      "#008776"
+     ],
+     [
+      0.85,
+      "#0E9081"
+     ],
+     [
+      0.92,
+      "#3CB6AE"
+     ],
+     [
+      1.0,
+      "#6EE1E3"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 2
+    },
+    {
+     "color": "#0C716340",
+     "w": 2
+    },
+    {
+     "color": "#0C716350",
+     "w": 0.6
+    },
+    {
+     "color": "#0C716312",
+     "w": 0.7
+    }
+   ],
+   "tracking": 0.8
+  },
+  {
+   "box": [
+    160,
+    24,
+    328,
+    32
+   ],
+   "erase": "none",
+   "text": "~Medabot Setup~",
+   "cap": 15,
+   "baseline": 46,
+   "align": "center",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#75CCFE"
+     ],
+     [
+      0.17,
+      "#6EC9FC"
+     ],
+     [
+      0.28,
+      "#37AFEA"
+     ],
+     [
+      0.39,
+      "#0990CE"
+     ],
+     [
+      0.5,
+      "#046FA5"
+     ],
+     [
+      0.67,
+      "#044B6F"
+     ],
+     [
+      0.78,
+      "#246388"
+     ],
+     [
+      0.89,
+      "#659FCA"
+     ],
+     [
+      1.0,
+      "#CEE9FF"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 2
+    },
+    {
+     "color": "#0D958428",
+     "w": 2
+    },
+    {
+     "color": "#0D958440",
+     "w": 0.6
+    },
+    {
+     "color": "#0D958410",
+     "w": 0.7
+    }
+   ]
+  },
+  {
+   "box": [
+    163,
+    64,
+    40,
+    11
+   ],
+   "erase": "solid:#09C9B494",
+   "text": ""
+  },
+  {
+   "font": "sf-cond-heavy",
+   "cap": 7.0,
+   "fill": "#FFFFFF",
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.4,
+   "strokes": [
+    {
+     "color": "#07C2ABB0",
+     "w": 0.7
+    }
+   ],
+   "erase": "none",
+   "box": [
+    163,
+    64,
+    40,
+    11
+   ],
+   "text": "Medal",
+   "valign": "top",
+   "baseline": 72
+  },
+  {
+   "box": [
+    212,
+    64,
+    40,
+    23
+   ],
+   "erase": "solid:#09C9B494",
+   "text": ""
+  },
+  {
+   "font": "sf-cond-heavy",
+   "cap": 7.0,
+   "fill": "#FFFFFF",
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.4,
+   "strokes": [
+    {
+     "color": "#07C2ABB0",
+     "w": 0.7
+    }
+   ],
+   "erase": "none",
+   "box": [
+    212,
+    64,
+    40,
+    23
+   ],
+   "text": "Head\npart"
+  },
+  {
+   "box": [
+    260,
+    64,
+    40,
+    23
+   ],
+   "erase": "solid:#09C9B494",
+   "text": ""
+  },
+  {
+   "font": "sf-cond-heavy",
+   "cap": 7.0,
+   "fill": "#FFFFFF",
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.4,
+   "strokes": [
+    {
+     "color": "#07C2ABB0",
+     "w": 0.7
+    }
+   ],
+   "erase": "none",
+   "box": [
+    260,
+    64,
+    40,
+    23
+   ],
+   "text": "R-Arm\npart"
+  },
+  {
+   "box": [
+    308,
+    64,
+    40,
+    23
+   ],
+   "erase": "solid:#09C9B494",
+   "text": ""
+  },
+  {
+   "font": "sf-cond-heavy",
+   "cap": 7.0,
+   "fill": "#FFFFFF",
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.4,
+   "strokes": [
+    {
+     "color": "#07C2ABB0",
+     "w": 0.7
+    }
+   ],
+   "erase": "none",
+   "box": [
+    308,
+    64,
+    40,
+    23
+   ],
+   "text": "L-Arm\npart"
+  },
+  {
+   "box": [
+    356,
+    64,
+    46,
+    23
+   ],
+   "erase": "solid:#09C9B494",
+   "text": ""
+  },
+  {
+   "font": "sf-cond-heavy",
+   "cap": 7.0,
+   "fill": "#FFFFFF",
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.4,
+   "strokes": [
+    {
+     "color": "#07C2ABB0",
+     "w": 0.7
+    }
+   ],
+   "erase": "none",
+   "box": [
+    356,
+    64,
+    46,
+    23
+   ],
+   "text": "Legs\npart"
+  }
+ ]
+}

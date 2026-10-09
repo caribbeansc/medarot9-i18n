@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_5.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9b2ba0569e24",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nExplorador\nSin importar el tipo de\n{{legs}}, mejora la {{affinity}}\nde {{terrain}} con zonas de\ntipo Agujero."
+  }
+ ]
+}

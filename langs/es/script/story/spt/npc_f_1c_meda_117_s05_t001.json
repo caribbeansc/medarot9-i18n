@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_1c_meda_117_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1038,
+   "src": "9feae25a1e71",
+   "t": "Supongo que el basquetbol está de\ndescanso por un tiempo."
+  }
+ ]
+}

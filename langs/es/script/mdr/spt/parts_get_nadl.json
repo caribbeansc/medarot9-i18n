@@ -1,0 +1,40 @@
+{
+ "file": "mdr/spt/parts_get_nadl.spt",
+ "lines": [
+  {
+   "i": 1158,
+   "src": "7343fba9150f",
+   "t": "Pieza de {{head}}"
+  },
+  {
+   "i": 1165,
+   "src": "f9cbcd0563a5",
+   "t": "Pieza de brazo der."
+  },
+  {
+   "i": 1172,
+   "src": "ae22d610ddf0",
+   "t": "Pieza de brazo izq."
+  },
+  {
+   "i": 1179,
+   "src": "528640d1d527",
+   "t": "Pieza de {{legs}}"
+  },
+  {
+   "i": 1185,
+   "src": "409d7686155f",
+   "t": " <c:00ff00>"
+  },
+  {
+   "i": 1187,
+   "src": "0e32041fdf29",
+   "t": "<c> obtenida!"
+  },
+  {
+   "i": 1195,
+   "src": "46c83d682b77",
+   "t": "<c> - set completo!"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f01_000_110_00_t002.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1045,
+   "src": "6541023d7f1c",
+   "t": "Is the {{principal|cap}} not here yet?"
+  },
+  {
+   "i": 1055,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1064,
+   "src": "db8ab68be6fd",
+   "t": "I was told the Principal will be a little\nlate."
+  },
+  {
+   "i": 1067,
+   "src": "76693d3af44d",
+   "t": "We were asked to start without the\nPrincipal."
+  },
+  {
+   "i": 1077,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1086,
+   "src": "0fbc5d803807",
+   "t": "Oh, really?"
+  },
+  {
+   "i": 1089,
+   "src": "9d0ef6cc9a71",
+   "t": "Well then... ahem."
+  },
+  {
+   "i": 1109,
+   "src": "d46bfe2106b3",
+   "t": "Welcome to our {{academy}}, "
+  },
+  {
+   "i": 1111,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1114,
+   "src": "3c7cce6635c3",
+   "t": "we're pleased to have you with us."
+  },
+  {
+   "i": 1129,
+   "src": "3d4f6fbaee77",
+   "t": "Thank you very much!"
+  },
+  {
+   "i": 1134,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1140,
+   "src": "4dc69a9d4c33",
+   "t": "I'm this academy's {{vice_principal}}."
+  },
+  {
+   "i": 1145,
+   "src": "9a8fe0b6ac69",
+   "t": "You may not know what a {{vice_principal}}\ndoes,"
+  },
+  {
+   "i": 1148,
+   "src": "eed3c78ccb85",
+   "t": "but... just think of me as the odd-jobs\nguy."
+  },
+  {
+   "i": 1156,
+   "src": "c362348a8231",
+   "t": "Sometimes I fill in for the {{principal}}, like\nthis."
+  },
+  {
+   "i": 1159,
+   "src": "68143015e243",
+   "t": "Hehe."
+  },
+  {
+   "i": 1167,
+   "src": "141f542fba6a",
+   "t": "Well then, next--"
+  },
+  {
+   "i": 1170,
+   "src": "cc3305f338a3",
+   "t": "Let me introduce some of the teachers."
+  },
+  {
+   "i": 1181,
+   "src": "928b1db1a8d8",
+   "t": "First, here is Mr. Akebono,"
+  },
+  {
+   "i": 1184,
+   "src": "5efff7b84c8b",
+   "t": "our P.E. {{teacher}}."
+  }
+ ]
+}

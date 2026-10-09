@@ -1,0 +1,153 @@
+{
+ "rel": "mdr/tex/m9_chr_sel04.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "hfill",
+  "font": "sf-cond-heavy",
+  "cap": 9,
+  "fill": "#111111",
+  "stroke": "#F2F2F2",
+  "stroke_w": 1.0,
+  "pad": 0,
+  "crisp": 0.4,
+  "baseline": 21,
+  "min_scale_x": 0.7
+ },
+ "items": [
+  {
+   "box": [
+    22,
+    8,
+    40,
+    16
+   ],
+   "erase_box": [
+    23,
+    10,
+    36,
+    12
+   ],
+   "text": "Flee"
+  },
+  {
+   "box": [
+    139,
+    8,
+    74,
+    16
+   ],
+   "erase_box": [
+    142,
+    10,
+    66,
+    12
+   ],
+   "text": "Start Robattle"
+  },
+  {
+   "copy": [
+    221,
+    8,
+    1,
+    12
+   ],
+   "to": [
+    255,
+    8
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    223,
+    8,
+    31,
+    16
+   ],
+   "erase_box": [
+    222,
+    8,
+    33,
+    12
+   ],
+   "text": "Back",
+   "align": "left"
+  },
+  {
+   "box": [
+    165,
+    69,
+    62,
+    16
+   ],
+   "erase_box": [
+    161,
+    70,
+    55,
+    12
+   ],
+   "text": "Rival data",
+   "baseline": 80,
+   "align": "left"
+  },
+  {
+   "box": [
+    35,
+    69,
+    72,
+    18
+   ],
+   "erase_box": [
+    34,
+    70,
+    66,
+    13
+   ],
+   "text": "Settings",
+   "baseline": 81,
+   "align": "left"
+  },
+  {
+   "segments": [
+    [
+     157,
+     114,
+     36,
+     14,
+     0,
+     0
+    ],
+    [
+     121,
+     114,
+     36,
+     12,
+     0,
+     14
+    ]
+   ],
+   "box": [
+    0,
+    0,
+    36,
+    26
+   ],
+   "erase_box": [
+    [
+     158,
+     123,
+     34,
+     5
+    ],
+    [
+     122,
+     114,
+     34,
+     6
+    ]
+   ],
+   "text": "Back",
+   "baseline": 19.5
+  }
+ ]
+}

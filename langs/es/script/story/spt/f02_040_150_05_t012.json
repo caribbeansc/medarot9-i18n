@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f02_040_150_05_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1035,
+   "src": "b1c9444be204",
+   "t": "¿Adónde vas?"
+  },
+  {
+   "i": 1046,
+   "src": "9c0041f1c969",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1049,
+   "src": "4b92c94402b4",
+   "t": "A ningún lugar en particular..."
+  },
+  {
+   "i": 1057,
+   "src": "e9849701ac83",
+   "t": "Estoy buscando a alguien."
+  },
+  {
+   "i": 1065,
+   "src": "9b150d4488b9",
+   "t": "Una chica llamada {{aoi}}-san"
+  },
+  {
+   "i": 1068,
+   "src": "50d1289264cb",
+   "t": "que va a primer año. ¿La conoces?"
+  },
+  {
+   "i": 1073,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1082,
+   "src": "807091a3ddf5",
+   "t": "¿...{{aoi}}? Claro que la conozco."
+  },
+  {
+   "i": 1085,
+   "src": "4c4b94bab312",
+   "t": "Estamos en la misma {{class}}."
+  },
+  {
+   "i": 1093,
+   "src": "1d4a5fc614bb",
+   "t": "Me crucé con ella hace un momento."
+  },
+  {
+   "i": 1096,
+   "src": "ad21ab21fb6c",
+   "t": "¿Tal vez volvió a los dormitorios?"
+  },
+  {
+   "i": 1107,
+   "src": "4d6d37df14a6",
+   "t": "¿{{dormitory|cap}}?"
+  },
+  {
+   "i": 1112,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1121,
+   "src": "bebe77f62989",
+   "t": "¿Eh? Pero es un {{dormitory}} de chicas..."
+  },
+  {
+   "i": 1132,
+   "src": "168b842b1c0e",
+   "t": "¡Hay un {{dormitory}} de chicas!"
+  },
+  {
+   "i": 1137,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1146,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1154,
+   "src": "8f2753e22aff",
+   "t": "¡Por supuesto!"
+  },
+  {
+   "i": 1162,
+   "src": "dd5242565453",
+   "t": "O sea, ¿pensabas ir sin saberlo?"
+  },
+  {
+   "i": 1165,
+   "src": "cefa144d4ef0",
+   "t": "Ah, y yo que creí que venías a espiar."
+  }
+ ]
+}

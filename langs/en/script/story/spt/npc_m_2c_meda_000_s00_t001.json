@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_2c_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e2d11d6f76f2",
+   "t": "{{cordy}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  }
+ ]
+}

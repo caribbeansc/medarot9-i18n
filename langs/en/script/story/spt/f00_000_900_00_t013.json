@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f00_000_900_00_t013.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "bdf017420547",
+   "t": "Yay!"
+  },
+  {
+   "i": 1040,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1046,
+   "src": "9c505be918cb",
+   "t": "Dang it, it didn't work!"
+  },
+  {
+   "i": 1049,
+   "src": "55579ed8c697",
+   "t": "I thought this would go better..."
+  },
+  {
+   "i": 1057,
+   "src": "5ac6f9e98515",
+   "t": "But as a test, it wasn't bad, right?"
+  },
+  {
+   "i": 1060,
+   "src": "9a0e895ecbb8",
+   "t": "I bet it'd work well in a team battle..."
+  }
+ ]
+}

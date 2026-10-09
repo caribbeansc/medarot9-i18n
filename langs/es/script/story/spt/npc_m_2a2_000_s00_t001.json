@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_2a2_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "49a78514fc0e",
+   "t": "{{kagetora}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ]
+}

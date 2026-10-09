@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_36.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "64dc6dec9eec",
+   "t": "<c:00ff00>{{mf}}:<c> {{optical_medaforce}}\nRanged attacks by your\nwhole team deal double\n{{power}}.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f05_100_117_00_t023.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "6be31507da76",
+   "t": "Jejejeje..."
+  },
+  {
+   "i": 1052,
+   "src": "611d079a9117",
+   "t": "¿Q-qué pasa?"
+  },
+  {
+   "i": 1057,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1066,
+   "src": "846289d0e76b",
+   "t": "Sacaste nota reprobatoria, "
+  },
+  {
+   "i": 1068,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1071,
+   "src": "36ef786a9925",
+   "t": "Laméntate tras la entrevista {{medabot}}."
+  },
+  {
+   "i": 1082,
+   "src": "52d12a8b8a0e",
+   "t": "¿Eh? ¿Qué pasa?"
+  },
+  {
+   "i": 1085,
+   "src": "d2925050a14e",
+   "t": "¿Qué tipo de entrevista dijiste...?"
+  },
+  {
+   "i": 1090,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1099,
+   "src": "37fc73e0e539",
+   "t": "Desde mañana tras clases empieza la"
+  },
+  {
+   "i": 1102,
+   "src": "3ac4cbfba17d",
+   "t": "entrevista individual con sus {{medabot|pl}}."
+  },
+  {
+   "i": 1110,
+   "src": "917eba02ec35",
+   "t": "Los maestros, claro, no podrán asistir."
+  },
+  {
+   "i": 1113,
+   "src": "212e4d4b3599",
+   "t": "Tendrán que esperar en el {{classroom}}."
+  },
+  {
+   "i": 1121,
+   "src": "708a96c1b22a",
+   "t": "La entrevista {{medabot}} es uno de los\npuntos del {{exam}} final."
+  },
+  {
+   "i": 1129,
+   "src": "0e8054e13de2",
+   "t": "Según el resultado,"
+  },
+  {
+   "i": 1132,
+   "src": "d5bb4cb14309",
+   "t": "tu curso de verano se reducirá mucho."
+  },
+  {
+   "i": 1140,
+   "src": "f905145b6279",
+   "t": "Así que guarda la decepción para luego."
+  },
+  {
+   "i": 1143,
+   "src": "abb1ad318bb2",
+   "t": "¿Entendido?"
+  }
+ ]
+}

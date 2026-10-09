@@ -1,0 +1,130 @@
+{
+ "rel": "mdr/tex/bt_t_taisen3.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "font": "sf-cond-heavy",
+  "cap": 9,
+  "pad": 0,
+  "fill": "#FFFFFF",
+  "stroke": null
+ },
+ "styles": {
+  "dark": {
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#00202E",
+    "opacity": 0.9
+   }
+  },
+  "light": {
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#44565E",
+    "opacity": 0.8
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    14,
+    58,
+    124,
+    20
+   ],
+   "erase_box": [
+    43,
+    51,
+    66,
+    28
+   ],
+   "text": "Iniciar partida",
+   "style": "dark",
+   "cap": 10
+  },
+  {
+   "box": [
+    14,
+    146,
+    124,
+    20
+   ],
+   "erase_box": [
+    43,
+    139,
+    66,
+    28
+   ],
+   "text": "Iniciar partida",
+   "style": "light",
+   "cap": 10
+  },
+  {
+   "box": [
+    152,
+    139,
+    37,
+    28
+   ],
+   "erase": "vfill",
+   "text": ""
+  },
+  {
+   "segments": [
+    [
+     152,
+     0,
+     104,
+     88,
+     0,
+     0
+    ],
+    [
+     152,
+     88,
+     48,
+     88,
+     104,
+     0
+    ]
+   ],
+   "box": [
+    8,
+    58,
+    136,
+    20
+   ],
+   "erase_box": [
+    [
+     168,
+     51,
+     88,
+     28
+    ]
+   ],
+   "text": "Emparejar con espectador",
+   "style": "dark",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    8,
+    234,
+    136,
+    20
+   ],
+   "erase_box": [
+    14,
+    227,
+    124,
+    28
+   ],
+   "text": "Emparejar con espectador",
+   "style": "light",
+   "cap": 8.5
+  }
+ ]
+}

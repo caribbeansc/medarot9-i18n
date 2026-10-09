@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/model_mot_test_bg.spt",
+ "lines": [
+  {
+   "i": 967,
+   "src": "f72d4c0035a6",
+   "t": "{{enemy|cap}}"
+  },
+  {
+   "i": 1089,
+   "src": "e05364da33fd",
+   "t": "{{ally_battle_term|cap}}"
+  },
+  {
+   "i": 1102,
+   "src": "f72d4c0035a6",
+   "t": "{{enemy|cap}}"
+  },
+  {
+   "i": 1115,
+   "src": "ab0754caa2fa",
+   "t": "Punto fijo"
+  },
+  {
+   "i": 1753,
+   "src": "bf9e5305166a",
+   "t": "Espera"
+  },
+  {
+   "i": 1756,
+   "src": "f85aafacdae5",
+   "t": "{{medachange}}"
+  },
+  {
+   "i": 1759,
+   "src": "900969c81155",
+   "t": "Mano Der. A"
+  },
+  {
+   "i": 1762,
+   "src": "34933346f6bf",
+   "t": "Mano Der. B"
+  },
+  {
+   "i": 1765,
+   "src": "fd2abd5d427b",
+   "t": "Mano Der. C"
+  },
+  {
+   "i": 1768,
+   "src": "5af0deee358f",
+   "t": "Carga"
+  },
+  {
+   "i": 1771,
+   "src": "4a4d834da67d",
+   "t": "{{evade|cap}}"
+  },
+  {
+   "i": 1774,
+   "src": "b82779e26e55",
+   "t": "Mano Izq. A"
+  },
+  {
+   "i": 1777,
+   "src": "4e9c1c4dbc63",
+   "t": "Mano Izq. B"
+  },
+  {
+   "i": 1780,
+   "src": "e7a68d566dd1",
+   "t": "Mano Izq. C"
+  },
+  {
+   "i": 1783,
+   "src": "7b343e776c90",
+   "t": "Postura"
+  },
+  {
+   "i": 1786,
+   "src": "b9237866913a",
+   "t": "{{hit|cap}} Tornado"
+  },
+  {
+   "i": 1789,
+   "src": "278afe977cf9",
+   "t": "Prep. FC"
+  },
+  {
+   "i": 1792,
+   "src": "5f7049aef151",
+   "t": "{{victory|cap}}"
+  },
+  {
+   "i": 1795,
+   "src": "98ae605af0f2",
+   "t": "{{thunder}}"
+  },
+  {
+   "i": 1798,
+   "src": "fa56263764d1",
+   "t": "{{freeze}}"
+  },
+  {
+   "i": 1801,
+   "src": "562d745bd83a",
+   "t": "{{tornado}}"
+  },
+  {
+   "i": 1804,
+   "src": "5fe96ecfc345",
+   "t": "Drive A"
+  },
+  {
+   "i": 1807,
+   "src": "5b40fd8e809e",
+   "t": "Drive B"
+  },
+  {
+   "i": 1810,
+   "src": "dbb83edfaab8",
+   "t": "Drive C"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_janit_meda_150_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d831eb772913",
+   "t": "{{gloomeg}}"
+  },
+  {
+   "i": 1038,
+   "src": "aecd01c31191",
+   "t": "Mornings are cleaning time!"
+  },
+  {
+   "i": 1041,
+   "src": "8684d7ac51eb",
+   "t": "It's hard work because it's so big!"
+  }
+ ]
+}

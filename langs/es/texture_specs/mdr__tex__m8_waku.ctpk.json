@@ -1,0 +1,35 @@
+{
+ "rel": "mdr/tex/m8_waku.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond",
+  "cap": 7,
+  "fill": {
+   "top": "#F9F9F9",
+   "bottom": "#D9D9D9"
+  },
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.4,
+  "align": "left"
+ },
+ "items": [
+  {
+   "box": [
+    1,
+    86,
+    23,
+    20
+   ],
+   "erase_box": [
+    0,
+    86,
+    24,
+    20
+   ],
+   "baseline": 104,
+   "text": "Nombre"
+  }
+ ]
+}

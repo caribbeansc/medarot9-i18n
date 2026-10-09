@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/sdsave_select.spt",
+ "lines": [
+  {
+   "i": 877,
+   "src": "c8973f2e303f",
+   "t": "Éxito"
+  },
+  {
+   "i": 883,
+   "src": "d7ca587c755e",
+   "t": "Fallo"
+  }
+ ]
+}

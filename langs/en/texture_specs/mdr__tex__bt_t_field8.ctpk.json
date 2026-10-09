@@ -1,0 +1,436 @@
+{
+ "rel": "mdr/tex/bt_t_field8.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf-heavy-italic",
+  "cap": 9,
+  "align": "right",
+  "fill": "#F0FFFF",
+  "strokes": [
+   {
+    "color": "#16293F",
+    "w": 1
+   },
+   {
+    "color": "#38AEC0",
+    "w": 1.5
+   }
+  ]
+ },
+ "items": [
+  {
+   "box": [
+    95,
+    16,
+    50,
+    16
+   ],
+   "erase": "copy:16,16",
+   "text": ""
+  },
+  {
+   "box": [
+    60,
+    14,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Cyber",
+   "baseline": 28
+  },
+  {
+   "box": [
+    256,
+    16,
+    41,
+    16
+   ],
+   "erase": "copy:215,16",
+   "text": ""
+  },
+  {
+   "box": [
+    212,
+    14,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Hall",
+   "baseline": 28
+  },
+  {
+   "box": [
+    112,
+    43,
+    33,
+    23
+   ],
+   "erase": "copy:79,43",
+   "text": ""
+  },
+  {
+   "box": [
+    60,
+    48,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Plains",
+   "baseline": 62
+  },
+  {
+   "box": [
+    264,
+    43,
+    33,
+    23
+   ],
+   "erase": "copy:192,43",
+   "text": ""
+  },
+  {
+   "box": [
+    212,
+    48,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Forest",
+   "baseline": 61
+  },
+  {
+   "box": [
+    112,
+    79,
+    33,
+    21
+   ],
+   "erase": "copy:18,79",
+   "text": ""
+  },
+  {
+   "box": [
+    60,
+    82,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Sand",
+   "baseline": 96
+  },
+  {
+   "box": [
+    264,
+    77,
+    33,
+    23
+   ],
+   "erase": "copy:209,77",
+   "text": ""
+  },
+  {
+   "box": [
+    212,
+    82,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Tundra",
+   "baseline": 96
+  },
+  {
+   "box": [
+    112,
+    111,
+    33,
+    23
+   ],
+   "erase": "copy:77,111",
+   "text": ""
+  },
+  {
+   "box": [
+    60,
+    116,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Waterside",
+   "baseline": 130
+  },
+  {
+   "box": [
+    264,
+    111,
+    33,
+    23
+   ],
+   "erase": "copy:200,111",
+   "text": ""
+  },
+  {
+   "box": [
+    212,
+    116,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Rocky Ground",
+   "baseline": 130
+  },
+  {
+   "box": [
+    102,
+    152,
+    42,
+    16
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    60,
+    150,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Underwater",
+   "baseline": 163
+  },
+  {
+   "box": [
+    267,
+    152,
+    30,
+    16
+   ],
+   "erase": "copy:237,152",
+   "text": ""
+  },
+  {
+   "box": [
+    212,
+    150,
+    83,
+    17
+   ],
+   "erase": "none",
+   "text": "Sky",
+   "baseline": 164
+  },
+  {
+   "box": [
+    321,
+    86,
+    66,
+    17
+   ],
+   "erase_box": [
+    320,
+    85,
+    68,
+    18
+   ],
+   "erase": "transparent",
+   "text": "Random",
+   "align": "left",
+   "font": "avenir-heavy-italic",
+   "cap": 9,
+   "fill": {
+    "top": "#363F51",
+    "bottom": "#171E2D"
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.4
+    }
+   ],
+   "tracking": 0.8
+  },
+  {
+   "font": "avenir-cond-heavy",
+   "cap": 8,
+   "align": "left",
+   "fill": "#F4FAFC",
+   "strokes": [
+    {
+     "color": "#0A5594",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#196FB7",
+    "blur": 2,
+    "opacity": 0.9
+   },
+   "erase": "transparent",
+   "box": [
+    310,
+    106,
+    106,
+    17
+   ],
+   "erase_box": [
+    306,
+    103,
+    112,
+    20
+   ],
+   "text": "Flying legs only",
+   "baseline": 120
+  },
+  {
+   "font": "avenir-cond-heavy",
+   "cap": 8,
+   "align": "left",
+   "fill": "#F4FAFC",
+   "strokes": [
+    {
+     "color": "#0A5594",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#196FB7",
+    "blur": 2,
+    "opacity": 0.9
+   },
+   "erase": "transparent",
+   "box": [
+    310,
+    126,
+    106,
+    17
+   ],
+   "erase_box": [
+    306,
+    123,
+    112,
+    21
+   ],
+   "text": "Submarine legs only",
+   "baseline": 140
+  },
+  {
+   "box": [
+    468,
+    0,
+    32,
+    8
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    468,
+    11,
+    32,
+    3
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    468,
+    8,
+    32,
+    3
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    468,
+    13,
+    32,
+    7
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    468,
+    23,
+    32,
+    4
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    468,
+    20,
+    32,
+    3
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    466,
+    0,
+    36,
+    13
+   ],
+   "erase": "none",
+   "text": "You",
+   "font": "bold",
+   "cap": 8,
+   "align": "center",
+   "fill": {
+    "top": "#F2F4FF",
+    "bottom": "#8FA6EE"
+   },
+   "strokes": [
+    {
+     "color": "#100597",
+     "w": 1.2
+    }
+   ]
+  },
+  {
+   "box": [
+    466,
+    13,
+    36,
+    13
+   ],
+   "erase": "none",
+   "text": "Rival",
+   "font": "bold",
+   "cap": 8,
+   "align": "center",
+   "fill": {
+    "top": "#FFFBF9",
+    "bottom": "#FFB2B0"
+   },
+   "strokes": [
+    {
+     "color": "#B10303",
+     "w": 1.2
+    }
+   ]
+  }
+ ]
+}

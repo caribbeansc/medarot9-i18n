@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description54.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5af0deee358f",
+   "t": "Charge"
+  },
+  {
+   "i": 11,
+   "src": "4c5f6376c167",
+   "t": "An <c:ffff00>act<c> that builds up the force hidden within the\n<c:ffff00>{{medal}}<c> without using <c:ffff00>{{part|pl}}<c>. There is no <c:ffff00>{{prep}}<c> or\n<c:ffff00>{{cooldown}}<c>: it stays in a <c:ffff00>charging stance<c> for a set\ntime, during which it can <c:ffff00>defend<c> but can't <c:ffff00>evade<c>.\n\nThe <c:ffff00>{{charge_gauge}}<c> rises little by little and, on\ncompletion, by a fixed amount more. The time of\neach charge and the amount of force added depend\non the <c:ffff00>{{charge_type}}<c> set for each {{medal}}."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_12.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "91c70cb562d8",
+   "t": "<c:00ff00>Leg Trait:<c> {{setup_plus}}\nWhen using a Setup\naction, {{part}} {{prep}} stat +10."
+  }
+ ]
+}

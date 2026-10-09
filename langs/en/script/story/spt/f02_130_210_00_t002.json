@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/f02_130_210_00_t002.spt",
+ "lines": [
+  {
+   "i": 1058,
+   "src": "85e370c7b89e",
+   "t": "So cool!"
+  },
+  {
+   "i": 1064,
+   "src": "b1e2d009d039",
+   "t": "Magnificent!"
+  },
+  {
+   "i": 1090,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1093,
+   "src": "f683b0c27ef4",
+   "t": "I wanna {{transform}} too!"
+  },
+  {
+   "i": 1100,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1103,
+   "src": "ed1afdc21c39",
+   "t": "I want to {{transform}} too!"
+  },
+  {
+   "i": 1122,
+   "src": "c21fd0c524f9",
+   "t": "Haha, "
+  },
+  {
+   "i": 1124,
+   "src": "cff65d7b7b58",
+   "t": ","
+  },
+  {
+   "i": 1127,
+   "src": "44f26241b36a",
+   "t": "{{medachange}} isn't possible, sadly."
+  },
+  {
+   "i": 1135,
+   "src": "e1f9a2655b5d",
+   "t": "The Medabots that can"
+  },
+  {
+   "i": 1138,
+   "src": "dc6524337eea",
+   "t": "Medachange are set in advance."
+  },
+  {
+   "i": 1162,
+   "src": "e93eb6841384",
+   "t": "I see..."
+  },
+  {
+   "i": 1168,
+   "src": "e93eb6841384",
+   "t": "I see..."
+  },
+  {
+   "i": 1177,
+   "src": "a5916ca3afb4",
+   "t": "Anyway, so I can use {{medachange}},"
+  },
+  {
+   "i": 1180,
+   "src": "e4c19c211143",
+   "t": "I've set up my {{medawatch}}."
+  },
+  {
+   "i": 1195,
+   "src": "1674e94c3219",
+   "t": "If we get a {{medachange}} {{unit}},"
+  },
+  {
+   "i": 1198,
+   "src": "131dbf1aa0bb",
+   "t": "let's try it out, okay?"
+  },
+  {
+   "i": 1222,
+   "src": "2490475c04ce",
+   "t": "Yeah!"
+  },
+  {
+   "i": 1228,
+   "src": "015f1f7fb5b4",
+   "t": "Yes!"
+  },
+  {
+   "i": 1252,
+   "src": "e1f53dacbaa9",
+   "t": "...Oh, sorry, President."
+  },
+  {
+   "i": 1255,
+   "src": "8e323e31c7af",
+   "t": "With this, we can manage, right?"
+  },
+  {
+   "i": 1263,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1269,
+   "src": "d3118e60cc66",
+   "t": "Yeah, you could pull a boat with ease."
+  },
+  {
+   "i": 1272,
+   "src": "6312a11c9ba1",
+   "t": "Well then, let's get to it..."
+  }
+ ]
+}

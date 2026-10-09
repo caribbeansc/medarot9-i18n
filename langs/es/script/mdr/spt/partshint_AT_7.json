@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_7.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "667cb23b7e27",
+   "t": "<c:00ff00>Técnica:<c>{{hyper_beam}}\nAtaque a distancia cuyo\npoder se duplica con\ncarga al 50% o más y se\ntriplica con carga al\n100%.\nTiene {{effect}} perforante."
+  }
+ ]
+}

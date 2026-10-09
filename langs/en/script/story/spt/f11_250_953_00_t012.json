@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f11_250_953_00_t012.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1049,
+   "src": "be34e27ec99a",
+   "t": "I-I can't take it anymore... No matter\nhow many times"
+  },
+  {
+   "i": 1052,
+   "src": "e6a3531c76c8",
+   "t": "we beat it, it's pointless..."
+  },
+  {
+   "i": 1066,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1072,
+   "src": "5ec3aaf64c7f",
+   "t": "I'm exhausted, I can't take it anymore..."
+  },
+  {
+   "i": 1075,
+   "src": "323a8c5c3d31",
+   "t": "At this rate, we..."
+  },
+  {
+   "i": 1089,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1095,
+   "src": "ed80a55485f2",
+   "t": "Don't give up! There must be"
+  },
+  {
+   "i": 1098,
+   "src": "dd00bbae5db8",
+   "t": "something we can do, something--"
+  },
+  {
+   "i": 1105,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1111,
+   "src": "04c619cc0727",
+   "t": "...Ah."
+  },
+  {
+   "i": 1118,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1124,
+   "src": "252d2534a446",
+   "t": "What is it, {{flora}}?!"
+  },
+  {
+   "i": 1131,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1137,
+   "src": "bea616ad23ce",
+   "t": "Something's wrong, the way it's acting..."
+  }
+ ]
+}

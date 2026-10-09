@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/mdr_update.spt",
+ "lines": [
+  {
+   "i": 1546,
+   "src": "2373e85115c2",
+   "t": "Touch with your finger to authenticate"
+  },
+  {
+   "i": 1568,
+   "src": "41c333ea1ea5",
+   "t": "Authenticating"
+  },
+  {
+   "i": 1593,
+   "src": "c098d782b96e",
+   "t": "Authentication complete"
+  },
+  {
+   "i": 1616,
+   "src": "25d5cac47b69",
+   "t": "Authentication failed. Please try again"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f05_060_150_00_t012.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "c8b8fdf8300f",
+   "t": "Oye, ¿por qué intentas entrar como si"
+  },
+  {
+   "i": 1041,
+   "src": "5a5a7344a3f2",
+   "t": "fuera lo más normal del mundo?"
+  },
+  {
+   "i": 1049,
+   "src": "90c9ab4e2891",
+   "t": "¿Cómo se llamaba?"
+  },
+  {
+   "i": 1052,
+   "src": "5d1264fd3894",
+   "t": "¿{{main}}...?"
+  },
+  {
+   "i": 1063,
+   "src": "62892f0a393d",
+   "t": "Yo iré a revisar."
+  },
+  {
+   "i": 1066,
+   "src": "25b13a8475a5",
+   "t": "Ustedes esperen aquí."
+  }
+ ]
+}

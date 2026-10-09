@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f07_030_161_30_t041.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1045,
+   "src": "6addb44eacf0",
+   "t": "I want to go!"
+  },
+  {
+   "i": 1048,
+   "src": "9537a5d5ce3d",
+   "t": "Let's go to the {{idol_club}}!"
+  },
+  {
+   "i": 1062,
+   "src": "24ed62bdebc0",
+   "t": "Huh?"
+  },
+  {
+   "i": 1065,
+   "src": "88debc47e201",
+   "t": "{{main}}-chan, are you interested?"
+  },
+  {
+   "i": 1080,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1089,
+   "src": "9e90cd86bab6",
+   "t": "Yes."
+  },
+  {
+   "i": 1092,
+   "src": "f70f45c63f7b",
+   "t": "I'm interested in the broken leg {{part}}."
+  },
+  {
+   "i": 1103,
+   "src": "afb7624b93e7",
+   "t": "I looked it up. Those legs"
+  },
+  {
+   "i": 1106,
+   "src": "a46086276ff8",
+   "t": "are no longer in production."
+  },
+  {
+   "i": 1113,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1122,
+   "src": "e81394f30bff",
+   "t": "...Oh?"
+  },
+  {
+   "i": 1136,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1145,
+   "src": "11491c5d0374",
+   "t": "It's rare."
+  },
+  {
+   "i": 1148,
+   "src": "00f1863b042e",
+   "t": "I'd love to see it up close."
+  }
+ ]
+}

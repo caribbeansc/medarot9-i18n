@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f2b.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 1653,
+   "src": "095c7985c057",
+   "t": "¿Una {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "df4b753ddab9",
+   "t": "Está bien, supongo..."
+  }
+ ]
+}

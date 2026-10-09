@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description85.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "27bdd8629217",
+   "t": "{{speed}} (Style)"
+  },
+  {
+   "i": 11,
+   "src": "bc8bbe72bceb",
+   "t": "A <c:ffff00>{{robattle_style}}<c> that prioritizes mobility.\n\n<c:ffff00>{{stats|cap}}<c> that rise:\n  <c:ffff00>{{prep}}<c> +8, <c:ffff00>{{cooldown}}<c> +8, <c:ffff00>{{mobility}}<c> +8\n\n{{condition_rotation|cap}} to raise the <c:ffff00>{{charge_gauge}}<c>:\n+5% for every successful <c:ffff00>evade<c>."
+  }
+ ]
+}

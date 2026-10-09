@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_060_230_00_t025.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1051,
+   "src": "fb20e1c468f6",
+   "t": "Got it, {{robo}}!"
+  },
+  {
+   "i": 1054,
+   "src": "500bccf33491",
+   "t": "Then onward to the treasure, robo!"
+  },
+  {
+   "i": 1064,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1073,
+   "src": "fb8a2afb1cab",
+   "t": "Hey, wait a second!"
+  },
+  {
+   "i": 1076,
+   "src": "f7b984deda13",
+   "t": "I still have my catchphrase to--"
+  }
+ ]
+}

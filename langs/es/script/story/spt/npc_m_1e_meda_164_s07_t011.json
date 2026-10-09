@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_1e_meda_164_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1038,
+   "src": "fca5d8eee249",
+   "t": "Pues los {{medabot|pl}},"
+  },
+  {
+   "i": 1041,
+   "src": "d6aabaeb4b90",
+   "t": "no son solo {{robattle|pl}}, ¿verdad?"
+  },
+  {
+   "i": 1049,
+   "src": "7ee5a1a35339",
+   "t": "Está bien ser débil en {{robattle|pl}}, ¿no?"
+  }
+ ]
+}

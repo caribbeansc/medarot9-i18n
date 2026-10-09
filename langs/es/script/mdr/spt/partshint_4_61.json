@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_61.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "637d7acd733f",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{shooting|cap}} Cargado\nCon la {{charge_gauge}} al\n100%, los disparos ganan\n{{power}} y {{shooting}} +5."
+  }
+ ]
+}

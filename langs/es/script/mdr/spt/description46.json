@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description46.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7e5b80caf2a5",
+   "t": "{{knocked_out|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "576e4155c08a",
+   "t": "{{condition|cap}} en que la <c:ffff00>{{medal}}<c> se suelta del <c:ffff00>{{medabot}}<c> y\neste ya no puede seguir en la <c:ffff00>{{robattle}}<c>.\n\nSi se <c:ffff00>destruye<c> la <c:ffff00>{{head_part}}<c>, el {{medabot}} queda\n{{knocked_out}}. Puede volver a la {{robattle}} si\notro {{ally_battle_term}} lo <c:ffff00>reanima<c>.\n\nEl equipo cuyo <c:ffff00>{{leader}}<c> queda {{knocked_out}} pierde\nla {{robattle}}."
+  }
+ ]
+}

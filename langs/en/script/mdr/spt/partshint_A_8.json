@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_8.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "832a3258cb4f",
+   "t": "<c:00ff00>{{mf}}:<c> Vortex\nThe {{terrain}} becomes {{sand}}\nand all {{medabot|pl}} return to\nthe {{command_area}}.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

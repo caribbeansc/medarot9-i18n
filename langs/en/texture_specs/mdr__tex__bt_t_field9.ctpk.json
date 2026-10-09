@@ -1,0 +1,123 @@
+{
+ "rel": "mdr/tex/bt_t_field9.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "avenir-cond-heavy",
+  "cap": 8,
+  "align": "center",
+  "fill": "#FFFFFF",
+  "strokes": [
+   {
+    "color": "#000000",
+    "w": 1
+   }
+  ],
+  "pad": 0,
+  "min_scale_x": 0.6,
+  "crisp": 0.6
+ },
+ "items": [
+  {
+   "box": [
+    297,
+    65,
+    49,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Cyber"
+  },
+  {
+   "box": [
+    347,
+    65,
+    37,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Hall"
+  },
+  {
+   "box": [
+    297,
+    80,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Plains"
+  },
+  {
+   "box": [
+    324,
+    80,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Forest",
+   "cap": 7
+  },
+  {
+   "box": [
+    351,
+    80,
+    25,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Water"
+  },
+  {
+   "box": [
+    297,
+    95,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Sand"
+  },
+  {
+   "box": [
+    324,
+    95,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Tundra",
+   "cap": 7
+  },
+  {
+   "box": [
+    351,
+    95,
+    25,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Sky"
+  },
+  {
+   "box": [
+    297,
+    110,
+    25,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Shore"
+  },
+  {
+   "box": [
+    324,
+    110,
+    26,
+    14
+   ],
+   "erase": "transparent",
+   "text": "Rocks"
+  }
+ ]
+}

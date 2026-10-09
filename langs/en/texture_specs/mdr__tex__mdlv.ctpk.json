@@ -1,0 +1,30 @@
+{
+ "rel": "mdr/tex/mdlv.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    59,
+    18
+   ],
+   "erase": "transparent",
+   "text": "Medafighter",
+   "font": "sf-cond-heavy",
+   "cap": 8.2,
+   "fill": "#F9F9F9",
+   "stroke": "#0505F0",
+   "stroke_w": 1,
+   "pad": 1,
+   "valign": "middle",
+   "crisp": 0.5,
+   "erase_box": [
+    0,
+    0,
+    64,
+    18
+   ]
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_28.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "13fd4353aac0",
+   "t": "{{medabot}} {{type}} abeja reina,\ndueña de la Planta\nCalefactor, que aviva las\nacciones aliadas.\n \nSu ataque {{static}}, desde\nel aguijón, roba la vida\ndel {{opponent}} como el veneno\nletal del avispón."
+  }
+ ]
+}

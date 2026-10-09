@@ -1,0 +1,322 @@
+{
+ "rel": "battle/tex/cp2_state9_b.ctpk",
+ "base": "jp",
+ "styles": {
+  "celda": {
+   "erase": "transparent",
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "pad": 0,
+   "cap": 8,
+   "crisp": 1.0
+  },
+  "etiqueta": {
+   "erase": "transparent",
+   "font": "avenir-cond",
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "pad": 0,
+   "cap": 8.5,
+   "align": "left",
+   "crisp": 1.0
+  }
+ },
+ "items": [
+  {
+   "style": "celda",
+   "box": [
+    60,
+    92,
+    22,
+    12
+   ],
+   "text": "Prep"
+  },
+  {
+   "style": "celda",
+   "box": [
+    83,
+    92,
+    22,
+    12
+   ],
+   "text": "Succ."
+  },
+  {
+   "style": "celda",
+   "box": [
+    106,
+    92,
+    22,
+    12
+   ],
+   "text": "Fight"
+  },
+  {
+   "style": "celda",
+   "box": [
+    129,
+    92,
+    22,
+    12
+   ],
+   "text": "Mobil."
+  },
+  {
+   "style": "celda",
+   "box": [
+    60,
+    105,
+    22,
+    12
+   ],
+   "text": "Cool."
+  },
+  {
+   "style": "celda",
+   "box": [
+    83,
+    105,
+    22,
+    12
+   ],
+   "text": "Pow."
+  },
+  {
+   "style": "celda",
+   "box": [
+    106,
+    105,
+    22,
+    12
+   ],
+   "text": "Shoot"
+  },
+  {
+   "style": "etiqueta",
+   "box": [
+    167,
+    27,
+    34,
+    12
+   ],
+   "text": "Head"
+  },
+  {
+   "style": "etiqueta",
+   "box": [
+    167,
+    38,
+    13,
+    13
+   ],
+   "text": "R-",
+   "cap": 7.5,
+   "font": "din"
+  },
+  {
+   "style": "etiqueta",
+   "box": [
+    167,
+    50,
+    13,
+    13
+   ],
+   "text": "L-",
+   "cap": 7.5,
+   "font": "din"
+  },
+  {
+   "style": "etiqueta",
+   "box": [
+    180,
+    38,
+    21,
+    13
+   ],
+   "text": "Arm"
+  },
+  {
+   "style": "etiqueta",
+   "box": [
+    98,
+    55,
+    43,
+    11
+   ],
+   "text": "Legs",
+   "erase_box": [
+    98,
+    55,
+    44,
+    12
+   ]
+  },
+  {
+   "style": "etiqueta",
+   "segments": [
+    [
+     142,
+     55,
+     25,
+     11,
+     0,
+     0
+    ],
+    [
+     180,
+     51,
+     18,
+     11,
+     25,
+     0
+    ]
+   ],
+   "text": "Armor",
+   "cap": 8,
+   "baseline": 9.6,
+   "erase_box": [
+    [
+     142,
+     55,
+     25,
+     11
+    ],
+    [
+     180,
+     51,
+     18,
+     11
+    ]
+   ]
+  },
+  {
+   "style": "celda",
+   "box": [
+    110,
+    83,
+    52,
+    8
+   ],
+   "text": "Auto Robattle",
+   "font": "tahoma",
+   "cap": 6,
+   "fill": "#E8E8E8"
+  },
+  {
+   "erase_box": [
+    171,
+    0,
+    29,
+    10
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    173,
+    2,
+    11,
+    5
+   ],
+   "erase": "none",
+   "text": "TRA",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": "#000000",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 7,
+   "stroke_w": 1
+  },
+  {
+   "box": [
+    185,
+    2,
+    5,
+    5
+   ],
+   "erase": "none",
+   "text": "P",
+   "font": "translation-work/tex/fuentes_pixel/pix5x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": "#000000",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 7,
+   "stroke_w": 1
+  },
+  {
+   "box": [
+    191,
+    2,
+    7,
+    5
+   ],
+   "erase": "none",
+   "text": " ",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": "#000000",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 7,
+   "stroke_w": 1
+  },
+  {
+   "erase_box": [
+    201,
+    0,
+    30,
+    10
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    204,
+    2,
+    23,
+    5
+   ],
+   "erase": "none",
+   "text": "PLANT",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F4F4F4",
+   "stroke": "#000000",
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "min_scale_x": 1,
+   "align": "left",
+   "baseline": 7,
+   "stroke_w": 1
+  }
+ ],
+ "protect": [
+  [
+   98,
+   66,
+   16,
+   1
+  ]
+ ]
+}

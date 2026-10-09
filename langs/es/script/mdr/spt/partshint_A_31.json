@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_31.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "36197e0fed13",
+   "t": "<c:00ff00>{{mf}}:<c>{{ninja_action}}\n{{up|cap}} el {{stats}} de\n{{success}} y {{evade}} de todo tu\nequipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

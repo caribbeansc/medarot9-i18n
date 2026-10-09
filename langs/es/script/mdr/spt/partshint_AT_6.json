@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_6.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "059af26777e3",
+   "t": "<c:00ff00>Técnica:<c>{{beam}}\nAtaque de {{shooting}}: con\ncarga al 50% o más la\n{{power}} se duplica, y con\ncarga al 100% la {{power}}\nse triplica."
+  }
+ ]
+}

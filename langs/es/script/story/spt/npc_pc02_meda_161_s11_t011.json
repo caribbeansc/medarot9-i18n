@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_meda_161_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "2e7d95b7fe6d",
+   "t": "No te preocupes, {{mio}}. Pase lo que pase,"
+  },
+  {
+   "i": 1038,
+   "src": "d9d32db06215",
+   "t": "estaré aquí contigo, ¿de acuerdo?"
+  }
+ ]
+}

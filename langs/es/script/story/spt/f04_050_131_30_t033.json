@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f04_050_131_30_t033.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "e422fdeb13aa",
+   "t": "Vaya."
+  },
+  {
+   "i": 1038,
+   "src": "4d0a4625e7ec",
+   "t": "Llegó alguien inesperado, eh."
+  },
+  {
+   "i": 1048,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1057,
+   "src": "0395278a27a6",
+   "t": "¡Ay, no esperaba al {{exploration_club}}"
+  },
+  {
+   "i": 1060,
+   "src": "04108a6ce9ce",
+   "t": "así que no me he preparado para nada!"
+  },
+  {
+   "i": 1070,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1079,
+   "src": "fa71b7a9aa4c",
+   "t": "Tranquilo, tranquilo."
+  },
+  {
+   "i": 1082,
+   "src": "692521f3878a",
+   "t": "Tenemos un ayudante muy fiable."
+  },
+  {
+   "i": 1089,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1095,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

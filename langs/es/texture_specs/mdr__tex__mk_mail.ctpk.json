@@ -1,0 +1,31 @@
+{
+ "rel": "mdr/tex/mk_mail.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    18,
+    17,
+    62,
+    14
+   ],
+   "erase_box": [
+    16,
+    16,
+    64,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Leer correo",
+   "font": "helv-cond",
+   "cap": 9,
+   "fill": "auto",
+   "stroke": "auto",
+   "stroke_w": 1.0,
+   "pad": 0,
+   "crisp": 0.8,
+   "align": "left",
+   "dy": 0
+  }
+ ]
+}

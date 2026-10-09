@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f10_050_231_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "d213e4ede6c0",
+   "t": "I want money, {{robo}}~"
+  },
+  {
+   "i": 1038,
+   "src": "6ee2ae12d1a5",
+   "t": "I don't wanna die, {{robo}}~!"
+  }
+ ]
+}

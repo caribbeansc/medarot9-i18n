@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo5.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "a7e282704c1d",
+   "t": "Let's check out the suspicious places."
+  },
+  {
+   "i": 32,
+   "src": "eacddb1ac3e3",
+   "t": "1 First Time at the {{exploration_club}}\n"
+  },
+  {
+   "i": 42,
+   "src": "3882c0465622",
+   "t": "1 {{exploration_club}}: Encounter\n"
+  },
+  {
+   "i": 52,
+   "src": "f2f9877bccd7",
+   "t": "1 {{exploration_club}}: Mid-Boss Appears\n"
+  }
+ ]
+}

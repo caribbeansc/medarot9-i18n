@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f02_070_153_30_t001.spt",
+ "lines": [
+  {
+   "i": 1055,
+   "src": "43cb1089b3df",
+   "t": "He jumped!"
+  },
+  {
+   "i": 1058,
+   "src": "83781fb5b924",
+   "t": "That guy's good!"
+  },
+  {
+   "i": 1064,
+   "src": "43cb1089b3df",
+   "t": "He jumped!"
+  },
+  {
+   "i": 1067,
+   "src": "65bf2406c92f",
+   "t": "That guy's got skills!"
+  },
+  {
+   "i": 1078,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1084,
+   "src": "e5eff39d266a",
+   "t": "No time to stop her."
+  },
+  {
+   "i": 1087,
+   "src": "82ce0ddb8284",
+   "t": "...Well then."
+  },
+  {
+   "i": 1098,
+   "src": "0a1fdb0c2e1b",
+   "t": "Could you tell me"
+  },
+  {
+   "i": 1101,
+   "src": "8502799cbc62",
+   "t": "why she was in this room?"
+  },
+  {
+   "i": 1108,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1117,
+   "src": "b54c69886a13",
+   "t": "I can't say."
+  },
+  {
+   "i": 1124,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1133,
+   "src": "7ba9e7129df9",
+   "t": "Not even if I insist?"
+  },
+  {
+   "i": 1147,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1156,
+   "src": "3a34075ef531",
+   "t": "No, I promised."
+  },
+  {
+   "i": 1159,
+   "src": "6776aa70c3f7",
+   "t": "If you really want to know, ask her\nyourself."
+  },
+  {
+   "i": 1166,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1175,
+   "src": "2b68638a9ba7",
+   "t": "Ask her myself, huh?"
+  },
+  {
+   "i": 1178,
+   "src": "5de94f3342dc",
+   "t": "Got it."
+  },
+  {
+   "i": 1189,
+   "src": "94bfd2b792e3",
+   "t": "Let's go, "
+  },
+  {
+   "i": 1191,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  }
+ ]
+}

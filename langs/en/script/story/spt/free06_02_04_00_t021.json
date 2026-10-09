@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_02_04_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "644d6cbab1d3",
+   "t": "{{mission|cap}} '{{medalia}} Collection:\nMine Cart Station' begins!"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "57e24d8f9b08",
+   "t": "Let's head west from the {{mine_entrance}}\n{{area}}."
+  }
+ ]
+}

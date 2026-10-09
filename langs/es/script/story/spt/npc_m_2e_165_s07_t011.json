@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_2e_165_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1038,
+   "src": "226752a9930e",
+   "t": "¿El festival cultural?"
+  },
+  {
+   "i": 1041,
+   "src": "84727d0540fb",
+   "t": "No lo sé."
+  },
+  {
+   "i": 1049,
+   "src": "fbe6e83b31da",
+   "t": "Hoy hay entrenamiento de campo."
+  },
+  {
+   "i": 1052,
+   "src": "92b155a91524",
+   "t": "Y mañana también, claro."
+  },
+  {
+   "i": 1070,
+   "src": "40d012a79a6e",
+   "t": "¡Y pasado mañana también!"
+  }
+ ]
+}

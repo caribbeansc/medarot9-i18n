@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_12.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dfca8f52d0cb",
+   "t": "{{medabot}} tipo cámara.\n \nSu flash de {{head_part_slot}} anula\nla {{evade}} y {{defend}} {{opponent}};\nel rayo de su brazo\nderecho, que imita un\nteleobjetivo, capta el\nmomento decisivo del\n{{opponent}}."
+  }
+ ]
+}

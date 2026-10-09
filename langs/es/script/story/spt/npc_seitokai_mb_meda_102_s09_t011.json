@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_mb_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a2a142d29852",
+   "t": "{{gigaphant}}"
+  },
+  {
+   "i": 1038,
+   "src": "e237fe6e26b0",
+   "t": "¡Arriba, arriba!"
+  },
+  {
+   "i": 1041,
+   "src": "378973d0d85b",
+   "t": "¡Déjanos el trabajo pesado a nosotros!"
+  }
+ ]
+}

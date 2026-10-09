@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f08_180_113_00_t014.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "021968eba267",
+   "t": "More students are wandering into\ndangerous places,"
+  },
+  {
+   "i": 1038,
+   "src": "07dd1fbc7860",
+   "t": "and voices worry that something will\nhappen at this rate."
+  },
+  {
+   "i": 1046,
+   "src": "35c05654d157",
+   "t": "I was racking my brain over taking\naction soon,"
+  },
+  {
+   "i": 1049,
+   "src": "a7b93e2c128d",
+   "t": "and then this accident happened."
+  },
+  {
+   "i": 1057,
+   "src": "8e955acbc766",
+   "t": "And on top of that, the Exploration\n{{club|cap}}, the source of the commotion, got\nlost--"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_janit_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 1035,
+   "src": "5fa01b09dba2",
+   "t": "Vaya, me encantaría, pero por desgracia,"
+  },
+  {
+   "i": 1038,
+   "src": "8e51ecccc3a3",
+   "t": "ando corto de tiempo... ¡Otra vez será!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_6.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "059af26777e3",
+   "t": "<c:00ff00>Action:<c> {{beam}}\nA ranged attack: {{power}}\ndoubles with the Charge\nGauge at 50% or more,\nand triples with the\n{{charge_gauge}} at\n100%."
+  }
+ ]
+}

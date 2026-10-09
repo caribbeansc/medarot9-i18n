@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_6.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "61bb344b27c6",
+   "t": "<c:00ff00>{{effect|cap}} de {{leader|cap}}:<c> {{terrain_adjust}}\nElimina afinidades desfavorables de {{legs_part_slot}}\ny duplica el bono en terrenos favorables\n"
+  }
+ ]
+}

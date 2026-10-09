@@ -1,0 +1,230 @@
+{
+ "file": "mdr/spt/medaloppi.spt",
+ "lines": [
+  {
+   "i": 1746,
+   "src": "659ddcb97acb",
+   "t": "Saving now. "
+  },
+  {
+   "i": 1807,
+   "src": "cbf2f9db8b90",
+   "t": "Failed to save."
+  },
+  {
+   "i": 1891,
+   "src": "b588acc02310",
+   "t": "I'm receiving a present."
+  },
+  {
+   "i": 1921,
+   "src": "71a26c7fd812",
+   "t": "Save data was corrupted, "
+  },
+  {
+   "i": 1922,
+   "src": "e329ba9772b4",
+   "t": "and has been deleted. "
+  },
+  {
+   "i": 1962,
+   "src": "345a215cbef9",
+   "t": "There are no new gifts. "
+  },
+  {
+   "i": 2127,
+   "src": "242b2eb50a16",
+   "t": "<c> received as a set of {{part|pl}}!"
+  },
+  {
+   "i": 2489,
+   "src": "1ff1911619b5",
+   "t": "First,for online use "
+  },
+  {
+   "i": 2490,
+   "src": "a437386b6b6f",
+   "t": " enter your name. "
+  },
+  {
+   "i": 2539,
+   "src": "fb650afd032f",
+   "t": "Online Battle"
+  },
+  {
+   "i": 2540,
+   "src": "0741080803c8",
+   "t": "Local Battle"
+  },
+  {
+   "i": 2541,
+   "src": "c09e47e221f6",
+   "t": "{{part|cap}} Transfer"
+  },
+  {
+   "i": 2542,
+   "src": "3b275401dc5a",
+   "t": "Change Net Name"
+  },
+  {
+   "i": 2543,
+   "src": "fd04d383e15c",
+   "t": "Receive Gift"
+  },
+  {
+   "i": 2554,
+   "src": "fb650afd032f",
+   "t": "Online Battle"
+  },
+  {
+   "i": 2562,
+   "src": "0741080803c8",
+   "t": "Local Battle"
+  },
+  {
+   "i": 2570,
+   "src": "c09e47e221f6",
+   "t": "{{part|cap}} Transfer"
+  },
+  {
+   "i": 2578,
+   "src": "3b275401dc5a",
+   "t": "Change Net Name"
+  },
+  {
+   "i": 2586,
+   "src": "fd04d383e15c",
+   "t": "Receive Gift"
+  },
+  {
+   "i": 2724,
+   "src": "c3c5b4d37fe8",
+   "t": "This name will be displayed\nto all other players.\nDo not choose an inappropriate name\nthat will offend the other players."
+  },
+  {
+   "i": 2755,
+   "src": "1019be717317",
+   "t": "Contains inappropriate word."
+  },
+  {
+   "i": 2756,
+   "src": "c7f75fa118bf",
+   "t": "Give it another name. "
+  },
+  {
+   "i": 2767,
+   "src": "c67de65f175f",
+   "t": "Can use up to 5 numbers. "
+  },
+  {
+   "i": 2768,
+   "src": "c7f75fa118bf",
+   "t": "Give it another name. "
+  },
+  {
+   "i": 2802,
+   "src": "cb8433a68c8e",
+   "t": "SpotPass"
+  },
+  {
+   "i": 2803,
+   "src": "bfab5a53d2ec",
+   "t": "Password"
+  },
+  {
+   "i": 2804,
+   "src": "3a224f68c003",
+   "t": "DLC"
+  },
+  {
+   "i": 2811,
+   "src": "7880f4bda104",
+   "t": "StreetPass"
+  },
+  {
+   "i": 2812,
+   "src": "cb8433a68c8e",
+   "t": "SpotPass"
+  },
+  {
+   "i": 2813,
+   "src": "bfab5a53d2ec",
+   "t": "Password"
+  },
+  {
+   "i": 2814,
+   "src": "3a224f68c003",
+   "t": "DLC"
+  },
+  {
+   "i": 2830,
+   "src": "7880f4bda104",
+   "t": "StreetPass"
+  },
+  {
+   "i": 2838,
+   "src": "cb8433a68c8e",
+   "t": "SpotPass"
+  },
+  {
+   "i": 2846,
+   "src": "bfab5a53d2ec",
+   "t": "Password"
+  },
+  {
+   "i": 2854,
+   "src": "3a224f68c003",
+   "t": "DLC"
+  },
+  {
+   "i": 3125,
+   "src": "c0b1b65767f5",
+   "t": "There are no {{part|pl}} to receive."
+  },
+  {
+   "i": 3160,
+   "src": "7e99e8422747",
+   "t": "If you quit the game,"
+  },
+  {
+   "i": 3163,
+   "src": "f0cc31a6cbfa",
+   "t": "streetpass will continue."
+  },
+  {
+   "i": 3166,
+   "src": "eb7b873abde0",
+   "t": "Do you want to use streetpass?"
+  },
+  {
+   "i": 3207,
+   "src": "b6acb72ada59",
+   "t": "StreetPass list is full."
+  },
+  {
+   "i": 3210,
+   "src": "870c1b947cdc",
+   "t": "Manage your streetpass settings"
+  },
+  {
+   "i": 3213,
+   "src": "ba72fb851645",
+   "t": "or turn off streetpass."
+  },
+  {
+   "i": 3311,
+   "src": "83934c65f647",
+   "t": "'Streetpass is Unavaiable'"
+  },
+  {
+   "i": 3314,
+   "src": "08ea7077f762",
+   "t": "Due to strict parental"
+  },
+  {
+   "i": 3317,
+   "src": "579bd8a2f803",
+   "t": "controls set for you."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_kyoto_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

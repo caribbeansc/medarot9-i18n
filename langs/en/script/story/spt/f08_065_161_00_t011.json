@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f08_065_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "81e6f33e4768",
+   "t": "I added a {{medalia}} search quest."
+  },
+  {
+   "i": 1041,
+   "src": "da0aeb2d0dcb",
+   "t": "It seems {{main}} found another promising\nspot."
+  },
+  {
+   "i": 1052,
+   "src": "61aa1815a2c7",
+   "t": "{{main}}-chan did?"
+  },
+  {
+   "i": 1057,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1066,
+   "src": "453d296d8af8",
+   "t": "Yes, I subtracted the strong reading\ndetected at the crater"
+  },
+  {
+   "i": 1069,
+   "src": "0f83d6945864",
+   "t": "and recalculated. And then this showed\nup."
+  },
+  {
+   "i": 1080,
+   "src": "b7d965cee4b1",
+   "t": "Wow..."
+  }
+ ]
+}

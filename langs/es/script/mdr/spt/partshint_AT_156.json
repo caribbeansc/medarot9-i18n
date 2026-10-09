@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_156.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "232e6b11c216",
+   "t": "<c:00ff00>Técnica:<c>{{trap|cap}} Curación\nColoca una {{trap}} que\ndaña al reaccionar a la\nacción de reparar del\n{{opponent}}.\nAl colocarla\nrepetidamente {{up}} el\n{{armor}} y el {{damage}}."
+  }
+ ]
+}

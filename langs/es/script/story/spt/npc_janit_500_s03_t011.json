@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_janit_500_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 1038,
+   "src": "c4f007161be3",
+   "t": "Aquí atraca el ferri que trae"
+  },
+  {
+   "i": 1041,
+   "src": "8949e9ba6095",
+   "t": "provisiones. Suele estar tranquilo"
+  },
+  {
+   "i": 1049,
+   "src": "6a1e8d54ea60",
+   "t": "y vacío. Pero las instalaciones son"
+  },
+  {
+   "i": 1052,
+   "src": "3d74249682af",
+   "t": "impresionantes. También hay una"
+  },
+  {
+   "i": 1060,
+   "src": "7e6c7d7c73ce",
+   "t": "playa cerca. El único inconveniente"
+  },
+  {
+   "i": 1063,
+   "src": "ca198d439918",
+   "t": "es que hay Medabots salvajes sueltos."
+  }
+ ]
+}

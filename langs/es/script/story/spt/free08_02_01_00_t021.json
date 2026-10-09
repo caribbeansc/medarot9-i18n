@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free08_02_01_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "fa51dc200ee4",
+   "t": "¡{{mission|cap}} 'Recolección de {{medalia|pl}}:\nSendero de Montaña Bloqueado' inicia!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "f142f8eed494",
+   "t": "Más allá del camino de montaña, hay un"
+  },
+  {
+   "i": 1046,
+   "src": "970b41df6c08",
+   "t": "{{suspension_bridge}} que ya no se usa..."
+  }
+ ]
+}

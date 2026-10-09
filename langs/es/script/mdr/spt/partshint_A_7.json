@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_7.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "86fa1a60b3d6",
+   "t": "<c:00ff00>{{mf}}:<c>No {{evade|cap}}\nImpide a todo el equipo\n{{opponent}} esquivar y\ndefenderse.\n<c:00ffff>#{{part|cap}} requerida<c>\n1 o más {{part|pl}} de ataque"
+  }
+ ]
+}

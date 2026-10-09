@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dce97f1b237d",
+   "t": "<c:00ff00>Técnica:<c>Rifle Poder\nAtaque de {{shooting}} veloz.\nSi la {{power}} llega a 40\no más, gana {{effect}} de\n{{pierce}}.\nCon {{legs}} sin destruir,\nla {{power}} sube x1.5.\nSin {{evade}} al enfriar."
+  }
+ ]
+}

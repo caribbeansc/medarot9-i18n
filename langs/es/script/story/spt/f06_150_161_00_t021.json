@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f06_150_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "b90495a554c2",
+   "t": "Este mapa... es un panorama de\ntoda la isla."
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "d1324e078a5c",
+   "t": "¿Qué son todos estos gráficos circulares"
+  },
+  {
+   "i": 1054,
+   "src": "aaa125a748c4",
+   "t": "superpuestos en el mapa?"
+  },
+  {
+   "i": 1061,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1070,
+   "src": "dee172fb266b",
+   "t": "Es el rango de ondas sonoras."
+  },
+  {
+   "i": 1073,
+   "src": "501c0d4d8a8e",
+   "t": "Basado en los datos que reunieron."
+  },
+  {
+   "i": 1083,
+   "src": "970f3e9d66f7",
+   "t": "Aislé las ondas sospechosas\ny analicé el origen."
+  }
+ ]
+}

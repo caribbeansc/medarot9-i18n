@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_18.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "747d0aa01d00",
+   "t": "{{medabot}} {{themed_on}} el\ndragón volador de Oriente.\n \nRaro entre los de {{type}}\nmasculino, tiene {{part|pl}} de\n{{recover}} y domina el\nmisterioso poder de curar\ny {{restore}}."
+  }
+ ]
+}

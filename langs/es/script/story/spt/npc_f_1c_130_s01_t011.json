@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_1c_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1035,
+   "src": "4bcbd6dd878e",
+   "t": "¡Increíble!"
+  },
+  {
+   "i": 1038,
+   "src": "71b788ea4528",
+   "t": "Tú sí que estás en otro nivel, Senpai..."
+  },
+  {
+   "i": 1046,
+   "src": "703b1e9aad7e",
+   "t": "¡Yo también tengo que esforzarme más!"
+  }
+ ]
+}

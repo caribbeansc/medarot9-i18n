@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_12.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "564a89de3dd7",
+   "t": "<c:00ff00>Action:<c> {{destroy_game_term}}\nA ranged attack: if the\nfoe defends or takes the\n{{hit}} with its acting\n{{part}}, destroys it\nregardless of {{armor}}.\nHitting another {{part}} is\na normal attack."
+  }
+ ]
+}

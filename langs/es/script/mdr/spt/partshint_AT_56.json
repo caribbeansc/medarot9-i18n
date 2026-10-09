@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_56.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4a69d318b8f3",
+   "t": "<c:00ff00>Técnica:<c>Drenaje de {{level|cap}}\nAtaque que baja 5 el {{level}}\nde la medalla del {{opponent}} y\nsube\n5 el {{level}} de tu medalla."
+  }
+ ]
+}

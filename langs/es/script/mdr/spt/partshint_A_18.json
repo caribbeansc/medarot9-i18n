@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_18.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "a2f3b327642d",
+   "t": "<c:00ff00>{{mf}}:<c>Incendio\nAtaque cuerpo a cuerpo\nque añade {{damage_over_time}}\na todo el equipo {{opponent}}.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de\nlucha"
+  }
+ ]
+}

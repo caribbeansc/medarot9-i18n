@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f02_020_163_10_t002.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1045,
+   "src": "be616a0433d3",
+   "t": "Good work, {{aoi}}! {{flora}}!"
+  },
+  {
+   "i": 1057,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1063,
+   "src": "7353f0ecc190",
+   "t": "...Phew."
+  },
+  {
+   "i": 1073,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1079,
+   "src": "74fb496c5ee9",
+   "t": "Hmm, you're not as sharp today."
+  },
+  {
+   "i": 1082,
+   "src": "72c7334174b8",
+   "t": "That's not like you. What's up?"
+  },
+  {
+   "i": 1089,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1095,
+   "src": "45b8557096a4",
+   "t": "N-nothing... Oh."
+  },
+  {
+   "i": 1103,
+   "src": "f5d34b7581cc",
+   "t": "I probably didn't sleep well last night,"
+  },
+  {
+   "i": 1106,
+   "src": "7a35de8b57d7",
+   "t": "so I think it's from lack of sleep. Sorry!"
+  },
+  {
+   "i": 1113,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1119,
+   "src": "71ea54bf3032",
+   "t": "Really? Well, as long as you're okay."
+  },
+  {
+   "i": 1122,
+   "src": "d55a8af97b0d",
+   "t": "If you feel sick, make sure you tell me."
+  },
+  {
+   "i": 1136,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1142,
+   "src": "9e90cd86bab6",
+   "t": "Yes."
+  },
+  {
+   "i": 1145,
+   "src": "aaa9172a59b6",
+   "t": "Thank you, President!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_fb_000_s01_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ed9dd8dbb708",
+   "t": "{{school_nurse}}"
+  },
+  {
+   "i": 1035,
+   "src": "b805965dbfc2",
+   "t": "This is the infirmary."
+  },
+  {
+   "i": 1038,
+   "src": "ecfb536f8d8c",
+   "t": "Don't come too often if you're healthy."
+  },
+  {
+   "i": 1046,
+   "src": "5e083a374acf",
+   "t": "Or people will think you're skipping\nclass."
+  },
+  {
+   "i": 1049,
+   "src": "f70178cf75e5",
+   "t": "Hee hee."
+  }
+ ]
+}

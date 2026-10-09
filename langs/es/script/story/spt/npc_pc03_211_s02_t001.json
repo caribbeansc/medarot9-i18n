@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_pc03_211_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "567cd66b2eeb",
+   "t": "Claro, la energía no está llegando..."
+  },
+  {
+   "i": 1043,
+   "src": "e8ada4681225",
+   "t": "o más bien, la batería ha sido"
+  },
+  {
+   "i": 1046,
+   "src": "08d120d9c36e",
+   "t": "retirada por completo. No..."
+  },
+  {
+   "i": 1054,
+   "src": "6075b4bddf0c",
+   "t": "No es solo cuestión de baterías."
+  },
+  {
+   "i": 1057,
+   "src": "7a21b6a50a0d",
+   "t": "Las cajas están casi todas vacías."
+  },
+  {
+   "i": 1065,
+   "src": "0da2b5cf29ba",
+   "t": "Parece que no habrá mucho botín..."
+  },
+  {
+   "i": 1073,
+   "src": "cad22b03a4a8",
+   "t": "No, no, tiene que haber algo..."
+  },
+  {
+   "i": 1081,
+   "src": "23bce93dafed",
+   "t": "¿No habrá algo por aquí...?"
+  },
+  {
+   "i": 1084,
+   "src": "e3e9848937c8",
+   "t": "Mmm..."
+  }
+ ]
+}

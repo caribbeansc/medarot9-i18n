@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_126.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f9ca26a2ece4",
+   "t": "<c:00ff00>Action:<c> {{count_repair}}\nRecovers {{damage}} on one\n{{part}} of one allied\n{{medabot}}.\nThe amount recovered\ngrows with the time\nelapsed."
+  }
+ ]
+}

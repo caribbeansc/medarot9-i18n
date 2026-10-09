@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description72.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bd0b97b7e7b3",
+   "t": "{{hall|cap}} ({{field}})"
+  },
+  {
+   "i": 11,
+   "src": "4f0a7fd1cace",
+   "t": "Un tipo de <c:ffff00>{{field}}<c> donde se hace la <c:ffff00>{{robattle}}<c>.\n{{terrain|cap}} de espacio cerrado, como una {{cave}} o un\nlugar bajo techo.\nLa <c:ffff00>{{terrain_affinity}}<c> modifica la <c:ffff00>{{mobility}}<c>, el\n<c:ffff00>{{fighting}}<c> y el <c:ffff00>{{shooting}}<c> de cada <c:ffff00>{{leg_type}}<c>:\n  <c:ffff00>{{biped|cap}}<c> +4, <c:ffff00>{{multi_leg}}<c> +4, <c:ffff00>{{vehicle}}<c> -4, <c:ffff00>{{tank}}<c> 0,\n  <c:ffff00>{{hover}}<c> +4, <c:ffff00>{{flying}}<c> -4, <c:ffff00>{{submarine}}<c> -4."
+  }
+ ]
+}

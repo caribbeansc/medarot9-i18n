@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_63.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "06d823712a9b",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nEspejismo\nAl completar la carga, te\naplicas un {{effect}} igual al\nde\n\"Ocultar\"."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/tuto_08_001.spt",
+ "lines": [
+  {
+   "i": 1118,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1124,
+   "src": "a251dca814f8",
+   "t": "Pusiste un fuego cruzado de \"Disparo\",\nasí que pon el siguiente en \"Combate\".                   "
+  },
+  {
+   "i": 1129,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1135,
+   "src": "d8ba69e85271",
+   "t": "Presiona derecha dos veces y elige\nuna {{part}} apta para fuego cruzado.    "
+  },
+  {
+   "i": 1193,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1199,
+   "src": "9c05d1d72e1f",
+   "t": "Confirma el comando con $*.           "
+  }
+ ]
+}

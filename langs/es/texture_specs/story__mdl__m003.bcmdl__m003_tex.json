@@ -1,0 +1,78 @@
+{
+ "rel": "story/mdl/m003.bcmdl",
+ "tex": "m003_tex",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "pad": 0,
+  "crisp": 0
+ },
+ "items": [
+  {
+   "erase_box": [
+    102,
+    49,
+    1,
+    12
+   ],
+   "erase": "solid:#2A3B4C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    9,
+    38,
+    93,
+    27
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "thr": 35,
+   "text": ""
+  },
+  {
+   "erase_box": [
+    20,
+    74,
+    52,
+    26
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "thr": 35,
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    36,
+    96,
+    28
+   ],
+   "text": "Cafe del",
+   "font": "/System/Library/Fonts/Noteworthy.ttc#1",
+   "cap": 21,
+   "baseline": 61,
+   "fill": "#F6F6F9",
+   "stroke": null
+  },
+  {
+   "box": [
+    12,
+    72,
+    62,
+    28
+   ],
+   "text": "museo",
+   "font": "/System/Library/Fonts/Noteworthy.ttc#1",
+   "cap": 17.5,
+   "baseline": 96,
+   "fill": "#F6F6F9",
+   "stroke": null,
+   "dx": -1
+  }
+ ]
+}

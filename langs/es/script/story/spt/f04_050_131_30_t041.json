@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f04_050_131_30_t041.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1049,
+   "src": "9ab348bf2918",
+   "t": "Muy bien, allá vamos."
+  },
+  {
+   "i": 1052,
+   "src": "70b77431a3ca",
+   "t": "¿Están listos los dos lados? ¿Sí?"
+  },
+  {
+   "i": 1077,
+   "src": "f1407eed0e0f",
+   "t": "Bien, ¡que comience la segunda ronda!"
+  },
+  {
+   "i": 1080,
+   "src": "94626e2463d0",
+   "t": "¡{{robattle|cap}}--!"
+  }
+ ]
+}

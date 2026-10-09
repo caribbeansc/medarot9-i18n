@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_39.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7f0753bd517c",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Asalto\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"{{shoot_boost}}\"."
+  }
+ ]
+}

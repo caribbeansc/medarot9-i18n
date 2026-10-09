@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_161.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2b2346e983ee",
+   "t": "<c:00ff00>Action:<c> {{repair_plant}}\nSets a device that restores\nthe {{armor}} of all the\nteam's {{part|pl}} each time\ncooldown completes.\nSetting it repeatedly\nraises {{armor}} and\nrecovery."
+  }
+ ]
+}

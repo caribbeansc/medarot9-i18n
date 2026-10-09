@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f03_025_212_10_t002.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "7ff8cad8e814",
+   "t": "¡Lo lograste! "
+  },
+  {
+   "i": 1048,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1067,
+   "src": "3e6cd5221977",
+   "t": "Fue fácil."
+  },
+  {
+   "i": 1074,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1080,
+   "src": "450d5c2e56ea",
+   "t": "Al dar energía, luces y puerta abrieron."
+  },
+  {
+   "i": 1083,
+   "src": "cb82c217280e",
+   "t": "Igual que un elevador."
+  },
+  {
+   "i": 1090,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1099,
+   "src": "57279e7bba89",
+   "t": "¿Y bien?"
+  },
+  {
+   "i": 1102,
+   "src": "2c22ba392bb8",
+   "t": "¿Qué hay aquí?"
+  },
+  {
+   "i": 1109,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1118,
+   "src": "1aa9a87aefaa",
+   "t": "No lo sé."
+  },
+  {
+   "i": 1121,
+   "src": "8330b5182a9d",
+   "t": "Pero por lo que veo..."
+  },
+  {
+   "i": 1129,
+   "src": "1ef9b14dd899",
+   "t": "Oh, hay una {{mine_cart}}."
+  },
+  {
+   "i": 1132,
+   "src": "1f5ff264db9f",
+   "t": "Y rieles también..."
+  },
+  {
+   "i": 1137,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1143,
+   "src": "b5e066322839",
+   "t": "Investiguemos."
+  }
+ ]
+}

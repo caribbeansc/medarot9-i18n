@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_130.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "12770aac68c7",
+   "t": "<c:00ff00>Técnica:<c>{{guard}} Pólvora\nAdopta una postura de\nguardia que intercepta\nataques a aliados.\nAl interceptar, anula el\n{{damage}} si es misil o napalm."
+  }
+ ]
+}

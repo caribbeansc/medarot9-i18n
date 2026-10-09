@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_2c_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1038,
+   "src": "15ac82ddddba",
+   "t": "{{hiroki}}-kun hasn't been showing up"
+  },
+  {
+   "i": 1041,
+   "src": "fcb24ad35283",
+   "t": "to the {{club}} lately. I wonder what's\nwrong."
+  },
+  {
+   "i": 1049,
+   "src": "d648f6631e1b",
+   "t": "The {{club}} isn't mandatory over break,"
+  },
+  {
+   "i": 1052,
+   "src": "4c14763b6827",
+   "t": "but still, you know?"
+  },
+  {
+   "i": 1060,
+   "src": "26a62da11ce0",
+   "t": "I hope he hasn't picked up any bad\nhabits\nsomewhere... then again,"
+  },
+  {
+   "i": 1068,
+   "src": "96c9d32b85ff",
+   "t": "there's nowhere on this island for that."
+  },
+  {
+   "i": 1071,
+   "src": "68143015e243",
+   "t": "Ahaha."
+  }
+ ]
+}

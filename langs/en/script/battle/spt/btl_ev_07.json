@@ -1,0 +1,15 @@
+{
+ "file": "battle/spt/btl_ev_07.spt",
+ "lines": [
+  {
+   "i": 32,
+   "src": "a6146b1bf82f",
+   "t": "{{plant}} Description"
+  },
+  {
+   "i": 55,
+   "src": "7016c02e06fd",
+   "t": "{{plant}} Description"
+  }
+ ]
+}

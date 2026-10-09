@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_1a_meda_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f8a710cb09f8",
+   "t": "{{boy_1_a_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "7f86e6e2381f",
+   "t": "De titular, creo que lo habría logrado."
+  },
+  {
+   "i": 1038,
+   "src": "bf46b7f1a3a4",
+   "t": "¡Mi fuerza no fue suficiente-!"
+  },
+  {
+   "i": 1045,
+   "src": "59a0ab151899",
+   "t": "{{boy_1_a}}"
+  },
+  {
+   "i": 1051,
+   "src": "3d9b3ff72e3f",
+   "t": "Tonto, mi fuerza tampoco fue suficiente."
+  },
+  {
+   "i": 1054,
+   "src": "68b3b8e04552",
+   "t": "No es tu culpa, compañero."
+  }
+ ]
+}

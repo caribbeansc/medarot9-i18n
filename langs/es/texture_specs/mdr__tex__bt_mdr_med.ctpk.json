@@ -1,0 +1,166 @@
+{
+ "rel": "mdr/tex/bt_mdr_med.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "tahoma",
+  "cap": 7,
+  "fill": {
+   "top": "#FFFFFF",
+   "bottom": "#C4C4C4"
+  },
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.3,
+  "min_scale_x": 0.75
+ },
+ "items": [
+  {
+   "box": [
+    9,
+    85,
+    62,
+    10
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    21,
+    85,
+    38,
+    10
+   ],
+   "text": "Medalla",
+   "repeat": [
+    [
+     80,
+     0
+    ]
+   ]
+  },
+  {
+   "box": [
+    9,
+    181,
+    62,
+    9
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    10,
+    181,
+    60,
+    10
+   ],
+   "text": "Configuracion",
+   "repeat": [
+    [
+     80,
+     0
+    ]
+   ],
+   "font": "tahoma",
+   "cap": 6
+  },
+  {
+   "box": [
+    9,
+    277,
+    62,
+    10
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    21,
+    277,
+    38,
+    10
+   ],
+   "text": "Guardar",
+   "repeat": [
+    [
+     80,
+     0
+    ]
+   ]
+  },
+  {
+   "box": [
+    0,
+    392,
+    80,
+    16
+   ],
+   "erase": "transparent",
+   "text": "MedaBuscador"
+  },
+  {
+   "box": [
+    80,
+    392,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Piezas"
+  },
+  {
+   "box": [
+    0,
+    408,
+    56,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Musica"
+  },
+  {
+   "box": [
+    84,
+    408,
+    36,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Correo"
+  },
+  {
+   "box": [
+    0,
+    424,
+    64,
+    16
+   ],
+   "erase": "transparent",
+   "text": "MedaAlbum"
+  },
+  {
+   "box": [
+    80,
+    424,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Mapa"
+  },
+  {
+   "box": [
+    0,
+    440,
+    56,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Mis datos"
+  },
+  {
+   "box": [
+    80,
+    440,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Ayuda"
+  }
+ ]
+}

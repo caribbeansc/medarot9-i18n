@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description36.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "103d1c08e10e",
+   "t": "Attack Failure"
+  },
+  {
+   "i": 11,
+   "src": "002614b905c3",
+   "t": "Missing an <c:ffff00>attack<c> due to one's own factors,\nregardless of the {{opponent}}'s state or abilities.\nIt only occurs with <c:ffff00>ranged attacks<c>.\n\nThe lower the <c:ffff00>{{success_power}}<c> of the ranged attack,\nthe more likely it is to occur."
+  }
+ ]
+}

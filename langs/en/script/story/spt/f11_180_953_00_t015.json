@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f11_180_953_00_t015.spt",
+ "lines": [
+  {
+   "i": 903,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 914,
+   "src": "30cd50a3ab93",
+   "t": "From what I can see, its head and both\narms"
+  },
+  {
+   "i": 917,
+   "src": "160b43dc6b30",
+   "t": "can each act independently."
+  },
+  {
+   "i": 925,
+   "src": "b980b1716fb3",
+   "t": "If we focus on one spot, the others will\nambush us."
+  },
+  {
+   "i": 928,
+   "src": "d128374a904b",
+   "t": "Taking them out one by one with three\nteams is best."
+  },
+  {
+   "i": 936,
+   "src": "f93eec74dd05",
+   "t": "Teams are divided by {{club}}."
+  },
+  {
+   "i": 951,
+   "src": "e75d67c9c0a4",
+   "t": "That is, the {{idol_club}}, the {{medabot}}\nResearch {{club|cap}},"
+  },
+  {
+   "i": 954,
+   "src": "25c7ac9b8261",
+   "t": "and the {{rescue_club}}."
+  },
+  {
+   "i": 962,
+   "src": "ca4e697cbefb",
+   "t": "Each team's assignment is--"
+  }
+ ]
+}

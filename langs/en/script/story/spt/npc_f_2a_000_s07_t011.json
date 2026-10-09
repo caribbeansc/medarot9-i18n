@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "227a60d5c4d4",
+   "t": "The whole school is in {{culture_festival}}\nmode."
+  },
+  {
+   "i": 1041,
+   "src": "1c857ed542eb",
+   "t": "It's hard to believe it was summer\nvacation not long ago!"
+  }
+ ]
+}

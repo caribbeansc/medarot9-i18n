@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2e_165_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1038,
+   "src": "77af09e9b555",
+   "t": "What's wrong?"
+  },
+  {
+   "i": 1041,
+   "src": "a0111811577a",
+   "t": "What, looking for someone...?"
+  },
+  {
+   "i": 1049,
+   "src": "7e63dff33f64",
+   "t": "Hey, hey, where do you think you are?"
+  },
+  {
+   "i": 1052,
+   "src": "f37daccf921a",
+   "t": "I wouldn't know anything about the Idol\n{{club|cap}}."
+  }
+ ]
+}

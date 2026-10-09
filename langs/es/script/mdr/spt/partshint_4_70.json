@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_70.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7efa029a8e7a",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{flanking}}\nAl atacar cuerpo a cuerpo,\nsi tu {{mobility}} es el doble\no más que la del {{opponent}} en\nespera de guardia, no te\nbloquea su guardia\ninterceptora."
+  }
+ ]
+}

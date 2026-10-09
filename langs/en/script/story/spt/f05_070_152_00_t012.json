@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f05_070_152_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "a753a7c01c23",
+   "t": "Well, well."
+  },
+  {
+   "i": 1038,
+   "src": "31ed0ad1d727",
+   "t": "That was surprisingly easy to find."
+  },
+  {
+   "i": 1046,
+   "src": "f0d66e2f8bde",
+   "t": "Where did {{mio}}-kun go?"
+  },
+  {
+   "i": 1049,
+   "src": "4665fd83f76b",
+   "t": "Did she go back to her room?"
+  }
+ ]
+}

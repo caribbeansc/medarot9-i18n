@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_1e2_140_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f44d21d69865",
+   "t": "{{hanayuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "953b92377e78",
+   "t": "¿Nuestro acto? Defensa personal del"
+  },
+  {
+   "i": 1041,
+   "src": "4607ea20caef",
+   "t": "presidente del club. ¡Sin preparación!"
+  },
+  {
+   "i": 1049,
+   "src": "e3f31c73e521",
+   "t": "El festival es de los clubes culturales."
+  },
+  {
+   "i": 1052,
+   "src": "39fbc7ddfa19",
+   "t": "Ese día disfrutaremos como visitantes."
+  },
+  {
+   "i": 1060,
+   "src": "c4d0e8ea556f",
+   "t": "¡Lo nuestro de verdad es el festival\ndeportivo!"
+  }
+ ]
+}

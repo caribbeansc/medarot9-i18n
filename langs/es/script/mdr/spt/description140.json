@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description140.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "671140553d22",
+   "t": "Con condiciones"
+  },
+  {
+   "i": 11,
+   "src": "963fdcec7ac1",
+   "t": "<c:ffff00>{{robattle|cap}}<c> con condiciones especiales distintas de\nlas <c:ffff00>{{basic_rules}}<c> normales.\n\nSi hay condiciones de participación, los <c:ffff00>{{medabot|pl}}<c>\nque no las cumplan no pueden {{deploy}}.\n\nSi hay condiciones para decidir la {{victory}} o la\nderrota, cumplir solo la {{condition_rotation}} de {{victory}} de las\n{{basic_rules}} no basta para ganar."
+  }
+ ]
+}

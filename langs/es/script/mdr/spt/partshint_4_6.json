@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_6.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "726cc1e70568",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Marinero\nSin importar el tipo de\n{{legs}}, mejora la {{affinity}}\nde {{terrain}} con zonas\nacuáticas."
+  }
+ ]
+}

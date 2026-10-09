@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_63.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "06d823712a9b",
+   "t": "<c:00ff00>Leg Trait:<c> {{mirage}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"{{conceal}}\"."
+  }
+ ]
+}

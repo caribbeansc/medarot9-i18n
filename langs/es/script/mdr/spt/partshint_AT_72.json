@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_72.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "82b5b627adbb",
+   "t": "<c:00ff00>Técnica:<c>Provocar\nAtaque cuerpo a cuerpo\nque añade el {{status}} de\nprovocación.\n<c:00ffff>{{status|cap}}:<c>{{provoke}}\nDurante un tiempo, el\n{{target}} de ataque queda\nfijado."
+  }
+ ]
+}

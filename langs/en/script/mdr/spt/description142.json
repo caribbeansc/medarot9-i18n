@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description142.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "36e429ccccb3",
+   "t": "{{giant_medabot|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "60068eace81d",
+   "t": "A <c:ffff00>{{medabot}}<c> several times larger than normal,\nignoring the <c:ffff00>{{tinpet}}<c> standard.\nIn a <c:ffff00>{{robattle}}<c>, its <c:ffff00>head<c> and each <c:ffff00>arm<c> count as a\nseparate <c:ffff00>{{object}}<c>; <c:ffff00>destroying<c> the head leaves it\n<c:ffff00>{{knocked_out}}<c>.\nIt resists these <c:ffff00>actions<c>:\n  {{slip}}, {{destroy_game_term}}: extra {{effect}} negated\n  {{countdown}}: <c:ffff00>{{negative_status}}<c> negated\n  {{static}}: {{damage}} negated"
+  }
+ ]
+}

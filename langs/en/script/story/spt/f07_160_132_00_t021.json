@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f07_160_132_00_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "24a327b8b561",
+   "t": "Just this once."
+  },
+  {
+   "i": 1048,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1054,
+   "src": "54916a17c3fa",
+   "t": "Huh?"
+  },
+  {
+   "i": 1061,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1067,
+   "src": "442bf8d78be5",
+   "t": "After this show, I'm going straight back\nto the {{exploration_club}}."
+  },
+  {
+   "i": 1070,
+   "src": "02bd74204e4c",
+   "t": "Because I'm already..."
+  },
+  {
+   "i": 1081,
+   "src": "32d409ddd44a",
+   "t": "a member of the {{exploration_club}}."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "battle/spt/tuto_02_007.spt",
+ "lines": [
+  {
+   "i": 1080,
+   "src": "3c8c116a6d87",
+   "t": "W-we did it!"
+  },
+  {
+   "i": 1093,
+   "src": "349b9806ea93",
+   "t": "How's that!"
+  },
+  {
+   "i": 1102,
+   "src": "ea062b5a8202",
+   "t": "Heh, it's over.  "
+  },
+  {
+   "i": 1111,
+   "src": "ae75bc8be148",
+   "t": "...Incredible.   "
+  },
+  {
+   "i": 1124,
+   "src": "77a92d874478",
+   "t": "Note: when you use {{medaforce}},\nthe {{charge_gauge}} is <c:ff00ff>fully used up<c>.     "
+  },
+  {
+   "i": 1133,
+   "src": "8caa43c432d5",
+   "t": "When you activate {{medaforce}},\nthe {{charge_gauge}} is <c:ff00ff>fully used up<c>.      "
+  },
+  {
+   "i": 1139,
+   "src": "cc80c4cd029d",
+   "t": "So you can't use it nonstop.\nThink of it as your last trump card.                     "
+  }
+ ]
+}

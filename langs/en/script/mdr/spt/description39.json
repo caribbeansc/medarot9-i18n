@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description39.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8cd94db79329",
+   "t": "{{defend}} ({{response}})"
+  },
+  {
+   "i": 11,
+   "src": "d2648b3f8adc",
+   "t": "A <c:ffff00>{{response}}<c> that takes the {{opponent}}'s <c:ffff00>attack<c> after\nbracing to reduce <c:ffff00>{{damage}}<c> as much as possible.\n\nThe higher the <c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> stat of the <c:ffff00>legs<c>,\nthe more the <c:ffff00>Defense Power<c> rises temporarily.\n\nThe {{damage}} taken is reduced by the increased\nDefense Power."
+  }
+ ]
+}

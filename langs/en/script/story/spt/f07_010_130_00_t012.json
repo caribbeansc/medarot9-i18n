@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f07_010_130_00_t012.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1133,
+   "src": "b07ef8b5f271",
+   "t": "The {{principal|cap}} has fallen ill and will"
+  },
+  {
+   "i": 1136,
+   "src": "2c096e89c0df",
+   "t": "leave the island for a while to recover."
+  },
+  {
+   "i": 1154,
+   "src": "5081eec42a79",
+   "t": "*Murmur murmur*..."
+  }
+ ]
+}

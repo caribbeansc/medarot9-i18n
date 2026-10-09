@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_teach_fc_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "43aa2cb11823",
+   "t": "{{ms_tomigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "file": "battle/spt/auto_battle01.spt",
+ "lines": [
+  {
+   "i": 1199,
+   "src": "225bb0e4dfb9",
+   "t": "{{anise}}"
+  },
+  {
+   "i": 1202,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1205,
+   "src": "cd5a0c53a167",
+   "t": "{{phantom_thief_jill}}"
+  },
+  {
+   "i": 1357,
+   "src": "860c67ff6592",
+   "t": "Let's see what you've got!\nArk, transfer!"
+  },
+  {
+   "i": 1363,
+   "src": "9eb87c8071e6",
+   "t": "Let's see what you've got!\nTyrrell, transfer!"
+  },
+  {
+   "i": 1430,
+   "src": "dd4bac05f29b",
+   "t": ", transfer!"
+  },
+  {
+   "i": 1482,
+   "src": "a11eaf18d1f9",
+   "t": "My turn!\n{{blazermate}}, transfer!"
+  },
+  {
+   "i": 1534,
+   "src": "d0edc259ac91",
+   "t": "Here we go! {{greed}}!\nTransfer!"
+  },
+  {
+   "i": 1652,
+   "src": "0a79e7595c07",
+   "t": "\nUse {{meta_machinegun}}!"
+  },
+  {
+   "i": 1659,
+   "src": "800fb85d958d",
+   "t": "\nUse {{picopeco_hammer}}!"
+  },
+  {
+   "i": 1730,
+   "src": "007e56a06d1a",
+   "t": "Tsk, tsk. Aim better."
+  },
+  {
+   "i": 1841,
+   "src": "ce2d3e0328bb",
+   "t": "{{rising_sword}}!"
+  },
+  {
+   "i": 1908,
+   "src": "6e2a280a080b",
+   "t": "You're not committing enough.\nAre you scared?"
+  },
+  {
+   "i": 2025,
+   "src": "b610a86e52b4",
+   "t": "Hit the mark!"
+  },
+  {
+   "i": 2092,
+   "src": "9afc5d557df8",
+   "t": "Heh, your moves are way too predictable."
+  },
+  {
+   "i": 2256,
+   "src": "03792f0fc5df",
+   "t": "Looks like you're the greenest of the lot...\nTaste this! Blazing flames!"
+  },
+  {
+   "i": 2262,
+   "src": "57a54dbff263",
+   "t": "Looks like you're the greenest of the lot...\nCan you dodge this slash?"
+  },
+  {
+   "i": 2364,
+   "src": "a00b05e6427f",
+   "t": "Waaaaah!"
+  }
+ ]
+}

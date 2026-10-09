@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc04_161_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "e858f00f2aa4",
+   "t": "No pongas esa cara tan lastimera."
+  },
+  {
+   "i": 1041,
+   "src": "b7c9a8f277b3",
+   "t": "Preocuparse no sirve de nada."
+  },
+  {
+   "i": 1049,
+   "src": "2ecf66412bbb",
+   "t": "Bueno, eso es cierto..."
+  },
+  {
+   "i": 1052,
+   "src": "a556572520fb",
+   "t": "Pero si la entrevista sale mal..."
+  },
+  {
+   "i": 1060,
+   "src": "2db76d4ff121",
+   "t": "Mis preciadas vacaciones de verano"
+  },
+  {
+   "i": 1063,
+   "src": "f6462a9e4b6a",
+   "t": "arruinadas por estudiar... *Suspiro*"
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

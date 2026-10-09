@@ -1,0 +1,77 @@
+{
+ "rel": "battle/tex/m9_cf.ctpk",
+ "base": "jp",
+ "styles": {
+  "verde": {
+   "font": "anton",
+   "italic_skew": 0.3,
+   "pad": 0,
+   "min_scale_x": 0.72,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFC0"
+     ],
+     [
+      0.35,
+      "#C8F020"
+     ],
+     [
+      0.62,
+      "#7CC400"
+     ],
+     [
+      0.86,
+      "#E8FF30"
+     ],
+     [
+      1,
+      "#FFFF88"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#335500",
+     "w": 1.0
+    },
+    {
+     "color": "#779911",
+     "w": 0.6
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1.5,
+    "color": "#FFFFFF",
+    "opacity": 1
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    164,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "verde",
+   "box": [
+    1,
+    1,
+    160,
+    29
+   ],
+   "erase": "none",
+   "text": "CROSSFIRE!",
+   "cap": 22,
+   "tracking": 0.6
+  }
+ ]
+}

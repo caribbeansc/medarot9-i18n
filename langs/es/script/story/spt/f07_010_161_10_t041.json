@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f07_010_161_10_t041.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "36b65def6f4b",
+   "t": "Sí, ese es nuestro disco duro."
+  },
+  {
+   "i": 1054,
+   "src": "cba96c33fbf2",
+   "t": "Es el que se llevó el {{principal}}."
+  },
+  {
+   "i": 1061,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1067,
+   "src": "ef86350d793b",
+   "t": "Ya veo."
+  },
+  {
+   "i": 1074,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1080,
+   "src": "4bfefe33eb2c",
+   "t": "La {{app}} de {{detect}} sigue aquí,"
+  },
+  {
+   "i": 1083,
+   "src": "fbd23365ae38",
+   "t": "¿qué significa eso?"
+  },
+  {
+   "i": 1090,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1096,
+   "src": "705b289a821a",
+   "t": "Bueno, el hecho de que siga ahí"
+  },
+  {
+   "i": 1099,
+   "src": "407cbf858457",
+   "t": "significa que su uso fue aprobado, ¿no?"
+  },
+  {
+   "i": 1107,
+   "src": "34aab2787c4b",
+   "t": "Bueno, me retiro entonces."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_162.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "27e5eb85d64d",
+   "t": "<c:00ff00>Action:<c> {{heating_plant}}\nSets a device that raises\nthe\n{{prep}} stat of the {{part|pl}} of\nthe whole allied team.\nSetting it repeatedly\nraises its {{armor}} and the\nboost."
+  }
+ ]
+}

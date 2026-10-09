@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_m_1e_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "¡Hola, "
+  },
+  {
+   "i": 1040,
+   "src": "222a7652ec56",
+   "t": "-kun!"
+  },
+  {
+   "i": 1043,
+   "src": "d1469afe4fc1",
+   "t": "¡Viniste!"
+  },
+  {
+   "i": 1051,
+   "src": "705c56d8b64e",
+   "t": "¿Cómo va la vida estudiantil?"
+  },
+  {
+   "i": 1054,
+   "src": "ea50cf7c5998",
+   "t": "¿La estás disfrutando?"
+  },
+  {
+   "i": 1062,
+   "src": "12545474d40a",
+   "t": "¡La juventud solo llega una vez!"
+  },
+  {
+   "i": 1065,
+   "src": "dfbfed52c927",
+   "t": "¡Tienes que aprovecharla al máximo!"
+  },
+  {
+   "i": 1073,
+   "src": "0bf41b0897ca",
+   "t": "¡Hasta lo doloroso y triste"
+  },
+  {
+   "i": 1076,
+   "src": "1a689ffa1106",
+   "t": "será un bonito recuerdo cuando pase!"
+  },
+  {
+   "i": 1084,
+   "src": "c4331d68a7a7",
+   "t": "¡Ajajaja!"
+  }
+ ]
+}

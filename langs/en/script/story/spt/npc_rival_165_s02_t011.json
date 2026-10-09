@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_rival_165_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1035,
+   "src": "7c23894db6ef",
+   "t": "Huh? Oh, it's just you."
+  },
+  {
+   "i": 1038,
+   "src": "1d48e3a862b3",
+   "t": "Don't hang around in clubs that aren't\nyours."
+  },
+  {
+   "i": 1046,
+   "src": "75524a730657",
+   "t": "If you're bored, go play in the basement."
+  },
+  {
+   "i": 1049,
+   "src": "f5ece71d7acd",
+   "t": "Unlike you guys, I'm busy."
+  }
+ ]
+}

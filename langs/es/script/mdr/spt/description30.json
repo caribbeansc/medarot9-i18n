@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description30.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "66984e5f8c47",
+   "t": "{{fighting|cap}} (ataque)"
+  },
+  {
+   "i": 11,
+   "src": "0710f81d8d87",
+   "t": "<c:ffff00>Ataque<c> que se ejecuta acercándose al objetivo.\nTambién se llama ataque cuerpo a cuerpo.\n\nSe hace sobre todo con <c:ffff00>técnicas<c> de la <c:ffff00>habilidad de<c>\n<c:ffff00>{{fighting}}<c>. Tanto el atacante como quien <c:ffff00>responde<c> se\nven afectados por el <c:ffff00>{{stats}} de {{fighting}}<c> de las\n<c:ffff00>{{legs}}<c>.\n\nSegún el <c:ffff00>{{success_power}}<c> puede haber <c:ffff00>{{graze}}<c> o <c:ffff00>{{critical}}<c>."
+  }
+ ]
+}

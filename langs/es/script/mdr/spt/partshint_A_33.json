@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_33.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ed41cd18f835",
+   "t": "<c:00ff00>{{mf}}:<c>Protección\nAnula el {{damage}} de\n{{gravity}}, fuego y óptico,\ny los estados negativos en\ntodo tu equipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

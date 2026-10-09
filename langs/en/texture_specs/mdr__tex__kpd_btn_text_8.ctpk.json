@@ -1,0 +1,67 @@
+{
+ "rel": "mdr/tex/kpd_btn_text_8.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "narrow",
+  "align": "center",
+  "valign": "middle",
+  "pad": 0,
+  "stroke": null
+ },
+ "items": [
+  {
+   "box": [
+    203,
+    101,
+    46,
+    15
+   ],
+   "erase_box": [
+    203,
+    100,
+    49,
+    17
+   ],
+   "text": "Big/Sm",
+   "cap": 9,
+   "fill": "#0A0A0A",
+   "font": "helv-cond-black",
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    220,
+    1,
+    23,
+    11
+   ],
+   "erase_box": [
+    220,
+    0,
+    23,
+    12
+   ],
+   "text": "Kata",
+   "cap": 8,
+   "fill": "#FFFFFF"
+  },
+  {
+   "box": [
+    220,
+    13,
+    23,
+    11
+   ],
+   "erase_box": [
+    220,
+    12,
+    23,
+    12
+   ],
+   "text": "Hira",
+   "cap": 8,
+   "fill": "#FFFFFF"
+  }
+ ]
+}

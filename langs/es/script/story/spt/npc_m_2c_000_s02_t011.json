@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0aa09d142d03",
+   "t": "{{boy_2_c}}"
+  },
+  {
+   "i": 1035,
+   "src": "0b2ba5e3f117",
+   "t": "¡Maldición, aguanta!"
+  },
+  {
+   "i": 1038,
+   "src": "a1b5d23b25ec",
+   "t": "¡Falta poco para la carga total!"
+  }
+ ]
+}

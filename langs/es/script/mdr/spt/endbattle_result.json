@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/endbattle_result.spt",
+ "lines": [
+  {
+   "i": 3121,
+   "src": "e2ff97bf614a",
+   "t": "Fin del emparejamiento."
+  },
+  {
+   "i": 3399,
+   "src": "22f3b35369b6",
+   "t": "¿Confirmas esta {{part}}?"
+  }
+ ]
+}

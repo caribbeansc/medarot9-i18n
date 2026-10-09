@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f07_010_161_10_t011.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "e6895ae99145",
+   "t": "I'm surprised."
+  },
+  {
+   "i": 1052,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1061,
+   "src": "8722db0ed957",
+   "t": "What about the setting data?"
+  },
+  {
+   "i": 1064,
+   "src": "7198df0a114a",
+   "t": "Any word from the Vice-Principal?"
+  },
+  {
+   "i": 1074,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1083,
+   "src": "ffb2a6dde1db",
+   "t": "Apparently not."
+  },
+  {
+   "i": 1090,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1099,
+   "src": "a7ccf5942ec2",
+   "t": "So getting it back is a long shot?"
+  },
+  {
+   "i": 1113,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1122,
+   "src": "7e91bfbcb071",
+   "t": "Maybe."
+  },
+  {
+   "i": 1125,
+   "src": "7a09f569e440",
+   "t": "This has become a hassle."
+  },
+  {
+   "i": 1136,
+   "src": "dc70cf3a37e1",
+   "t": "Speaking of hassles..."
+  }
+ ]
+}

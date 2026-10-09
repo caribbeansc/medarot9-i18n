@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2b_164_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1038,
+   "src": "67b1b0d64533",
+   "t": "¡Mira cuántos catálogos de {{medabot|pl}}! Y "
+  },
+  {
+   "i": 1041,
+   "src": "ed8d3d906f30",
+   "t": "esto es solo una parte. Con tantas"
+  },
+  {
+   "i": 1049,
+   "src": "be0ce246565c",
+   "t": "{{part|pl}} nuevas cada año, es todo"
+  },
+  {
+   "i": 1052,
+   "src": "8d167a6dcb51",
+   "t": "un reto mantenerse al día."
+  },
+  {
+   "i": 1060,
+   "src": "41a4d10fa1b2",
+   "t": "Y si quieres conseguirlas de verdad..."
+  },
+  {
+   "i": 1063,
+   "src": "9a6fda57ef59",
+   "t": "Eso es un sueño lejano, eh... suspiro."
+  }
+ ]
+}

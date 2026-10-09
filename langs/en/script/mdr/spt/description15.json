@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description15.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "14f2512e7e42",
+   "t": "{{robattle}}"
+  },
+  {
+   "i": 11,
+   "src": "1c848d192410",
+   "t": "A competition in which two teams make their\n<c:ffff00>{{medabot|pl}}<c> fight each other. It's called a robot battle,\nor {{robattle}} for short.\n\nBesides the 3-on-3 <c:ffff00>{{basic_rules}}<c>, there are various\nspecial rules: <c:ffff00>objects<c> that take part instead of\n{{medabot|pl}}, the <c:ffff00>{{survival_robattle}}<c>, which adds more\n{{medabot|pl}}, or the <c:ffff00>{{conditional_robattle}}<c>, which fails if\nthe stated {{condition_rotation}} isn't met."
+  }
+ ]
+}

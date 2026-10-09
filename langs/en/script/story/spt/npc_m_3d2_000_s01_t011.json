@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_3d2_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2b1fd07bd562",
+   "t": "{{homare}}"
+  },
+  {
+   "i": 1038,
+   "src": "aef4867fd286",
+   "t": "You a first-year?"
+  },
+  {
+   "i": 1048,
+   "src": "e965e8489d15",
+   "t": "Like, 'What a fancy meal!'"
+  },
+  {
+   "i": 1051,
+   "src": "1466c53dfa5c",
+   "t": "or 'It's so big I'll get lost!'"
+  },
+  {
+   "i": 1059,
+   "src": "ca85028adab1",
+   "t": "You can only talk that carefree for now."
+  },
+  {
+   "i": 1062,
+   "src": "dc7c7b65f38a",
+   "t": "From next month you're on cleaning\nduty too."
+  },
+  {
+   "i": 1070,
+   "src": "affddaa2bebf",
+   "t": "Even the bathrooms!"
+  },
+  {
+   "i": 1073,
+   "src": "02b08a379a63",
+   "t": "Brace yourself!"
+  }
+ ]
+}

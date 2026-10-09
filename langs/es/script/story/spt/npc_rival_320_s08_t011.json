@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_rival_320_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1038,
+   "src": "fd49871a2ae9",
+   "t": "¿Qué esperas? Empecemos de una vez."
+  },
+  {
+   "i": 1041,
+   "src": "faf03bfe9179",
+   "t": "Sabes a lo que me refiero, ¿no? ¡Es la Y!"
+  }
+ ]
+}

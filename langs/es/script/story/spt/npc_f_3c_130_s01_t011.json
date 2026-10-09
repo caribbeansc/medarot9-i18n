@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_f_3c_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "50333280e06b",
+   "t": "Unirte a un {{club}}, ¿eh? Mmm..."
+  },
+  {
+   "i": 1041,
+   "src": "f0dac59f0540",
+   "t": "a un deportivo sería difícil ya."
+  },
+  {
+   "i": 1049,
+   "src": "ddf600b4cf37",
+   "t": "Aquí los clubes deportivos están"
+  },
+  {
+   "i": 1052,
+   "src": "1e304f05ada0",
+   "t": "llenos de élites que ya brillaban antes."
+  },
+  {
+   "i": 1060,
+   "src": "44146896623a",
+   "t": "Sus {{medabot|pl}} ya vienen"
+  },
+  {
+   "i": 1063,
+   "src": "eca3fb25edc3",
+   "t": "personalizados para ese deporte..."
+  },
+  {
+   "i": 1071,
+   "src": "d51ef5f3e470",
+   "t": "El tuyo parece de tipo general."
+  },
+  {
+   "i": 1074,
+   "src": "f1fffe32bf65",
+   "t": "No parece de alguien con experiencia."
+  },
+  {
+   "i": 1082,
+   "src": "c4a0b8b7f3f0",
+   "t": "Seré dura contigo, pero..."
+  },
+  {
+   "i": 1085,
+   "src": "331f3761f4dc",
+   "t": "no hay deporte para un novato total."
+  }
+ ]
+}

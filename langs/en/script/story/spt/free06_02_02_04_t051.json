@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/free06_02_02_04_t051.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "a4bc8fa7247d",
+   "t": "Found it!"
+  },
+  {
+   "i": 1035,
+   "src": "6073be80ca90",
+   "t": "A {{medalia}}...!"
+  },
+  {
+   "i": 1043,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1049,
+   "src": "5621dd8b8d38",
+   "t": "Good."
+  },
+  {
+   "i": 1052,
+   "src": "c0d965365696",
+   "t": "Let's return to the {{clubroom}}."
+  }
+ ]
+}

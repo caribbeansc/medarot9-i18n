@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_02_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "f21f29e256f2",
+   "t": "{{mission|cap}} 'Recolección de {{medalia|pl}}:\nRuinas Mineras'..."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "9feb246fed69",
+   "t": "Hay una señal bastante fuerte por la\nmontaña."
+  },
+  {
+   "i": 1056,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1062,
+   "src": "d7ad7cfbc513",
+   "t": "Hay muchas {{mine_ruins}} aquí."
+  },
+  {
+   "i": 1065,
+   "src": "90efed93303a",
+   "t": "Esto pinta prometedor..."
+  }
+ ]
+}

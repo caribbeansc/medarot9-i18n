@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_45.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f50dafb37e12",
+   "t": "<c:00ff00>Leg Trait:<c> {{trap_buster}}\nWhen a trap activates,\nnullifies and removes it.\n*Traps that do not\nactivate cannot be\nnullified."
+  }
+ ]
+}

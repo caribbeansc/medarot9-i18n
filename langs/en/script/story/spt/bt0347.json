@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0347.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 872,
+   "src": "96d7f92df9ec",
+   "t": "A {{robattle}}?"
+  },
+  {
+   "i": 875,
+   "src": "75313189e923",
+   "t": "I could, but I'm not sure."
+  }
+ ]
+}

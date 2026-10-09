@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f01_070_165_00_t006.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "8171c7eb2582",
+   "t": "S-sorry."
+  },
+  {
+   "i": 1051,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1057,
+   "src": "f9cbea5020bf",
+   "t": "Is it always like this?"
+  },
+  {
+   "i": 1065,
+   "src": "cbcfd3535019",
+   "t": "Huh?"
+  },
+  {
+   "i": 1070,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1076,
+   "src": "ad6e76820a21",
+   "t": "I've been watching you two"
+  },
+  {
+   "i": 1079,
+   "src": "3b16864a4c72",
+   "t": "for a while, and I'm surprised."
+  },
+  {
+   "i": 1094,
+   "src": "b3dd46df3b45",
+   "t": "You're not in sync at all."
+  },
+  {
+   "i": 1097,
+   "src": "d9bed2f7a9b4",
+   "t": "It's as if..."
+  },
+  {
+   "i": 1105,
+   "src": "175b96da685b",
+   "t": "you two had just teamed up"
+  },
+  {
+   "i": 1108,
+   "src": "000e259f70a3",
+   "t": "a moment ago. That's how it looks."
+  },
+  {
+   "i": 1116,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1121,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1127,
+   "src": "7e13285e436a",
+   "t": "I hear your enrollment was unusual,"
+  },
+  {
+   "i": 1130,
+   "src": "6746cf9bf211",
+   "t": "but I won't pry. Anyway--"
+  },
+  {
+   "i": 1135,
+   "src": "37d9d2302e18",
+   "t": "Our {{rescue_club}} values the"
+  },
+  {
+   "i": 1138,
+   "src": "add7e936fc60",
+   "t": "teamwork between humans and\n{{medabot|pl}}."
+  },
+  {
+   "i": 1143,
+   "src": "170bb719fc94",
+   "t": "The way you are now,"
+  },
+  {
+   "i": 1146,
+   "src": "f81d4b2ea600",
+   "t": "you'd never keep up with our training."
+  },
+  {
+   "i": 1158,
+   "src": "57c8b500828e",
+   "t": "There's no need to test you."
+  },
+  {
+   "i": 1161,
+   "src": "1a2dff7bdd90",
+   "t": "I'll have to decline your application."
+  }
+ ]
+}

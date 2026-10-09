@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f_meda_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a7f55d225eee",
+   "t": "{{blossomail}}"
+  },
+  {
+   "i": 1038,
+   "src": "fd6e2aa6e109",
+   "t": "The Sports Festival just ended, so\nwhat's"
+  },
+  {
+   "i": 1041,
+   "src": "2dbb884b01ef",
+   "t": "this now? Another festival?"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f00_010_901_00_t033.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1038,
+   "src": "b7087a804761",
+   "t": "Los {{medabot|pl}} no deben"
+  },
+  {
+   "i": 1041,
+   "src": "cd29a49d4a70",
+   "t": "atacar a los humanos, robo~"
+  },
+  {
+   "i": 1070,
+   "src": "b989c76ddb46",
+   "t": "Cállate."
+  },
+  {
+   "i": 1073,
+   "src": "36bd8c6a641d",
+   "t": "Devuelve lo que robaste de una vez."
+  },
+  {
+   "i": 1079,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1082,
+   "src": "3b931560b920",
+   "t": "¿Dónde escondiste lo robado?"
+  },
+  {
+   "i": 1090,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1096,
+   "src": "a927808b8b03",
+   "t": "No robé nada, {{robo}}~."
+  },
+  {
+   "i": 1107,
+   "src": "f46ed0e95d46",
+   "t": "No tengo nada, {{robo}}~."
+  },
+  {
+   "i": 1110,
+   "src": "212a461726f5",
+   "t": "Es verdad, {{robo}}~."
+  },
+  {
+   "i": 1139,
+   "src": "a9a5096add2c",
+   "t": "Hmph, ¿sigues negándolo?"
+  },
+  {
+   "i": 1142,
+   "src": "1da759f0cfef",
+   "t": "Está bien, entonces--"
+  },
+  {
+   "i": 1148,
+   "src": "1013cf542469",
+   "t": "Hmph, ¿sigues haciéndote el inocente?"
+  },
+  {
+   "i": 1151,
+   "src": "4dd490bcd450",
+   "t": "Entonces--"
+  }
+ ]
+}

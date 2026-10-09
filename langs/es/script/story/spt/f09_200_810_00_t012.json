@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_200_810_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "d507beec1fb2",
+   "t": "La puerta está cerrada con llave."
+  },
+  {
+   "i": 1061,
+   "src": "9926c05ed93c",
+   "t": "¡Yo lo haré!"
+  },
+  {
+   "i": 1064,
+   "src": "96dfb2da2435",
+   "t": "¡Quítense del medio!"
+  },
+  {
+   "i": 1070,
+   "src": "9df9ad9a1142",
+   "t": "¡Es mi turno!"
+  },
+  {
+   "i": 1073,
+   "src": "96dfb2da2435",
+   "t": "¡Quítense del medio!"
+  }
+ ]
+}

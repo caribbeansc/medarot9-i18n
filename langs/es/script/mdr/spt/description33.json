@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description33.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4a2d39ea0356",
+   "t": "{{attack_power|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "176d7976c0d1",
+   "t": "Capacidad de causar más <c:ffff00>{{damage}}<c> en un <c:ffff00>ataque<c>.\n\nDepende sobre todo del <c:ffff00>{{stats}} de {{power}}<c> de\nla <c:ffff00>{{acting_part}}<c>; también influyen el <c:ffff00>{{stats}}<c>\n<c:ffff00>de {{success}}<c> y el de <c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> de las <c:ffff00>{{legs}}<c>."
+  }
+ ]
+}

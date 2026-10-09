@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/free06_02_04_02_t041.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "a4bc8fa7247d",
+   "t": "Found it!"
+  },
+  {
+   "i": 1035,
+   "src": "6073be80ca90",
+   "t": "A {{medalia}}...!"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "8357f57b04af",
+   "t": "Under the rubble?"
+  },
+  {
+   "i": 1056,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1065,
+   "src": "16ca510942f3",
+   "t": "Maybe there are more?"
+  },
+  {
+   "i": 1072,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1081,
+   "src": "392896f17e54",
+   "t": "Hmm..."
+  },
+  {
+   "i": 1084,
+   "src": "f30e89164b36",
+   "t": "Too bad, but there's no reading\nanymore."
+  },
+  {
+   "i": 1092,
+   "src": "39ba6a6cbf6e",
+   "t": "I see..."
+  },
+  {
+   "i": 1100,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1106,
+   "src": "ee0f5eb69f76",
+   "t": "One is enough."
+  },
+  {
+   "i": 1109,
+   "src": "2ab7a05de4dc",
+   "t": "Let's go back."
+  }
+ ]
+}

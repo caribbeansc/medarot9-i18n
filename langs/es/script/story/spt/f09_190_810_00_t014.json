@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f09_190_810_00_t014.spt",
+ "lines": [
+  {
+   "i": 1051,
+   "src": "8bcddeb7a3ca",
+   "t": "¡Qué extraño!"
+  },
+  {
+   "i": 1054,
+   "src": "290fdd190151",
+   "t": "¡¿Cómo puedo saberlo?!"
+  },
+  {
+   "i": 1060,
+   "src": "8bcddeb7a3ca",
+   "t": "¡Es extraño!"
+  },
+  {
+   "i": 1063,
+   "src": "00783024b151",
+   "t": "¿¡Cómo lo sé!?"
+  },
+  {
+   "i": 1080,
+   "src": "628d9efa4e81",
+   "t": "¿Qué te pasa?"
+  },
+  {
+   "i": 1083,
+   "src": "e22d66c1b403",
+   "t": "¿No lo entendías hasta ahora?"
+  },
+  {
+   "i": 1112,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1118,
+   "src": "fae43f007b29",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1121,
+   "src": "e4ce380edbc9",
+   "t": "¿Qué está pasando?"
+  },
+  {
+   "i": 1141,
+   "src": "1d0852c2d489",
+   "t": "Un {{medabot}} siente a su {{master}} cerca. "
+  },
+  {
+   "i": 1144,
+   "src": "5926865af39d",
+   "t": "Sabe dónde está y lo que siente."
+  },
+  {
+   "i": 1176,
+   "src": "443d82dd5fe2",
+   "t": "¿Sentimientos?"
+  },
+  {
+   "i": 1182,
+   "src": "b07448df546c",
+   "t": "Sentimientos..."
+  },
+  {
+   "i": 1185,
+   "src": "b08f6bec3bb4",
+   "t": "De mi {{master}}..."
+  },
+  {
+   "i": 1196,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1202,
+   "src": "30a21543b93b",
+   "t": "Vamos, calma."
+  },
+  {
+   "i": 1210,
+   "src": "affcfdc464b9",
+   "t": "No hace mucho que se conocen. Se irán"
+  },
+  {
+   "i": 1213,
+   "src": "7399165c6e7b",
+   "t": "conociendo mejor con el tiempo."
+  },
+  {
+   "i": 1221,
+   "src": "4804db1685a1",
+   "t": "Al menos ya descubriste la ubicación."
+  },
+  {
+   "i": 1224,
+   "src": "19c4aa165635",
+   "t": "¡Eso es un gran paso!"
+  },
+  {
+   "i": 1231,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1237,
+   "src": "3fcbf5d9e8fc",
+   "t": "Vamos."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_2c_164_s06_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1038,
+   "src": "364610d166b8",
+   "t": "It's good that he finally started showing\nup,"
+  },
+  {
+   "i": 1041,
+   "src": "bda4992fe949",
+   "t": "but... he's suddenly acting weird,"
+  },
+  {
+   "i": 1049,
+   "src": "e5275b93f248",
+   "t": "all hyper one moment and gloomy the\nnext."
+  },
+  {
+   "i": 1052,
+   "src": "506df48595a7",
+   "t": "Something's off with {{hiroki}}-kun."
+  },
+  {
+   "i": 1060,
+   "src": "372a439afeae",
+   "t": "Could it be lovesickness!?"
+  },
+  {
+   "i": 1063,
+   "src": "392f79da59dd",
+   "t": "Eeek, no way!"
+  }
+ ]
+}

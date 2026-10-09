@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_teach_mc_132_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "9d002433b612",
+   "t": "{{mr_izumo}}"
+  },
+  {
+   "i": 1035,
+   "src": "7b659d5c5b6a",
+   "t": "Ah, how wonderful, maidens' youth\ndevoted to the cultural festival."
+  },
+  {
+   "i": 1038,
+   "src": "27e1afe5405b",
+   "t": "Splendid, splendid, cock-a-doodle-doo!"
+  },
+  {
+   "i": 1049,
+   "src": "30b8b209a771",
+   "t": "Hm, who are you? We're"
+  },
+  {
+   "i": 1052,
+   "src": "639228cbe62b",
+   "t": "in the middle of rehearsal, don't get in\nthe way."
+  },
+  {
+   "i": 1060,
+   "src": "709f9792707e",
+   "t": "Huh, me? Of course it's fine!"
+  },
+  {
+   "i": 1063,
+   "src": "97ef13ce1602",
+   "t": "I'll have you know I'm the {{idol_club}}'s\nadvisor."
+  },
+  {
+   "i": 1071,
+   "src": "6e5e6feb6300",
+   "t": "Well, mostly in name only."
+  },
+  {
+   "i": 1074,
+   "src": "4ea5a97d0a49",
+   "t": "After all, their {{clubroom}} is off-limits to\nboys."
+  },
+  {
+   "i": 1082,
+   "src": "b54deb64ec4c",
+   "t": "Ha ha ha ha ha ha ha."
+  }
+ ]
+}

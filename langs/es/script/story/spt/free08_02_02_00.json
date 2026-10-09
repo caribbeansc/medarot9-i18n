@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/free08_02_02_00.spt",
+ "lines": [
+  {
+   "i": 901,
+   "src": "1070ada7d7be",
+   "t": "¿Aceptar esta {{mission}}?"
+  },
+  {
+   "i": 902,
+   "src": "d06c8ec09c1f",
+   "t": "¡Aceptar!"
+  },
+  {
+   "i": 903,
+   "src": "d3e995f02b88",
+   "t": "Reconsiderar"
+  },
+  {
+   "i": 907,
+   "src": "d06c8ec09c1f",
+   "t": "¡Aceptar!"
+  },
+  {
+   "i": 919,
+   "src": "d3e995f02b88",
+   "t": "Reconsiderar"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/parts_get.spt",
+ "lines": [
+  {
+   "i": 1137,
+   "src": "7343fba9150f",
+   "t": "{{head}}"
+  },
+  {
+   "i": 1144,
+   "src": "f9cbcd0563a5",
+   "t": "R-Arm"
+  },
+  {
+   "i": 1151,
+   "src": "ae22d610ddf0",
+   "t": "L-Arm"
+  },
+  {
+   "i": 1158,
+   "src": "528640d1d527",
+   "t": "Leg"
+  },
+  {
+   "i": 1164,
+   "src": "409d7686155f",
+   "t": " {{part|cap}} <c:00ff00>"
+  },
+  {
+   "i": 1166,
+   "src": "0e32041fdf29",
+   "t": "<c> received!"
+  },
+  {
+   "i": 1174,
+   "src": "46c83d682b77",
+   "t": "<c> received a whole set!"
+  }
+ ]
+}

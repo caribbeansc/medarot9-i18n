@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1e_164_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "Hey, "
+  },
+  {
+   "i": 1040,
+   "src": "222a7652ec56",
+   "t": "-kun!"
+  },
+  {
+   "i": 1043,
+   "src": "51611519da49",
+   "t": "You look busy."
+  },
+  {
+   "i": 1051,
+   "src": "6f5b22280787",
+   "t": "Me? Well..."
+  },
+  {
+   "i": 1054,
+   "src": "7c48150cfb7e",
+   "t": "I think I know a lot more about\n{{medabot|pl}} than before."
+  },
+  {
+   "i": 1062,
+   "src": "6dcc330bad3b",
+   "t": "I'm still bad at {{robattle|pl}}, though."
+  },
+  {
+   "i": 1065,
+   "src": "68143015e243",
+   "t": "Haha."
+  }
+ ]
+}

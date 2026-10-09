@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d2_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2b1fd07bd562",
+   "t": "{{homare}}"
+  },
+  {
+   "i": 1038,
+   "src": "edacb2b4e00f",
+   "t": "Outsiders can't come to our festival,\nright?"
+  },
+  {
+   "i": 1041,
+   "src": "1c85e045e2c8",
+   "t": "Folks outside are apparently pretty\ncurious."
+  },
+  {
+   "i": 1049,
+   "src": "8b7dcb779276",
+   "t": "We should open it up once a year."
+  },
+  {
+   "i": 1052,
+   "src": "bf3b5cc46ee4",
+   "t": "It's not like we have any big secrets."
+  }
+ ]
+}

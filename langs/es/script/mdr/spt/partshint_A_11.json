@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_11.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "9424da1972af",
+   "t": "<c:00ff00>{{mf}}:<c>Glaciar\nEl {{terrain}} pasa a ser\nhelado y todos los\n{{medabot|pl}} vuelven al área\nde comandos.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de\nataque"
+  }
+ ]
+}

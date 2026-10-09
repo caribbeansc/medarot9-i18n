@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc03_161_s06_t015.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "d7a348c9fab8",
+   "t": "Vamos, vayamos a la playa."
+  },
+  {
+   "i": 1041,
+   "src": "da5e4d54fa3a",
+   "t": "¡Apúrate, o nos volverán a regañar!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f10_050_231_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "e7af03c8ebfc",
+   "t": "Waaah!"
+  },
+  {
+   "i": 1046,
+   "src": "c19308803a8d",
+   "t": "Help me~ {{robo}}~!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_mb_113_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 1035,
+   "src": "1c61815f67a5",
+   "t": "Qué debo hacer, presidenta..."
+  },
+  {
+   "i": 1038,
+   "src": "99cc24273715",
+   "t": "Qué rayos debería responder..."
+  }
+ ]
+}

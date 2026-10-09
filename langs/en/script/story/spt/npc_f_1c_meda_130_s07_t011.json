@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1c_meda_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1038,
+   "src": "7fb31c938b28",
+   "t": "Yay, Culture Festival, Culture Festival!"
+  },
+  {
+   "i": 1041,
+   "src": "d121af1bcb7f",
+   "t": "I don't know what it is, but I'm excited~!"
+  }
+ ]
+}

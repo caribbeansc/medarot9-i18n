@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_8.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4234bc706a81",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>Stand Alone\nWhen the {{leader}} is your only Medabot,\n{{all_stats}} except {{armor}} +10"
+  }
+ ]
+}

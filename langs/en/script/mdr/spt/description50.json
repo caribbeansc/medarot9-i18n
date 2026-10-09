@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description50.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bfb472098bfd",
+   "t": "{{restore|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "ea98ff52e529",
+   "t": "An {{effect}} that makes a <c:ffff00>destroyed<c> <c:ffff00>{{part}}<c> usable again.\n\nIt is mostly an <c:ffff00>action<c> of {{part|pl}} with the <c:ffff00>Heal skill<c>.\n\nA restored {{part}} <c:ffff00>recovers<c> a little <c:ffff00>{{armor}}<c>."
+  }
+ ]
+}

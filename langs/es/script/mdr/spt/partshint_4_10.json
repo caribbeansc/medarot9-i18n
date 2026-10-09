@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_10.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "067ac9916245",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nReparar Plus\nAl realizar la acción\nreparar {{stats}} de\n{{prep}} de la {{part}} +10."
+  }
+ ]
+}

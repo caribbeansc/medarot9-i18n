@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/memo9.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "8dae6d442e59",
+   "t": "Reunamos información sobre {{stella}}."
+  },
+  {
+   "i": 32,
+   "src": "c41f0f9f27eb",
+   "t": "2 Informes de avistamiento de {{stella}}\n"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_96.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "58c893a580cf",
+   "t": "<c:00ff00>Action:<c> {{reckless}}\nFor a while, gives the\n\"Berserk\" sub-skill to the\n{{fighting_part}} of one allied\n{{medabot}}. {{mobility}} rises\nwhen\nBerserk is used."
+  }
+ ]
+}

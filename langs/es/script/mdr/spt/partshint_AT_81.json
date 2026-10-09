@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_81.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "687e81de5c21",
+   "t": "<c:00ff00>Técnica:<c>{{radar_sight}}\nPor un tiempo, suben el\n{{success}} y la probabilidad de\n{{critical}} de todo el equipo.\nAdemás anula los efectos\nde {{stealth}} y {{conceal}}\ndel equipo {{opponent}}."
+  }
+ ]
+}

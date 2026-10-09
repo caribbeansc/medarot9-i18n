@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_10.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c9cec38c74e4",
+   "t": "<c:00ff00>{{effect|cap}} de {{leader|cap}}:<c> {{first_strike_dodge}}\nEsquiva siempre el primer ataque del {{opponent}}\n"
+  }
+ ]
+}

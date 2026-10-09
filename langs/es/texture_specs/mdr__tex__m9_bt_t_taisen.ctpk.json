@@ -1,0 +1,318 @@
+{
+ "rel": "mdr/tex/m9_bt_t_taisen.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0
+ },
+ "styles": {
+  "cian": {
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#63FFFF",
+   "stroke": "#16477683",
+   "stroke_w": 1.0,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#133B68",
+    "blur": 1.2,
+    "opacity": 0.45
+   },
+   "crisp": 0.3,
+   "min_scale_x": 0.75,
+   "align": "left"
+  },
+  "titulo": {
+   "font": "sf-rounded",
+   "cap": 17,
+   "fill": "#A0FFD6",
+   "stroke": "#194B7181",
+   "stroke_w": 1.5,
+   "crisp": 0.3,
+   "tracking": 4
+  },
+  "blanco": {
+   "font": "sf-cond-heavy",
+   "cap": 9.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.9
+   },
+   "min_scale_x": 0.75,
+   "crisp": 0.0
+  }
+ },
+ "items": [
+  {
+   "box": [
+    154,
+    74,
+    99,
+    21
+   ],
+   "text": "Red",
+   "style": "titulo"
+  },
+  {
+   "box": [
+    4,
+    77,
+    72,
+    18
+   ],
+   "erase_box": [
+    0,
+    77,
+    77,
+    18
+   ],
+   "text": "Partida local",
+   "style": "cian",
+   "baseline": 90.0
+  },
+  {
+   "box": [
+    82,
+    77,
+    60,
+    18
+   ],
+   "erase_box": [
+    78,
+    77,
+    65,
+    18
+   ],
+   "text": "Transferir pieza",
+   "style": "cian",
+   "baseline": 90.0,
+   "cap": 8.5,
+   "min_scale_x": 0.7
+  },
+  {
+   "box": [
+    4,
+    96,
+    106,
+    18
+   ],
+   "erase_box": [
+    0,
+    96,
+    111,
+    18
+   ],
+   "text": "Partida en linea",
+   "style": "cian",
+   "baseline": 109.0
+  },
+  {
+   "box": [
+    116,
+    96,
+    74,
+    18
+   ],
+   "erase_box": [
+    112,
+    96,
+    79,
+    18
+   ],
+   "text": "Transferir Medaria",
+   "style": "cian",
+   "baseline": 109.0,
+   "cap": 8.5,
+   "min_scale_x": 0.7
+  },
+  {
+   "box": [
+    196,
+    96,
+    58,
+    18
+   ],
+   "erase_box": [
+    192,
+    96,
+    64,
+    18
+   ],
+   "text": "Regalo",
+   "style": "cian",
+   "baseline": 109.0
+  },
+  {
+   "box": [
+    1,
+    115,
+    63,
+    18
+   ],
+   "text": "Iniciar partida",
+   "style": "blanco",
+   "baseline": 126.5,
+   "cap": 9,
+   "erase_box": [
+    0,
+    115,
+    65,
+    18
+   ]
+  },
+  {
+   "box": [
+    66,
+    115,
+    117,
+    18
+   ],
+   "text": "Recibir pieza",
+   "style": "blanco",
+   "baseline": 126.5
+  },
+  {
+   "box": [
+    186,
+    115,
+    59,
+    18
+   ],
+   "text": "Con cualquiera",
+   "style": "blanco",
+   "baseline": 126.5,
+   "cap": 9,
+   "erase_box": [
+    184,
+    115,
+    63,
+    18
+   ]
+  },
+  {
+   "box": [
+    0,
+    134,
+    91,
+    18
+   ],
+   "text": "Configuracion",
+   "style": "blanco",
+   "baseline": 146.5
+  },
+  {
+   "box": [
+    92,
+    134,
+    86,
+    18
+   ],
+   "text": "Enviar pieza",
+   "style": "blanco",
+   "baseline": 146.5
+  },
+  {
+   "box": [
+    181,
+    134,
+    55,
+    18
+   ],
+   "text": "Con amigos",
+   "style": "blanco",
+   "baseline": 146.5,
+   "erase_box": [
+    179,
+    134,
+    59,
+    18
+   ]
+  },
+  {
+   "box": [
+    0,
+    153,
+    97,
+    18
+   ],
+   "text": "Sin actualizar",
+   "style": "blanco",
+   "baseline": 164.5
+  },
+  {
+   "box": [
+    98,
+    153,
+    18,
+    18
+   ],
+   "text": "",
+   "erase": "transparent"
+  },
+  {
+   "box": [
+    117,
+    153,
+    116,
+    18
+   ],
+   "text": "Partida con jugador",
+   "style": "blanco",
+   "baseline": 164.5
+  },
+  {
+   "box": [
+    0,
+    172,
+    72,
+    18
+   ],
+   "text": "Partida (anfit.)",
+   "style": "blanco",
+   "baseline": 184.5
+  },
+  {
+   "box": [
+    73,
+    172,
+    37,
+    18
+   ],
+   "text": "(invit.)",
+   "style": "blanco",
+   "baseline": 184.5
+  },
+  {
+   "box": [
+    24,
+    196,
+    46,
+    12
+   ],
+   "erase_box": [
+    19,
+    195,
+    56,
+    14
+   ],
+   "erase": "hfill",
+   "text": "CAMPO",
+   "font": "sf-rounded-heavy",
+   "cap": 9,
+   "fill": "#BDF9FF",
+   "strokes": [
+    {
+     "color": "#0A5DAF",
+     "w": 1.0
+    }
+   ],
+   "crisp": 0.0
+  }
+ ]
+}

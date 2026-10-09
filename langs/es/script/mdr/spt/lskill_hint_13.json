@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_13.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1fe5b9614e67",
+   "t": "<c:00ff00>{{effect|cap}} de {{leader|cap}}:<c> {{trap_master}}\nAl cambiar trampas o plantas por otro tipo\nse conserva el valor de {{armor}}\n"
+  }
+ ]
+}

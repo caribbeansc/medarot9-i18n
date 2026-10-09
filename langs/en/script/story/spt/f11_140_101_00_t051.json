@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f11_140_101_00_t051.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "528efdf6afe3",
+   "t": "We did it!"
+  },
+  {
+   "i": 1043,
+   "src": "ca548edcb11f",
+   "t": "Are you okay, "
+  },
+  {
+   "i": 1045,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1064,
+   "src": "ec31e9fad081",
+   "t": "Not a scratch!"
+  },
+  {
+   "i": 1084,
+   "src": "4b0fa025d89b",
+   "t": "Huh, could it be..."
+  },
+  {
+   "i": 1089,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1098,
+   "src": "eb3c6e741de4",
+   "t": "Is it over?"
+  },
+  {
+   "i": 1109,
+   "src": "bd047f58ed5c",
+   "t": "...Phew."
+  },
+  {
+   "i": 1114,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1123,
+   "src": "fda786091b40",
+   "t": "We did it!"
+  },
+  {
+   "i": 1130,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1139,
+   "src": "2a97c534ae01",
+   "t": "All right, this spot is settled."
+  },
+  {
+   "i": 1146,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1152,
+   "src": "5a81333fd4ef",
+   "t": "What do we do next?"
+  },
+  {
+   "i": 1155,
+   "src": "ebd341d2e65e",
+   "t": "Let's check on the back gate--"
+  }
+ ]
+}

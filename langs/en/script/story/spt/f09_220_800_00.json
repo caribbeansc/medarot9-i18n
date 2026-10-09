@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f09_220_800_00.spt",
+ "lines": [
+  {
+   "i": 1269,
+   "src": "c29f73f83969",
+   "t": "Examine the body"
+  },
+  {
+   "i": 1270,
+   "src": "efd5bab1f802",
+   "t": "Examine the clothes"
+  },
+  {
+   "i": 1271,
+   "src": "894f992641b4",
+   "t": "Examine the head"
+  },
+  {
+   "i": 1275,
+   "src": "c29f73f83969",
+   "t": "Examine the body"
+  },
+  {
+   "i": 1293,
+   "src": "efd5bab1f802",
+   "t": "Examine the clothes"
+  },
+  {
+   "i": 1341,
+   "src": "23d4c1e5ce3b",
+   "t": "Leave it as is"
+  },
+  {
+   "i": 1342,
+   "src": "d87a4e88b2c5",
+   "t": "Open the hatch"
+  },
+  {
+   "i": 1346,
+   "src": "23d4c1e5ce3b",
+   "t": "Leave it as is"
+  },
+  {
+   "i": 1428,
+   "src": "23d4c1e5ce3b",
+   "t": "Leave it as is"
+  },
+  {
+   "i": 1429,
+   "src": "92af9bc97240",
+   "t": "Try the {{fake_medal}}"
+  },
+  {
+   "i": 1433,
+   "src": "23d4c1e5ce3b",
+   "t": "Leave it as is"
+  }
+ ]
+}

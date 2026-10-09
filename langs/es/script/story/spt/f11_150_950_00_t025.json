@@ -1,0 +1,135 @@
+{
+ "file": "story/spt/f11_150_950_00_t025.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "a79c3e558321",
+   "t": "¿¡{{principal|cap}}!?"
+  },
+  {
+   "i": 1044,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1050,
+   "src": "2be3e0b99f44",
+   "t": "Sus órganos de avance están blindados"
+  },
+  {
+   "i": 1053,
+   "src": "32fb21886f77",
+   "t": "con Medalium; casi no entran ataques."
+  },
+  {
+   "i": 1061,
+   "src": "1322416e2f03",
+   "t": "Si no peleamos al menos cerca de su\n{{head_part_slot}}, es inútil."
+  },
+  {
+   "i": 1068,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1077,
+   "src": "661e02583f4d",
+   "t": "En-entonces, ¿quieres que"
+  },
+  {
+   "i": 1080,
+   "src": "672a5660643a",
+   "t": "subamos a la {{rooftop}} y lo enfrentemos?"
+  },
+  {
+   "i": 1094,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1103,
+   "src": "0ebaad548286",
+   "t": "Eso es absurdo, ¿¡el edificio"
+  },
+  {
+   "i": 1106,
+   "src": "3005400ac9f7",
+   "t": "está a punto de derrumbarse!?"
+  },
+  {
+   "i": 1113,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1119,
+   "src": "39e4fcbbbd0e",
+   "t": "Además, no hay forma de que se quede"
+  },
+  {
+   "i": 1122,
+   "src": "8c165c9ed094",
+   "t": "quieto hasta que lleguemos a la azotea--"
+  },
+  {
+   "i": 1136,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1142,
+   "src": "2cf05ff85fc6",
+   "t": "Esperará."
+  },
+  {
+   "i": 1150,
+   "src": "b031a523d9b0",
+   "t": "No tiene inteligencia."
+  },
+  {
+   "i": 1165,
+   "src": "839d0bc525b9",
+   "t": "Solo tiene instinto y un hambre sin fin."
+  },
+  {
+   "i": 1172,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1178,
+   "src": "d6db503e8f29",
+   "t": "¿Hambre...?"
+  },
+  {
+   "i": 1192,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1198,
+   "src": "671d3e9ff60a",
+   "t": "Así es. Él come {{medal|pl}}."
+  },
+  {
+   "i": 1201,
+   "src": "730556ad947c",
+   "t": "Sigue su energía y las devora."
+  },
+  {
+   "i": 1209,
+   "src": "9919277c8884",
+   "t": "Si reacciones poderosas se agrupan"
+  },
+  {
+   "i": 1212,
+   "src": "d355396b1fda",
+   "t": "y se acercan, seguro se distraerá."
+  },
+  {
+   "i": 1227,
+   "src": "ecef7ada82bf",
+   "t": "Sin duda podremos atraerlo."
+  }
+ ]
+}

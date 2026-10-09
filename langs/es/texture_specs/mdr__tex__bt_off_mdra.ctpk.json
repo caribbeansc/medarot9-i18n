@@ -1,0 +1,30 @@
+{
+ "rel": "mdr/tex/bt_off_mdra.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    45,
+    1,
+    72,
+    14
+   ],
+   "erase": "transparent",
+   "erase_box": [
+    44,
+    0,
+    84,
+    16
+   ],
+   "text": "Quitar Medaria",
+   "font": "compact-rounded-heavy",
+   "cap": 8,
+   "fill": "#FFFFFF",
+   "stroke": "#000000BD",
+   "stroke_w": 1.0,
+   "align": "left",
+   "pad": 0,
+   "min_scale_x": 0.8
+  }
+ ]
+}

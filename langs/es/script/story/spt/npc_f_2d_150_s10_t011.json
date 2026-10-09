@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2d_150_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1038,
+   "src": "2d5245eebc9a",
+   "t": "¿No estaba ruidoso por la escuela"
+  },
+  {
+   "i": 1041,
+   "src": "d33ed2c25776",
+   "t": "hace rato? ¿Habrá una construcción?"
+  }
+ ]
+}

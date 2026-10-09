@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3f_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "aa6225c45809",
+   "t": "The tournament? Of course I'm\nentering."
+  },
+  {
+   "i": 1041,
+   "src": "114747ca4da0",
+   "t": "It's a chance to test our everyday\nteamwork!"
+  }
+ ]
+}

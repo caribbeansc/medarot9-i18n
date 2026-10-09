@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1c_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1039,
+   "src": "114787ff11b2",
+   "t": "-kun, ¿dónde has estado?"
+  },
+  {
+   "i": 1042,
+   "src": "109bc54b7497",
+   "t": "¿¡El festival deportivo ya terminó!?"
+  }
+ ]
+}

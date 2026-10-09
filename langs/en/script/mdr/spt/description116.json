@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description116.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3cffa034bd5d",
+   "t": "Chain (trait)"
+  },
+  {
+   "i": 11,
+   "src": "99ae70b71046",
+   "t": "A <c:ffff00>{{part|cap}} Trait<c> indicating a mechanism suited to\nchaining <c:ffff00>attacks<c> with other <c:ffff00>{{part|pl}}<c>.\n\nIf you include the <c:ffff00>action<c> of a {{part}} with this trait in a\n<c:ffff00>combo<c>, its <c:ffff00>{{prep}}<c> stat increases by 10."
+  }
+ ]
+}

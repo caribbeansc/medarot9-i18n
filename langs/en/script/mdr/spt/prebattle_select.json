@@ -1,0 +1,55 @@
+{
+ "file": "mdr/spt/prebattle_select.spt",
+ "lines": [
+  {
+   "i": 1734,
+   "src": "644615b4ba1f",
+   "t": "Want to cancel the {{robattle}}?"
+  },
+  {
+   "i": 1738,
+   "src": "6289a02e0012",
+   "t": "Want to reselect {{field}} & rules ?"
+  },
+  {
+   "i": 3413,
+   "src": "ca5e1e75c40e",
+   "t": "Forbidden medabot has been"
+  },
+  {
+   "i": 3416,
+   "src": "ba9e88de2bf9",
+   "t": "selected."
+  },
+  {
+   "i": 4287,
+   "src": "2a66804c6108",
+   "t": "Select these to Robattle?"
+  },
+  {
+   "i": 4344,
+   "src": "ca5e1e75c40e",
+   "t": "Forbidden medabot has been"
+  },
+  {
+   "i": 4347,
+   "src": "ba9e88de2bf9",
+   "t": "selected."
+  },
+  {
+   "i": 5654,
+   "src": "3c3e5b151678",
+   "t": "Do you agree to this?"
+  },
+  {
+   "i": 6310,
+   "src": "3c3e5b151678",
+   "t": "Do you agree to this?"
+  },
+  {
+   "i": 6988,
+   "src": "50fe902fbbd8",
+   "t": "{{opponent|cap}} is selecting medabot(s)."
+  }
+ ]
+}

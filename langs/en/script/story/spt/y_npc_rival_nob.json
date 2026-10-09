@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_rival_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1057,
+   "src": "4a8171d2ccd8",
+   "t": "Sorry, now's not the time."
+  },
+  {
+   "i": 1060,
+   "src": "0829aee0cc9e",
+   "t": "If I'm in the mood, I'll play with you\nagain."
+  }
+ ]
+}

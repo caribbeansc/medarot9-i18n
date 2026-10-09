@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f05_100_117_00_t022.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1045,
+   "src": "5780ed0e379e",
+   "t": "What's wrong?"
+  },
+  {
+   "i": 1048,
+   "src": "c4a59645c1b9",
+   "t": "You're the only one left in class, you\nknow?"
+  },
+  {
+   "i": 1062,
+   "src": "95039396e47f",
+   "t": "Ah..."
+  },
+  {
+   "i": 1077,
+   "src": "78e7418ccb74",
+   "t": "Sorry, I'll go..."
+  }
+ ]
+}

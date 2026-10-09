@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_fb_000_s01_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ed9dd8dbb708",
+   "t": "Enfermera Escolar"
+  },
+  {
+   "i": 1035,
+   "src": "b805965dbfc2",
+   "t": "Esta es la {{infirmary}}."
+  },
+  {
+   "i": 1038,
+   "src": "ecfb536f8d8c",
+   "t": "No vengas tanto si estás bien."
+  },
+  {
+   "i": 1046,
+   "src": "5e083a374acf",
+   "t": "O pensarán que te saltas la clase."
+  },
+  {
+   "i": 1049,
+   "src": "f70178cf75e5",
+   "t": "Jeje."
+  }
+ ]
+}

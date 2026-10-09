@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo64.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "42d3e12ea934",
+   "t": "'{{medalia}} {{collect|cap}}:Ski Resort'"
+  },
+  {
+   "i": 32,
+   "src": "05f6118a8618",
+   "t": "Large medalia reaction at the Artificial Ski Resort.\nEnter through the mountain entrance,it should be easy.\n"
+  },
+  {
+   "i": 42,
+   "src": "a868c3f47d30",
+   "t": "{{ski_club}} & {{robattle}} betting on the medalia.\nI won,& I'm grateful for earning this medalia.\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

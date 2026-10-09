@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "61c81982b209",
+   "t": "Supongo que es hora de irse..."
+  },
+  {
+   "i": 1041,
+   "src": "c66d1c9a5f58",
+   "t": "Hace mucho que no salía así."
+  }
+ ]
+}

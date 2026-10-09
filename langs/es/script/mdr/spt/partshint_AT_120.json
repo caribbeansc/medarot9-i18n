@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_120.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "58b305f4fe1c",
+   "t": "<c:00ff00>Técnica:<c>Restaurar\nRestaura una {{part}} de un\n{{medabot}} {{ally_battle_term}}."
+  }
+ ]
+}

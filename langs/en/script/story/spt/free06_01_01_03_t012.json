@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/free06_01_01_03_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "a7dfb9a5ea19",
+   "t": "Is this... right?"
+  },
+  {
+   "i": 1042,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1048,
+   "src": "10e9c75f558c",
+   "t": "Yep, yep, I think it's fine."
+  },
+  {
+   "i": 1058,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1067,
+   "src": "b80db75ace44",
+   "t": "It's over, huh."
+  },
+  {
+   "i": 1070,
+   "src": "3a6ecef34353",
+   "t": "Then let's head back."
+  },
+  {
+   "i": 1081,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1089,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1095,
+   "src": "77af09e9b555",
+   "t": "What's wrong?"
+  }
+ ]
+}

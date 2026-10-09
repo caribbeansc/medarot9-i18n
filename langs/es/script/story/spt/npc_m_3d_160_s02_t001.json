@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d_160_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "6778d5724a95",
+   "t": "{{dusty}}"
+  },
+  {
+   "i": 1035,
+   "src": "b8ec54dc7137",
+   "t": "¡Rayos, lo olvidé por completo!"
+  },
+  {
+   "i": 1038,
+   "src": "8a2df1299915",
+   "t": "¡Hoy sale Medarock Mensual! Rayos..."
+  },
+  {
+   "i": 1046,
+   "src": "923e610419e5",
+   "t": "¿Qué hago? ¿Voy a las actividades del "
+  },
+  {
+   "i": 1049,
+   "src": "f41452b0e4ad",
+   "t": "{{club}} o voy a la {{shop}} escolar? Mmm."
+  }
+ ]
+}

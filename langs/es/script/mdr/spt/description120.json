@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description120.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "305a51cb20d2",
+   "t": "Arremetida (sub.)"
+  },
+  {
+   "i": 11,
+   "src": "89ae28655454",
+   "t": "<c:ffff00>Subhabilidad<c> de <c:ffff00>{{fighting}}<c> que, con un impacto\nbrutal, causa <c:ffff00>{{damage}}<c> a <c:ffff00>{{all_parts}}<c>.\nCon cualquier <c:ffff00>técnica<c> aplica la <c:ffff00>característica de<c>\n<c:ffff00>{{damage}}<c> de {{all_parts}} y, al volcar el impulso de\ntodo el cuerpo en el <c:ffff00>ataque<c>, suma la <c:ffff00>{{mobility}}<c> de\nlas <c:ffff00>{{legs}}<c> a la <c:ffff00>{{power}}<c>.\nSu movimiento violento lo deja muy expuesto tras\natacar: durante el <c:ffff00>{{cooldown}}<c> de la <c:ffff00>acción<c> de\narremetida queda <c:ffff00>{{cannot_defend}}<c> y <c:ffff00>{{cannot_evade}}<c>."
+  }
+ ]
+}

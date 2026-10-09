@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description142.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "36e429ccccb3",
+   "t": "{{giant_medabot}}"
+  },
+  {
+   "i": 11,
+   "src": "60068eace81d",
+   "t": "<c:ffff00>{{medabot}}<c> varias veces más grande de lo normal, que\nignora el estándar del <c:ffff00>{{tinpet}}<c>.\nEn la <c:ffff00>{{robattle}}<c>, su <c:ffff00>{{head}}<c> y cada <c:ffff00>brazo<c> cuentan\ncomo un <c:ffff00>{{object}}<c> por separado; al <c:ffff00>destruir<c> la {{head}}\nqueda <c:ffff00>{{knocked_out}}<c>.\nResiste estas <c:ffff00>técnicas<c> (solo {{static}} anula el <c:ffff00>{{damage}}<c>):\n  {{slip}} y {{destroy_game_term}}: anulan el {{effect}} adicional\n  {{countdown}}: anula el <c:ffff00>{{negative_status}}<c>\n  {{static}}: anula el {{damage}}"
+  }
+ ]
+}

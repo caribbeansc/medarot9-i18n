@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_m_1d_500_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "6f6e3ced34a5",
+   "t": "Aunque digan que es fácil obtenerlas,"
+  },
+  {
+   "i": 1041,
+   "src": "bcb3306504d8",
+   "t": "hallar buenas {{medalia|pl}} es difícil."
+  },
+  {
+   "i": 1049,
+   "src": "6a5582edb4ba",
+   "t": "Suelen estar en lugares inaccesibles"
+  },
+  {
+   "i": 1052,
+   "src": "89801a29741d",
+   "t": "o las tienen Medabots fuertes y salvajes."
+  },
+  {
+   "i": 1060,
+   "src": "efc4fdc132f9",
+   "t": "Si no me esfuerzo en juntarlas,"
+  },
+  {
+   "i": 1063,
+   "src": "6549bcc0de66",
+   "t": "perderé más en las {{robattle|pl}}..."
+  },
+  {
+   "i": 1071,
+   "src": "2f2ee2edc5be",
+   "t": "¡El {{exploration_club}} lo arruinó todo!"
+  },
+  {
+   "i": 1079,
+   "src": "0d3ad291e8bf",
+   "t": "Bueno, lo pienso un poquito..."
+  },
+  {
+   "i": 1082,
+   "src": "bd1a4d94a386",
+   "t": "No puedo evitarlo, ¿sabes?"
+  }
+ ]
+}

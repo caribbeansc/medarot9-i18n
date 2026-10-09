@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f06_140_168_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "d3faea1a1bc6",
+   "t": "¿Ni una sola palabra de agradecimiento?"
+  },
+  {
+   "i": 1042,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "4d31bd75975f",
+   "t": "Jajaja, está bien, está bien. Si ella"
+  },
+  {
+   "i": 1054,
+   "src": "3ffadebba9c8",
+   "t": "da gracias, es señal de catástrofe."
+  },
+  {
+   "i": 1061,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1070,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/free06_02_04_02_t022.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1035,
+   "src": "1a390e91ab99",
+   "t": "Igual esto es cosa de {{saika}}"
+  },
+  {
+   "i": 1038,
+   "src": "5ff2e23d05a0",
+   "t": "y, sobre todo, no es lo mío."
+  },
+  {
+   "i": 1046,
+   "src": "8b027804be1f",
+   "t": "¡Pero, sin embargo! Voy a ignorar"
+  },
+  {
+   "i": 1049,
+   "src": "83848384ef39",
+   "t": "ese detalle y decir esto de todos modos."
+  }
+ ]
+}

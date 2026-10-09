@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_138.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bc3d6f9e79fd",
+   "t": "<c:00ff00>Técnica:<c>{{shooting_guard}}\n{{guard}} que reacciona a\ndisparos contra aliados.\nAl interceptar, anula el\n{{damage}} de {{shooting}}.\nTermina si aliados actúan\n4 veces o pasa un\ntiempo."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_m_1e_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "Hey, "
+  },
+  {
+   "i": 1040,
+   "src": "222a7652ec56",
+   "t": "-kun!"
+  },
+  {
+   "i": 1043,
+   "src": "d1469afe4fc1",
+   "t": "You came!"
+  },
+  {
+   "i": 1051,
+   "src": "705c56d8b64e",
+   "t": "How's student life?"
+  },
+  {
+   "i": 1054,
+   "src": "ea50cf7c5998",
+   "t": "Are you enjoying it to the fullest?"
+  },
+  {
+   "i": 1062,
+   "src": "12545474d40a",
+   "t": "Youth only comes once!"
+  },
+  {
+   "i": 1065,
+   "src": "dfbfed52c927",
+   "t": "You've got to make as many memories\nas you can!"
+  },
+  {
+   "i": 1073,
+   "src": "0bf41b0897ca",
+   "t": "Even the painful and sad stuff"
+  },
+  {
+   "i": 1076,
+   "src": "1a689ffa1106",
+   "t": "will surely become wonderful memories\nonce it's over!"
+  },
+  {
+   "i": 1084,
+   "src": "c4331d68a7a7",
+   "t": "Ahahahahahaha!"
+  }
+ ]
+}

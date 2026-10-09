@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description145.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3190e5911a45",
+   "t": "{{level|cap}} de actividad"
+  },
+  {
+   "i": 11,
+   "src": "64ceee877fb9",
+   "t": "{{level|cap}} del {{exploration_club}}"
+  }
+ ]
+}

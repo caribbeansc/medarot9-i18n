@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3e2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ee22ffc84c9",
+   "t": "{{rokujugo}}"
+  },
+  {
+   "i": 1035,
+   "src": "5baa688fd13a",
+   "t": "Sorry. It's not convenient right now."
+  },
+  {
+   "i": 1038,
+   "src": "e86d1b6da03c",
+   "t": "Let's do it another time."
+  }
+ ]
+}

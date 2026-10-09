@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_08_003.spt",
+ "lines": [
+  {
+   "i": 1114,
+   "src": "4b3bef921d81",
+   "t": "...Huh?\nWhat's that move? "
+  },
+  {
+   "i": 1119,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1125,
+   "src": "bc13ed09cd3b",
+   "t": "When Crossfire finishes prepping,\nit enters <c:ff00ff>Crossfire standby<c>.             "
+  },
+  {
+   "i": 1130,
+   "src": "ea672825860f",
+   "t": "If another {{ally_battle_term}} attacks in this state,\nthe standby {{medabot}} joins the attack.                                   "
+  },
+  {
+   "i": 1135,
+   "src": "5be9de48be5c",
+   "t": "For now, let's wait until the 2nd\nMedabot's\nCrossfire is also on standby."
+  }
+ ]
+}

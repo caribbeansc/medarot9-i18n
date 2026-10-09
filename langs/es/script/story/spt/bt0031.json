@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/bt0031.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 864,
+   "src": "6ec2ca14b703",
+   "t": "{{one_on_one_robattle|cap}}"
+  },
+  {
+   "i": 867,
+   "src": "6ec2ca14b703",
+   "t": "{{one_on_one_robattle|cap}}"
+  },
+  {
+   "i": 870,
+   "src": "9d567fcedd28",
+   "t": "¡Es un {{match}} de 1 contra 1!"
+  },
+  {
+   "i": 884,
+   "src": "b836539450b7",
+   "t": "¡No perderemos contra"
+  },
+  {
+   "i": 887,
+   "src": "41f314123185",
+   "t": "el Club de Paseos!"
+  }
+ ]
+}

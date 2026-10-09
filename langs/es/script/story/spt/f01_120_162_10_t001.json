@@ -1,0 +1,340 @@
+{
+ "file": "story/spt/f01_120_162_10_t001.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "016353de777b",
+   "t": "¿Estás bien? "
+  },
+  {
+   "i": 1044,
+   "src": "7d9d809ecbf1",
+   "t": "?"
+  },
+  {
+   "i": 1071,
+   "src": "571ecde32cb9",
+   "t": "Sí."
+  },
+  {
+   "i": 1077,
+   "src": "265232ca4249",
+   "t": "Eh, sí."
+  },
+  {
+   "i": 1093,
+   "src": "02e088f8f9b0",
+   "t": "¡Qué bueno!"
+  },
+  {
+   "i": 1117,
+   "src": "9df26106b0f4",
+   "t": "Oye "
+  },
+  {
+   "i": 1119,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1125,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1128,
+   "src": "9df26106b0f4",
+   "t": "Oye "
+  },
+  {
+   "i": 1130,
+   "src": "e52afecfbed9",
+   "t": "?"
+  },
+  {
+   "i": 1139,
+   "src": "c808741ef2b8",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1163,
+   "src": "18ea8267e89a",
+   "t": "Dijiste que destruyera antes la {{trap}}."
+  },
+  {
+   "i": 1166,
+   "src": "d7a1c232900f",
+   "t": "¿Cómo lo sabías?"
+  },
+  {
+   "i": 1172,
+   "src": "18ea8267e89a",
+   "t": "Dijiste que destruyera antes la {{trap}}."
+  },
+  {
+   "i": 1175,
+   "src": "27fee89b2bdc",
+   "t": "¿Cómo lo supiste?"
+  },
+  {
+   "i": 1196,
+   "src": "324cd73c8a23",
+   "t": "Era una {{trap}} de disparo. De dejarla,"
+  },
+  {
+   "i": 1199,
+   "src": "42d94734160f",
+   "t": "todo se nos pondría en contra, ¿no?"
+  },
+  {
+   "i": 1205,
+   "src": "213bb58425e1",
+   "t": "Era una {{trap}} de combate. De dejarla,"
+  },
+  {
+   "i": 1208,
+   "src": "42d94734160f",
+   "t": "todo se nos pondría en contra, ¿no?"
+  },
+  {
+   "i": 1228,
+   "src": "ff92be682576",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1244,
+   "src": "ce0a2cba3164",
+   "t": "Cosas que se saben antes de pelear..."
+  },
+  {
+   "i": 1247,
+   "src": "0ff495844aa6",
+   "t": "¿hay muchas más como esas?"
+  },
+  {
+   "i": 1262,
+   "src": "b79a578a7ddf",
+   "t": "Claro que hay."
+  },
+  {
+   "i": 1265,
+   "src": "0e798c569848",
+   "t": "Por ejemplo, el {{medabot}} de hace rato..."
+  },
+  {
+   "i": 1273,
+   "src": "4c1b99371d73",
+   "t": "Gran ataque, pero lento y pesado, ¿no?"
+  },
+  {
+   "i": 1276,
+   "src": "0ee2bf4754f0",
+   "t": "Seguro llevaba piezas pesadas de más."
+  },
+  {
+   "i": 1284,
+   "src": "14443ba6ce07",
+   "t": "Las {{part|pl}} pesadas son fuertes, pero"
+  },
+  {
+   "i": 1287,
+   "src": "45b30d6ce6b9",
+   "t": "recargan mucho las piernas."
+  },
+  {
+   "i": 1295,
+   "src": "174d04aa1497",
+   "t": "Pensé que no rendiría al máximo"
+  },
+  {
+   "i": 1298,
+   "src": "b9d5a40fb039",
+   "t": "por una configuración desbalanceada."
+  },
+  {
+   "i": 1313,
+   "src": "50475f9eec5e",
+   "t": "Pensé que en {{mobility}} ganaríamos"
+  },
+  {
+   "i": 1316,
+   "src": "ab9cb9396001",
+   "t": "seguro... por eso peleé así."
+  },
+  {
+   "i": 1335,
+   "src": "39ba6a6cbf6e",
+   "t": "Ya veo..."
+  },
+  {
+   "i": 1338,
+   "src": "e09a57891c9a",
+   "t": "Así que es eso..."
+  },
+  {
+   "i": 1346,
+   "src": "044646866682",
+   "t": "No todo es {{stats}}."
+  },
+  {
+   "i": 1349,
+   "src": "210de61ba16e",
+   "t": "El saber y el criterio deciden."
+  },
+  {
+   "i": 1364,
+   "src": "5ec06fbad8e4",
+   "t": "¡Por eso es tan emocionante!"
+  },
+  {
+   "i": 1383,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1401,
+   "src": "8ccf3d7f25c7",
+   "t": "Ahora lo entiendo."
+  },
+  {
+   "i": 1409,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1433,
+   "src": "d4307b2c93be",
+   "t": "Ese saber y ese criterio-"
+  },
+  {
+   "i": 1437,
+   "src": "2b53345c7e39",
+   "t": ", ese es tu trabajo, ¿no?"
+  },
+  {
+   "i": 1443,
+   "src": "d4307b2c93be",
+   "t": "Ese saber y ese criterio..."
+  },
+  {
+   "i": 1447,
+   "src": "49355d738146",
+   "t": ", ese es tu trabajo, ¿no?  "
+  },
+  {
+   "i": 1456,
+   "src": "6056a477bb54",
+   "t": "¿Eh? Sí."
+  },
+  {
+   "i": 1480,
+   "src": "44df3ffcdd33",
+   "t": "Así que todo tu escándalo a mi lado"
+  },
+  {
+   "i": 1483,
+   "src": "d772e2f0e9e4",
+   "t": "es todo saber y criterio, ¿eh?"
+  },
+  {
+   "i": 1489,
+   "src": "4e19ca401d4a",
+   "t": "Así que toda tu palabrería a mi lado"
+  },
+  {
+   "i": 1492,
+   "src": "d1cc47654257",
+   "t": "es todo saber y criterio, ¿eh?"
+  },
+  {
+   "i": 1501,
+   "src": "dc79b9bddb14",
+   "t": "B-bueno..."
+  },
+  {
+   "i": 1525,
+   "src": "3305ae12cf5d",
+   "t": "Si hago lo que dices, ganaré, ¿verdad?"
+  },
+  {
+   "i": 1531,
+   "src": "6f094afad6a9",
+   "t": "Si hago lo que dices, ganaré, ¿verdad?"
+  },
+  {
+   "i": 1540,
+   "src": "a9e841d98798",
+   "t": "No está garantizado, pero..."
+  },
+  {
+   "i": 1543,
+   "src": "614dc2433d71",
+   "t": "Pero ese es el plan."
+  },
+  {
+   "i": 1567,
+   "src": "ce4925c2ed59",
+   "t": "Bien, entendido."
+  },
+  {
+   "i": 1573,
+   "src": "93c0c51d7add",
+   "t": "Trato hecho."
+  },
+  {
+   "i": 1595,
+   "src": "f2dddf6b82a2",
+   "t": "De ahora en más, te haré caso"
+  },
+  {
+   "i": 1598,
+   "src": "24f6c5a6eefb",
+   "t": "y robobatallaremos juntos."
+  },
+  {
+   "i": 1604,
+   "src": "ddcf84e49796",
+   "t": "De ahora en adelante, tú-"
+  },
+  {
+   "i": 1608,
+   "src": "0404cd714ddb",
+   "t": "... haré lo que digas y pelearé.         "
+  },
+  {
+   "i": 1617,
+   "src": "95039396e47f",
+   "t": "Ah..."
+  },
+  {
+   "i": 1632,
+   "src": "943067bf2dab",
+   "t": "Gracias, "
+  },
+  {
+   "i": 1634,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1658,
+   "src": "ab02c9866525",
+   "t": "No hace falta agradecer."
+  },
+  {
+   "i": 1661,
+   "src": "e1a386822136",
+   "t": "Solo es que no quiero perder."
+  },
+  {
+   "i": 1667,
+   "src": "ade404528b23",
+   "t": "No hace falta agradecer."
+  },
+  {
+   "i": 1670,
+   "src": "b8fced00a526",
+   "t": "Solo es que no quiero perder."
+  }
+ ]
+}

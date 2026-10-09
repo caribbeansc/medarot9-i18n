@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_07_010.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "b19fba52b56e",
+   "t": "The enemy is attacking!\n...Huh?"
+  },
+  {
+   "i": 1125,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1131,
+   "src": "a211f94923fb",
+   "t": "While Medachanged, all 4 {{part|pl}}'\n<c:ff00ff>{{armor}} Gauges are combined<c> into one.                                     "
+  },
+  {
+   "i": 1136,
+   "src": "8695d2e0a571",
+   "t": "And you can only respond to attacks\nwith\n<c:ff00ff>{{defend}}<c> or <c:ff00ff>{{evade}}<c>.        "
+  },
+  {
+   "i": 1141,
+   "src": "292d5eba1ae4",
+   "t": "Of course, if {{damage}} drops your {{armor}}\nto 0, you shut down. Be careful.                                    "
+  }
+ ]
+}

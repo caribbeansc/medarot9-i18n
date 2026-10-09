@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2a_meda_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e21dfec68ed5",
+   "t": "Pretty Prime"
+  },
+  {
+   "i": 1038,
+   "src": "f48643a51b22",
+   "t": "Explorar la isla es divertido, pero"
+  },
+  {
+   "i": 1041,
+   "src": "acfd9e7943d9",
+   "t": "peligroso. Podrías caer de un risco."
+  }
+ ]
+}

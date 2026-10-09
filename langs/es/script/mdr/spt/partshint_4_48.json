@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_48.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c134ce1d22f5",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nDisparo Extra\n{{uses|cap}} de la {{part}} de\n{{head}} +1."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_seitokai_fa.spt",
+ "lines": [
+  {
+   "i": 1632,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1643,
+   "src": "30f31b4dc404",
+   "t": "Eh, ¿una {{robattle}}?"
+  },
+  {
+   "i": 1646,
+   "src": "0dd543646fff",
+   "t": "Claro, sin problema~."
+  }
+ ]
+}

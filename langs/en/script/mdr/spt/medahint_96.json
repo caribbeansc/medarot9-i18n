@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_96.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "eb594cccbaff",
+   "t": "Scarab-{{type}} {{medabot}}\nrecalling other units.\n \nWields a {{fighting_part}} with\na shooting-style name\nand\nslams {{bug}} into a foe\ncaught\noff guard."
+  }
+ ]
+}

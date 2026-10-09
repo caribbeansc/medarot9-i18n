@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_51.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "261d72427880",
+   "t": "<c:00ff00>Técnica:<c>{{sacrifice}}\nAtaque cuerpo a cuerpo\nque suma a la {{power}} la\nmitad del {{armor}} de la\n{{part}}.\nTras atacar, no soporta el\n{{recoil}} y explota."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_84.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ced6d7829f30",
+   "t": "<c:00ff00>Action:<c> {{cooler}}\nFor a while, raises the\n{{cooldown}} stat of your\nwhole team.\nUsing it again during the\n{{cooler}} {{effect}} makes the\n{{effect}} stronger."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s06_t041.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "b013679afa5d",
+   "t": "It'll work properly this time, right?"
+  },
+  {
+   "i": 1041,
+   "src": "39cc42ccd106",
+   "t": "I'm sick of running around for nothing."
+  }
+ ]
+}

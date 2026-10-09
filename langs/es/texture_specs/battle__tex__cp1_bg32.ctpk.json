@@ -1,0 +1,182 @@
+{
+ "rel": "battle/tex/cp1_bg32.ctpk",
+ "base": "jp",
+ "styles": {
+  "celda": {
+   "erase": "transparent",
+   "font": "helv-cond-black",
+   "cap": 8,
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.6
+  }
+ },
+ "items": [
+  {
+   "style": "celda",
+   "box": [
+    39,
+    45,
+    12,
+    12
+   ],
+   "text": "EX"
+  },
+  {
+   "style": "celda",
+   "box": [
+    52,
+    45,
+    12,
+    12
+   ],
+   "text": "PO"
+  },
+  {
+   "style": "celda",
+   "box": [
+    65,
+    45,
+    12,
+    12
+   ],
+   "text": "CA"
+  },
+  {
+   "style": "celda",
+   "box": [
+    78,
+    45,
+    12,
+    12
+   ],
+   "text": "EN"
+  },
+  {
+   "style": "celda",
+   "box": [
+    91,
+    45,
+    12,
+    12
+   ],
+   "text": "MO"
+  },
+  {
+   "style": "celda",
+   "box": [
+    116,
+    104,
+    12,
+    12
+   ],
+   "text": "DI"
+  },
+  {
+   "style": "celda",
+   "box": [
+    116,
+    116,
+    12,
+    12
+   ],
+   "text": "CO"
+  },
+  {
+   "box": [
+    7,
+    3,
+    48,
+    11
+   ],
+   "erase_box": [
+    6,
+    3,
+    42,
+    11
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "text": "Sintomas",
+   "font": "tahoma",
+   "cap": 6.5,
+   "fill": "#D6B8A0",
+   "stroke": "#2B120AC0",
+   "stroke_w": 0.7,
+   "align": "left",
+   "pad": 0,
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    2,
+    18,
+    94,
+    12
+   ],
+   "erase_box": [
+    1,
+    17,
+    96,
+    14
+   ],
+   "erase": "transparent",
+   "text": "CARGANDO",
+   "font": "sf-heavy",
+   "cap": 9,
+   "fill": "#E3CB62",
+   "stroke": "#6E5A14",
+   "stroke_w": 0.8,
+   "align": "center",
+   "pad": 0,
+   "tracking": 1,
+   "italic_skew": 0.18,
+   "crisp": 0.3
+  },
+  {
+   "erase_box": [
+    10,
+    100,
+    29,
+    23
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    11,
+    100,
+    27,
+    10
+   ],
+   "erase": "none",
+   "text": "Total",
+   "font": "tahoma",
+   "cap": 6,
+   "fill": "#C8C8C8",
+   "stroke": null,
+   "align": "left",
+   "pad": 0,
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    11,
+    112,
+    27,
+    11
+   ],
+   "erase": "none",
+   "text": "Nv.",
+   "font": "tahoma",
+   "cap": 6,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "align": "left",
+   "pad": 0,
+   "crisp": 0.4
+  }
+ ]
+}

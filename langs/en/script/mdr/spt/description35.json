@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description35.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "75025ce5fc2b",
+   "t": "Evasion Power"
+  },
+  {
+   "i": 11,
+   "src": "1289d70b2293",
+   "t": "The ability to successfully <c:ffff00>evade<c>: dodging quickly\njust before an {{opponent}}'s <c:ffff00>attack<c> lands, trying to\navoid taking <c:ffff00>{{damage}}<c>.\n\nIt is mostly determined by the <c:ffff00>{{mobility}}<c> stat of the\n<c:ffff00>legs<c>; the <c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> stat and <c:ffff00>{{medal_level}}<c>\nalso have an effect."
+  }
+ ]
+}

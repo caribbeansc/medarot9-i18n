@@ -1,0 +1,190 @@
+{
+ "file": "story/spt/f04_050_131_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "06f289a72ab0",
+   "t": "Hola, perdón por la espera."
+  },
+  {
+   "i": 1055,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1064,
+   "src": "c9eee7ddcd0d",
+   "t": "Aunque no estaba esperando."
+  },
+  {
+   "i": 1078,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1087,
+   "src": "19255e84637d",
+   "t": "¡Qué escenario tan espléndido!"
+  },
+  {
+   "i": 1090,
+   "src": "606fc3367393",
+   "t": "Es sede oficial de {{robattle|pl}}, ¿no?"
+  },
+  {
+   "i": 1105,
+   "src": "a4fea0c26ee1",
+   "t": "Hacer una {{robattle}} en un lugar"
+  },
+  {
+   "i": 1108,
+   "src": "c6f6ba43ac90",
+   "t": "así me pone tan nervioso, jajaja."
+  },
+  {
+   "i": 1115,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1124,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1132,
+   "src": "8e23c3ff268e",
+   "t": "Lo tomas con mucha calma. Pensé que"
+  },
+  {
+   "i": 1135,
+   "src": "6e2c4bc1eda2",
+   "t": "al menos cambiarías un poco tu actitud."
+  },
+  {
+   "i": 1142,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1151,
+   "src": "4e64ca08a54c",
+   "t": "¡No es cierto, sí hemos cambiado!"
+  },
+  {
+   "i": 1154,
+   "src": "acdd67446c47",
+   "t": "¡Vamos motivadísimos por el título!"
+  },
+  {
+   "i": 1161,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1170,
+   "src": "7030fa359881",
+   "t": "Entonces puedo estar tranquila."
+  },
+  {
+   "i": 1178,
+   "src": "397f834313ae",
+   "t": "No hay otra"
+  },
+  {
+   "i": 1181,
+   "src": "f701cfd17dc5",
+   "t": "forma de que sobrevivan."
+  },
+  {
+   "i": 1196,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1207,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1232,
+   "src": "c71e5f3ddd3f",
+   "t": "Q-qué rayos es eso-"
+  },
+  {
+   "i": 1248,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1259,
+   "src": "afe8f8631dd6",
+   "t": "¿Qué está pasando?"
+  },
+  {
+   "i": 1266,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1272,
+   "src": "601d47166b5f",
+   "t": "Cada vez hay más peticiones para"
+  },
+  {
+   "i": 1275,
+   "src": "5424dd7e55a6",
+   "t": "fundar nuevos clubes."
+  },
+  {
+   "i": 1283,
+   "src": "8d9c5ae9ff0d",
+   "t": "Pero ahora no hay salas de {{club}} libres."
+  },
+  {
+   "i": 1286,
+   "src": "80b17dbb0ebf",
+   "t": "Hay que disolver un {{club}} existente."
+  },
+  {
+   "i": 1294,
+   "src": "1b448cd9f46a",
+   "t": "El {{exploration_club}} aporta cero."
+  },
+  {
+   "i": 1297,
+   "src": "d5ee86166564",
+   "t": "Es el último de todos, por mucho."
+  },
+  {
+   "i": 1305,
+   "src": "f842254dcc66",
+   "t": "Es el primer candidato a cerrar."
+  },
+  {
+   "i": 1308,
+   "src": "3e0bbbe26e8f",
+   "t": "Deben lograr algo grande para evitarlo."
+  },
+  {
+   "i": 1316,
+   "src": "e0831c28b539",
+   "t": "Eso es {{win_the_championship}}."
+  },
+  {
+   "i": 1319,
+   "src": "cbcfae11b3a0",
+   "t": "Si fallan, la disolución es inevitable."
+  },
+  {
+   "i": 1339,
+   "src": "20e87ef3a356",
+   "t": "¿¡Qué rayos!?"
+  }
+ ]
+}

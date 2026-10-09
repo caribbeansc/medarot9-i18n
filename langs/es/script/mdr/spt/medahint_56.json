@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_56.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "17ef24903bbe",
+   "t": "{{medabot}} {{type}} rinoceronte,\nrobusto y de {{armor}}\nsin igual.\n \nLa {{guard}} 100 de su\n{{head_part_slot}} anula los ataques\nflojos. Cuidado también\ncon los misiles de ambos\nbrazos."
+  }
+ ]
+}

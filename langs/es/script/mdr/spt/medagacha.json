@@ -1,0 +1,65 @@
+{
+ "file": "mdr/spt/medagacha.spt",
+ "lines": [
+  {
+   "i": 1692,
+   "src": "11e0bccfdf99",
+   "t": "¡Uy! ¡No tenía <c:00ff00>monedas MedaGacha<c>!"
+  },
+  {
+   "i": 1696,
+   "src": "e2183b29ecf0",
+   "t": "¡Uy! ¡Faltaban <c:00ff00>monedas MedaGacha<c>!"
+  },
+  {
+   "i": 2707,
+   "src": "82d50b0e0a91",
+   "t": "<c> salió!"
+  },
+  {
+   "i": 2879,
+   "src": "82d50b0e0a91",
+   "t": "<c> salió!"
+  },
+  {
+   "i": 2903,
+   "src": "b6f5eec224f6",
+   "t": ": {{head_part}}\n<c:00ff00>"
+  },
+  {
+   "i": 2905,
+   "src": "82d50b0e0a91",
+   "t": "<c> salió!"
+  },
+  {
+   "i": 2931,
+   "src": "2dfb1f20c357",
+   "t": ": {{arm_part}} der.\n<c:00ff00>"
+  },
+  {
+   "i": 2933,
+   "src": "82d50b0e0a91",
+   "t": "<c> salió!"
+  },
+  {
+   "i": 2959,
+   "src": "85b3154e43d6",
+   "t": ": {{arm_part}} izq.\n<c:00ff00>"
+  },
+  {
+   "i": 2961,
+   "src": "82d50b0e0a91",
+   "t": "<c> salió!"
+  },
+  {
+   "i": 2990,
+   "src": "ba906ef49336",
+   "t": ": {{leg_part}}\n<c:00ff00>"
+  },
+  {
+   "i": 2992,
+   "src": "82d50b0e0a91",
+   "t": "<c> salió!"
+  }
+ ]
+}

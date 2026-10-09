@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description111.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "475f47fba755",
+   "t": "{{uses}} (stat)"
+  },
+  {
+   "i": 11,
+   "src": "7db65135c8de",
+   "t": "A type of <c:ffff00>stat<c> for the <c:ffff00>head<c> <c:ffff00>{{part}}<c>.\n\nMeasures remaining ammo or energy, that is, how\nmany times the action can be executed (fired).\nIt drops each time the {{head_part}}'s <c:ffff00>action<c> is used. At\n0 uses, the {{part}} can't be used.\nIt fully recovers automatically when the <c:ffff00>{{robattle}}<c>\nends."
+  }
+ ]
+}

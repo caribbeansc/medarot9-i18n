@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f04_050_131_20_t041.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1049,
+   "src": "9ab348bf2918",
+   "t": "All right, here we go."
+  },
+  {
+   "i": 1052,
+   "src": "70b77431a3ca",
+   "t": "Are both sides ready? Ready?"
+  },
+  {
+   "i": 1077,
+   "src": "7066813ac49b",
+   "t": "Then here we go!"
+  },
+  {
+   "i": 1080,
+   "src": "94626e2463d0",
+   "t": "{{robattle}}--!"
+  }
+ ]
+}

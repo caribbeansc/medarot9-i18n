@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b_164_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1035,
+   "src": "e510a634fad0",
+   "t": "¿Así que {{main}}-chan va a aparecer?"
+  },
+  {
+   "i": 1038,
+   "src": "44c1e3d0f936",
+   "t": "Será que... jejeje."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_96.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "eb594cccbaff",
+   "t": "{{medabot}} escarabajo que\nrecuerda a otras unidades.\n \nBlande una {{part}} de\n{{fighting}} con nombre de\n{{shooting}} y asesta el\n{{status}}\n{{bug}} al {{opponent}} sorprendido."
+  }
+ ]
+}

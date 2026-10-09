@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_g_f3a2.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "971401ef6732",
+   "t": "{{kikuyo}}"
+  },
+  {
+   "i": 1038,
+   "src": "1bf8442989a7",
+   "t": "Me alegra que haya tantos buenos"
+  },
+  {
+   "i": 1041,
+   "src": "a35af70fb81b",
+   "t": "chicos este año. Así creo que podría"
+  },
+  {
+   "i": 1049,
+   "src": "262f61850e7e",
+   "t": "retirarme cuando quiera. Aunque, ¿quizá"
+  },
+  {
+   "i": 1052,
+   "src": "68143015e243",
+   "t": "me estoy adelantando un poco? Ajaja."
+  }
+ ]
+}

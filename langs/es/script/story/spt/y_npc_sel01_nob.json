@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_sel01_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1035,
+   "src": "67c9e4849413",
+   "t": "¡Qué pena!"
+  },
+  {
+   "i": 1038,
+   "src": "b0be34976aa3",
+   "t": "Ahora estoy muy ocupado, ¡imposible!"
+  }
+ ]
+}

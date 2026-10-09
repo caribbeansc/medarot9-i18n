@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/free06_02_02_04_t001.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "46c23fe94898",
+   "t": "Oh."
+  },
+  {
+   "i": 1053,
+   "src": "6306fb2062cb",
+   "t": "¿Qué es esto?"
+  },
+  {
+   "i": 1061,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1070,
+   "src": "2c24dfb595ad",
+   "t": "Un espesador."
+  },
+  {
+   "i": 1073,
+   "src": "f343e38573e3",
+   "t": "Separa la {{medalia}} de las impurezas."
+  },
+  {
+   "i": 1087,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1093,
+   "src": "6fd38fe11a15",
+   "t": "Eso que se junta es agua, ¿no?"
+  },
+  {
+   "i": 1096,
+   "src": "9f7f4b8b9111",
+   "t": "Si caes, será un desastre."
+  },
+  {
+   "i": 1114,
+   "src": "424def457e09",
+   "t": "Aun así, vaya instalación."
+  },
+  {
+   "i": 1117,
+   "src": "122692148fb2",
+   "t": "¡Enterrada en una montaña sola...!"
+  },
+  {
+   "i": 1125,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1131,
+   "src": "9de728e015fa",
+   "t": "Parece que sí tiene visitas."
+  },
+  {
+   "i": 1139,
+   "src": "4edf4a22891d",
+   "t": "¿...Eh?"
+  }
+ ]
+}

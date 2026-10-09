@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/free06_02_01_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "5c8b887fc930",
+   "t": "Quest '{{medalia}} Collection: {{storehouse}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "6b76631ea03f",
+   "t": "It's that warehouse we went into to\nrescue "
+  },
+  {
+   "i": 1048,
+   "src": "461e5a458631",
+   "t": "-chan, back then."
+  },
+  {
+   "i": 1051,
+   "src": "2ae4b940e558",
+   "t": "You remember, right?"
+  },
+  {
+   "i": 1059,
+   "src": "e08c5745a82a",
+   "t": "Of course I remember..."
+  },
+  {
+   "i": 1062,
+   "src": "f7002b11706b",
+   "t": "Is there still {{medalia}} in a place like that?"
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "3bf59134e093",
+   "t": "If there is, it'll prove the detector's\naccuracy."
+  },
+  {
+   "i": 1076,
+   "src": "f502011d4bff",
+   "t": "I think it's the perfect place for an\nexperiment."
+  }
+ ]
+}

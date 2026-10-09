@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s06_t010.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "2eead9a85e26",
+   "t": "So, what should we do? Want to go"
+  },
+  {
+   "i": 1041,
+   "src": "e2e458323862",
+   "t": "somewhere? If you do, I'll come along."
+  }
+ ]
+}

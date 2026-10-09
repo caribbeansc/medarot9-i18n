@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2c_164_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1035,
+   "src": "d1e98beca964",
+   "t": "¡¿Es la legendaria {{main}}-chan?!"
+  },
+  {
+   "i": 1038,
+   "src": "a2eef00b6821",
+   "t": "La conozco por primera vez..."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5d1f8cd82138",
+   "t": "{{pingen}}"
+  },
+  {
+   "i": 1038,
+   "src": "76f010e72a98",
+   "t": "I love this school. Swimming in the\nbeautiful"
+  },
+  {
+   "i": 1041,
+   "src": "ffbaf50ec1dc",
+   "t": "sea every day is pure bliss."
+  }
+ ]
+}

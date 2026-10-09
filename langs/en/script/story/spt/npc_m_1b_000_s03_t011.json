@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1b_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "f97b38f025b7",
+   "t": "I thought homesickness would hit\nharder,"
+  },
+  {
+   "i": 1041,
+   "src": "c3a208eb430f",
+   "t": "but it wasn't that big a deal."
+  },
+  {
+   "i": 1049,
+   "src": "47d9595b4201",
+   "t": "Huh, what do I mean?"
+  },
+  {
+   "i": 1052,
+   "src": "67e23ef1aac0",
+   "t": "Homesickness, I mean homesickness."
+  },
+  {
+   "i": 1060,
+   "src": "78cc5d1d1c10",
+   "t": "I get video calls all the time,"
+  },
+  {
+   "i": 1063,
+   "src": "461b81228a76",
+   "t": "so it doesn't feel like I'm far away at all."
+  },
+  {
+   "i": 1071,
+   "src": "41a1a29b64f2",
+   "t": "How about you?"
+  }
+ ]
+}

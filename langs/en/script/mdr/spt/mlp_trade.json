@@ -1,0 +1,75 @@
+{
+ "file": "mdr/spt/mlp_trade.spt",
+ "lines": [
+  {
+   "i": 1928,
+   "src": "659ddcb97acb",
+   "t": "Saving."
+  },
+  {
+   "i": 1989,
+   "src": "cbf2f9db8b90",
+   "t": "Saving failed."
+  },
+  {
+   "i": 2805,
+   "src": "071d5d8596d5",
+   "t": "You will be disconnected\nif you press the HOME menu\nwhile transferring your parts."
+  },
+  {
+   "i": 3382,
+   "src": "8a2dd5b2db82",
+   "t": "No part data has been sent."
+  },
+  {
+   "i": 3457,
+   "src": "7343fba9150f",
+   "t": "{{head}}"
+  },
+  {
+   "i": 3458,
+   "src": "f9cbcd0563a5",
+   "t": "{{right_arm}}"
+  },
+  {
+   "i": 3459,
+   "src": "ae22d610ddf0",
+   "t": "{{left_arm}}"
+  },
+  {
+   "i": 3460,
+   "src": "528640d1d527",
+   "t": "{{legs}}"
+  },
+  {
+   "i": 3461,
+   "src": "c1ed410584e0",
+   "t": "Set"
+  },
+  {
+   "i": 3473,
+   "src": "7343fba9150f",
+   "t": "{{head}}"
+  },
+  {
+   "i": 3481,
+   "src": "f9cbcd0563a5",
+   "t": "{{right_arm}}"
+  },
+  {
+   "i": 3489,
+   "src": "ae22d610ddf0",
+   "t": "{{left_arm}}"
+  },
+  {
+   "i": 3497,
+   "src": "528640d1d527",
+   "t": "{{legs}}"
+  },
+  {
+   "i": 3505,
+   "src": "c1ed410584e0",
+   "t": "Set"
+  }
+ ]
+}

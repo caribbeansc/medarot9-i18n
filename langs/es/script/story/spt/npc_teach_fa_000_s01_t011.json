@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_fa_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1038,
+   "src": "9b3f54c19a64",
+   "t": "En la {{academy|cap}} MEDA, los clubes"
+  },
+  {
+   "i": 1041,
+   "src": "adb247ea8dcf",
+   "t": "quedan a cargo de los alumnos."
+  },
+  {
+   "i": 1049,
+   "src": "affe5d730758",
+   "t": "Por eso no hay profesor asesor."
+  },
+  {
+   "i": 1052,
+   "src": "6a5d2c708f4c",
+   "t": "Todo es cosa del {{club}} y del Consejo."
+  }
+ ]
+}

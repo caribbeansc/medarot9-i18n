@@ -1,0 +1,140 @@
+{
+ "file": "story/spt/free08_02_01_02_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "5157810cd9a0",
+   "t": "Was this here before?"
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1048,
+   "src": "6af787e3a837",
+   "t": "I never noticed it."
+  },
+  {
+   "i": 1051,
+   "src": "7b197b7e22e9",
+   "t": "Was it hidden by the grass...?"
+  },
+  {
+   "i": 1059,
+   "src": "473579d5b380",
+   "t": "Oh, I get it. Everyone's been so into"
+  },
+  {
+   "i": 1062,
+   "src": "791835ee593c",
+   "t": "hunting {{medalia}} lately, that's why."
+  },
+  {
+   "i": 1070,
+   "src": "52a0083d44ae",
+   "t": "Even here people walk by a lot now,"
+  },
+  {
+   "i": 1073,
+   "src": "e8ee78c3622e",
+   "t": "so the grass got trampled, don't you\nthink?"
+  },
+  {
+   "i": 1078,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1084,
+   "src": "e4751a182444",
+   "t": "...Maybe."
+  },
+  {
+   "i": 1091,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1100,
+   "src": "5ef090c1fb4b",
+   "t": "Is something written on it?"
+  },
+  {
+   "i": 1107,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1116,
+   "src": "6447006caffb",
+   "t": "Hmm."
+  },
+  {
+   "i": 1124,
+   "src": "7ebb13a41f49",
+   "t": "No way, most of the paint has peeled\noff."
+  },
+  {
+   "i": 1127,
+   "src": "57a87e7c4ac9",
+   "t": "This is from the mining days. It's old."
+  },
+  {
+   "i": 1135,
+   "src": "0612568e2fad",
+   "t": "...Ah."
+  },
+  {
+   "i": 1140,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1146,
+   "src": "6ba141a6dc7e",
+   "t": "What is it now?"
+  },
+  {
+   "i": 1154,
+   "src": "159d74d41dda",
+   "t": "There's a path! It's still hidden"
+  },
+  {
+   "i": 1157,
+   "src": "2a3065a9eb9b",
+   "t": "by the grass and hard to see, but..."
+  },
+  {
+   "i": 1162,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1171,
+   "src": "3e90c9219cc8",
+   "t": "You're right."
+  },
+  {
+   "i": 1178,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1184,
+   "src": "ad2408f632ed",
+   "t": "It matches the direction of the {{medalia}}\nsignal."
+  },
+  {
+   "i": 1195,
+   "src": "7970a144d947",
+   "t": "Let's go take a look!"
+  }
+ ]
+}

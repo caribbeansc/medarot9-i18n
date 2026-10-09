@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free08_01_03_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "f3594f7e9bda",
+   "t": "{{mission|cap}} 'Recolección de {{medalia|pl}}:\nPista de Esquí Artificial'..."
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "599f309c7179",
+   "t": "Esta es la zona de entrenamiento del\n{{club}} de esquí."
+  },
+  {
+   "i": 1050,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1056,
+   "src": "de53659a3641",
+   "t": "Quizá esté enterrada bajo la nieve."
+  },
+  {
+   "i": 1059,
+   "src": "f030dc27a137",
+   "t": "Vamos a buscarla."
+  }
+ ]
+}

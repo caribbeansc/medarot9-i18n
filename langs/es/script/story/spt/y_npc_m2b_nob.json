@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m2b_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1035,
+   "src": "56ec50b384aa",
+   "t": "Una {{robattle}}, eh..."
+  },
+  {
+   "i": 1038,
+   "src": "0d7fefa340cb",
+   "t": "Ando ocupado. Otro día será."
+  }
+ ]
+}

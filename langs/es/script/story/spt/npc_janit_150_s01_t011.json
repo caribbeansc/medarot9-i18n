@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_janit_150_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 1038,
+   "src": "41c3ef77d363",
+   "t": "¿Qué haces aquí a estas horas?"
+  },
+  {
+   "i": 1041,
+   "src": "a4a1a013ff13",
+   "t": "¿Qué, un {{transfer_student}}...?"
+  },
+  {
+   "i": 1049,
+   "src": "b3a31ad459d3",
+   "t": "Pues entonces apúrate."
+  },
+  {
+   "i": 1052,
+   "src": "66204302bbc6",
+   "t": "El {{classroom}} está recto y luego a la izquierda."
+  },
+  {
+   "i": 1060,
+   "src": "b33dd8a38770",
+   "t": "Recuerda, a tu izquierda."
+  },
+  {
+   "i": 1068,
+   "src": "1230b3278832",
+   "t": "Esta escuela es enorme, así que"
+  },
+  {
+   "i": 1071,
+   "src": "338325a9eb17",
+   "t": "ten cuidado de no perderte."
+  }
+ ]
+}

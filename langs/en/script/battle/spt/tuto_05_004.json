@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_05_004.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "3c8c116a6d87",
+   "t": "W-we did it!"
+  },
+  {
+   "i": 1125,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1131,
+   "src": "9eee3c55a3e5",
+   "t": "Activating {{medaforce}} <c:ff00ff>uses up all<c>\nof the {{charge_gauge}}.   "
+  },
+  {
+   "i": 1136,
+   "src": "816305b38ec5",
+   "t": "You can't use it over and over.\nThink of it as your last trump card.               "
+  }
+ ]
+}

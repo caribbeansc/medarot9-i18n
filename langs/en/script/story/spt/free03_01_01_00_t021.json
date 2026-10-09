@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free03_01_01_00_t021.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "eef22e4f1135",
+   "t": "{{mission|cap}} '{{explore|cap}}: {{storehouse}}\nUnderground\nFacility' begins!"
+  },
+  {
+   "i": 1009,
+   "src": "2c9489003bf4",
+   "t": "To get to the storehouse basement,"
+  },
+  {
+   "i": 1012,
+   "src": "f9c508801e2d",
+   "t": "use the elevator at the back of the\nstorehouse."
+  }
+ ]
+}

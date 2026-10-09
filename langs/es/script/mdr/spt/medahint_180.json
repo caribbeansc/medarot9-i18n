@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_180.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "75e1d81e008a",
+   "t": "{{medabot}} {{type}} diablo\nespinoso, con un cuerpo\nlleno de espinas adaptado\nal desierto.\n \nExtiende su lengua de\nllamas y la vierte\nrápidamente sobre el\n{{target}}."
+  }
+ ]
+}

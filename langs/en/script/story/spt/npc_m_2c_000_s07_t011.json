@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2c_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1038,
+   "src": "3f943f91fa8b",
+   "t": "The Culture Festival's almost here. It's a\nbit sad"
+  },
+  {
+   "i": 1041,
+   "src": "1b8afe6aa216",
+   "t": "that no outside guests come to ours,\nbut..."
+  },
+  {
+   "i": 1049,
+   "src": "6eb568269673",
+   "t": "It's still fun, right?"
+  },
+  {
+   "i": 1052,
+   "src": "a8c3b85041b9",
+   "t": "It's a festival, after all."
+  }
+ ]
+}

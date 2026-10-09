@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rescue_165_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "3ae52563618d",
+   "t": "Hmm, push climbing training to the\nfollowing week,"
+  },
+  {
+   "i": 1038,
+   "src": "df6e35623f88",
+   "t": "and the coordination check to the\nfollowing week--"
+  },
+  {
+   "i": 1046,
+   "src": "b3ba4bb67df9",
+   "t": "That's right at one month before the\ntournament."
+  },
+  {
+   "i": 1049,
+   "src": "d2cc04f82c30",
+   "t": "Not bad, in fact--"
+  },
+  {
+   "i": 1070,
+   "src": "9cb84c5f2af1",
+   "t": "What is it?"
+  },
+  {
+   "i": 1073,
+   "src": "f94a4dd56c67",
+   "t": "I'm busy right now. If it's talk, make it\nlater."
+  }
+ ]
+}

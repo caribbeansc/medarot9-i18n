@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_janit_150_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 1038,
+   "src": "41c3ef77d363",
+   "t": "What are you doing here at this hour?"
+  },
+  {
+   "i": 1041,
+   "src": "a4a1a013ff13",
+   "t": "What, a {{transfer_student}}...?"
+  },
+  {
+   "i": 1049,
+   "src": "b3a31ad459d3",
+   "t": "Then hurry, hurry, you'd better move."
+  },
+  {
+   "i": 1052,
+   "src": "66204302bbc6",
+   "t": "The {{classroom}} is straight ahead and\nthen left."
+  },
+  {
+   "i": 1060,
+   "src": "b33dd8a38770",
+   "t": "{{left_item}} as you face it, mind you."
+  },
+  {
+   "i": 1068,
+   "src": "1230b3278832",
+   "t": "This school is huge, after all,"
+  },
+  {
+   "i": 1071,
+   "src": "338325a9eb17",
+   "t": "so be careful not to get lost."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description98.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "db6350befa48",
+   "t": "Striking (Skill)"
+  },
+  {
+   "i": 11,
+   "src": "a8a3b9348aa4",
+   "t": "An <c:ffff00>offensive<c> <c:ffff00>skill<c> for handling <c:ffff00>{{part|pl}}<c> with weapon\nmechanisms for <c:ffff00>attacking<c> nearby opponents.\n<c:ffff00>Actions<c> that make a <c:ffff00>melee attack<c> belong to it.\n\nThe higher the <c:ffff00>{{skill_level}}<c>, the faster the <c:ffff00>{{prep}}<c> and\n<c:ffff00>{{cooldown}}<c> and the higher the <c:ffff00>{{success_power}}<c>.\n\nOn Striking {{part|pl}}, the <c:ffff00>{{power}} stat<c> rises when the\n<c:ffff00>{{charge_gauge}}<c> fills."
+  }
+ ]
+}

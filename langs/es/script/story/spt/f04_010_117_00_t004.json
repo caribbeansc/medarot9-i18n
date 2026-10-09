@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f04_010_117_00_t004.spt",
+ "lines": [
+  {
+   "i": 1145,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1155,
+   "src": "c21e5d516209",
+   "t": "Glup."
+  },
+  {
+   "i": 1179,
+   "src": "625ec2c09d55",
+   "t": "¡Nosotros también vamos a competir!"
+  },
+  {
+   "i": 1182,
+   "src": "f574798e74b8",
+   "t": "¿Por qué te quedas callado?"
+  },
+  {
+   "i": 1188,
+   "src": "639d1dfe9c84",
+   "t": "¡Nosotros también competiremos!"
+  },
+  {
+   "i": 1191,
+   "src": "2cc51a02a42b",
+   "t": "¿Por qué estás en silencio?"
+  },
+  {
+   "i": 1199,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1208,
+   "src": "1ff32ccfec0a",
+   "t": "¡Vaya!"
+  },
+  {
+   "i": 1212,
+   "src": "03d87fccdbe2",
+   "t": "-kun, ¿también participas?"
+  },
+  {
+   "i": 1223,
+   "src": "64909143a6fe",
+   "t": "Ah, sí..."
+  },
+  {
+   "i": 1226,
+   "src": "3eedbf6aa931",
+   "t": "Al parecer, así es..."
+  },
+  {
+   "i": 1234,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1240,
+   "src": "7b3fffc80bab",
+   "t": "¿¡Qué dijiste!?"
+  },
+  {
+   "i": 1256,
+   "src": "5081eec42a79",
+   "t": "*Murmullos*..."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_57.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f2710d3d919b",
+   "t": "<c:00ff00>Técnica:<c>Drenaje de Carga\nAtaque cuerpo a cuerpo\nque absorbe la mitad del\n{{damage}} causado de la carga\ndel {{opponent}}."
+  }
+ ]
+}

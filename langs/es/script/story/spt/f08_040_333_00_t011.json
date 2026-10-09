@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f08_040_333_00_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1037,
+   "src": "0821985a600d",
+   "t": "Hola, {{exploration_club}}."
+  },
+  {
+   "i": 1044,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1050,
+   "src": "9394103d4dff",
+   "t": "Hola, Einbecker-kun."
+  },
+  {
+   "i": 1053,
+   "src": "dea8cc18ec14",
+   "t": "¿Ustedes también buscan {{medalia|pl}}?"
+  },
+  {
+   "i": 1060,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1066,
+   "src": "7cc63ddbdb81",
+   "t": "No, entrenamos escalada."
+  },
+  {
+   "i": 1069,
+   "src": "2efa150283e9",
+   "t": "Para prepararnos ante apuros."
+  },
+  {
+   "i": 1076,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1082,
+   "src": "cb58fe72098a",
+   "t": "Sigues siendo tan serio, ¿eh?"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f07_150_132_00_t071.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1042,
+   "src": "84bc074582d7",
+   "t": "¿Tú qué sabes?"
+  },
+  {
+   "i": 1053,
+   "src": "d59d28e0f5c4",
+   "t": "N-no lo sé."
+  },
+  {
+   "i": 1056,
+   "src": "e901b1fe0b90",
+   "t": "Pero..."
+  },
+  {
+   "i": 1064,
+   "src": "278cb37c6cd5",
+   "t": "{{aoi}} dijo que tenía algo"
+  },
+  {
+   "i": 1067,
+   "src": "5f4c86f1a66a",
+   "t": "que quería decirle a {{mio}}."
+  },
+  {
+   "i": 1072,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1081,
+   "src": "2cd2c4cc6af6",
+   "t": "¡Por eso!"
+  },
+  {
+   "i": 1084,
+   "src": "d8aab8e1fbc8",
+   "t": "Por qué tuvo que decirte eso a ti-"
+  },
+  {
+   "i": 1095,
+   "src": "5fe9bfb70fc9",
+   "t": "Creo que estaba tratando de decirlo."
+  },
+  {
+   "i": 1100,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1109,
+   "src": "7c5f89e438a5",
+   "t": "!?"
+  },
+  {
+   "i": 1120,
+   "src": "00a37c029f67",
+   "t": "¿No ha tratado de decírtelo siempre?"
+  },
+  {
+   "i": 1123,
+   "src": "a7c6bec862a1",
+   "t": "¿No fuiste tú quien no la dejaba?"
+  },
+  {
+   "i": 1136,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1147,
+   "src": "36157647a7fa",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1150,
+   "src": "19e092700c91",
+   "t": "Al final la culpa es mía, ¿no?"
+  },
+  {
+   "i": 1161,
+   "src": "4304c4d59d79",
+   "t": "No, ¡no es eso!"
+  },
+  {
+   "i": 1164,
+   "src": "76e377823591",
+   "t": "Lo que trato de decir es-"
+  },
+  {
+   "i": 1176,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1185,
+   "src": "238ac6b3dd83",
+   "t": "¡Cállate!"
+  },
+  {
+   "i": 1188,
+   "src": "5b6f181b68ee",
+   "t": "¡Ya dije que entendí!"
+  }
+ ]
+}

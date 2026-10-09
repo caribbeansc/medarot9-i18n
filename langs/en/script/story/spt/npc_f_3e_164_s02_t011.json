@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_3e_164_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1038,
+   "src": "e4070bbae6ff",
+   "t": "Hey, welcome to the Medabot Research\nClub!"
+  },
+  {
+   "i": 1046,
+   "src": "1604034d22b9",
+   "t": "Don't touch the machine next to the\nwhiteboard."
+  },
+  {
+   "i": 1049,
+   "src": "2beafc9a3aaa",
+   "t": "It's not finished yet."
+  },
+  {
+   "i": 1057,
+   "src": "bad7a4fabf88",
+   "t": "Huh, what kind of device is it?"
+  },
+  {
+   "i": 1060,
+   "src": "0ebc42b303ef",
+   "t": "That's a secret, wait for it to be\nfinished~."
+  }
+ ]
+}

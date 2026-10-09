@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f07_010_161_10_t051.spt",
+ "lines": [
+  {
+   "i": 1044,
+   "src": "827d71fd9f09",
+   "t": "The Vice-Principal seems pretty hectic."
+  },
+  {
+   "i": 1052,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1058,
+   "src": "13231f283cff",
+   "t": "He must be swamped\nfilling in for the {{principal|cap}}."
+  },
+  {
+   "i": 1068,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1077,
+   "src": "8ba27378fdc7",
+   "t": "By the way--"
+  },
+  {
+   "i": 1088,
+   "src": "bfdf80b9d120",
+   "t": "Are you serious about releasing the\n{{app}}?"
+  },
+  {
+   "i": 1098,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1107,
+   "src": "f648424a43e1",
+   "t": "Dead serious."
+  },
+  {
+   "i": 1114,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1123,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1130,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1139,
+   "src": "4c9d868f28f9",
+   "t": "It'll be fine. Think of it as getting"
+  },
+  {
+   "i": 1142,
+   "src": "e38b035e8828",
+   "t": "the school's official seal of approval."
+  },
+  {
+   "i": 1150,
+   "src": "be75997f3ad1",
+   "t": "No point hoarding more {{medalia}}"
+  },
+  {
+   "i": 1153,
+   "src": "2fb23f97ddea",
+   "t": "than you can ever use."
+  },
+  {
+   "i": 1161,
+   "src": "11b189669b22",
+   "t": "Better to use it to raise the {{club}}'s"
+  },
+  {
+   "i": 1164,
+   "src": "b5c392fd9c0e",
+   "t": "standing. That's far better for the\nfuture."
+  },
+  {
+   "i": 1172,
+   "src": "e3fe94594344",
+   "t": "Raise the {{club}}'s standing...?"
+  },
+  {
+   "i": 1184,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1190,
+   "src": "75c9f25cb614",
+   "t": "I just had a great idea."
+  }
+ ]
+}

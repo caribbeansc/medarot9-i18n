@@ -1,0 +1,103 @@
+{
+ "rel": "mdr/tex/ysd_bt.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf-rounded-heavy",
+  "cap": 11,
+  "fill": "#F6F6F6",
+  "stroke": null,
+  "align": "center",
+  "valign": "middle",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    56,
+    7,
+    24,
+    18
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    50,
+    6,
+    32,
+    20
+   ],
+   "text": "Yes",
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.75
+   }
+  },
+  {
+   "box": [
+    53,
+    39,
+    28,
+    18
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    44,
+    38,
+    46,
+    20
+   ],
+   "text": "No",
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.75
+   }
+  },
+  {
+   "box": [
+    56,
+    71,
+    24,
+    18
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    50,
+    70,
+    32,
+    20
+   ],
+   "text": "Yes",
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#505050",
+    "opacity": 0.8
+   }
+  },
+  {
+   "box": [
+    53,
+    103,
+    28,
+    18
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    44,
+    102,
+    47,
+    20
+   ],
+   "text": "No",
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#505050",
+    "opacity": 0.8
+   }
+  }
+ ]
+}

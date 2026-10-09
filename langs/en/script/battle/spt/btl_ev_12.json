@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/btl_ev_12.spt",
+ "lines": [
+  {
+   "i": 35,
+   "src": "798cdeebae1a",
+   "t": "How's that!\nThis is a cakewalk!"
+  },
+  {
+   "i": 58,
+   "src": "db9439ea50a0",
+   "t": "Bwahahaha!\nToo naive, {{robo}}!"
+  },
+  {
+   "i": 75,
+   "src": "37633f50fdca",
+   "t": "Learn to fear Survival\n{{robattle|pl}}, {{robo}}!"
+  },
+  {
+   "i": 86,
+   "src": "54cfcd100b3e",
+   "t": "Take that!\nNext {{medabot}}, transfer, {{robo}}!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_48.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "cf7983822c99",
+   "t": "{{medabot}} {{type}} mago, de\nllamativa capa de naipes.\n \nSu ataque de {{slip}}\nhace caer al {{opponent}}\ngolpeado y lo devuelve al\nárea de comandos: una\nhabilidad molesta de\nenfrentar."
+  }
+ ]
+}

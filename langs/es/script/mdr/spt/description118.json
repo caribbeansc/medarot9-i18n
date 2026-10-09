@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description118.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "13d3e71f33c9",
+   "t": "{{heavy_limit|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "18935ea1cbc1",
+   "t": "Tolerancia de diseño de las <c:ffff00>{{legs}}<c> para soportar el\npeso de las {{part|pl}} <c:ffff00>pesadas<c>.\n\nSi equipas más {{part|pl}} pesadas que el límite (exceso\nde límite), baja el <c:ffff00>{{stats}}<c> de las {{legs}} y de\nlas {{part|pl}} pesadas.\nA mayor exceso, menos rinden las {{legs}}:\n  Exceso de 1: <c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c> -25%\n  Exceso de 2: -50%; exceso de 3: -75%"
+  }
+ ]
+}

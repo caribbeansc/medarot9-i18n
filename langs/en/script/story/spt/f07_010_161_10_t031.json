@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f07_010_161_10_t031.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1037,
+   "src": "cec24170a88e",
+   "t": "Vice-Principal."
+  },
+  {
+   "i": 1044,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1050,
+   "src": "31026a2ae35e",
+   "t": "You're all here. Perfect timing."
+  },
+  {
+   "i": 1053,
+   "src": "54b1d5a5ad0a",
+   "t": "I have something to give you."
+  },
+  {
+   "i": 1061,
+   "src": "389cb4ff6c27",
+   "t": "This--"
+  }
+ ]
+}

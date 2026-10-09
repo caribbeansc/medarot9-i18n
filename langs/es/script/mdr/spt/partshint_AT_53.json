@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_53.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bcd9f20af9d7",
+   "t": "<c:00ff00>Técnica:<c>{{canceller}}\nAtaque de {{fighting}} que\naplica el {{status}}\n{{canceller}}.\n<c:00ffff>{{status|cap}}:<c>{{canceller}}\nUna de las {{part|pl}} queda\ninutilizable. Además, si lo\ngolpean al cargar, se\ninterrumpe su acción."
+  }
+ ]
+}

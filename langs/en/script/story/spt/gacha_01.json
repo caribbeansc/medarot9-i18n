@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/gacha_01.spt",
+ "lines": [
+  {
+   "i": 1295,
+   "src": "5f5127ef48f8",
+   "t": "{{medagacha}}!"
+  },
+  {
+   "i": 1303,
+   "src": "f1456ad2aef6",
+   "t": "What should I do?"
+  },
+  {
+   "i": 1304,
+   "src": "9d27f405a4a7",
+   "t": "Do it"
+  },
+  {
+   "i": 1305,
+   "src": "eb5532fe54eb",
+   "t": "Don't"
+  },
+  {
+   "i": 1309,
+   "src": "9d27f405a4a7",
+   "t": "Do it"
+  },
+  {
+   "i": 1320,
+   "src": "eb5532fe54eb",
+   "t": "Don't"
+  },
+  {
+   "i": 1326,
+   "src": "529e3e745130",
+   "t": "Again..."
+  },
+  {
+   "i": 1329,
+   "src": "76d74c0b1b9e",
+   "t": "Let's stop."
+  }
+ ]
+}

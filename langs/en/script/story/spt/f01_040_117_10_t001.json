@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/f01_040_117_10_t001.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1045,
+   "src": "1789acf2c18b",
+   "t": "I'm {{junpei}}."
+  },
+  {
+   "i": 1048,
+   "src": "182416068935",
+   "t": "Nice to meet you!"
+  },
+  {
+   "i": 1058,
+   "src": "c5fb01c2d1cf",
+   "t": "{{aya}}"
+  },
+  {
+   "i": 1067,
+   "src": "000287ef7eef",
+   "t": "I'm {{aya}}!"
+  },
+  {
+   "i": 1070,
+   "src": "1022f0fc2b09",
+   "t": "If you have questions, just ask!"
+  },
+  {
+   "i": 1088,
+   "src": "ecb9683cddba",
+   "t": "Thank you."
+  },
+  {
+   "i": 1096,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1105,
+   "src": "53050dc8175f",
+   "t": "Hey, hey"
+  },
+  {
+   "i": 1108,
+   "src": "0d92364ea351",
+   "t": "This is your {{partner}}, right?"
+  },
+  {
+   "i": 1118,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1127,
+   "src": "54edfe9e0d34",
+   "t": "Is this a full set? Wow, I've never"
+  },
+  {
+   "i": 1130,
+   "src": "bbad1083a8a0",
+   "t": "seen any of these {{part|pl}} before!"
+  },
+  {
+   "i": 1140,
+   "src": "c5fb01c2d1cf",
+   "t": "{{aya}}"
+  },
+  {
+   "i": 1149,
+   "src": "a6f8e57aff8f",
+   "t": "Hey, what's his name?"
+  },
+  {
+   "i": 1152,
+   "src": "789c3ecd28ab",
+   "t": "How did you two meet?"
+  },
+  {
+   "i": 1170,
+   "src": "74148df17888",
+   "t": "Uh, no--"
+  },
+  {
+   "i": 1175,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1181,
+   "src": "809428ac5bfd",
+   "t": "What {{medal}} are you using?"
+  },
+  {
+   "i": 1192,
+   "src": "1078ec639181",
+   "t": "Actually, not yet--"
+  },
+  {
+   "i": 1197,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1206,
+   "src": "3f3c2b790635",
+   "t": "What's your level?!"
+  },
+  {
+   "i": 1220,
+   "src": "370b03a3beb6",
+   "t": "Well--"
+  }
+ ]
+}

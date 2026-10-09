@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc02_161_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "a670749c592b",
+   "t": "Oye "
+  },
+  {
+   "i": 1037,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1040,
+   "src": "21ad5d600853",
+   "t": "¿'Tienes talento' es un cumplido?"
+  },
+  {
+   "i": 1048,
+   "src": "e18dd7aa54c2",
+   "t": "¿Verdad? Ya somos"
+  },
+  {
+   "i": 1051,
+   "src": "d5d56098079a",
+   "t": "mejores en {{robattle|pl}}--"
+  },
+  {
+   "i": 1072,
+   "src": "daa69990930e",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1080,
+   "src": "3115a0fca2b3",
+   "t": "Si ya terminaste de prepararte,"
+  },
+  {
+   "i": 1083,
+   "src": "621aad815703",
+   "t": "avísale a {{ryoma}}-san, no a mí."
+  }
+ ]
+}

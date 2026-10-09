@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_0.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "49a2cdc9cba1",
+   "t": "<c:00ff00>Action:<c> {{rifle}}\nA fast ranged attack.\nWith {{power}} of 40 or\nmore, it gains piercing."
+  }
+ ]
+}

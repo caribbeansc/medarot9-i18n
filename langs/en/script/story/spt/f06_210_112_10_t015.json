@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/f06_210_112_10_t015.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1042,
+   "src": "6b45615cc553",
+   "t": "Hmm... I see..."
+  },
+  {
+   "i": 1045,
+   "src": "7221d706dafd",
+   "t": "So, what's this--"
+  },
+  {
+   "i": 1053,
+   "src": "5379a50234e8",
+   "t": "If you shut down that device in the\nhidden room,"
+  },
+  {
+   "i": 1056,
+   "src": "4a4bcc444ece",
+   "t": "the search range expands...?"
+  },
+  {
+   "i": 1070,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1076,
+   "src": "9e90cd86bab6",
+   "t": "Yes."
+  },
+  {
+   "i": 1083,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1089,
+   "src": "9008529b0366",
+   "t": "Then why didn't you leave it that way,"
+  },
+  {
+   "i": 1092,
+   "src": "50ed44c2cad0",
+   "t": "and put everything back as it was?"
+  },
+  {
+   "i": 1099,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1105,
+   "src": "e75f9f0127d9",
+   "t": "That's because--"
+  },
+  {
+   "i": 1112,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1121,
+   "src": "e4b991311676",
+   "t": "The interference source matched the\nhypothesis."
+  },
+  {
+   "i": 1124,
+   "src": "d63cbeee7fb4",
+   "t": "The goal was achieved, so I restored it."
+  },
+  {
+   "i": 1134,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1143,
+   "src": "518f73203a35",
+   "t": "So your goal wasn't to eliminate the\n{{jamming_waves}},"
+  },
+  {
+   "i": 1146,
+   "src": "604ef1a6aa11",
+   "t": "but strictly to find the cause?"
+  },
+  {
+   "i": 1153,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1162,
+   "src": "67ffdf64136a",
+   "t": "Correct."
+  },
+  {
+   "i": 1169,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1178,
+   "src": "ff92be682576",
+   "t": "Hmm... That's a way of thinking"
+  },
+  {
+   "i": 1181,
+   "src": "4ae28dc5877e",
+   "t": "that's hard for ordinary people to\ngrasp..."
+  }
+ ]
+}

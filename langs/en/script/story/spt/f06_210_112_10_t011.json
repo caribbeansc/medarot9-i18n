@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f06_210_112_10_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "91d5744604b8",
+   "t": "--And that's the situation."
+  },
+  {
+   "i": 1048,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1056,
+   "src": "45ab08102440",
+   "t": "Hmm."
+  },
+  {
+   "i": 1064,
+   "src": "75b8b8c9c3bf",
+   "t": "So the source of the {{jamming_waves}} is\nin the {{principal|cap}}'s office, huh..."
+  },
+  {
+   "i": 1082,
+   "src": "9a57f629c0c3",
+   "t": "Could be."
+  },
+  {
+   "i": 1090,
+   "src": "ad3cb5700c50",
+   "t": "Huh?"
+  },
+  {
+   "i": 1095,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1101,
+   "src": "04c33a2f4157",
+   "t": "Oh, nothing, he's a secretive man."
+  },
+  {
+   "i": 1109,
+   "src": "769cdba69b52",
+   "t": "A secret lab in the {{principal|cap}}'s office"
+  },
+  {
+   "i": 1112,
+   "src": "96b5f6713d29",
+   "t": "sounds just like something he'd have."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f06_210_161_20_t013.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1052,
+   "src": "57b6dcb26a11",
+   "t": "Cambié el programa para excluir"
+  },
+  {
+   "i": 1055,
+   "src": "bca6ade2c495",
+   "t": "ese patrón antes de calcular."
+  },
+  {
+   "i": 1065,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1074,
+   "src": "8ba1dc2bd7be",
+   "t": "¿Fuiste y copiaste los datos?"
+  },
+  {
+   "i": 1077,
+   "src": "dbe8e085c652",
+   "t": "Eso ya es un poco-"
+  },
+  {
+   "i": 1094,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1103,
+   "src": "4eb419588d63",
+   "t": "No los copié."
+  },
+  {
+   "i": 1106,
+   "src": "e4020a8bb39c",
+   "t": "Los memoricé."
+  },
+  {
+   "i": 1116,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1122,
+   "src": "1624279d18ab",
+   "t": "¿¿Ya los memorizaste??"
+  },
+  {
+   "i": 1133,
+   "src": "7c6883282cca",
+   "t": "Como era de esperar de una genio..."
+  },
+  {
+   "i": 1138,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1147,
+   "src": "e22d7ee6627e",
+   "t": "Miren sus celulares."
+  },
+  {
+   "i": 1150,
+   "src": "acaf706a1a2c",
+   "t": "Por favor abran el detector de {{medalia|pl}}."
+  }
+ ]
+}

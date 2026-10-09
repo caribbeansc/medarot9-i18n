@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_41.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "41b2173932ba",
+   "t": "<c:00ff00>Action:<c> {{claw}}\nA fast melee attack.\nWith {{prep}} of 40 or more,\n{{cooldown}} gets +10."
+  }
+ ]
+}

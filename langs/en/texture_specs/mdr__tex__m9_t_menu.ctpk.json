@@ -1,0 +1,132 @@
+{
+ "rel": "mdr/tex/m9_t_menu.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf-cond-heavy",
+  "fill": "#FFFFFF",
+  "stroke": "#000000A0",
+  "stroke_w": 1.4,
+  "erase": "transparent",
+  "pad": 0,
+  "cap": 9.5,
+  "align": "center",
+  "valign": "middle"
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    220,
+    74,
+    18
+   ],
+   "text": "New Game"
+  },
+  {
+   "box": [
+    75,
+    220,
+    75,
+    18
+   ],
+   "text": "Continue"
+  },
+  {
+   "box": [
+    151,
+    220,
+    103,
+    18
+   ],
+   "text": "Extra Content"
+  },
+  {
+   "box": [
+    0,
+    239,
+    110,
+    16
+   ],
+   "text": "Return to Title",
+   "cap": 10
+  },
+  {
+   "box": [
+    109,
+    239,
+    138,
+    17
+   ],
+   "text": "Retry Robattle",
+   "cap": 10
+  },
+  {
+   "box": [
+    0,
+    168,
+    102,
+    16
+   ],
+   "text": "SpotPass"
+  },
+  {
+   "box": [
+    0,
+    200,
+    217,
+    19
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "copy": [
+    0,
+    200,
+    19,
+    19
+   ],
+   "to": [
+    43,
+    200
+   ],
+   "blend": "replace"
+  },
+  {
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "valign": "middle",
+   "box": [
+    9,
+    200,
+    34,
+    19
+   ],
+   "erase": "none",
+   "text": "Press",
+   "align": "left"
+  },
+  {
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "valign": "middle",
+   "box": [
+    66,
+    200,
+    148,
+    19
+   ],
+   "erase": "none",
+   "text": "to return to HOME Menu.",
+   "align": "left"
+  }
+ ]
+}

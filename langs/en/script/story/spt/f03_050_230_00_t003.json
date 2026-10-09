@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f03_050_230_00_t003.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "77eb7b182f9a",
+   "t": "If you get close it attacks,"
+  },
+  {
+   "i": 1038,
+   "src": "180a09b7d4e5",
+   "t": "but it doesn't chase you."
+  },
+  {
+   "i": 1056,
+   "src": "3eb9e766d510",
+   "t": "It's like it's protecting something."
+  },
+  {
+   "i": 1066,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1072,
+   "src": "28dee4b5a220",
+   "t": "Something? Like what?"
+  },
+  {
+   "i": 1075,
+   "src": "b9f8ffe5a956",
+   "t": "Like a lost kitten or something?"
+  },
+  {
+   "i": 1083,
+   "src": "05b1e62c47a1",
+   "t": "You like that kind of stuff, "
+  },
+  {
+   "i": 1085,
+   "src": "c1a2fe2e5096",
+   "t": "?"
+  },
+  {
+   "i": 1092,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1101,
+   "src": "72afffbacaff",
+   "t": "Protecting something, huh."
+  },
+  {
+   "i": 1104,
+   "src": "ea48f0ae326a",
+   "t": "I suppose so."
+  },
+  {
+   "i": 1117,
+   "src": "c5af52ec2341",
+   "t": "Dang it...!"
+  },
+  {
+   "i": 1120,
+   "src": "20aee6b0f429",
+   "t": "Hey {{ryoma}}, let me try again."
+  },
+  {
+   "i": 1130,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1136,
+   "src": "c71797237b9b",
+   "t": "Better not."
+  },
+  {
+   "i": 1139,
+   "src": "3d15f2349b3e",
+   "t": "That's not an {{opponent}} we can beat\nright now."
+  },
+  {
+   "i": 1155,
+   "src": "2f0dea4d8088",
+   "t": "But come on!"
+  }
+ ]
+}

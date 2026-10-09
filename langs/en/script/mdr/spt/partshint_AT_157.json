@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_157.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "18728ea1602a",
+   "t": "<c:00ff00>Action:<c> {{protect_trap}}\nSets a trap that reacts to\nthe foe's Protect action:\ndamages it and breaks its\n{{guard_stance}}. Setting it\nrepeatedly raises {{armor}}\nand\n{{damage}}."
+  }
+ ]
+}

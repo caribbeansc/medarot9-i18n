@@ -1,0 +1,978 @@
+{
+ "rel": "battle/tex/cp2_state8.ctpk",
+ "base": "jp",
+ "styles": {
+  "tag": {
+   "erase": "none",
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#1A1A1A",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  "blanco": {
+   "erase": "none",
+   "font": "helv-cond",
+   "cap": 8,
+   "fill": "#FFFFFF",
+   "stroke": "#000000D0",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "crisp": 0.8
+  }
+ },
+ "items": [
+  {
+   "erase_box": [
+    75,
+    9,
+    32,
+    8
+   ],
+   "erase": "solid:#AAAAAA",
+   "box": [
+    75,
+    9,
+    32,
+    8
+   ],
+   "style": "tag",
+   "text": "Berserk",
+   "align": "center",
+   "baseline": 15
+  },
+  {
+   "erase_box": [
+    79,
+    19,
+    26,
+    7
+   ],
+   "erase": "solid:#BBBBBB",
+   "box": [
+    79,
+    19,
+    26,
+    7
+   ],
+   "style": "tag",
+   "text": "Charge",
+   "align": "center",
+   "baseline": 25,
+   "fill": "#F4F4F4"
+  },
+  {
+   "erase_box": [
+    77,
+    28,
+    18,
+    7
+   ],
+   "erase": "solid:#AAAAAA",
+   "box": [
+    77,
+    28,
+    19,
+    7
+   ],
+   "style": "tag",
+   "text": "Guard",
+   "align": "left",
+   "baseline": 34
+  },
+  {
+   "erase_box": [
+    75,
+    36,
+    33,
+    7
+   ],
+   "erase": "solid:#AAAAAA",
+   "box": [
+    75,
+    36,
+    33,
+    7
+   ],
+   "style": "tag",
+   "text": "Aimshot",
+   "align": "center",
+   "baseline": 42
+  },
+  {
+   "erase_box": [
+    81,
+    53,
+    32,
+    8
+   ],
+   "erase": "solid:#AAAAAA",
+   "box": [
+    81,
+    53,
+    32,
+    8
+   ],
+   "style": "tag",
+   "text": "Berserk",
+   "align": "center",
+   "baseline": 59
+  },
+  {
+   "erase_box": [
+    83,
+    63,
+    27,
+    7
+   ],
+   "erase": "solid:#BBBBBB",
+   "box": [
+    83,
+    63,
+    27,
+    7
+   ],
+   "style": "tag",
+   "text": "Charge",
+   "align": "center",
+   "baseline": 69,
+   "fill": "#F4F4F4"
+  },
+  {
+   "erase_box": [
+    92,
+    72,
+    18,
+    7
+   ],
+   "erase": "solid:#AAAAAA",
+   "box": [
+    91,
+    72,
+    19,
+    7
+   ],
+   "style": "tag",
+   "text": "Guard",
+   "align": "right",
+   "baseline": 78
+  },
+  {
+   "erase_box": [
+    80,
+    80,
+    33,
+    7
+   ],
+   "erase": "solid:#AAAAAA",
+   "box": [
+    80,
+    80,
+    33,
+    7
+   ],
+   "style": "tag",
+   "text": "Aimshot",
+   "align": "center",
+   "baseline": 86
+  },
+  {
+   "erase_box": [
+    51,
+    111,
+    22,
+    7
+   ],
+   "erase": "solid:#888888",
+   "box": [
+    51,
+    111,
+    22,
+    7
+   ],
+   "style": "tag",
+   "text": "Skill",
+   "align": "center",
+   "baseline": 117,
+   "fill": "#000000"
+  },
+  {
+   "erase_box": [
+    127,
+    111,
+    22,
+    7
+   ],
+   "erase": "solid:#888888",
+   "box": [
+    127,
+    111,
+    22,
+    7
+   ],
+   "style": "tag",
+   "text": "Type",
+   "align": "center",
+   "baseline": 117,
+   "fill": "#000000"
+  },
+  {
+   "erase_box": [
+    212,
+    111,
+    36,
+    10
+   ],
+   "erase": "transparent",
+   "box": [
+    213,
+    111,
+    34,
+    10
+   ],
+   "style": "tag",
+   "text": "Charge",
+   "align": "left",
+   "baseline": 118,
+   "fill": "#000000"
+  },
+  {
+   "erase_box": [
+    159,
+    163,
+    19,
+    9
+   ],
+   "erase": "solid:#EEEEEE",
+   "box": [
+    159,
+    163,
+    19,
+    9
+   ],
+   "font": "din",
+   "cap": 8.5,
+   "text": "None",
+   "fill": "#101010",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "crisp": 1.0
+  },
+  {
+   "erase_box": [
+    213,
+    147,
+    27,
+    9
+   ],
+   "erase": "transparent",
+   "box": [
+    214,
+    148,
+    25,
+    7
+   ],
+   "style": "tag",
+   "text": "Armor",
+   "align": "center",
+   "baseline": 153,
+   "fill": "#F2F2F2",
+   "stroke": "#00000099",
+   "stroke_w": 1.0
+  },
+  {
+   "erase_box": [
+    199,
+    163,
+    36,
+    8
+   ],
+   "erase": "solid:#222222CC",
+   "box": [
+    199,
+    163,
+    36,
+    8
+   ],
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "text": "WAIT",
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "align": "left",
+   "baseline": 170,
+   "crisp": 1.0,
+   "min_scale_x": 1
+  },
+  {
+   "erase_box": [
+    199,
+    172,
+    29,
+    10
+   ],
+   "erase": "transparent",
+   "box": [
+    201,
+    173,
+    26,
+    8
+   ],
+   "style": "tag",
+   "text": "Skill",
+   "align": "left",
+   "baseline": 179,
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 1.0
+  },
+  {
+   "erase_box": [
+    199,
+    182,
+    19,
+    10
+   ],
+   "erase": "transparent",
+   "box": [
+    199,
+    183,
+    20,
+    8
+   ],
+   "style": "tag",
+   "text": "Tech",
+   "align": "left",
+   "baseline": 189,
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 1.0
+  },
+  {
+   "erase_box": [
+    217,
+    181,
+    38,
+    17
+   ],
+   "erase": "transparent",
+   "box": [
+    218,
+    183,
+    36,
+    13
+   ],
+   "font": "helv-cond",
+   "cap": 9,
+   "text": "Back",
+   "fill": "#FFFFFF",
+   "stroke": "#000000D0",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.8
+  },
+  {
+   "erase_box": [
+    177,
+    191,
+    35,
+    23
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase": "none",
+   "box": [
+    178,
+    200,
+    32,
+    12
+   ],
+   "style": "blanco",
+   "text": "Take"
+  },
+  {
+   "erase_box": [
+    217,
+    193,
+    25,
+    20
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase": "none",
+   "box": [
+    218,
+    201,
+    23,
+    12
+   ],
+   "style": "blanco",
+   "text": "Eva.",
+   "cap": 8
+  },
+  {
+   "erase_box": [
+    177,
+    213,
+    26,
+    21
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase": "none",
+   "box": [
+    178,
+    221,
+    23,
+    12
+   ],
+   "style": "blanco",
+   "text": "Def."
+  },
+  {
+   "erase_box": [
+    203,
+    213,
+    38,
+    20
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase": "none",
+   "box": [
+    204,
+    221,
+    36,
+    12
+   ],
+   "style": "blanco",
+   "text": "R-Arm"
+  },
+  {
+   "erase_box": [
+    216,
+    233,
+    34,
+    14
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase": "none",
+   "box": [
+    216,
+    234,
+    33,
+    12
+   ],
+   "style": "blanco",
+   "text": "Head"
+  },
+  {
+   "erase_box": [
+    177,
+    234,
+    38,
+    20
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase": "none",
+   "box": [
+    180,
+    242,
+    36,
+    12
+   ],
+   "style": "blanco",
+   "text": "L-Arm"
+  },
+  {
+   "erase_box": [
+    33,
+    232,
+    40,
+    12
+   ],
+   "erase": "hfill",
+   "box": [
+    34,
+    232,
+    38,
+    12
+   ],
+   "font": "sf-cond",
+   "cap": 8.5,
+   "text": "Menu",
+   "fill": "#333333",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "crisp": 1.0
+  },
+  {
+   "erase_box": [
+    0,
+    255,
+    162,
+    19
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    256,
+    160,
+    17
+   ],
+   "font": "helv-cond-black",
+   "cap": 12,
+   "text": "Give Up",
+   "fill": "#222222",
+   "stroke": "#FFFFFFB0",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "align": "left",
+   "crisp": 0.6
+  },
+  {
+   "erase_box": [
+    0,
+    274,
+    86,
+    19
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    276,
+    84,
+    16
+   ],
+   "font": "helv-cond-black",
+   "cap": 11,
+   "text": "View Medabot",
+   "fill": "#222222",
+   "stroke": "#FFFFFFB0",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "align": "left",
+   "crisp": 0.6
+  },
+  {
+   "erase_box": [
+    108,
+    273,
+    39,
+    23
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    109,
+    282,
+    35,
+    12
+   ],
+   "style": "blanco",
+   "text": "Succ."
+  },
+  {
+   "erase_box": [
+    147,
+    273,
+    41,
+    23
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    148,
+    282,
+    35,
+    12
+   ],
+   "style": "blanco",
+   "text": "Acc."
+  },
+  {
+   "erase_box": [
+    192,
+    288,
+    38,
+    14
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    193,
+    289,
+    36,
+    12
+   ],
+   "style": "blanco",
+   "text": "Legs"
+  },
+  {
+   "erase_box": [
+    187,
+    276,
+    20,
+    7
+   ],
+   "erase": "transparent",
+   "box": [
+    188,
+    277,
+    19,
+    6
+   ],
+   "style": "tag",
+   "text": "Armr",
+   "align": "left",
+   "baseline": 282,
+   "fill": "#F4F4F4",
+   "opacity": 0.6
+  },
+  {
+   "erase_box": [
+    0,
+    293,
+    192,
+    20
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    3,
+    302,
+    21,
+    10
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "text": "Fight",
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.6,
+   "baseline": 309.5
+  },
+  {
+   "box": [
+    27,
+    302,
+    21,
+    10
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "text": "Succ.",
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.6,
+   "baseline": 309.5
+  },
+  {
+   "box": [
+    51,
+    302,
+    21,
+    10
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "text": "Mobil.",
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.6,
+   "baseline": 309.5
+  },
+  {
+   "box": [
+    74,
+    302,
+    21,
+    10
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "text": "Prep",
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.6,
+   "baseline": 309.5
+  },
+  {
+   "box": [
+    98,
+    302,
+    21,
+    10
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "text": "Shoot",
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.6,
+   "baseline": 309.5
+  },
+  {
+   "box": [
+    123,
+    302,
+    21,
+    10
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "text": "Pow.",
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.6,
+   "baseline": 309.5
+  },
+  {
+   "box": [
+    146,
+    302,
+    21,
+    10
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "text": "Uses",
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.6,
+   "baseline": 309.5
+  },
+  {
+   "box": [
+    170,
+    302,
+    21,
+    10
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "text": "Cool.",
+   "fill": "#FFFFFF",
+   "stroke": "#00000099",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.6,
+   "baseline": 309.5
+  },
+  {
+   "erase_box": [
+    14,
+    313,
+    32,
+    14
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    15,
+    313,
+    30,
+    13
+   ],
+   "style": "blanco",
+   "text": "Auto",
+   "cap": 10
+  },
+  {
+   "erase_box": [
+    46,
+    313,
+    52,
+    14
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    47,
+    313,
+    50,
+    13
+   ],
+   "style": "blanco",
+   "text": "Manual",
+   "cap": 10
+  },
+  {
+   "erase_box": [
+    98,
+    313,
+    40,
+    14
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    98,
+    313,
+    40,
+    13
+   ],
+   "style": "blanco",
+   "text": "Change",
+   "cap": 10
+  },
+  {
+   "erase_box": [
+    103,
+    326,
+    33,
+    21
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    103,
+    334,
+    33,
+    12
+   ],
+   "style": "blanco",
+   "text": "Broken!",
+   "cap": 9
+  },
+  {
+   "erase_box": [
+    22,
+    470,
+    72,
+    12
+   ],
+   "erase": "hfill",
+   "box": [
+    22,
+    470,
+    72,
+    12
+   ],
+   "font": "sf-cond",
+   "cap": 8,
+   "text": "Animated",
+   "fill": "#303030",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "crisp": 1.0
+  },
+  {
+   "erase_box": [
+    172,
+    492,
+    57,
+    10
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    173,
+    493,
+    55,
+    8
+   ],
+   "style": "blanco",
+   "text": "Auto mode",
+   "cap": 7
+  },
+  {
+   "erase_box": [
+    134,
+    502,
+    109,
+    10
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    135,
+    502,
+    100,
+    10
+   ],
+   "style": "blanco",
+   "text": "Auto Robattle: Start!",
+   "cap": 7
+  },
+  {
+   "erase_box": [
+    57,
+    467,
+    21,
+    5
+   ],
+   "erase": "hfill",
+   "text": ""
+  }
+ ]
+}

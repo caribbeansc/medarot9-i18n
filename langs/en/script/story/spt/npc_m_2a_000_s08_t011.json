@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2a_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5463c705e157",
+   "t": "{{hatsutaka}}"
+  },
+  {
+   "i": 1038,
+   "src": "f1799c47d8fc",
+   "t": "Nobody's around. I guess everyone"
+  },
+  {
+   "i": 1041,
+   "src": "c0b1687abe10",
+   "t": "is scattered all over the island."
+  },
+  {
+   "i": 1049,
+   "src": "0204321b3d79",
+   "t": "I think I'm about done."
+  },
+  {
+   "i": 1052,
+   "src": "68059efff16c",
+   "t": "I've already collected the {{medalia|pl}} I\nwanted..."
+  },
+  {
+   "i": 1060,
+   "src": "248f11aeef75",
+   "t": "Scrambling for them is exhausting."
+  },
+  {
+   "i": 1063,
+   "src": "e0368bf4b7b9",
+   "t": "{{robattle|pl}} are fine just for tournaments."
+  }
+ ]
+}

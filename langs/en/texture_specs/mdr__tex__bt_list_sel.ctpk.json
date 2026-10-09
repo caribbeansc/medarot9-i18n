@@ -1,0 +1,286 @@
+{
+ "rel": "mdr/tex/bt_list_sel.ctpk",
+ "base": "jp",
+ "styles": {
+  "tab": {
+   "erase": "none",
+   "font": "sf-rounded-heavy",
+   "fill": "#FFFFFF",
+   "stroke": "#00000036",
+   "stroke_w": 2,
+   "align": "center",
+   "valign": "middle",
+   "pad": [
+    2,
+    0,
+    2,
+    0
+   ]
+  },
+  "guia": {
+   "erase": "none",
+   "font": "sf-rounded",
+   "fill": "#FFFFFF",
+   "stroke": "#CAD0D040",
+   "stroke_w": 1.5,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#CAD0D0",
+    "blur": 2.5,
+    "opacity": 0.9
+   },
+   "align": "center",
+   "valign": "middle",
+   "pad": [
+    3,
+    0,
+    3,
+    0
+   ]
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    256,
+    228
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "tab",
+   "box": [
+    3,
+    1,
+    118,
+    20
+   ],
+   "text": "Photo Album",
+   "cap": 10
+  },
+  {
+   "style": "tab",
+   "box": [
+    123,
+    1,
+    56,
+    20
+   ],
+   "text": "Medal",
+   "cap": 9.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    182,
+    2,
+    44,
+    20
+   ],
+   "text": "Other",
+   "cap": 10
+  },
+  {
+   "style": "tab",
+   "box": [
+    3,
+    26,
+    58,
+    15
+   ],
+   "text": "Legs",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    59,
+    26,
+    50,
+    15
+   ],
+   "text": "Head",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    109,
+    26,
+    54,
+    15
+   ],
+   "text": "Medalia",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    168,
+    26,
+    86,
+    15
+   ],
+   "text": "Part Sets",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    2,
+    47,
+    42,
+    15
+   ],
+   "text": "Parts",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    47,
+    47,
+    50,
+    15
+   ],
+   "text": "Medal",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    97,
+    47,
+    42,
+    15
+   ],
+   "text": "Set",
+   "cap": 8.5
+  },
+  {
+   "style": "tab",
+   "box": [
+    142,
+    47,
+    46,
+    15
+   ],
+   "text": "L-Arm",
+   "cap": 8
+  },
+  {
+   "style": "tab",
+   "box": [
+    190,
+    47,
+    46,
+    15
+   ],
+   "text": "R-Arm",
+   "cap": 8
+  },
+  {
+   "style": "guia",
+   "box": [
+    4,
+    65,
+    160,
+    24
+   ],
+   "text": "Choose an album",
+   "cap": 9
+  },
+  {
+   "style": "tab",
+   "box": [
+    166,
+    71,
+    66,
+    22
+   ],
+   "text": "Buy",
+   "cap": 10
+  },
+  {
+   "style": "guia",
+   "box": [
+    4,
+    93,
+    148,
+    22
+   ],
+   "text": "Choose a part",
+   "cap": 9
+  },
+  {
+   "style": "tab",
+   "box": [
+    158,
+    94,
+    88,
+    22
+   ],
+   "text": "Medabot",
+   "cap": 11
+  },
+  {
+   "style": "guia",
+   "box": [
+    4,
+    120,
+    172,
+    17
+   ],
+   "text": "Choose an item type",
+   "cap": 9
+  },
+  {
+   "style": "guia",
+   "box": [
+    4,
+    147,
+    172,
+    17
+   ],
+   "text": "Choose a prize type",
+   "cap": 9
+  },
+  {
+   "style": "tab",
+   "box": [
+    0,
+    172,
+    105,
+    25
+   ],
+   "text": "Consumables",
+   "cap": 11
+  },
+  {
+   "style": "tab",
+   "box": [
+    106,
+    174,
+    108,
+    24
+   ],
+   "text": "Key Items",
+   "cap": 11
+  },
+  {
+   "style": "guia",
+   "box": [
+    6,
+    200,
+    196,
+    22
+   ],
+   "text": "Choose an item type",
+   "cap": 9
+  }
+ ]
+}

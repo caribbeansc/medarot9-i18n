@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_kyoto.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1653,
+   "src": "4e8a7af43931",
+   "t": "Eh, ¿yo? Bueno, no me molesta..."
+  },
+  {
+   "i": 1656,
+   "src": "f3d4ab61bf10",
+   "t": "Pero no estoy muy seguro."
+  }
+ ]
+}

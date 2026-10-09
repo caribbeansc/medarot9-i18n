@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_81.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f0cc596f8616",
+   "t": "<c:00ff00>Leg Trait:<c> {{captor}}\nWhen the target cannot\nevade,\n{{prep}} stat +5.\nWhen it {{cannot_defend}},\n{{prep}} stat +5."
+  }
+ ]
+}

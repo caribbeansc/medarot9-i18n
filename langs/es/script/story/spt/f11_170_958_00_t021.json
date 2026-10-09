@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_170_958_00_t021.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "896903133b81",
+   "t": "¡Sí!"
+  },
+  {
+   "i": 1058,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1064,
+   "src": "c14288748d3c",
+   "t": "Con esto frenamos sus piernas."
+  },
+  {
+   "i": 1067,
+   "src": "53e7246b3047",
+   "t": "Si todos en la {{rooftop}} dan lo mejor..."
+  },
+  {
+   "i": 1074,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1080,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

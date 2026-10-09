@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f2_140_s06_t111.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1035,
+   "src": "6f691824900b",
+   "t": "La {{mine}}..."
+  },
+  {
+   "i": 1038,
+   "src": "5c0481f3050a",
+   "t": "Quizá vaya a verla esta noche..."
+  },
+  {
+   "i": 1059,
+   "src": "a104c9d5e12c",
+   "t": "¡¿Q-qué quieres?!"
+  },
+  {
+   "i": 1062,
+   "src": "167331d8f6b5",
+   "t": "¡Nada! ¡Lárgate! ¡Fuera! ¡Fuera!"
+  }
+ ]
+}

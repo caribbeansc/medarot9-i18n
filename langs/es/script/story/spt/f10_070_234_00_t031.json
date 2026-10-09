@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f10_070_234_00_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "dfeaade906dc",
+   "t": "¡Esto no tiene fin!"
+  },
+  {
+   "i": 1042,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "a282d244ec5f",
+   "t": "¡Retrocedamos por ahora!"
+  }
+ ]
+}

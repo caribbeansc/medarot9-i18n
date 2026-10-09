@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "72e955d3fafe",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>Strike Formation\n{{damage|cap}} taken from foes increased to 110%\nLeg {{mobility}} +10, attack {{prep}} +10"
+  }
+ ]
+}

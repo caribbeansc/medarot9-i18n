@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_g_m2d_meda.spt",
+ "lines": [
+  {
+   "i": 1030,
+   "src": "1ce5eeedd649",
+   "t": "HellPhoenix"
+  },
+  {
+   "i": 1041,
+   "src": "1c367150ff58",
+   "t": "Want to play soccer with us?"
+  },
+  {
+   "i": 1044,
+   "src": "be7f8234b373",
+   "t": "Or would you rather have a {{robattle}}?"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_111.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6ccdbfcccd9b",
+   "t": "<c:00ff00>Action:<c> {{trap_clear}}\nRemoves the trap the\n{{opponent}} set on their own\nside."
+  }
+ ]
+}

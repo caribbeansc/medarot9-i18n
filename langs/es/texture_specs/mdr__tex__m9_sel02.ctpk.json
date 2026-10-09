@@ -1,0 +1,224 @@
+{
+ "rel": "mdr/tex/m9_sel02.ctpk",
+ "base": "jp",
+ "styles": {
+  "titulo": {
+   "font": "sf-rounded",
+   "cap": 12,
+   "fill": "#A4FFD8",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#0A3A3E",
+    "opacity": 0.85
+   },
+   "crisp": 0.3,
+   "pad": 0,
+   "align": "left",
+   "valign": "middle",
+   "wght": 700
+  },
+  "sub": {
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": "#55EEFF",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#06324A",
+    "opacity": 0.85
+   },
+   "crisp": 0.3,
+   "pad": 0,
+   "align": "left",
+   "valign": "middle"
+  }
+ },
+ "defaults": {
+  "erase": "transparent",
+  "style": "titulo"
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    468,
+    55,
+    24
+   ],
+   "text": "Tienda"
+  },
+  {
+   "box": [
+    56,
+    468,
+    93,
+    21
+   ],
+   "text": "Pregunta",
+   "cap": 13
+  },
+  {
+   "box": [
+    0,
+    493,
+    62,
+    19
+   ],
+   "text": "Piezas",
+   "cap": 13
+  },
+  {
+   "box": [
+    63,
+    493,
+    47,
+    19
+   ],
+   "text": "Objetos",
+   "cap": 11.5,
+   "font": "sf-cond-heavy",
+   "wght": null
+  },
+  {
+   "box": [
+    111,
+    493,
+    99,
+    19
+   ],
+   "text": "Red",
+   "cap": 13
+  },
+  {
+   "box": [
+    195,
+    0,
+    61,
+    16
+   ],
+   "text": "Regalo",
+   "style": "sub",
+   "font": "sf-rounded-heavy",
+   "cap": 10
+  },
+  {
+   "box": [
+    195,
+    17,
+    29,
+    16
+   ],
+   "text": "Compra",
+   "style": "sub",
+   "cap": 8,
+   "align": "center",
+   "pad": [
+    1,
+    0,
+    1,
+    0
+   ],
+   "font": "sf-compressed"
+  },
+  {
+   "box": [
+    225,
+    17,
+    27,
+    16
+   ],
+   "text": "Venta",
+   "style": "sub",
+   "cap": 8,
+   "align": "center",
+   "pad": [
+    1,
+    0,
+    1,
+    0
+   ],
+   "font": "sf-compressed"
+  },
+  {
+   "box": [
+    0,
+    0,
+    88,
+    21
+   ],
+   "segments": [
+    [
+     195,
+     34,
+     61,
+     21,
+     0,
+     0
+    ],
+    [
+     195,
+     56,
+     27,
+     21,
+     61,
+     0
+    ]
+   ],
+   "text": "Companeros",
+   "cap": 11
+  },
+  {
+   "style": [],
+   "box": [
+    178,
+    471,
+    77,
+    12
+   ],
+   "erase": "transparent",
+   "text": "Cambiar nombre",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "crisp": 0.7,
+   "pad": 0,
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    161,
+    483,
+    10,
+    8
+   ],
+   "erase": "transparent",
+   "text": "N",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "crisp": 0.0,
+   "align": "left",
+   "valign": "middle",
+   "pad": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "erase_box": [
+    161,
+    483,
+    6,
+    8
+   ],
+   "style": []
+  }
+ ]
+}

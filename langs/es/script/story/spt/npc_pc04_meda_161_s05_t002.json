@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc04_meda_161_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "b5e404c4e12c",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1041,
+   "src": "2c6ece03e0db",
+   "t": "Te ves algo decaído, ¿eh?"
+  },
+  {
+   "i": 1049,
+   "src": "0f0e0799ca98",
+   "t": "Los exámenes por fin terminaron, ¿no?"
+  },
+  {
+   "i": 1052,
+   "src": "5f708a36fd7f",
+   "t": "¡Vamos de aventura!"
+  }
+ ]
+}

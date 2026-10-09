@@ -1,0 +1,68 @@
+{
+ "rel": "battle/mdl/eff/MDF_079.bcmdl",
+ "tex": "mdf79_03",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "tahoma",
+  "cap": 7,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "align": "left",
+  "valign": "middle"
+ },
+ "items": [
+  {
+   "erase_box": [
+    0,
+    0,
+    128,
+    64
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    2,
+    85,
+    12
+   ],
+   "baseline": 11,
+   "text": "No abnormality"
+  },
+  {
+   "box": [
+    4,
+    18,
+    98,
+    12
+   ],
+   "baseline": 27,
+   "text": "Checking head parts"
+  },
+  {
+   "box": [
+    4,
+    34,
+    98,
+    12
+   ],
+   "baseline": 43,
+   "text": "Checking arm parts"
+  },
+  {
+   "box": [
+    4,
+    50,
+    98,
+    12
+   ],
+   "baseline": 59,
+   "text": "Checking leg parts"
+  }
+ ]
+}

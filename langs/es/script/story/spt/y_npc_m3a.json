@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3a.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1665,
+   "src": "91a4fdee35dc",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1668,
+   "src": "b3541d3720a5",
+   "t": "Está bien, vamos, ven."
+  }
+ ]
+}

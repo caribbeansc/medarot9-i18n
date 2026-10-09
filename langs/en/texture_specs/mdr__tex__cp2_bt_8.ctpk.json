@@ -1,0 +1,40 @@
+{
+ "rel": "mdr/tex/cp2_bt_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    25,
+    0,
+    39,
+    12
+   ],
+   "erase": "transparent",
+   "text": "Settings",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": "#1E2639",
+   "stroke": "#FFFFFFB0",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    0,
+    20,
+    31,
+    12
+   ],
+   "erase": "transparent",
+   "text": "Back",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": "#1E2639",
+   "stroke": "#FFFFFFB0",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0.5
+  }
+ ]
+}

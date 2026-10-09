@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo61.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "ecc6d5a3b400",
+   "t": "'{{medalia}} {{collect|cap}}:Port Coast'"
+  },
+  {
+   "i": 32,
+   "src": "5caa699161cd",
+   "t": "Large medalia reaction around the harbor front.\nIt's likely underwater, so a diving {{part}} may be needed.\n"
+  },
+  {
+   "i": 42,
+   "src": "79fab279cbbd",
+   "t": "Found the medalia inside a sunken ship!\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

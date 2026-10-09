@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_f_2e_163_s02_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1038,
+   "src": "454d50d54198",
+   "t": "Ah, ¿te refieres a {{aoi}}?"
+  },
+  {
+   "i": 1041,
+   "src": "827d35442813",
+   "t": "Es una buena chica."
+  },
+  {
+   "i": 1049,
+   "src": "bb718cc594fc",
+   "t": "Su canto y su baile son adorables,"
+  },
+  {
+   "i": 1052,
+   "src": "c82975ba3d3c",
+   "t": "y con {{flora}} va perfecta en sincronía."
+  },
+  {
+   "i": 1060,
+   "src": "02baea6c85ec",
+   "t": "Es dedicada y seria al practicar,"
+  },
+  {
+   "i": 1063,
+   "src": "9099017173e4",
+   "t": "aprende coreografías al instante,"
+  },
+  {
+   "i": 1071,
+   "src": "82b7f9e47fa9",
+   "t": "y aun así nunca presume,"
+  },
+  {
+   "i": 1074,
+   "src": "ec6b857fb7fd",
+   "t": "es amable y atenta con todos--"
+  },
+  {
+   "i": 1082,
+   "src": "5e8da741de5f",
+   "t": "Eh, ¿la estoy elogiando demasiado?"
+  },
+  {
+   "i": 1085,
+   "src": "11833bf6552a",
+   "t": "Pero de verdad, es una chica genial."
+  },
+  {
+   "i": 1093,
+   "src": "3c47d5e7b491",
+   "t": "¡Qué bueno que {{aoi}} se unió al {{idol_club}}!"
+  }
+ ]
+}

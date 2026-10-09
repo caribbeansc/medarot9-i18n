@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/setup_menu.spt",
+ "lines": [
+  {
+   "i": 976,
+   "src": "905c78baa128",
+   "t": "<c> se puede usar"
+  },
+  {
+   "i": 980,
+   "src": "e35ec0998aee",
+   "t": "necesita estar en ese {{condition}}."
+  }
+ ]
+}

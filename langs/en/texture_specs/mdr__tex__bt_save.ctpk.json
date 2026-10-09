@@ -1,0 +1,260 @@
+{
+ "rel": "mdr/tex/bt_save.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "hfill",
+  "font": "tahoma",
+  "cap": 7,
+  "fill": "auto",
+  "stroke": null,
+  "align": "left",
+  "pad": 0,
+  "crisp": 0.5
+ },
+ "items": [
+  {
+   "text": "Name",
+   "box": [
+    52,
+    10,
+    34,
+    10
+   ],
+   "erase_box": [
+    51,
+    10,
+    26,
+    10
+   ],
+   "baseline": 19,
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ]
+  },
+  {
+   "text": "DATA",
+   "box": [
+    13,
+    36,
+    30,
+    10
+   ],
+   "erase_box": [
+    12,
+    36,
+    27,
+    9
+   ],
+   "baseline": 44,
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ]
+  },
+  {
+   "text": "Saved",
+   "box": [
+    51,
+    36,
+    50,
+    10
+   ],
+   "erase_box": [
+    50,
+    36,
+    52,
+    10
+   ],
+   "baseline": 44,
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ]
+  },
+  {
+   "text": "/",
+   "box": [
+    146,
+    36,
+    9,
+    10
+   ],
+   "erase_box": [
+    146,
+    36,
+    9,
+    10
+   ],
+   "baseline": 44,
+   "align": "center",
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ],
+   "cap": 6
+  },
+  {
+   "text": "/",
+   "box": [
+    178,
+    36,
+    9,
+    10
+   ],
+   "erase_box": [
+    178,
+    36,
+    9,
+    10
+   ],
+   "baseline": 44,
+   "align": "center",
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ],
+   "cap": 6
+  },
+  {
+   "text": "",
+   "erase_box": [
+    210,
+    36,
+    8,
+    10
+   ],
+   "baseline": 44,
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ],
+   "box": [
+    210,
+    36,
+    8,
+    10
+   ]
+  },
+  {
+   "text": ":",
+   "box": [
+    240,
+    36,
+    9,
+    10
+   ],
+   "erase_box": [
+    240,
+    36,
+    9,
+    10
+   ],
+   "baseline": 44,
+   "align": "center",
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ],
+   "cap": 6
+  },
+  {
+   "text": "",
+   "erase_box": [
+    270,
+    36,
+    11,
+    10
+   ],
+   "baseline": 44,
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ],
+   "box": [
+    270,
+    36,
+    11,
+    10
+   ]
+  },
+  {
+   "text": "Delete data",
+   "box": [
+    309,
+    1,
+    62,
+    14
+   ],
+   "erase_box": [
+    308,
+    0,
+    64,
+    16
+   ],
+   "erase": "transparent",
+   "font": "din",
+   "cap": 9,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "align": "center",
+   "baseline": 12,
+   "crisp": 0.4,
+   "min_scale_x": 0.75
+  },
+  {
+   "text": "NO DATA",
+   "segments": [
+    [
+     456,
+     0,
+     56,
+     16,
+     0,
+     0
+    ],
+    [
+     456,
+     16,
+     16,
+     16,
+     56,
+     0
+    ]
+   ],
+   "box": [
+    2,
+    0,
+    70,
+    16
+   ],
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#A0A0A0",
+   "stroke": null,
+   "align": "left",
+   "baseline": 14,
+   "crisp": 0.6,
+   "min_scale_x": 0.75,
+   "tracking": 0.6
+  }
+ ]
+}

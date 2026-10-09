@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_030_161_00_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "9869db082a1a",
+   "t": "Bueno."
+  },
+  {
+   "i": 1065,
+   "src": "4557b010a291",
+   "t": "Quiero ordenar la información,"
+  },
+  {
+   "i": 1068,
+   "src": "e0b9dacc35f5",
+   "t": "¿sí?"
+  },
+  {
+   "i": 1083,
+   "src": "8472a3a7cb4b",
+   "t": "Claro, adelante."
+  }
+ ]
+}

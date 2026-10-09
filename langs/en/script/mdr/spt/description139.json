@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description139.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "71df84bae9af",
+   "t": "{{plant}} ({{object}})"
+  },
+  {
+   "i": 11,
+   "src": "18933c38c1dc",
+   "t": "An <c:ffff00>{{object}}<c> that automatically applies support effects\nto allies. Placed on the <c:ffff00>{{field}}<c>, mostly by <c:ffff00>Set-up skill<c>\n<c:ffff00>actions<c>. One type per team; setting another\nreplaces it.\nIts <c:ffff00>{{armor}}<c> starts at 100. It can't be <c:ffff00>recovered<c>, but\nsetting the same type again raises it by 50 (max\n300); below 100 it returns to 100.\nSome types change {{effect}} by {{armor}}."
+  }
+ ]
+}

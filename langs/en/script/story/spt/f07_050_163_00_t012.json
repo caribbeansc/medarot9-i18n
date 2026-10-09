@@ -1,0 +1,240 @@
+{
+ "file": "story/spt/f07_050_163_00_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1045,
+   "src": "1d46536c60b8",
+   "t": "There's a strange noise."
+  },
+  {
+   "i": 1055,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1061,
+   "src": "facaaa8b2528",
+   "t": "You noticed."
+  },
+  {
+   "i": 1069,
+   "src": "46e6d7abbe55",
+   "t": "That's right."
+  },
+  {
+   "i": 1072,
+   "src": "cb27bfbb9526",
+   "t": "It's been like this for a while."
+  },
+  {
+   "i": 1080,
+   "src": "3a4bc4cfb335",
+   "t": "I can't do complex movements at once."
+  },
+  {
+   "i": 1083,
+   "src": "3340b5b4d24a",
+   "t": "It's fine usually, but..."
+  },
+  {
+   "i": 1090,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1096,
+   "src": "6656eda6d94b",
+   "t": "This unit looks suspicious."
+  },
+  {
+   "i": 1099,
+   "src": "5b80b04c2308",
+   "t": "I've never seen this shape."
+  },
+  {
+   "i": 1107,
+   "src": "79e32fa8c97f",
+   "t": "What is this?"
+  },
+  {
+   "i": 1114,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1120,
+   "src": "1e322ad587b1",
+   "t": "Don't ask me."
+  },
+  {
+   "i": 1130,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1139,
+   "src": "1911d7fc3744",
+   "t": "This is a gyroscope."
+  },
+  {
+   "i": 1142,
+   "src": "1ac67c243bbc",
+   "t": "A wheel type."
+  },
+  {
+   "i": 1150,
+   "src": "fac88cfceebf",
+   "t": "It's a fairly old type."
+  },
+  {
+   "i": 1153,
+   "src": "9cd8d27c29c5",
+   "t": "No wonder {{main}} doesn't know it."
+  },
+  {
+   "i": 1164,
+   "src": "f2d0594252d6",
+   "t": "The bearings inside are probably worn\nout"
+  },
+  {
+   "i": 1167,
+   "src": "6929878a88f0",
+   "t": "so it no longer spins smoothly."
+  },
+  {
+   "i": 1175,
+   "src": "6056b1139c8e",
+   "t": "You know a lot about this."
+  },
+  {
+   "i": 1183,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1189,
+   "src": "2ab35287effe",
+   "t": "Well, I can't compete with {{main}} in\nsoftware,"
+  },
+  {
+   "i": 1192,
+   "src": "62c9d35d5be9",
+   "t": "but hardware, I know a little..."
+  },
+  {
+   "i": 1203,
+   "src": "b5a2cdafe446",
+   "t": "But other parts are rattling all over, too."
+  },
+  {
+   "i": 1206,
+   "src": "8726f31dde59",
+   "t": "It's a wonder it still moves."
+  },
+  {
+   "i": 1216,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1225,
+   "src": "b751a913eaf9",
+   "t": "I'm sorry, {{flora}}."
+  },
+  {
+   "i": 1228,
+   "src": "8967dea1a3ee",
+   "t": "I'm sorry I couldn't take better care of\nyou..."
+  },
+  {
+   "i": 1238,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1247,
+   "src": "72dde3109e3b",
+   "t": "It's not your fault."
+  },
+  {
+   "i": 1250,
+   "src": "1670d0d35e62",
+   "t": "It's simply the end of its lifespan."
+  },
+  {
+   "i": 1261,
+   "src": "d97294fdebd5",
+   "t": "Can't we use new {{part|pl}}?"
+  },
+  {
+   "i": 1273,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1282,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1290,
+   "src": "b17734c57f50",
+   "t": "{{flora}} is a keepsake from my mother."
+  },
+  {
+   "i": 1293,
+   "src": "0ff140daf690",
+   "t": "The {{part|pl}} are, too."
+  },
+  {
+   "i": 1301,
+   "src": "a0113e00e571",
+   "t": "My mom was a dancer who always\ndanced"
+  },
+  {
+   "i": 1304,
+   "src": "49eb70cca9c4",
+   "t": "with Flora. Dancing was her dream, too."
+  },
+  {
+   "i": 1329,
+   "src": "537b504892de",
+   "t": "I want to dance with {{flora}}!"
+  },
+  {
+   "i": 1332,
+   "src": "fa7293c03e25",
+   "t": "It has to be {{flora}} as she is now!"
+  },
+  {
+   "i": 1340,
+   "src": "0612568e2fad",
+   "t": "...Ah."
+  },
+  {
+   "i": 1348,
+   "src": "2f8178a599bc",
+   "t": "I'm sorry."
+  },
+  {
+   "i": 1351,
+   "src": "c5d0dacb5f0d",
+   "t": "Listen to me, being so selfish--"
+  },
+  {
+   "i": 1358,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1367,
+   "src": "669e8ef39214",
+   "t": "No."
+  }
+ ]
+}

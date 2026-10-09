@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_19.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3db96609f8dc",
+   "t": "<c:00ff00>Técnica:<c>{{tornado}}\nAtaque de {{shooting}} que\naplica el {{status}} {{tornado}}.\n<c:00ffff>{{status|cap}}:<c>{{tornado}}\nDetiene la acción un\ntiempo; sin {{evade}} ni\n{{defend}}. Además, lo\nvuelve {{flying}}. Se anula\nal {{take_it}} un ataque."
+  }
+ ]
+}

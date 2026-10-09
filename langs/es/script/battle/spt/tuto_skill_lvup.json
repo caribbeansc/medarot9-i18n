@@ -1,0 +1,60 @@
+{
+ "file": "battle/spt/tuto_skill_lvup.spt",
+ "lines": [
+  {
+   "i": 1065,
+   "src": "3d065d4e1362",
+   "t": "Combate"
+  },
+  {
+   "i": 1075,
+   "src": "07cd98f836fa",
+   "t": "Disparo"
+  },
+  {
+   "i": 1085,
+   "src": "d93e9a646712",
+   "t": "Apoyo"
+  },
+  {
+   "i": 1095,
+   "src": "4a0567b1fe55",
+   "t": "Curación"
+  },
+  {
+   "i": 1105,
+   "src": "bc17bb6afea9",
+   "t": "Defensa"
+  },
+  {
+   "i": 1115,
+   "src": "f44bb303f465",
+   "t": "Trampa"
+  },
+  {
+   "i": 1119,
+   "src": "3a5dca67745a",
+   "t": "¡Bien! ¡De tanto usar piezas de "
+  },
+  {
+   "i": 1121,
+   "src": "baa8e24ecbe9",
+   "t": ",\n"
+  },
+  {
+   "i": 1123,
+   "src": "7aecd863e70f",
+   "t": " subió su <c:ff00ff>{{skill_level}}<c>!"
+  },
+  {
+   "i": 1151,
+   "src": "f06526eb553f",
+   "t": "Ahora <c:ff00ff>cargas<c> y te <c:ff00ff>enfrías<c> más rápido.\nY usarás tus técnicas con más eficacia."
+  },
+  {
+   "i": 1159,
+   "src": "a0e5697f7e0a",
+   "t": "También {{up}} el <c:ff00ff>{{medal_level}}<c>:\nmás <c:ff00ff>{{evade}}<c> y <c:ff00ff>{{defend}}<c>: ¡aguantarás más!"
+  }
+ ]
+}

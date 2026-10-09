@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_01_02_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "3435e3bc23f9",
+   "t": "Quest 'Sound Wave Survey: Sha...\nTow..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "034b31a7abf4",
+   "t": "It's read 'tatekou yagura.'"
+  },
+  {
+   "i": 1049,
+   "src": "ff75b0a5cb0c",
+   "t": "A shaft tower is a relic of the mining\ndays."
+  },
+  {
+   "i": 1057,
+   "src": "096e03cabf2c",
+   "t": "A large transport facility, with a deep\nshaft right under the tower."
+  },
+  {
+   "i": 1060,
+   "src": "d5368755c7c7",
+   "t": "So {{main}} wants to pick up sounds from\nunderground."
+  }
+ ]
+}

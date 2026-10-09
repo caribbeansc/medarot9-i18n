@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_16.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5d9ac1aad3ba",
+   "t": "<c:00ff00>{{mf}}:<c>Rompe-Rocas\nDestruye la {{part}} de\nmayor {{armor}} de un\n{{enemy}}.\n(salvo la {{head_part}})\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de tiro"
+  }
+ ]
+}

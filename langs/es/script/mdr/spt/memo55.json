@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo55.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "276b38f27bc6",
+   "t": "\"Observar ondas: {{shaft_tower}}\""
+  },
+  {
+   "i": 32,
+   "src": "1f02265da1ee",
+   "t": "Tomemos datos en la {{shaft_tower}}, junto a las galerías.\nAl norte de la {{academy}}, por el {{misty_deep_forest}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "d803b6aed197",
+   "t": "Al noroeste del {{misty_deep_forest}}. Busquemos un paso.\n"
+  },
+  {
+   "i": 52,
+   "src": "5d8c56f63bc5",
+   "t": "Por un viejo camino lleno de maleza, difícil de andar...\n"
+  },
+  {
+   "i": 62,
+   "src": "fae0bc417650",
+   "t": "Un {{medabot}} {{flying}} subió a la torre y observó las ondas.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 72,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f06_060_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9104decf93cc",
+   "t": "¿Qué es ese sonido?"
+  },
+  {
+   "i": 1037,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1046,
+   "src": "f0ab5861f1a2",
+   "t": "Ah, ya veo. Así que esto es"
+  },
+  {
+   "i": 1049,
+   "src": "d83e1b30c547",
+   "t": "el sonido de {{detect}} de {{medalia|pl}}, eh."
+  },
+  {
+   "i": 1056,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1062,
+   "src": "f4978411cc94",
+   "t": "Correcto."
+  },
+  {
+   "i": 1072,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1078,
+   "src": "4db33cb16412",
+   "t": "Oye, oye "
+  },
+  {
+   "i": 1080,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1083,
+   "src": "1329a9841207",
+   "t": "Ponte esta {{medalia}} y muévete un poco."
+  },
+  {
+   "i": 1099,
+   "src": "c4c14ba1e994",
+   "t": "Claro."
+  }
+ ]
+}

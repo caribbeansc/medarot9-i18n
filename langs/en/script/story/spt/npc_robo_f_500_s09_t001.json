@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_robo_f_500_s09_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "3a4c6e3bef63",
+   "t": "Just taking a little break, {{robo}}."
+  },
+  {
+   "i": 1038,
+   "src": "7f8fca06d8d8",
+   "t": "Just a tiny one, {{robo}}."
+  }
+ ]
+}

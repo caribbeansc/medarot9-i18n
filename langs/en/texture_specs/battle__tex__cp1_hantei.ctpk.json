@@ -1,0 +1,139 @@
+{
+ "rel": "battle/tex/cp1_hantei.ctpk",
+ "base": "jp",
+ "styles": {
+  "etq": {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 8,
+   "fill": "#F4F4F4",
+   "stroke": "#000000D0",
+   "stroke_w": 1,
+   "pad": [
+    1,
+    0,
+    1,
+    0
+   ],
+   "crisp": 0.4,
+   "align": "center"
+  },
+  "res": {
+   "erase": "transparent",
+   "font": "sf-compressed",
+   "cap": 10.5,
+   "stroke_w": 0.7,
+   "pad": 0,
+   "tracking": 0.4,
+   "italic_skew": 0.2,
+   "align": "center",
+   "crisp": 0.3
+  }
+ },
+ "items": [
+  {
+   "style": "etq",
+   "box": [
+    0,
+    65,
+    60,
+    15
+   ],
+   "text": "Your team",
+   "cap": 9,
+   "align": "center",
+   "font": "sf-cond-heavy"
+  },
+  {
+   "style": "etq",
+   "box": [
+    61,
+    65,
+    60,
+    15
+   ],
+   "text": "Rival team",
+   "cap": 9,
+   "align": "center",
+   "font": "sf-cond-heavy"
+  },
+  {
+   "style": "etq",
+   "box": [
+    0,
+    81,
+    112,
+    14
+   ],
+   "text": "Medabots KO'd"
+  },
+  {
+   "style": "etq",
+   "box": [
+    0,
+    96,
+    80,
+    12
+   ],
+   "text": "Parts destroyed"
+  },
+  {
+   "style": "etq",
+   "box": [
+    0,
+    110,
+    70,
+    13
+   ],
+   "text": "Total damage",
+   "erase_box": [
+    0,
+    110,
+    72,
+    17
+   ]
+  },
+  {
+   "box": [
+    145,
+    57,
+    75,
+    20
+   ],
+   "erase_box": [
+    144,
+    56,
+    76,
+    21
+   ],
+   "erase": "transparent",
+   "text": "DECISION",
+   "font": "sf-black",
+   "cap": 13,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#B4FFEC"
+     ],
+     [
+      0.5,
+      "#74E6CA"
+     ],
+     [
+      1,
+      "#44BEA3"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#001A44",
+     "w": 1.2
+    }
+   ],
+   "pad": 0,
+   "align": "center"
+  }
+ ]
+}

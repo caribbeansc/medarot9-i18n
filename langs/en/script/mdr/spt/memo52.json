@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo52.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "c09742232081",
+   "t": "'{{explore|cap}}:Mine {{entrance}}'\n"
+  },
+  {
+   "i": 32,
+   "src": "29dcbb202303",
+   "t": "Investigate the entrance on the east side of the mine tunnel mountain.\nThere should be a way down from somewhere on the mountain road.\n"
+  },
+  {
+   "i": 42,
+   "src": "1748cf39a123",
+   "t": "There seems to be a stone staircase along the mountain road.\n"
+  },
+  {
+   "i": 52,
+   "src": "83927206a7ed",
+   "t": "Down the stone staircase,and through the grass...\n"
+  },
+  {
+   "i": 62,
+   "src": "4ff67f1165c1",
+   "t": "I've reached the entrance,but it's closed.\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 72,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

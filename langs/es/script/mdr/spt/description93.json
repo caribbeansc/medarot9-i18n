@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description93.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a5e9294aa892",
+   "t": "{{medal_change|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "a6afb35b52b6",
+   "t": "Fenómeno por el que una <c:ffff00>{{medal}}<c> se transforma en\notra de distinto tipo.\nOcurre al colocar 3 <c:ffff00>{{medalia|pl}}<c> del mismo color en las\n<c:ffff00>ranuras de {{medalia}}<c>.\n\nAdemás del emblema de su superficie, cambian el\n<c:ffff00>{{robattle_style}}<c> y la <c:ffff00>{{medaforce}}<c>.\n\nMuy rara vez, hay {{medal|pl}} que cambian de <c:ffff00>{{gender}}<c>."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f11_140_113_00_t041.spt",
+ "lines": [
+  {
+   "i": 1018,
+   "src": "5d2127010047",
+   "t": "*Won the 2nd battle"
+  },
+  {
+   "i": 1029,
+   "src": "6c9a6cb734bc",
+   "t": "{{tart}}"
+  },
+  {
+   "i": 1040,
+   "src": "342221b409ee",
+   "t": "Not yet!"
+  },
+  {
+   "i": 1056,
+   "src": "bb307b8df7ac",
+   "t": "*More {{medabot|pl}} from the school gate\nagain"
+  },
+  {
+   "i": 1067,
+   "src": "07b521d1e88c",
+   "t": "{{chiffon}}"
+  },
+  {
+   "i": 1078,
+   "src": "6c81e81f1125",
+   "t": "They're so persistent!"
+  },
+  {
+   "i": 1094,
+   "src": "1ac55122bfad",
+   "t": "*To {{robattle}}"
+  }
+ ]
+}

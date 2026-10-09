@@ -1,0 +1,386 @@
+{
+ "rel": "mdr/tex/mk_matching9.ctpk",
+ "base": "jp",
+ "styles": {
+  "amarillo": {
+   "font": "sf-cond-heavy",
+   "cap": 12,
+   "pad": 0,
+   "align": "center",
+   "min_scale_x": 0.8,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#F8F765"
+     ],
+     [
+      0.5,
+      "#F9F776"
+     ],
+     [
+      1,
+      "#F8EE92"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#E79B25",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#471801",
+    "blur": 3,
+    "opacity": 0.8
+   }
+  },
+  "rosa": {
+   "font": "sf-cond-heavy",
+   "cap": 12.5,
+   "pad": 0,
+   "align": "center",
+   "min_scale_x": 0.8,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFF9FD"
+     ],
+     [
+      0.5,
+      "#FFD1F4"
+     ],
+     [
+      1,
+      "#FFA6E9"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#E00099",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#471801",
+    "blur": 3,
+    "opacity": 0.8
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    88,
+    0,
+    300,
+    27
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    88,
+    28,
+    204,
+    27
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    88,
+    56,
+    162,
+    27
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    88,
+    84,
+    92,
+    26
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    15,
+    86,
+    68,
+    26
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    182,
+    84,
+    68,
+    27
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    403,
+    87,
+    108,
+    27
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    89,
+    0,
+    56,
+    27
+   ],
+   "erase": "none",
+   "text": "Rival:",
+   "align": "right",
+   "baseline": 19,
+   "cap": 11,
+   "min_scale_x": 0.7
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    146,
+    0,
+    242,
+    27
+   ],
+   "erase": "none",
+   "text": "Face  the  infrared  ports",
+   "baseline": 19
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    88,
+    28,
+    204,
+    27
+   ],
+   "erase": "none",
+   "text": "Connecting  to  rival",
+   "baseline": 47
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    88,
+    56,
+    90,
+    27
+   ],
+   "erase": "none",
+   "text": "Receiving",
+   "align": "right",
+   "baseline": 75
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    180,
+    56,
+    70,
+    27
+   ],
+   "erase": "none",
+   "text": "parts",
+   "align": "left",
+   "baseline": 75
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    88,
+    84,
+    90,
+    26
+   ],
+   "erase": "none",
+   "text": "Sending",
+   "align": "right",
+   "baseline": 102
+  },
+  {
+   "style": "rosa",
+   "box": [
+    15,
+    86,
+    68,
+    26
+   ],
+   "erase": "none",
+   "text": "Sent",
+   "baseline": 103
+  },
+  {
+   "style": "rosa",
+   "box": [
+    182,
+    84,
+    68,
+    27
+   ],
+   "erase": "none",
+   "text": "Received",
+   "baseline": 102
+  },
+  {
+   "style": "rosa",
+   "box": [
+    403,
+    87,
+    108,
+    27
+   ],
+   "erase": "none",
+   "text": "Connected",
+   "baseline": 104
+  }
+ ],
+ "protect": [
+  [
+   0,
+   0,
+   88,
+   27
+  ],
+  [
+   388,
+   0,
+   124,
+   27
+  ],
+  [
+   0,
+   27,
+   512,
+   1
+  ],
+  [
+   0,
+   28,
+   88,
+   27
+  ],
+  [
+   292,
+   28,
+   220,
+   27
+  ],
+  [
+   0,
+   55,
+   512,
+   1
+  ],
+  [
+   0,
+   56,
+   88,
+   27
+  ],
+  [
+   250,
+   56,
+   262,
+   27
+  ],
+  [
+   0,
+   83,
+   512,
+   1
+  ],
+  [
+   0,
+   84,
+   88,
+   2
+  ],
+  [
+   180,
+   84,
+   2,
+   26
+  ],
+  [
+   250,
+   84,
+   262,
+   3
+  ],
+  [
+   0,
+   86,
+   15,
+   26
+  ],
+  [
+   83,
+   86,
+   5,
+   24
+  ],
+  [
+   250,
+   87,
+   153,
+   24
+  ],
+  [
+   511,
+   87,
+   1,
+   27
+  ],
+  [
+   83,
+   110,
+   99,
+   1
+  ],
+  [
+   83,
+   111,
+   320,
+   1
+  ],
+  [
+   0,
+   112,
+   403,
+   2
+  ],
+  [
+   0,
+   114,
+   512,
+   14
+  ]
+ ]
+}

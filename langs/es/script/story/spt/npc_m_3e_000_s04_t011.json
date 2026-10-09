@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/npc_m_3e_000_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1035,
+   "src": "3d64bd33f3b0",
+   "t": "¡V3 logrado! ¿Cuál es el secreto de la"
+  },
+  {
+   "i": 1038,
+   "src": "9cbce55613bf",
+   "t": "{{victory}} según el presidente de Rescate?"
+  },
+  {
+   "i": 1046,
+   "src": "dcc340fb8479",
+   "t": "...Quizá eso es demasiado común."
+  },
+  {
+   "i": 1054,
+   "src": "475d227f408e",
+   "t": "¡Rescate gana por tercer año seguido!"
+  },
+  {
+   "i": 1057,
+   "src": "6a2df7db2975",
+   "t": "¿Quién fue la pieza clave inesperada?"
+  },
+  {
+   "i": 1065,
+   "src": "4f4866016dae",
+   "t": "...Nada sorprendente, supongo."
+  },
+  {
+   "i": 1068,
+   "src": "7cf2231bf769",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1089,
+   "src": "6cccb908ed22",
+   "t": "Preparo un borrador para un especial"
+  },
+  {
+   "i": 1092,
+   "src": "76682c3487d3",
+   "t": "del torneo, para un sitio de noticias."
+  },
+  {
+   "i": 1100,
+   "src": "2f8ab07aedfa",
+   "t": "¿...Eh? ¿Dices que el torneo aún no ha"
+  },
+  {
+   "i": 1103,
+   "src": "9d37145ade70",
+   "t": "empezado? No pasa nada."
+  },
+  {
+   "i": 1111,
+   "src": "27dbe4338834",
+   "t": "En noticias manda la rapidez,"
+  },
+  {
+   "i": 1114,
+   "src": "f483e246638b",
+   "t": "lo seguro va primero."
+  },
+  {
+   "i": 1122,
+   "src": "ae2a1a8e5c77",
+   "t": "Si no, no podría subirla\njusto después de la competencia, ¿no?"
+  }
+ ]
+}

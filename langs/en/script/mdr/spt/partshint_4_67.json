@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_67.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e0d21fe285ea",
+   "t": "<c:00ff00>Leg Trait:<c> {{outrange}}\nAgainst opponents with a\nlower\n{{shooting}} stat than yours,\nyour {{medal_level}} is\ntemporarily +10."
+  }
+ ]
+}

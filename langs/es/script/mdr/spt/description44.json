@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description44.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "73e25ed84f14",
+   "t": "{{critical|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "0febd9a7b01d",
+   "t": "<c:ffff00>Ataque<c> que da en el punto débil de una {{part}} {{opponent}}.\n\nSi es un golpe {{critical}}, causa <c:ffff00>{{damage}}<c> ignorando el\n<c:ffff00>poder de {{defend}}<c> del {{opponent}}.\n\nCuanto mayor es el <c:ffff00>{{success_power}}<c> del ataque, más\nprobable es que ocurra.\nSi se <c:ffff00>recibe<c> un ataque estando <c:ffff00>{{cannot_defend}}<c> y <c:ffff00>sin<c>\n<c:ffff00>{{evade}}<c>, siempre es {{critical}}."
+  }
+ ]
+}

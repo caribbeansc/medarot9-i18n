@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_13.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "e80c8868cfc4",
+   "t": "<c:00ff00>{{mf}}:<c> Construct\nThe {{terrain}} becomes\n{{plains}} and all {{medabot|pl}}\nreturn to the command\narea.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

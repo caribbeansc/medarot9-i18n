@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_13.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "58b9dfd9cf48",
+   "t": "<c:00ff00>Action:<c> {{anti_air}}\nA ranged attack that deals\nbig {{damage}} if the\n{{opponent}}'s {{leg_part}} is a\n{{flying}} type.\nHas piercing."
+  }
+ ]
+}

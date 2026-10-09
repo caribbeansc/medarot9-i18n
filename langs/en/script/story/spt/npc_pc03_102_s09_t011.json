@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc03_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

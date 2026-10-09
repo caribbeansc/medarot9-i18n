@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_1a_117_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1035,
+   "src": "6bdc1aa758af",
+   "t": "Bueno, pues..."
+  },
+  {
+   "i": 1038,
+   "src": "f4b7ad338e06",
+   "t": "Es cierto que son algo lindos, pero..."
+  },
+  {
+   "i": 1046,
+   "src": "46ce1dfa090f",
+   "t": "Pero aun así, ¡esa actitud de los chicos!"
+  },
+  {
+   "i": 1049,
+   "src": "338ef81bb670",
+   "t": "¿No es demasiado obvio?"
+  },
+  {
+   "i": 1061,
+   "src": "49b1635d597d",
+   "t": "-kun, ¿tú qué opinas?"
+  },
+  {
+   "i": 1072,
+   "src": "ad3cb5700c50",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1080,
+   "src": "f0655c2b048b",
+   "t": "N-no, nada..."
+  }
+ ]
+}

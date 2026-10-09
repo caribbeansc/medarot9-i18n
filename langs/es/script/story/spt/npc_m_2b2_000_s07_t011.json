@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b2_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "9e07d07d00a0",
+   "t": "Mi {{club}} aún no decide su número para"
+  },
+  {
+   "i": 1041,
+   "src": "97d7383025b1",
+   "t": "el festival. Hay que prepararse ya..."
+  }
+ ]
+}

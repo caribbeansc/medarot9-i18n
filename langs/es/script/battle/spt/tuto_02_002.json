@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/tuto_02_002.spt",
+ "lines": [
+  {
+   "i": 1085,
+   "src": "2567d5287753",
+   "t": "¡Bien!  "
+  },
+  {
+   "i": 1098,
+   "src": "1c8766b67ff3",
+   "t": "La puntería tarda más en cargar que un\nataque normal y falla más, pero...                        "
+  },
+  {
+   "i": 1103,
+   "src": "d356e9e2976d",
+   "t": "Si acierta, <c:ff00ff>impide defender y esquivar<c>\ny <c:ff00ff>la zona apuntada recibe {{damage}} seguro<c>.                              "
+  },
+  {
+   "i": 1108,
+   "src": "b0d711ae4a74",
+   "t": "Destruye con exactitud {{part|pl}} con\ntécnicas molestas o poco {{armor}}...                              "
+  },
+  {
+   "i": 1113,
+   "src": "f1bb9b7cf935",
+   "t": "¡Úsala para acertar seguro a un {{medabot}}\n{{opponent}} excelente en {{defend}} o {{evade}}!                    "
+  },
+  {
+   "i": 1124,
+   "src": "7b5c21f54ae7",
+   "t": "Tras atacar con todas sus fuerzas,\nrecuperar la postura toma tiempo."
+  },
+  {
+   "i": 1129,
+   "src": "1d56037ee91d",
+   "t": "O sea que durante el {{cooldown}}\nno puede defender ni esquivar."
+  },
+  {
+   "i": 1134,
+   "src": "abec9eeaa58b",
+   "t": "Si lo atacan en ese {{condition}}, siempre\nserá {{critical}} y recibirá un gran {{damage}}.                     "
+  },
+  {
+   "i": 1139,
+   "src": "c2ef82066021",
+   "t": "Muy potente, pero muy arriesgada.\nÚsala si no te atacan al enfriarte.                          "
+  }
+ ]
+}

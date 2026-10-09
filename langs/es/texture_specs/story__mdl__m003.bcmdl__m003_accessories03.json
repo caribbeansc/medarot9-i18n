@@ -1,0 +1,39 @@
+{
+ "rel": "story/mdl/m003.bcmdl",
+ "tex": "m003_accessories03",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "pad": 0,
+  "crisp": 0
+ },
+ "items": [
+  {
+   "erase_box": [
+    17,
+    92,
+    96,
+    22
+   ],
+   "erase": "glyph",
+   "grow": 1,
+   "thr": 60,
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    90,
+    112,
+    26
+   ],
+   "text": "Cafe del museo",
+   "font": "/System/Library/Fonts/Noteworthy.ttc#1",
+   "cap": 14,
+   "baseline": 111,
+   "fill": "#F6F8F8",
+   "stroke": null
+  }
+ ]
+}

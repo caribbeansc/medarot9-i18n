@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f11_200_000_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1035,
+   "src": "f218b351b6f7",
+   "t": "Estará bien, si peleamos confiando"
+  },
+  {
+   "i": 1038,
+   "src": "262e877ff835",
+   "t": "en todos... ¡Sin duda ganaremos!"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1c_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "Hey, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "db4e7527a03c",
+   "t": "That {{medalia}} detection {{app}} is amazing."
+  },
+  {
+   "i": 1051,
+   "src": "4e29bd053e14",
+   "t": "It's already been a week since the\n{{culture_festival}}, hasn't it?"
+  },
+  {
+   "i": 1054,
+   "src": "9de706af971f",
+   "t": "Everyone felt its power, and it's really\ngetting hyped."
+  },
+  {
+   "i": 1062,
+   "src": "62aec45e62ca",
+   "t": "Of course everyone in my {{club}} is\nsearching like crazy, too."
+  },
+  {
+   "i": 1065,
+   "src": "30d57495d131",
+   "t": "The {{medalia_rush}} has arrived!"
+  }
+ ]
+}

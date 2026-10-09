@@ -1,0 +1,34 @@
+{
+ "rel": "mdr/tex/bt_log_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    17,
+    0,
+    43,
+    14
+   ],
+   "erase_box": [
+    16,
+    0,
+    46,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Log",
+   "font": "sf-cond-heavy",
+   "cap": 7.6,
+   "tracking": 0.4,
+   "fill": {
+    "top": "#3A4355",
+    "bottom": "#0C1324"
+   },
+   "stroke": "#FFFFFF",
+   "stroke_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0
+  }
+ ]
+}

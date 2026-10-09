@@ -1,0 +1,1097 @@
+{
+ "rel": "mdr/tex/m9_sel_win_s.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    197,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    197,
+    22,
+    11
+   ],
+   "text": "EXITO",
+   "baseline": 205
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    209,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    209,
+    22,
+    11
+   ],
+   "text": "POT.",
+   "baseline": 217
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    221,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    221,
+    22,
+    11
+   ],
+   "text": "CARGA",
+   "baseline": 229
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    233,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    233,
+    22,
+    11
+   ],
+   "text": "ENFR.",
+   "baseline": 241
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    102,
+    245,
+    22,
+    11
+   ],
+   "box": [
+    102,
+    245,
+    22,
+    11
+   ],
+   "text": "USOS",
+   "baseline": 253
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    125,
+    210,
+    22,
+    11
+   ],
+   "box": [
+    125,
+    210,
+    22,
+    11
+   ],
+   "text": "MOVIL.",
+   "baseline": 218
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    235,
+    0,
+    21,
+    11
+   ],
+   "box": [
+    235,
+    0,
+    21,
+    11
+   ],
+   "text": "COMB.",
+   "baseline": 8
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    235,
+    12,
+    21,
+    11
+   ],
+   "box": [
+    235,
+    12,
+    21,
+    11
+   ],
+   "text": "DISP.",
+   "baseline": 20
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    161,
+    24,
+    42,
+    8
+   ],
+   "box": [
+    162,
+    24,
+    42,
+    8
+   ],
+   "text": "CABEZA",
+   "baseline": 30
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    204,
+    24,
+    42,
+    8
+   ],
+   "box": [
+    205,
+    24,
+    42,
+    8
+   ],
+   "text": "BR.IZQ.",
+   "baseline": 30
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    161,
+    32,
+    42,
+    8
+   ],
+   "box": [
+    162,
+    32,
+    42,
+    8
+   ],
+   "text": "BR.DER.",
+   "baseline": 38
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    204,
+    32,
+    47,
+    8
+   ],
+   "box": [
+    205,
+    32,
+    47,
+    8
+   ],
+   "text": "PIERNAS",
+   "baseline": 38
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    33,
+    90,
+    32,
+    8
+   ],
+   "box": [
+    34,
+    90,
+    32,
+    8
+   ],
+   "text": "PRESET",
+   "baseline": 96
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    192,
+    232,
+    23,
+    8
+   ],
+   "box": [
+    193,
+    232,
+    23,
+    8
+   ],
+   "text": "BONO",
+   "baseline": 238
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    57,
+    249,
+    23,
+    6
+   ],
+   "box": [
+    59,
+    249,
+    23,
+    6
+   ],
+   "text": "BLIND.",
+   "baseline": 254
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    32,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    32,
+    172,
+    13,
+    12
+   ],
+   "text": "BOS",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    52,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    52,
+    172,
+    13,
+    12
+   ],
+   "text": "ROC",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    72,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    72,
+    172,
+    13,
+    12
+   ],
+   "text": "ARE",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    92,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    92,
+    172,
+    13,
+    12
+   ],
+   "text": "LLA",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    112,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    112,
+    172,
+    13,
+    12
+   ],
+   "text": "AGU",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    132,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    132,
+    172,
+    13,
+    12
+   ],
+   "text": "AIR",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    152,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    152,
+    172,
+    13,
+    12
+   ],
+   "text": "TUN",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    172,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    172,
+    172,
+    13,
+    12
+   ],
+   "text": "INT",
+   "baseline": 181
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    192,
+    172,
+    13,
+    12
+   ],
+   "box": [
+    192,
+    172,
+    13,
+    12
+   ],
+   "text": "CIB",
+   "baseline": 181
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    35,
+    186,
+    25,
+    9
+   ],
+   "box": [
+    34,
+    186,
+    27,
+    9
+   ],
+   "text": "HABIL.",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    67,
+    186,
+    35,
+    9
+   ],
+   "box": [
+    66,
+    186,
+    38,
+    9
+   ],
+   "text": "RENDIM.",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    110,
+    186,
+    25,
+    9
+   ],
+   "box": [
+    109,
+    186,
+    27,
+    9
+   ],
+   "text": "TEC.",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    142,
+    186,
+    33,
+    9
+   ],
+   "box": [
+    141,
+    186,
+    36,
+    9
+   ],
+   "text": "RASGO",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    35,
+    199,
+    60,
+    9
+   ],
+   "box": [
+    34,
+    199,
+    63,
+    9
+   ],
+   "text": "AFIN. MEDALLA",
+   "baseline": 205
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    35,
+    212,
+    60,
+    9
+   ],
+   "box": [
+    34,
+    212,
+    63,
+    9
+   ],
+   "text": "RESP. ATAQUE",
+   "baseline": 218
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    35,
+    225,
+    60,
+    9
+   ],
+   "box": [
+    34,
+    225,
+    63,
+    9
+   ],
+   "text": "AFIN. TERRENO",
+   "baseline": 231
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1.0
+   },
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    39,
+    238,
+    52,
+    9
+   ],
+   "box": [
+    38,
+    238,
+    55,
+    9
+   ],
+   "text": "TIPO PIERNAS",
+   "baseline": 244
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#4CCB98",
+   "stroke": "#102820",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    135,
+    198,
+    50,
+    10
+   ],
+   "box": [
+    127,
+    198,
+    68,
+    10
+   ],
+   "text": "TIPO DE CARGA",
+   "baseline": 205
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#4CCB98",
+   "stroke": "#102820",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    156,
+    211,
+    58,
+    10
+   ],
+   "box": [
+    152,
+    211,
+    68,
+    10
+   ],
+   "text": "PIERNAS FAVORITAS",
+   "baseline": 218
+  },
+  {
+   "erase": "hfill",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#4CCB98",
+   "stroke": "#102820",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "center",
+   "erase_box": [
+    184,
+    186,
+    32,
+    9
+   ],
+   "box": [
+    182,
+    186,
+    40,
+    9
+   ],
+   "text": "NV. HABIL.",
+   "baseline": 192
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    34,
+    127,
+    26,
+    7
+   ],
+   "box": [
+    34,
+    127,
+    40,
+    7
+   ],
+   "text": "MEDALLA",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#404040",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "baseline": 133
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    39,
+    142,
+    21,
+    7
+   ],
+   "box": [
+    39,
+    142,
+    40,
+    7
+   ],
+   "text": "NOMBRE",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#BFBFBF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "baseline": 148
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    160,
+    134,
+    18,
+    9
+   ],
+   "box": [
+    160,
+    134,
+    18,
+    9
+   ],
+   "text": "NV.",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#000000",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "baseline": 142,
+   "dx": 2
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    43,
+    249,
+    13,
+    6
+   ],
+   "box": [
+    44,
+    248,
+    12,
+    7
+   ],
+   "text": "NV.",
+   "baseline": 255
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D6D6D6"
+   },
+   "stroke": "#000000",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "crisp": 0,
+   "valign": "middle",
+   "erase_box": [
+    77,
+    105,
+    98,
+    15
+   ],
+   "box": [
+    80,
+    105,
+    94,
+    14
+   ],
+   "text": "Pasar a MedaCambio",
+   "align": "left"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D6D6D6"
+   },
+   "stroke": "#000000",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "crisp": 0,
+   "valign": "middle",
+   "erase_box": [
+    194,
+    105,
+    44,
+    15
+   ],
+   "box": [
+    197,
+    105,
+    40,
+    14
+   ],
+   "text": "Girar",
+   "align": "left"
+  }
+ ]
+}

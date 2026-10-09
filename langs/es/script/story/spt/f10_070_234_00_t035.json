@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f10_070_234_00_t035.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "96cd662e4bd4",
+   "t": "¡Detente!"
+  },
+  {
+   "i": 1061,
+   "src": "ba6a7249a52f",
+   "t": "Tú fuiste quien me dijo que lo golpeara."
+  },
+  {
+   "i": 1067,
+   "src": "18c786b1515e",
+   "t": "Tú fuiste quien me dijo que lo golpeara."
+  },
+  {
+   "i": 1075,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1081,
+   "src": "97408092a5a1",
+   "t": "¡Nunca dije que lo hicieras solo!"
+  },
+  {
+   "i": 1107,
+   "src": "9697be04c44f",
+   "t": "Cállate."
+  },
+  {
+   "i": 1110,
+   "src": "c66a1fa80874",
+   "t": "Al único que obedezco es a-"
+  },
+  {
+   "i": 1116,
+   "src": "9f689353bd6a",
+   "t": "Silencio."
+  },
+  {
+   "i": 1119,
+   "src": "eefe3444f4ed",
+   "t": "Solo sirvo a un maestro-"
+  },
+  {
+   "i": 1141,
+   "src": "18373d655642",
+   "t": "¡Solo a mi {{master}}!"
+  },
+  {
+   "i": 1147,
+   "src": "510526feb7ff",
+   "t": "¡Solo a mi {{master}}!"
+  },
+  {
+   "i": 1155,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1166,
+   "src": "31a7bc713153",
+   "t": "¡¡{{metabee}}!!"
+  },
+  {
+   "i": 1172,
+   "src": "d7a4df25453a",
+   "t": "¡¡{{rokusho}}!!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m1d_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1035,
+   "src": "524c485972eb",
+   "t": "Sorry, I just can't right now."
+  },
+  {
+   "i": 1038,
+   "src": "2ce2ba02d52e",
+   "t": "Invite me again sometime~."
+  }
+ ]
+}

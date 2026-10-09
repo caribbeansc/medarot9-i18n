@@ -1,0 +1,225 @@
+{
+ "file": "story/spt/f11_220_958_00_t012.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1042,
+   "src": "7b629660cef2",
+   "t": "¿Suruga?"
+  },
+  {
+   "i": 1045,
+   "src": "0b7e24363d72",
+   "t": "Por qué estás aquí..."
+  },
+  {
+   "i": 1052,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1058,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1073,
+   "src": "74b7a3614c9d",
+   "t": "Todavía no entiendo"
+  },
+  {
+   "i": 1076,
+   "src": "240c5d7eb011",
+   "t": "qué es lo que intenta hacer."
+  },
+  {
+   "i": 1084,
+   "src": "117de321fa41",
+   "t": "Pero"
+  },
+  {
+   "i": 1092,
+   "src": "4f8810c430b8",
+   "t": "Para este momento, ha peleado solo"
+  },
+  {
+   "i": 1095,
+   "src": "183edd19d561",
+   "t": "todo este tiempo, ¿verdad?"
+  },
+  {
+   "i": 1103,
+   "src": "4a46eecc98f9",
+   "t": "Para resolver esta situación,"
+  },
+  {
+   "i": 1106,
+   "src": "9f10c6873d95",
+   "t": "¿es esa la única manera?"
+  },
+  {
+   "i": 1114,
+   "src": "2156662d00ed",
+   "t": "Si esa es su manera,"
+  },
+  {
+   "i": 1117,
+   "src": "6707c3b0d528",
+   "t": "entonces yo también--"
+  },
+  {
+   "i": 1132,
+   "src": "7547472a1fa0",
+   "t": "Seguiré a mi manera."
+  },
+  {
+   "i": 1139,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1145,
+   "src": "b200c2e91c6b",
+   "t": "¿Tu manera, eh...?"
+  },
+  {
+   "i": 1152,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1158,
+   "src": "c702dfeb28e9",
+   "t": "Yo solo sé obedecer órdenes."
+  },
+  {
+   "i": 1161,
+   "src": "2d11008c5b9c",
+   "t": "No conozco otra forma de vivir."
+  },
+  {
+   "i": 1169,
+   "src": "1b3a05a99057",
+   "t": "Si confío en quien manda, con gusto,"
+  },
+  {
+   "i": 1172,
+   "src": "cf21c0a23386",
+   "t": "y sin confiar, las cumplo igual."
+  },
+  {
+   "i": 1180,
+   "src": "48c295947f69",
+   "t": "Por eso, deme órdenes."
+  },
+  {
+   "i": 1183,
+   "src": "66a8699a962a",
+   "t": "¡Esta vez las cumpliré a la perfección!"
+  },
+  {
+   "i": 1198,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1206,
+   "src": "eac1e48997a0",
+   "t": "Hmph."
+  },
+  {
+   "i": 1209,
+   "src": "574d44eab2a5",
+   "t": "Sigues siendo el mismo raro."
+  },
+  {
+   "i": 1217,
+   "src": "09783e54c76d",
+   "t": "Muy bien, cumpliré tu deseo."
+  },
+  {
+   "i": 1220,
+   "src": "ba57815da499",
+   "t": "Detén a ese monstruo."
+  },
+  {
+   "i": 1227,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1233,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1246,
+   "src": "6c1708a9ea10",
+   "t": "¡Déjemelo a mí, {{principal|cap}}!"
+  },
+  {
+   "i": 1253,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1259,
+   "src": "f43964cfc4bc",
+   "t": "Recuerda, aunque lo derrotes, él"
+  },
+  {
+   "i": 1262,
+   "src": "a77df167eb7b",
+   "t": "se regenerará al instante. Solo retenlo."
+  },
+  {
+   "i": 1274,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1280,
+   "src": "342c20413c8f",
+   "t": "¡Sí!"
+  },
+  {
+   "i": 1287,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1293,
+   "src": "2fbb76c66ea1",
+   "t": "No te esfuerces de más--...No,"
+  },
+  {
+   "i": 1307,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1313,
+   "src": "dba55262eead",
+   "t": "¡Ahí viene!"
+  },
+  {
+   "i": 1316,
+   "src": "7fedff8b03eb",
+   "t": "¡Váyase!"
+  },
+  {
+   "i": 1330,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1336,
+   "src": "348404ffa2fa",
+   "t": "Te lo encargo."
+  }
+ ]
+}

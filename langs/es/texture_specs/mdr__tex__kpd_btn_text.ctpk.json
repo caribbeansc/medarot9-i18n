@@ -1,0 +1,57 @@
+{
+ "rel": "mdr/tex/kpd_btn_text.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "compact-rounded-heavy",
+  "cap": 9.5,
+  "fill": {
+   "top": "#FFFFFF",
+   "bottom": "#E2E2E2"
+  },
+  "stroke": "#755700",
+  "stroke_w": 1.2,
+  "shadow": {
+   "dx": 0,
+   "dy": 0,
+   "blur": 1.5,
+   "color": "#6B4F00",
+   "opacity": 0.35
+  },
+  "align": "center",
+  "valign": "middle",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    218,
+    0,
+    36,
+    16
+   ],
+   "erase_box": [
+    217,
+    0,
+    38,
+    16
+   ],
+   "text": "Kata"
+  },
+  {
+   "box": [
+    218,
+    16,
+    36,
+    16
+   ],
+   "erase_box": [
+    217,
+    16,
+    38,
+    17
+   ],
+   "text": "Hira"
+  }
+ ]
+}

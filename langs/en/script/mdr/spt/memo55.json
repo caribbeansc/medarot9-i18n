@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo55.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "276b38f27bc6",
+   "t": "'Observe:Tower Shaft'"
+  },
+  {
+   "i": 32,
+   "src": "1f02265da1ee",
+   "t": "Take data near the underground tunnels from the vertical shaft tower.\nThe tower is north of the academy. Go via the Sea of Mist.\n"
+  },
+  {
+   "i": 42,
+   "src": "d803b6aed197",
+   "t": "Northwest of the mist.We need to find a way out.\n"
+  },
+  {
+   "i": 52,
+   "src": "5d8c56f63bc5",
+   "t": "Through the old road, overgrown and hard to walk...\n"
+  },
+  {
+   "i": 62,
+   "src": "fae0bc417650",
+   "t": "Sent a {{flying}} medabot up the shaft tower,to look.\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 72,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

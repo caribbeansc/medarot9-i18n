@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f02_110_210_00_t005.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1049,
+   "src": "a7ecc9a89e31",
+   "t": "Still, it's not a bad result for a test."
+  },
+  {
+   "i": 1052,
+   "src": "fa20a2f3fc89",
+   "t": "I think it performed almost as expected."
+  },
+  {
+   "i": 1060,
+   "src": "2c8a8fdf1c0e",
+   "t": "So then,"
+  },
+  {
+   "i": 1063,
+   "src": "c583ec0abf16",
+   "t": "are the adjustments finished?"
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "9783fd95ec2f",
+   "t": "As far as Robattling goes."
+  },
+  {
+   "i": 1082,
+   "src": "8aa7caa60f61",
+   "t": "Next is the {{terrain}} test."
+  },
+  {
+   "i": 1085,
+   "src": "f3256d96549d",
+   "t": "I'll have to take it to a river or the sea."
+  },
+  {
+   "i": 1093,
+   "src": "a033e28a2aac",
+   "t": "But there's no time to go far..."
+  },
+  {
+   "i": 1096,
+   "src": "a1accdcd334a",
+   "t": "Well, tomorrow it is."
+  }
+ ]
+}

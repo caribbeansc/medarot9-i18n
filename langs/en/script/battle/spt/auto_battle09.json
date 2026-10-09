@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/auto_battle09.spt",
+ "lines": [
+  {
+   "i": 881,
+   "src": "4696ebf6d2db",
+   "t": "{{captain_oregano}}"
+  },
+  {
+   "i": 884,
+   "src": "630d17ded0da",
+   "t": "{{erica}}"
+  },
+  {
+   "i": 887,
+   "src": "3c7edee2c1de",
+   "t": "{{asad_arak}}"
+  },
+  {
+   "i": 1030,
+   "src": "c40e77954e91",
+   "t": "We can take him!\nThe {{select_corps}} never loses!"
+  },
+  {
+   "i": 1154,
+   "src": "3ebe302f67db",
+   "t": "Fire!!"
+  },
+  {
+   "i": 1318,
+   "src": "3ebe302f67db",
+   "t": "Fire!!"
+  },
+  {
+   "i": 1620,
+   "src": "42307b1ae598",
+   "t": "How's that?!"
+  },
+  {
+   "i": 1641,
+   "src": "bfd0d644841b",
+   "t": "...Ngh. Why?\nWhy aren't our attacks working?!"
+  },
+  {
+   "i": 1668,
+   "src": "48c6e6b2fd47",
+   "t": "As long as I have this black aura,\nyour attacks can't reach my body."
+  }
+ ]
+}

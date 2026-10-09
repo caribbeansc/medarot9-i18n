@@ -1,0 +1,35 @@
+{
+ "rel": "mdr/tex/win_item_9.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    173,
+    37,
+    49,
+    13
+   ],
+   "erase_box": [
+    177,
+    36,
+    44,
+    15
+   ],
+   "erase": "solid:#00604A80",
+   "text": "OBTENIDO!",
+   "font": "din",
+   "cap": 10,
+   "fill": "#50F1A0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.5,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#1480A0",
+    "blur": 1.2,
+    "opacity": 0.6
+   }
+  }
+ ]
+}

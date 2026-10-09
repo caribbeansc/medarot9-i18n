@@ -1,0 +1,190 @@
+{
+ "file": "story/spt/f04_050_131_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "06f289a72ab0",
+   "t": "Hi, sorry to keep you waiting."
+  },
+  {
+   "i": 1055,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1064,
+   "src": "c9eee7ddcd0d",
+   "t": "I wasn't waiting."
+  },
+  {
+   "i": 1078,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1087,
+   "src": "19255e84637d",
+   "t": "What a splendid ring, though."
+  },
+  {
+   "i": 1090,
+   "src": "606fc3367393",
+   "t": "It became an official venue this year,\nright?"
+  },
+  {
+   "i": 1105,
+   "src": "a4fea0c26ee1",
+   "t": "Robattling in a place like this"
+  },
+  {
+   "i": 1108,
+   "src": "c6f6ba43ac90",
+   "t": "makes me nervous, ha ha ha."
+  },
+  {
+   "i": 1115,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1124,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1132,
+   "src": "8e23c3ff268e",
+   "t": "You're awfully relaxed. I thought"
+  },
+  {
+   "i": 1135,
+   "src": "6e2c4bc1eda2",
+   "t": "you'd show at least a little\ndetermination."
+  },
+  {
+   "i": 1142,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1151,
+   "src": "4e64ca08a54c",
+   "t": "Not true, we've changed!"
+  },
+  {
+   "i": 1154,
+   "src": "acdd67446c47",
+   "t": "We're totally fired up to win it all!"
+  },
+  {
+   "i": 1161,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1170,
+   "src": "7030fa359881",
+   "t": "Then I can rest easy."
+  },
+  {
+   "i": 1178,
+   "src": "397f834313ae",
+   "t": "Because there is no other"
+  },
+  {
+   "i": 1181,
+   "src": "f701cfd17dc5",
+   "t": "way for you to survive."
+  },
+  {
+   "i": 1196,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1207,
+   "src": "fed537c5ae87",
+   "t": "Hm?"
+  },
+  {
+   "i": 1232,
+   "src": "c71e5f3ddd3f",
+   "t": "W-what on earth is that--"
+  },
+  {
+   "i": 1248,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1259,
+   "src": "afe8f8631dd6",
+   "t": "What's going on?"
+  },
+  {
+   "i": 1266,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1272,
+   "src": "601d47166b5f",
+   "t": "Requests to start new clubs"
+  },
+  {
+   "i": 1275,
+   "src": "5424dd7e55a6",
+   "t": "keep increasing."
+  },
+  {
+   "i": 1283,
+   "src": "8d9c5ae9ff0d",
+   "t": "But there are no spare clubrooms now."
+  },
+  {
+   "i": 1286,
+   "src": "80b17dbb0ebf",
+   "t": "We must shut down a {{club}} to free one."
+  },
+  {
+   "i": 1294,
+   "src": "1b448cd9f46a",
+   "t": "The {{exploration_club}} scored 0 this term."
+  },
+  {
+   "i": 1297,
+   "src": "d5ee86166564",
+   "t": "That's dead last among all clubs, by far."
+  },
+  {
+   "i": 1305,
+   "src": "f842254dcc66",
+   "t": "Naturally, the top candidate for closure."
+  },
+  {
+   "i": 1308,
+   "src": "3e0bbbe26e8f",
+   "t": "To avoid that, you need a big result."
+  },
+  {
+   "i": 1316,
+   "src": "e0831c28b539",
+   "t": "That means winning the tournament."
+  },
+  {
+   "i": 1319,
+   "src": "cbcfae11b3a0",
+   "t": "If you miss it, closure is certain."
+  },
+  {
+   "i": 1339,
+   "src": "20e87ef3a356",
+   "t": "Whaaat?!"
+  }
+ ]
+}

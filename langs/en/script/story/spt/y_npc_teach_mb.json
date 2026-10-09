@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_mb.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "5c970240c8e3",
+   "t": "{{mr_saito}}"
+  },
+  {
+   "i": 1653,
+   "src": "0cdc7a24e4c1",
+   "t": "Oh ho, with me?"
+  },
+  {
+   "i": 1656,
+   "src": "3f9b8ad181d8",
+   "t": "Why not for once. All right, let's do it!"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f09_060_230_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1038,
+   "src": "f80ca7542701",
+   "t": "Por fin, saliste."
+  },
+  {
+   "i": 1052,
+   "src": "9bfd9f7e00f2",
+   "t": "Qui--"
+  },
+  {
+   "i": 1060,
+   "src": "addc11e995c5",
+   "t": "¿¡Quién diablos eres tú!?"
+  },
+  {
+   "i": 1063,
+   "src": "48ba11ccc45e",
+   "t": "Cómo sabes mi nombre..."
+  },
+  {
+   "i": 1068,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1077,
+   "src": "489f9ade9077",
+   "t": "¿Sigues diciendo eso, tontito?"
+  },
+  {
+   "i": 1080,
+   "src": "4d961dd292ac",
+   "t": "Je je je... {{robo|cap}}."
+  }
+ ]
+}

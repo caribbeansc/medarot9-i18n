@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2e_meda_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e5d5c2111d8c",
+   "t": "{{banisher}}"
+  },
+  {
+   "i": 1038,
+   "src": "0cb381e0d6bc",
+   "t": "I like field training."
+  },
+  {
+   "i": 1041,
+   "src": "4eca885874f9",
+   "t": "It's fun, like a field trip."
+  }
+ ]
+}

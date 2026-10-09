@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f10_035_101_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "dfb11eed7a30",
+   "t": "Well."
+  },
+  {
+   "i": 1046,
+   "src": "defefdace907",
+   "t": "What do we do now?"
+  },
+  {
+   "i": 1054,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1060,
+   "src": "281d6a569521",
+   "t": "Yeah, so much has happened"
+  },
+  {
+   "i": 1063,
+   "src": "0536cb7795e0",
+   "t": "that I'm worn out..."
+  },
+  {
+   "i": 1073,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1082,
+   "src": "52d7a85951d8",
+   "t": "Way too much has happened!"
+  },
+  {
+   "i": 1085,
+   "src": "25a811e6e072",
+   "t": "I just want a bath and some rest already."
+  },
+  {
+   "i": 1095,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1104,
+   "src": "2b9c0a4877c0",
+   "t": "Now, now, but before that, could you all\ngather"
+  },
+  {
+   "i": 1107,
+   "src": "c2bee7e24f8c",
+   "t": "in the {{clubroom}} for a moment?"
+  },
+  {
+   "i": 1115,
+   "src": "24846af1ac42",
+   "t": "I want to sort out what happened today."
+  },
+  {
+   "i": 1118,
+   "src": "9129b43e4533",
+   "t": "It'll be quick, I promise~."
+  },
+  {
+   "i": 1125,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1134,
+   "src": "929252ee30f1",
+   "t": "...Fine."
+  }
+ ]
+}

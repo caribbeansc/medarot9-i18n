@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_19.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5a29d230ccb8",
+   "t": "<c:00ff00>{{mf}}:<c>Relámpago\nAtaque cuerpo a cuerpo\nque detiene un tiempo las\nacciones de todo el\nequipo {{opponent}}.\n<c:00ffff>{{part|pl|cap}} requeridas<c>\nUna o más {{part|pl}} de\nlucha"
+  }
+ ]
+}

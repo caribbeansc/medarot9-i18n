@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f01_010_120_05_t001.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1042,
+   "src": "feabb334bb5a",
+   "t": "What about it?"
+  },
+  {
+   "i": 1053,
+   "src": "4edf4a22891d",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1058,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1067,
+   "src": "e2b9dcf0ae9d",
+   "t": "Is there some problem"
+  },
+  {
+   "i": 1070,
+   "src": "3a9168a3ea53",
+   "t": "with me being a third-year?"
+  },
+  {
+   "i": 1088,
+   "src": "03f2d50a48bc",
+   "t": "N-no, not at all!"
+  },
+  {
+   "i": 1096,
+   "src": "c96a552d6eca",
+   "t": "I just"
+  },
+  {
+   "i": 1104,
+   "src": "e4616ff8a160",
+   "t": "wanted to ask..."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_180_953_00_t012.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1049,
+   "src": "f5ddec1d49c1",
+   "t": "¡¡Kyaaa!!"
+  },
+  {
+   "i": 1056,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1065,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1073,
+   "src": "2fdcbe63129d",
+   "t": "¿A qué grupo pertenecen?"
+  }
+ ]
+}

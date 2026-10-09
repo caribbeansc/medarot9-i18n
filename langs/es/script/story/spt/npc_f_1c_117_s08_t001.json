@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1c_117_s08_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "bb606185beb2",
+   "t": "¡Últimamente todos están obsesionados\ncon las {{medalia|pl}}!"
+  },
+  {
+   "i": 1046,
+   "src": "cdea497269a7",
+   "t": "Hacen demasiado escándalo."
+  },
+  {
+   "i": 1049,
+   "src": "f01a640b9ddf",
+   "t": "Hay cosas más importantes que eso."
+  },
+  {
+   "i": 1057,
+   "src": "0b1c1886ad12",
+   "t": "¡Como el amor, por ejemplo!"
+  }
+ ]
+}

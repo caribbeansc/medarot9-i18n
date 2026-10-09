@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3a_meda_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "8b3dd2004e2b",
+   "t": "{{windclap}}"
+  },
+  {
+   "i": 1038,
+   "src": "84540aea5921",
+   "t": "Oye, ¿sabías qué? Hay un cráter"
+  },
+  {
+   "i": 1041,
+   "src": "d9d42aacf46d",
+   "t": "enorme en el centro de esta isla."
+  },
+  {
+   "i": 1049,
+   "src": "53d6204642c6",
+   "t": "No es mentira, se ve claro desde el aire."
+  },
+  {
+   "i": 1052,
+   "src": "48ca02fe59e1",
+   "t": "Está en plena montaña, a pie es difícil."
+  }
+ ]
+}

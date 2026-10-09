@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/memo7.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "a8893e6db268",
+   "t": "Let's go see {{stella}} in the idol {{club}}."
+  },
+  {
+   "i": 32,
+   "src": "05335bc4a4ed",
+   "t": "2 {{club|cap}} President and {{chiffon}}\n"
+  }
+ ]
+}

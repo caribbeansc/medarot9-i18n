@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_teach_fb_108_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1038,
+   "src": "d84e6c6aec3c",
+   "t": "I think I should tell you all about this"
+  },
+  {
+   "i": 1041,
+   "src": "872324ae8849",
+   "t": "properly..."
+  },
+  {
+   "i": 1049,
+   "src": "df380eaf36a7",
+   "t": "As you know, the {{principal|cap}}'s body is\nmostly artificial."
+  },
+  {
+   "i": 1052,
+   "src": "0bce1093dc41",
+   "t": "It was caused by an old accident, but I\ndon't know more than that."
+  },
+  {
+   "i": 1060,
+   "src": "d3bb694c8f6e",
+   "t": "\"Cyborg\" may sound strong to you, but"
+  },
+  {
+   "i": 1063,
+   "src": "9b366fc04345",
+   "t": "the reality is quite the opposite."
+  },
+  {
+   "i": 1071,
+   "src": "d2b4fa175a1b",
+   "t": "A mechanical body is very delicate, and\njust keeping him alive is all he can\nmanage."
+  },
+  {
+   "i": 1074,
+   "src": "f82e42263b23",
+   "t": "What I'm trying to say is, in short--"
+  },
+  {
+   "i": 1082,
+   "src": "002c254a5d2d",
+   "t": "I understand that things are tough right\nnow, but"
+  },
+  {
+   "i": 1085,
+   "src": "098516b3c491",
+   "t": "please don't let the {{principal|cap}} overdo it\nany more."
+  },
+  {
+   "i": 1093,
+   "src": "c03f41f80b78",
+   "t": "Otherwise, it could become irreversible."
+  },
+  {
+   "i": 1096,
+   "src": "07b3b1b6c8b7",
+   "t": "You understand?"
+  }
+ ]
+}

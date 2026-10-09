@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1b_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "ed64a828d8dc",
+   "t": "Ey "
+  },
+  {
+   "i": 1040,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1043,
+   "src": "5e8c33f39675",
+   "t": "Por fin llegó el {{culture_festival}}."
+  },
+  {
+   "i": 1051,
+   "src": "cf58078927ca",
+   "t": "¿Lo mío? ¡Una casa embrujada!"
+  },
+  {
+   "i": 1054,
+   "src": "d4299dd46aea",
+   "t": "El año pasado fue un éxito."
+  },
+  {
+   "i": 1062,
+   "src": "d26161815607",
+   "t": "Yo asusto a la gente."
+  },
+  {
+   "i": 1065,
+   "src": "e63da19cf856",
+   "t": "Pienso de qué disfrazarme."
+  }
+ ]
+}

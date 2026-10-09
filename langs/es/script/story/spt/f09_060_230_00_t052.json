@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_060_230_00_t052.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1035,
+   "src": "18a37d8e3f1a",
+   "t": "¿Esto es una puerta?"
+  },
+  {
+   "i": 1038,
+   "src": "0499e869105d",
+   "t": "Es un montaje bastante imponente."
+  },
+  {
+   "i": 1045,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1054,
+   "src": "822877f33d2a",
+   "t": "La entrada a la {{mine}} sellada..."
+  },
+  {
+   "i": 1057,
+   "src": "b56cb57c6220",
+   "t": "Esto me emociona."
+  }
+ ]
+}

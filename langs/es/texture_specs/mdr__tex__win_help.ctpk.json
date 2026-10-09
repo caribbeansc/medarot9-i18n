@@ -1,0 +1,49 @@
+{
+ "rel": "mdr/tex/win_help.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0
+ },
+ "items": [
+  {
+   "erase_box": [
+    88,
+    200,
+    24,
+    8
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    22,
+    201,
+    64,
+    14
+   ],
+   "erase_box": [
+    16,
+    200,
+    72,
+    16
+   ],
+   "sample_box": [
+    16,
+    200,
+    72,
+    16
+   ],
+   "font": "sf-rounded",
+   "cap": 8.5,
+   "baseline": 211,
+   "fill": "#FFFFFF",
+   "stroke": "#000000D0",
+   "stroke_w": 1.5,
+   "align": "left",
+   "crisp": 0.4,
+   "text": "Reproducir"
+  }
+ ]
+}

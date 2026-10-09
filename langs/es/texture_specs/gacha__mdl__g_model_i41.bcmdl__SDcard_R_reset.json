@@ -1,0 +1,43 @@
+{
+ "rel": "gacha/mdl/g_model_i41.bcmdl",
+ "tex": "SDcard_R_reset",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "pad": 0,
+  "crisp": 0
+ },
+ "items": [
+  {
+   "erase_box": [
+    18,
+    64,
+    46,
+    18
+   ],
+   "erase": "vfill",
+   "text": ""
+  },
+  {
+   "box": [
+    17,
+    66,
+    47,
+    16
+   ],
+   "text": "REINICIAR",
+   "font": "sf-cond-heavy",
+   "cap": 9.5,
+   "baseline": 79,
+   "tracking": 0,
+   "min_scale_x": 0.8,
+   "fill": {
+    "top": "#F2F2F2",
+    "bottom": "#9DAEAE"
+   },
+   "stroke": "#000000",
+   "stroke_w": 1.2
+  }
+ ]
+}

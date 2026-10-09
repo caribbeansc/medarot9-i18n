@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_seitokai_ma_102_s09_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1038,
+   "src": "36f2a4bdbca7",
+   "t": "Sorry, sorry, I think you've already\nheard, but..."
+  },
+  {
+   "i": 1046,
+   "src": "e04b792a4d34",
+   "t": "Here, from the {{janitor}}."
+  },
+  {
+   "i": 1049,
+   "src": "bc76523bfa1a",
+   "t": "Has it arrived already?"
+  },
+  {
+   "i": 1054,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1060,
+   "src": "d8dbffd7aabb",
+   "t": "Yeah, just a moment ago."
+  },
+  {
+   "i": 1063,
+   "src": "5048fbe1cd3a",
+   "t": "Sorry for making you go all that way for\nnothing."
+  },
+  {
+   "i": 1071,
+   "src": "f571556e1123",
+   "t": "It's no problem."
+  },
+  {
+   "i": 1074,
+   "src": "9074067cbe49",
+   "t": "More importantly, is there anything else\nI can do next?"
+  },
+  {
+   "i": 1079,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1085,
+   "src": "800d375b0c72",
+   "t": "No, it's fine, you must be tired from just\ngetting back."
+  },
+  {
+   "i": 1088,
+   "src": "5f19c8b1ae04",
+   "t": "Rest until the President and the others\nreturn."
+  },
+  {
+   "i": 1096,
+   "src": "3faaf0da07c8",
+   "t": "Understood."
+  }
+ ]
+}

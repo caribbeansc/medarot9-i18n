@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f09_060_230_00_t057.spt",
+ "lines": [
+  {
+   "i": 1057,
+   "src": "f31735c184c4",
+   "t": "No te acerques... a esa puerta..."
+  },
+  {
+   "i": 1064,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1070,
+   "src": "6b117e8216ad",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1073,
+   "src": "c9a9e7c1e64d",
+   "t": "¿Qué estás diciendo, {{robo}}?"
+  },
+  {
+   "i": 1097,
+   "src": "0fdd0f09e41f",
+   "t": "C-cualquiera que se acerque--"
+  },
+  {
+   "i": 1100,
+   "src": "265d15f0ab0d",
+   "t": "Quienquiera que sea--"
+  },
+  {
+   "i": 1116,
+   "src": "f7b9512baa78",
+   "t": "Hasta el fin del mundo--"
+  },
+  {
+   "i": 1119,
+   "src": "83cf4b5b1452",
+   "t": "Los perseguiré--"
+  },
+  {
+   "i": 1140,
+   "src": "e216ae71a72f",
+   "t": "Perseguiré--"
+  },
+  {
+   "i": 1143,
+   "src": "51cb62c8570c",
+   "t": "Perseguir--"
+  },
+  {
+   "i": 1149,
+   "src": "cc27adb6e8ee",
+   "t": "Perseguiré--"
+  },
+  {
+   "i": 1152,
+   "src": "840ab0ee28d7",
+   "t": "Persegu--"
+  },
+  {
+   "i": 1174,
+   "src": "acff87fb044e",
+   "t": "Yo los--"
+  },
+  {
+   "i": 1180,
+   "src": "b0fe7f274400",
+   "t": "Yo los--"
+  }
+ ]
+}

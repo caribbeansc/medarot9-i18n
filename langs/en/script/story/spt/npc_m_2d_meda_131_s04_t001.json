@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2d_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1ce5eeedd649",
+   "t": "HellPhoenix"
+  },
+  {
+   "i": 1038,
+   "src": "2e3325cc8a2c",
+   "t": "The time has finally come to use that\nmove."
+  },
+  {
+   "i": 1041,
+   "src": "d128a08a91ee",
+   "t": "My heart is pounding."
+  }
+ ]
+}

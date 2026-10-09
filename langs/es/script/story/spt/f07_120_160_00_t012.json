@@ -1,0 +1,215 @@
+{
+ "file": "story/spt/f07_120_160_00_t012.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "54906cb2fbdd",
+   "t": "{{ryusei}}..."
+  },
+  {
+   "i": 1052,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1058,
+   "src": "38a679272d2f",
+   "t": "Oye, ¿qué haces relajándote en este"
+  },
+  {
+   "i": 1061,
+   "src": "a9cd0c274930",
+   "t": "rincón durante el festival cultural?"
+  },
+  {
+   "i": 1069,
+   "src": "fe46cca64783",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1072,
+   "src": "a1b08a9eccc9",
+   "t": "¿¡Es el puesto del {{exploration_club}}!?"
+  },
+  {
+   "i": 1080,
+   "src": "3a5cbd11dcaa",
+   "t": "¡Aquí no hay nada!"
+  },
+  {
+   "i": 1083,
+   "src": "13cd1894dbed",
+   "t": "¡Qué cutre!"
+  },
+  {
+   "i": 1098,
+   "src": "8eb62d3f6407",
+   "t": "Qué actuación más falsa..."
+  },
+  {
+   "i": 1101,
+   "src": "33c61005a247",
+   "t": "Si no tienes nada que hacer, lárgate."
+  },
+  {
+   "i": 1106,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1112,
+   "src": "1eb26001bb08",
+   "t": "No seas tan frío."
+  },
+  {
+   "i": 1115,
+   "src": "8642e0b91b07",
+   "t": "Al menos dime qué están haciendo."
+  },
+  {
+   "i": 1123,
+   "src": "0d578cf8a70c",
+   "t": "¿Una sala de descanso?"
+  },
+  {
+   "i": 1126,
+   "src": "06ba122b5462",
+   "t": "¿O un muestrario de holgazanes?"
+  },
+  {
+   "i": 1134,
+   "src": "f2e6238a0c39",
+   "t": "...Es tiro al blanco."
+  },
+  {
+   "i": 1139,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1145,
+   "src": "7498d1e46398",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1153,
+   "src": "a7412e08b8b0",
+   "t": "¡Dispara a los objetivos y si tumbas más"
+  },
+  {
+   "i": 1156,
+   "src": "cd3ab8cbf128",
+   "t": "que nosotros, te damos una {{app}} útil!"
+  },
+  {
+   "i": 1161,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1167,
+   "src": "5e6f739c6d6a",
+   "t": "Una {{app}} útil..."
+  },
+  {
+   "i": 1170,
+   "src": "cb82dd17e6c0",
+   "t": "¡No la necesito!"
+  },
+  {
+   "i": 1178,
+   "src": "e52ed09e8d1f",
+   "t": "Entonces déjanos en paz."
+  },
+  {
+   "i": 1183,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1189,
+   "src": "b27d05932a51",
+   "t": "Pero me gusta el reto. Tengo que"
+  },
+  {
+   "i": 1192,
+   "src": "8c65b2178ba2",
+   "t": "saldar la deuda que tengo de la otra vez."
+  },
+  {
+   "i": 1200,
+   "src": "76ea1442caaa",
+   "t": "¿Otra vez? Bueno, da igual. Esto es"
+  },
+  {
+   "i": 1203,
+   "src": "55ab57e2f8b2",
+   "t": "solo un juego, no una {{robattle}}-"
+  },
+  {
+   "i": 1211,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1217,
+   "src": "f08bd1ef812d",
+   "t": "Oye, oye "
+  },
+  {
+   "i": 1219,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1230,
+   "src": "2f526da01f0e",
+   "t": "Presidente."
+  },
+  {
+   "i": 1235,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1241,
+   "src": "c4bccce42d1f",
+   "t": "No debes ser grosero con los clientes."
+  },
+  {
+   "i": 1244,
+   "src": "f240f3d5f18a",
+   "t": "Hay que atenderlos con gusto."
+  },
+  {
+   "i": 1252,
+   "src": "24bdfd47510e",
+   "t": "Suspiro..."
+  },
+  {
+   "i": 1260,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1266,
+   "src": "f0ab4e9fe5c7",
+   "t": "Je. Como era de esperar del presidente,"
+  },
+  {
+   "i": 1269,
+   "src": "c899b9300b4b",
+   "t": "más comprensivo que cierta gente."
+  },
+  {
+   "i": 1276,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1282,
+   "src": "d19401565d7c",
+   "t": "Sí... De acuerdo."
+  }
+ ]
+}

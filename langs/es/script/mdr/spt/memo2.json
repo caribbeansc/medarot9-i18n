@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/memo2.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "bb46daea7019",
+   "t": "Hablemos con los compañeros de clase."
+  },
+  {
+   "i": 32,
+   "src": "ead42bb4c716",
+   "t": "1 Primera vez en el {{classroom}}\n"
+  }
+ ]
+}

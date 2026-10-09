@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f09_240_800_00_t022.spt",
+ "lines": [
+  {
+   "i": 1043,
+   "src": "f3072e60ec37",
+   "t": "¿¡Estás bien!?"
+  },
+  {
+   "i": 1046,
+   "src": "4b8989826a2a",
+   "t": "¿¡De verdad estás bien!?"
+  },
+  {
+   "i": 1054,
+   "src": "0bfcba2a88e9",
+   "t": "¡Ah, totalmente!"
+  },
+  {
+   "i": 1058,
+   "src": "2d081c10e77f",
+   "t": ", ¡¿qué haces aquí?!"
+  },
+  {
+   "i": 1077,
+   "src": "6ccd46741dc4",
+   "t": "¡No lo sé!"
+  },
+  {
+   "i": 1080,
+   "src": "3ad9de992da4",
+   "t": "¡Pero por fin he empezado a entender!"
+  },
+  {
+   "i": 1088,
+   "src": "1d5f3886699a",
+   "t": "¡Ah, qué bien! ¡No entiendo muy bien"
+  },
+  {
+   "i": 1091,
+   "src": "5c7c2f20efbc",
+   "t": "por qué, pero me alegro!"
+  },
+  {
+   "i": 1099,
+   "src": "c33780b31fca",
+   "t": "¡Creí que no volvería a verte!"
+  },
+  {
+   "i": 1102,
+   "src": "41fa161c13e7",
+   "t": "Jaja..."
+  },
+  {
+   "i": 1121,
+   "src": "7d84a2b48add",
+   "t": "¡Wajajajaja!"
+  },
+  {
+   "i": 1129,
+   "src": "673e7a6264d8",
+   "t": "¡Jajajajaja!"
+  },
+  {
+   "i": 1134,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1140,
+   "src": "57f6fd36799e",
+   "t": "Hmph."
+  }
+ ]
+}

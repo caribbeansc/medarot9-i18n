@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_28.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "3c65f74ed357",
+   "t": "<c:00ff00>{{mf}}:<c>{{high_mobility}}\n{{up|cap}} bastante la {{mobility}}\nde todo tu equipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_meda_161_s07_t031.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "76c1ff014138",
+   "t": "I'm glad we found the {{part|pl}}."
+  },
+  {
+   "i": 1038,
+   "src": "6a509e3fa78c",
+   "t": "{{flora}} will be so happy."
+  }
+ ]
+}

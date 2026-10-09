@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_2a_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "0c1b2617d82e",
+   "t": "Have you been outside the school yet?"
+  },
+  {
+   "i": 1041,
+   "src": "61d69a9c368a",
+   "t": "There's a really beautiful beach nearby."
+  },
+  {
+   "i": 1049,
+   "src": "b73fff5935df",
+   "t": "I wish summer would hurry up and\ncome!"
+  }
+ ]
+}

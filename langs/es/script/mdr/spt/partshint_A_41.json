@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_41.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "785f0e3c89c8",
+   "t": "<c:00ff00>{{mf}}:<c>{{float}}\nEl tipo de patas de todo tu\nequipo pasa a ser tipo\n{{hover}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

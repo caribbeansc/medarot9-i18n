@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_0.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "34f014ce4f66",
+   "t": "<c:00ff00>{{mf}}:<c> Tyrant\nAgainst 1 {{enemy}}, you\npress the attack with all\nattack {{part|pl}}.\n<c:00ffff>{{required_parts}}<c> Two or\nmore attack {{part|pl}}"
+  }
+ ]
+}

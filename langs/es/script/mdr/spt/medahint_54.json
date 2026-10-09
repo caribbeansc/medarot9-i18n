@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_54.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a947db776001",
+   "t": "{{medabot}} {{type}} pingüino con\nuna debilidad por la\npajarita.\n \nTiene la valiosa capacidad\nde {{restore}} una {{part}} de\n{{ally_battle_term}} que haya sido\ndestruida una vez."
+  }
+ ]
+}

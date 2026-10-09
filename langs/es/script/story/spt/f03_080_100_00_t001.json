@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f03_080_100_00_t001.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1047,
+   "src": "ed64a828d8dc",
+   "t": "¡Oye "
+  },
+  {
+   "i": 1049,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1052,
+   "src": "a8322aa7202e",
+   "t": "¿Dónde estabas? ¿Saliste a pasear?"
+  },
+  {
+   "i": 1067,
+   "src": "d42c1f60c33d",
+   "t": "Qué bien el {{club|cap}} Despreocupado."
+  },
+  {
+   "i": 1070,
+   "src": "7a0ec1f55ac2",
+   "t": "Tan tranquilos."
+  },
+  {
+   "i": 1081,
+   "src": "54906cb2fbdd",
+   "t": "{{ryusei}}..."
+  },
+  {
+   "i": 1089,
+   "src": "bd30dcaf9159",
+   "t": "¿Y tú qué rayos haces aquí?"
+  },
+  {
+   "i": 1094,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1100,
+   "src": "20e54be56341",
+   "t": "¿No te das cuenta con solo mirar?"
+  },
+  {
+   "i": 1103,
+   "src": "d1b998a34361",
+   "t": "Vamos a entrenamiento de campo."
+  },
+  {
+   "i": 1111,
+   "src": "420d8dc8de45",
+   "t": "¡Hoy iremos hasta el {{outer_rim}}\ny de vuelta!"
+  },
+  {
+   "i": 1119,
+   "src": "3931b285e394",
+   "t": "¿El {{outer_rim}}...?"
+  },
+  {
+   "i": 1124,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1130,
+   "src": "1d67768681a4",
+   "t": "¿No lo conoces?"
+  },
+  {
+   "i": 1138,
+   "src": "858d3a02d471",
+   "t": "¡Ni sabes los nombres de los lugares!"
+  },
+  {
+   "i": 1141,
+   "src": "2893dbccd7e0",
+   "t": "¿Qué actividades hacen ustedes?"
+  },
+  {
+   "i": 1149,
+   "src": "069b8afcc85d",
+   "t": "{{exploration_club}}... ¿era?"
+  },
+  {
+   "i": 1164,
+   "src": "8c413a730782",
+   "t": "¿Quizá deberías cambiarle el nombre?"
+  },
+  {
+   "i": 1167,
+   "src": "4ba87908e0c3",
+   "t": "A algo como el Club de Paseos."
+  },
+  {
+   "i": 1175,
+   "src": "998a25fcffad",
+   "t": "¡¿Qué dijiste?!"
+  }
+ ]
+}

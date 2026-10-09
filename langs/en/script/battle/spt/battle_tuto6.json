@@ -1,0 +1,65 @@
+{
+ "file": "battle/spt/battle_tuto6.spt",
+ "lines": [
+  {
+   "i": 1144,
+   "src": "03f8b3934122",
+   "t": "{{melt}} deals 10 {{damage}}\nto every {{part}}'s armor!"
+  },
+  {
+   "i": 1177,
+   "src": "1bb0b5b9c68d",
+   "t": "{{repair_plant}} restores\nevery {{part}}'s armor!"
+  },
+  {
+   "i": 1210,
+   "src": "6a34eb989750",
+   "t": "{{leg_trait|cap}} activated!"
+  },
+  {
+   "i": 1240,
+   "src": "c86a76021a03",
+   "t": " ends its {{guard_stance|cap}}!"
+  },
+  {
+   "i": 1275,
+   "src": "f908f403053e",
+   "t": "{{fire}} deals 10 {{damage}}\nto every {{part}}'s armor!"
+  },
+  {
+   "i": 1309,
+   "src": "00dd8c1bfaab",
+   "t": "{{continued_fix}} restores\nevery {{part}}'s armor!"
+  },
+  {
+   "i": 1499,
+   "src": "03f8b3934122",
+   "t": "{{melt}} deals 10 {{damage}}\nto every {{part}}'s armor!"
+  },
+  {
+   "i": 1780,
+   "src": "f908f403053e",
+   "t": "{{fire}} deals 10 {{damage}}\nto every {{part}}'s armor!"
+  },
+  {
+   "i": 1813,
+   "src": "00dd8c1bfaab",
+   "t": "{{continued_fix}} restores\nevery {{part}}'s armor!"
+  },
+  {
+   "i": 1846,
+   "src": "c86a76021a03",
+   "t": " ends its {{guard_stance|cap}}!"
+  },
+  {
+   "i": 2682,
+   "src": "7a88cf80e09f",
+   "t": "Waiting for the {{opponent}}'s input"
+  },
+  {
+   "i": 2923,
+   "src": "7a88cf80e09f",
+   "t": "Waiting for the {{opponent}}'s input"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1c_meda_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7a441a7cc7bf",
+   "t": "{{seitei_king}}"
+  },
+  {
+   "i": 1038,
+   "src": "5c33be67cc75",
+   "t": "Regar es mi trabajo. En los"
+  },
+  {
+   "i": 1041,
+   "src": "33debc33f35a",
+   "t": "momentos duros y tristes, la la la la~n"
+  }
+ ]
+}

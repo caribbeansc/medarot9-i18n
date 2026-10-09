@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description119.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f3ec3d86df59",
+   "t": "Subhabilidad"
+  },
+  {
+   "i": 11,
+   "src": "28e2f8c1e50c",
+   "t": "Modo de uso secundario que tienen ciertas <c:ffff00>{{part|pl}}<c>.\nAl elegir el comando puedes activarlo a voluntad\npara cambiar el {{effect}} de la <c:ffff00>técnica<c>.\n\nHay 5 tipos: <c:ffff00>arremetida<c>, <c:ffff00>puntería<c>, <c:ffff00>fuego cruzado<c>,\n<c:ffff00>antiaéreo<c> y <c:ffff00>antimar<c>."
+  }
+ ]
+}

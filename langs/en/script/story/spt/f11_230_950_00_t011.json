@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f11_230_950_00_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "bc6b756b3b30",
+   "t": "*The {{exploration_club}} and the {{principal|cap}}\nare at the school gate."
+  },
+  {
+   "i": 1011,
+   "src": "e29ec885e0b0",
+   "t": "*Does the {{medal_eater}} awaken?"
+  }
+ ]
+}

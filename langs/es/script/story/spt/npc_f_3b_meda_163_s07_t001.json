@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3b_meda_163_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "48d28919cf40",
+   "t": "{{lovelydog}}"
+  },
+  {
+   "i": 1038,
+   "src": "7a0c573064df",
+   "t": "Me cuesta decidir las {{part|pl}} para"
+  },
+  {
+   "i": 1041,
+   "src": "51cd60bcccd1",
+   "t": "el festival porque todo le queda bien."
+  }
+ ]
+}

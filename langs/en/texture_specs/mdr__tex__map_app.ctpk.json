@@ -1,0 +1,97 @@
+{
+ "rel": "mdr/tex/map_app.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    96,
+    24
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    3,
+    2,
+    90,
+    19
+   ],
+   "erase": "none",
+   "text": "Town Map",
+   "font": "sf-cond",
+   "cap": 10.5,
+   "fill": "auto-grad",
+   "stroke": "#F75201A0",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#F75201",
+    "blur": 3.5,
+    "opacity": 1
+   },
+   "baseline": 16,
+   "wght": 600
+  },
+  {
+   "segments": [
+    [
+     0,
+     25,
+     128,
+     19,
+     0,
+     0
+    ],
+    [
+     0,
+     45,
+     43,
+     19,
+     128,
+     0
+    ]
+   ],
+   "erase": "transparent",
+   "box": [
+    0,
+    5,
+    171,
+    14
+   ],
+   "text": "Choose where to go.",
+   "font": "hiragino",
+   "cap": 9.5,
+   "pad": 0,
+   "fill": "#FFFFFF",
+   "stroke": "#D6E3E1AA",
+   "stroke_w": 0.6,
+   "crisp": 0.3,
+   "align": "center"
+  },
+  {
+   "box": [
+    96,
+    0,
+    32,
+    25
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    24,
+    128,
+    1
+   ],
+   "erase": "transparent",
+   "text": ""
+  }
+ ]
+}

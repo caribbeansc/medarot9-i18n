@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_15.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1a74bccb2dd1",
+   "t": "{{medabot}} {{type}} dogu, figura\nde arcilla de aspecto\nadorable.\n \nBajo su sólido {{armor}}\nlleva equipo especial que\nanula las armas de\n{{explosive}},\nópticas y de {{gravity}}."
+  }
+ ]
+}

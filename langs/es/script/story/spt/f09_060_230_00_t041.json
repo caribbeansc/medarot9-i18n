@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f09_060_230_00_t041.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1037,
+   "src": "b66f92437f49",
+   "t": "¡¡La ejecutiva de la Banda Rubberobo,"
+  },
+  {
+   "i": 1040,
+   "src": "de53a80dc1da",
+   "t": "y voy tras la Medaria oculta de aquí!!"
+  },
+  {
+   "i": 1051,
+   "src": "5f23c03615e9",
+   "t": "{{medalia}}... oculta..."
+  },
+  {
+   "i": 1056,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1065,
+   "src": "169d8c25a80d",
+   "t": "Es solo un rumor."
+  },
+  {
+   "i": 1068,
+   "src": "c06dbe0ce652",
+   "t": "Al principio, sabes."
+  },
+  {
+   "i": 1076,
+   "src": "33d6333199b2",
+   "t": "Cuentos de los pobres mineros."
+  },
+  {
+   "i": 1079,
+   "src": "dbf386b6e995",
+   "t": "Yo también dudaba, pero..."
+  }
+ ]
+}

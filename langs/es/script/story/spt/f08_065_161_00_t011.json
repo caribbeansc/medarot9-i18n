@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f08_065_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "81e6f33e4768",
+   "t": "Agregué una {{mission}}: explorar {{medalia|pl}}."
+  },
+  {
+   "i": 1041,
+   "src": "da0aeb2d0dcb",
+   "t": "{{main}} halló otro punto prometedor."
+  },
+  {
+   "i": 1052,
+   "src": "61aa1815a2c7",
+   "t": "¿{{main}}-chan?"
+  },
+  {
+   "i": 1057,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1066,
+   "src": "453d296d8af8",
+   "t": "Sí, recalculé los datos restando la señal"
+  },
+  {
+   "i": 1069,
+   "src": "0f83d6945864",
+   "t": "del cráter. Y entonces apareció esto."
+  },
+  {
+   "i": 1080,
+   "src": "b7d965cee4b1",
+   "t": "Vaya..."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_39.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7f0753bd517c",
+   "t": "<c:00ff00>Leg Trait:<c> {{assail}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"{{shoot_boost}}\"."
+  }
+ ]
+}

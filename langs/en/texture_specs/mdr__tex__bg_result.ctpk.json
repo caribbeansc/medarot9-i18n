@@ -1,0 +1,63 @@
+{
+ "rel": "mdr/tex/bg_result.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    6,
+    3,
+    100,
+    28
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    10,
+    3,
+    90,
+    28
+   ],
+   "erase": "none",
+   "text": "Research\nReport",
+   "font": "helv-cond-black",
+   "cap": 10,
+   "leading": 0.86,
+   "fill": "#0E0F15",
+   "stroke": null,
+   "align": "center",
+   "valign": "middle",
+   "pad": 0,
+   "baseline": 15
+  },
+  {
+   "box": [
+    5,
+    38,
+    88,
+    23
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    5,
+    38,
+    88,
+    23
+   ],
+   "erase": "none",
+   "text": "CLEAR",
+   "font": "impact",
+   "size": 18.5,
+   "fill": "#D30000",
+   "stroke": null,
+   "stroke_w": 0,
+   "align": "center",
+   "valign": "middle",
+   "pad": 0
+  }
+ ]
+}

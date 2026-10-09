@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_47.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1d27560d3637",
+   "t": "<c:00ff00>Técnica:<c>{{thunder}}\nAtaque de {{fighting}} que\naplica el {{status}} {{thunder}}.\n<c:00ffff>{{status|cap}}:<c>{{thunder}}\nDetiene la acción por un\ntiempo, {{cannot_evade}}.\nSe anula al ser atacado."
+  }
+ ]
+}

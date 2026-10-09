@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/f11_120_113_00_t015.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1040,
+   "src": "54c1a6d81931",
+   "t": "¡Presidenta!"
+  },
+  {
+   "i": 1043,
+   "src": "104506b0f02f",
+   "t": "¡Kiyoto intenta comunicarse con usted!"
+  },
+  {
+   "i": 1053,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1059,
+   "src": "d668a707c8a5",
+   "t": "¿Qué ocurre?"
+  },
+  {
+   "i": 1066,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1072,
+   "src": "d18e1be947e6",
+   "t": "¡Muchos {{medabot|pl}} salvajes fuertes"
+  },
+  {
+   "i": 1075,
+   "src": "4e04423085be",
+   "t": "en el portón! ¡Podrían irrumpir pronto!"
+  },
+  {
+   "i": 1082,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1088,
+   "src": "3d33f426ff28",
+   "t": "¡...Imposible!"
+  },
+  {
+   "i": 1096,
+   "src": "fcdbf9eefbfd",
+   "t": "¡La entrada debería ser la más segura!"
+  },
+  {
+   "i": 1099,
+   "src": "c85b6cbd37ee",
+   "t": "¡¿Qué hace el {{rescue_club}}?!"
+  },
+  {
+   "i": 1106,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1112,
+   "src": "b596e1f01930",
+   "t": "¡Kiyoto pide instrucciones!"
+  },
+  {
+   "i": 1115,
+   "src": "1050c1b51de9",
+   "t": "Cómo debo responder..."
+  },
+  {
+   "i": 1130,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1141,
+   "src": "9544783ff676",
+   "t": "Nosotros iremos. Diles"
+  },
+  {
+   "i": 1144,
+   "src": "373f846acee0",
+   "t": "que los refuerzos van en camino."
+  },
+  {
+   "i": 1167,
+   "src": "d418ec6b40c9",
+   "t": "¿Está bien así?"
+  },
+  {
+   "i": 1177,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1186,
+   "src": "70ee0caa47d5",
+   "t": "Ah"
+  },
+  {
+   "i": 1194,
+   "src": "6a175d008c9b",
+   "t": "Ah..."
+  },
+  {
+   "i": 1202,
+   "src": "2f0bf75f076e",
+   "t": "Por favor."
+  }
+ ]
+}

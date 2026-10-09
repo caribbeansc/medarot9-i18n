@@ -1,0 +1,45 @@
+{
+ "file": "mdr/spt/partslist.spt",
+ "lines": [
+  {
+   "i": 1807,
+   "src": "7343fba9150f",
+   "t": "{{head}}"
+  },
+  {
+   "i": 1808,
+   "src": "f9cbcd0563a5",
+   "t": "{{right_arm}}"
+  },
+  {
+   "i": 1809,
+   "src": "ae22d610ddf0",
+   "t": "{{left_arm}}"
+  },
+  {
+   "i": 1810,
+   "src": "528640d1d527",
+   "t": "{{legs}}"
+  },
+  {
+   "i": 1821,
+   "src": "7343fba9150f",
+   "t": "{{head}}"
+  },
+  {
+   "i": 1829,
+   "src": "f9cbcd0563a5",
+   "t": "{{right_arm}}"
+  },
+  {
+   "i": 1837,
+   "src": "ae22d610ddf0",
+   "t": "{{left_arm}}"
+  },
+  {
+   "i": 1845,
+   "src": "528640d1d527",
+   "t": "{{legs}}"
+  }
+ ]
+}

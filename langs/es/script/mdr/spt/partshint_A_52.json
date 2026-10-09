@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_52.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "d1ded225d3bc",
+   "t": "<c:00ff00>{{mf}}:<c>{{plant|cap}} Reductora\nColoca en el área {{opponent}} una\n{{plant}} que baja la {{prep}} y\nrefrigeración.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

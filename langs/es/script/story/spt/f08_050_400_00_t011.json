@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f08_050_400_00_t011.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "1ac49eb37a8e",
+   "t": "Ah..."
+  },
+  {
+   "i": 1051,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1060,
+   "src": "cca63ca1bfb4",
+   "t": "¿Qué es ese ruido?"
+  },
+  {
+   "i": 1067,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1076,
+   "src": "ead9a9e6d7a5",
+   "t": "Mira el monitor."
+  },
+  {
+   "i": 1084,
+   "src": "b0c2ef8c6b5f",
+   "t": "Qué rayos es esto..."
+  },
+  {
+   "i": 1087,
+   "src": "e0435af8b0bd",
+   "t": "¡¿También es una {{react}} de {{medalia}}?!"
+  },
+  {
+   "i": 1092,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1101,
+   "src": "66eaa620c7d9",
+   "t": "Hay una fuente muy poderosa cerca."
+  },
+  {
+   "i": 1104,
+   "src": "98a3e417c6ff",
+   "t": "¡Mucha {{medalia}}, en cantidad o calidad!"
+  },
+  {
+   "i": 1111,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1117,
+   "src": "9842708dfa63",
+   "t": "Una cantidad increíble..."
+  },
+  {
+   "i": 1120,
+   "src": "7eb10a243d03",
+   "t": "¿O quizá una calidad increíble...?"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "file": "mdr/spt/setup_tutorial.spt",
+ "lines": [
+  {
+   "i": 3155,
+   "src": "4c561ad0db2b",
+   "t": "Es un {{tinpet}}...    "
+  },
+  {
+   "i": 3159,
+   "src": "506fb590d6bd",
+   "t": "Es el esqueleto de un {{medabot}}.\nAquí van la {{medal}} y las {{part|pl}}."
+  },
+  {
+   "i": 3163,
+   "src": "cbd08574f017",
+   "t": "{{head|cap}}, brazo der, brazo izq y {{legs}}\nforman el cuerpo. Son arma y armadura.              "
+  },
+  {
+   "i": 3309,
+   "src": "8af833db1c74",
+   "t": "Y la {{medal}}..."
+  },
+  {
+   "i": 3313,
+   "src": "c5032627f8ad",
+   "t": "Las {{medal|pl}} son como cerebros\ny tienen personalidades variadas."
+  },
+  {
+   "i": 3317,
+   "src": "25bb202aed30",
+   "t": "Es decir, las {{medal|pl}} tienen corazón."
+  },
+  {
+   "i": 3371,
+   "src": "edbbf1e8c3b4",
+   "t": "Por ahora, configuremos las {{part|pl}}.\nPrimero, pulsa R para pasar a {{part|pl|cap}}..."
+  },
+  {
+   "i": 3395,
+   "src": "953aab3ed671",
+   "t": "Primero, pongamos la {{part}} de {{head_part_slot}}.\nPulsa izq/der en la cruceta para elegir..."
+  },
+  {
+   "i": 3430,
+   "src": "3655e98fe17b",
+   "t": "Ahora, el {{right_arm}}... "
+  },
+  {
+   "i": 3471,
+   "src": "ac17c689e75a",
+   "t": "{{left_arm|cap}}...  "
+  },
+  {
+   "i": 3512,
+   "src": "d7d980214b58",
+   "t": "Y las {{legs_part_slot}}"
+  },
+  {
+   "i": 3555,
+   "src": "7570c1f8a061",
+   "t": "Por último, pulsa X para completar la {{settings}}."
+  },
+  {
+   "i": 3582,
+   "src": "4bb8bd012efe",
+   "t": "Listo, {{medabot}} completo!"
+  }
+ ]
+}

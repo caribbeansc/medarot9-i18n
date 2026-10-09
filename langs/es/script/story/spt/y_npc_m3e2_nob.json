@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3e2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ee22ffc84c9",
+   "t": "{{rokujugo}}"
+  },
+  {
+   "i": 1035,
+   "src": "5baa688fd13a",
+   "t": "Lo siento, ahora estoy ocupado."
+  },
+  {
+   "i": 1038,
+   "src": "e86d1b6da03c",
+   "t": "Hagámoslo en otra ocasión."
+  }
+ ]
+}

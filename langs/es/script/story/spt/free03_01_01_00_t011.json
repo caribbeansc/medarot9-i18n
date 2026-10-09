@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/free03_01_01_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "f323c23a9ae7",
+   "t": "{{mission|cap}} '{{explore|cap}}: instalación\nsubterránea del {{storehouse}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1047,
+   "src": "0d0e2e22d7d8",
+   "t": "... de camino a rescatarla,"
+  },
+  {
+   "i": 1050,
+   "src": "2ee24e5c5a42",
+   "t": "vi una puerta que me dio curiosidad."
+  },
+  {
+   "i": 1058,
+   "src": "6299c8ed2669",
+   "t": "Queda antes de donde estaba "
+  },
+  {
+   "i": 1060,
+   "src": "4d6900a203ad",
+   "t": ","
+  },
+  {
+   "i": 1063,
+   "src": "1ea096846abf",
+   "t": "en el pasillo, poco antes del fondo."
+  },
+  {
+   "i": 1071,
+   "src": "e59357b49b7e",
+   "t": "Por cómo está hecho, hay algo más allá."
+  },
+  {
+   "i": 1074,
+   "src": "91493982133c",
+   "t": "Me gustaría investigarlo."
+  }
+ ]
+}

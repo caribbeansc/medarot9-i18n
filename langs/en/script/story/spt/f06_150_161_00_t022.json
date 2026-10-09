@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f06_150_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1037,
+   "src": "e297dd0c8ac1",
+   "t": "Changing the extraction conditions."
+  },
+  {
+   "i": 1040,
+   "src": "9f298cdf90a5",
+   "t": "Setting color display for specific waves."
+  }
+ ]
+}

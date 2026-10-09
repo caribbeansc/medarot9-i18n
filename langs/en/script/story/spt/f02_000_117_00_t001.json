@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f02_000_117_00_t001.spt",
+ "lines": [
+  {
+   "i": 1129,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1140,
+   "src": "6b3ad684862f",
+   "t": "The {{exploration_club}}...?!"
+  },
+  {
+   "i": 1155,
+   "src": "f07351465d19",
+   "t": "Yeah, that's right. Before I knew it,"
+  },
+  {
+   "i": 1158,
+   "src": "8e3711660b1a",
+   "t": "that's how things ended up..."
+  },
+  {
+   "i": 1163,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1169,
+   "src": "61a152c4db12",
+   "t": "{{exploration_club}}... hmm..."
+  },
+  {
+   "i": 1184,
+   "src": "5abe2e222368",
+   "t": "I've never heard of an {{exploration_club}}."
+  },
+  {
+   "i": 1187,
+   "src": "eafdbfd64a14",
+   "t": "Where's the {{clubroom}}?"
+  },
+  {
+   "i": 1195,
+   "src": "98d9bfa70515",
+   "t": "Um--"
+  },
+  {
+   "i": 1214,
+   "src": "ebd9a3cc4bdf",
+   "t": "Ha ha ha ha!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_25.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "80416cdee09c",
+   "t": "<c:00ff00>Action:<c> {{microwave}}\nA ranged attack that adds\nthe {{charge_gauge}} % to\n{{power}}. Ignores the\n{{defend}} boost the foe gets\nfrom defending. Has\npiercing. Self-destructs\nafter attacking."
+  }
+ ]
+}

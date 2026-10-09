@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b2_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e1ac69a984b3",
+   "t": "2nd-Yr Boy B"
+  },
+  {
+   "i": 1035,
+   "src": "2f0cb8bb0786",
+   "t": "Nice one, partner!"
+  },
+  {
+   "i": 1038,
+   "src": "aa2100cd0808",
+   "t": "Legs next, got it!"
+  }
+ ]
+}

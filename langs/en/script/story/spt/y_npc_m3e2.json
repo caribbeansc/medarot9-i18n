@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3e2.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "3ee22ffc84c9",
+   "t": "{{rokujugo}}"
+  },
+  {
+   "i": 1653,
+   "src": "3f6b3e7eb7ef",
+   "t": "Right now?"
+  },
+  {
+   "i": 1656,
+   "src": "da5e8ca3e522",
+   "t": "W-well, fine... Here I come!"
+  }
+ ]
+}

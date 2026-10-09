@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_112.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c0df2ed82f40",
+   "t": "Frilled lizard-{{type}}\n{{medabot}}. Dodges foes and\nruns on two legs.\n \nIt spreads its frill to\nthreaten, and its {{flash}}\nattack freezes the foe:\nno evading or\ndefending."
+  }
+ ]
+}

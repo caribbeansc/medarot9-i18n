@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo65.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "c1329f7e8229",
+   "t": "'Medal {{collect|cap}}:Blocked Mt.Road'"
+  },
+  {
+   "i": 32,
+   "src": "8349b923176e",
+   "t": "Large medalia reaction in the mountains\nwhere i havent been.\nThe Suspension bridge,and a the mountain road\nthat is no longer in use...\n"
+  },
+  {
+   "i": 42,
+   "src": "1bda55261236",
+   "t": "From the sign that says \"Danger\",onto the suspension bridge.\n"
+  },
+  {
+   "i": 52,
+   "src": "f802e221dd54",
+   "t": "The suspension bridge has collapsed.\nI have to {{explore}} the area and find a way back.\n"
+  },
+  {
+   "i": 62,
+   "src": "400d705bb63e",
+   "t": "Found the {{medalia}},but we need to figure out a way home.\n"
+  },
+  {
+   "i": 72,
+   "src": "92f4bc010f49",
+   "t": "I've managed to return,to complete this quest!\n"
+  }
+ ]
+}

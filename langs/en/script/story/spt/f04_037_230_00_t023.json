@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f04_037_230_00_t023.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "865d0289e502",
+   "t": "I still have questions!"
+  },
+  {
+   "i": 1037,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1043,
+   "src": "866a5ac260e2",
+   "t": "Don't get cocky, kid."
+  },
+  {
+   "i": 1051,
+   "src": "cadf1eca18c1",
+   "t": "Huh?"
+  },
+  {
+   "i": 1064,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1072,
+   "src": "e7f9eed01c7b",
+   "t": "I told you, it was just a whim."
+  },
+  {
+   "i": 1075,
+   "src": "8f9462fb1530",
+   "t": "You have no special ability I chose you\nfor."
+  }
+ ]
+}

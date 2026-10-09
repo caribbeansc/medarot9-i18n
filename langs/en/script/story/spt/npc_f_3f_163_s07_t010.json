@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3f_163_s07_t010.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "4223d91e5747",
+   "t": "She never changes, that girl."
+  },
+  {
+   "i": 1041,
+   "src": "78e4a8cfe28c",
+   "t": "But right now the big picture matters\nmore than small stuff."
+  },
+  {
+   "i": 1049,
+   "src": "29a16215dce7",
+   "t": "To make the cultural festival a success,"
+  },
+  {
+   "i": 1052,
+   "src": "1065020d3b23",
+   "t": "I'll have to put up with a little..."
+  }
+ ]
+}

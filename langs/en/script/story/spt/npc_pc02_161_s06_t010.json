@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s06_t010.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "00a8dcf7e2d9",
+   "t": "So, what are we going to do?"
+  },
+  {
+   "i": 1041,
+   "src": "5534613fe90e",
+   "t": "Calling it a day?"
+  }
+ ]
+}

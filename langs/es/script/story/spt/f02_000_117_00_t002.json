@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f02_000_117_00_t002.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1044,
+   "src": "b898723e74e6",
+   "t": "Conozco el {{exploration_club}}."
+  },
+  {
+   "i": 1047,
+   "src": "60cd6331b251",
+   "t": "Es ese, ¿no?"
+  },
+  {
+   "i": 1055,
+   "src": "08306fa3eeec",
+   "t": "Su sala está en un {{storehouse}} subterráneo"
+  },
+  {
+   "i": 1058,
+   "src": "d0aa070e3683",
+   "t": "Quién sabe qué hacen ahí."
+  },
+  {
+   "i": 1066,
+   "src": "68bef2a9d792",
+   "t": "Ah, ya veo."
+  },
+  {
+   "i": 1069,
+   "src": "ebd9b467cd35",
+   "t": "Justo el {{exploration_club}}, ¿eh?"
+  },
+  {
+   "i": 1084,
+   "src": "56ebd14e3fe9",
+   "t": "Pero oye, ¿quizá sea lo mejor?"
+  },
+  {
+   "i": 1092,
+   "src": "48f2ea10ff84",
+   "t": "Temía que te expulsaran enseguida"
+  },
+  {
+   "i": 1095,
+   "src": "02e6f8125659",
+   "t": "al no entrar a ningún club."
+  },
+  {
+   "i": 1106,
+   "src": "a853850da599",
+   "t": "¡Jajaja!"
+  }
+ ]
+}

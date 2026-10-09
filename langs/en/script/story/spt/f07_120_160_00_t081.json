@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f07_120_160_00_t081.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "4f75ecf8e149",
+   "t": "Yes, congratulations!"
+  },
+  {
+   "i": 1042,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1051,
+   "src": "e6f25d8da45d",
+   "t": "Here's the password!"
+  },
+  {
+   "i": 1054,
+   "src": "559b737c327f",
+   "t": "Please download it from the bulletin\nboard!"
+  }
+ ]
+}

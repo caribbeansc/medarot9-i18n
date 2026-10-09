@@ -1,0 +1,1023 @@
+{
+ "rel": "mdr/tex/bt_set_ltt_8.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond",
+  "cap": 8,
+  "fill": "#F4FF00",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.5,
+  "min_scale_x": 0.7,
+  "align": "left",
+  "dx": 0
+ },
+ "items": [
+  {
+   "text": "Punteria",
+   "box": [
+    0,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    0,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Arremet.",
+   "box": [
+    32,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    32,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Disparo",
+   "box": [
+    64,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    64,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Combate",
+   "box": [
+    96,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    96,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Ataque",
+   "box": [
+    128,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    128,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Apoyo",
+   "box": [
+    160,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    160,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Trampa",
+   "box": [
+    192,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    192,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Golpear",
+   "box": [
+    224,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    224,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Defensa",
+   "box": [
+    0,
+    120,
+    32,
+    16
+   ],
+   "erase_box": [
+    0,
+    120,
+    32,
+    16
+   ],
+   "baseline": 132,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Disparar",
+   "box": [
+    32,
+    120,
+    32,
+    16
+   ],
+   "erase_box": [
+    32,
+    120,
+    32,
+    16
+   ],
+   "baseline": 132,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Curacion",
+   "box": [
+    224,
+    88,
+    32,
+    16
+   ],
+   "erase_box": [
+    224,
+    88,
+    32,
+    16
+   ],
+   "baseline": 100,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "1x",
+   "box": [
+    144,
+    88,
+    16,
+    16
+   ],
+   "erase_box": [
+    144,
+    88,
+    16,
+    16
+   ],
+   "baseline": 100,
+   "fill": "#2AFE7F",
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Lider",
+   "box": [
+    160,
+    88,
+    32,
+    16
+   ],
+   "erase_box": [
+    160,
+    88,
+    32,
+    16
+   ],
+   "baseline": 100,
+   "fill": "#2AFE7F",
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Ahorrar",
+   "box": [
+    192,
+    88,
+    32,
+    16
+   ],
+   "erase_box": [
+    192,
+    88,
+    32,
+    16
+   ],
+   "baseline": 100,
+   "fill": "#2AFE7F",
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Dano",
+   "box": [
+    64,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    64,
+    136,
+    32,
+    16
+   ],
+   "baseline": 148
+  },
+  {
+   "text": "Pieza",
+   "box": [
+    96,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    96,
+    136,
+    32,
+    16
+   ],
+   "baseline": 148
+  },
+  {
+   "text": "Destr.",
+   "box": [
+    184,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    184,
+    136,
+    32,
+    16
+   ],
+   "baseline": 148
+  },
+  {
+   "text": "Pieza",
+   "box": [
+    128,
+    136,
+    24,
+    16
+   ],
+   "erase_box": [
+    128,
+    136,
+    24,
+    16
+   ],
+   "baseline": 148,
+   "align": "right"
+  },
+  {
+   "text": "Guardia",
+   "box": [
+    216,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    216,
+    136,
+    32,
+    16
+   ],
+   "baseline": 148
+  },
+  {
+   "text": "Pieza danada",
+   "box": [
+    0,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    0,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "Pieza 50%D",
+   "box": [
+    48,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    48,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "Pieza destr.",
+   "box": [
+    96,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    96,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "Sin ataque",
+   "box": [
+    144,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    144,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "Sin defensa",
+   "box": [
+    192,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    192,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "Sin evasion",
+   "box": [
+    0,
+    168,
+    48,
+    16
+   ],
+   "erase_box": [
+    0,
+    168,
+    48,
+    16
+   ],
+   "baseline": 180
+  },
+  {
+   "text": "2 o menos",
+   "box": [
+    48,
+    168,
+    48,
+    16
+   ],
+   "erase_box": [
+    48,
+    168,
+    48,
+    16
+   ],
+   "baseline": 180
+  },
+  {
+   "text": "Trampa",
+   "box": [
+    120,
+    168,
+    48,
+    16
+   ],
+   "erase_box": [
+    120,
+    168,
+    48,
+    16
+   ],
+   "baseline": 180
+  },
+  {
+   "text": "-Sintoma",
+   "box": [
+    168,
+    168,
+    48,
+    16
+   ],
+   "erase_box": [
+    168,
+    168,
+    48,
+    16
+   ],
+   "baseline": 180
+  },
+  {
+   "text": "+Efecto",
+   "box": [
+    0,
+    184,
+    48,
+    16
+   ],
+   "erase_box": [
+    0,
+    184,
+    48,
+    16
+   ],
+   "baseline": 196
+  },
+  {
+   "text": "-Sin sintoma",
+   "box": [
+    48,
+    184,
+    48,
+    16
+   ],
+   "erase_box": [
+    48,
+    184,
+    48,
+    16
+   ],
+   "baseline": 196
+  },
+  {
+   "text": "+Sin efecto",
+   "box": [
+    96,
+    184,
+    48,
+    16
+   ],
+   "erase_box": [
+    96,
+    184,
+    48,
+    16
+   ],
+   "baseline": 196
+  },
+  {
+   "text": "1",
+   "box": [
+    96,
+    168,
+    16,
+    16
+   ],
+   "erase_box": [
+    96,
+    168,
+    16,
+    16
+   ],
+   "baseline": 180,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Inicio robobat.",
+   "box": [
+    0,
+    200,
+    56,
+    16
+   ],
+   "erase_box": [
+    0,
+    200,
+    56,
+    16
+   ],
+   "baseline": 212
+  },
+  {
+   "text": "Final robobat.",
+   "box": [
+    56,
+    200,
+    56,
+    16
+   ],
+   "erase_box": [
+    56,
+    200,
+    56,
+    16
+   ],
+   "baseline": 212
+  },
+  {
+   "text": "Arena",
+   "box": [
+    128,
+    200,
+    24,
+    16
+   ],
+   "erase_box": [
+    128,
+    200,
+    24,
+    16
+   ],
+   "baseline": 212
+  },
+  {
+   "text": "A-Aire",
+   "box": [
+    0,
+    237,
+    34,
+    10
+   ],
+   "erase_box": [
+    0,
+    237,
+    34,
+    10
+   ],
+   "baseline": 246,
+   "cap": 8,
+   "font": "compact-rounded-heavy",
+   "align": "center"
+  },
+  {
+   "text": "A-Mar",
+   "box": [
+    38,
+    237,
+    34,
+    10
+   ],
+   "erase_box": [
+    38,
+    237,
+    34,
+    10
+   ],
+   "baseline": 246,
+   "cap": 8,
+   "font": "compact-rounded-heavy",
+   "align": "center"
+  },
+  {
+   "text": "Transp.",
+   "box": [
+    170,
+    27,
+    46,
+    14
+   ],
+   "erase_box": [
+    170,
+    27,
+    46,
+    14
+   ],
+   "baseline": 38,
+   "font": "compact-rounded-heavy",
+   "cap": 9,
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#1E2637",
+   "stroke": "#FFFFFF9D",
+   "stroke_w": 1.0,
+   "crisp": 0.45,
+   "align": "left",
+   "pad": 0,
+   "min_scale_x": 0.75,
+   "dx": 1,
+   "sample_box": [
+    27,
+    5,
+    68,
+    18
+   ],
+   "text": "Rotacion OK",
+   "box": [
+    24,
+    5,
+    73,
+    18
+   ],
+   "erase_box": [
+    23,
+    5,
+    74,
+    18
+   ],
+   "baseline": 18
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#1E2637",
+   "stroke": "#FFFFFF9D",
+   "stroke_w": 1.2,
+   "crisp": 0.45,
+   "align": "left",
+   "pad": 0,
+   "min_scale_x": 0.75,
+   "dx": 0,
+   "sample_box": [
+    27,
+    33,
+    62,
+    12
+   ],
+   "text": "Accion basica",
+   "box": [
+    26,
+    28,
+    64,
+    18
+   ],
+   "erase_box": [
+    25,
+    28,
+    66,
+    18
+   ],
+   "baseline": 42
+  },
+  {
+   "text": "GUARDAR / CARGAR",
+   "box": [
+    152,
+    8,
+    72,
+    11
+   ],
+   "erase_box": [
+    152,
+    7,
+    72,
+    13
+   ],
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 7,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "align": "center",
+   "baseline": 17,
+   "pad": 0,
+   "crisp": 0.5,
+   "min_scale_x": 0.75
+  },
+  {
+   "text": "Comb",
+   "box": [
+    0,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    0,
+    136,
+    32,
+    16
+   ],
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#FF95C9",
+    "bottom": "#FF5666"
+   },
+   "stroke": "#2F141A",
+   "stroke_w": 1.0,
+   "align": "center",
+   "baseline": 148,
+   "pad": 0,
+   "crisp": 0,
+   "min_scale_x": 0.75
+  },
+  {
+   "text": "Disp",
+   "box": [
+    32,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    32,
+    136,
+    32,
+    16
+   ],
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#A3FFFF",
+    "bottom": "#58D6FF"
+   },
+   "stroke": "#3C3E3E",
+   "stroke_w": 1.0,
+   "align": "center",
+   "baseline": 148,
+   "pad": 0,
+   "crisp": 0,
+   "min_scale_x": 0.75
+  },
+  {
+   "text": "",
+   "box": [
+    67,
+    124,
+    10,
+    8
+   ],
+   "erase_box": [
+    67,
+    124,
+    10,
+    8
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "",
+   "box": [
+    68,
+    123,
+    8,
+    1
+   ],
+   "erase_box": [
+    68,
+    123,
+    8,
+    1
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "",
+   "box": [
+    68,
+    132,
+    8,
+    1
+   ],
+   "erase_box": [
+    68,
+    132,
+    8,
+    1
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "Yo",
+   "box": [
+    67,
+    123,
+    10,
+    10
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "fill": "#70D9FF",
+   "stroke": null,
+   "align": "center",
+   "baseline": 131,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 0.8,
+   "dx": 0
+  },
+  {
+   "text": "",
+   "box": [
+    83,
+    124,
+    10,
+    8
+   ],
+   "erase_box": [
+    83,
+    124,
+    10,
+    8
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "",
+   "box": [
+    84,
+    123,
+    8,
+    1
+   ],
+   "erase_box": [
+    84,
+    123,
+    8,
+    1
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "",
+   "box": [
+    84,
+    132,
+    8,
+    1
+   ],
+   "erase_box": [
+    84,
+    132,
+    8,
+    1
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "*",
+   "box": [
+    83,
+    123,
+    10,
+    10
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#70D9FF",
+   "stroke": null,
+   "align": "center",
+   "baseline": 135,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 0.8,
+   "dx": 0
+  },
+  {
+   "text": "",
+   "box": [
+    99,
+    124,
+    10,
+    8
+   ],
+   "erase_box": [
+    99,
+    124,
+    10,
+    8
+   ],
+   "erase": "solid:#BD371D"
+  },
+  {
+   "text": "",
+   "box": [
+    100,
+    123,
+    8,
+    1
+   ],
+   "erase_box": [
+    100,
+    123,
+    8,
+    1
+   ],
+   "erase": "solid:#BD371D"
+  },
+  {
+   "text": "",
+   "box": [
+    100,
+    132,
+    8,
+    1
+   ],
+   "erase_box": [
+    100,
+    132,
+    8,
+    1
+   ],
+   "erase": "solid:#BD371D"
+  },
+  {
+   "text": "*",
+   "box": [
+    99,
+    123,
+    10,
+    10
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FF9D9C",
+   "stroke": null,
+   "align": "center",
+   "baseline": 135,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 0.8,
+   "dx": 0
+  }
+ ]
+}

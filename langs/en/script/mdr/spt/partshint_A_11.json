@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_11.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "9424da1972af",
+   "t": "<c:00ff00>{{mf}}:<c> Glacier\nThe {{terrain}} becomes\n{{tundra}} and all {{medabot|pl}}\nreturn to the command\narea.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

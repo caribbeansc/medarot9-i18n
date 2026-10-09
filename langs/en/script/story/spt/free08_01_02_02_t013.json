@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/free08_01_02_02_t013.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1133,
+   "src": "a753a7c01c23",
+   "t": "Huh?"
+  },
+  {
+   "i": 1136,
+   "src": "5614e3a3c7a4",
+   "t": "You found it pretty easily, didn't you."
+  },
+  {
+   "i": 1143,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1152,
+   "src": "e87dd970681d",
+   "t": "Nice and easy. We're done here,"
+  },
+  {
+   "i": 1155,
+   "src": "b1295cce30f3",
+   "t": "so let's hurry home."
+  },
+  {
+   "i": 1171,
+   "src": "fcfb627cdf6e",
+   "t": "Wait..."
+  },
+  {
+   "i": 1182,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1193,
+   "src": "cbcfd3535019",
+   "t": "Yes?"
+  }
+ ]
+}

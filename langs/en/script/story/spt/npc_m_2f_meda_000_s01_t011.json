@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9356f0822883",
+   "t": "{{dokoka_no_oji}}"
+  },
+  {
+   "i": 1038,
+   "src": "e20fe0a21e84",
+   "t": "Movies starring {{medabot|pl}}"
+  },
+  {
+   "i": 1041,
+   "src": "119ab505ce73",
+   "t": "are always action flicks."
+  },
+  {
+   "i": 1049,
+   "src": "52eeb0c7e400",
+   "t": "Once in a while, I think there should be"
+  },
+  {
+   "i": 1052,
+   "src": "6bed6a3a661e",
+   "t": "a {{medabot}} movie about youth or\nromance."
+  }
+ ]
+}

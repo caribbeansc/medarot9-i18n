@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f05_100_117_00_t012.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "72fae90b9ea3",
+   "t": "{{ichiru}}-san."
+  },
+  {
+   "i": 1045,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1051,
+   "src": "fea98c8483c9",
+   "t": "¡Sí!"
+  }
+ ]
+}

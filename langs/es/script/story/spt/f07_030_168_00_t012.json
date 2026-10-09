@@ -1,0 +1,160 @@
+{
+ "file": "story/spt/f07_030_168_00_t012.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1047,
+   "src": "d191aa9ee0ce",
+   "t": "Cuánto tiempo."
+  },
+  {
+   "i": 1050,
+   "src": "e4412e63254f",
+   "t": "Te ves bien, {{mio}}."
+  },
+  {
+   "i": 1057,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1063,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1070,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1076,
+   "src": "a1ea75e08164",
+   "t": "Este favor es para ti."
+  },
+  {
+   "i": 1083,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1089,
+   "src": "7498d1e46398",
+   "t": "¿Yo?"
+  },
+  {
+   "i": 1096,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1102,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1110,
+   "src": "f6ec2025b7ad",
+   "t": "La compañera de {{aoi}} se descompuso."
+  },
+  {
+   "i": 1117,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1123,
+   "src": "9a1126c06a3a",
+   "t": "{{flora}}..."
+  },
+  {
+   "i": 1137,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1143,
+   "src": "be8f55742378",
+   "t": "Sí. Parece que una pieza"
+  },
+  {
+   "i": 1146,
+   "src": "715cc574921c",
+   "t": "del conjunto de {{legs_part_slot}} se rompió."
+  },
+  {
+   "i": 1154,
+   "src": "f0021911d387",
+   "t": "Ni {{flora}}, con su talento, puede hacer"
+  },
+  {
+   "i": 1157,
+   "src": "80a73c4f12d8",
+   "t": "esa rutina con piernas que no conoce..."
+  },
+  {
+   "i": 1165,
+   "src": "64d1367dc5af",
+   "t": "Pero no hay nadie más que pueda hacer"
+  },
+  {
+   "i": 1168,
+   "src": "0558a0e62367",
+   "t": "esa rutina aparte de {{aoi}}, así que..."
+  },
+  {
+   "i": 1175,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1181,
+   "src": "d8589c8e9e05",
+   "t": "¿Así que viniste a mí porque"
+  },
+  {
+   "i": 1184,
+   "src": "0dda0104ae74",
+   "t": "estabas en apuros?"
+  },
+  {
+   "i": 1191,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1197,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1205,
+   "src": "6b473b1a3b05",
+   "t": "Sé que es egoísta."
+  },
+  {
+   "i": 1208,
+   "src": "c4a57f41ab57",
+   "t": "Pero no se me ocurre otra forma."
+  },
+  {
+   "i": 1223,
+   "src": "a65aa3ef755a",
+   "t": "Esa rutina es lo mejor del año,"
+  },
+  {
+   "i": 1226,
+   "src": "c7cf2c3d2ff6",
+   "t": "no podemos cambiarla ahora."
+  },
+  {
+   "i": 1234,
+   "src": "e932c12ffd3f",
+   "t": "Pero si eres tú-"
+  }
+ ]
+}

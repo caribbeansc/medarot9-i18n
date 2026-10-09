@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description41.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1683155cbeff",
+   "t": "Guardia de interrup."
+  },
+  {
+   "i": 11,
+   "src": "d51abebdc541",
+   "t": "<c:ffff00>{{response|cap}}<c> especial: intercepta el <c:ffff00>ataque<c> del {{opponent}} y\nprotege a un {{ally_battle_term}} haciendo de escudo.\nUn <c:ffff00>{{medabot}}<c> o <c:ffff00>{{plant}}<c> en <c:ffff00>{{guard_stance}}<c> (por una\n<c:ffff00>técnica<c> de <c:ffff00>habilidad de {{defend}}<c>) se interpone ante\nel {{ally_battle_term}} <c:ffff00>{{target}}<c> y <c:ffff00>defiende<c> automáticamente con\nla <c:ffff00>{{acting_part}}<c> de la postura.\nAl defender sube el <c:ffff00>poder de {{defend}}<c>, y más cuanto\nmayor es el <c:ffff00>{{skill_level}}<c> de <c:ffff00>{{defend}}<c>. Algunas\ntécnicas anulan o reflejan el ataque."
+  }
+ ]
+}

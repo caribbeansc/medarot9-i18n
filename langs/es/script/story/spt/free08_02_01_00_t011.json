@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/free08_02_01_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "1e98d667c475",
+   "t": "{{mission|cap}} 'Recolección de {{medalia|pl}}:\nSendero de Montaña Bloqueado'..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "0ead4a6ee0d1",
+   "t": "Esta es una {{mission}} un poco complicada."
+  },
+  {
+   "i": 1054,
+   "src": "b82afb3bfb9d",
+   "t": "Encontré la {{react}}, pero todavía"
+  },
+  {
+   "i": 1057,
+   "src": "c5b781e1f897",
+   "t": "no sé cuál es el camino que lleva ahí."
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "fe3323e26ee4",
+   "t": "Solo vayamos a ver. Si es imposible,"
+  },
+  {
+   "i": 1076,
+   "src": "05557c1a9105",
+   "t": "podemos rendirnos y regresar."
+  }
+ ]
+}

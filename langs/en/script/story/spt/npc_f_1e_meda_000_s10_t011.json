@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1e_meda_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f61635231b42",
+   "t": "{{fluffy_hair}}"
+  },
+  {
+   "i": 1038,
+   "src": "37c1abf4c891",
+   "t": "Guess what, I came in first in the relay!"
+  },
+  {
+   "i": 1041,
+   "src": "f4190868537a",
+   "t": "It was fun!"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc04_meda_200_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "05398fcf6661",
+   "t": "¿Cómo te llamas?"
+  },
+  {
+   "i": 1060,
+   "src": "c40726746bea",
+   "t": "."
+  },
+  {
+   "i": 1074,
+   "src": "5d7a0a23affc",
+   "t": ", ¿verdad? ¡Tu robobatalla"
+  },
+  {
+   "i": 1077,
+   "src": "0efd810adf60",
+   "t": "fue muy interesante! ¡Me gustó!"
+  }
+ ]
+}

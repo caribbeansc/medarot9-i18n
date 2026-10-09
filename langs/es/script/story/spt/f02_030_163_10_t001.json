@@ -1,0 +1,160 @@
+{
+ "file": "story/spt/f02_030_163_10_t001.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1044,
+   "src": "016a6925efcb",
+   "t": "Ah, lo siento. Era"
+  },
+  {
+   "i": 1048,
+   "src": "90c36f055ebf",
+   "t": ", ¿verdad?"
+  },
+  {
+   "i": 1063,
+   "src": "0c6bdf8d674a",
+   "t": "Sí, claro que la conozco."
+  },
+  {
+   "i": 1066,
+   "src": "3c35913c4c3b",
+   "t": "Es la compañera de {{mio}}, ¿no?"
+  },
+  {
+   "i": 1074,
+   "src": "eafa28b48d31",
+   "t": "¿Qué le pasó?"
+  },
+  {
+   "i": 1081,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1090,
+   "src": "8bad545064bf",
+   "t": "Bueno, lo cierto es que..."
+  },
+  {
+   "i": 1098,
+   "src": "a17fc959eb16",
+   "t": "Está desaparecida."
+  },
+  {
+   "i": 1105,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1114,
+   "src": "3065f86f47b0",
+   "t": "Ah... ¿de verdad"
+  },
+  {
+   "i": 1122,
+   "src": "6f3a35746329",
+   "t": "?"
+  },
+  {
+   "i": 1129,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1138,
+   "src": "be8f55742378",
+   "t": "Sí."
+  },
+  {
+   "i": 1146,
+   "src": "7226add6e891",
+   "t": "{{mio}}-kun es muy amiga de "
+  },
+  {
+   "i": 1148,
+   "src": "e06c55e199a7",
+   "t": ", ¿no?"
+  },
+  {
+   "i": 1151,
+   "src": "0658c2e25c58",
+   "t": "Está muy preocupada."
+  },
+  {
+   "i": 1159,
+   "src": "a25fe1484f00",
+   "t": "No ha dormido nada desde ayer"
+  },
+  {
+   "i": 1162,
+   "src": "399ad3143af2",
+   "t": "y tampoco parece poder comer."
+  },
+  {
+   "i": 1170,
+   "src": "6a6e5e7b28d5",
+   "t": "Me preocupa que vaya a colapsar"
+  },
+  {
+   "i": 1173,
+   "src": "56815261173c",
+   "t": "si esto sigue así."
+  },
+  {
+   "i": 1181,
+   "src": "afb7dca98787",
+   "t": "..."
+  },
+  {
+   "i": 1186,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1195,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1212,
+   "src": "3faaf0da07c8",
+   "t": "Entendido. Si me entero de algo,"
+  },
+  {
+   "i": 1215,
+   "src": "6d5c3c0e99d2",
+   "t": "te avisaré de inmediato."
+  },
+  {
+   "i": 1229,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1238,
+   "src": "c04567b98f24",
+   "t": "Por favor."
+  },
+  {
+   "i": 1241,
+   "src": "949c67a5b7a3",
+   "t": "Y además--"
+  },
+  {
+   "i": 1248,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1257,
+   "src": "ab4a90c005d3",
+   "t": "Con permiso."
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "rel": "battle/tex/m9_dmg.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    33,
+    104,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    105,
+    33,
+    94,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    97,
+    72,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    105,
+    97,
+    94,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    34,
+    102,
+    29
+   ],
+   "erase": "none",
+   "text": "DAMAGE!",
+   "font": "impact",
+   "cap": 19.5,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFEE"
+     ],
+     [
+      0.3,
+      "#FFEEBB"
+     ],
+     [
+      0.52,
+      "#FF9955"
+     ],
+     [
+      0.7,
+      "#FF7733"
+     ],
+     [
+      1,
+      "#FFC8A0"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#BB1133",
+     "w": 1
+    },
+    {
+     "color": "#992200",
+     "w": 1.2
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   },
+   "tracking": 4
+  },
+  {
+   "box": [
+    106,
+    34,
+    92,
+    29
+   ],
+   "erase": "none",
+   "text": "ALL PARTS",
+   "font": "anton",
+   "cap": 13,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFEE"
+     ],
+     [
+      0.3,
+      "#FFEEBB"
+     ],
+     [
+      0.52,
+      "#FF9955"
+     ],
+     [
+      0.7,
+      "#FF7733"
+     ],
+     [
+      1,
+      "#FFC8A0"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#992200",
+     "w": 1.3
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   }
+  },
+  {
+   "box": [
+    1,
+    98,
+    70,
+    29
+   ],
+   "erase": "none",
+   "text": "HEAL!",
+   "font": "anton",
+   "cap": 17,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.1,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFFF"
+     ],
+     [
+      0.45,
+      "#CCFFFF"
+     ],
+     [
+      0.55,
+      "#AAEEEE"
+     ],
+     [
+      1,
+      "#88DDDD"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#007777",
+     "w": 1.3
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   }
+  },
+  {
+   "box": [
+    106,
+    98,
+    92,
+    29
+   ],
+   "erase": "none",
+   "text": "ALL PARTS",
+   "font": "anton",
+   "cap": 13,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFEE"
+     ],
+     [
+      0.3,
+      "#FFEEBB"
+     ],
+     [
+      0.52,
+      "#FF9955"
+     ],
+     [
+      0.7,
+      "#FF7733"
+     ],
+     [
+      1,
+      "#FFC8A0"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#992200",
+     "w": 1.3
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   }
+  }
+ ]
+}

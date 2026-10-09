@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc04_161_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "75ce676badfe",
+   "t": "Una {{robattle}}, eh..."
+  },
+  {
+   "i": 1046,
+   "src": "f5471ee13cf7",
+   "t": "Mejor me refuerzo antes del evento."
+  },
+  {
+   "i": 1049,
+   "src": "4abd453b5b78",
+   "t": "No puedo darme el lujo de verme débil."
+  }
+ ]
+}

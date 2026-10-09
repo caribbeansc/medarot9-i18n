@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f10_020_101_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1035,
+   "src": "7dfbeb265d4a",
+   "t": "Oye, ¿hace un momento ahí..."
+  },
+  {
+   "i": 1038,
+   "src": "db7ed88c21f0",
+   "t": "no estaba el {{principal}}?"
+  },
+  {
+   "i": 1045,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1051,
+   "src": "a1a77fb6fda8",
+   "t": "Imposible."
+  },
+  {
+   "i": 1054,
+   "src": "2b71819a2868",
+   "t": "Digo, el {{principal}} estaba enfermo, ¿no?"
+  },
+  {
+   "i": 1062,
+   "src": "da859b7d3116",
+   "t": "Ah."
+  },
+  {
+   "i": 1070,
+   "src": "4b4f87e1b4e9",
+   "t": "¡Oye, Senpai!"
+  },
+  {
+   "i": 1073,
+   "src": "1f83aed0ec43",
+   "t": "¡Basta, por favor~, me asustas~!"
+  }
+ ]
+}

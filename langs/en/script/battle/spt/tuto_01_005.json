@@ -1,0 +1,40 @@
+{
+ "file": "battle/spt/tuto_01_005.spt",
+ "lines": [
+  {
+   "i": 1093,
+   "src": "64c19b4cf2a8",
+   "t": "Let's try <c:ff00ff>Charge<c>.  "
+  },
+  {
+   "i": 1112,
+   "src": "9439129c2faf",
+   "t": "You gather force without using\n{{part}} actions, right?     "
+  },
+  {
+   "i": 1123,
+   "src": "a4a3b876ecde",
+   "t": "{{part|cap}} performance rises a little in\nline with the stored force, right?                   "
+  },
+  {
+   "i": 1128,
+   "src": "71ee4c1c10da",
+   "t": "Charging has no {{prep}} or {{cooldown}};\nwait in the {{command_area}} a while."
+  },
+  {
+   "i": 1147,
+   "src": "61147ec9157d",
+   "t": "And remember: while Charging you\n<c:ff00ff>can't evade<c>.             "
+  },
+  {
+   "i": 1158,
+   "src": "65bd862ccda4",
+   "t": "To Charge, press the $ｸ button and\nchoose Charge, right?"
+  },
+  {
+   "i": 1201,
+   "src": "a6e549f4c9ba",
+   "t": "Once chosen, confirm with the $*\nbutton.         "
+  }
+ ]
+}

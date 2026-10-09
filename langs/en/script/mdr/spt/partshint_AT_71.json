@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_71.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b4b118d48ba6",
+   "t": "<c:00ff00>Action:<c> {{pile}}\nA slow melee attack with\nhigh {{power}}.\nIgnores the {{defend}} boost\nfrom the {{opponent}}'s\ndefending.\nHas piercing."
+  }
+ ]
+}

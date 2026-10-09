@@ -1,0 +1,170 @@
+{
+ "file": "story/spt/f06_260_161_00_t013.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "a79c3e558321",
+   "t": "¿¡{{principal|cap}}!?"
+  },
+  {
+   "i": 1039,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1045,
+   "src": "915aafc3af2f",
+   "t": "¡Respóndeme!"
+  },
+  {
+   "i": 1048,
+   "src": "d5a0fb8dd8cb",
+   "t": "¡¿Cómo obtuvieron la {{react}}?!"
+  },
+  {
+   "i": 1061,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1069,
+   "src": "018b01233aa5",
+   "t": "Hallamos los planos del sistema"
+  },
+  {
+   "i": 1072,
+   "src": "abddfe62d46f",
+   "t": "de {{detect}} en el sótano del almacén."
+  },
+  {
+   "i": 1082,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1088,
+   "src": "6ab6e7a9cd63",
+   "t": "¡¿Qué?!"
+  },
+  {
+   "i": 1095,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1101,
+   "src": "72d290c74a53",
+   "t": "Para ser exactos, es un cristal"
+  },
+  {
+   "i": 1104,
+   "src": "876d20fa282f",
+   "t": "de memoria con datos de diseño."
+  },
+  {
+   "i": 1112,
+   "src": "1fea84f0fd4d",
+   "t": "Probablemente data de cuando la {{mine}}\naún estaba en operación."
+  },
+  {
+   "i": 1120,
+   "src": "646d0c4462f2",
+   "t": "Está en el estante junto a la PC."
+  },
+  {
+   "i": 1123,
+   "src": "45b4ab4763c0",
+   "t": "Si quiere revisarlo, hágalo--"
+  },
+  {
+   "i": 1130,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1136,
+   "src": "d91925360207",
+   "t": "No intentes engañarme."
+  },
+  {
+   "i": 1139,
+   "src": "d6b222710c58",
+   "t": "No me importan los planos."
+  },
+  {
+   "i": 1147,
+   "src": "aa511aeaef1b",
+   "t": "Lo que quiero saber es cómo adquirir\nla {{react}} de {{medalia}}."
+  },
+  {
+   "i": 1160,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1168,
+   "src": "2cc1de0907c1",
+   "t": "Usamos nuestro propio sistema de\n{{detect}}."
+  },
+  {
+   "i": 1175,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1181,
+   "src": "da59417c634c",
+   "t": "No mientas."
+  },
+  {
+   "i": 1188,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1197,
+   "src": "6b2cd65eefa6",
+   "t": "¡No estamos mintiendo!"
+  },
+  {
+   "i": 1208,
+   "src": "257d5ff8e453",
+   "t": "Analicé la onda de interferencia."
+  },
+  {
+   "i": 1211,
+   "src": "b85c3d89705e",
+   "t": "Añadí un cálculo para eliminarla."
+  },
+  {
+   "i": 1219,
+   "src": "9e9db2b7f7e5",
+   "t": "La {{detect}} ya funciona bien."
+  },
+  {
+   "i": 1222,
+   "src": "f0e71b76abab",
+   "t": "Capta reacciones aun con interferencia."
+  },
+  {
+   "i": 1229,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1238,
+   "src": "7c9ad729f37d",
+   "t": "...Hmph."
+  },
+  {
+   "i": 1249,
+   "src": "78a9aef4822f",
+   "t": "Sigues diciendo que lo hicieron"
+  },
+  {
+   "i": 1252,
+   "src": "9586f15279a5",
+   "t": "solos, ¿eh? Bien, como sea."
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "file": "story/spt/f09_040_102_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1040,
+   "src": "83498cc08f8e",
+   "t": "¡Bienvenido de vuelta!"
+  },
+  {
+   "i": 1043,
+   "src": "5fca4b48de2a",
+   "t": "Este..."
+  },
+  {
+   "i": 1051,
+   "src": "f0c12583b673",
+   "t": "¿Le preguntaste al {{janitor}}?"
+  },
+  {
+   "i": 1062,
+   "src": "869fd5f0d6e5",
+   "t": "Sí, bueno--"
+  },
+  {
+   "i": 1067,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1073,
+   "src": "fb3d86807b27",
+   "t": "Lo siento, el paquete ya llegó. Un"
+  },
+  {
+   "i": 1076,
+   "src": "3c3ea71793f1",
+   "t": "empleado del puerto vino a la escuela--"
+  },
+  {
+   "i": 1084,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1089,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1095,
+   "src": "bea73e8f7710",
+   "t": "Vaya, ¿qué sucede?"
+  },
+  {
+   "i": 1098,
+   "src": "92af32eefc63",
+   "t": "¿Estás enojado?"
+  },
+  {
+   "i": 1106,
+   "src": "ea5c9c05df56",
+   "t": "N-no, pero..."
+  },
+  {
+   "i": 1114,
+   "src": "acc16e2edcac",
+   "t": "¿Dónde están los miembros de mi {{club}}?"
+  },
+  {
+   "i": 1119,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1125,
+   "src": "9f03285ec3e2",
+   "t": "Los miembros del {{club}}... Mmm."
+  },
+  {
+   "i": 1132,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1141,
+   "src": "c130b31afd6d",
+   "t": "Ah, si hablas de los miembros del\n{{exploration_club}}, la presidenta del"
+  },
+  {
+   "i": 1149,
+   "src": "6b8c0fa60198",
+   "t": "Consejo les pidió que hicieran algo, y"
+  },
+  {
+   "i": 1152,
+   "src": "323660898228",
+   "t": "todos se fueron juntos a algún lado."
+  },
+  {
+   "i": 1163,
+   "src": "577b49db34ad",
+   "t": "A algún lado..."
+  },
+  {
+   "i": 1166,
+   "src": "c83c555ece69",
+   "t": "¡¿A dónde se fueron?!"
+  },
+  {
+   "i": 1171,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1180,
+   "src": "925c34e3cc29",
+   "t": "B-bueno, no sé a dónde."
+  },
+  {
+   "i": 1183,
+   "src": "e6bc727e4410",
+   "t": "Seguro que vuelven pronto, eso sí."
+  },
+  {
+   "i": 1194,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

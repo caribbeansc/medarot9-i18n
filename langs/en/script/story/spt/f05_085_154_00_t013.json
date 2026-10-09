@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f05_085_154_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "0f96d6204faa",
+   "t": "She's a {{student}}?"
+  },
+  {
+   "i": 1056,
+   "src": "06c1b6f4ea5e",
+   "t": "This kid...??"
+  }
+ ]
+}

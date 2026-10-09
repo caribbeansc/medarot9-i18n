@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f07_120_160_00_t061.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1035,
+   "src": "37ea486474e2",
+   "t": "Says it's {{medalia}} detection."
+  },
+  {
+   "i": 1042,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1048,
+   "src": "1bda673bf6f5",
+   "t": "I wonder if it's true..."
+  },
+  {
+   "i": 1055,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1064,
+   "src": "ac3c16660ff3",
+   "t": "Maybe I kind of want one..."
+  },
+  {
+   "i": 1071,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1077,
+   "src": "e35c90e7f195",
+   "t": "Let's give it a try..."
+  }
+ ]
+}

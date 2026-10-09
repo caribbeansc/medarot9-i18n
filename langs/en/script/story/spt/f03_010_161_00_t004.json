@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f03_010_161_00_t004.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "1e8d20bf8a8a",
+   "t": "Anyway, like this, this island is a frontier"
+  },
+  {
+   "i": 1045,
+   "src": "07fceb4b7cb9",
+   "t": "overflowing with mysteries and {{medalia}}."
+  },
+  {
+   "i": 1053,
+   "src": "3aeba480ace2",
+   "t": "If you explore around, you'll fill in the\nmap"
+  },
+  {
+   "i": 1056,
+   "src": "d038f99841cb",
+   "t": "and collect {{medalia}} too."
+  },
+  {
+   "i": 1064,
+   "src": "e1122e337b77",
+   "t": "So, what do you think?"
+  },
+  {
+   "i": 1067,
+   "src": "837940598ed4",
+   "t": "You're getting a little fired up now,\nright~?"
+  },
+  {
+   "i": 1082,
+   "src": "b933bf888f99",
+   "t": "Yes!!"
+  },
+  {
+   "i": 1094,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1103,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1117,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1126,
+   "src": "7a5d2746e482",
+   "t": "Ha ha ha."
+  },
+  {
+   "i": 1137,
+   "src": "4a7c72c39ced",
+   "t": "Well then, {{ryoma}}-kun, I'll leave the rest\nto you."
+  },
+  {
+   "i": 1147,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1153,
+   "src": "6b117e8216ad",
+   "t": "Huh?"
+  },
+  {
+   "i": 1167,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1173,
+   "src": "4224336a3fba",
+   "t": "I'm going to be busy for a while."
+  },
+  {
+   "i": 1176,
+   "src": "5113752d3574",
+   "t": "Here, take this."
+  }
+ ]
+}

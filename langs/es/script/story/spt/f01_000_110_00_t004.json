@@ -1,0 +1,220 @@
+{
+ "file": "story/spt/f01_000_110_00_t004.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "706f72a94a5e",
+   "t": "¡M-mucho gusto, encantado de\nconocerlos!"
+  },
+  {
+   "i": 1054,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1063,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1073,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1082,
+   "src": "dfb11eed7a30",
+   "t": "Bien, entonces."
+  },
+  {
+   "i": 1090,
+   "src": "3c7e5c36e49b",
+   "t": "Como sabes, esta es una escuela nueva,"
+  },
+  {
+   "i": 1093,
+   "src": "0ad25e602b7f",
+   "t": "fundada hace menos de tres años."
+  },
+  {
+   "i": 1101,
+   "src": "cadb6b10ada4",
+   "t": "Aun así, hay muchísimos aspirantes."
+  },
+  {
+   "i": 1104,
+   "src": "9e218245d3a1",
+   "t": "Dicen que es la más difícil del mundo."
+  },
+  {
+   "i": 1112,
+   "src": "d492ca158aa9",
+   "t": "La razón es clara."
+  },
+  {
+   "i": 1127,
+   "src": "f7090c954fc5",
+   "t": "Somos la única institución"
+  },
+  {
+   "i": 1130,
+   "src": "6be3a5df695a",
+   "t": "que forma medaguerreros de élite."
+  },
+  {
+   "i": 1138,
+   "src": "111815ed7631",
+   "t": "Por otro lado, hay muchos jóvenes"
+  },
+  {
+   "i": 1141,
+   "src": "e41d6dca7fb3",
+   "t": "que sueñan con ser de élite."
+  },
+  {
+   "i": 1149,
+   "src": "cb5ae3eb05c8",
+   "t": "Por supuesto, tú eres uno de ellos,\n¿verdad?"
+  },
+  {
+   "i": 1164,
+   "src": "342c20413c8f",
+   "t": "¡Sí!"
+  },
+  {
+   "i": 1176,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1182,
+   "src": "be8f55742378",
+   "t": "Claro."
+  },
+  {
+   "i": 1190,
+   "src": "5c57dfeb3295",
+   "t": "Entraste por recomendación especial,"
+  },
+  {
+   "i": 1193,
+   "src": "d9adc021d8f1",
+   "t": "un caso de lo más excepcional."
+  },
+  {
+   "i": 1201,
+   "src": "44d98310a865",
+   "t": "Detrás de eso, hay muchos jóvenes"
+  },
+  {
+   "i": 1204,
+   "src": "7b99ec2938af",
+   "t": "que quisieron entrar pero no pudieron."
+  },
+  {
+   "i": 1212,
+   "src": "bf8ebd371c7c",
+   "t": "Debes esforzarte más que nadie"
+  },
+  {
+   "i": 1215,
+   "src": "9915d5214790",
+   "t": "para no avergonzarte ante ellos."
+  },
+  {
+   "i": 1223,
+   "src": "f59b17acf72f",
+   "t": "Ese es tu deber..."
+  },
+  {
+   "i": 1226,
+   "src": "102347397583",
+   "t": "¿Entiendes?"
+  },
+  {
+   "i": 1241,
+   "src": "4b10a2fff38e",
+   "t": "¡Daré lo mejor de mí!"
+  },
+  {
+   "i": 1246,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1252,
+   "src": "1143e20d6653",
+   "t": "Muy bien."
+  },
+  {
+   "i": 1255,
+   "src": "072718f82bdb",
+   "t": "Ahora, lo siguiente--"
+  },
+  {
+   "i": 1270,
+   "src": "a311cd110564",
+   "t": "El {{principal}} llega tarde..."
+  },
+  {
+   "i": 1278,
+   "src": "57e3fd50010f",
+   "t": "Ah, ¿había algo más que debía hacer?"
+  },
+  {
+   "i": 1281,
+   "src": "bf6feafa671d",
+   "t": "Veamos..."
+  },
+  {
+   "i": 1288,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1297,
+   "src": "8bd25ba06188",
+   "t": "Parece que aún no se ha entregado\nel {{student_id}}."
+  },
+  {
+   "i": 1304,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1313,
+   "src": "7c57f231bdde",
+   "t": "¿Mm?"
+  },
+  {
+   "i": 1316,
+   "src": "d6882e638f3a",
+   "t": "Ah sí, ahora que lo pienso..."
+  },
+  {
+   "i": 1327,
+   "src": "50dbe5b52912",
+   "t": "¿Podría pedirte un favor,"
+  },
+  {
+   "i": 1330,
+   "src": "cecc8d42e357",
+   "t": "{{mr_akebono}}?"
+  },
+  {
+   "i": 1340,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1346,
+   "src": "b9169847199f",
+   "t": "¡Entendido! Bien, si me lo permite,"
+  },
+  {
+   "i": 1349,
+   "src": "cc8064f50a3f",
+   "t": "yo mismo me atreveré a..."
+  }
+ ]
+}

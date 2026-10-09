@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc02_161_meda_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "741472e6106d",
+   "t": "Últimamente hablo mucho con {{mio}} de"
+  },
+  {
+   "i": 1041,
+   "src": "be06ecdc85ef",
+   "t": "robobatallas. Antes no le interesaban"
+  },
+  {
+   "i": 1049,
+   "src": "b0f1982e2e04",
+   "t": "para nada. ¿Me pregunto si será porque"
+  },
+  {
+   "i": 1052,
+   "src": "f70178cf75e5",
+   "t": "entró al Club de Exploración? Jeje."
+  }
+ ]
+}

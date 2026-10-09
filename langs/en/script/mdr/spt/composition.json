@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/composition.spt",
+ "lines": [
+  {
+   "i": 1467,
+   "src": "d42af9014fe2",
+   "t": "{{medalia}} Fusion"
+  },
+  {
+   "i": 1476,
+   "src": "d5aa5e3e18ef",
+   "t": "Select the {{medalia}} to use as the base."
+  },
+  {
+   "i": 1509,
+   "src": "4d24697ea281",
+   "t": "Select the {{medalia}} to use as material."
+  },
+  {
+   "i": 1894,
+   "src": "9bd9db121d9b",
+   "t": "Is this fusion OK?"
+  },
+  {
+   "i": 2238,
+   "src": "79f2f63734ca",
+   "t": "Fusion successful."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3f_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1035,
+   "src": "e0ed8ef88159",
+   "t": "Ah, ¿ahora? Ahora, bueno..."
+  },
+  {
+   "i": 1038,
+   "src": "3fe077009fcc",
+   "t": "Perdona, ¿lo dejamos para otra vez?"
+  }
+ ]
+}

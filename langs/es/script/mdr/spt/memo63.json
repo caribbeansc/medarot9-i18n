@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo63.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "048b16537f8d",
+   "t": "\"Recoger {{medalia}}: {{old_harbor_town}}\""
+  },
+  {
+   "i": 32,
+   "src": "02f20d0cdf78",
+   "t": "Aún queda una {{react}} de {{medalia|pl}} en {{old_harbor_town}}.\nAvancemos al oeste desde la {{mine_entrance}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "927c60a1f7d1",
+   "t": "Encontramos la {{medalia}}.\nEl {{occult_research_club}} nos amenazó, pero no nos la quitó.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

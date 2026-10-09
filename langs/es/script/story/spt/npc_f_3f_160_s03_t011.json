@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3f_160_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1035,
+   "src": "b077b4acafce",
+   "t": "Sí, visualmente queda bien, pero..."
+  },
+  {
+   "i": 1038,
+   "src": "ccc96bdbc098",
+   "t": "los rostros quedan tapados"
+  },
+  {
+   "i": 1046,
+   "src": "723e14c8aa54",
+   "t": "mucho rato. Ya lo dije antes,"
+  },
+  {
+   "i": 1049,
+   "src": "05722559c626",
+   "t": "Sakkara-kun... esto no es un film. Es"
+  },
+  {
+   "i": 1057,
+   "src": "4ec21785331d",
+   "t": "un PV del Club Idol. Perdona, pero"
+  },
+  {
+   "i": 1060,
+   "src": "f475ef12c947",
+   "t": "¿podrías pensarlo un poco más?"
+  }
+ ]
+}

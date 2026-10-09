@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/auto_battle05.spt",
+ "lines": [
+  {
+   "i": 1050,
+   "src": "b7c9ff1d73f6",
+   "t": "{{taisan}}"
+  },
+  {
+   "i": 1161,
+   "src": "5ac2aaf9bbbd",
+   "t": "¡¡Vamos allá!!\n¡Prototipo 1, transferencia!"
+  },
+  {
+   "i": 1228,
+   "src": "dd4bac05f29b",
+   "t": ", ¡transferencia!"
+  },
+  {
+   "i": 1343,
+   "src": "349b9806ea93",
+   "t": "¡Qué tal!"
+  },
+  {
+   "i": 1408,
+   "src": "8bee73235d75",
+   "t": "..."
+  },
+  {
+   "i": 1523,
+   "src": "4f654cd6fd6b",
+   "t": "¡Aún no, aún no!"
+  },
+  {
+   "i": 1588,
+   "src": "8bee73235d75",
+   "t": "..."
+  },
+  {
+   "i": 1757,
+   "src": "4d55b62ce8bc",
+   "t": "¡El golpe final!"
+  },
+  {
+   "i": 1835,
+   "src": "8bee73235d75",
+   "t": "..."
+  }
+ ]
+}

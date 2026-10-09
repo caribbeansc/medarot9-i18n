@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_166.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9f8bffbd6488",
+   "t": "<c:00ff01>Action:<c> {{guard_plant}}\nSets a device that\nperforms an Interrupt\nGuard against attacks on\nallies. Setting it\nrepeatedly raises its\n{{armor}}."
+  }
+ ]
+}

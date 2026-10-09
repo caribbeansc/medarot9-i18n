@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f11_110_000_00_t014.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "02af760f2d17",
+   "t": "Ugh."
+  },
+  {
+   "i": 1050,
+   "src": "49164a63e9ab",
+   "t": "What's wrong?"
+  },
+  {
+   "i": 1055,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1061,
+   "src": "99a5d1f70dcd",
+   "t": "We've been summoned."
+  },
+  {
+   "i": 1068,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1077,
+   "src": "ec3349d272eb",
+   "t": "By whom?"
+  },
+  {
+   "i": 1084,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1093,
+   "src": "6e2683f98bb2",
+   "t": "The {{student_council_president}}."
+  },
+  {
+   "i": 1096,
+   "src": "03ebbfa29851",
+   "t": "She says to come to the Council Room,\nshe wants to talk."
+  },
+  {
+   "i": 1104,
+   "src": "e086f56fdcf4",
+   "t": "The Council Room..."
+  },
+  {
+   "i": 1116,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1125,
+   "src": "92a624ca0783",
+   "t": "Come to think of it, we probably"
+  },
+  {
+   "i": 1128,
+   "src": "12f663731826",
+   "t": "count as having skipped the sports\nfestival, right?"
+  },
+  {
+   "i": 1142,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1151,
+   "src": "bc7a57ddd507",
+   "t": "It's sure to be a lecture."
+  },
+  {
+   "i": 1154,
+   "src": "99e847004565",
+   "t": "Ugh, what a pain."
+  },
+  {
+   "i": 1161,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1167,
+   "src": "a702f404baa2",
+   "t": "If you keep dragging your feet, it'll only\nget more and more troublesome."
+  },
+  {
+   "i": 1181,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1187,
+   "src": "6a33d4ddf66c",
+   "t": "I know."
+  },
+  {
+   "i": 1190,
+   "src": "9ec101488dfd",
+   "t": "I'm going."
+  }
+ ]
+}

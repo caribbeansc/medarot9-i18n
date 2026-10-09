@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_f_1e_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e71291170609",
+   "t": "{{girl_1_e}}"
+  },
+  {
+   "i": 1035,
+   "src": "03b3b42522de",
+   "t": "Hey, hey, Senpai. Is it true that there\nwas"
+  },
+  {
+   "i": 1038,
+   "src": "485add26504a",
+   "t": "a big accident on this island long ago?"
+  },
+  {
+   "i": 1045,
+   "src": "fffc8c17eb5f",
+   "t": "{{girl_2_c}}"
+  },
+  {
+   "i": 1051,
+   "src": "bdf5aeeb237b",
+   "t": "Seems so..."
+  },
+  {
+   "i": 1054,
+   "src": "7598d1e91ece",
+   "t": "A lot of people died, apparently..."
+  },
+  {
+   "i": 1062,
+   "src": "70fe2b636f19",
+   "t": "The rumor is that if you go into the\ndorm bath"
+  },
+  {
+   "i": 1065,
+   "src": "16281bb872b7",
+   "t": "alone at midnight, you hear groaning\nwith no one there--"
+  },
+  {
+   "i": 1072,
+   "src": "e71291170609",
+   "t": "{{girl_1_e}}"
+  },
+  {
+   "i": 1078,
+   "src": "4ec7827eb805",
+   "t": "Nooo!"
+  },
+  {
+   "i": 1081,
+   "src": "5f4015c1eb4e",
+   "t": "Please stop saying stuff like that,\nSenpaaai!"
+  }
+ ]
+}

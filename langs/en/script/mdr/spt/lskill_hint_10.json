@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_10.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c9cec38c74e4",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>{{first_strike_dodge}}\nAlways avoid the enemies attack during the\nfirst turn\n"
+  }
+ ]
+}

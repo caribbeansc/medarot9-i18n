@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f06_110_600_00_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "b962ff2b3544",
+   "t": "Uf. Qué cansada..."
+  },
+  {
+   "i": 1046,
+   "src": "271a5692c638",
+   "t": "Vaya, esto es bastante pesado."
+  },
+  {
+   "i": 1049,
+   "src": "e1db50388b5a",
+   "t": "A este paso, esos otros podrían..."
+  },
+  {
+   "i": 1054,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1060,
+   "src": "7e91bfbcb071",
+   "t": "Tal vez."
+  },
+  {
+   "i": 1063,
+   "src": "ebe141d4ff42",
+   "t": "Hay que acelerar un poco el ritmo."
+  }
+ ]
+}

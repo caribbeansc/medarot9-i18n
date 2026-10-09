@@ -1,0 +1,86 @@
+{
+ "rel": "mdr/tex/m9_map_e.ctpk",
+ "base": "jp",
+ "styles": {
+  "zona": {
+   "erase": "transparent",
+   "font": "hiragino-heavy",
+   "fill": "#FFFFFF",
+   "stroke": "#000000C0",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "cap": 10,
+   "crisp": 0.2
+  }
+ },
+ "items": [
+  {
+   "box": [
+    14,
+    6,
+    88,
+    22
+   ],
+   "erase_box": [
+    32,
+    7,
+    50,
+    19
+   ],
+   "erase": "glyph",
+   "text": "MAPA",
+   "font": "sf-heavy",
+   "cap": 13,
+   "fill": {
+    "top": "#E2FFFF",
+    "bottom": "#98EEFF"
+   },
+   "stroke": "#0B4E8E",
+   "stroke_w": 1.5,
+   "dy": -0.5
+  },
+  {
+   "style": "zona",
+   "box": [
+    121,
+    54,
+    114,
+    16
+   ],
+   "erase_box": [
+    119,
+    52,
+    118,
+    20
+   ],
+   "text": "Academia MEDA"
+  },
+  {
+   "style": "zona",
+   "box": [
+    121,
+    73,
+    114,
+    16
+   ],
+   "erase_box": [
+    126,
+    74,
+    103,
+    15
+   ],
+   "text": "Montana y bosque"
+  },
+  {
+   "style": "zona",
+   "box": [
+    124,
+    90,
+    108,
+    16
+   ],
+   "text": "Isla Loose Geyser",
+   "cap": 9
+  }
+ ]
+}

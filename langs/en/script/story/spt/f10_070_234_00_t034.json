@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f10_070_234_00_t034.spt",
+ "lines": [
+  {
+   "i": 1055,
+   "src": "737955db09d2",
+   "t": "Who are you?"
+  },
+  {
+   "i": 1061,
+   "src": "3e50d71541a3",
+   "t": "Who goes there?"
+  },
+  {
+   "i": 1075,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1083,
+   "src": "e658e599f4b4",
+   "t": "Doesn't matter who I am!"
+  },
+  {
+   "i": 1086,
+   "src": "bf7464a05aed",
+   "t": "We're getting out of here!"
+  },
+  {
+   "i": 1101,
+   "src": "8ff9635ad8f8",
+   "t": "We regroup for now!"
+  },
+  {
+   "i": 1104,
+   "src": "1c4d295c37a0",
+   "t": "Move out!"
+  },
+  {
+   "i": 1137,
+   "src": "fb57100d4cbf",
+   "t": "...Move."
+  }
+ ]
+}

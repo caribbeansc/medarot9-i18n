@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  }
+ ]
+}

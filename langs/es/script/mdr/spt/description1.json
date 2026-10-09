@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c1802064a4af",
+   "t": "{{medabot}}"
+  },
+  {
+   "i": 11,
+   "src": "6678d33d9c29",
+   "t": "Robot formado por:\n  - la <c:ffff00>{{medal}}<c>, que es el cerebro\n  - el <c:ffff00>{{tinpet}}<c>, con funciones de nervios y esqueleto\n  - <c:ffff00>{{part|pl}}<c> de 4 <c:ffff00>zonas<c>:\n    <c:ffff00>{{head}}<c>, <c:ffff00>{{right_arm}}<c>, <c:ffff00>{{left_arm}}<c> y <c:ffff00>{{legs}}<c>\n\nSe vende sobre todo como juguete y está muy\nextendido entre la gente."
+  }
+ ]
+}

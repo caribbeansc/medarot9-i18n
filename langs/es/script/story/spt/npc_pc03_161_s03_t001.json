@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc03_161_s03_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "8942690aad75",
+   "t": "Vaya, esto es interesante."
+  },
+  {
+   "i": 1038,
+   "src": "a79042762ecf",
+   "t": "Es interesante, pero también difícil."
+  },
+  {
+   "i": 1046,
+   "src": "064733ce8664",
+   "t": "Una herramienta para restaurar cristales"
+  },
+  {
+   "i": 1049,
+   "src": "9391aa97e6fb",
+   "t": "de memoria no se consigue fácilmente."
+  },
+  {
+   "i": 1057,
+   "src": "2d44ceb976da",
+   "t": "Supongo que tendré que construirla"
+  },
+  {
+   "i": 1060,
+   "src": "e478fb192942",
+   "t": "desde cero, empezando por el hardware."
+  },
+  {
+   "i": 1068,
+   "src": "d87d43f241d1",
+   "t": "Espera-- si acierto el conector,"
+  },
+  {
+   "i": 1071,
+   "src": "5ec3ae7f0b2b",
+   "t": "lo de dentro quizá sea igual..."
+  },
+  {
+   "i": 1079,
+   "src": "020a79730ca5",
+   "t": "El problema es..."
+  },
+  {
+   "i": 1087,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

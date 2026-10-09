@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f02_130_211_20_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "b38c819f72fc",
+   "t": "Wait."
+  },
+  {
+   "i": 1049,
+   "src": "e093454ef79a",
+   "t": "It's dangerous to go on alone from here."
+  },
+  {
+   "i": 1052,
+   "src": "31c23f855966",
+   "t": "It's too dark."
+  }
+ ]
+}

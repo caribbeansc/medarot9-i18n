@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc03_161_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "e8efae9b30aa",
+   "t": "Hm? Don't mind me."
+  },
+  {
+   "i": 1041,
+   "src": "bcf5b76a2832",
+   "t": "I'll follow you just fine."
+  },
+  {
+   "i": 1049,
+   "src": "afa3ab90fdc7",
+   "t": "Actually, I'd like you to go first."
+  },
+  {
+   "i": 1052,
+   "src": "c46152fc8c02",
+   "t": "...You're the president, after all."
+  },
+  {
+   "i": 1057,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1063,
+   "src": "60a5f616b633",
+   "t": "How modest, ha ha ha. But don't hold\nback,"
+  },
+  {
+   "i": 1066,
+   "src": "5ace1bd149ed",
+   "t": "just go ahead and make the calls."
+  },
+  {
+   "i": 1074,
+   "src": "169ca2527fe6",
+   "t": "*Sigh*"
+  }
+ ]
+}

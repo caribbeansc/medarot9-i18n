@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo58.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "76376349aef2",
+   "t": "\"Recoger {{medalia}}: {{mine_ruins|cap}}\""
+  },
+  {
+   "i": 32,
+   "src": "67233b24c534",
+   "t": "Gran {{react}} de {{medalia|pl}} en la zona de {{mine_ruins}}.\nEntremos al sendero desde el área de {{mountains|cap}} y {{deep_forest|cap}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "7fec8731c1be",
+   "t": "Debería estar por aquí, pero...\n"
+  },
+  {
+   "i": 52,
+   "src": "d58914248e0c",
+   "t": "Descendiendo por el acantilado con una cuerda...\n"
+  },
+  {
+   "i": 62,
+   "src": "35d4d5b938b4",
+   "t": "Llegamos como pudimos al espesador de las ruinas.\nNos topamos con un tipo raro, pero hallamos la {{medalia}}.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 72,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

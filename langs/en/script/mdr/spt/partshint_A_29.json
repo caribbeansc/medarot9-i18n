@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_29.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "f064d8e90bdc",
+   "t": "<c:00ff00>{{mf}}:<c> {{high_defense}}\nGreatly raises the {{defend}}\nstat of your whole team.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

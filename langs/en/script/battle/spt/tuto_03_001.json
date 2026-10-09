@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/tuto_03_001.spt",
+ "lines": [
+  {
+   "i": 1111,
+   "src": "2567d5287753",
+   "t": "Good!   "
+  },
+  {
+   "i": 1116,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1122,
+   "src": "10797b888b97",
+   "t": "Aimshot preps slower than a normal\nattack and misses more, but..."
+  },
+  {
+   "i": 1127,
+   "src": "a709ca288f54",
+   "t": "On success, <c:ff00ff>the foe can't defend or\nevade<c>\nand <c:ff00ff>the targeted {{part}} takes {{damage}}<c>.                                               "
+  },
+  {
+   "i": 1135,
+   "src": "0cf37c5e629a",
+   "t": "Pinpoint-{{destroy}} {{part|pl}} with nasty\nactions or thin armor...                                        "
+  },
+  {
+   "i": 1140,
+   "src": "92cc66e4fda4",
+   "t": "It's handy for making sure to hit\n{{medabot|pl}} strong at {{defend}} or {{evade}}.                     "
+  }
+ ]
+}

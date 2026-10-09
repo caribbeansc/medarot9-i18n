@@ -1,0 +1,449 @@
+{
+ "rel": "mdr/tex/menu_03.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    80,
+    64,
+    40,
+    16
+   ],
+   "box": [
+    83,
+    64,
+    40,
+    16
+   ],
+   "text": "GENDER",
+   "baseline": 74
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    120,
+    64,
+    32,
+    16
+   ],
+   "box": [
+    121,
+    64,
+    32,
+    16
+   ],
+   "text": "OWNED",
+   "baseline": 74
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    0,
+    96,
+    72,
+    16
+   ],
+   "box": [
+    5,
+    96,
+    72,
+    16
+   ],
+   "text": "RANK",
+   "baseline": 106
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    72,
+    96,
+    80,
+    16
+   ],
+   "box": [
+    76,
+    96,
+    80,
+    16
+   ],
+   "text": "CURRENT PTS",
+   "baseline": 106
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    0,
+    112,
+    56,
+    16
+   ],
+   "box": [
+    4,
+    112,
+    56,
+    16
+   ],
+   "text": "PRIZE",
+   "baseline": 121
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    56,
+    112,
+    32,
+    16
+   ],
+   "box": [
+    59,
+    112,
+    32,
+    16
+   ],
+   "text": "CHIPS",
+   "baseline": 121
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    88,
+    112,
+    24,
+    16
+   ],
+   "box": [
+    88,
+    112,
+    24,
+    16
+   ],
+   "text": "/",
+   "baseline": 121
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    112,
+    112,
+    24,
+    16
+   ],
+   "box": [
+    112,
+    112,
+    24,
+    16
+   ],
+   "text": "/",
+   "baseline": 121
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    136,
+    112,
+    24,
+    16
+   ],
+   "box": [
+    136,
+    112,
+    24,
+    16
+   ],
+   "text": ""
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    160,
+    112,
+    32,
+    8
+   ],
+   "box": [
+    160,
+    112,
+    32,
+    8
+   ],
+   "text": ""
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    160,
+    120,
+    32,
+    8
+   ],
+   "box": [
+    160,
+    120,
+    32,
+    8
+   ],
+   "text": ""
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    192,
+    112,
+    32,
+    8
+   ],
+   "box": [
+    192,
+    112,
+    32,
+    8
+   ],
+   "text": ""
+  },
+  {
+   "erase": "none",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "box": [
+    41,
+    96,
+    31,
+    16
+   ],
+   "text": "NAME",
+   "baseline": 106
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-compressed",
+   "cap": 9,
+   "fill": "#88F2E9",
+   "stroke": "#097677",
+   "stroke_w": 0.9,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "center",
+   "valign": "middle",
+   "min_scale_x": 0.75,
+   "segments": [
+    [
+     152,
+     96,
+     72,
+     16,
+     0,
+     0
+    ],
+    [
+     0,
+     80,
+     32,
+     16,
+     67,
+     0
+    ]
+   ],
+   "text": "Edit Nickname",
+   "box": [
+    3,
+    1,
+    94,
+    14
+   ]
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-compressed",
+   "cap": 9,
+   "fill": "#88F2E9",
+   "stroke": "#097677",
+   "stroke_w": 0.9,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "center",
+   "valign": "middle",
+   "min_scale_x": 0.75,
+   "segments": [
+    [
+     136,
+     80,
+     40,
+     16,
+     0,
+     0
+    ],
+    [
+     32,
+     80,
+     32,
+     16,
+     35,
+     0
+    ]
+   ],
+   "text": "Select Medal",
+   "box": [
+    2,
+    1,
+    64,
+    14
+   ]
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-compressed",
+   "cap": 9,
+   "fill": "#88F2E9",
+   "stroke": "#097677",
+   "stroke_w": 0.9,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "center",
+   "valign": "middle",
+   "min_scale_x": 0.75,
+   "segments": [
+    [
+     64,
+     80,
+     72,
+     16,
+     0,
+     0
+    ],
+    [
+     232,
+     96,
+     8,
+     16,
+     72,
+     0
+    ],
+    [
+     216,
+     80,
+     32,
+     16,
+     78,
+     0
+    ]
+   ],
+   "text": "Reset Level",
+   "box": [
+    3,
+    1,
+    100,
+    14
+   ]
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-compressed",
+   "cap": 9,
+   "fill": "#88F2E9",
+   "stroke": "#097677",
+   "stroke_w": 0.9,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "center",
+   "valign": "middle",
+   "min_scale_x": 0.75,
+   "segments": [
+    [
+     176,
+     80,
+     40,
+     16,
+     0,
+     0
+    ]
+   ],
+   "text": "Skill",
+   "box": [
+    1,
+    1,
+    38,
+    14
+   ]
+  }
+ ]
+}

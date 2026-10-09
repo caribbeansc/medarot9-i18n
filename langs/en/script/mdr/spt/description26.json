@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description26.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "66899918d408",
+   "t": "{{damage|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "f2b129e5c891",
+   "t": "The reduction of the <c:ffff00>{{armor}}<c> of <c:ffff00>{{part|pl}}<c> and <c:ffff00>objects<c>\nduring a <c:ffff00>{{robattle}}<c>, and its numerical value.\nIt is mainly caused by <c:ffff00>attacks<c> from <c:ffff00>{{medabot|pl}}<c>, <c:ffff00>Traps<c>\nand <c:ffff00>negative statuses<c>. Generally, it affects the\n{{armor}} of the {{part}} that <c:ffff00>responds<c>, but depending on\nthe <c:ffff00>{{damage_trait}}<c> it can also reach other {{part|pl}}.\n{{part|pl|cap}} and objects whose {{armor}} reaches 0 are\n<c:ffff00>destroyed<c>."
+  }
+ ]
+}

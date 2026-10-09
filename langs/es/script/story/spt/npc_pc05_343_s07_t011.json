@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc05_343_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "479e6b60fa72",
+   "t": "¿Será un ladrón especializado en {{part|pl}}\nde {{legs_part_slot}}?"
+  },
+  {
+   "i": 1046,
+   "src": "53e59bf4ebd9",
+   "t": "¡Me interesa!"
+  }
+ ]
+}

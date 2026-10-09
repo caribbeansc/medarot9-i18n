@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f03_025_212_00_t001.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "2f8bb8e8234f",
+   "t": "Good! "
+  },
+  {
+   "i": 1034,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1037,
+   "src": "3fdfdd4e1da9",
+   "t": "What's it like inside?"
+  },
+  {
+   "i": 1061,
+   "src": "fed1359b30f7",
+   "t": "Hmm."
+  },
+  {
+   "i": 1067,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

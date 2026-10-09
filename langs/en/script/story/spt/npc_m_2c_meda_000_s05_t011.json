@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_2c_meda_000_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e2d11d6f76f2",
+   "t": "{{cordy}}"
+  },
+  {
+   "i": 1038,
+   "src": "ce73d6c7ef3c",
+   "t": "{{medabot|pl}} don't have tests,"
+  },
+  {
+   "i": 1041,
+   "src": "3276a9671832",
+   "t": "but we have interviews instead."
+  },
+  {
+   "i": 1049,
+   "src": "2d057de790b6",
+   "t": "The content's a secret."
+  }
+ ]
+}

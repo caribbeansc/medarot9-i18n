@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f09_140_230_00_t011.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1037,
+   "src": "e05b2fc76d8e",
+   "t": "Oye, oye, vete por allá, {{robo}}."
+  },
+  {
+   "i": 1040,
+   "src": "e1f893c36b0a",
+   "t": "Esta es zona prohibida, {{robo}}."
+  },
+  {
+   "i": 1047,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1053,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

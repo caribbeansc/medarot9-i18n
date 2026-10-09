@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_1.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "8a57d91cb6bc",
+   "t": "<c:00ff00>{{mf}}:<c> Gunslinger\nWith swift movements,\nuses the right arm and left\narm {{part|pl}} at the same\ntime.\n<c:00ffff>{{required_parts}}<c>\nBoth arms as attack {{part|pl}}"
+  }
+ ]
+}

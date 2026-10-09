@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_idol_meda_153_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1038,
+   "src": "5be24f008573",
+   "t": "My, are you going to jump down?"
+  },
+  {
+   "i": 1041,
+   "src": "9456ab55085c",
+   "t": "Be careful, now."
+  },
+  {
+   "i": 1049,
+   "src": "40e3f8a8d049",
+   "t": "Unlike us, humans can't just swap"
+  },
+  {
+   "i": 1052,
+   "src": "3d5d7e8cabb8",
+   "t": "their {{part|pl}} out when they break."
+  }
+ ]
+}

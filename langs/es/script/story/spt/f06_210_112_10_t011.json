@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f06_210_112_10_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "91d5744604b8",
+   "t": "Esa es la situación."
+  },
+  {
+   "i": 1048,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1056,
+   "src": "45ab08102440",
+   "t": "Hmm."
+  },
+  {
+   "i": 1064,
+   "src": "75b8b8c9c3bf",
+   "t": "La fuente de las {{jamming_waves}}\nestá en la {{principal_s_office}}..."
+  },
+  {
+   "i": 1082,
+   "src": "9a57f629c0c3",
+   "t": "Es posible."
+  },
+  {
+   "i": 1090,
+   "src": "ad3cb5700c50",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1095,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1101,
+   "src": "04c33a2f4157",
+   "t": "Bueno, él es muy reservado."
+  },
+  {
+   "i": 1109,
+   "src": "769cdba69b52",
+   "t": "Un laboratorio secreto en la oficina del"
+  },
+  {
+   "i": 1112,
+   "src": "96b5f6713d29",
+   "t": "director me parece bastante plausible."
+  }
+ ]
+}

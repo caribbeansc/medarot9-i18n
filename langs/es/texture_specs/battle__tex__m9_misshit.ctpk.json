@@ -1,0 +1,72 @@
+{
+ "rel": "battle/tex/m9_misshit.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    130,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    1,
+    128,
+    29
+   ],
+   "erase": "none",
+   "text": "ROCE!",
+   "font": "impact",
+   "cap": 19.5,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFEEFF"
+     ],
+     [
+      0.3,
+      "#FF5577"
+     ],
+     [
+      0.6,
+      "#FFAABB"
+     ],
+     [
+      1,
+      "#FF99BB"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#CC1133",
+     "w": 1
+    },
+    {
+     "color": "#AA0000",
+     "w": 1.2
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   },
+   "tracking": 5
+  }
+ ]
+}

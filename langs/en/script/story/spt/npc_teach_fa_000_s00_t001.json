@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_teach_fa_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  }
+ ]
+}

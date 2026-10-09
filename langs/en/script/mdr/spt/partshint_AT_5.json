@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_5.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "76ad8f675ff6",
+   "t": "<c:00ff00>Action:<c> {{napalm}}\nA ranged attack with a\nblast.\nDamages {{all_parts}}."
+  }
+ ]
+}

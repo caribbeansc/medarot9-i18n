@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3c_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2ebc46fccac9",
+   "t": "{{akitora}}"
+  },
+  {
+   "i": 1035,
+   "src": "06c8a79e033a",
+   "t": "¡Ahora no puedo!"
+  },
+  {
+   "i": 1038,
+   "src": "5eecb15b2707",
+   "t": "¡¡No tengo tiempo!!"
+  }
+ ]
+}

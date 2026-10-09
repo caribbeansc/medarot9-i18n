@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_fb_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1035,
+   "src": "417257c336f7",
+   "t": "Ay, qué pena. Ahora estoy un poco"
+  },
+  {
+   "i": 1038,
+   "src": "eaca7ffa7267",
+   "t": "ocupada, pero invítame otra vez."
+  }
+ ]
+}

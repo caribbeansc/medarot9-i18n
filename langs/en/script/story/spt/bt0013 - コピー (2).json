@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/bt0013 - コピー (2).spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "4d4b80ec44e3",
+   "t": "{{junk_character}}"
+  },
+  {
+   "i": 864,
+   "src": "a44af508b5b1",
+   "t": "Win the {{robattle}}!"
+  },
+  {
+   "i": 867,
+   "src": "a44af508b5b1",
+   "t": "Win the {{robattle}}!"
+  },
+  {
+   "i": 878,
+   "src": "f9729edc7d4b",
+   "t": "Ga... Gagaga..."
+  }
+ ]
+}

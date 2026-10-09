@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_3f_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1038,
+   "src": "a56eb1ee2a94",
+   "t": "A first-year?"
+  },
+  {
+   "i": 1046,
+   "src": "24981350aa6b",
+   "t": "It's not like it's forbidden, but..."
+  },
+  {
+   "i": 1049,
+   "src": "d9736dd02fab",
+   "t": "you'd better not wander far outside the\nschool."
+  },
+  {
+   "i": 1059,
+   "src": "a7f55d225eee",
+   "t": "{{blossomail}}"
+  },
+  {
+   "i": 1065,
+   "src": "c747c5f63736",
+   "t": "Strays are roaming around!"
+  },
+  {
+   "i": 1068,
+   "src": "c37c99517617",
+   "t": "The ones on this island are tougher than\nmainland ones!"
+  }
+ ]
+}

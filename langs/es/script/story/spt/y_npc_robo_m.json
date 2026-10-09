@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_robo_m.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1653,
+   "src": "898f53f025f4",
+   "t": "¿Una robobatalla, robo?"
+  },
+  {
+   "i": 1656,
+   "src": "b3ee4fb5964d",
+   "t": "¡Claro, {{robo}}! ¡No perderé, {{robo}}~!"
+  }
+ ]
+}

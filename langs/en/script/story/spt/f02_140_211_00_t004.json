@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f02_140_211_00_t004.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "3ab3f7290b21",
+   "t": "It's sparkly and cool!"
+  },
+  {
+   "i": 1054,
+   "src": "7f9e27d168b0",
+   "t": "It sparkles, and it is cool!"
+  },
+  {
+   "i": 1063,
+   "src": "3e90c9219cc8",
+   "t": "You're right."
+  },
+  {
+   "i": 1071,
+   "src": "55fb22c93d3b",
+   "t": "What could it be..."
+  },
+  {
+   "i": 1074,
+   "src": "6696fb69d482",
+   "t": "A gem? No, it can't be."
+  },
+  {
+   "i": 1082,
+   "src": "5474e575de29",
+   "t": "Could it be {{medalia}}?"
+  },
+  {
+   "i": 1085,
+   "src": "0b6b72a98e34",
+   "t": "Doesn't look like it, though. Hmm..."
+  },
+  {
+   "i": 1109,
+   "src": "5a4851965203",
+   "t": "What's {{medalia}}?"
+  },
+  {
+   "i": 1115,
+   "src": "966493d76807",
+   "t": "What exactly is {{medalia}}?"
+  },
+  {
+   "i": 1124,
+   "src": "abc4f5627a54",
+   "t": "{{medalia}} is--"
+  },
+  {
+   "i": 1132,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1138,
+   "src": "80e823ee03f1",
+   "t": "Let me see."
+  }
+ ]
+}

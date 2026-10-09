@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo59.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "a0a5acc7381a",
+   "t": "\"Recoger {{medalia}}: {{mountain_stream|cap}}\""
+  },
+  {
+   "i": 32,
+   "src": "6aeee22a798a",
+   "t": "Gran {{react}} de {{medalia|pl}} cerca del {{mountain_stream}}.\nVamos al {{mountain_stream}} atravesando el {{misty_deep_forest}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "40a981f18015",
+   "t": "Encontramos la {{medalia}} detrás de la cascada.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

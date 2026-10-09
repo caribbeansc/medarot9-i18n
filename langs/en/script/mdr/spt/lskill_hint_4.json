@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_4.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7338130feab0",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>Siege Tactics\nIf you have more {{medabot|pl}} than the foe,\n{{damage}} dealt increased to 120%"
+  }
+ ]
+}

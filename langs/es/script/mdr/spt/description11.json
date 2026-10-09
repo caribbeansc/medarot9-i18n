@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description11.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bcf4a0b6dbb6",
+   "t": "{{legs|cap}} ({{slot}})"
+  },
+  {
+   "i": 11,
+   "src": "2621f59cfc3f",
+   "t": "<c:ffff00>{{slot|cap}}<c> inferior que sostiene al <c:ffff00>{{medabot}}<c>. Tiene <c:ffff00>tipo de<c>\n<c:ffff00>{{legs}}<c>, <c:ffff00>{{leg_trait}}<c>, <c:ffff00>{{heavy_limit}}<c> y\n<c:ffff00>{{stats}}<c>: <c:ffff00>{{armor}}<c>, <c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c>.\nEs la base del {{medabot}} e influye mucho en la <c:ffff00>acción<c>\ny capacidad de las otras zonas. Como <c:ffff00>{{response}}<c> a un\n<c:ffff00>ataque<c>, casi todas las {{legs}} pueden <c:ffff00>evadir<c>; las de\ntipo <c:ffff00>{{tank}}<c> no, pero pueden <c:ffff00>defender<c>.\nCon la <c:ffff00>{{charge_gauge}}<c> llena suben {{mobility}},\n{{fighting}} y {{shooting}}."
+  }
+ ]
+}

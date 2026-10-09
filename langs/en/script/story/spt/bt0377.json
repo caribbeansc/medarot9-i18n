@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0377.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "39f12f1955b9",
+   "t": "{{momotaro}}"
+  },
+  {
+   "i": 872,
+   "src": "deb8f21c4006",
+   "t": "A {{robattle}}?"
+  },
+  {
+   "i": 875,
+   "src": "446af0a868fe",
+   "t": "All right, I'll take you on!"
+  }
+ ]
+}

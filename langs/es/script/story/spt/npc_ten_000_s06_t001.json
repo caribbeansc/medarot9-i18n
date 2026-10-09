@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_ten_000_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1038,
+   "src": "71b8d5fc21b1",
+   "t": "Pareces ocupado."
+  },
+  {
+   "i": 1041,
+   "src": "0609a3117508",
+   "t": "Está bien, por ahora lo dejaré pasar."
+  },
+  {
+   "i": 1049,
+   "src": "a0115148a0bb",
+   "t": "Yo también estaré ocupada pronto."
+  },
+  {
+   "i": 1052,
+   "src": "f70178cf75e5",
+   "t": "Je je je."
+  }
+ ]
+}

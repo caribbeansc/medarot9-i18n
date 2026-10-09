@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1f2_meda_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0b712bde3551",
+   "t": "{{shiny_star}}"
+  },
+  {
+   "i": 1038,
+   "src": "144249110d55",
+   "t": "A {{medabot}} only battles other"
+  },
+  {
+   "i": 1041,
+   "src": "0ab2f16aef7a",
+   "t": "Medabots. We can't fight humans, you\nknow."
+  }
+ ]
+}

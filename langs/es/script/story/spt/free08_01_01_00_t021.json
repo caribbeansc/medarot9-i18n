@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free08_01_01_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "3141dbe6302b",
+   "t": "¡La {{mission}} 'Recolección de {{medalia|pl}}:\n{{crater|cap}}' comienza!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "f932b36cc8c2",
+   "t": "Desde la cima del {{outer_rim}},"
+  },
+  {
+   "i": 1046,
+   "src": "8fcf66c2c92b",
+   "t": "debes descender hasta el {{crater}} interior."
+  },
+  {
+   "i": 1054,
+   "src": "e22d904db715",
+   "t": "De {{mountains_and_deep_forest}}, cruza el puente"
+  },
+  {
+   "i": 1057,
+   "src": "394cab7ce82f",
+   "t": "colgante y ve a la {{summit}} con el santuario."
+  }
+ ]
+}

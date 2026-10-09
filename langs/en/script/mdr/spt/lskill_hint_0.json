@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_0.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c3b607d03203",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>{{swift_formation}}\nYour team's first action charge time\nbecomes 2/3 of normal\n"
+  }
+ ]
+}

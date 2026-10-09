@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description95.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "66f870133560",
+   "t": "Skill"
+  },
+  {
+   "i": 11,
+   "src": "cbddb90ceda7",
+   "t": "A classification of the ability needed to handle <c:ffff00>{{part|pl}}<c>\n<c:ffff00>actions<c> and <c:ffff00>Drive<c>, in 6 types: <c:ffff00>Striking<c>, <c:ffff00>Shooting<c>,\n<c:ffff00>Support<c>, <c:ffff00>Heal<c>, <c:ffff00>Block<c> and <c:ffff00>Set-up<c>. Striking and\nShooting are <c:ffff00>offensive<c>; the rest are <c:ffff00>support type<c>.\nEach matches one of the <c:ffff00>{{medal}}<c>'s 6 <c:ffff00>skill levels<c> and\naffects the speed of <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c> and the\n{{effect}}.\n<c:ffff00>Special<c> {{part|pl}} belong to no skill and ignore skill\nlevels."
+  }
+ ]
+}

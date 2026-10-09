@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_seitokai_fa_113_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1035,
+   "src": "dd5e1493f417",
+   "t": "Ahhhhhh..."
+  }
+ ]
+}

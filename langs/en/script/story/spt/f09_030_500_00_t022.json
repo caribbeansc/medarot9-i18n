@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f09_030_500_00_t022.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "a998e9d79dff",
+   "t": "Let's go, {{robo}}!"
+  },
+  {
+   "i": 1043,
+   "src": "728776891d1c",
+   "t": "This time for sure,"
+  },
+  {
+   "i": 1046,
+   "src": "3f5b559a2da6",
+   "t": "I'll get revenge on that junker, {{robo}}!"
+  },
+  {
+   "i": 1057,
+   "src": "51a87729803b",
+   "t": "{{robo|cap}}~!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s04_t010.spt",
+ "lines": [
+  {
+   "i": 867,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 878,
+   "src": "7413bf106735",
+   "t": "¿Deberíamos ir al {{gymnasium}} pronto?"
+  },
+  {
+   "i": 881,
+   "src": "159edd67aaea",
+   "t": "¿Estás listo?"
+  }
+ ]
+}

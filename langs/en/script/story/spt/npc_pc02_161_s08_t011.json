@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc02_161_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "6221ba826bee",
+   "t": "Everyone's all Medalia, Medalia..."
+  },
+  {
+   "i": 1041,
+   "src": "575f1c2cd716",
+   "t": "Is this really benefiting us?"
+  },
+  {
+   "i": 1049,
+   "src": "89031108d8a1",
+   "t": "Maybe it would've been better not to"
+  },
+  {
+   "i": 1052,
+   "src": "d58ec6568840",
+   "t": "make it public after all?"
+  }
+ ]
+}

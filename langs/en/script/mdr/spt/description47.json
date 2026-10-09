@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description47.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1ded1b76481b",
+   "t": "Cannot {{defend}}"
+  },
+  {
+   "i": 11,
+   "src": "1f41c12a1606",
+   "t": "A state in which <c:ffff00>defending<c> is not possible.\n\nIf an <c:ffff00>action<c>, <c:ffff00>{{negative_status}}<c> or other {{effect}} makes\ndefense impossible, even a <c:ffff00>{{part}}<c> capable of\ndefending can't give the defend <c:ffff00>{{response}}<c>; having\nall such {{part|pl}} destroyed amounts to the same thing.\n\nIf an attack is <c:ffff00>taken<c> while unable to defend and\n<c:ffff00>unable to evade<c>, it is always <c:ffff00>{{critical}}<c>."
+  }
+ ]
+}

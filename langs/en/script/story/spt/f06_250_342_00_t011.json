@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f06_250_342_00_t011.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "891d9d0e0811",
+   "t": "Found it!"
+  },
+  {
+   "i": 1004,
+   "src": "9af81c264a6f",
+   "t": "This is a {{medalia}}, isn't it?"
+  }
+ ]
+}

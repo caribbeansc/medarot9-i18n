@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_3b_meda_163_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "48d28919cf40",
+   "t": "{{lovelydog}}"
+  },
+  {
+   "i": 1038,
+   "src": "208e8e991ee6",
+   "t": "PV significa video promocional. Es un"
+  },
+  {
+   "i": 1041,
+   "src": "2c196f2449a2",
+   "t": "video que muestra nuestro canto y baile."
+  },
+  {
+   "i": 1049,
+   "src": "60031362dc1f",
+   "t": "No es por vistas de página."
+  }
+ ]
+}

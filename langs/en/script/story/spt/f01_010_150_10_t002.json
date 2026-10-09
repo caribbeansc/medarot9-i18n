@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f01_010_150_10_t002.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "daebc9eb3389",
+   "t": "I hear your room is number 202."
+  },
+  {
+   "i": 1043,
+   "src": "553cbf29492a",
+   "t": "Drop your things in your room, and\nwhen"
+  },
+  {
+   "i": 1046,
+   "src": "ff6b3c3df5cb",
+   "t": "you've settled in, come to class."
+  },
+  {
+   "i": 1054,
+   "src": "114558e4fffb",
+   "t": "It's {{classroom|cap}} 1-C."
+  }
+ ]
+}

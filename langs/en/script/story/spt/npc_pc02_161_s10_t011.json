@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "945da4bbe49d",
+   "t": "W-what? What about that shake?"
+  },
+  {
+   "i": 1041,
+   "src": "9a0a64537ad7",
+   "t": "It's just a fairly common earthquake--\nisn't it??"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_01_03_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "La {{mission}} actual es"
+  },
+  {
+   "i": 1004,
+   "src": "dd0c9559a954",
+   "t": "'Ondas: {{summit|cap}} de la Montaña'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Revisa la app de misiones para más\ndetalles."
+  }
+ ]
+}

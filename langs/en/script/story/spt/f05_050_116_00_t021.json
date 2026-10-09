@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f05_050_116_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "8be17db8fc92",
+   "t": "Looks like {{main}}-chan is a girl {{student}}."
+  },
+  {
+   "i": 1046,
+   "src": "09e1ad4d459c",
+   "t": "{{mio}}, do you know her?"
+  },
+  {
+   "i": 1054,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1063,
+   "src": "2bf23a6ad21c",
+   "t": "Who knows?"
+  },
+  {
+   "i": 1073,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1082,
+   "src": "51505e55b8db",
+   "t": "In any case, if she's a student here,"
+  },
+  {
+   "i": 1085,
+   "src": "01f5a9fac195",
+   "t": "she must be living in the dorms."
+  },
+  {
+   "i": 1095,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1101,
+   "src": "8890b141e8d9",
+   "t": "A girl genius, huh."
+  },
+  {
+   "i": 1104,
+   "src": "5faf7c73af4c",
+   "t": "I have to meet her."
+  }
+ ]
+}

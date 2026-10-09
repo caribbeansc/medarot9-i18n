@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description121.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "55e3a6330b31",
+   "t": "Aimshot (sub-skill)"
+  },
+  {
+   "i": 11,
+   "src": "f33604f40e65",
+   "t": "A <c:ffff00>sub-skill<c> for <c:ffff00>ranged<c> attacks that hits the chosen\n<c:ffff00>{{slot}}<c>.\nAfter choosing the <c:ffff00>{{target}}<c>, you can pick the <c:ffff00>{{part}}<c>, but\n<c:ffff00>{{prep}}<c> drops by 50%.\n<c:ffff00>{{success_power}}<c> drops and <c:ffff00>{{attack_failure}}<c> is likelier by\n{{slot}} (most for arms, least for the head), easing with\neach <c:ffff00>destroyed<c> {{slot}} of the {{opponent}}.\nOn success, the {{opponent}} can't <c:ffff00>respond<c> and the\nchosen {{part}} takes <c:ffff00>{{damage}}<c>."
+  }
+ ]
+}

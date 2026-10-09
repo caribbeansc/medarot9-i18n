@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description51.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6a1f1a15e19c",
+   "t": "{{revive|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "476ff1a772b0",
+   "t": "An {{effect}} that returns a <c:ffff00>{{knocked_out}}<c> <c:ffff00>{{medabot}}<c> to the\n<c:ffff00>{{robattle}}<c>.\n\nIt is mostly an <c:ffff00>action<c> of <c:ffff00>{{part|pl}}<c> with the <c:ffff00>Heal skill<c>.\n\nAll the {{part|pl}} of a revived {{medabot}} are <c:ffff00>restored<c>, and\n<c:ffff00>{{recover}}<c> a little <c:ffff00>{{armor}}<c>."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_2e_163_s02_t003.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1035,
+   "src": "d90ef8ede4c7",
+   "t": "That's right, one first-year is plenty: {{aoi}}."
+  },
+  {
+   "i": 1038,
+   "src": "40e73280d858",
+   "t": "We never needed {{mio}} from the start."
+  },
+  {
+   "i": 1046,
+   "src": "da6b4dc8b3ac",
+   "t": "Her as center? No way--"
+  },
+  {
+   "i": 1067,
+   "src": "d8e9967c5364",
+   "t": "Ah!"
+  },
+  {
+   "i": 1070,
+   "src": "cbfcca0ea4e4",
+   "t": "You're still here!?"
+  },
+  {
+   "i": 1078,
+   "src": "506691aec339",
+   "t": "Hey, how long are you going to stay?"
+  },
+  {
+   "i": 1081,
+   "src": "aee22ee079cb",
+   "t": "This place is off-limits to boys! Get out!"
+  }
+ ]
+}

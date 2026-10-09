@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1e_150_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1038,
+   "src": "91f5cb527a15",
+   "t": "{{aoi}} quizá volvió al {{dormitory}}."
+  },
+  {
+   "i": 1041,
+   "src": "ad3035585a4e",
+   "t": "No se veía bien, quizá esté enferma."
+  },
+  {
+   "i": 1049,
+   "src": "f2162c13c40b",
+   "t": "Mmm, ya me está preocupando un poco."
+  },
+  {
+   "i": 1052,
+   "src": "eb3eb221e6af",
+   "t": "Tal vez debería escribirle."
+  }
+ ]
+}

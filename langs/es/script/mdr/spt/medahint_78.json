@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_78.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3bf62aa57ebb",
+   "t": "{{medabot}} {{type}} hormiga\nsoldado, especialista en\ntrabajar con compañeros.\n \nAtaca mejor que la\nhormiga obrera {{antacker}}\ny da el golpe decisivo en\nlos ataques combinados."
+  }
+ ]
+}

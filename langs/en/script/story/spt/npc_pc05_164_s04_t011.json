@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_pc05_164_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1046,
+   "src": "74d4928c0242",
+   "t": "Who is it? Are you competing too?"
+  },
+  {
+   "i": 1049,
+   "src": "852424a6f3fd",
+   "t": "Do we need to discuss it?"
+  },
+  {
+   "i": 1059,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1065,
+   "src": "93b7eed518dc",
+   "t": "Oh, he's not a member of our {{club}}."
+  },
+  {
+   "i": 1068,
+   "src": "f4ce31b769b8",
+   "t": "Don't mind him, hahaha."
+  }
+ ]
+}

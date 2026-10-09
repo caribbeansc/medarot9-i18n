@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1c_117_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "c808741ef2b8",
+   "t": "What?"
+  },
+  {
+   "i": 1042,
+   "src": "17c1027988c8",
+   "t": "-kun, studying with us too?"
+  }
+ ]
+}

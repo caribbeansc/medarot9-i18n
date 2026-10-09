@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f07_030_161_10_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "c662f1ce7fb6",
+   "t": "El {{idol_club}}, eh."
+  },
+  {
+   "i": 1040,
+   "src": "4483e1011a84",
+   "t": "Ahora que lo pienso, casi lo olvido:"
+  },
+  {
+   "i": 1043,
+   "src": "99118f06171a",
+   "t": "Mio estaba en el {{idol_club}}, ¿no?"
+  },
+  {
+   "i": 1048,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1054,
+   "src": "f17e08af8ffc",
+   "t": "¿Es en serio?"
+  },
+  {
+   "i": 1057,
+   "src": "df2bce3bbc46",
+   "t": "Vaya."
+  },
+  {
+   "i": 1068,
+   "src": "0d75dd45eaf1",
+   "t": "¿...Lo olvidó?"
+  },
+  {
+   "i": 1071,
+   "src": "8d1d53d356c1",
+   "t": "Más me sorprendería que lo recordara."
+  },
+  {
+   "i": 1076,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1082,
+   "src": "8412f12fd17c",
+   "t": "Si mal no recuerdo, no fue una salida\namistosa..."
+  },
+  {
+   "i": 1093,
+   "src": "7ad51f89e8f7",
+   "t": "Sí, así es. Creo que ella"
+  },
+  {
+   "i": 1096,
+   "src": "058830b5dc48",
+   "t": "salió furiosa tras una pelea..."
+  },
+  {
+   "i": 1104,
+   "src": "b0b79deab3ad",
+   "t": "Aun así, lo aceptó con"
+  },
+  {
+   "i": 1107,
+   "src": "90242bfeb726",
+   "t": "sorprendente facilidad. Qué raro."
+  },
+  {
+   "i": 1115,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1121,
+   "src": "52035717f07c",
+   "t": "¿Facilidad? ¿...A eso le llamas fácil?"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_10.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5f736d7fd4f4",
+   "t": "<c:00ff00>{{mf}}:<c> Tidal Bore\nThe {{terrain}} becomes\n{{waterside}} and all\n{{medabot|pl}} return to the\n{{command_area}}.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

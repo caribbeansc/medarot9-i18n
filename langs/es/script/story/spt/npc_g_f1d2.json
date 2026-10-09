@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_g_f1d2.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1c4b8d5a4d2d",
+   "t": "{{sen}}"
+  },
+  {
+   "i": 1038,
+   "src": "620e96dca2d4",
+   "t": "Uf, siento que mi velocidad bajó"
+  },
+  {
+   "i": 1041,
+   "src": "730b11641a25",
+   "t": "últimamente... Quizá estoy en un bajón."
+  }
+ ]
+}

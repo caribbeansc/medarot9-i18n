@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description12.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "336e34a34eb6",
+   "t": "{{gender|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "3bde55cf1f18",
+   "t": "Clasificación en {{type}} masculino o {{type}} femenino que\ntienen el <c:ffff00>{{tinpet}}<c> y las <c:ffff00>{{part|pl}}<c>. Cada {{tinpet}} solo\nadmite {{part|pl}} de su mismo {{gender}}.\n\nComo excepción, existen {{part|pl}} neutrales que se\npueden colocar en cualquiera de los dos {{tinpet|pl}}."
+  }
+ ]
+}

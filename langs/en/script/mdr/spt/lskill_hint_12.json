@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_12.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1546f50441ca",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>{{quick_change}}\nTrans Parts have no waiting\nperiod before transforming\n"
+  }
+ ]
+}

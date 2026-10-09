@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/mlp_wm_loop.spt",
+ "lines": [
+  {
+   "i": 1191,
+   "src": "8ae8f407b0d4",
+   "t": "Waiting for {{opponent}} to connect. "
+  },
+  {
+   "i": 1288,
+   "src": "26deb7422f35",
+   "t": "Host is selecting rules."
+  },
+  {
+   "i": 1320,
+   "src": "8c4f58b5dfe1",
+   "t": "Host is selecting the {{field}}. "
+  },
+  {
+   "i": 2548,
+   "src": "26deb7422f35",
+   "t": "Host is selecting rules."
+  },
+  {
+   "i": 2577,
+   "src": "32d51a31cbcf",
+   "t": "Want to quit local match?"
+  }
+ ]
+}

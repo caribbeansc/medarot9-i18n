@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d_meda_116_s01_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dc985d3d3adc",
+   "t": "{{redmatador}}"
+  },
+  {
+   "i": 1035,
+   "src": "111ded2a842a",
+   "t": "Oye, ya es después de clases. Vamos"
+  },
+  {
+   "i": 1038,
+   "src": "cb0ed5c62c7e",
+   "t": "rápido al {{club}}, todos están esperando."
+  },
+  {
+   "i": 1046,
+   "src": "d5b58de15d8f",
+   "t": "Y por cierto, aquí no se hojea."
+  },
+  {
+   "i": 1049,
+   "src": "3be405625752",
+   "t": "Vámonos antes de que nos regañe, dale."
+  }
+ ]
+}

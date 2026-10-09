@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f01_000_110_00_t003.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1045,
+   "src": "6def5412b684",
+   "t": "¡Soy Akebono!"
+  },
+  {
+   "i": 1057,
+   "src": "2c6987d6a63e",
+   "t": "¡Un buen {{medafighter}} debe ser fuerte!"
+  },
+  {
+   "i": 1060,
+   "src": "1c2c5e4d9b14",
+   "t": "¡Seré duro contigo, así que prepárate!"
+  },
+  {
+   "i": 1070,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1076,
+   "src": "a933cf02c096",
+   "t": "Por supuesto, y"
+  },
+  {
+   "i": 1079,
+   "src": "7291be7e3506",
+   "t": "a su lado está la {{ms_koimari}}."
+  },
+  {
+   "i": 1089,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1098,
+   "src": "0a9ab5bd6632",
+   "t": "Soy Koimari, mucho gusto."
+  },
+  {
+   "i": 1101,
+   "src": "59771e5a5af7",
+   "t": "Suelo estar en la {{infirmary}}."
+  },
+  {
+   "i": 1116,
+   "src": "83aea9b9e4d6",
+   "t": "Si tienes algún problema, ven a"
+  },
+  {
+   "i": 1119,
+   "src": "23d50fff5cf1",
+   "t": "hablar conmigo. Te escucharé bien, jeje."
+  },
+  {
+   "i": 1126,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1135,
+   "src": "878dba2f0c71",
+   "t": "Los demás profes están en clase, pero"
+  },
+  {
+   "i": 1138,
+   "src": "e5dc63a9dbb0",
+   "t": "ya los irás conociendo poco a poco."
+  },
+  {
+   "i": 1146,
+   "src": "bb852f3a54c2",
+   "t": "Y por último,"
+  },
+  {
+   "i": 1149,
+   "src": "6cd5faf42d92",
+   "t": "como representante de los estudiantes--"
+  },
+  {
+   "i": 1159,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1168,
+   "src": "c8c07edb2286",
+   "t": "Soy Suzune."
+  }
+ ]
+}

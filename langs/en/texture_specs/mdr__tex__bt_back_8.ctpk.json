@@ -1,0 +1,38 @@
+{
+ "rel": "mdr/tex/bt_back_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    16,
+    0,
+    48,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    17,
+    2,
+    36,
+    12
+   ],
+   "erase": "none",
+   "text": "Back",
+   "font": "compact-rounded-heavy",
+   "cap": 7.4,
+   "fill": {
+    "top": "#3A4355",
+    "bottom": "#0C1324"
+   },
+   "stroke": "#FFFFFF",
+   "stroke_w": 1,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0,
+   "tracking": 0.5
+  }
+ ]
+}

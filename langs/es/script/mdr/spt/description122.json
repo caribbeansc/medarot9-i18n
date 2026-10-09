@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description122.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "17f4e667c104",
+   "t": "Fuego cruzado (sub.)"
+  },
+  {
+   "i": 11,
+   "src": "a2faeac9f39b",
+   "t": "<c:ffff00>Subhabilidad<c> que realiza un <c:ffff00>ataque combinado<c>.\nA diferencia de un <c:ffff00>ataque<c> normal, no se elige\n<c:ffff00>{{target}}<c> al elegir el comando: al completar la <c:ffff00>{{prep}}<c>,\nen vez de atacar, pasa a la <c:ffff00>postura FC<c>.\nCuando se completa la {{prep}} del ataque <c:ffff00>disparador<c>\nde un {{ally_battle_term}}, termina la postura FC y se ejecuta el\nataque combinado.\nEl fuego cruzado de <c:ffff00>{{shooting}}<c> se adelanta al ataque\ndisparador; el de <c:ffff00>{{fighting}}<c> ataca después."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_pc02_161_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "839f67559cf6",
+   "t": "Stealing {{part|pl}} right during exam break"
+  },
+  {
+   "i": 1041,
+   "src": "4ad54d9948db",
+   "t": "is such a nuisance."
+  },
+  {
+   "i": 1049,
+   "src": "5e8d973509fc",
+   "t": "Well, I won't fail, and "
+  },
+  {
+   "i": 1051,
+   "src": "9b02ed3420f3",
+   "t": "'s"
+  },
+  {
+   "i": 1054,
+   "src": "f6d9a0c91e30",
+   "t": "original parts are safe too, so whatever."
+  },
+  {
+   "i": 1062,
+   "src": "6e1f88278158",
+   "t": "But you must be in a tough spot."
+  },
+  {
+   "i": 1065,
+   "src": "a59ca9f157b8",
+   "t": "Hee hee hee."
+  }
+ ]
+}

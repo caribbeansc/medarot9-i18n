@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0349.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 872,
+   "src": "deb8f21c4006",
+   "t": "A {{robattle}}?"
+  },
+  {
+   "i": 875,
+   "src": "dbde084d7d97",
+   "t": "Heh, now we're talking!"
+  }
+ ]
+}

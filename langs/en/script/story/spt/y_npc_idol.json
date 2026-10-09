@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_idol.spt",
+ "lines": [
+  {
+   "i": 1652,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1695,
+   "src": "0fd97e065af1",
+   "t": "With me?"
+  },
+  {
+   "i": 1698,
+   "src": "1cd2ebabaf87",
+   "t": "Yes, please!"
+  }
+ ]
+}

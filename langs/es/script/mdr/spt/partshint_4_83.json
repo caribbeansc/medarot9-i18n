@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_83.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e5122e0a3060",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nSaboteador\nAl atacar a algo que no\nsea un\n{{medabot}}, {{power}} y\n{{success}}, y {{prep}} y\n{{cooldown}} +10."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0567.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "ecae4c42c3e3",
+   "t": "{{select_corps_member}}"
+  },
+  {
+   "i": 872,
+   "src": "c28d2fd5dd56",
+   "t": "Yes sir, a {{robattle}}!"
+  },
+  {
+   "i": 875,
+   "src": "9efbd1510500",
+   "t": "I'd be glad to be your {{opponent}}!"
+  }
+ ]
+}

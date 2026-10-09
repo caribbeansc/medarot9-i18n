@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/tuto_08_000.spt",
+ "lines": [
+  {
+   "i": 1118,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1124,
+   "src": "836bf85efc87",
+   "t": "Only <c:ff00ff>Crossfire<c>\n<c:ff00ff>sub-skill<c> {{part|pl}} can use it.     "
+  },
+  {
+   "i": 1138,
+   "src": "2db56ac6840c",
+   "t": "These are the {{part|pl}} that show\nthe Crossfire command.        "
+  },
+  {
+   "i": 1164,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1170,
+   "src": "d9ea3182ee18",
+   "t": "First, use the <c:ff00ff>D-pad<c> to select\na {{part}} that can use Crossfire.     "
+  },
+  {
+   "i": 1246,
+   "src": "34560d71e4e5",
+   "t": "After selecting a {{part}}, press\n<c:ff00ff>the same D-pad direction<c> again.             "
+  },
+  {
+   "i": 1312,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1318,
+   "src": "9c05d1d72e1f",
+   "t": "Press $* to confirm the command.      "
+  },
+  {
+   "i": 1345,
+   "src": "5f1b6ed1222f",
+   "t": "Normally you'd pick a target next,\nbut Crossfire ends the command here.                 "
+  }
+ ]
+}

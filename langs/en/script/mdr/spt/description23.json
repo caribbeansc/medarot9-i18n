@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description23.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f0008c7e1953",
+   "t": "{{prep}}"
+  },
+  {
+   "i": 11,
+   "src": "c507d21c716e",
+   "t": "The preparation time that accompanies the <c:ffff00>act<c> of an\n<c:ffff00>action<c> or <c:ffff00>Medaforce<c>, from when the command is\nchosen until it is executed. Its length varies with\nthe abilities of the <c:ffff00>{{medal}}<c> and <c:ffff00>{{part|pl}}<c>.\n\nIf the <c:ffff00>{{acting_part}}<c> is <c:ffff00>destroyed<c> during {{prep}}, the act is\ninterrupted and <c:ffff00>{{cooldown}}<c> begins immediately."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description112.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "11105d6055e0",
+   "t": "{{mobility}} (stat)"
+  },
+  {
+   "i": 11,
+   "src": "b42d139e1a7c",
+   "t": "A type of <c:ffff00>stat<c> for the <c:ffff00>legs<c> <c:ffff00>{{part}}<c>.\n\nMeasures the physical ability to move and control\nposture.\nThe higher the value, the more <c:ffff00>defense power<c> and\n<c:ffff00>evasion power<c> rise.\n\nWith a <c:ffff00>Berserk<c> <c:ffff00>attack<c>, Mobility is added to <c:ffff00>{{power}}<c>."
+  }
+ ]
+}

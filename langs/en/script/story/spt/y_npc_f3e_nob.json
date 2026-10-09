@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3e_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "84ae6f7f79c9",
+   "t": "Aww, too bad!"
+  },
+  {
+   "i": 1038,
+   "src": "8656dee41e5c",
+   "t": "I'm busy right now, maybe next time!"
+  }
+ ]
+}

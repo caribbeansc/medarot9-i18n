@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_30.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b9c817f125c4",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nCargador F\nSuma 1/10 de la barra de\ncarga al {{stats}} de\n{{fighting}} de la {{part}} de\n{{legs}}."
+  }
+ ]
+}

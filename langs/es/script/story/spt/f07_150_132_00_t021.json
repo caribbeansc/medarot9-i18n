@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f07_150_132_00_t021.spt",
+ "lines": [
+  {
+   "i": 896,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 907,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 915,
+   "src": "9a58cba81a5a",
+   "t": "¿Y qué? ¿No tienes que volver"
+  },
+  {
+   "i": 918,
+   "src": "1219e08a5881",
+   "t": "al {{exploration_club}}?"
+  }
+ ]
+}

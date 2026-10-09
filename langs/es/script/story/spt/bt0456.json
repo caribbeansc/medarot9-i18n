@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0456.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 894,
+   "src": "a335d298ada5",
+   "t": "Ah, ¿quieres una {{robattle}}?"
+  },
+  {
+   "i": 897,
+   "src": "0964f899ab55",
+   "t": "Claro, ¡no voy a perder!"
+  }
+ ]
+}

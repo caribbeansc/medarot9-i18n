@@ -1,0 +1,39 @@
+{
+ "rel": "story/mdl/m162.bcmdl",
+ "tex": "m162_nama",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    19,
+    26,
+    148,
+    58
+   ],
+   "erase_box": [
+    24,
+    33,
+    144,
+    45
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "text": "Exploration\nClub",
+   "font": "hiragino-heavy",
+   "cap": 14,
+   "pad": 0,
+   "fill": "#271F16",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#D9B27A",
+    "opacity": 0.8
+   },
+   "embolden": 0.5,
+   "dy": -1
+  }
+ ]
+}

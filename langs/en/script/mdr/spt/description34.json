@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description34.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0c9582c0ab21",
+   "t": "Defense Power"
+  },
+  {
+   "i": 11,
+   "src": "55b39d08a96d",
+   "t": "The ability to reduce the <c:ffff00>{{damage}}<c> from an\n{{opponent}}'s <c:ffff00>attack<c>.\n\nIt is mostly determined by the <c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c>\nstat of the <c:ffff00>legs<c>; the <c:ffff00>{{mobility}}<c> stat and <c:ffff00>{{medal_level}}<c>\nalso have an effect.\n\nIt rises temporarily when <c:ffff00>{{defend}}<c> is chosen in the\n<c:ffff00>{{response}}<c> command."
+  }
+ ]
+}

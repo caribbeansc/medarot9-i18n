@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1035,
+   "src": "d6e476b9e84d",
+   "t": "Oh, what a shame..."
+  },
+  {
+   "i": 1038,
+   "src": "dd518619a4bf",
+   "t": "I can't right now. Another time."
+  }
+ ]
+}

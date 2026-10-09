@@ -1,0 +1,345 @@
+{
+ "file": "story/spt/f02_010_115_00_t003.spt",
+ "lines": [
+  {
+   "i": 914,
+   "src": "5c6f261ace9e",
+   "t": "Oh..."
+  },
+  {
+   "i": 921,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 930,
+   "src": "a1c0104e6b9f",
+   "t": "Estás en el {{exploration_club}},\n¿verdad?"
+  },
+  {
+   "i": 941,
+   "src": "a0bdf6add811",
+   "t": "Sí, eso parece."
+  },
+  {
+   "i": 946,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 955,
+   "src": "6224fe986853",
+   "t": "El {{club|cap}} resuelve casos difíciles"
+  },
+  {
+   "i": 958,
+   "src": "b5a9ca0c7f9b",
+   "t": "y atrapa a los malos, ¿cierto?"
+  },
+  {
+   "i": 969,
+   "src": "9c3abce6c8bc",
+   "t": "Eh, ¿mmm?"
+  },
+  {
+   "i": 977,
+   "src": "0f49e059a697",
+   "t": "En todo caso, eso no es del Club de"
+  },
+  {
+   "i": 980,
+   "src": "e4e73cbc0f3f",
+   "t": "Exploración, sino de detectives-"
+  },
+  {
+   "i": 985,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 994,
+   "src": "ce16b1cbc86e",
+   "t": "Cualquiera de los dos está bien."
+  },
+  {
+   "i": 997,
+   "src": "1ba6ae3ad593",
+   "t": "Tengo un favor que pedirte."
+  },
+  {
+   "i": 1008,
+   "src": "f17e3e23d64f",
+   "t": "¿Un favor?"
+  },
+  {
+   "i": 1013,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1023,
+   "src": "2e5c704fd832",
+   "t": "... ¿podrías buscarla?"
+  },
+  {
+   "i": 1038,
+   "src": "c761f1c87ada",
+   "t": "Mi compañera."
+  },
+  {
+   "i": 1049,
+   "src": "139f8979eb12",
+   "t": "Compañera..."
+  },
+  {
+   "i": 1052,
+   "src": "5bd214867dd0",
+   "t": "Ah, ahora que lo pienso..."
+  },
+  {
+   "i": 1057,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1066,
+   "src": "3a679917923f",
+   "t": "Cuando desperté, ya no estaba."
+  },
+  {
+   "i": 1069,
+   "src": "ff6d9e73c717",
+   "t": "Seguro la secuestraron."
+  },
+  {
+   "i": 1080,
+   "src": "aaba956e710d",
+   "t": "¡¿Qué?!"
+  },
+  {
+   "i": 1088,
+   "src": "2699c557deee",
+   "t": "Si eso es cierto, es algo serio."
+  },
+  {
+   "i": 1091,
+   "src": "abb3bb037ae6",
+   "t": "¿Se lo reportaste a un {{teacher}}?"
+  },
+  {
+   "i": 1096,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1105,
+   "src": "5716e5297e76",
+   "t": "Si fuera a hacer eso, no te"
+  },
+  {
+   "i": 1108,
+   "src": "982fe97a7f50",
+   "t": "habría pedido ayuda. Más importante-"
+  },
+  {
+   "i": 1123,
+   "src": "8074fbb7987b",
+   "t": "Quiero que halles al culpable y traigas a"
+  },
+  {
+   "i": 1127,
+   "src": "60ce715ce77a",
+   "t": " de vuelta cuanto antes."
+  },
+  {
+   "i": 1135,
+   "src": "f82b170e8e92",
+   "t": "¿Vas a aceptar?"
+  },
+  {
+   "i": 1138,
+   "src": "346c6acc6674",
+   "t": "¿O no?"
+  },
+  {
+   "i": 1149,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1157,
+   "src": "2e58038f6791",
+   "t": "¿Tienes idea de quién podría ser el\nculpable?"
+  },
+  {
+   "i": 1169,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1178,
+   "src": "aeb3607b7a45",
+   "t": "Sí."
+  },
+  {
+   "i": 1186,
+   "src": "67d3130cf6bc",
+   "t": "{{aoi}}, de primer año en el {{idol_club}}."
+  },
+  {
+   "i": 1189,
+   "src": "74b900310772",
+   "t": "No hay duda."
+  },
+  {
+   "i": 1200,
+   "src": "a50f6902e42f",
+   "t": "¿Por qué crees eso?"
+  },
+  {
+   "i": 1205,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1214,
+   "src": "089ec2023f00",
+   "t": "Porque ya lo ha hecho antes."
+  },
+  {
+   "i": 1225,
+   "src": "881775369baa",
+   "t": "¿Ya lo ha hecho antes?"
+  },
+  {
+   "i": 1230,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1239,
+   "src": "0bdb225df666",
+   "t": "Siempre le da celos mi lazo con "
+  },
+  {
+   "i": 1241,
+   "src": "d48404aeb305",
+   "t": ","
+  },
+  {
+   "i": 1244,
+   "src": "c0e8e7a71515",
+   "t": "y quiere separarnos."
+  },
+  {
+   "i": 1252,
+   "src": "6a4346949f0d",
+   "t": "Pero como eso no le funcionó,"
+  },
+  {
+   "i": 1255,
+   "src": "c176c3df46ee",
+   "t": "creo que al fin recurrió a la fuerza."
+  },
+  {
+   "i": 1266,
+   "src": "169ca2527fe6",
+   "t": "Suspiro."
+  },
+  {
+   "i": 1278,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1287,
+   "src": "edcb72feac80",
+   "t": "En serio, no hay quien la aguante de lo\nterca."
+  },
+  {
+   "i": 1295,
+   "src": "00c619cac42e",
+   "t": "No basta con echarnos del {{idol_club}},"
+  },
+  {
+   "i": 1298,
+   "src": "8f631a095b4e",
+   "t": "ahora nos fastidia siempre."
+  },
+  {
+   "i": 1313,
+   "src": "31889c37b6c2",
+   "t": "¿De verdad le cuesta tanto"
+  },
+  {
+   "i": 1316,
+   "src": "0890d466de76",
+   "t": "aceptar que soy más linda? Ugh, lo odio."
+  },
+  {
+   "i": 1327,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1335,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1338,
+   "src": "242f52f1f417",
+   "t": "Entonces eso significa..."
+  },
+  {
+   "i": 1346,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1349,
+   "src": "a9374d1148cb",
+   "t": "¿Eras del {{idol_club}}?"
+  },
+  {
+   "i": 1354,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1363,
+   "src": "8e631e5b8487",
+   "t": "¿Y eso qué?"
+  },
+  {
+   "i": 1374,
+   "src": "8936c0f1d889",
+   "t": "Entonces, en otras palabras-"
+  },
+  {
+   "i": 1379,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1388,
+   "src": "84f263262000",
+   "t": "¿A quién le importa eso?"
+  },
+  {
+   "i": 1391,
+   "src": "2d56339d3b4b",
+   "t": "Además, aún no respondes mi pregunta."
+  },
+  {
+   "i": 1399,
+   "src": "f82b170e8e92",
+   "t": "¿Vas a aceptar?"
+  },
+  {
+   "i": 1402,
+   "src": "346c6acc6674",
+   "t": "¿O no?"
+  }
+ ]
+}

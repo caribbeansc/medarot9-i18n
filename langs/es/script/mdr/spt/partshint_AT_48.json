@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_48.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b4a27ebf17af",
+   "t": "<c:00ff00>Técnica:<c>Congel\nAtaque de {{fighting}} que\naplica {{freeze}}.\n<c:00ffff>{{status|cap}}:<c>{{freeze}}\nDetiene la acción por un\ntiempo; sin {{evade}} ni\n{{defend}}.\nSe anula al ser atacado."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m1d2.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "24aa4489f6dd",
+   "t": "{{taruhei}}"
+  },
+  {
+   "i": 1653,
+   "src": "ecfbb56ddad0",
+   "t": "Yeah, of course I will."
+  },
+  {
+   "i": 1656,
+   "src": "1581d374c033",
+   "t": "Here I come!"
+  }
+ ]
+}

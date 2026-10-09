@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_6.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "61bb344b27c6",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>{{terrain_adjust}}\nEliminates weak leg compatibity on this {{terrain}}\nDouble compatibility on best compatible {{terrain}}\n"
+  }
+ ]
+}

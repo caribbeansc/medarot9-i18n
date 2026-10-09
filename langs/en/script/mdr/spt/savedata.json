@@ -1,0 +1,40 @@
+{
+ "file": "mdr/spt/savedata.spt",
+ "lines": [
+  {
+   "i": 1049,
+   "src": "6de4c6b48a00",
+   "t": "Overwrite the current"
+  },
+  {
+   "i": 1052,
+   "src": "90b489e456eb",
+   "t": "save data?"
+  },
+  {
+   "i": 1062,
+   "src": "72ef20a82be6",
+   "t": "Save progress?"
+  },
+  {
+   "i": 1170,
+   "src": "659ddcb97acb",
+   "t": "Saving."
+  },
+  {
+   "i": 1209,
+   "src": "d6c3b809bdb1",
+   "t": "Save completed."
+  },
+  {
+   "i": 1220,
+   "src": "cbf2f9db8b90",
+   "t": "Save failed."
+  },
+  {
+   "i": 1279,
+   "src": "45ecfe6ff233",
+   "t": "If you overwrite your save with clear\ndata, you will only be able to select\n\"New Game\". Please be careful.\n\nWhen you create clear data, your next\n\"New Game\" will carry over your Medal\nlevel, obtained {{part|pl}} and more, so you\ncan enjoy another playthrough."
+  }
+ ]
+}

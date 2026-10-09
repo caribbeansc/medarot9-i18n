@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description78.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f77ccaefdfea",
+   "t": "{{skill_level|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "ed96921e0870",
+   "t": "Pericia de la <c:ffff00>{{medal}}<c> al manejar <c:ffff00>técnicas<c>.\nHay 6 <c:ffff00>habilidades<c>: <c:ffff00>{{fighting}}<c>, <c:ffff00>{{shooting}}<c>, <c:ffff00>apoyo<c>,\n<c:ffff00>curación<c>, <c:ffff00>{{defend}}<c> y <c:ffff00>trampa<c>.\nUsar técnicas de una habilidad cierto número de\nveces sube su nivel (máx. 99). La suma de los 6 es\nel <c:ffff00>{{medal_level}}<c>.\nUn nivel alto acelera la <c:ffff00>{{prep}}<c> y el <c:ffff00>{{cooldown}}<c>. En\n{{fighting}} y {{shooting}} sube el <c:ffff00>{{success_power}}<c>; en las\ndemás, el <c:ffff00>poder de {{defend}}<c> y el <c:ffff00>poder de {{evade}}<c>."
+  }
+ ]
+}

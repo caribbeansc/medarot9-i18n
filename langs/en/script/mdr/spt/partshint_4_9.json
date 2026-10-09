@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_9.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "987eee029b69",
+   "t": "<c:00ff00>Leg Trait:<c> {{support_plus}}\nWhen using a Support\naction, {{part}} {{prep}} stat +10."
+  }
+ ]
+}

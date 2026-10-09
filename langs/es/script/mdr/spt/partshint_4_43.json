@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_43.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "55ed20c24861",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{quick_fire}}\nLas {{part|pl}} de {{shooting}} con\n{{power}} 40 o menos\nganan el {{effect}} \"Cadena\".\n<c:00ffff>Cadena:<c> En un combo,\nuna {{part}} con este {{effect}}\nda {{stats}} de {{prep}}\n+10."
+  }
+ ]
+}

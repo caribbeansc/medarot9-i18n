@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_m_3e_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1035,
+   "src": "f6ca13bf5ab9",
+   "t": "Me intriga..."
+  },
+  {
+   "i": 1038,
+   "src": "23bd08864efb",
+   "t": "esa marca del helicóptero de antes..."
+  },
+  {
+   "i": 1046,
+   "src": "1246d1727ea4",
+   "t": "Si no me equivoco, ese es"
+  },
+  {
+   "i": 1049,
+   "src": "3d402ce85617",
+   "t": "el emblema del Cuerpo Select. O sea--"
+  },
+  {
+   "i": 1060,
+   "src": "fed537c5ae87",
+   "t": "¿Mmm?"
+  },
+  {
+   "i": 1063,
+   "src": "8fe72a188c25",
+   "t": "¿Hablas del {{select_corps}}?"
+  },
+  {
+   "i": 1071,
+   "src": "ca0e4bd7ae92",
+   "t": "El {{select_corps}} es la guardia del"
+  },
+  {
+   "i": 1074,
+   "src": "48de5063bd02",
+   "t": "consorcio WMSS, un ejército privado."
+  },
+  {
+   "i": 1082,
+   "src": "e30552b35b57",
+   "t": "Una organización secreta llena"
+  },
+  {
+   "i": 1085,
+   "src": "c678e39e45c0",
+   "t": "de rumores, de lo legal a lo turbio."
+  },
+  {
+   "i": 1093,
+   "src": "8baf007491fd",
+   "t": "Si tipos así vinieran a la isla..."
+  },
+  {
+   "i": 1096,
+   "src": "1343ebcff4ab",
+   "t": "esto merece una investigación."
+  }
+ ]
+}

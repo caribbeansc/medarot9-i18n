@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_fb_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a7dc79720d9d",
+   "t": "{{flapper_kung_fu}}"
+  },
+  {
+   "i": 1038,
+   "src": "80d79a63df03",
+   "t": "¡Cuidado, mira dónde pisas!"
+  },
+  {
+   "i": 1041,
+   "src": "4042a7b42ad6",
+   "t": "¡Hay muchas cosas tiradas por ahí!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_127.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dd3fa01ee932",
+   "t": "<c:00ff00>Action:<c> {{field_repair}}\nRecovers {{damage}} on all\n{{part|pl}} of one allied\n{{medabot}}.\nThe amount recovered\nvaries with leg {{affinity}}."
+  }
+ ]
+}

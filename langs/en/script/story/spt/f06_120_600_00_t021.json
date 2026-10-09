@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f06_120_600_00_t021.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1045,
+   "src": "0f9c5d908395",
+   "t": "So she says."
+  },
+  {
+   "i": 1055,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "72eabe874a99",
+   "t": "True enough."
+  },
+  {
+   "i": 1067,
+   "src": "a82d94a66fd0",
+   "t": "There are a lot fewer than before."
+  },
+  {
+   "i": 1077,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1083,
+   "src": "2405b333405d",
+   "t": "I think it's going pretty well, don't you?"
+  },
+  {
+   "i": 1094,
+   "src": "bbb9b9f0528c",
+   "t": "Um..."
+  },
+  {
+   "i": 1097,
+   "src": "82c5564a2f32",
+   "t": "Maybe we can actually pull this off...!?"
+  },
+  {
+   "i": 1109,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1115,
+   "src": "1e1831058073",
+   "t": "Dang."
+  },
+  {
+   "i": 1118,
+   "src": "bf7533870fe5",
+   "t": "If I'd known, I should've bet on\nsomething."
+  },
+  {
+   "i": 1135,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1141,
+   "src": "4d38f6c794e3",
+   "t": "You say that after you win."
+  }
+ ]
+}

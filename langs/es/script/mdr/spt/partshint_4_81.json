@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_81.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f0cc596f8616",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{captor}}\nCuando el {{target}} no\npuede evadir, {{prep}} +5.\nCuando no puede\ndefender, {{prep}} +5."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_teach_fc_130_s01_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "54b64d04a3f1",
+   "t": "{{pe_teacher}}"
+  },
+  {
+   "i": 1035,
+   "src": "0c0a81280aae",
+   "t": "Teachers must not get involved in\n{{student}} {{club}} activities at all!"
+  },
+  {
+   "i": 1043,
+   "src": "19e26e80433c",
+   "t": "...Don't you think"
+  },
+  {
+   "i": 1046,
+   "src": "342ab3a8083b",
+   "t": "that's a pretty harsh rule?"
+  },
+  {
+   "i": 1054,
+   "src": "d015405b365f",
+   "t": "I want to mix in and exercise with\neveryone too!"
+  },
+  {
+   "i": 1057,
+   "src": "2b0292eb73dd",
+   "t": "Just watching quietly is so boring~."
+  }
+ ]
+}

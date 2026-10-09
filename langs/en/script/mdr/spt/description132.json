@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description132.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "88d9d92c8c4b",
+   "t": "{{tank|cap}} (legs)"
+  },
+  {
+   "i": 11,
+   "src": "3034fc889440",
+   "t": "A <c:ffff00>Leg Type<c> that moves on treads. Only tanks can't\n<c:ffff00>evade<c>, but they can <c:ffff00>defend<c> instead. Stable on any\n{{terrain}}, they tend toward high <c:ffff00>{{armor}}<c> and <c:ffff00>Heavy<c>\n<c:ffff00>Limit<c>.\n\n<c:ffff00>{{terrain|cap}} {{affinity|cap}}<c> (<c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains}}<c>, <c:ffff00>{{forest}}<c>, <c:ffff00>{{rocky_ground}}<c>, <c:ffff00>{{sand}}<c>, <c:ffff00>{{tundra}}<c>, <c:ffff00>{{hall}}<c>\n  and <c:ffff00>{{waterside}}<c>: 0. <c:ffff00>{{cyber}}<c>: +4.\n  <c:ffff00>{{underwater}}<c> and <c:ffff00>{{sky}}<c>: {{robattle|pl}} not possible."
+  }
+ ]
+}

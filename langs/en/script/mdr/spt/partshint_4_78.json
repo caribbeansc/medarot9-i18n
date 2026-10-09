@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_78.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "79bfe516cd29",
+   "t": "<c:00ff00>Leg Trait:<c> {{all_rounder}}\nIf all slots have different\nskills, {{prep}} and {{cooldown}}\n+10 on {{all_parts}}."
+  }
+ ]
+}

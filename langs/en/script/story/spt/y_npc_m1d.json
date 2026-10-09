@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m1d.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1653,
+   "src": "7aac88bbc8ac",
+   "t": "Eh, a {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "7c2826aa8eae",
+   "t": "Hmm, what should I do."
+  }
+ ]
+}

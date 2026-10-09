@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d_meda_116_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dc985d3d3adc",
+   "t": "{{redmatador}}"
+  },
+  {
+   "i": 1035,
+   "src": "b961446f89d3",
+   "t": "Oye, oye, vamos rápido al {{classroom}}."
+  },
+  {
+   "i": 1038,
+   "src": "8e9fc531a47f",
+   "t": "La clase está por empezar."
+  },
+  {
+   "i": 1046,
+   "src": "d5b58de15d8f",
+   "t": "Y por cierto, aquí no se hojea."
+  },
+  {
+   "i": 1049,
+   "src": "3be405625752",
+   "t": "Vamos antes de que nos regañen, dale."
+  }
+ ]
+}

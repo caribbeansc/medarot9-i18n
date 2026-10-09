@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_136.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a0021be33a09",
+   "t": "<c:00ff00>Action:<c> {{perfect_guard}}\nA {{guard_stance}} that\nintercepts attacks on\nallies. When\nintercepting, nullifies\nany attack. Ends after 1\nguard, 4 {{ally_battle_term}} actions or\ntime passes."
+  }
+ ]
+}

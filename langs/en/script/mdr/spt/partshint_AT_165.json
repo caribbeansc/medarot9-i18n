@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_165.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6d5f3eb31788",
+   "t": "<c:00ff00>Action:<c> {{first_aid}}\nSets a device that\nrevives the team's\ndestroyed {{part|pl}} when\nprepping completes.\nSetting it repeatedly\nraises {{armor}} and\nrecovery. Vanishes when\nactivated."
+  }
+ ]
+}

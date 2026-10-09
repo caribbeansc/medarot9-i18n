@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s07_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "56c81ec904ce",
+   "t": "I got the {{part|pl}}. Let's see if they"
+  },
+  {
+   "i": 1041,
+   "src": "1d0ccfabeb45",
+   "t": "fit the {{idol_club}}'s {{medabot}}."
+  }
+ ]
+}

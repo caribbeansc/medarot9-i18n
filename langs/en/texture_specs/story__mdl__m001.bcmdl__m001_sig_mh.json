@@ -1,0 +1,63 @@
+{
+ "rel": "story/mdl/m001.bcmdl",
+ "tex": "m001_sig_mh",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "grow": 1,
+  "font": "sf",
+  "wght": 600,
+  "cap": 8,
+  "fill": "#D5D8D8",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.2
+ },
+ "items": [
+  {
+   "box": [
+    8,
+    4,
+    90,
+    16
+   ],
+   "erase_box": [
+    6,
+    12,
+    92,
+    14
+   ],
+   "text": "Peppermill",
+   "baseline": 15.5
+  },
+  {
+   "box": [
+    8,
+    14,
+    90,
+    16
+   ],
+   "erase": "none",
+   "text": "General Hospital",
+   "baseline": 25
+  },
+  {
+   "box": [
+    26,
+    74,
+    90,
+    20
+   ],
+   "erase_box": [
+    26,
+    78,
+    92,
+    16
+   ],
+   "text": "Medalonia Museum",
+   "baseline": 89.5
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f04_037_230_00_t024.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "86058007b0c5",
+   "t": "Stop sniffing around with pointless\nhopes."
+  },
+  {
+   "i": 1043,
+   "src": "417de554b3b3",
+   "t": "You'd better be careful, so I don't have"
+  },
+  {
+   "i": 1046,
+   "src": "58adf6cc4eaf",
+   "t": "another whim and expel you."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_22.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8805bc69987d",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nP Continua\nTras la acción de cada\n{{part}} {{stats}} de\n{{prep}} y {{cooldown}} +2\n*máximo +20."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_102.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4766a9fcaf42",
+   "t": "<c:00ff00>Action:<c> {{plant_boost}}\nMaxes out the {{armor}} of\nthe\n{{plant}} an {{ally_battle_term}} set on your\nown side."
+  }
+ ]
+}

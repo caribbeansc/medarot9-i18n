@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_18.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "00f1ebea9986",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{bunker}}\n{{waiting|cap}} de CF reduce el\n{{damage}} recibido en un 20%."
+  }
+ ]
+}

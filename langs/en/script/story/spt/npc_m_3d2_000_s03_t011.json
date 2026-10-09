@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_3d2_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2b1fd07bd562",
+   "t": "{{homare}}"
+  },
+  {
+   "i": 1038,
+   "src": "18b06d48f55d",
+   "t": "I heard a rumor in passing"
+  },
+  {
+   "i": 1041,
+   "src": "188b4f08502b",
+   "t": "someone tried to break into the girls'\ndorm."
+  },
+  {
+   "i": 1049,
+   "src": "d44960732fe5",
+   "t": "That's way too brave."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2b_meda_163_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9ebb4aab5418",
+   "t": "{{blazermate}}"
+  },
+  {
+   "i": 1038,
+   "src": "2bd19df862f2",
+   "t": "The next PV will be shot at the beach."
+  },
+  {
+   "i": 1041,
+   "src": "332b2d01175c",
+   "t": "I'm agonizing over what kind of setup to\nuse~."
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f02_150_211_00_t016.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1049,
+   "src": "88b7697b6479",
+   "t": "Well,"
+  },
+  {
+   "i": 1052,
+   "src": "dff6a1719d70",
+   "t": "everything worked out nicely, didn't it?"
+  },
+  {
+   "i": 1060,
+   "src": "7a2b05f56eee",
+   "t": "So, shall we head back?"
+  },
+  {
+   "i": 1071,
+   "src": "99ec4902c065",
+   "t": "How?"
+  },
+  {
+   "i": 1079,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1085,
+   "src": "187d6ff29116",
+   "t": "...Hm?"
+  },
+  {
+   "i": 1110,
+   "src": "bacbc2edf831",
+   "t": "Oh, right."
+  },
+  {
+   "i": 1113,
+   "src": "2c18209982bc",
+   "t": "We did jump down, didn't we?"
+  },
+  {
+   "i": 1128,
+   "src": "96495dcef8a1",
+   "t": "W-what do we do..."
+  },
+  {
+   "i": 1133,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1139,
+   "src": "263adadf9c35",
+   "t": "Hmm."
+  },
+  {
+   "i": 1155,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1163,
+   "src": "10f33efd74ea",
+   "t": "By the way..."
+  },
+  {
+   "i": 1166,
+   "src": "c69b343e449e",
+   "t": "How did you get all the way here?"
+  },
+  {
+   "i": 1174,
+   "src": "84e1b04be734",
+   "t": "Oh."
+  },
+  {
+   "i": 1177,
+   "src": "a75139d53eb0",
+   "t": "Now that you mention it..."
+  }
+ ]
+}

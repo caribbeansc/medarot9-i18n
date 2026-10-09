@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f04_050_131_30_t033.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "e422fdeb13aa",
+   "t": "Well."
+  },
+  {
+   "i": 1038,
+   "src": "4d0a4625e7ec",
+   "t": "Someone unexpected showed up, huh."
+  },
+  {
+   "i": 1048,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1057,
+   "src": "0395278a27a6",
+   "t": "What now? I never expected the\n{{exploration_club}},"
+  },
+  {
+   "i": 1060,
+   "src": "04108a6ce9ce",
+   "t": "so I haven't prepared anything at all!"
+  },
+  {
+   "i": 1070,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1079,
+   "src": "fa71b7a9aa4c",
+   "t": "Relax, relax."
+  },
+  {
+   "i": 1082,
+   "src": "692521f3878a",
+   "t": "We have a super reliable helper."
+  },
+  {
+   "i": 1089,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1095,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

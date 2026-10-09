@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_110_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "89c7b87552c0",
+   "t": "La {{principal_s_office}}... ahora que veo,"
+  },
+  {
+   "i": 1041,
+   "src": "71a77c7a32cf",
+   "t": "es mi primera vez. Es normal, no..."
+  }
+ ]
+}

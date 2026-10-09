@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_55.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "86093404a51e",
+   "t": "<c:00ff00>Técnica:<c>{{ghost}}\nAtaque de {{fighting}} que\nsuma a la {{power}} 1/2 del\n% de la {{charge_gauge}}.\nIgnora el aumento de\n{{defend}} que obtiene el\n{{opponent}} al defender.\nCon {{effect}} de\n{{pierce}}."
+  }
+ ]
+}

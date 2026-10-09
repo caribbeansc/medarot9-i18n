@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f09_150_500_00_t032.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "86e3869ab1af",
+   "t": "Did you know about that?"
+  },
+  {
+   "i": 1041,
+   "src": "0c0d5015e134",
+   "t": "{{ryoma}}-kun."
+  },
+  {
+   "i": 1048,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1054,
+   "src": "08d120d9c36e",
+   "t": "No..."
+  },
+  {
+   "i": 1061,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1070,
+   "src": "092ea304611c",
+   "t": "That's a {{mine_cart}}, isn't it..."
+  },
+  {
+   "i": 1073,
+   "src": "202b077c526c",
+   "t": "I wonder where it leads."
+  },
+  {
+   "i": 1098,
+   "src": "9b343615c52b",
+   "t": ", that guy..."
+  },
+  {
+   "i": 1101,
+   "src": "81076382cdeb",
+   "t": "Don't tell me he went on ahead alone..."
+  },
+  {
+   "i": 1108,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1114,
+   "src": "e850bd6d35ce",
+   "t": "Who knows."
+  },
+  {
+   "i": 1117,
+   "src": "ebceda1aa0f1",
+   "t": "...It's possible, though."
+  },
+  {
+   "i": 1138,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

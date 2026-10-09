@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f11_040_101_00_t021.spt",
+ "lines": [
+  {
+   "i": 1144,
+   "src": "8f61439be377",
+   "t": "Phew."
+  },
+  {
+   "i": 1149,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1155,
+   "src": "a3b2eeed0c09",
+   "t": "These are {{stray}} {{medabot|pl}}, huh..."
+  },
+  {
+   "i": 1165,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1174,
+   "src": "f6e354a55a5f",
+   "t": "Why are {{stray}} {{medabot|pl}} inside the\nschool?"
+  },
+  {
+   "i": 1177,
+   "src": "ca8cab3f54c8",
+   "t": "This has never happened before--"
+  },
+  {
+   "i": 1193,
+   "src": "3e328b53e588",
+   "t": "Soukuu-sama--\nIs the {{principal}} here!?"
+  }
+ ]
+}

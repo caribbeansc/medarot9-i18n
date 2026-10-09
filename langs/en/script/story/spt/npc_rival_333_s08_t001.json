@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_rival_333_s08_t001.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1049,
+   "src": "2a9b6651bde0",
+   "t": "Hyah!"
+  },
+  {
+   "i": 1052,
+   "src": "e4751eb880fa",
+   "t": "...Hah!"
+  },
+  {
+   "i": 1060,
+   "src": "56671fa4ade9",
+   "t": "W-what, it's you..."
+  },
+  {
+   "i": 1071,
+   "src": "57c78a7fe0c0",
+   "t": "You'll do, listen to me."
+  },
+  {
+   "i": 1074,
+   "src": "f5c94cbc7585",
+   "t": "They banned us from using the\ndetection {{app}}."
+  },
+  {
+   "i": 1082,
+   "src": "15cf6c0817a5",
+   "t": "Reason? Dunno, the President's\ndecision."
+  },
+  {
+   "i": 1085,
+   "src": "7ed0d29f52d0",
+   "t": "...Damn, I want {{medalia}} too--"
+  },
+  {
+   "i": 1095,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1101,
+   "src": "6357fd180f01",
+   "t": "Hey {{ryusei}}!"
+  },
+  {
+   "i": 1111,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1117,
+   "src": "313ce6584d9f",
+   "t": "...Uh-oh."
+  }
+ ]
+}

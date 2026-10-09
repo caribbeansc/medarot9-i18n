@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_fb_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a7dc79720d9d",
+   "t": "FlapperKung-Fu"
+  },
+  {
+   "i": 1038,
+   "src": "80d79a63df03",
+   "t": "Whoops, watch your step!"
+  },
+  {
+   "i": 1041,
+   "src": "4042a7b42ad6",
+   "t": "There's all kinds of stuff scattered\naround!"
+  }
+ ]
+}

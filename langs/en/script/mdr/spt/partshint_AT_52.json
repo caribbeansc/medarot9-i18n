@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_52.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fa712f342276",
+   "t": "<c:00ff00>Action:<c> {{assassin}}\nA melee attack: the\n{{opponent}} {{cannot_evade}}\nand it is always a {{critical}}\nhit.\nBut if it fails to {{destroy}}\nthe {{opponent}}'s {{part}}, it\nexplodes in return."
+  }
+ ]
+}

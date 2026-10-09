@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f01_000_110_00_t005.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1042,
+   "src": "4e82a5793379",
+   "t": "I'll hand you your {{student_id}}."
+  },
+  {
+   "i": 1045,
+   "src": "7bdb48701b85",
+   "t": "Call out your {{medabot}}!"
+  },
+  {
+   "i": 1060,
+   "src": "4edf4a22891d",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1072,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1078,
+   "src": "b5f07f9df1be",
+   "t": "Our school motto is"
+  },
+  {
+   "i": 1081,
+   "src": "81257c05d2bb",
+   "t": "'{{medabot}} and {{medafighter}} are one!'"
+  },
+  {
+   "i": 1086,
+   "src": "746676d73b95",
+   "t": "A {{medafighter}} paired with a {{medabot}}\nmust"
+  },
+  {
+   "i": 1089,
+   "src": "2d917cdfd23b",
+   "t": "stay together as much as possible--"
+  },
+  {
+   "i": 1094,
+   "src": "1b6351323fc4",
+   "t": "The bond is always one-on-one!"
+  },
+  {
+   "i": 1097,
+   "src": "d5eadc567f68",
+   "t": "Holding multiple {{medal|pl}} is forbidden!"
+  },
+  {
+   "i": 1102,
+   "src": "d4fdc67ffda2",
+   "t": "The ID proves your bond with your\n{{medabot}}."
+  },
+  {
+   "i": 1105,
+   "src": "d2a1a647b579",
+   "t": "Both of you must carry it!"
+  },
+  {
+   "i": 1117,
+   "src": "694ab4b10cbb",
+   "t": "IDs are handed over in person, as a rule!"
+  },
+  {
+   "i": 1120,
+   "src": "cdc56802e15b",
+   "t": "Now, call your Medabot!"
+  },
+  {
+   "i": 1128,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1133,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1139,
+   "src": "234aaf12e9d2",
+   "t": "What's wrong? Why are you fidgeting?"
+  },
+  {
+   "i": 1144,
+   "src": "1c8baa40bc56",
+   "t": "Call your {{medabot}}!"
+  },
+  {
+   "i": 1154,
+   "src": "e33f69768466",
+   "t": "W-well, actually..."
+  }
+ ]
+}

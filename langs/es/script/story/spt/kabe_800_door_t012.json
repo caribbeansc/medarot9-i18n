@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/kabe_800_door_t012.spt",
+ "lines": [
+  {
+   "i": 1099,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1107,
+   "src": "3c4266582f22",
+   "t": "Era el día del festival deportivo."
+  },
+  {
+   "i": 1110,
+   "src": "045f5916e27a",
+   "t": "¿Qué estarán haciendo todos ahora?"
+  },
+  {
+   "i": 1118,
+   "src": "66755185ecac",
+   "t": "¿Y Sector...?"
+  },
+  {
+   "i": 1134,
+   "src": "d049479422e8",
+   "t": "*Agrega el texto necesario también en\notras puertas."
+  }
+ ]
+}

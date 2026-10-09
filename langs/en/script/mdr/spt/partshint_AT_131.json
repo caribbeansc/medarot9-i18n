@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_131.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e5190d5a7dba",
+   "t": "<c:00ff00>Action:<c> {{optical_guard}}\nTakes a {{guard_stance}} that\ninterrupts attacks on\nallies.\nWhen interrupting,\nnullifies {{damage}} from\nbeams, hyper beams,\nlasers and beam swords."
+  }
+ ]
+}

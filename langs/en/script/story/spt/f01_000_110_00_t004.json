@@ -1,0 +1,220 @@
+{
+ "file": "story/spt/f01_000_110_00_t004.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "706f72a94a5e",
+   "t": "N-nice to meet you all!"
+  },
+  {
+   "i": 1054,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1063,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1073,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1082,
+   "src": "dfb11eed7a30",
+   "t": "Now then."
+  },
+  {
+   "i": 1090,
+   "src": "3c7e5c36e49b",
+   "t": "As you know, we're"
+  },
+  {
+   "i": 1093,
+   "src": "0ad25e602b7f",
+   "t": "a new school, not even three years old."
+  },
+  {
+   "i": 1101,
+   "src": "cadb6b10ada4",
+   "t": "Even so, the number of applicants is\nhuge."
+  },
+  {
+   "i": 1104,
+   "src": "9e218245d3a1",
+   "t": "It's even said to be the hardest school in\nthe world to get into."
+  },
+  {
+   "i": 1112,
+   "src": "d492ca158aa9",
+   "t": "The reason is obvious."
+  },
+  {
+   "i": 1127,
+   "src": "f7090c954fc5",
+   "t": "We're the only educational institution"
+  },
+  {
+   "i": 1130,
+   "src": "6be3a5df695a",
+   "t": "whose mission is training top-class\nMedafighters."
+  },
+  {
+   "i": 1138,
+   "src": "111815ed7631",
+   "t": "Conversely, it means that many young\npeople"
+  },
+  {
+   "i": 1141,
+   "src": "e41d6dca7fb3",
+   "t": "dream of becoming top-class\n{{medafighter|pl}}."
+  },
+  {
+   "i": 1149,
+   "src": "cb5ae3eb05c8",
+   "t": "Naturally, you're one of them, right?"
+  },
+  {
+   "i": 1164,
+   "src": "342c20413c8f",
+   "t": "Yes!"
+  },
+  {
+   "i": 1176,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1182,
+   "src": "be8f55742378",
+   "t": "Good."
+  },
+  {
+   "i": 1190,
+   "src": "5c57dfeb3295",
+   "t": "You were admitted through a special\nrecommendation slot,"
+  },
+  {
+   "i": 1193,
+   "src": "d9adc021d8f1",
+   "t": "which is an exception among\nexceptions."
+  },
+  {
+   "i": 1201,
+   "src": "44d98310a865",
+   "t": "Behind that are a great many young\npeople"
+  },
+  {
+   "i": 1204,
+   "src": "7b99ec2938af",
+   "t": "who wanted to get in but couldn't."
+  },
+  {
+   "i": 1212,
+   "src": "bf8ebd371c7c",
+   "t": "To not shame yourself before them,"
+  },
+  {
+   "i": 1215,
+   "src": "9915d5214790",
+   "t": "you must work twice as hard as anyone."
+  },
+  {
+   "i": 1223,
+   "src": "f59b17acf72f",
+   "t": "That is your duty... or so it goes."
+  },
+  {
+   "i": 1226,
+   "src": "102347397583",
+   "t": "Understood?"
+  },
+  {
+   "i": 1241,
+   "src": "4b10a2fff38e",
+   "t": "I'll do my best!"
+  },
+  {
+   "i": 1246,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1252,
+   "src": "1143e20d6653",
+   "t": "Very good."
+  },
+  {
+   "i": 1255,
+   "src": "072718f82bdb",
+   "t": "Now, next--"
+  },
+  {
+   "i": 1270,
+   "src": "a311cd110564",
+   "t": "The {{principal|cap}} is late..."
+  },
+  {
+   "i": 1278,
+   "src": "57e3fd50010f",
+   "t": "Was there anything else we had to do?"
+  },
+  {
+   "i": 1281,
+   "src": "bf6feafa671d",
+   "t": "Let's see..."
+  },
+  {
+   "i": 1288,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1297,
+   "src": "8bd25ba06188",
+   "t": "It seems the {{student_id}} hasn't\nbeen handed out yet."
+  },
+  {
+   "i": 1304,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1313,
+   "src": "7c57f231bdde",
+   "t": "Hm?"
+  },
+  {
+   "i": 1316,
+   "src": "d6882e638f3a",
+   "t": "Ah, right, now that you mention it..."
+  },
+  {
+   "i": 1327,
+   "src": "50dbe5b52912",
+   "t": "Could I ask you"
+  },
+  {
+   "i": 1330,
+   "src": "cecc8d42e357",
+   "t": "to handle it, {{mr_akebono}}?"
+  },
+  {
+   "i": 1340,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1346,
+   "src": "b9169847199f",
+   "t": "Understood! Then, if you'll permit me,"
+  },
+  {
+   "i": 1349,
+   "src": "cc8064f50a3f",
+   "t": "I'll take it upon myself to..."
+  }
+ ]
+}

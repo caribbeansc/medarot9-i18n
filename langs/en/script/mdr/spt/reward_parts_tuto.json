@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/reward_parts_tuto.spt",
+ "lines": [
+  {
+   "i": 828,
+   "src": "ceff5d4eac34",
+   "t": "When you win a {{robattle}}, you get 1 to 3\n{{part|pl}} from the opposing {{medabot|pl}}."
+  },
+  {
+   "i": 832,
+   "src": "934ff8b1a2b9",
+   "t": "The number depends on how many you\nshut down.\nThis time it's just one, so you get one\n{{part}}."
+  },
+  {
+   "i": 836,
+   "src": "722b30fb4cdd",
+   "t": "Pick from all the shut-down {{medabot}}'s\n{{part|pl}}\nand the {{part|pl}} you destroyed!"
+  }
+ ]
+}

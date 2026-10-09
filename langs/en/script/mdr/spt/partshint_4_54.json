@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_54.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2a842ef06c52",
+   "t": "<c:00ff00>Leg Trait:<c> {{auto_repair}}\nWhen the {{charge_gauge}}\nincreases, the {{armor}} of all\n{{part|pl}} recovers by the\namount the gauge\nincreased."
+  }
+ ]
+}

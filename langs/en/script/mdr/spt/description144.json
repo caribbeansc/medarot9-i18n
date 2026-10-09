@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description144.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "05d866442a47",
+   "t": "Activity Level"
+  },
+  {
+   "i": 11,
+   "src": "133cc06e85d5",
+   "t": "How much has been achieved in {{club_activities}} at\nMEDA {{academy}}.\nIt rises as you complete each {{club}}'s assigned\n{{achievement}} goals (max 150). The <c:ffff00>{{medal_level}}<c> of\n<c:ffff00>{{medabot|pl}}<c> in the {{club}} can't grow beyond the activity\nlevel.\nAs the {{activity_level}} rises, the shop in the school\nbuilding sells more items."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_26.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "80bf9bf9107d",
+   "t": "<c:00ff00>Leg Trait:<c> {{ground_control}}\nWith {{charge_gauge}} at 50%\nor more, all {{terrain}}\naffinities +6."
+  }
+ ]
+}

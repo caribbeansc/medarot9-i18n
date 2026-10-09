@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3e_150_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "8cd73f900539",
+   "t": "Phew, geez,"
+  },
+  {
+   "i": 1038,
+   "src": "8aa0099255d9",
+   "t": "they finally left."
+  },
+  {
+   "i": 1046,
+   "src": "a49c57673d33",
+   "t": "But they might attack again,"
+  },
+  {
+   "i": 1049,
+   "src": "572460f941c5",
+   "t": "so I'd better keep watch."
+  }
+ ]
+}

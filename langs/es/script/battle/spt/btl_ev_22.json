@@ -1,0 +1,130 @@
+{
+ "file": "battle/spt/btl_ev_22.spt",
+ "lines": [
+  {
+   "i": 1132,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}             "
+  },
+  {
+   "i": 1143,
+   "src": "1931dc13839f",
+   "t": "El {{medabot}} {{leader}} tiene  "
+  },
+  {
+   "i": 1146,
+   "src": "a7ee22bb8cc4",
+   "t": "dos ventajas especiales."
+  },
+  {
+   "i": 1151,
+   "src": "b23fc7804d0e",
+   "t": "La primera es"
+  },
+  {
+   "i": 1154,
+   "src": "c0f6e31796cf",
+   "t": "el {{leader_effect}} de la {{medal}}."
+  },
+  {
+   "i": 1159,
+   "src": "ea996dff1a0a",
+   "t": "Es una capacidad de la {{medal}} con                "
+  },
+  {
+   "i": 1162,
+   "src": "5ba4f2a5d29a",
+   "t": "gran {{effect}} en tu equipo o el {{opponent}}."
+  },
+  {
+   "i": 1170,
+   "src": "8f1294e7f17e",
+   "t": "Ajá.   "
+  },
+  {
+   "i": 1175,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}             "
+  },
+  {
+   "i": 1181,
+   "src": "3f6fdc858901",
+   "t": "La segunda es"
+  },
+  {
+   "i": 1184,
+   "src": "b4ec85587ba8",
+   "t": "la {{trans_part}}."
+  },
+  {
+   "i": 1189,
+   "src": "4e84ab961a7f",
+   "t": "Solo una vez por {{robattle}}, puedes"
+  },
+  {
+   "i": 1192,
+   "src": "d527d69a9227",
+   "t": "transferir y equipar una {{part}} EX."
+  },
+  {
+   "i": 1200,
+   "src": "dc618355ab27",
+   "t": "¡¿Eso se puede?! "
+  },
+  {
+   "i": 1205,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}             "
+  },
+  {
+   "i": 1211,
+   "src": "e5dd7aa481c1",
+   "t": "Pero no sirve con piezas      "
+  },
+  {
+   "i": 1214,
+   "src": "b24b2a4ec037",
+   "t": "que ya fueron destruidas, y      "
+  },
+  {
+   "i": 1219,
+   "src": "119ed609423e",
+   "t": "como solo el {{leader}} puede usarla,               "
+  },
+  {
+   "i": 1222,
+   "src": "f128048adafa",
+   "t": "le dices al {{opponent}} quién es tu {{leader}}... "
+  },
+  {
+   "i": 1230,
+   "src": "145432294141",
+   "t": "Mmm. Es difícil decidir  "
+  },
+  {
+   "i": 1233,
+   "src": "24c86f287ad3",
+   "t": "cuándo usarla.     "
+  },
+  {
+   "i": 1238,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}             "
+  },
+  {
+   "i": 1244,
+   "src": "206bbe855293",
+   "t": "Elige el momento justo y usa el botón"
+  },
+  {
+   "i": 1247,
+   "src": "81dcc8259f78",
+   "t": "Transpieza.              "
+  },
+  {
+   "i": 1252,
+   "src": "2d1ccfc81fde",
+   "t": "¡Tú sí puedes!"
+  }
+ ]
+}

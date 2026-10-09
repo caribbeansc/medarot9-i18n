@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s07_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "daa69990930e",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1041,
+   "src": "f49bc040ac57",
+   "t": "No tengo nada de qué hablar contigo."
+  }
+ ]
+}

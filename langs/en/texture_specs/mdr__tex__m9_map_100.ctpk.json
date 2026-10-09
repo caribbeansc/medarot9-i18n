@@ -1,0 +1,299 @@
+{
+ "rel": "mdr/tex/m9_map_100.ctpk",
+ "base": "jp",
+ "defaults": {
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    368,
+    -1,
+    36,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    404,
+    -1,
+    36,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    440,
+    -1,
+    44,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    484,
+    -1,
+    28,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    368,
+    14,
+    26,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    394,
+    14,
+    26,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    420,
+    14,
+    26,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    446,
+    14,
+    26,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    472,
+    15,
+    36,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    368,
+    29,
+    45,
+    16
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    368,
+    0,
+    36,
+    14
+   ],
+   "erase": "none",
+   "text": "Principal",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 11
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    404,
+    0,
+    36,
+    14
+   ],
+   "erase": "none",
+   "text": "Vice-P.",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 11
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    440,
+    0,
+    44,
+    14
+   ],
+   "erase": "none",
+   "text": "Council Rm",
+   "cap": 8,
+   "pad": 0,
+   "baseline": 10
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    484,
+    0,
+    28,
+    14
+   ],
+   "erase": "none",
+   "text": "School",
+   "cap": 8,
+   "pad": 0,
+   "baseline": 10
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    368,
+    15,
+    26,
+    14
+   ],
+   "erase": "none",
+   "text": "Hallway",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 26
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    394,
+    15,
+    26,
+    14
+   ],
+   "erase": "none",
+   "text": "Shop",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 26
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    420,
+    15,
+    26,
+    14
+   ],
+   "erase": "none",
+   "text": "Class",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 26
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    446,
+    15,
+    26,
+    14
+   ],
+   "erase": "none",
+   "text": "Roof",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 26
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    472,
+    16,
+    36,
+    14
+   ],
+   "erase": "none",
+   "text": "Teachers",
+   "cap": 7.5,
+   "pad": 0,
+   "baseline": 26
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    368,
+    30,
+    45,
+    14
+   ],
+   "erase": "none",
+   "text": "To outside",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 41
+  }
+ ]
+}

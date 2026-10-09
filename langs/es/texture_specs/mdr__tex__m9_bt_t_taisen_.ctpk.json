@@ -1,0 +1,318 @@
+{
+ "rel": "mdr/tex/m9_bt_t_taisen_.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "pad": 0
+ },
+ "styles": {
+  "send_claro": {
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#3FA3CC",
+   "stroke": "#DDFFFF",
+   "stroke_w": 1.0,
+   "crisp": 0.0
+  },
+  "send_oscuro": {
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7,
+   "fill": "#2A2A2C",
+   "stroke": "#ABABAB",
+   "stroke_w": 1.0,
+   "crisp": 0.0
+  },
+  "blanco": {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.9
+   },
+   "min_scale_x": 0.75,
+   "crisp": 0.0
+  }
+ },
+ "items": [
+  {
+   "box": [
+    133,
+    48,
+    36,
+    11
+   ],
+   "erase_box": [
+    130,
+    47,
+    36,
+    11
+   ],
+   "text": "ENVIAR",
+   "style": "send_claro",
+   "bg": "mode"
+  },
+  {
+   "box": [
+    7,
+    110,
+    36,
+    11
+   ],
+   "erase_box": [
+    5,
+    109,
+    38,
+    12
+   ],
+   "text": "ENVIAR",
+   "style": "send_claro",
+   "bg": "mode"
+  },
+  {
+   "box": [
+    125,
+    171,
+    36,
+    11
+   ],
+   "erase_box": [
+    123,
+    170,
+    36,
+    11
+   ],
+   "text": "ENVIAR",
+   "style": "send_oscuro",
+   "bg": "mode"
+  },
+  {
+   "box": [
+    5,
+    230,
+    36,
+    11
+   ],
+   "erase_box": [
+    3,
+    229,
+    38,
+    13
+   ],
+   "text": "ENVIAR",
+   "style": "send_oscuro",
+   "bg": "mode"
+  },
+  {
+   "box": [
+    375,
+    2,
+    48,
+    11
+   ],
+   "erase_box": [
+    373,
+    1,
+    48,
+    11
+   ],
+   "text": "RECIBIR",
+   "style": "send_oscuro",
+   "bg": "mode"
+  },
+  {
+   "box": [
+    432,
+    2,
+    50,
+    11
+   ],
+   "erase_box": [
+    430,
+    1,
+    49,
+    11
+   ],
+   "text": "RECIBIR",
+   "style": "send_oscuro",
+   "bg": "mode"
+  },
+  {
+   "box": [
+    376,
+    18,
+    46,
+    11
+   ],
+   "erase_box": [
+    374,
+    17,
+    50,
+    12
+   ],
+   "text": "RECIBIR",
+   "style": "send_claro",
+   "bg": "mode"
+  },
+  {
+   "box": [
+    436,
+    18,
+    50,
+    11
+   ],
+   "erase_box": [
+    434,
+    17,
+    51,
+    12
+   ],
+   "text": "RECIBIR",
+   "style": "send_claro",
+   "bg": "mode"
+  },
+  {
+   "box": [
+    1,
+    243,
+    66,
+    13
+   ],
+   "erase_box": [
+    0,
+    242,
+    68,
+    14
+   ],
+   "text": "Actualizado",
+   "style": "blanco",
+   "cap": 9,
+   "baseline": 253.5
+  },
+  {
+   "box": [
+    70,
+    243,
+    76,
+    13
+   ],
+   "erase_box": [
+    69,
+    242,
+    78,
+    14
+   ],
+   "text": "Sin actualizar",
+   "style": "blanco",
+   "cap": 9,
+   "baseline": 253.5
+  },
+  {
+   "box": [
+    399,
+    163,
+    112,
+    18
+   ],
+   "erase_box": [
+    398,
+    163,
+    114,
+    18
+   ],
+   "text": "Partida (anfit./invit.)",
+   "style": "blanco",
+   "dy": -1
+  },
+  {
+   "box": [
+    399,
+    182,
+    31,
+    18
+   ],
+   "erase_box": [
+    398,
+    182,
+    33,
+    18
+   ],
+   "text": "Enviar",
+   "style": "blanco"
+  },
+  {
+   "box": [
+    433,
+    182,
+    63,
+    18
+   ],
+   "erase_box": [
+    432,
+    182,
+    65,
+    18
+   ],
+   "text": "Recibir",
+   "style": "blanco"
+  },
+  {
+   "box": [
+    399,
+    201,
+    86,
+    14
+   ],
+   "erase_box": [
+    398,
+    201,
+    88,
+    14
+   ],
+   "text": "Partida con jugador",
+   "style": "blanco",
+   "cap": 8,
+   "fill": "#D6D6D6"
+  },
+  {
+   "box": [
+    399,
+    216,
+    63,
+    18
+   ],
+   "erase_box": [
+    398,
+    216,
+    65,
+    18
+   ],
+   "text": "Con cualquiera",
+   "style": "blanco",
+   "cap": 9,
+   "dy": -1
+  },
+  {
+   "box": [
+    399,
+    235,
+    61,
+    17
+   ],
+   "erase_box": [
+    398,
+    235,
+    63,
+    17
+   ],
+   "text": "Con amigos",
+   "style": "blanco",
+   "dy": -1
+  }
+ ]
+}

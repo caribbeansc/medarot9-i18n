@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_g_f2d2_meda.spt",
+ "lines": [
+  {
+   "i": 1030,
+   "src": "dc847932ab89",
+   "t": "{{ptolemy}}"
+  },
+  {
+   "i": 1041,
+   "src": "0e8e6c5460ef",
+   "t": "I wonder what kind of practice"
+  },
+  {
+   "i": 1044,
+   "src": "60bcd9dcabfd",
+   "t": "we'll do today. I hope it's a match."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3a_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "51e173a9a84f",
+   "t": "{{girl_3_a}}"
+  },
+  {
+   "i": 1035,
+   "src": "d01a5f3150a2",
+   "t": "Apenas salí del terreno de la escuela,"
+  },
+  {
+   "i": 1038,
+   "src": "158981f5a438",
+   "t": "y un {{stray_medabot}} me atacó."
+  },
+  {
+   "i": 1046,
+   "src": "ab68e646a545",
+   "t": "Frente al continente, los salvajes"
+  },
+  {
+   "i": 1049,
+   "src": "618cefb1e3f2",
+   "t": "de esta isla son más agresivos."
+  }
+ ]
+}

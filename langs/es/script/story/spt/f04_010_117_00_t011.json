@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f04_010_117_00_t011.spt",
+ "lines": [
+  {
+   "i": 1043,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1054,
+   "src": "a66847e0bb30",
+   "t": "Qué mal."
+  },
+  {
+   "i": 1065,
+   "src": "944dc1fa7d54",
+   "t": "¿...De qué hablas?"
+  },
+  {
+   "i": 1070,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1076,
+   "src": "984ecc51e622",
+   "t": "Miré el cuadro del torneo y"
+  },
+  {
+   "i": 1079,
+   "src": "5a163e12b729",
+   "t": "estás en el lado opuesto al mío."
+  },
+  {
+   "i": 1094,
+   "src": "8d0af44ad3f1",
+   "t": "¡Pensaba que esto sería pan comido!"
+  },
+  {
+   "i": 1097,
+   "src": "16024655d88b",
+   "t": "¡Qué decepción!"
+  }
+ ]
+}

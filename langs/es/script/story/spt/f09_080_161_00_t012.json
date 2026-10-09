@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f09_080_161_00_t012.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1040,
+   "src": "c7224e8c5320",
+   "t": "Bienvenido de vuelta."
+  },
+  {
+   "i": 1051,
+   "src": "93df2a8603a6",
+   "t": "Perdón por despertarte, {{main}}-chan."
+  },
+  {
+   "i": 1059,
+   "src": "be8aea62fc9a",
+   "t": "¿Dónde están todos?"
+  },
+  {
+   "i": 1064,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1073,
+   "src": "f094cb88016d",
+   "t": "Se fueron al almacén con alguien"
+  },
+  {
+   "i": 1076,
+   "src": "81946d8ef8c3",
+   "t": "del Consejo Estudiantil."
+  },
+  {
+   "i": 1084,
+   "src": "3ec5795d0b7d",
+   "t": "Es trabajo pesado, no necesito"
+  },
+  {
+   "i": 1087,
+   "src": "bbbec53f22fd",
+   "t": "ir. {{mio}}-chan estaba enojada."
+  },
+  {
+   "i": 1098,
+   "src": "98ed7739a2ab",
+   "t": "Es un {{medabot}} de set completo."
+  },
+  {
+   "i": 1109,
+   "src": "5ef32737b957",
+   "t": "...Sí."
+  }
+ ]
+}

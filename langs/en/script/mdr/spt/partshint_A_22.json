@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_22.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5ad343e5536d",
+   "t": "<c:00ff00>{{mf}}:<c> {{bamboo_splitter}}\nA melee attack that\ndamages all {{part|pl}} of\n1 {{enemy}}.\n<c:00ffff>{{required_parts}}<c>\nOne or more fighting\n{{part|pl}}"
+  }
+ ]
+}

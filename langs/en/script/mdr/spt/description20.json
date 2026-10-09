@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description20.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "166f0bf3409c",
+   "t": "Act"
+  },
+  {
+   "i": 11,
+   "src": "8b596719d360",
+   "t": "A <c:ffff00>{{medabot}}<c>'s acts during a <c:ffff00>{{robattle}}<c> are broadly\nclassified as follows:\n  <c:ffff00>Action<c>\n  <c:ffff00>Charge<c>\n  <c:ffff00>{{medaforce}}<c>\n  <c:ffff00>{{medachange}}<c>  <c:ffff00>{{revert}}<c>\n  <c:ffff00>{{trans_part}}<c>"
+  }
+ ]
+}

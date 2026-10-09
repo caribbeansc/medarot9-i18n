@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/free08_01_01_00_t011.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "68a19bf45aa3",
+   "t": "{{mission|cap}} 'Recolección de {{medalia|pl}}:\n{{crater|cap}}'..."
+  },
+  {
+   "i": 1047,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1050,
+   "src": "42962f76a828",
+   "t": "¿¡{{crater|cap}}!?"
+  },
+  {
+   "i": 1058,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1064,
+   "src": "ddcf0ae44096",
+   "t": "Así es. Es un terreno nacido del impacto"
+  },
+  {
+   "i": 1067,
+   "src": "7458598529e2",
+   "t": "de un meteorito. Hace muchísimo."
+  },
+  {
+   "i": 1078,
+   "src": "843f2b7eb1a5",
+   "t": "La cordillera que llamamos 'las "
+  },
+  {
+   "i": 1081,
+   "src": "b5bec0e2678b",
+   "t": "montañas' es el borde del {{crater}}."
+  },
+  {
+   "i": 1089,
+   "src": "e47dce791b8f",
+   "t": "La {{react}} viene de dentro de ese\ncráter."
+  },
+  {
+   "i": 1104,
+   "src": "993c2264a1a0",
+   "t": "O sea... ¡Por fin vamos a"
+  },
+  {
+   "i": 1107,
+   "src": "3887461dc74b",
+   "t": "explorar el centro del {{crater}}!"
+  },
+  {
+   "i": 1112,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1118,
+   "src": "e2b34c4b7bb7",
+   "t": "Bueno, eso es cierto... No te"
+  },
+  {
+   "i": 1121,
+   "src": "891874f3c0fb",
+   "t": "hagas muchas ilusiones. Es solo tierra."
+  }
+ ]
+}

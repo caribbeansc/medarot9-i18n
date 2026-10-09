@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_9.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "7595e5fdefa4",
+   "t": "<c:00ff00>{{mf}}:<c>Orogenia\nEl {{terrain}} se vuelve\nrocoso y todos los\n{{medabot|pl}} vuelven al área\nde comandos.\n<c:00ffff>#{{part|cap}} requerida<c>\n1 o más {{part|pl}} de ataque"
+  }
+ ]
+}

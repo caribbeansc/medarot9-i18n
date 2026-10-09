@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description32.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5c261fef8bbf",
+   "t": "{{success_power|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "0103a3ac2a4d",
+   "t": "{{accuracy|cap}} al acertar un <c:ffff00>ataque<c> y capacidad de dar en\nel punto débil del <c:ffff00>{{target}}<c>.\nDepende sobre todo del <c:ffff00>{{stats}} de {{success}}<c> de la\n<c:ffff00>{{acting_part}}<c> y del <c:ffff00>{{skill_level}}<c> de\n<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c>; también influye el {{stats}} de\n<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c> de las <c:ffff00>{{legs}}<c>.\nCuanto mayor es el {{success_power}}, más sube la tasa\nde <c:ffff00>{{critical}}<c>. También bajan la probabilidad de <c:ffff00>fallo de<c>\n<c:ffff00>ataque<c>/<c:ffff00>{{graze}}<c> y el <c:ffff00>poder de {{evade}}<c> del {{target}}."
+  }
+ ]
+}

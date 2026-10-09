@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free08_01_02_02.spt",
+ "lines": [
+  {
+   "i": 1856,
+   "src": "afaf6488e0e4",
+   "t": "The {{medalia}}..."
+  },
+  {
+   "i": 1860,
+   "src": "9ac776bc846d",
+   "t": "Hand it over"
+  },
+  {
+   "i": 1861,
+   "src": "dc11d4ef6b67",
+   "t": "Keep it"
+  },
+  {
+   "i": 1865,
+   "src": "9ac776bc846d",
+   "t": "Hand it over"
+  }
+ ]
+}

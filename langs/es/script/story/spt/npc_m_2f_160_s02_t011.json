@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_m_2f_160_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1038,
+   "src": "0c341941cfd0",
+   "t": "¿Qué pasa? ¿Buscas a alguien?"
+  },
+  {
+   "i": 1041,
+   "src": "d82e2018f60b",
+   "t": "¿A {{aoi}}-chan?"
+  },
+  {
+   "i": 1049,
+   "src": "46d149f09597",
+   "t": "Sí, la conozco. Es una de las chicas del"
+  },
+  {
+   "i": 1052,
+   "src": "d067c0df343a",
+   "t": "Club Idol. Es una de las posibles"
+  },
+  {
+   "i": 1060,
+   "src": "ecdc74a3007c",
+   "t": "heroínas. Hace poco me saludó con"
+  },
+  {
+   "i": 1063,
+   "src": "250e2bbfe780",
+   "t": "un '¡Hola!' con su linda voz, jaja."
+  },
+  {
+   "i": 1071,
+   "src": "2a413a33311d",
+   "t": "Eh, ¿a dónde iba? No le pregunté. Pero"
+  },
+  {
+   "i": 1074,
+   "src": "024216061bfb",
+   "t": "iba caminando hacia el edificio de la"
+  },
+  {
+   "i": 1082,
+   "src": "cb25de347865",
+   "t": "escuela. Me imagino que a estas horas"
+  },
+  {
+   "i": 1085,
+   "src": "8781d0d1f99d",
+   "t": "seguro está en la {{shop}} escolar."
+  }
+ ]
+}

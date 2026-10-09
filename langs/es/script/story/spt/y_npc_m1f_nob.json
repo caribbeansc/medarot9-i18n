@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m1f_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "0841dddec576",
+   "t": "Lo siento, ahora me viene un poco mal."
+  },
+  {
+   "i": 1038,
+   "src": "34040a5445ef",
+   "t": "Otra vez será."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3b_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1035,
+   "src": "deee517201f9",
+   "t": "¡Lo siento! ¡Ahora no puedo,"
+  },
+  {
+   "i": 1038,
+   "src": "7f3a759632a4",
+   "t": "pero invítame otra vez!"
+  }
+ ]
+}

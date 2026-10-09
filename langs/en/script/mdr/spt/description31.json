@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description31.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a11b180d35fd",
+   "t": "Ranged (attack)"
+  },
+  {
+   "i": 11,
+   "src": "91c14ff926a7",
+   "t": "An <c:ffff00>attack<c> made from a distance. Also called a\nlong-range attack.\n\nMostly done with <c:ffff00>actions<c> of the <c:ffff00>{{shooting}} skill<c>. The\n<c:ffff00>{{shooting}}<c> stat of the <c:ffff00>legs<c> affects both attacker and\nthe one who <c:ffff00>responds<c>.\n\n<c:ffff00>{{success_power}}<c> decides an <c:ffff00>{{attack_failure}}<c> or <c:ffff00>{{critical}}<c>.\nOnly the {{gatling}} can also <c:ffff00>{{graze}}<c> for little <c:ffff00>{{damage}}<c>."
+  }
+ ]
+}

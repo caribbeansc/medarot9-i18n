@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/free08_01_02_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "70c0a83e90c1",
+   "t": "¡{{mission|cap}} 'Recolección de {{medalia|pl}}:\n{{old_harbor_town}}' completada!"
+  },
+  {
+   "i": 1011,
+   "src": "913e0c661d21",
+   "t": "¡Los logros del {{exploration_club}}\naumentaron!"
+  }
+ ]
+}

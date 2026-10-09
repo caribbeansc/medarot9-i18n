@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f1d.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "cc4e33627947",
+   "t": "{{hana}}"
+  },
+  {
+   "i": 1653,
+   "src": "5b96be5b32d6",
+   "t": "Una {{robattle}}, ¿eh?"
+  },
+  {
+   "i": 1656,
+   "src": "5681b3e6dcca",
+   "t": "¡Claro que sí! ¡No voy a perder!"
+  }
+ ]
+}

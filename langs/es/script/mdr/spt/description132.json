@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description132.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "88d9d92c8c4b",
+   "t": "{{tank|cap}} ({{legs}})"
+  },
+  {
+   "i": 11,
+   "src": "3034fc889440",
+   "t": "<c:ffff00>{{leg_type|cap}}<c> que avanza sobre orugas. Solo el\n{{tank}} no puede <c:ffff00>esquivar<c>, pero a cambio puede\n<c:ffff00>defender<c>. Es estable en cualquier {{terrain}} y tiende a\ntener <c:ffff00>{{armor}}<c> y <c:ffff00>{{heavy_limit}}<c> altos.\n\n<c:ffff00>{{terrain_affinity|cap}}<c> (<c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains|cap}}<c>, <c:ffff00>{{forest|cap}}<c>, <c:ffff00>{{rocky_ground|cap}}<c>, <c:ffff00>{{sand|cap}}<c>, <c:ffff00>{{tundra|cap}}<c>, <c:ffff00>{{hall|cap}}<c> y\n  <c:ffff00>{{waterside|cap}}<c>: 0. <c:ffff00>{{cyber|cap}}<c>: +4.\n  <c:ffff00>{{underwater|cap}}<c> y <c:ffff00>{{sky|cap}}<c>: no se puede robobatallar."
+  }
+ ]
+}

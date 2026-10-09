@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_8.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3f4bd75b1efc",
+   "t": "<c:00ff00>Técnica:<c>{{laser}}\nAtaque a distancia cuyo\npoder se multiplica x1.5\ncon carga al 50% o más y\nse duplica con carga al\n100%.\nTiene {{effect}} perforante."
+  }
+ ]
+}

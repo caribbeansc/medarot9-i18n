@@ -1,0 +1,67 @@
+{
+ "rel": "battle/tex/m9_kantu.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    72,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    1,
+    70,
+    30
+   ],
+   "erase": "none",
+   "text": "PERFORA!",
+   "font": "anton",
+   "cap": 18,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#EEFF55"
+     ],
+     [
+      0.45,
+      "#FFFFAA"
+     ],
+     [
+      0.55,
+      "#DDFF22"
+     ],
+     [
+      1,
+      "#B8E81A"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#336600",
+     "w": 1.3
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   }
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_2b_meda_163_s07_t010.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9ebb4aab5418",
+   "t": "Blazermate"
+  },
+  {
+   "i": 1038,
+   "src": "13fbcd417ac5",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1041,
+   "src": "9113f9a7e537",
+   "t": "¿Por fin terminó la gran crisis?"
+  },
+  {
+   "i": 1049,
+   "src": "2a98f1ff612e",
+   "t": "¡Qué alivio!"
+  }
+ ]
+}

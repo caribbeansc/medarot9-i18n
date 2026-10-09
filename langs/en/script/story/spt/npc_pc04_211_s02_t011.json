@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_211_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "3e76140f69d1",
+   "t": "It's even darker ahead."
+  },
+  {
+   "i": 1038,
+   "src": "c6fc65a70d4c",
+   "t": "I can't even see my own feet..."
+  }
+ ]
+}

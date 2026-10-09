@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_125.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3550fb1e3572",
+   "t": "<c:00ff00>Técnica:<c>Reparar con Carga\nRecupera el {{damage}} de una\n{{part}} de un {{medabot}}\n{{ally_battle_term}}.\nSuma a la cantidad\nrecuperada el valor\nporcentual de la barra de\ncarga."
+  }
+ ]
+}

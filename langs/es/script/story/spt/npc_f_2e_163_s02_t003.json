@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_2e_163_s02_t003.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1035,
+   "src": "d90ef8ede4c7",
+   "t": "Así es, de primero basta con {{aoi}} sola."
+  },
+  {
+   "i": 1038,
+   "src": "40e73280d858",
+   "t": "{{mio}} nunca hizo falta desde el principio."
+  },
+  {
+   "i": 1046,
+   "src": "da6b4dc8b3ac",
+   "t": "¿Esa chica como centro? Jamás--"
+  },
+  {
+   "i": 1067,
+   "src": "d8e9967c5364",
+   "t": "¡Ay!"
+  },
+  {
+   "i": 1070,
+   "src": "cbfcca0ea4e4",
+   "t": "¿¡Todavía estabas ahí!?"
+  },
+  {
+   "i": 1078,
+   "src": "506691aec339",
+   "t": "Oye, ¿hasta cuándo te quedarás?"
+  },
+  {
+   "i": 1081,
+   "src": "aee22ee079cb",
+   "t": "¡Es solo para chicas! ¡Vete!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3d_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "aa44a83eaf3f",
+   "t": "¿Ya has explorado mucho de la isla?"
+  },
+  {
+   "i": 1041,
+   "src": "07780e18f111",
+   "t": "La isla es enorme. Aun en mi tercer año,"
+  },
+  {
+   "i": 1049,
+   "src": "7c4b87dde28b",
+   "t": "queda mucho sin explorar. Quiero"
+  },
+  {
+   "i": 1052,
+   "src": "b66d26c39762",
+   "t": "completar el mapa antes de graduarme."
+  }
+ ]
+}

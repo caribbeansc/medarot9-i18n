@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "83a3382c0fca",
+   "t": "Vas a reportarte con el presidente,"
+  },
+  {
+   "i": 1041,
+   "src": "ecbba4c38d09",
+   "t": "¿no? ¿Y si te lo quitas de encima ya?"
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "rel": "mdr/tex/bt_gm3.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "compact-rounded",
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "shadow": {
+   "dx": 1,
+   "dy": 1,
+   "color": "#000000",
+   "opacity": 0.7
+  },
+  "cap": 9.5,
+  "pad": 0,
+  "crisp": 0.3
+ },
+ "items": [
+  {
+   "box": [
+    192,
+    32,
+    48,
+    16
+   ],
+   "erase_box": [
+    192,
+    32,
+    48,
+    16
+   ],
+   "text": "Volver"
+  },
+  {
+   "box": [
+    0,
+    88,
+    80,
+    16
+   ],
+   "erase_box": [
+    0,
+    88,
+    80,
+    16
+   ],
+   "text": "Doblar"
+  },
+  {
+   "box": [
+    80,
+    88,
+    40,
+    16
+   ],
+   "erase_box": [
+    80,
+    88,
+    40,
+    16
+   ],
+   "text": "Pedir"
+  },
+  {
+   "box": [
+    0,
+    104,
+    64,
+    16
+   ],
+   "erase_box": [
+    0,
+    104,
+    64,
+    16
+   ],
+   "text": "Dividir"
+  },
+  {
+   "box": [
+    64,
+    104,
+    64,
+    16
+   ],
+   "erase_box": [
+    64,
+    104,
+    64,
+    16
+   ],
+   "text": "Rendirse"
+  },
+  {
+   "box": [
+    48,
+    144,
+    64,
+    16
+   ],
+   "erase_box": [
+    48,
+    144,
+    64,
+    16
+   ],
+   "text": "Plantarse"
+  },
+  {
+   "box": [
+    112,
+    144,
+    64,
+    16
+   ],
+   "erase_box": [
+    112,
+    144,
+    64,
+    16
+   ],
+   "text": "Duelo"
+  },
+  {
+   "box": [
+    0,
+    144,
+    48,
+    16
+   ],
+   "erase_box": [
+    0,
+    144,
+    48,
+    16
+   ],
+   "text": "Pedir"
+  },
+  {
+   "box": [
+    8,
+    126,
+    36,
+    13
+   ],
+   "erase": "solid:#2B2B2B",
+   "text": "Total",
+   "font": "compact-rounded",
+   "cap": 8.5,
+   "fill": "#A8A8A8",
+   "shadow": null,
+   "align": "left",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    161,
+    192,
+    30,
+    16
+   ],
+   "erase_box": [
+    160,
+    192,
+    32,
+    16
+   ],
+   "text": "APUESTA",
+   "font": "impact",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#F6EA6C"
+     ],
+     [
+      0.5,
+      "#F0D13A"
+     ],
+     [
+      1,
+      "#DEA500"
+     ]
+    ]
+   },
+   "stroke": "#000000",
+   "stroke_w": 1.2,
+   "shadow": null,
+   "crisp": 0,
+   "cap": 9,
+   "min_scale_x": 0.6
+  },
+  {
+   "box": [
+    192,
+    192,
+    48,
+    16
+   ],
+   "erase_box": [
+    192,
+    192,
+    48,
+    16
+   ],
+   "text": "FICHAS",
+   "font": "impact",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#F6EA6C"
+     ],
+     [
+      0.5,
+      "#F0D13A"
+     ],
+     [
+      1,
+      "#DEA500"
+     ]
+    ]
+   },
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "shadow": null,
+   "crisp": 0,
+   "cap": 10.5,
+   "min_scale_x": 0.6
+  },
+  {
+   "box": [
+    160,
+    208,
+    40,
+    16
+   ],
+   "erase_box": [
+    160,
+    208,
+    40,
+    16
+   ],
+   "text": "GANADO",
+   "font": "impact",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#F6EA6C"
+     ],
+     [
+      0.5,
+      "#F0D13A"
+     ],
+     [
+      1,
+      "#DEA500"
+     ]
+    ]
+   },
+   "stroke": "#000000",
+   "stroke_w": 1.0,
+   "shadow": null,
+   "crisp": 0,
+   "cap": 10.5,
+   "min_scale_x": 0.6
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description31.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a11b180d35fd",
+   "t": "{{shooting|cap}} (ataque)"
+  },
+  {
+   "i": 11,
+   "src": "91c14ff926a7",
+   "t": "<c:ffff00>Ataque<c> desde lejos del objetivo (ataque a distancia).\n\nSe realiza sobre todo con <c:ffff00>técnicas<c> de la <c:ffff00>habilidad<c>\n<c:ffff00>de {{shooting}}<c>. Al atacante y a quien <c:ffff00>responde<c> les\nafecta el <c:ffff00>{{stats}} de {{shooting}}<c> de las <c:ffff00>{{legs}}<c>.\n\nSegún el <c:ffff00>{{success_power}}<c> puede haber <c:ffff00>fallo de<c>\n<c:ffff00>ataque<c> o <c:ffff00>{{critical}}<c>. Solo con la {{gatling}} puede darse\ntambién un <c:ffff00>{{graze}}<c>, de poco <c:ffff00>{{damage}}<c>."
+  }
+ ]
+}

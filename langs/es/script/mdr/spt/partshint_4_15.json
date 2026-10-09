@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_15.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1f733a5928fa",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nCuello Roto\nDurante {{prep}} y acción\n{{stats}} de {{mobility}}\n+10."
+  }
+ ]
+}

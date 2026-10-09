@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/kabe_bed_t001.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "59d287a829e7",
+   "t": "*Examine the bed"
+  },
+  {
+   "i": 1009,
+   "src": "a5844368cb02",
+   "t": "~Default event when choosing to rest"
+  },
+  {
+   "i": 1014,
+   "src": "2659a9dcbee6",
+   "t": "*Protagonist lies down on the bed"
+  },
+  {
+   "i": 1017,
+   "src": "180fe73e4f26",
+   "t": "~Pause (or fade in/out)"
+  },
+  {
+   "i": 1022,
+   "src": "6a7c3c2911ce",
+   "t": "*Wakes up"
+  },
+  {
+   "i": 1025,
+   "src": "6c0334ba346c",
+   "t": "~Free time"
+  }
+ ]
+}

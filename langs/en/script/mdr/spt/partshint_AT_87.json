@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_87.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "27170723a534",
+   "t": "<c:00ff00>Action:<c> {{shoot_boost}}\nFor a while, raises the\n{{shooting}} of the leg {{part|pl}}\nof your whole team.\nUsing it again during the\n{{shoot_boost}} {{effect}} makes\nthe {{effect}} stronger."
+  }
+ ]
+}

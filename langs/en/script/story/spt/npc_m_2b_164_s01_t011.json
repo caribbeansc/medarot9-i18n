@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2b_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1038,
+   "src": "31ac411e0c53",
+   "t": "For {{medabot}} stuff, ask the {{club}}\npresident."
+  },
+  {
+   "i": 1041,
+   "src": "0d2683fabbed",
+   "t": "His knowledge is amazing."
+  },
+  {
+   "i": 1049,
+   "src": "5ea884355ddc",
+   "t": "I'm better at {{robattle|pl}}, though."
+  },
+  {
+   "i": 1052,
+   "src": "24f4542fe364",
+   "t": "Only by a tiny bit, mind you."
+  }
+ ]
+}

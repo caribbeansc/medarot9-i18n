@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_40.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "eae75a77ef4c",
+   "t": "<c:00ff00>{{mf}}:<c> {{stasis}}\nMelee attacks by your\nwhole team gain an {{effect}}\nthat halts the {{opponent}}'s\naction.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

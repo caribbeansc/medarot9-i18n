@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_shop.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "5c1c534b59da",
+   "t": "{{shopkeeper}}"
+  },
+  {
+   "i": 1653,
+   "src": "1b3abcd74947",
+   "t": "Huh, with me?"
+  },
+  {
+   "i": 1656,
+   "src": "0a35fa1e9efb",
+   "t": "I'm so happy~!"
+  }
+ ]
+}

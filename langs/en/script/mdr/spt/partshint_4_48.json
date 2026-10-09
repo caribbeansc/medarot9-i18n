@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_48.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c134ce1d22f5",
+   "t": "<c:00ff00>Leg Trait:<c> {{extra_mag}}\n{{head_part|cap}}'s {{uses}} +1."
+  }
+ ]
+}

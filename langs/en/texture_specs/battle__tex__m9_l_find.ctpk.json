@@ -1,0 +1,71 @@
+{
+ "rel": "battle/tex/m9_l_find.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    146,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    1,
+    144,
+    30
+   ],
+   "erase": "none",
+   "text": "LEADER FOUND!",
+   "font": "anton",
+   "cap": 18.5,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "italic_skew": 0.14,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFF99"
+     ],
+     [
+      0.1,
+      "#FFFF66"
+     ],
+     [
+      0.5,
+      "#FFFFCC"
+     ],
+     [
+      0.54,
+      "#FF9911"
+     ],
+     [
+      1,
+      "#CC3322"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#CC4400",
+     "w": 1.3
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.35
+   }
+  }
+ ]
+}

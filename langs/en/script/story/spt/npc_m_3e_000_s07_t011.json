@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3e_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1038,
+   "src": "d61d9ba47932",
+   "t": "Come see the Newspaper {{club|cap}}'s exhibit!"
+  },
+  {
+   "i": 1041,
+   "src": "71303e60de0c",
+   "t": "You'll see our three-year history at a\nglance!"
+  },
+  {
+   "i": 1049,
+   "src": "0953d9875c73",
+   "t": "...Only three years? No, no."
+  },
+  {
+   "i": 1052,
+   "src": "0a36cbd31c1b",
+   "t": "What matters isn't length but density,\npal!"
+  }
+ ]
+}

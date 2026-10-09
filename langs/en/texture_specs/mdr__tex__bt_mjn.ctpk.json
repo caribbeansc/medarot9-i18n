@@ -1,0 +1,49 @@
+{
+ "rel": "mdr/tex/bt_mjn.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    14,
+    4,
+    170,
+    17
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    8,
+    3,
+    178,
+    19
+   ],
+   "text": "Latest Medajournal here",
+   "font": "compact-rounded-heavy",
+   "cap": 9,
+   "fill": "#50545D",
+   "stroke": "#E2E2E2",
+   "stroke_w": 0.8,
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    14,
+    28,
+    170,
+    17
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    8,
+    27,
+    178,
+    19
+   ],
+   "text": "Latest Medajournal here",
+   "font": "compact-rounded-heavy",
+   "cap": 9,
+   "fill": "#C8C9CD",
+   "stroke": null,
+   "crisp": 0.4
+  }
+ ]
+}

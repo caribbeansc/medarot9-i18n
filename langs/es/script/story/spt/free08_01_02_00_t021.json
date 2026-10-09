@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free08_01_02_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "3bf4f8de71b8",
+   "t": "¡La {{mission}} 'Recolección de {{medalia|pl}}:\n{{old_harbor_town}}' comienza!"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "2a19ac46d703",
+   "t": "{{old_harbor_town}} queda lejos de la mina."
+  },
+  {
+   "i": 1049,
+   "src": "61185ce7f55c",
+   "t": "Vamos al oeste desde su entrada."
+  }
+ ]
+}

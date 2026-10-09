@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_meda_000_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5d1f8cd82138",
+   "t": "{{pingen}}"
+  },
+  {
+   "i": 1038,
+   "src": "4b807176eba2",
+   "t": "Sea jungla o montaña nevada,"
+  },
+  {
+   "i": 1041,
+   "src": "fa5b905f9379",
+   "t": "¡avanzo con mis {{legs_part_slot}} submarinas!"
+  }
+ ]
+}

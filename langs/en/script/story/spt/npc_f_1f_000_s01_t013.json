@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1f_000_s01_t013.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "97c3154bbe1b",
+   "t": "{{yukishiro}}"
+  },
+  {
+   "i": 1038,
+   "src": "9a9720a42fbd",
+   "t": "On second thought..."
+  },
+  {
+   "i": 1041,
+   "src": "4ece09dd50b3",
+   "t": "I'll get a bento from the shop today."
+  }
+ ]
+}

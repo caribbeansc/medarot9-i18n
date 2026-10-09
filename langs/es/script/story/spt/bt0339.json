@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0339.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 872,
+   "src": "f3b1ff4cdc93",
+   "t": "Una {{robattle}}, ¿eh? Suena bien."
+  },
+  {
+   "i": 875,
+   "src": "c171e33acc08",
+   "t": "Con gusto seré tu {{opponent}}."
+  }
+ ]
+}

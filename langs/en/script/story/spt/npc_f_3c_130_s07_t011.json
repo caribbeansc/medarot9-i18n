@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3c_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "2bf33f5b34c3",
+   "t": "It'll be a concert venue,"
+  },
+  {
+   "i": 1041,
+   "src": "df884c086ed4",
+   "t": "so practice is off during the festival."
+  },
+  {
+   "i": 1049,
+   "src": "5d76cd4a818a",
+   "t": "But it can't be helped,"
+  },
+  {
+   "i": 1052,
+   "src": "c1d0a9f212db",
+   "t": "it's a festival!"
+  }
+ ]
+}

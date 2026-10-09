@@ -1,0 +1,100 @@
+{
+ "file": "mdr/spt/wm_btl.spt",
+ "lines": [
+  {
+   "i": 1022,
+   "src": "dff714e8ac1f",
+   "t": "Iniciando como anfitrión"
+  },
+  {
+   "i": 1037,
+   "src": "c84fb834969a",
+   "t": "Esperando conexión de invitado"
+  },
+  {
+   "i": 1052,
+   "src": "fb126a50b4da",
+   "t": "Esperando conexión de espectador"
+  },
+  {
+   "i": 1093,
+   "src": "d0f43982f393",
+   "t": "Cancelando"
+  },
+  {
+   "i": 1109,
+   "src": "4aaa187bd277",
+   "t": "Conectado con el invitado"
+  },
+  {
+   "i": 1139,
+   "src": "d0f43982f393",
+   "t": "Cancelando"
+  },
+  {
+   "i": 1156,
+   "src": "3e28b512171c",
+   "t": "Conectado con el espectador"
+  },
+  {
+   "i": 1190,
+   "src": "0d9c4c3057ab",
+   "t": "Iniciando como invitado"
+  },
+  {
+   "i": 1215,
+   "src": "baf882ebddc9",
+   "t": "Finalizando"
+  },
+  {
+   "i": 1280,
+   "src": "ff537e5cd98b",
+   "t": "Iniciando como espectador"
+  },
+  {
+   "i": 1307,
+   "src": "baf882ebddc9",
+   "t": "Finalizando"
+  },
+  {
+   "i": 1372,
+   "src": "dff714e8ac1f",
+   "t": "Iniciando como anfitrión"
+  },
+  {
+   "i": 1380,
+   "src": "c84fb834969a",
+   "t": "Esperando conexión de invitado"
+  },
+  {
+   "i": 1393,
+   "src": "baf882ebddc9",
+   "t": "Finalizando"
+  },
+  {
+   "i": 1440,
+   "src": "0d9c4c3057ab",
+   "t": "Iniciando como invitado"
+  },
+  {
+   "i": 1448,
+   "src": "b2517fc7e27d",
+   "t": "Y: Buscar anfitrión"
+  },
+  {
+   "i": 1451,
+   "src": "8709e878c6cd",
+   "t": "A: Conectar al anfitrión"
+  },
+  {
+   "i": 1464,
+   "src": "baf882ebddc9",
+   "t": "Finalizando"
+  },
+  {
+   "i": 1477,
+   "src": "8418ab5930e5",
+   "t": "Conectando al anfitrión"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_9.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a2ab0d912f01",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>Front-line Commander\n{{prep}} +10 for each {{ally}} on\nCrossfire standby"
+  }
+ ]
+}

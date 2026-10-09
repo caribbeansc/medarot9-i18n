@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_68.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8a30146b0c17",
+   "t": "{{medabot}} {{type}} valquiria,\nvaliente doncella guerrera.\n \n{{has|cap}} espada de hielo en la\nmano derecha y escudo\nen la izquierda, refleja\ntodo {{shooting}}. Encabeza el\navance ante el {{enemy}},\ncomo un caballero."
+  }
+ ]
+}

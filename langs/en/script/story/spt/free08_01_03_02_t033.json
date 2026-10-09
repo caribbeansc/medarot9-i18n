@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free08_01_03_02_t033.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "c18a3d3a935a",
+   "t": "The signal... is gone."
+  },
+  {
+   "i": 1038,
+   "src": "df8a3d2b70f6",
+   "t": "Okay, let's head back to the {{clubroom}}."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_210_953_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1035,
+   "src": "452bedba6edd",
+   "t": "¡Lo logramos...!"
+  },
+  {
+   "i": 1042,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1048,
+   "src": "ea27bf08b2aa",
+   "t": "...No."
+  }
+ ]
+}

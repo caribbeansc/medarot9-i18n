@@ -1,0 +1,30 @@
+{
+ "rel": "mdr/tex/bt_rtset9.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    13,
+    5,
+    53,
+    18
+   ],
+   "erase_box": [
+    13,
+    6,
+    54,
+    14
+   ],
+   "erase": "hfill",
+   "text": "Basic Action",
+   "font": "din",
+   "cap": 10,
+   "fill": "#1E1E1E",
+   "stroke": "#E2E2E2",
+   "stroke_w": 1,
+   "crisp": 0.4,
+   "min_scale_x": 0.75,
+   "pad": 0
+  }
+ ]
+}

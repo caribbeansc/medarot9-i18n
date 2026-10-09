@@ -1,0 +1,117 @@
+{
+ "rel": "battle/tex/cp1_txt_c9.ctpk",
+ "base": "jp",
+ "styles": {
+  "fight": {
+   "font": "impact",
+   "italic_skew": 0.42,
+   "pad": 0,
+   "min_scale_x": 0.7
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    301,
+    107
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    302,
+    0,
+    163,
+    99
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "fight",
+   "box": [
+    4,
+    6,
+    294,
+    96
+   ],
+   "erase": "none",
+   "text": "A LUCHAR!",
+   "cap": 56,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#0B8A1C"
+     ],
+     [
+      0.3,
+      "#2FCB22"
+     ],
+     [
+      0.45,
+      "#C8FF2C"
+     ],
+     [
+      0.6,
+      "#3BD22C"
+     ],
+     [
+      1,
+      "#0A6418"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#04501A",
+     "w": 1.5
+    },
+    {
+     "color": "#F2FFF8",
+     "w": 2
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#10A878",
+    "blur": 3.5,
+    "opacity": 1.0
+   },
+   "dark_edges": true
+  },
+  {
+   "style": "fight",
+   "box": [
+    306,
+    8,
+    154,
+    90
+   ],
+   "erase": "none",
+   "text": "A LUCHAR!",
+   "cap": 56,
+   "size": 70.88607594936708,
+   "scale_x": 0.4516202090592335,
+   "italic_skew": 0.21,
+   "fill": "#FFFFFF00",
+   "strokes": [
+    {
+     "color": "#FFFFFF00",
+     "w": 1.4
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#D3FFEB",
+    "blur": 2.4,
+    "opacity": 0.62
+   }
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f06_250_000_10_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "a932d89f4301",
+   "t": "Está prohibido comprar y vender cosas\nobtenidas en actividades del {{club}}."
+  },
+  {
+   "i": 1042,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1051,
+   "src": "16b9c8eaf7ba",
+   "t": "Lo sé, por supuesto."
+  },
+  {
+   "i": 1054,
+   "src": "2fe48674f016",
+   "t": "¡Es un 'qué tal si', algo hipotético!"
+  },
+  {
+   "i": 1065,
+   "src": "0a12640c680c",
+   "t": "El precio de una {{medalia}}, eh."
+  },
+  {
+   "i": 1070,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1079,
+   "src": "d82b54bb4313",
+   "t": "En el extremo bajo,"
+  },
+  {
+   "i": 1082,
+   "src": "f2d3de05d722",
+   "t": "unos 10,000 yenes cada una."
+  },
+  {
+   "i": 1089,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1095,
+   "src": "17aec4d7fb74",
+   "t": "¿¿Tanto así??"
+  },
+  {
+   "i": 1106,
+   "src": "28e8884f8bca",
+   "t": "¡Increíble, parece una joya!"
+  },
+  {
+   "i": 1117,
+   "src": "60e4437ad225",
+   "t": "¿Eh?"
+  }
+ ]
+}

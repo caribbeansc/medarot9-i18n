@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f09_060_230_00_t053.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1038,
+   "src": "0b2d5fe87a0b",
+   "t": "Is this a {{medabot}}, {{robo}}?"
+  },
+  {
+   "i": 1041,
+   "src": "87a0a86d83e8",
+   "t": "It's broken, {{robo}}."
+  },
+  {
+   "i": 1051,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1060,
+   "src": "96bd1cf1c5ee",
+   "t": "Hey, {{jet}}!"
+  },
+  {
+   "i": 1068,
+   "src": "3caf3a2da76d",
+   "t": "Could you give this huge door"
+  },
+  {
+   "i": 1071,
+   "src": "24a225098ae8",
+   "t": "a little knock with your fist?"
+  },
+  {
+   "i": 1078,
+   "src": "bb68ad92ec58",
+   "t": "{{jet}}"
+  },
+  {
+   "i": 1084,
+   "src": "1a70385d00e1",
+   "t": "Roger."
+  }
+ ]
+}

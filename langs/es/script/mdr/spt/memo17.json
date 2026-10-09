@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/memo17.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "f008a9e56c9c",
+   "t": "Volvamos al {{exploration_club}}."
+  },
+  {
+   "i": 32,
+   "src": "55abec4e3c77",
+   "t": "3 De la {{mine_entrance}} al exterior\n"
+  },
+  {
+   "i": 42,
+   "src": "65290d4da1ac",
+   "t": "3 Pelea con el rival\n"
+  }
+ ]
+}

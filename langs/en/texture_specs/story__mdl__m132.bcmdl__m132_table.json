@@ -1,0 +1,50 @@
+{
+ "rel": "story/mdl/m132.bcmdl",
+ "tex": "m132_table",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "#5AADAC",
+  "thr": 60,
+  "grow": 1,
+  "font": "sf-cond-heavy",
+  "cap": 8,
+  "fill": "#E2F6F6",
+  "stroke": null,
+  "pad": 0,
+  "rotate": 270
+ },
+ "items": [
+  {
+   "box": [
+    28,
+    15,
+    11,
+    58
+   ],
+   "erase_box": [
+    27,
+    15,
+    13,
+    58
+   ],
+   "text": "CONCERT"
+  },
+  {
+   "box": [
+    43,
+    15,
+    12,
+    44
+   ],
+   "erase_box": [
+    43,
+    15,
+    12,
+    35
+   ],
+   "text": "FESTIVAL"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3b_meda_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4b03e0341df3",
+   "t": "{{cobalt_setter}}"
+  },
+  {
+   "i": 1035,
+   "src": "1291b47792b6",
+   "t": "Pull yourself together, master!"
+  },
+  {
+   "i": 1038,
+   "src": "8c03afaad7c0",
+   "t": "Thirty more laps! You can do it!"
+  }
+ ]
+}

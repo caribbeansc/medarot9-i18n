@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f08_120_339_00_t013.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "85db35e79a2c",
+   "t": "Espera un segundo,"
+  },
+  {
+   "i": 1004,
+   "src": "4bf31013ba8f",
+   "t": "voy a avisarle al presidente--"
+  },
+  {
+   "i": 1025,
+   "src": "1c1a291aab09",
+   "t": "Oye."
+  },
+  {
+   "i": 1033,
+   "src": "1022f3965cdb",
+   "t": "¡Te dije que esperaras!"
+  },
+  {
+   "i": 1036,
+   "src": "2b29d105f79e",
+   "t": "¡¡En serio!!"
+  }
+ ]
+}

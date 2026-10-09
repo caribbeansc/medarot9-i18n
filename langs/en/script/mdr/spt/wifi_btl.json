@@ -1,0 +1,45 @@
+{
+ "file": "mdr/spt/wifi_btl.spt",
+ "lines": [
+  {
+   "i": 863,
+   "src": "74cfb9a054e3",
+   "t": "One more time?"
+  },
+  {
+   "i": 903,
+   "src": "ded6bf9737c0",
+   "t": "Logging in to the authentication server"
+  },
+  {
+   "i": 914,
+   "src": "c249079ac813",
+   "t": "Starting matchmaking"
+  },
+  {
+   "i": 930,
+   "src": "baf882ebddc9",
+   "t": "Closing"
+  },
+  {
+   "i": 949,
+   "src": "baf882ebddc9",
+   "t": "Closing"
+  },
+  {
+   "i": 961,
+   "src": "baf882ebddc9",
+   "t": "Closing"
+  },
+  {
+   "i": 967,
+   "src": "baf882ebddc9",
+   "t": "Closing"
+  },
+  {
+   "i": 973,
+   "src": "baf882ebddc9",
+   "t": "Closing"
+  }
+ ]
+}

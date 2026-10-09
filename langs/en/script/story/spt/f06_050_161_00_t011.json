@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_050_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "fc016092d884",
+   "t": "Sorry to keep you waiting, {{main}}-chan."
+  },
+  {
+   "i": 1009,
+   "src": "f023009b2491",
+   "t": "We finished the measurements you\nasked for."
+  },
+  {
+   "i": 1017,
+   "src": "42804c8e2fc5",
+   "t": "I posted the results on the bulletin\nboard..."
+  },
+  {
+   "i": 1027,
+   "src": "e1122e337b77",
+   "t": "So?"
+  },
+  {
+   "i": 1030,
+   "src": "48a99dfc9f6d",
+   "t": "Do you think they'll be useful...?"
+  }
+ ]
+}

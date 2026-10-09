@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/free08_02_01_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "1e98d667c475",
+   "t": "{{mission|cap}} '{{medalia}} Gathering:\nBlocked {{mountain_path}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "0ead4a6ee0d1",
+   "t": "This is a bit of a tricky {{mission}}."
+  },
+  {
+   "i": 1054,
+   "src": "b82afb3bfb9d",
+   "t": "I found the signal, but I still"
+  },
+  {
+   "i": 1057,
+   "src": "c5b781e1f897",
+   "t": "don't know the path that leads there."
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "fe3323e26ee4",
+   "t": "Well, let's just go and see. If it's"
+  },
+  {
+   "i": 1076,
+   "src": "05557c1a9105",
+   "t": "impossible, we can give up and turn\nback."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_0.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "afeae65e68f9",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nCrucero Terrestre\nSea cual sea el tipo de\n{{legs}} mejora la {{affinity}}\ncon el {{terrain}} llano."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_10.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "067ac9916245",
+   "t": "<c:00ff00>Leg Trait:<c> {{heal_plus}}\nWhen using a Heal action,\n{{part}} {{prep}} stat +10."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f01_070_165_00_t005.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "754ccba79a05",
+   "t": "What are you doing?"
+  },
+  {
+   "i": 1066,
+   "src": "9df26106b0f4",
+   "t": "Hey"
+  },
+  {
+   "i": 1069,
+   "src": "721f905ad451",
+   "t": "What's this?"
+  },
+  {
+   "i": 1075,
+   "src": "d5f62c3ea968",
+   "t": "Hey, what is this?"
+  },
+  {
+   "i": 1078,
+   "src": "c473337a291c",
+   "t": "Do you know what this is?"
+  },
+  {
+   "i": 1087,
+   "src": "3325a221029b",
+   "t": "This? This is..."
+  },
+  {
+   "i": 1095,
+   "src": "d782dea9c848",
+   "t": "Hmm, I don't know."
+  },
+  {
+   "i": 1098,
+   "src": "5a87041313ac",
+   "t": "What could it be..."
+  },
+  {
+   "i": 1123,
+   "src": "65391cb973ea",
+   "t": "Ah!"
+  },
+  {
+   "i": 1126,
+   "src": "b9ad72b728f8",
+   "t": "Wait, no!"
+  }
+ ]
+}

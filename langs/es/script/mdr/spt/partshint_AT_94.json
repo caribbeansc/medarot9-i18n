@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_94.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "49e329b43e1f",
+   "t": "<c:00ff00>Técnica:<c>{{full_charge}}\nPone tu medidor de carga\nal 100%.\nLa {{part}} usada recibe el\n{{damage}} correspondiente al\naumento."
+  }
+ ]
+}

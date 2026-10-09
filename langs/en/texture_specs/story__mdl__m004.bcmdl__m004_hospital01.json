@@ -1,0 +1,32 @@
+{
+ "rel": "story/mdl/m004.bcmdl",
+ "tex": "m004_hospital01",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    185,
+    430,
+    311,
+    70
+   ],
+   "erase_box": [
+    188,
+    444,
+    316,
+    40
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "text": "Peppermill\nGeneral Hospital",
+   "font": "hiragino-heavy",
+   "cap": 17,
+   "pad": 0,
+   "fill": "#3A8794",
+   "stroke": null,
+   "crisp": 0.4
+  }
+ ]
+}

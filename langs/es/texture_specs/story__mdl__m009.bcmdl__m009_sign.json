@@ -1,0 +1,111 @@
+{
+ "rel": "story/mdl/m009.bcmdl",
+ "tex": "m009_sign",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph:bg",
+  "thr": 50,
+  "grow": 1,
+  "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+  "cap": 5,
+  "scale_x": 1,
+  "pad": 0,
+  "stroke": null,
+  "crisp": 1.0,
+  "fill": "#D8A8A8",
+  "bg": "#720800"
+ },
+ "items": [
+  {
+   "box": [
+    4,
+    6,
+    24,
+    5
+   ],
+   "erase_box": [
+    4,
+    6,
+    24,
+    5
+   ],
+   "text": "CARNE",
+   "baseline": 11
+  },
+  {
+   "box": [
+    4,
+    28,
+    24,
+    5
+   ],
+   "erase_box": [
+    4,
+    28,
+    24,
+    5
+   ],
+   "text": "CARNE",
+   "baseline": 33
+  },
+  {
+   "box": [
+    4,
+    48,
+    25,
+    5
+   ],
+   "erase_box": [
+    4,
+    48,
+    25,
+    5
+   ],
+   "text": "DULCE",
+   "baseline": 53
+  },
+  {
+   "box": [
+    35,
+    48,
+    25,
+    5
+   ],
+   "erase_box": [
+    35,
+    48,
+    26,
+    5
+   ],
+   "text": "JAMON",
+   "baseline": 53
+  },
+  {
+   "box": [
+    4,
+    34,
+    24,
+    5
+   ],
+   "erase": "none",
+   "text": "ESPEC.",
+   "baseline": 39,
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "fill": "#7B1A1A"
+  },
+  {
+   "box": [
+    36,
+    54,
+    24,
+    5
+   ],
+   "erase": "none",
+   "text": "QUESO",
+   "baseline": 59,
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "fill": "#7B1A1A"
+  }
+ ]
+}

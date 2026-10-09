@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_pc05_110_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1042,
+   "src": "401fc66f895a",
+   "t": "¡¡Aagh!!"
+  },
+  {
+   "i": 1053,
+   "src": "56cd71fd3ded",
+   "t": "¿¡Q-qué pasa, {{main}}-chan!?"
+  },
+  {
+   "i": 1065,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1074,
+   "src": "51bb4c398ec0",
+   "t": "¡Es justo aquí! ¡Se supone que"
+  },
+  {
+   "i": 1077,
+   "src": "d3e87484af51",
+   "t": "debería estar aquí, pero no hay nada!"
+  },
+  {
+   "i": 1085,
+   "src": "0ab2d9b352d2",
+   "t": "¡Esto es muy raro!"
+  }
+ ]
+}

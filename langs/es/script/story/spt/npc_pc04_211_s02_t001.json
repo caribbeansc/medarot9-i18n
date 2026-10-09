@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc04_211_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "a9e25972b461",
+   "t": "Esto es..."
+  },
+  {
+   "i": 1038,
+   "src": "23da691a4f1a",
+   "t": "Un conducto. Es bastante grande..."
+  },
+  {
+   "i": 1046,
+   "src": "3c1f4aafbe77",
+   "t": "¿Qué habrá al fondo...?"
+  },
+  {
+   "i": 1054,
+   "src": "8a2bf5db9e30",
+   "t": "No veo muy bien..."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/medal_get2.spt",
+ "lines": [
+  {
+   "i": 1577,
+   "src": "0da2cf604308",
+   "t": "<c> name this medal?"
+  },
+  {
+   "i": 1584,
+   "src": "398ba28da04b",
+   "t": "Yes"
+  },
+  {
+   "i": 1585,
+   "src": "7e3865de42a5",
+   "t": "No"
+  },
+  {
+   "i": 1589,
+   "src": "398ba28da04b",
+   "t": "Yes"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3d_165_s06_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "889acc64d4c3",
+   "t": "¿Eh? ...Ah, son ustedes."
+  },
+  {
+   "i": 1041,
+   "src": "5d712518faf1",
+   "t": "¡Buen trabajo el de antes!"
+  },
+  {
+   "i": 1049,
+   "src": "c05da3082078",
+   "t": "El presidente y los demás no están."
+  },
+  {
+   "i": 1052,
+   "src": "17ec9e98d8d5",
+   "t": "Fueron a entrenar afuera."
+  },
+  {
+   "i": 1060,
+   "src": "cb25a4d1ccd5",
+   "t": "Yo cuido el equipo."
+  },
+  {
+   "i": 1063,
+   "src": "2a37b7aeb726",
+   "t": "Gasta mucho, hay que ahorrar."
+  }
+ ]
+}

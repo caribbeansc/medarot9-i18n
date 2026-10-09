@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_294.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b2921ca88b44",
+   "t": "Versión renovada del\n{{medabot}} escarabajo.\n \nPrioriza el ataque: frente\nal antiguo, más {{power}} y\n{{armor}}, pero menos\nvelocidad. Aun así, es el\n{{biped}} de mayor\ncapacidad de carga."
+  }
+ ]
+}

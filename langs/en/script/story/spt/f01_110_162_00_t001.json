@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f01_110_162_00_t001.spt",
+ "lines": [
+  {
+   "i": 1130,
+   "src": "187d6ff29116",
+   "t": "...Hm?"
+  },
+  {
+   "i": 1146,
+   "src": "eb3f02231560",
+   "t": "{{robattle}}? {{robattle}}?"
+  },
+  {
+   "i": 1181,
+   "src": "1814e9321871",
+   "t": "Oh, it's a {{robattle}}!"
+  },
+  {
+   "i": 1184,
+   "src": "6a3dcc99b8c2",
+   "t": "Leave it to me~!"
+  },
+  {
+   "i": 1190,
+   "src": "96245e443763",
+   "t": "Yes, a {{robattle}}!"
+  },
+  {
+   "i": 1193,
+   "src": "f561bb128740",
+   "t": "Leave it to me~!"
+  }
+ ]
+}

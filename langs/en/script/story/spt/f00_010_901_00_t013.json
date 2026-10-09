@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f00_010_901_00_t013.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "f09b5da6e853",
+   "t": "H-hey, why did you suddenly go\nquiet?"
+  },
+  {
+   "i": 1040,
+   "src": "53ff63630b80",
+   "t": "...Did I go too far?"
+  },
+  {
+   "i": 1045,
+   "src": "1b48814e3776",
+   "t": "{{teruru}}"
+  },
+  {
+   "i": 1062,
+   "src": "c038c1b91300",
+   "t": "I see. You're right..."
+  },
+  {
+   "i": 1073,
+   "src": "967cd7c9d2ed",
+   "t": "? What are you talking about?"
+  },
+  {
+   "i": 1078,
+   "src": "1b48814e3776",
+   "t": "{{teruru}}"
+  },
+  {
+   "i": 1095,
+   "src": "453e79f6ba7e",
+   "t": "That's right, this isn't my only chance."
+  },
+  {
+   "i": 1098,
+   "src": "246a56a96960",
+   "t": "Next year, there'll surely be another..."
+  },
+  {
+   "i": 1109,
+   "src": "1bd40c1874cc",
+   "t": "{{teruru}}?"
+  },
+  {
+   "i": 1116,
+   "src": "1b48814e3776",
+   "t": "{{teruru}}"
+  },
+  {
+   "i": 1133,
+   "src": "cc96ae3c46e8",
+   "t": "I've decided!!!"
+  }
+ ]
+}

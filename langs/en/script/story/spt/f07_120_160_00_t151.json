@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f07_120_160_00_t151.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "d92935bfd0d7",
+   "t": "W-well then, I'll--"
+  },
+  {
+   "i": 1043,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1049,
+   "src": "be8f55742378",
+   "t": "Yes."
+  },
+  {
+   "i": 1059,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1068,
+   "src": "5a587e2b6b39",
+   "t": "Have fun out there~!"
+  }
+ ]
+}

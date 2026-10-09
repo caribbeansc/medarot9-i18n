@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f09_220_800_00_t116.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1038,
+   "src": "4b7c8ec36e96",
+   "t": "Espera, tú eres el de aquella vez..."
+  },
+  {
+   "i": 1047,
+   "src": "74181552cd71",
+   "t": "... ¿qué le pasó?"
+  },
+  {
+   "i": 1055,
+   "src": "a743c2ac2de3",
+   "t": "Eh..."
+  },
+  {
+   "i": 1063,
+   "src": "e33f69768466",
+   "t": "Bueno, la verdad es..."
+  },
+  {
+   "i": 1071,
+   "src": "13a07cac6659",
+   "t": "Estuve separado de él un tiempo."
+  },
+  {
+   "i": 1074,
+   "src": "fe283f77e629",
+   "t": "Íbamos por separado antes de esto..."
+  },
+  {
+   "i": 1079,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1085,
+   "src": "b8a8865047e7",
+   "t": "¿Por qué le quitaste el ojo de encima?"
+  },
+  {
+   "i": 1103,
+   "src": "c02a4bf2d905",
+   "t": "El {{master}} y el {{medabot}}"
+  },
+  {
+   "i": 1106,
+   "src": "cb11fb98bd09",
+   "t": "deben actuar juntos."
+  },
+  {
+   "i": 1114,
+   "src": "492962f196cc",
+   "t": "Si se separaron tan fácilmente"
+  },
+  {
+   "i": 1117,
+   "src": "1f0664ab02a9",
+   "t": "por discusiones sin sentido--"
+  },
+  {
+   "i": 1125,
+   "src": "71aec54054ab",
+   "t": "entonces no eres digno de ser un\n{{master}}."
+  },
+  {
+   "i": 1133,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

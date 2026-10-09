@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_01_00_00_t021.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "e86f1a89b30c",
+   "t": "What the heck is this"
+  },
+  {
+   "i": 1041,
+   "src": "915f44e555a0",
+   "t": "It's for female-{{type}} {{medabot|pl}}!"
+  },
+  {
+   "i": 1051,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1057,
+   "src": "8b8296e06576",
+   "t": "Well, yeah, that's why this is for"
+  },
+  {
+   "i": 1061,
+   "src": "720d402a85d5",
+   "t": " or "
+  },
+  {
+   "i": 1063,
+   "src": "d1611e55ec9b",
+   "t": ""
+  }
+ ]
+}

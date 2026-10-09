@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description114.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3454619c0d9f",
+   "t": "{{shooting}} (stat)"
+  },
+  {
+   "i": 11,
+   "src": "797a28977466",
+   "t": "A type of <c:ffff00>stat<c> for the <c:ffff00>legs<c> <c:ffff00>{{part}}<c>.\n\nMeasures suitability for ranged combat, both\noffensively and defensively.\nThe higher the value, the faster the <c:ffff00>{{shooting}} skill<c>\ngets <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c>, and the more <c:ffff00>{{success}}<c>\n<c:ffff00>Power<c> and <c:ffff00>Attack Power<c> its <c:ffff00>ranged attacks<c> gain.\nIt also raises <c:ffff00>defense power<c> and <c:ffff00>evasion power<c>\nagainst the {{opponent}}'s ranged attacks."
+  }
+ ]
+}

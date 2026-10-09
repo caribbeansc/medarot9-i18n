@@ -1,0 +1,40 @@
+{
+ "file": "battle/spt/tuto_01_005.spt",
+ "lines": [
+  {
+   "i": 1093,
+   "src": "64c19b4cf2a8",
+   "t": "Intentemos <c:ff00ff>cargar<c>. "
+  },
+  {
+   "i": 1112,
+   "src": "9439129c2faf",
+   "t": "Sin usar técnicas de las {{part|pl}},\nse acumula fuerza, ¿no?"
+  },
+  {
+   "i": 1123,
+   "src": "a4a3b876ecde",
+   "t": "El {{stats}} de las {{part|pl}} {{up}} un\npoco según la fuerza acumulada, ¿no?               "
+  },
+  {
+   "i": 1128,
+   "src": "71ee4c1c10da",
+   "t": "Cargar no tiene {{prep}} ni {{cooldown}}:\nsolo se espera en el área de comandos."
+  },
+  {
+   "i": 1147,
+   "src": "61147ec9157d",
+   "t": "Y no olvides que mientras cargas\n<c:ff00ff>no puedes esquivar<c>.      "
+  },
+  {
+   "i": 1158,
+   "src": "65bd862ccda4",
+   "t": "Para cargar, pulsa el botón $ｸ y elige\nel comando de carga, ¿no era así?"
+  },
+  {
+   "i": 1201,
+   "src": "a6e549f4c9ba",
+   "t": "Al elegirlo, confirma con el botón $*.           "
+  }
+ ]
+}

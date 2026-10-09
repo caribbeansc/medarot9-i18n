@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3e2_meda_150_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1b252ff8ff2e",
+   "t": "{{auroraqueen}}"
+  },
+  {
+   "i": 1038,
+   "src": "1ab60ce7acd9",
+   "t": "Walk straight down this path and you'll\nfind a trash can!"
+  },
+  {
+   "i": 1041,
+   "src": "42aed7f16440",
+   "t": "If you look away carelessly, you'll bump\ninto it!"
+  }
+ ]
+}

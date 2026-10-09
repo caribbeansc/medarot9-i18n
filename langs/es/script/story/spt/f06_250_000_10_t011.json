@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f06_250_000_10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "c4fd3e27aa44",
+   "t": "¿Es la tercera...?"
+  },
+  {
+   "i": 1048,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1057,
+   "src": "6d2a92fbcc56",
+   "t": "Es un puntaje perfecto."
+  },
+  {
+   "i": 1068,
+   "src": "e4787c88ad27",
+   "t": "A este ritmo, ¡parece que podremos"
+  },
+  {
+   "i": 1071,
+   "src": "bcd43c4a3ef2",
+   "t": "juntar 100 sin problema!"
+  },
+  {
+   "i": 1079,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1085,
+   "src": "b84f4d80d932",
+   "t": "¡Lo lograste, {{main}}-chan! ¡Por fin"
+  },
+  {
+   "i": 1088,
+   "src": "2db04ae2c757",
+   "t": "está listo! Estoy muy emocionado."
+  },
+  {
+   "i": 1098,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1107,
+   "src": "02a885154245",
+   "t": "¡Sí!"
+  },
+  {
+   "i": 1117,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1123,
+   "src": "806521a25c5f",
+   "t": "...Oye, ¿cuánto crees que valdría"
+  },
+  {
+   "i": 1126,
+   "src": "702b9c93bddb",
+   "t": "esa Medaria si la vendiera?"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_88.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e0b66f95d159",
+   "t": "<c:00ff00>Técnica:<c>Refuerzo Lucha\nDurante un tiempo, {{up}}\nla lucha de la {{part}} de\n{{legs}} de todo tu equipo.\nSi se usa de nuevo\ndurante el {{effect}} de\nrefuerzo lucha, el {{effect}}\naumenta."
+  }
+ ]
+}

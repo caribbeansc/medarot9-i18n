@@ -1,0 +1,223 @@
+{
+ "rel": "mdr/tex/m9_chr_sel02.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0
+ },
+ "styles": {
+  "estado": {
+   "font": "sf-cond-heavy",
+   "cap": 11,
+   "fill": "#EEF2F2",
+   "stroke": "#225566",
+   "stroke_w": 1.6,
+   "leading": 1.12,
+   "crisp": 0.3
+  },
+  "cian": {
+   "font": "sf-rounded",
+   "cap": 12,
+   "fill": "#55FFFF",
+   "stroke": "#114477",
+   "stroke_w": 1.5,
+   "crisp": 0.3,
+   "align": "left",
+   "tracking": 0.4
+  },
+  "naranja": {
+   "font": "sf-rounded-heavy",
+   "cap": 12,
+   "fill": "#FFFFFF",
+   "stroke": "#BB6600",
+   "stroke_w": 2.0,
+   "crisp": 0.3
+  },
+  "config": {
+   "font": "sf-cond-heavy",
+   "cap": 7.5,
+   "fill": "#BBFFFF",
+   "strokes": [
+    {
+     "color": "#3A8CE0",
+     "w": 0.7
+    }
+   ],
+   "align": "left",
+   "crisp": 0.7
+  },
+  "rival": {
+   "font": "sf-rounded-heavy",
+   "cap": 14,
+   "fill": {
+    "top": "#FFFF99",
+    "bottom": "#FFEE55"
+   },
+   "stroke": "#B8741E",
+   "stroke_w": 1.0,
+   "italic_skew": 0.12,
+   "crisp": 0.0
+  },
+  "menta": {
+   "font": "sf-rounded",
+   "cap": 15,
+   "fill": "#AAFFCC",
+   "stroke": "#114477",
+   "stroke_w": 1.6,
+   "italic_skew": 0.18,
+   "crisp": 0.3
+  },
+  "barra": {
+   "font": "sf-rounded",
+   "cap": 11,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D4E4F6"
+   },
+   "stroke": "#1E5FA8",
+   "stroke_w": 1.2,
+   "crisp": 0.0,
+   "align": "center",
+   "tracking": 0.4
+  }
+ },
+ "items": [
+  {
+   "box": [
+    4,
+    191,
+    39,
+    41
+   ],
+   "erase_box": [
+    1,
+    189,
+    44,
+    44
+   ],
+   "text": "Send\nready",
+   "style": "estado"
+  },
+  {
+   "box": [
+    48,
+    191,
+    39,
+    41
+   ],
+   "erase_box": [
+    45,
+    189,
+    44,
+    44
+   ],
+   "text": "Send\ndone",
+   "style": "estado"
+  },
+  {
+   "box": [
+    342,
+    179,
+    50,
+    21
+   ],
+   "erase_box": [
+    341,
+    178,
+    52,
+    24
+   ],
+   "text": "Send",
+   "style": "naranja",
+   "cap": 14,
+   "font": "sf-cond-heavy"
+  },
+  {
+   "box": [
+    439,
+    181,
+    50,
+    42
+   ],
+   "erase_box": [
+    441,
+    178,
+    46,
+    50
+   ],
+   "text": "Data\nanalysis",
+   "style": "naranja",
+   "cap": 11,
+   "leading": 1.2,
+   "font": "sf-cond-heavy"
+  },
+  {
+   "box": [
+    4,
+    436,
+    126,
+    19
+   ],
+   "erase_box": [
+    0,
+    436,
+    134,
+    20
+   ],
+   "text": "Use item",
+   "style": "cian",
+   "baseline": 450.5
+  },
+  {
+   "box": [
+    138,
+    436,
+    92,
+    19
+   ],
+   "erase_box": [
+    135,
+    436,
+    98,
+    22
+   ],
+   "text": "Settings",
+   "style": "cian",
+   "baseline": 450.5
+  },
+  {
+   "box": [
+    4,
+    461,
+    84,
+    18
+   ],
+   "erase_box": [
+    0,
+    459,
+    90,
+    22
+   ],
+   "text": "Profile",
+   "style": "cian"
+  },
+  {
+   "box": [
+    182,
+    460,
+    138,
+    17
+   ],
+   "erase_box": [
+    153,
+    459,
+    198,
+    19
+   ],
+   "erase": "hfill",
+   "text": "Choose leader",
+   "style": "barra",
+   "baseline": 472.0
+  }
+ ]
+}

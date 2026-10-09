@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_m_1a_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1038,
+   "src": "3e11448b890a",
+   "t": "You're a first-year too? "
+  },
+  {
+   "i": 1041,
+   "src": "47f4a04a46c9",
+   "t": "Hey, how many {{medal|pl}} did you have\nbefore coming here?"
+  },
+  {
+   "i": 1049,
+   "src": "1666f60febc2",
+   "t": "I had three."
+  },
+  {
+   "i": 1057,
+   "src": "d418b243873b",
+   "t": "I got along with all of them, so when I\nfound out I got in,"
+  },
+  {
+   "i": 1060,
+   "src": "37c0dad625e2",
+   "t": "I agonized over who to bring."
+  },
+  {
+   "i": 1068,
+   "src": "71235478b293",
+   "t": "In the end I chose this one..."
+  },
+  {
+   "i": 1071,
+   "src": "f302fd09603b",
+   "t": "I was so lonely for a while."
+  },
+  {
+   "i": 1079,
+   "src": "b002b1ddc4fd",
+   "t": "Why can we only bring one?"
+  },
+  {
+   "i": 1082,
+   "src": "f556c4fd52ca",
+   "t": "I wish they'd at least tell us the reason."
+  }
+ ]
+}

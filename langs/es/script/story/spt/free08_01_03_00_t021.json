@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free08_01_03_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "5bb8a27218a4",
+   "t": "¡La {{mission}} 'Recolección de {{medalia|pl}}:\nPista de Esquí Artificial' comienza!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "e881c836ed11",
+   "t": "Está en la base del {{outer_rim}}."
+  },
+  {
+   "i": 1046,
+   "src": "f664f8ccfa57",
+   "t": "Entra por la {{entrance|cap}} {{mountains|cap}} y llegarás."
+  }
+ ]
+}

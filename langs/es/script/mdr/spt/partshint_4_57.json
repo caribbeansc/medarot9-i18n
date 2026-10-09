@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_57.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b99818d2e6dd",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Artillería\nDurante la {{prep}} de un\nataque no puede evadir ni\ndefender.\n{{power|cap}} y {{success}} +10."
+  }
+ ]
+}

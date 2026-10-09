@@ -1,0 +1,164 @@
+{
+ "rel": "mdr/tex/m9_map.ctpk",
+ "base": "jp",
+ "defaults": {
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    369,
+    0,
+    143,
+    51
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    372,
+    1,
+    65,
+    15
+   ],
+   "erase": "none",
+   "text": "Medarot Academy",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 12
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    441,
+    1,
+    34,
+    15
+   ],
+   "erase": "none",
+   "text": "Mine",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 12
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    372,
+    17,
+    32,
+    16
+   ],
+   "erase": "none",
+   "text": "South Coast",
+   "cap": 7.5,
+   "pad": 0,
+   "baseline": 28
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    405,
+    17,
+    34,
+    16
+   ],
+   "erase": "none",
+   "text": "East Coast",
+   "cap": 7.5,
+   "pad": 0,
+   "baseline": 28
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    441,
+    17,
+    34,
+    16
+   ],
+   "erase": "none",
+   "text": "West Coast",
+   "cap": 7,
+   "pad": 0,
+   "baseline": 28
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    477,
+    17,
+    34,
+    16
+   ],
+   "erase": "none",
+   "text": "North Coast",
+   "cap": 7,
+   "pad": 0,
+   "baseline": 28
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    372,
+    34,
+    72,
+    16
+   ],
+   "erase": "none",
+   "text": "Mtn & Forest",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 46
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    445,
+    34,
+    48,
+    16
+   ],
+   "erase": "none",
+   "text": "Crater",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 45
+  }
+ ]
+}

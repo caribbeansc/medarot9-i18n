@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_shop_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5c1c534b59da",
+   "t": "{{shopkeeper}}"
+  },
+  {
+   "i": 1035,
+   "src": "27d8d0516294",
+   "t": "Lo siento. Ahora estoy un poco"
+  },
+  {
+   "i": 1038,
+   "src": "1a7ad95f2a13",
+   "t": "ocupada... Vuelve a invitarme otra vez."
+  }
+ ]
+}

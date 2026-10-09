@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1039,
+   "src": "222a7652ec56",
+   "t": "-kun!"
+  },
+  {
+   "i": 1042,
+   "src": "4f86dda28ce0",
+   "t": "It's finally here!"
+  },
+  {
+   "i": 1050,
+   "src": "2ef18c8eaf23",
+   "t": "Your {{teacher}} is cheering you on in\nsecret from the sidelines!"
+  },
+  {
+   "i": 1053,
+   "src": "cec3acfe8b2d",
+   "t": "D-d-do your best! Fight!"
+  }
+ ]
+}

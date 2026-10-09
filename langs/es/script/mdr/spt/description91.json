@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description91.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3155ccaa3075",
+   "t": "{{medalia}}"
+  },
+  {
+   "i": 11,
+   "src": "30148e16c54d",
+   "t": "Gema misteriosa que extrae el poder de la <c:ffff00>{{medal}}<c>.\nCada <c:ffff00>{{medalia_slot}}<c> admite 1 {{medalia}}.\n\nCada {{medalia}} tiene: {{effect}}, forma, color y una\n<c:ffff00>{{best_skill}}<c> extra con su <c:ffff00>{{level_bonus}}<c> (0-99).\n\nSi las 3 ranuras de la {{medal}} tienen {{medalia|pl}} de la\nmisma forma, cambia el <c:ffff00>{{leader_effect}}<c>; si son del\nmismo color, ocurre el <c:ffff00>{{medal_change}}<c>."
+  }
+ ]
+}

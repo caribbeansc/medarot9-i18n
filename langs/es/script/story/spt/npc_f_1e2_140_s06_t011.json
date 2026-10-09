@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_1e2_140_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f44d21d69865",
+   "t": "{{hanayuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "ac38e3788f68",
+   "t": "Esa chica es alumna transferida, dicen."
+  },
+  {
+   "i": 1046,
+   "src": "d9bf475f9902",
+   "t": "¡Quiere decidir su {{club}} para el nuevo"
+  },
+  {
+   "i": 1049,
+   "src": "06c20d44bd5a",
+   "t": "semestre, así que anda mirando todo!"
+  },
+  {
+   "i": 1057,
+   "src": "daf7ea655620",
+   "t": "Es rara. Nunca la vi en el {{dormitory}}."
+  },
+  {
+   "i": 1060,
+   "src": "505d3a2a6c35",
+   "t": "Es internado, ¿dónde rayos vivirá?"
+  },
+  {
+   "i": 1068,
+   "src": "be564d231465",
+   "t": "Bueno, Senpai, estás todo embobado,"
+  },
+  {
+   "i": 1071,
+   "src": "ebfcf99712f9",
+   "t": "y no parece importarte nada, ¿verdad?"
+  }
+ ]
+}

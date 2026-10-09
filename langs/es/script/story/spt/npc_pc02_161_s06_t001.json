@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_pc02_161_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "b869f3d02b7d",
+   "t": "Hace muchísimo calor."
+  },
+  {
+   "i": 1043,
+   "src": "3c7a3ee02ad1",
+   "t": "Pon el aire acondicionado de una vez~."
+  },
+  {
+   "i": 1046,
+   "src": "953a744d3543",
+   "t": "¡¿Qué?! ¡¿No tienes uno?! Increíble,"
+  },
+  {
+   "i": 1054,
+   "src": "56da22f08742",
+   "t": "qué cuchitril de habitación es esta~."
+  },
+  {
+   "i": 1057,
+   "src": "60e5acc48733",
+   "t": "Esto me molesta muchísimo~."
+  }
+ ]
+}

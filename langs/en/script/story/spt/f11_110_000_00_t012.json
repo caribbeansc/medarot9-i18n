@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f11_110_000_00_t012.spt",
+ "lines": [
+  {
+   "i": 1037,
+   "src": "7a82e8169913",
+   "t": "So they say."
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "d780d5c677cc",
+   "t": "Good work, everyone."
+  },
+  {
+   "i": 1059,
+   "src": "97cd46ef15d2",
+   "t": "Then shall we"
+  },
+  {
+   "i": 1062,
+   "src": "e7e7f53d1e53",
+   "t": "head back to the {{clubroom}} for now?"
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "052b7696c1ed",
+   "t": "Yes, let's see--"
+  }
+ ]
+}

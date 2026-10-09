@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/memo54.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "ded872c23da7",
+   "t": "'Observe:Old Town Port'"
+  },
+  {
+   "i": 32,
+   "src": "625c92baa8f0",
+   "t": "Get data from the highest spot you can in the ruined Old Port Town.\nThe Old Port Town is close, west of the mine entrance.\n"
+  },
+  {
+   "i": 42,
+   "src": "857b3173f22b",
+   "t": "Walk through the collapsed port to higher grounds...\n"
+  },
+  {
+   "i": 52,
+   "src": "f5efe6770915",
+   "t": "Observed sound waves on the roof of a building.\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 62,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

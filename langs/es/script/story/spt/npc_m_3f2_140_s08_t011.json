@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_3f2_140_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "39f12f1955b9",
+   "t": "{{momotaro}}"
+  },
+  {
+   "i": 1038,
+   "src": "cd74d6767413",
+   "t": "Ay, por favor."
+  },
+  {
+   "i": 1041,
+   "src": "c12adb056dbb",
+   "t": "¿Hasta el presidente llega tarde hoy?"
+  },
+  {
+   "i": 1049,
+   "src": "e5890b85ca9c",
+   "t": "Buscar {{medalia|pl}} está muy bien, pero"
+  },
+  {
+   "i": 1052,
+   "src": "6f99dcef112b",
+   "t": "obsesionarse tanto es un problema."
+  },
+  {
+   "i": 1060,
+   "src": "20a4e4a265a6",
+   "t": "Si no lo tomas con calma,"
+  },
+  {
+   "i": 1063,
+   "src": "6b7b75aa5650",
+   "t": "van a imponer una prohibición..."
+  }
+ ]
+}

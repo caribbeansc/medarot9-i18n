@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_shop_error.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "4c11702dfd0f",
+   "t": "The parts box isn't working right,"
+  },
+  {
+   "i": 1004,
+   "src": "bf360ff2568e",
+   "t": "so I'd better hold off on shopping."
+  }
+ ]
+}

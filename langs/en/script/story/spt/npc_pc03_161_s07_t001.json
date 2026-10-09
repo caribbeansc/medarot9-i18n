@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc03_161_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "3bc1d696704f",
+   "t": "Oh dear."
+  },
+  {
+   "i": 1041,
+   "src": "af991aa140b3",
+   "t": "And here I thought I could finally relax."
+  },
+  {
+   "i": 1049,
+   "src": "e94aa035eaa0",
+   "t": "I wish the {{culture_festival}} would just\ndisappear."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_135.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9db0d601d865",
+   "t": "Versión del 'UNI02 Legend\nHorn' ajustada para el\n{{select_corps}}.\n \nAmbos brazos son ahora\n{{part|pl}} de {{fighting}}, y su\npersonalización prioriza\nel {{armor}} y el\n{{stats}} de {{fighting}}."
+  }
+ ]
+}

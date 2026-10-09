@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_70.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7efa029a8e7a",
+   "t": "<c:00ff00>Leg Trait:<c> {{flanking}}\nOn a melee attack, if your\n{{mobility}} is at least double\nthat of an {{opponent}}\n{{waiting}} on\n{{guard}}, you cannot be\nInterrupt\nGuarded."
+  }
+ ]
+}

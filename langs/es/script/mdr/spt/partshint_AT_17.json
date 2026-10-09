@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_17.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "43f46c9cbf77",
+   "t": "<c:00ff00>Técnica:<c>Sello {{evade|cap}}\nAtaque de {{shooting}} que\naplica el {{status}} sello de\n{{evade}}.\n<c:00ffff>{{status|cap}}:<c>sello {{evade}}\nImpide la {{evade}} sin\nimportar el {{condition}} de las\n{{part|pl}} de {{legs}}."
+  }
+ ]
+}

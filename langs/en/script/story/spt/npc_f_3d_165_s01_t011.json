@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3d_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "608ad0067e00",
+   "t": "After I graduate, I won't go on to higher\nschool,"
+  },
+  {
+   "i": 1041,
+   "src": "a9a7c3058344",
+   "t": "I'll join International Rescue right away."
+  },
+  {
+   "i": 1049,
+   "src": "b48886e7c91c",
+   "t": "I want to get to real disaster sites as\nsoon as I can"
+  },
+  {
+   "i": 1052,
+   "src": "9210d54c660b",
+   "t": "and help people in trouble."
+  }
+ ]
+}

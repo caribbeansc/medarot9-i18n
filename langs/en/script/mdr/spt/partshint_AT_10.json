@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_10.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6891836a2a41",
+   "t": "<c:00ff00>Action:<c> {{break}}\nA ranged attack that adds\n1/2 of the {{charge_gauge}}\n%\nto {{success}}. The more\nHeavy parts the foe has,\nthe more {{damage}}. Has\npiercing."
+  }
+ ]
+}

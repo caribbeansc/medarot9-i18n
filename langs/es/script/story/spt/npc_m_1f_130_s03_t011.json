@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_1f_130_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "fc16140c84d4",
+   "t": "Bien... mi respiración se calmó."
+  },
+  {
+   "i": 1038,
+   "src": "cd9eaffcdf66",
+   "t": "Por fin sigo el entrenamiento..."
+  },
+  {
+   "i": 1056,
+   "src": "d70f950a1a6a",
+   "t": "¡Aquí empieza el verdadero reto!"
+  }
+ ]
+}

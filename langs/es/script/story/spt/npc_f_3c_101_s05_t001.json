@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3c_101_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "43ae961a5da1",
+   "t": "Qué tranquilo, ¿todos estarán"
+  },
+  {
+   "i": 1041,
+   "src": "6070a43e23fa",
+   "t": "estudiando? La sala está vacía..."
+  },
+  {
+   "i": 1049,
+   "src": "ecf809d768d9",
+   "t": "¿Eh? ¿Yo? ¡No te preocupes! ¡Yo"
+  },
+  {
+   "i": 1052,
+   "src": "e71edc6bc5b6",
+   "t": "hallé la iluminación ya, jajaja!"
+  }
+ ]
+}

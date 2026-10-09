@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_54.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ce4438c79344",
+   "t": "<c:00ff00>{{mf}}:<c> S {{repair_plant}}\nSets a {{plant}} in your {{area}}\nthat recovers {{damage}} little\nby little.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0534.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 872,
+   "src": "2115cea1d881",
+   "t": "Vaya, ¿quieres robobatallar conmigo?"
+  },
+  {
+   "i": 875,
+   "src": "b94c5249b61f",
+   "t": "Bien, seré tu {{opponent}}."
+  }
+ ]
+}

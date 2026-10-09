@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_fb_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1038,
+   "src": "3be432c304f5",
+   "t": "A veces madrugar no está nada mal."
+  },
+  {
+   "i": 1041,
+   "src": "9452fcdc3e43",
+   "t": "¡La brisa es tan fresca y se siente genial!"
+  }
+ ]
+}

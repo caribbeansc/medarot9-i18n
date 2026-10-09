@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2f2_meda_140_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d2f6527aa504",
+   "t": "Kingpharaoh"
+  },
+  {
+   "i": 1035,
+   "src": "66cf841ce027",
+   "t": "¡Yo también!"
+  },
+  {
+   "i": 1038,
+   "src": "b9610644efad",
+   "t": "Algo raro le pasa al {{master}} hoy."
+  }
+ ]
+}

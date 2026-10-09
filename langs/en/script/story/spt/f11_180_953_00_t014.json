@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/f11_180_953_00_t014.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1049,
+   "src": "10212d20351b",
+   "t": "We're the {{idol_club}}!"
+  },
+  {
+   "i": 1056,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1065,
+   "src": "124b3c2e4476",
+   "t": "And my own {{rescue_club}}, huh?"
+  },
+  {
+   "i": 1068,
+   "src": "34adca2fad99",
+   "t": "Hmm..."
+  },
+  {
+   "i": 1082,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1088,
+   "src": "4da3385f75d7",
+   "t": "Hey, what about the {{exploration_club}}?"
+  },
+  {
+   "i": 1102,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1108,
+   "src": "578ff8b43e30",
+   "t": "Come to think of it, the {{principal|cap}} too."
+  },
+  {
+   "i": 1111,
+   "src": "a571da42fa21",
+   "t": "He was here just a moment ago..."
+  },
+  {
+   "i": 1118,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1124,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1132,
+   "src": "62766a6af11e",
+   "t": "I'll take command."
+  },
+  {
+   "i": 1135,
+   "src": "7668738d5264",
+   "t": "Will you leave it to me?"
+  },
+  {
+   "i": 1157,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1165,
+   "src": "2dd01b5a348e",
+   "t": "...Yes!"
+  },
+  {
+   "i": 1179,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1188,
+   "src": "2e7a8426b4c9",
+   "t": "Please do!"
+  },
+  {
+   "i": 1202,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1211,
+   "src": "8a290d06f025",
+   "t": "Of course!"
+  },
+  {
+   "i": 1214,
+   "src": "a1a802982b6d",
+   "t": "That was my plan from the start!"
+  },
+  {
+   "i": 1228,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1234,
+   "src": "5621dd8b8d38",
+   "t": "Good."
+  },
+  {
+   "i": 1237,
+   "src": "e9a75a8feff7",
+   "t": "Then I'll explain the plan."
+  }
+ ]
+}

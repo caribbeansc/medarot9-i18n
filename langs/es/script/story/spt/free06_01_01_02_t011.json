@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_01_01_02_t011.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "77165edc4534",
+   "t": "Uf, parece que se va a derrumbar\nen cualquier momento."
+  },
+  {
+   "i": 1046,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1055,
+   "src": "adc77ac8f2d9",
+   "t": "¡No me empujes!"
+  },
+  {
+   "i": 1058,
+   "src": "22f4ce37f473",
+   "t": "¡¡Que ni se te ocurra empujarme!!"
+  },
+  {
+   "i": 1078,
+   "src": "cd115e4c0a00",
+   "t": "¡Si me empujas, te mataré!"
+  },
+  {
+   "i": 1096,
+   "src": "13f0ac6b76e4",
+   "t": "Ya te dije que no voy a empujar..."
+  }
+ ]
+}

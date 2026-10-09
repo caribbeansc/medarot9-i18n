@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo63.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "048b16537f8d",
+   "t": "'{{medalia}} {{collect|cap}}:Old Port Town'"
+  },
+  {
+   "i": 32,
+   "src": "02f20d0cdf78",
+   "t": "Large medalia reaction at the Harbor in the Old Port.\nGo to the old port,head west from the mine entrance.\n"
+  },
+  {
+   "i": 42,
+   "src": "927c60a1f7d1",
+   "t": "Found the medalia.\nThreatened by the {{occult_research_club}},but they didn't take it.\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

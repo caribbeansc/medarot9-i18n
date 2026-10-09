@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_54.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ce4438c79344",
+   "t": "<c:00ff00>{{mf}}:<c>{{plant|cap}} Reparación S\nColoca en tu área una\n{{plant}} que repara el {{damage}}\npoco a poco.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

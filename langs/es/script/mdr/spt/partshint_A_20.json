@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_20.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "2f150c4c637c",
+   "t": "<c:00ff00>{{mf}}:<c>Atadura Total\nAtaque cuerpo a cuerpo\nque baja la {{prep}} y\nrefrigeración de todo el\nequipo {{opponent}} e impide\ndefender.\n<c:00ffff>*{{required_parts|cap}}<c>\nUna o más {{part|pl}} de\n{{fighting}}"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3b_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e9bcfb45423c",
+   "t": "{{nagisa}}"
+  },
+  {
+   "i": 1035,
+   "src": "b903bc804c81",
+   "t": "Lo siento... ahora estoy ocupado."
+  },
+  {
+   "i": 1038,
+   "src": "2389b2a27aae",
+   "t": "En otra ocasión."
+  }
+ ]
+}

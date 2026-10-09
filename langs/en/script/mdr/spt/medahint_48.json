@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_48.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "cf7983822c99",
+   "t": "Magician-{{type}} {{medabot}}\nwith a playing-card cape.\n \nIts {{slip}} attack makes the\n{{hit}} foe fall and sends it\nback to the command\narea: a\nnuisance to face."
+  }
+ ]
+}

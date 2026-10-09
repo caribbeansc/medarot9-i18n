@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc03_meda_161_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "17e6d88d2c9c",
+   "t": "That sound."
+  },
+  {
+   "i": 1041,
+   "src": "f81e1d3dbcb9",
+   "t": "It's the sound of {{medabot|pl}} fighting."
+  }
+ ]
+}

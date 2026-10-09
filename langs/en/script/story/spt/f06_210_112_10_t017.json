@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f06_210_112_10_t017.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1051,
+   "src": "5de94f3342dc",
+   "t": "Understood."
+  },
+  {
+   "i": 1054,
+   "src": "7fb98864273a",
+   "t": "I'll keep quiet to the {{principal|cap}} for now."
+  },
+  {
+   "i": 1062,
+   "src": "5a14b276d35c",
+   "t": "Really?"
+  },
+  {
+   "i": 1067,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1073,
+   "src": "49b9fe04edcc",
+   "t": "However."
+  },
+  {
+   "i": 1081,
+   "src": "e413b1d4d2bc",
+   "t": "Promise me you'll never\ndo the same thing again."
+  },
+  {
+   "i": 1089,
+   "src": "066645108b87",
+   "t": "If you sneak in and get caught again,"
+  },
+  {
+   "i": 1092,
+   "src": "90e7ffb7e2eb",
+   "t": "even I can't pretend I didn't see."
+  },
+  {
+   "i": 1106,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1112,
+   "src": "f921e606cec3",
+   "t": "Of course, I promise."
+  },
+  {
+   "i": 1127,
+   "src": "3d4f6fbaee77",
+   "t": "Thank you very much!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_29.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "efb33d0fbfc4",
+   "t": "Super-heavyweight\nhippo-{{type}}\n{{medabot}}.\n \nAs it looks, it excels at\npowerful melee attacks.\nDespite its bulk it has\n{{stealth}}, so it is hard to\nhit."
+  }
+ ]
+}

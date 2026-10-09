@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_40.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e9a82a09f7f2",
+   "t": "<c:00ff00>Leg Trait:<c> {{rumbling}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"{{fight_boost}}\"."
+  }
+ ]
+}

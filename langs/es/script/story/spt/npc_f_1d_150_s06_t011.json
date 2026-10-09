@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_1d_150_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "cc4e33627947",
+   "t": "{{hana}}"
+  },
+  {
+   "i": 1038,
+   "src": "8f604f49451f",
+   "t": "¿Por qué los de 1er año no podemos "
+  },
+  {
+   "i": 1041,
+   "src": "611d94ccc7da",
+   "t": "volver a casa en verano?"
+  },
+  {
+   "i": 1049,
+   "src": "52e8ba7824a1",
+   "t": "La maestra dijo que era para que"
+  },
+  {
+   "i": 1052,
+   "src": "88a070737aac",
+   "t": "pasáramos tiempo con los Medabots..."
+  },
+  {
+   "i": 1060,
+   "src": "89bf5303f376",
+   "t": "¿No es igual estemos donde estemos?"
+  },
+  {
+   "i": 1063,
+   "src": "704d0a1717df",
+   "t": "Ni siquiera hay clases. ¡Qué raro!"
+  }
+ ]
+}

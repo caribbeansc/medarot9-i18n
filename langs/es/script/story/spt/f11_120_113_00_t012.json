@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_120_113_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "c7a53e76bfcf",
+   "t": "El festival estaba por terminar cuando"
+  },
+  {
+   "i": 1038,
+   "src": "8afbf8a7e604",
+   "t": "aterrizó un heli del {{select_corps}}."
+  },
+  {
+   "i": 1046,
+   "src": "3e31d3e0e504",
+   "t": "Se canceló la clausura y solo"
+  },
+  {
+   "i": 1049,
+   "src": "7c15580b226b",
+   "t": "nos dijeron que esperáramos sin razón."
+  }
+ ]
+}

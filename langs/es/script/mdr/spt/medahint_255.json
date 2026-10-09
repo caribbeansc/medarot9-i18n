@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_255.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4e177cdc6442",
+   "t": "{{medabot}} {{type}} cangrejo real\nde pinzas desiguales.\n \nAlterna con destreza el\nmartillo gigante de su\n{{right_arm_part_slot}} y la estaca\n{{pile}} del izquierdo, afilada\ny muy perforante."
+  }
+ ]
+}

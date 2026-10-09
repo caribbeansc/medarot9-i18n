@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1f2_meda_140_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "0b712bde3551",
+   "t": "{{shiny_star}}"
+  },
+  {
+   "i": 1035,
+   "src": "8c6d92644de9",
+   "t": "It feels kind of weird, somehow."
+  },
+  {
+   "i": 1038,
+   "src": "4ccdebd19403",
+   "t": "It's like fighting tofu."
+  }
+ ]
+}

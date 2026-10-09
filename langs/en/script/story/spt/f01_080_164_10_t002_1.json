@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f01_080_164_10_t002_1.spt",
+ "lines": [
+  {
+   "i": 896,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 907,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 915,
+   "src": "cbc2bad6c502",
+   "t": "What's with you?"
+  },
+  {
+   "i": 918,
+   "src": "a8c6a2a65b5e",
+   "t": "Do you really want to {{join_the_club}}?"
+  },
+  {
+   "i": 926,
+   "src": "8a624697bfcc",
+   "t": "Want to try the entrance test...?"
+  }
+ ]
+}

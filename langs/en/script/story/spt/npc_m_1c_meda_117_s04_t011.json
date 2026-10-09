@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1c_meda_117_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7a441a7cc7bf",
+   "t": "{{seitei_king}}"
+  },
+  {
+   "i": 1038,
+   "src": "5b48bbeee007",
+   "t": "I'm not so good at {{robattle|pl}}."
+  },
+  {
+   "i": 1041,
+   "src": "eb076e95202d",
+   "t": "I'm better at sprinkling with the\nwatering can."
+  }
+ ]
+}

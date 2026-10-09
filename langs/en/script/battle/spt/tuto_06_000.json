@@ -1,0 +1,95 @@
+{
+ "file": "battle/spt/tuto_06_000.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1123,
+   "src": "fbc847988197",
+   "t": "Now, let's try out a <c:ff00ff>combo<c>."
+  },
+  {
+   "i": 1128,
+   "src": "edfabe903106",
+   "t": "You'd normally select {{part|pl}} with $*    "
+  },
+  {
+   "i": 1129,
+   "src": "6c538fecf9a6",
+   "t": "\nbut to select Combos, use $!"
+  },
+  {
+   "i": 1130,
+   "src": "4d4e33efb3e2",
+   "t": "."
+  },
+  {
+   "i": 1135,
+   "src": "752299fa39eb",
+   "t": "First, let's make the left {{arm_part}}\nthe first command of the combo.      "
+  },
+  {
+   "i": 1140,
+   "src": "18c39c738d39",
+   "t": "Select the left {{arm_part}}...  "
+  },
+  {
+   "i": 1169,
+   "src": "dc076650aeda",
+   "t": " to confirm."
+  },
+  {
+   "i": 1188,
+   "src": "0adfd110c5ea",
+   "t": "Second command will be\nthe right arm.             "
+  },
+  {
+   "i": 1193,
+   "src": "f450184eb9d4",
+   "t": "Select the right {{arm_part}}...  "
+  },
+  {
+   "i": 1222,
+   "src": "dc076650aeda",
+   "t": " to confirm."
+  },
+  {
+   "i": 1241,
+   "src": "271d2704d689",
+   "t": "To finish, make the third\ncommand the {{head_part}}.                  "
+  },
+  {
+   "i": 1246,
+   "src": "4fbfe068acbd",
+   "t": "The combo's last command is\nas usual: $*        "
+  },
+  {
+   "i": 1247,
+   "src": "dc076650aeda",
+   "t": "to confirm."
+  },
+  {
+   "i": 1252,
+   "src": "b0cf89c5f546",
+   "t": "Select the {{head_part}}..."
+  },
+  {
+   "i": 1281,
+   "src": "77b6dd56d17e",
+   "t": " to confirm."
+  },
+  {
+   "i": 1300,
+   "src": "b86a554c4ee9",
+   "t": "A combo targets <c:ff00ff>one<c> {{medabot}}.\nYou can't hit multiple foes.                                      "
+  },
+  {
+   "i": 1305,
+   "src": "af772fbff149",
+   "t": "Now choose a target to attack.          "
+  }
+ ]
+}

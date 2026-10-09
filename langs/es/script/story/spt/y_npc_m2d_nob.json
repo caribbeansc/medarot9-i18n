@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/y_npc_m2d_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "db2aa0046c96",
+   "t": "{{taka}}"
+  },
+  {
+   "i": 1035,
+   "src": "28f1edcc8005",
+   "t": "Ahora no puedo, lo siento..."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f01_010_120_05_t001.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1042,
+   "src": "feabb334bb5a",
+   "t": "¿Qué pasa con eso?"
+  },
+  {
+   "i": 1053,
+   "src": "4edf4a22891d",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1058,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1067,
+   "src": "e2b9dcf0ae9d",
+   "t": "¿Hay algún problema"
+  },
+  {
+   "i": 1070,
+   "src": "3a9168a3ea53",
+   "t": "con que sea de tercer año?"
+  },
+  {
+   "i": 1088,
+   "src": "03f2d50a48bc",
+   "t": "N-no, ¡para nada!"
+  },
+  {
+   "i": 1096,
+   "src": "c96a552d6eca",
+   "t": "Solo..."
+  },
+  {
+   "i": 1104,
+   "src": "e4616ff8a160",
+   "t": "solo preguntaba..."
+  }
+ ]
+}

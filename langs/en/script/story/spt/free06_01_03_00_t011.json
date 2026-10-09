@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/free06_01_03_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9fe9ed0e53b3",
+   "t": "Quest 'Sound Wave Survey:\n{{summit}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "5d96bedab0ce",
+   "t": "Basically, we want sound wave data"
+  },
+  {
+   "i": 1049,
+   "src": "9b0092d1b45a",
+   "t": "from the highest point on the island."
+  },
+  {
+   "i": 1057,
+   "src": "275f918fe0df",
+   "t": "Mountain climbing, huh..."
+  }
+ ]
+}

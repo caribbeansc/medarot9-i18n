@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_168.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4c3f0876e971",
+   "t": "<c:00ff03>Técnica:<c>{{fighting_drone}}\nColoca un dispositivo que\nhace fuego cruzado de\n{{fighting}} con los ataques\naliados.\nAl colocarlo varias veces\nsuben el {{armor}} y el\n{{attack_power}}."
+  }
+ ]
+}

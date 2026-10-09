@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f10_020_101_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7a441a7cc7bf",
+   "t": "{{seitei_king}}"
+  },
+  {
+   "i": 1035,
+   "src": "f749d163f2ab",
+   "t": "¡Allá arriba!"
+  },
+  {
+   "i": 1038,
+   "src": "71e1ec9e4579",
+   "t": "¡Se acerca más y más!"
+  },
+  {
+   "i": 1045,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1051,
+   "src": "83d45e2546c6",
+   "t": "¿Va a aterrizar?"
+  },
+  {
+   "i": 1054,
+   "src": "97175553e3cf",
+   "t": "¿Dónde exactamente?"
+  },
+  {
+   "i": 1061,
+   "src": "97c3154bbe1b",
+   "t": "{{yukishiro}}"
+  },
+  {
+   "i": 1070,
+   "src": "2abd631a024a",
+   "t": "La {{rooftop}}..."
+  }
+ ]
+}

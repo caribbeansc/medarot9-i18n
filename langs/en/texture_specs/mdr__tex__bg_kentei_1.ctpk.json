@@ -1,0 +1,336 @@
+{
+ "rel": "mdr/tex/bg_kentei_1.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "helv-cond-black",
+  "pad": 0,
+  "snap": true
+ },
+ "items": [
+  {
+   "box": [
+    96,
+    88,
+    120,
+    24
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    64,
+    96,
+    32,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    96,
+    88,
+    120,
+    24
+   ],
+   "erase": "none",
+   "text": "Charge Guide",
+   "cap": 13,
+   "baseline": 106,
+   "align": "center",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#8BEFFB"
+     ],
+     [
+      0.08,
+      "#5DE5F7"
+     ],
+     [
+      0.15,
+      "#4BE0ED"
+     ],
+     [
+      0.31,
+      "#27D1D1"
+     ],
+     [
+      0.46,
+      "#12B9B0"
+     ],
+     [
+      0.62,
+      "#00988A"
+     ],
+     [
+      0.77,
+      "#008776"
+     ],
+     [
+      0.85,
+      "#0E9081"
+     ],
+     [
+      0.92,
+      "#3CB6AE"
+     ],
+     [
+      1.0,
+      "#6EE1E3"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 2
+    },
+    {
+     "color": "#0B423D40",
+     "w": 2
+    },
+    {
+     "color": "#0B423D50",
+     "w": 0.6
+    },
+    {
+     "color": "#0B423D12",
+     "w": 0.7
+    }
+   ],
+   "dx": -1.5
+  },
+  {
+   "box": [
+    26,
+    8,
+    50,
+    17
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    8,
+    50,
+    17
+   ],
+   "erase": "none",
+   "text": "Charge",
+   "font": "hiragino-heavy",
+   "cap": 10,
+   "baseline": 19,
+   "align": "center",
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#E4E4E4"
+   },
+   "stroke": null,
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 2,
+     "color": "#131313",
+     "opacity": 1.0
+    },
+    {
+     "dx": 0,
+     "dy": 3,
+     "color": "#2C2C2C",
+     "opacity": 0.8
+    }
+   ],
+   "tracking": 0.8
+  },
+  {
+   "box": [
+    152,
+    56,
+    56,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    152,
+    56,
+    32,
+    16
+   ],
+   "erase": "none",
+   "text": "Eva",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "baseline": 68,
+   "align": "center",
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#CECECE"
+   },
+   "strokes": [
+    {
+     "color": "#414141",
+     "w": 1.7
+    },
+    {
+     "color": "#2E2E2E9A",
+     "w": 0.8
+    }
+   ]
+  },
+  {
+   "copy": [
+    181,
+    57,
+    11,
+    14
+   ],
+   "to": [
+    181,
+    57
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    208,
+    56,
+    32,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    208,
+    56,
+    30,
+    16
+   ],
+   "erase": "none",
+   "text": "Def",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "baseline": 68,
+   "align": "center",
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#CECECE"
+   },
+   "strokes": [
+    {
+     "color": "#414141",
+     "w": 1.7
+    },
+    {
+     "color": "#2E2E2E9A",
+     "w": 0.8
+    }
+   ]
+  },
+  {
+   "box": [
+    154,
+    72,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    154,
+    72,
+    40,
+    16
+   ],
+   "erase": "none",
+   "text": "Attack",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "baseline": 83,
+   "align": "left",
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#CECECE"
+   },
+   "strokes": [
+    {
+     "color": "#414141",
+     "w": 1.7
+    },
+    {
+     "color": "#2E2E2E9A",
+     "w": 0.8
+    }
+   ]
+  },
+  {
+   "box": [
+    199,
+    72,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    199,
+    72,
+    40,
+    16
+   ],
+   "erase": "none",
+   "text": "Up",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "baseline": 83,
+   "align": "left",
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#CECECE"
+   },
+   "strokes": [
+    {
+     "color": "#414141",
+     "w": 1.7
+    },
+    {
+     "color": "#2E2E2E9A",
+     "w": 0.8
+    }
+   ]
+  }
+ ],
+ "protect": [
+  [
+   96,
+   84,
+   58,
+   4
+  ],
+  [
+   194,
+   84,
+   5,
+   4
+  ],
+  [
+   96,
+   112,
+   120,
+   4
+  ]
+ ]
+}

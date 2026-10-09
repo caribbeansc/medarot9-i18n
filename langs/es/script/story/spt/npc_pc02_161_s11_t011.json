@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_161_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "f63d2dee711c",
+   "t": "Me pregunto si pasó... algo otra vez."
+  }
+ ]
+}

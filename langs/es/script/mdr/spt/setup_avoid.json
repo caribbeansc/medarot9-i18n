@@ -1,0 +1,75 @@
+{
+ "file": "mdr/spt/setup_avoid.spt",
+ "lines": [
+  {
+   "i": 1992,
+   "src": "8c082551903f",
+   "t": "{{condition_rotation|cap}} de {{evade}}: {{leader}}"
+  },
+  {
+   "i": 1995,
+   "src": "7efc7025398a",
+   "t": "{{part|cap}} de {{defend}}: {{leader}}"
+  },
+  {
+   "i": 1998,
+   "src": "7bc4811244b4",
+   "t": "{{part|cap}} que recibe: {{leader}}"
+  },
+  {
+   "i": 2004,
+   "src": "96284b23df10",
+   "t": "{{condition_rotation|cap}} de {{evade}}: no {{leader}}"
+  },
+  {
+   "i": 2007,
+   "src": "d2c43ef12b26",
+   "t": "{{part|cap}} de {{defend}}: no {{leader}}"
+  },
+  {
+   "i": 2010,
+   "src": "a74943eb4e14",
+   "t": "{{part|cap}} que recibe: no {{leader}}"
+  },
+  {
+   "i": 2147,
+   "src": "f36c654f4fd2",
+   "t": "{{priority|cap}} 1: {{target|cap}} (LD {{identified}})"
+  },
+  {
+   "i": 2150,
+   "src": "77337a9e887f",
+   "t": "{{priority|cap}} 2: {{target|cap}} (LD {{identified}})"
+  },
+  {
+   "i": 2156,
+   "src": "1bcdf85fa2cf",
+   "t": "{{priority|cap}} 1: {{target|cap}} (LD no identificado)"
+  },
+  {
+   "i": 2159,
+   "src": "fddd8c84f119",
+   "t": "{{priority|cap}} 2: {{target|cap}} (LD no identificado)"
+  },
+  {
+   "i": 2171,
+   "src": "7c36255b4e90",
+   "t": "{{priority|cap}} 1: {{part|cap}} a apuntar (LD)"
+  },
+  {
+   "i": 2174,
+   "src": "3e242fc449a3",
+   "t": "{{priority|cap}} 2: {{part|cap}} a apuntar (LD)"
+  },
+  {
+   "i": 2180,
+   "src": "4b4510b03dfa",
+   "t": "{{priority|cap}} 1: Elegir {{part}} a apuntar (no LD)"
+  },
+  {
+   "i": 2183,
+   "src": "3c5116846adc",
+   "t": "{{priority|cap}} 2: Elegir {{part}} a apuntar (no LD)"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_g_f1d2_meda.spt",
+ "lines": [
+  {
+   "i": 1030,
+   "src": "416cbae31c81",
+   "t": "{{jiras_jidas}}"
+  },
+  {
+   "i": 1041,
+   "src": "ce8b9c237d9e",
+   "t": "{{medabot|pl}} have slumps too."
+  },
+  {
+   "i": 1044,
+   "src": "bb1882b47ee6",
+   "t": "When that happens, I change my\n{{settings}} and refresh my mood."
+  }
+ ]
+}

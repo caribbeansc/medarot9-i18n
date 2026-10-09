@@ -1,0 +1,66 @@
+{
+ "rel": "mdr/tex/icon_name.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+  "cap": 5,
+  "fill": "#F2F2F8",
+  "stroke": "#0A0A14",
+  "pad": 0,
+  "crisp": 0,
+  "align": "center",
+  "valign": "middle",
+  "scale_x": 1,
+  "stroke_w": 1
+ },
+ "items": [
+  {
+   "box": [
+    25,
+    0,
+    31,
+    7
+   ],
+   "text": "Punteria"
+  },
+  {
+   "box": [
+    55,
+    0,
+    31,
+    7
+   ],
+   "text": "Arremet."
+  },
+  {
+   "box": [
+    95,
+    0,
+    28,
+    9
+   ],
+   "text": "AntiMar",
+   "align": "left"
+  },
+  {
+   "box": [
+    94,
+    9,
+    29,
+    9
+   ],
+   "text": "AntiAire",
+   "align": "left"
+  },
+  {
+   "box": [
+    92,
+    18,
+    35,
+    9
+   ],
+   "text": "F.Cruzado"
+  }
+ ]
+}

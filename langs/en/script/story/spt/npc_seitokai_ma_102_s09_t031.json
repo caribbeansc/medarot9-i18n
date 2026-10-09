@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_seitokai_ma_102_s09_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1038,
+   "src": "69af018799fb",
+   "t": "Sorry for making you go for nothing."
+  },
+  {
+   "i": 1041,
+   "src": "41eb39eb00d8",
+   "t": "Please rest until the President and the\nothers return."
+  }
+ ]
+}

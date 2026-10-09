@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f00_000_900_00_t014.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1038,
+   "src": "bdf017420547",
+   "t": "¡Yupi!"
+  },
+  {
+   "i": 1046,
+   "src": "8c5894030d39",
+   "t": "¡Rayos!"
+  },
+  {
+   "i": 1049,
+   "src": "04fbbaef0429",
+   "t": "¡Bajé la guardia!"
+  },
+  {
+   "i": 1054,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1060,
+   "src": "9dfe294f0a70",
+   "t": "Sí, fue una buena prueba."
+  },
+  {
+   "i": 1063,
+   "src": "be2e497a4969",
+   "t": "En equipo nos iría aún mejor..."
+  }
+ ]
+}

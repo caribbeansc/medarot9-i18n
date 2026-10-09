@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_49.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a7a6a8bdbf52",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nMovimiento Silencioso\n-----------"
+  }
+ ]
+}

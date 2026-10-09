@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description97.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bd85b0b57655",
+   "t": "Support Type (Skill)"
+  },
+  {
+   "i": 11,
+   "src": "79b549ff0948",
+   "t": "The <c:ffff00>skills<c> used for anything other than <c:ffff00>attacking<c>, or\ntheir corresponding <c:ffff00>{{skill_level}}<c>: <c:ffff00>Support<c>, <c:ffff00>Heal<c>, <c:ffff00>Block<c>\nand <c:ffff00>Set-up<c>. The others are <c:ffff00>offensive<c>.\n\nThe higher these skill levels, the faster the <c:ffff00>{{prep}}<c>\nand <c:ffff00>{{cooldown}}<c> of actions and the higher the <c:ffff00>{{defend}}<c>\nand <c:ffff00>{{evade}}<c>. The speed-up in {{prep}} and {{cooldown}} is\ngreater than for offensive skills."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo62.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "f543c54aeeec",
+   "t": "\"Recoger {{medalia}}: {{crater|cap}}\""
+  },
+  {
+   "i": 32,
+   "src": "d699c44d6187",
+   "t": "Gran {{react}} de {{medalia|pl}} en el centro del {{crater}}.\nBajemos al {{crater}} interior desde la cima del borde.\n"
+  },
+  {
+   "i": 42,
+   "src": "ebabac3f6c0d",
+   "t": "Desde la cima con santuario, bajando la cuesta...\n"
+  },
+  {
+   "i": 52,
+   "src": "0f9ca5d21e89",
+   "t": "En el {{crater}}, {{react}} enorme por cantidad o calidad.\n"
+  },
+  {
+   "i": 62,
+   "src": "226af812001e",
+   "t": "{{medalia}} hallada en el centro, pero la {{react}} sigue.\n¿Habrá una cantidad enorme de {{medalia|pl}} bajo tierra...?\nPor ahora, volvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 72,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

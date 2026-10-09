@@ -1,0 +1,80 @@
+{
+ "file": "mdr/spt/tournament_battle_tuto.spt",
+ "lines": [
+  {
+   "i": 1099,
+   "src": "225bb0e4dfb9",
+   "t": "Anis"
+  },
+  {
+   "i": 1107,
+   "src": "fe977f707b28",
+   "t": "¡Si el {{opponent}} trae a tantos,"
+  },
+  {
+   "i": 1110,
+   "src": "eb97cd618a7a",
+   "t": "será una <c:ff00ff>{{robattle}} por eliminación<c>...!"
+  },
+  {
+   "i": 1118,
+   "src": "87d7468bb605",
+   "t": "¿{{robattle|cap}} por eliminación...?"
+  },
+  {
+   "i": 1125,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1131,
+   "src": "aa312c4a2d63",
+   "t": "¡La {{survival_robattle}} sigue"
+  },
+  {
+   "i": 1134,
+   "src": "d272afe5ea4d",
+   "t": "hasta <c:ff00ff>vencer a todos sus {{medabot|pl}}<c>!"
+  },
+  {
+   "i": 1141,
+   "src": "225bb0e4dfb9",
+   "t": "Anis"
+  },
+  {
+   "i": 1147,
+   "src": "88833c5df176",
+   "t": "En la selección de supervivencia"
+  },
+  {
+   "i": 1150,
+   "src": "5723f37caf35",
+   "t": "eliges el <c:ff00ff>orden de salida<c> de tu equipo."
+  },
+  {
+   "i": 1155,
+   "src": "ba27f66529b1",
+   "t": "Si un {{medabot}} queda {{knocked_out}},"
+  },
+  {
+   "i": 1158,
+   "src": "c37e71bede19",
+   "t": "el siguiente entra en la {{robattle}}."
+  },
+  {
+   "i": 1165,
+   "src": "6b409ccd4db4",
+   "t": "{{sage}}"
+  },
+  {
+   "i": 1171,
+   "src": "81d829a797ce",
+   "t": "Cuantos más {{medabot|pl}} tengas, mejor,"
+  },
+  {
+   "i": 1174,
+   "src": "d165399e69e3",
+   "t": "¡así que configura todos tus {{tinpet|pl}}!"
+  }
+ ]
+}

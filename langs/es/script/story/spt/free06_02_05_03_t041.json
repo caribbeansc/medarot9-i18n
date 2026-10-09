@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/free06_02_05_03_t041.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1045,
+   "src": "5224e3380323",
+   "t": "Un {{sunken_ship}}, eh..."
+  },
+  {
+   "i": 1056,
+   "src": "10d6e5e56355",
+   "t": "¿Tal vez un carguero para transportar\n{{medalia|pl}}?"
+  },
+  {
+   "i": 1064,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1070,
+   "src": "75884282c46d",
+   "t": "No se veía tan nuevo."
+  },
+  {
+   "i": 1073,
+   "src": "1c30965cb149",
+   "t": "Probablemente mucho más viejo--"
+  },
+  {
+   "i": 1088,
+   "src": "1bf49abf4f60",
+   "t": "¿¡Un barco pirata!?"
+  },
+  {
+   "i": 1096,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1102,
+   "src": "10b6f4933d36",
+   "t": "Claro que es posible. Aunque un viejo"
+  },
+  {
+   "i": 1105,
+   "src": "adf3748b32e7",
+   "t": "barco pesquero es mucho más probable."
+  },
+  {
+   "i": 1120,
+   "src": "87c8057d4417",
+   "t": "Vaya..."
+  },
+  {
+   "i": 1125,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1134,
+   "src": "4da4f5249539",
+   "t": "Cualquier barco sirve. Hallamos"
+  },
+  {
+   "i": 1137,
+   "src": "26b6c7a2704a",
+   "t": "la {{medalia}}, así que con eso basta."
+  },
+  {
+   "i": 1148,
+   "src": "d48f73d14793",
+   "t": "Aquí hace frío."
+  },
+  {
+   "i": 1151,
+   "src": "07fca22a59aa",
+   "t": "Volvamos pronto a la {{clubroom}}."
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "file": "story/spt/f01_050_117_00_t002.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1049,
+   "src": "394394200bd2",
+   "t": "Me llamo {{hiroki}}."
+  },
+  {
+   "i": 1052,
+   "src": "7e20706d8694",
+   "t": "Mucho gusto."
+  },
+  {
+   "i": 1060,
+   "src": "9e6917649e52",
+   "t": "Este... ya decidiste dónde vas a entrar,"
+  },
+  {
+   "i": 1064,
+   "src": "b9bc110c2e1a",
+   "t": "-kun?"
+  },
+  {
+   "i": 1072,
+   "src": "9586b3af86db",
+   "t": "¿De qué estás hablando?"
+  },
+  {
+   "i": 1077,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1083,
+   "src": "4711f8147c92",
+   "t": "Ah, perdón, este..."
+  },
+  {
+   "i": 1086,
+   "src": "ad9f31fbc867",
+   "t": "Me refiero a qué club perteneces."
+  },
+  {
+   "i": 1094,
+   "src": "e0e1e4624764",
+   "t": "Casi todos los alumnos de aquí"
+  },
+  {
+   "i": 1097,
+   "src": "e9ae98d0597c",
+   "t": "están en algún club."
+  },
+  {
+   "i": 1105,
+   "src": "89a2dd6f46f8",
+   "t": "Clubes... Ah, ¿en serio?"
+  },
+  {
+   "i": 1110,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1116,
+   "src": "45d56e85a741",
+   "t": "Únete a un club pronto."
+  },
+  {
+   "i": 1119,
+   "src": "ad64ba321464",
+   "t": "Los clubs son clave aquí, y..."
+  },
+  {
+   "i": 1134,
+   "src": "4fc43d0b07de",
+   "t": "si te unes a un {{club}} que te quede bien,"
+  },
+  {
+   "i": 1137,
+   "src": "a37c8a4abe70",
+   "t": "tu {{activity_level}} subirá solo, creo."
+  },
+  {
+   "i": 1145,
+   "src": "7a55054a63f1",
+   "t": "¿Nivel de actividad...?"
+  },
+  {
+   "i": 1150,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1156,
+   "src": "4711f8147c92",
+   "t": "Ah, perdón, este..."
+  },
+  {
+   "i": 1159,
+   "src": "7579eb855552",
+   "t": "Es el {{level}} del {{medafighter}}."
+  },
+  {
+   "i": 1167,
+   "src": "afccccaf3df9",
+   "t": "La fuerza o nivel de la {{medal}} solo"
+  },
+  {
+   "i": 1170,
+   "src": "7a1d011c4332",
+   "t": "sube hasta el {{activity_level}}."
+  },
+  {
+   "i": 1178,
+   "src": "e74c02ecac56",
+   "t": "Para subir tu {{activity_level}},"
+  },
+  {
+   "i": 1181,
+   "src": "e80a1c9a3c57",
+   "t": "necesitas acumular varios logros."
+  },
+  {
+   "i": 1189,
+   "src": "d41f085a675f",
+   "t": "Para acumular logros, lo mejor es unirte"
+  },
+  {
+   "i": 1192,
+   "src": "ab40e37556b7",
+   "t": "a un {{club}} que te quede bien y participar."
+  },
+  {
+   "i": 1200,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1205,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1211,
+   "src": "0899cd621441",
+   "t": "P-perdón."
+  },
+  {
+   "i": 1214,
+   "src": "7d8b4806903b",
+   "t": "¿Fue difícil de entender...?"
+  },
+  {
+   "i": 1229,
+   "src": "b28103e7121f",
+   "t": "N-no, está bien."
+  },
+  {
+   "i": 1232,
+   "src": "bb0b13ac49ec",
+   "t": "Para nada, ¡gracias!"
+  },
+  {
+   "i": 1237,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1243,
+   "src": "ec2054169a14",
+   "t": "Soy del {{medabot_research_club}}."
+  },
+  {
+   "i": 1251,
+   "src": "06b82d2626e5",
+   "t": "No soy muy bueno en {{robattle|pl}}, pero"
+  },
+  {
+   "i": 1254,
+   "src": "5e028f2fd361",
+   "t": "amo a los {{medabot|pl}} y quiero saber más."
+  },
+  {
+   "i": 1262,
+   "src": "b53576e48008",
+   "t": "Pensé que quizá tú también."
+  },
+  {
+   "i": 1265,
+   "src": "53ecfaa60950",
+   "t": "Así que quise invitarte..."
+  },
+  {
+   "i": 1273,
+   "src": "1bf6a2a2db65",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1276,
+   "src": "50cfc81a943b",
+   "t": "El {{medabot_research_club}}, ¿eh?"
+  },
+  {
+   "i": 1281,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1287,
+   "src": "f36ba2ed7822",
+   "t": "Ah, no tienes que decidirlo ya."
+  },
+  {
+   "i": 1290,
+   "src": "00bf88a1d8ac",
+   "t": "Si te interesa, ven a verlo."
+  },
+  {
+   "i": 1298,
+   "src": "9d209947c9b1",
+   "t": "¡Una {{visit}}!"
+  },
+  {
+   "i": 1301,
+   "src": "6038f32485d7",
+   "t": "¿En serio?"
+  },
+  {
+   "i": 1313,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1319,
+   "src": "f4e8f627bf3f",
+   "t": "¡Claro que sí!"
+  },
+  {
+   "i": 1322,
+   "src": "4e6e627b9c91",
+   "t": "Está en el 2o piso del {{club_building}}."
+  },
+  {
+   "i": 1330,
+   "src": "a7834a0bc7f6",
+   "t": "¡Tienes que venir sin falta, promételo!"
+  },
+  {
+   "i": 1345,
+   "src": "47646698bc1c",
+   "t": "Entendido, allí estaré."
+  },
+  {
+   "i": 1348,
+   "src": "5e67a924966c",
+   "t": "¡Muchas gracias!"
+  }
+ ]
+}

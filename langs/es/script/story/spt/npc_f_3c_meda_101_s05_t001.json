@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_3c_meda_101_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "65357b923f0d",
+   "t": "{{sha_fu}}"
+  },
+  {
+   "i": 1038,
+   "src": "7021bcecb1b1",
+   "t": "Los niños buenos no deben imitar al\n{{master}}."
+  }
+ ]
+}

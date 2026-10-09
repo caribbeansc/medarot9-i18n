@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/free06_01_00_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1040,
+   "src": "b2f8976e9fdc",
+   "t": "Ah, es cierto--"
+  },
+  {
+   "i": 1051,
+   "src": "cbcfd3535019",
+   "t": "¿Sí?"
+  },
+  {
+   "i": 1056,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1062,
+   "src": "bd4f773ef790",
+   "t": "Muchos puntos de observación están en"
+  },
+  {
+   "i": 1065,
+   "src": "0815a1b3019a",
+   "t": "alto. Quizá necesites {{legs_part_slot}} voladoras."
+  },
+  {
+   "i": 1073,
+   "src": "dad8bfe221aa",
+   "t": "Si crees que es necesario, usa esto."
+  },
+  {
+   "i": 1076,
+   "src": "6adb16e9ee98",
+   "t": "Ya lo ajusté para ti."
+  }
+ ]
+}

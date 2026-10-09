@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f04_050_131_30_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "d7ead6d5d1e0",
+   "t": "¡Gracias por esperar!"
+  },
+  {
+   "i": 1038,
+   "src": "58c8cabebb86",
+   "t": "Ahora, ¡comencemos la segunda ronda!"
+  }
+ ]
+}

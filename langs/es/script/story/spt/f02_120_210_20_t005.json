@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f02_120_210_20_t005.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "84747d6b10c5",
+   "t": "Mmm, qué profundo."
+  },
+  {
+   "i": 1053,
+   "src": "5396a7b10296",
+   "t": "¿Estará a salvo?"
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "84902b9c6b3e",
+   "t": "No lo sé."
+  },
+  {
+   "i": 1067,
+   "src": "8efae52fed07",
+   "t": "Pero hay que hacer algo pronto."
+  },
+  {
+   "i": 1078,
+   "src": "0afdf7db755d",
+   "t": "Eso de ahí abajo es agua, ¿verdad?"
+  },
+  {
+   "i": 1081,
+   "src": "d8bbfc5c759f",
+   "t": "Qué ruido tan fuerte..."
+  },
+  {
+   "i": 1106,
+   "src": "b516a5b4d45e",
+   "t": "¿Habrá algo que podamos usar?"
+  },
+  {
+   "i": 1109,
+   "src": "81bb0edbc3db",
+   "t": "¿Algo como... un bote o... algo así...?"
+  },
+  {
+   "i": 1114,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1120,
+   "src": "8d530b5d5a7a",
+   "t": "Un bote, ¿eh?"
+  },
+  {
+   "i": 1128,
+   "src": "6ea9ab590a12",
+   "t": "Como esto es un {{storehouse}}, quizá"
+  },
+  {
+   "i": 1131,
+   "src": "d08d0ade83a8",
+   "t": "sí haya uno. Echemos un vistazo."
+  }
+ ]
+}

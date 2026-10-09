@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/medalia_get.spt",
+ "lines": [
+  {
+   "i": 1206,
+   "src": "6d939269632f",
+   "t": "{{medalia}} <c:00ff00>"
+  },
+  {
+   "i": 1208,
+   "src": "0e32041fdf29",
+   "t": "<c> obtenida!"
+  },
+  {
+   "i": 1261,
+   "src": "7869e7b18985",
+   "t": "No puedes llevar más {{medalia|pl}}. "
+  },
+  {
+   "i": 1264,
+   "src": "da012f421144",
+   "t": "Tira una {{medalia}} que no quieras.     "
+  }
+ ]
+}

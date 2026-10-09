@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_48.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b4a27ebf17af",
+   "t": "<c:00ff00>Action:<c> {{freeze}}\nA melee attack that\napplies\n{{freeze}}.\n<c:00ffff>{{status|cap}}:<c> {{freeze}}\nPauses the action for a\nwhile; cannot evade or\ndefend. Released when\nattacked."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_19.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7ddafbdf6041",
+   "t": "{{medabot}} {{type}} libélula\namarilla.\n \nCompensa su escaso\n{{armor}} con agilidad:\ndesconcierta al {{opponent}} y lo\ngolpea con un ataque\n{{press}} de {{power}} y\n{{success}}."
+  }
+ ]
+}

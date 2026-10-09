@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_44.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6ca73aa7d099",
+   "t": "<c:00ff00>Técnica:<c>Melt\nAtaque de {{fighting}} que\naplica el {{status}} {{melt}}.\n<c:00ffff>{{status|cap}}:<c>{{melt}}\nPor un tiempo, al\nterminar cada acción\ncausa 20% de {{damage}} a\ntodas las {{part|pl}}.\nNo identifica al {{leader}}."
+  }
+ ]
+}

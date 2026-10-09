@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_f_2e_163_s02_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1038,
+   "src": "454d50d54198",
+   "t": "Oh, you mean {{aoi}}?"
+  },
+  {
+   "i": 1041,
+   "src": "827d35442813",
+   "t": "She's a good girl."
+  },
+  {
+   "i": 1049,
+   "src": "bb718cc594fc",
+   "t": "Her singing and dancing are adorable,"
+  },
+  {
+   "i": 1052,
+   "src": "c82975ba3d3c",
+   "t": "she's in perfect sync with {{flora}},"
+  },
+  {
+   "i": 1060,
+   "src": "02baea6c85ec",
+   "t": "she's dedicated and serious about\npractice,"
+  },
+  {
+   "i": 1063,
+   "src": "9099017173e4",
+   "t": "she picks up new choreography right\naway,"
+  },
+  {
+   "i": 1071,
+   "src": "82b7f9e47fa9",
+   "t": "and she never throws her weight\naround,"
+  },
+  {
+   "i": 1074,
+   "src": "ec6b857fb7fd",
+   "t": "she's kind and nice to everyone--"
+  },
+  {
+   "i": 1082,
+   "src": "5e8da741de5f",
+   "t": "Um, am I praising her too much?"
+  },
+  {
+   "i": 1085,
+   "src": "11833bf6552a",
+   "t": "But really, she's a good girl."
+  },
+  {
+   "i": 1093,
+   "src": "3c47d5e7b491",
+   "t": "I'm glad {{aoi}} joined the {{idol_club}}!"
+  }
+ ]
+}

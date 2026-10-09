@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_47.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "db20f0e1ffde",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Encanto\nReduce el {{damage}} de los\nataques de {{medabot|pl}} del\nsexo opuesto en un 20%."
+  }
+ ]
+}

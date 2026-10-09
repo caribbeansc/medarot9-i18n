@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1c_meda_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "56a68255d043",
+   "t": "{{boy_1_c_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "5c33be67cc75",
+   "t": "Regar es mi trabajo, sabes"
+  },
+  {
+   "i": 1038,
+   "src": "9bf959c451ee",
+   "t": "Llego a cualquier lugar en un instante"
+  }
+ ]
+}

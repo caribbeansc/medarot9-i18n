@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3b_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e9bcfb45423c",
+   "t": "{{nagisa}}"
+  },
+  {
+   "i": 1035,
+   "src": "3fc66da49eb1",
+   "t": "Aah, uff, qué cansancio..."
+  },
+  {
+   "i": 1038,
+   "src": "843c2fb19cad",
+   "t": "Ya no quiero correr más..."
+  },
+  {
+   "i": 1046,
+   "src": "e5d8c623e8fe",
+   "t": "Ya me quiero ir a casa de una vez."
+  },
+  {
+   "i": 1049,
+   "src": "8a21880a0c7f",
+   "t": "Quiero ducharme y jugar videojuegos."
+  }
+ ]
+}

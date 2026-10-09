@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_134.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3b7b81a480c8",
+   "t": "<c:00ff00>Action:<c> {{guard}} 60\nA {{guard_stance}} that\nintercepts attacks on\nallies. When intercepting,\nnullifies {{damage}} under\n60.\nEnds after allies act 4\ntimes or time passes."
+  }
+ ]
+}

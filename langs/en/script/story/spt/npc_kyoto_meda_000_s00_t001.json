@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_kyoto_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ee96157ef6a9",
+   "t": "{{carnelian}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

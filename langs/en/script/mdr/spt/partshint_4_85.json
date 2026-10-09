@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_85.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "425fb9d60cd4",
+   "t": "<c:00ff00>Leg Trait:<c> {{battle_dance}}\nEach time you evade\nsuccessfully, {{leg_part}}'s\n{{mobility}} +2.\n*Max +20."
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "rel": "mdr/tex/m9_map_200.ctpk",
+ "base": "jp",
+ "defaults": {
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    369,
+    -1,
+    36,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    407,
+    -1,
+    36,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    447,
+    -1,
+    50,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    369,
+    15,
+    58,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    427,
+    15,
+    42,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    469,
+    15,
+    42,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    369,
+    31,
+    62,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    369,
+    0,
+    36,
+    15
+   ],
+   "erase": "none",
+   "text": "Clubs",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 11
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    407,
+    0,
+    36,
+    15
+   ],
+   "erase": "none",
+   "text": "Explor.",
+   "cap": 7.5,
+   "pad": 0,
+   "baseline": 11
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    447,
+    0,
+    50,
+    15
+   ],
+   "erase": "none",
+   "text": "Idol Club",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 12
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    369,
+    16,
+    58,
+    15
+   ],
+   "erase": "none",
+   "text": "Rescue Club",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 28
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    427,
+    16,
+    42,
+    15
+   ],
+   "erase": "none",
+   "text": "Sports A",
+   "cap": 7.5,
+   "pad": 0,
+   "baseline": 27
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    469,
+    16,
+    42,
+    15
+   ],
+   "erase": "none",
+   "text": "Sports B",
+   "cap": 7.5,
+   "pad": 0,
+   "baseline": 27
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    369,
+    32,
+    62,
+    15
+   ],
+   "erase": "none",
+   "text": "Medabot Club",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 44
+  }
+ ]
+}

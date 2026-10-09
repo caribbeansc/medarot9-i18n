@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description103.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b5018f4fc4bc",
+   "t": "Trampa (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "1700843f0f50",
+   "t": "<c:ffff00>Habilidad<c> <c:ffff00>auxiliar<c>: capacidad de manejar <c:ffff00>{{part|pl}}<c> con\nmecanismo para instalar <c:ffff00>objetos<c>. Incluye <c:ffff00>técnicas<c>\nque colocan <c:ffff00>trampas<c> y <c:ffff00>plantas<c>.\n\nA mayor <c:ffff00>{{skill_level}}<c>: <c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c> más\nrápidos, y mayores <c:ffff00>poder de {{defend}}<c> y <c:ffff00>poder de<c>\n<c:ffff00>{{evade}}<c>.\nEn las {{part|pl}} de {{trap}}, el <c:ffff00>{{stats}} de<c>\n<c:ffff00>{{cooldown}}<c> sube al llenarse la <c:ffff00>{{charge_gauge}}<c>."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "spt/delete_save.spt",
+ "lines": [
+  {
+   "i": 1107,
+   "src": "e8b0ff4cafbf",
+   "t": "¿Borrar datos guardados?"
+  },
+  {
+   "i": 1112,
+   "src": "9e81369223c3",
+   "t": "Los datos borrados no se pueden"
+  },
+  {
+   "i": 1113,
+   "src": "ad869a0253cb",
+   "t": "recuperar. Borrar de verdad?"
+  },
+  {
+   "i": 1118,
+   "src": "27589dbfa5bb",
+   "t": "Borrando..."
+  },
+  {
+   "i": 1132,
+   "src": "2473b93dc112",
+   "t": "Datos borrados.    "
+  }
+ ]
+}

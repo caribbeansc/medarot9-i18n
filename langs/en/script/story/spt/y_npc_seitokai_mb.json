@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_seitokai_mb.spt",
+ "lines": [
+  {
+   "i": 1632,
+   "src": "ca9b1540f6b9",
+   "t": "{{council_kiyoto}}"
+  },
+  {
+   "i": 1643,
+   "src": "96d7f92df9ec",
+   "t": "A {{robattle}}?"
+  },
+  {
+   "i": 1646,
+   "src": "83513c2704f7",
+   "t": "Sure thing, nice to meet you."
+  }
+ ]
+}

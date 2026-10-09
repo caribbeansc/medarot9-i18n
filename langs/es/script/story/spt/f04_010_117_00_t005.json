@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f04_010_117_00_t005.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1035,
+   "src": "a4579e8cb6bb",
+   "t": "Ah, ese "
+  },
+  {
+   "i": 1037,
+   "src": "f2ba14d461c8",
+   "t": " creo que"
+  },
+  {
+   "i": 1040,
+   "src": "5d934ae71739",
+   "t": "estuvo en una {{robattle}}--"
+  },
+  {
+   "i": 1047,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1053,
+   "src": "f7f4364a5ad6",
+   "t": "¿Adónde fue a parar?"
+  },
+  {
+   "i": 1056,
+   "src": "91e4ddf34860",
+   "t": "¿Eh? ¿Al {{exploration_club}}?"
+  },
+  {
+   "i": 1063,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1072,
+   "src": "3ea6e67aecb6",
+   "t": "Deben estar muy cortos de miembros--"
+  },
+  {
+   "i": 1082,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1088,
+   "src": "f276548b4b8f",
+   "t": "¡Bueno, bueno!"
+  },
+  {
+   "i": 1091,
+   "src": "2819d090610c",
+   "t": "¡Silencio!"
+  }
+ ]
+}

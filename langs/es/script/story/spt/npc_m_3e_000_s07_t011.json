@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3e_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1038,
+   "src": "d61d9ba47932",
+   "t": "¡Ven a ver la exhibición de Periodismo!"
+  },
+  {
+   "i": 1041,
+   "src": "71303e60de0c",
+   "t": "¡Verás de un vistazo nuestros tres años!"
+  },
+  {
+   "i": 1049,
+   "src": "0953d9875c73",
+   "t": "¿...Solo tres años? No, no."
+  },
+  {
+   "i": 1052,
+   "src": "0a36cbd31c1b",
+   "t": "¡No importa la duración, sino la calidad!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_fc.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "43aa2cb11823",
+   "t": "{{ms_tomigiku}}"
+  },
+  {
+   "i": 1653,
+   "src": "1f5b1456fb96",
+   "t": "A {{robattle}}? Sounds good!"
+  },
+  {
+   "i": 1656,
+   "src": "3491ac288f9d",
+   "t": "Let's do it, by all means!"
+  }
+ ]
+}

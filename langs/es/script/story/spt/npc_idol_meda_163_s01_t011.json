@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_idol_meda_163_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1035,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}, dijiste que volverías enseguida, pero"
+  },
+  {
+   "i": 1038,
+   "src": "db58ed35ccce",
+   "t": "te estás tomando tu tiempo, ¿no?"
+  },
+  {
+   "i": 1046,
+   "src": "d5ccdb20940c",
+   "t": "Las cosas no salieron bien, ¿verdad?"
+  },
+  {
+   "i": 1049,
+   "src": "79e8a92cdd03",
+   "t": "Quizá debí haber ido contigo..."
+  }
+ ]
+}

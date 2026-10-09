@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_060_161_00_t013.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1045,
+   "src": "53922d73e37f",
+   "t": "Isn't the search range too small?"
+  },
+  {
+   "i": 1048,
+   "src": "bbd1ec41d826",
+   "t": "It's only about a five-meter radius at\nmost..."
+  },
+  {
+   "i": 1067,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1073,
+   "src": "a138f7654be3",
+   "t": "That's wrong!"
+  }
+ ]
+}

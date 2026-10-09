@@ -1,0 +1,230 @@
+{
+ "file": "story/spt/f04_040_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "c0cf70cf166c",
+   "t": "Oh, "
+  },
+  {
+   "i": 1047,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1050,
+   "src": "5780ed0e379e",
+   "t": "What's up?"
+  },
+  {
+   "i": 1058,
+   "src": "ab8f4de6addd",
+   "t": "Did you find your genius?"
+  },
+  {
+   "i": 1073,
+   "src": "9e5531e6424c",
+   "t": "No, that's not it."
+  },
+  {
+   "i": 1081,
+   "src": "bc63d1098d4d",
+   "t": "It's about the {{robattle_tournament}}."
+  },
+  {
+   "i": 1094,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1102,
+   "src": "28ba39d22582",
+   "t": "Oh, right."
+  },
+  {
+   "i": 1105,
+   "src": "63cebe6be872",
+   "t": "Was that today?"
+  },
+  {
+   "i": 1120,
+   "src": "d0e20aaa21ed",
+   "t": "Well, let's go then."
+  },
+  {
+   "i": 1130,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1139,
+   "src": "62e567dc6279",
+   "t": "Hold on."
+  },
+  {
+   "i": 1149,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1158,
+   "src": "ddc112465323",
+   "t": "What is it, {{mio}}-kun?"
+  },
+  {
+   "i": 1165,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1174,
+   "src": "a49427817a90",
+   "t": "It's a pretty big tournament, isn't it?"
+  },
+  {
+   "i": 1177,
+   "src": "ff93844206ef",
+   "t": "Don't you have anything to say\nbeforehand?"
+  },
+  {
+   "i": 1184,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1193,
+   "src": "f63253d07b71",
+   "t": "Anything to say?"
+  },
+  {
+   "i": 1196,
+   "src": "71327faf407d",
+   "t": "Like what?"
+  },
+  {
+   "i": 1203,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1212,
+   "src": "e3d98ad4a401",
+   "t": "A strategy or something?"
+  },
+  {
+   "i": 1215,
+   "src": "8d017caa691a",
+   "t": "...Or a goal!"
+  },
+  {
+   "i": 1230,
+   "src": "48ba982b4754",
+   "t": "There's got to be something, right?"
+  },
+  {
+   "i": 1233,
+   "src": "b0d9d6fbc80a",
+   "t": "Nothing at all?"
+  },
+  {
+   "i": 1240,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1249,
+   "src": "b0a923432f46",
+   "t": "Hmm... Okay, then the goal is..."
+  },
+  {
+   "i": 1264,
+   "src": "01243a2e0806",
+   "t": "To win it all."
+  },
+  {
+   "i": 1281,
+   "src": "2abf3c547532",
+   "t": "W-w-win it all?!"
+  },
+  {
+   "i": 1293,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1302,
+   "src": "acc402452664",
+   "t": "He just says it so casually..."
+  },
+  {
+   "i": 1309,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1318,
+   "src": "1520d6344c5d",
+   "t": "Well, you see."
+  },
+  {
+   "i": 1321,
+   "src": "2478da08a9f4",
+   "t": "The Council President leaned on me\nagain."
+  },
+  {
+   "i": 1329,
+   "src": "9a29340f8b76",
+   "t": "'{{club|cap}} evaluation season is almost here,"
+  },
+  {
+   "i": 1332,
+   "src": "40920a75f50c",
+   "t": "you know that, don't you, you slacker!'"
+  },
+  {
+   "i": 1340,
+   "src": "1ec5e7883213",
+   "t": "That's what she said."
+  },
+  {
+   "i": 1348,
+   "src": "910fb10c2f7e",
+   "t": "So if we win the tournament,"
+  },
+  {
+   "i": 1351,
+   "src": "5bc1f4d95fe9",
+   "t": "I figure that'll hold her off a while."
+  },
+  {
+   "i": 1358,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1367,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1370,
+   "src": "0785017da01d",
+   "t": "I'm asking you seriously."
+  },
+  {
+   "i": 1377,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1386,
+   "src": "ea27bf08b2aa",
+   "t": "...No."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "file": "mdr/spt/setup_avoid.spt",
+ "lines": [
+  {
+   "i": 1992,
+   "src": "8c082551903f",
+   "t": "{{leader|cap}} : {{evade}}"
+  },
+  {
+   "i": 1995,
+   "src": "7efc7025398a",
+   "t": "{{leader|cap}} : {{defend}}"
+  },
+  {
+   "i": 1998,
+   "src": "7bc4811244b4",
+   "t": "{{leader|cap}} : Endure"
+  },
+  {
+   "i": 2004,
+   "src": "96284b23df10",
+   "t": "Non-{{leader|cap}} : {{evade}}"
+  },
+  {
+   "i": 2007,
+   "src": "d2c43ef12b26",
+   "t": "Non-{{leader|cap}} : {{defend}}"
+  },
+  {
+   "i": 2010,
+   "src": "a74943eb4e14",
+   "t": "Non-{{leader|cap}} : Endure"
+  },
+  {
+   "i": 2147,
+   "src": "f36c654f4fd2",
+   "t": "First {{priority}}: {{target}} selection (LD already {{identified}})"
+  },
+  {
+   "i": 2150,
+   "src": "77337a9e887f",
+   "t": "Second {{priority}}: {{target}} selection (LD {{identified}})"
+  },
+  {
+   "i": 2156,
+   "src": "1bcdf85fa2cf",
+   "t": "First {{priority}}: {{target}} selection (LD not identified))"
+  },
+  {
+   "i": 2159,
+   "src": "fddd8c84f119",
+   "t": "Second {{priority}}: {{target}} selection (LD unspecified)"
+  },
+  {
+   "i": 2171,
+   "src": "7c36255b4e90",
+   "t": "First {{priority|cap}}: {{target_rotation|cap}} {{part|cap}} Selection (LD {{target_rotation|cap}})"
+  },
+  {
+   "i": 2174,
+   "src": "3e242fc449a3",
+   "t": "Second {{priority}}: {{target_rotation|cap}} {{part}} selection (LD {{target_rotation}})"
+  },
+  {
+   "i": 2180,
+   "src": "4b4510b03dfa",
+   "t": "First {{priority}}: Target {{part}} selection (non-LD)"
+  },
+  {
+   "i": 2183,
+   "src": "3c5116846adc",
+   "t": "Second {{priority}}: Target {{part}} selection (non-LD)"
+  }
+ ]
+}

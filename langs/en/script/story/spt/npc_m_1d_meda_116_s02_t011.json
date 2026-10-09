@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1d_meda_116_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0eaa75f692bf",
+   "t": "{{agadama}}"
+  },
+  {
+   "i": 1038,
+   "src": "b62a31151ebc",
+   "t": "I make it a rule not to use {{part}} abilities\nwhen fishing."
+  },
+  {
+   "i": 1041,
+   "src": "d7d49c8bf552",
+   "t": "The thrill is in matching wits with fish\non experience and instinct alone."
+  }
+ ]
+}

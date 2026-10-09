@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/portal_m152_00.spt",
+ "lines": [
+  {
+   "i": 1359,
+   "src": "74157a7948cc",
+   "t": "¿Quieres salir?"
+  },
+  {
+   "i": 1360,
+   "src": "b336a8e5e582",
+   "t": "Salir"
+  },
+  {
+   "i": 1361,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  },
+  {
+   "i": 1365,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  }
+ ]
+}

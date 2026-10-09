@@ -1,0 +1,45 @@
+{
+ "file": "spt/field.spt",
+ "lines": [
+  {
+   "i": 1888,
+   "src": "081eb70049a7",
+   "t": "Aquí termina la versión de prueba."
+  },
+  {
+   "i": 1891,
+   "src": "14c93347d4d5",
+   "t": "Disfruta el resto en la versión completa."
+  },
+  {
+   "i": 1926,
+   "src": "d1ca24bcb6a6",
+   "t": "Comprobando contenido adicional."
+  },
+  {
+   "i": 2022,
+   "src": "a15bb7e3bce6",
+   "t": "Había una BGM de {{robattle}}"
+  },
+  {
+   "i": 2023,
+   "src": "684adbd587b4",
+   "t": "no disponible, así que se cambió"
+  },
+  {
+   "i": 2024,
+   "src": "25dc5078e0e8",
+   "t": "a la BGM predeterminada."
+  },
+  {
+   "i": 2040,
+   "src": "1f78484f34cc",
+   "t": "Había {{part|pl}} no disponibles equipadas,"
+  },
+  {
+   "i": 2041,
+   "src": "b8c75b166f1e",
+   "t": "así que se cambió la {{settings}}."
+  }
+ ]
+}

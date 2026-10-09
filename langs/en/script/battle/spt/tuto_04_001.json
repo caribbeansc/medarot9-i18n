@@ -1,0 +1,80 @@
+{
+ "file": "battle/spt/tuto_04_001.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "2567d5287753",
+   "t": "Good!   "
+  },
+  {
+   "i": 1125,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1131,
+   "src": "b163b56facf7",
+   "t": "See <c:ff00ff>all the foe's {{part|pl}}<c>\ntake <c:ff00ff>{{damage}} at once<c>?           "
+  },
+  {
+   "i": 1136,
+   "src": "435298ac589c",
+   "t": "Berserk may let you {{destroy}} several\nopposing {{part|pl}} at once.                          "
+  },
+  {
+   "i": 1141,
+   "src": "a6c235eaf9a3",
+   "t": "However..."
+  },
+  {
+   "i": 1149,
+   "src": "7526ec14ae76",
+   "t": "Huh?\nThis icon..."
+  },
+  {
+   "i": 1160,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1166,
+   "src": "b3877f9d70d3",
+   "t": "$8 is an icon that indicates <c:ff00ff>Defense\nDisabled<c>."
+  },
+  {
+   "i": 1171,
+   "src": "8656ab8e31da",
+   "t": "In other words, during the <c:ff00ff>{{cooldown}}<c>\nafter\na Berserk attack, you can't evade or\ndefend.  "
+  },
+  {
+   "i": 1187,
+   "src": "d58719336ab5",
+   "t": "After an all-out attack,\nrecovering its stance takes time.                     "
+  },
+  {
+   "i": 1196,
+   "src": "d58719336ab5",
+   "t": "After an all-out attack,\nrecovering its stance takes time.                 "
+  },
+  {
+   "i": 1205,
+   "src": "c180ba0a76b4",
+   "t": "I see..."
+  },
+  {
+   "i": 1210,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1216,
+   "src": "b65f396e6a96",
+   "t": "A hit with no {{defend}} or {{evade}} is\nalways a <c:ff00ff>{{critical}}<c> and does heavy\n{{damage}}.                                                                     "
+  },
+  {
+   "i": 1224,
+   "src": "c729d425cc5d",
+   "t": "It's very powerful, but risky.\nUse it when a {{counter}} is unlikely.                                                                                   "
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_162.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "27e5eb85d64d",
+   "t": "<c:00ff00>Técnica:<c>Planta Calefactor\nColoca un dispositivo que\n{{up}} la {{prep}} de las {{part|pl}}\nde todo el equipo {{ally_battle_term}}.\nAl colocarlo\nrepetidamente {{up}} el\n{{armor}} y el aumento."
+  }
+ ]
+}

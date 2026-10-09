@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f02_120_210_20_t005.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "84747d6b10c5",
+   "t": "Hmm, it's deep."
+  },
+  {
+   "i": 1053,
+   "src": "5396a7b10296",
+   "t": "I wonder if she's safe."
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "84902b9c6b3e",
+   "t": "I don't know."
+  },
+  {
+   "i": 1067,
+   "src": "8efae52fed07",
+   "t": "But we have to do something quickly."
+  },
+  {
+   "i": 1078,
+   "src": "0afdf7db755d",
+   "t": "That's water down there, right?"
+  },
+  {
+   "i": 1081,
+   "src": "d8bbfc5c759f",
+   "t": "What a loud noise..."
+  },
+  {
+   "i": 1106,
+   "src": "b516a5b4d45e",
+   "t": "Isn't there anything we can use?"
+  },
+  {
+   "i": 1109,
+   "src": "81bb0edbc3db",
+   "t": "Like... conveniently, a boat or\nsomething..."
+  },
+  {
+   "i": 1114,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1120,
+   "src": "8d530b5d5a7a",
+   "t": "A boat, huh."
+  },
+  {
+   "i": 1128,
+   "src": "6ea9ab590a12",
+   "t": "This is a storage building, so there might"
+  },
+  {
+   "i": 1131,
+   "src": "d08d0ade83a8",
+   "t": "be one. Let's take a look around."
+  }
+ ]
+}

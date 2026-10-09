@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_93.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "741d86138fa0",
+   "t": "<c:00ff00>Técnica:<c>Cambio de Brazo\nLa {{part}} usada se\ntransforma en otra {{part}}."
+  }
+ ]
+}

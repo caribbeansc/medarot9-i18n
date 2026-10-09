@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_rival_meda_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ad1a2c18e5bf",
+   "t": "{{jasper}}"
+  },
+  {
+   "i": 1035,
+   "src": "988e617b385d",
+   "t": "I don't really like watermelon."
+  },
+  {
+   "i": 1038,
+   "src": "1413ddd5700b",
+   "t": "Melon is way cooler."
+  }
+ ]
+}

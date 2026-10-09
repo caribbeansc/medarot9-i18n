@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc04_161_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "e858f00f2aa4",
+   "t": "Don't make such a pitiful face."
+  },
+  {
+   "i": 1041,
+   "src": "b7c9a8f277b3",
+   "t": "Worrying is pointless."
+  },
+  {
+   "i": 1049,
+   "src": "2ecf66412bbb",
+   "t": "Well, that's true, but..."
+  },
+  {
+   "i": 1052,
+   "src": "a556572520fb",
+   "t": "But if the interview goes badly..."
+  },
+  {
+   "i": 1060,
+   "src": "2db76d4ff121",
+   "t": "My precious summer vacation wasted\nstudying,"
+  },
+  {
+   "i": 1063,
+   "src": "f6462a9e4b6a",
+   "t": "just thinking about it... *Sigh*"
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

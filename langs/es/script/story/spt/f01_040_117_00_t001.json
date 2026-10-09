@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f01_040_117_00_t001.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1040,
+   "src": "3e7356c61c42",
+   "t": "Justo cuando hablaba de ti-"
+  },
+  {
+   "i": 1043,
+   "src": "96160154d066",
+   "t": "Aquí estás, "
+  },
+  {
+   "i": 1045,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1056,
+   "src": "07b3e9384250",
+   "t": "Justo a tiempo."
+  },
+  {
+   "i": 1059,
+   "src": "dfcc2b57e776",
+   "t": "¡Ven acá!"
+  }
+ ]
+}

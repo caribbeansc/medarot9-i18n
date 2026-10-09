@@ -1,0 +1,20 @@
+{
+ "file": "battle/spt/tuto_07_001.spt",
+ "lines": [
+  {
+   "i": 1186,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1192,
+   "src": "d75305e1f03f",
+   "t": "Para empezar, llena la barra\nde carga al 100%.  "
+  },
+  {
+   "i": 1200,
+   "src": "b1726b608c21",
+   "t": "¡Bien, a cargar!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_g_f1d2_meda.spt",
+ "lines": [
+  {
+   "i": 1030,
+   "src": "416cbae31c81",
+   "t": "Jiras-Jidas"
+  },
+  {
+   "i": 1041,
+   "src": "ce8b9c237d9e",
+   "t": "Hasta los {{medabot|pl}} tienen bajones."
+  },
+  {
+   "i": 1044,
+   "src": "bb1882b47ee6",
+   "t": "Cambio la {{settings}} y me despejo."
+  }
+ ]
+}

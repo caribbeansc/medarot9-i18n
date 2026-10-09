@@ -1,0 +1,215 @@
+{
+ "file": "story/spt/f02_010_115_00_t001.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1047,
+   "src": "eae4af808584",
+   "t": "Hola."
+  },
+  {
+   "i": 1058,
+   "src": "18e5e4e5e2f1",
+   "t": "¡Vaya"
+  },
+  {
+   "i": 1061,
+   "src": "1a7df2707c2b",
+   "t": "qué susto me diste!"
+  },
+  {
+   "i": 1072,
+   "src": "d45db5a31109",
+   "t": "H-hola, eh-"
+  },
+  {
+   "i": 1080,
+   "src": "7d5a92aa300c",
+   "t": "¿P-presidente?"
+  },
+  {
+   "i": 1092,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1098,
+   "src": "194a8ee100c1",
+   "t": "Sí, así es."
+  },
+  {
+   "i": 1101,
+   "src": "699a5f16e7bb",
+   "t": "Te acordaste de mí~, qué alegría."
+  },
+  {
+   "i": 1109,
+   "src": "33d49625cd63",
+   "t": "Bien, vine a contarte, nuevo miembro,"
+  },
+  {
+   "i": 1112,
+   "src": "c0c6a044c620",
+   "t": "las próximas actividades del club."
+  },
+  {
+   "i": 1120,
+   "src": "3a4e152f4bbc",
+   "t": "Necesito que reclutes miembros."
+  },
+  {
+   "i": 1128,
+   "src": "bc7881f1c1b4",
+   "t": "Reclutar miembros..."
+  },
+  {
+   "i": 1133,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1139,
+   "src": "b368003fd97a",
+   "t": "Así es."
+  },
+  {
+   "i": 1154,
+   "src": "7dc7b28898a7",
+   "t": "Por alguna razón, la presidenta del"
+  },
+  {
+   "i": 1157,
+   "src": "3c41dec8c68e",
+   "t": "Consejo nos vigila desde que se fundó."
+  },
+  {
+   "i": 1165,
+   "src": "e79235a91008",
+   "t": "Si no logramos más miembros pronto,"
+  },
+  {
+   "i": 1168,
+   "src": "344ea935f639",
+   "t": "nos cerrarán el {{club}}."
+  },
+  {
+   "i": 1176,
+   "src": "8ca8c3ad5d8c",
+   "t": "Miembros..."
+  },
+  {
+   "i": 1179,
+   "src": "c1e6cd6261a3",
+   "t": "¿Cuántos necesitamos?"
+  },
+  {
+   "i": 1184,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1190,
+   "src": "ea39d3447889",
+   "t": "Ah, no son tantas personas."
+  },
+  {
+   "i": 1193,
+   "src": "5b4a4fdf8383",
+   "t": "Solo unas cuantas más."
+  },
+  {
+   "i": 1208,
+   "src": "db47c8fd5252",
+   "t": "Parece que con cuatro en total basta,"
+  },
+  {
+   "i": 1211,
+   "src": "669deb265797",
+   "t": "así que solo faltan dos personas más."
+  },
+  {
+   "i": 1219,
+   "src": "2f01f0d8cb5a",
+   "t": "Fácil, ¿no?"
+  },
+  {
+   "i": 1234,
+   "src": "648c517525f3",
+   "t": "Espera un momento."
+  },
+  {
+   "i": 1242,
+   "src": "47bb81ee03e2",
+   "t": "Dijiste que se necesitan cuatro y que"
+  },
+  {
+   "i": 1245,
+   "src": "242f52f1f417",
+   "t": "faltan dos, ¿verdad? Eso significa..."
+  },
+  {
+   "i": 1253,
+   "src": "06140fe08e4a",
+   "t": "¿¿Acaso el {{exploration_club}} actual"
+  },
+  {
+   "i": 1256,
+   "src": "3ae139cb7b27",
+   "t": "es solo el presidente y yo??"
+  },
+  {
+   "i": 1268,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1274,
+   "src": "be8f55742378",
+   "t": "Sí."
+  },
+  {
+   "i": 1284,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1289,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1295,
+   "src": "b714e91f7bda",
+   "t": "Bueno, te lo encargo."
+  },
+  {
+   "i": 1303,
+   "src": "6467405f0c92",
+   "t": "Tengo una reunión importante ahora,"
+  },
+  {
+   "i": 1306,
+   "src": "1ac9d4c8f2b7",
+   "t": "así que debo irme..."
+  },
+  {
+   "i": 1314,
+   "src": "64f859e0658a",
+   "t": "Cuento contigo. ¡El futuro"
+  },
+  {
+   "i": 1317,
+   "src": "042d6a74c273",
+   "t": "del {{club|cap}} está en tus manos~!"
+  },
+  {
+   "i": 1325,
+   "src": "b22d2be84a53",
+   "t": "Ah, espe, presiden-"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_150_950_00_t023.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1035,
+   "src": "be2798a506f6",
+   "t": "¡El {{school_building}}!"
+  },
+  {
+   "i": 1042,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1051,
+   "src": "82f9fd484563",
+   "t": "Esto es malo. ¡¡Si nos quedamos aquí"
+  },
+  {
+   "i": 1054,
+   "src": "9df83f873653",
+   "t": "nos aplastará el edificio derrumbado!!"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f06_175_110_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "b38c819f72fc",
+   "t": "Wait."
+  },
+  {
+   "i": 1046,
+   "src": "3e3edf247f8b",
+   "t": "If we're going out, do it when\neveryone's ready."
+  },
+  {
+   "i": 1049,
+   "src": "f384e1361e86",
+   "t": "That lowers the risk of being seen."
+  }
+ ]
+}

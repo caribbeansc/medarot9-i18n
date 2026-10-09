@@ -1,0 +1,43 @@
+{
+ "rel": "mdr/tex/bt_back_gca_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    16,
+    0,
+    48,
+    16
+   ],
+   "erase": "solid:#C2C2C200",
+   "text": ""
+  },
+  {
+   "box": [
+    18,
+    1,
+    40,
+    12
+   ],
+   "erase": "none",
+   "text": "Volver",
+   "font": "compact-rounded-heavy",
+   "cap": 7.6,
+   "fill": "#FFFFFF",
+   "strokes": [
+    {
+     "color": "#A8A8A8F0",
+     "w": 1.0
+    },
+    {
+     "color": "#C2C2C280",
+     "w": 1.6
+    }
+   ],
+   "align": "left",
+   "valign": "middle",
+   "pad": 0,
+   "tracking": 0.3
+  }
+ ]
+}

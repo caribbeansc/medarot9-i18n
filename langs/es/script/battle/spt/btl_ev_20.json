@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/btl_ev_20.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "cf78bd892f21",
+   "t": "Oye "
+  },
+  {
+   "i": 1122,
+   "src": "1c0d627bd716",
+   "t": "!\n¡¿Por qué no haces caso a tu {{master}}?!"
+  },
+  {
+   "i": 1138,
+   "src": "566f01675311",
+   "t": "¿Tengo que hacerte caso?\n¿Por qué?"
+  },
+  {
+   "i": 1147,
+   "src": "a3a721ca8e89",
+   "t": "¿Acaso debo escuchar lo que tú dices?\n¿Por qué?"
+  }
+ ]
+}

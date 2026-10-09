@@ -1,0 +1,150 @@
+{
+ "rel": "mdr/tex/nw_ap02.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond-heavy",
+  "cap": 10,
+  "fill": {
+   "top": "#F8F8F8",
+   "mid": "#E8E8E8",
+   "bottom": "#C3C3C3"
+  },
+  "stroke": "#040000EE",
+  "stroke_w": 1.4,
+  "shadow": {
+   "dx": 1,
+   "dy": 1,
+   "color": "#000000",
+   "opacity": 0.7
+  },
+  "pad": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "align": "center",
+  "valign": "middle"
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    91,
+    18
+   ],
+   "text": "Configuracion"
+  },
+  {
+   "box": [
+    92,
+    0,
+    65,
+    18
+   ],
+   "text": "Iniciar partida",
+   "cap": 9,
+   "stroke_w": 1.2
+  },
+  {
+   "box": [
+    158,
+    0,
+    84,
+    18
+   ],
+   "text": "Actualizado"
+  },
+  {
+   "box": [
+    0,
+    19,
+    117,
+    18
+   ],
+   "text": "Recibir pieza"
+  },
+  {
+   "box": [
+    118,
+    19,
+    97,
+    18
+   ],
+   "text": "Sin actualizar"
+  },
+  {
+   "box": [
+    0,
+    38,
+    86,
+    18
+   ],
+   "text": "Enviar pieza"
+  },
+  {
+   "box": [
+    87,
+    38,
+    84,
+    18
+   ],
+   "text": "Actualizado"
+  },
+  {
+   "box": [
+    172,
+    38,
+    59,
+    18
+   ],
+   "text": "Con amigos",
+   "cap": 9.5,
+   "stroke_w": 1.2
+  },
+  {
+   "box": [
+    0,
+    57,
+    72,
+    18
+   ],
+   "text": "Partida (anfitrion)",
+   "cap": 8.5,
+   "stroke_w": 0.7
+  },
+  {
+   "box": [
+    73,
+    57,
+    63,
+    18
+   ],
+   "text": "Con cualquiera",
+   "cap": 8.5,
+   "stroke_w": 0.7
+  },
+  {
+   "box": [
+    137,
+    57,
+    116,
+    18
+   ],
+   "text": "Partida con jugador"
+  },
+  {
+   "box": [
+    0,
+    76,
+    72,
+    18
+   ],
+   "text": "Partida (invitado)",
+   "cap": 8.5,
+   "stroke_w": 0.7
+  }
+ ]
+}

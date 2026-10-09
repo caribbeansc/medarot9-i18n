@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8722e6ae7b67",
+   "t": "<c:00ff00>Leg Trait:<c> {{climber}}\nRegardless of {{leg_type}},\nimproves {{terrain_affinity}}\nwith {{rocky_ground}}."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_1a_117_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1035,
+   "src": "844994fc1bda",
+   "t": "To find distance, you need speed and\ntime,"
+  },
+  {
+   "i": 1038,
+   "src": "2a1889408570",
+   "t": "Mmm... mmm... mmm--"
+  },
+  {
+   "i": 1049,
+   "src": "a753a7c01c23",
+   "t": "Oh, "
+  },
+  {
+   "i": 1051,
+   "src": "a263d77758ce",
+   "t": "-kun. Don't get in my way."
+  },
+  {
+   "i": 1054,
+   "src": "ffcea3890182",
+   "t": "I'm at a crossroads in my life right now!"
+  }
+ ]
+}

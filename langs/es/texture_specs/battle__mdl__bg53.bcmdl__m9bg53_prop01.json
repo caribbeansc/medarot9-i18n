@@ -1,0 +1,222 @@
+{
+ "rel": "battle/mdl/bg53.bcmdl",
+ "tex": "m9bg53_prop01",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "erase_box": [
+    44,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#E2CB1B",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    46,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#E1C91A",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    48,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#E0C619",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    50,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#DEC418",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    52,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#DDC217",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    54,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#DCC016",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    56,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#DABE16",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    58,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#D9BB15",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    60,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#D8B914",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    62,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#D6B713",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    64,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#D5B512",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    66,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#D4B211",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    68,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#D2B011",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    70,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#D1AE10",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    72,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#D0AC0F",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    74,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#CEAA0E",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    76,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#CDA70D",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    78,
+    8,
+    2,
+    24
+   ],
+   "erase": "solid:#CCA50C",
+   "text": ""
+  },
+  {
+   "box": [
+    43,
+    6,
+    36,
+    14
+   ],
+   "erase": "none",
+   "text": "PELIGRO",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": "#1E1A0C",
+   "stroke": null,
+   "pad": 0,
+   "baseline": 18,
+   "crisp": 0.3
+  },
+  {
+   "box": [
+    43,
+    20,
+    36,
+    12
+   ],
+   "erase": "none",
+   "text": "NO PASAR",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "fill": "#1E1A0C",
+   "stroke": null,
+   "pad": 0,
+   "baseline": 30,
+   "crisp": 0.3
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_2a_000_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "8773a7036b74",
+   "t": "The tournament is finally here!"
+  },
+  {
+   "i": 1041,
+   "src": "9ebc4eaa01a1",
+   "t": "I got crushed last year, but I'm confident\nthis year!"
+  },
+  {
+   "i": 1049,
+   "src": "96cfb6c1929a",
+   "t": "As long as the {{field}} is by the water!"
+  }
+ ]
+}

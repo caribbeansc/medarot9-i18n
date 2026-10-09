@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/dungeon_select.spt",
+ "lines": [
+  {
+   "i": 18,
+   "src": "8d952b659b81",
+   "t": "{{metabee}}"
+  },
+  {
+   "i": 26,
+   "src": "30537374cd21",
+   "t": "{{rokusho}}"
+  },
+  {
+   "i": 33,
+   "src": "2651039536aa",
+   "t": "{{tenma}}"
+  }
+ ]
+}

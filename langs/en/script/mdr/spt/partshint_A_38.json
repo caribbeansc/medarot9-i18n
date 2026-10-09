@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_38.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "f002244a0b38",
+   "t": "<c:00ff00>{{mf}}:<c> {{burn}}\nMelee attacks by your\nwhole team gain a\ncontinuous {{damage}}\n{{effect}}.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

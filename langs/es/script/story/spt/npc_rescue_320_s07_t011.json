@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rescue_320_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "04f35e4ee4d8",
+   "t": "Mmm, ¿un naufragio?"
+  },
+  {
+   "i": 1038,
+   "src": "a5f38f26d0ef",
+   "t": "Sin duda, esa sombra parece uno..."
+  },
+  {
+   "i": 1046,
+   "src": "5239d94af1ed",
+   "t": "Estructura submarina compleja, ideal"
+  },
+  {
+   "i": 1049,
+   "src": "d67a4c6dbabf",
+   "t": "para rescate. Enviemos ya al equipo--"
+  },
+  {
+   "i": 1070,
+   "src": "9cb84c5f2af1",
+   "t": "¿Qué pasa? Ahora estoy ocupado."
+  },
+  {
+   "i": 1073,
+   "src": "f94a4dd56c67",
+   "t": "Si quieres hablar, hazlo después."
+  }
+ ]
+}

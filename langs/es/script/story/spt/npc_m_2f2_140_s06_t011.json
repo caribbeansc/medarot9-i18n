@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f2_140_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1038,
+   "src": "bf8f094b9d12",
+   "t": "Sí, está genial, maravilloso. Nadie"
+  },
+  {
+   "i": 1041,
+   "src": "94771f686cf9",
+   "t": "diría que es tu primera vez, jaja."
+  },
+  {
+   "i": 1049,
+   "src": "1bb60931fa74",
+   "t": "Serían del equipo fácilmente."
+  },
+  {
+   "i": 1052,
+   "src": "89819fc8072a",
+   "t": "Se los garantizo, ajajaja."
+  }
+ ]
+}

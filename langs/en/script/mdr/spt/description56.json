@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description56.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "230ce1dbab58",
+   "t": "{{charge_gauge}}"
+  },
+  {
+   "i": 11,
+   "src": "05a60118031f",
+   "t": "A display of the force stored in the <c:ffff00>{{medal}}<c>. It rises\nwhen you <c:ffff00>charge<c>, take <c:ffff00>{{damage}}<c>, and under\nconditions specific to each <c:ffff00>{{robattle_style}}<c>.\nAs it fills, some <c:ffff00>{{stats}}<c> of each <c:ffff00>{{part}}<c> rise:\n  <c:ffff00>Striking<c>: <c:ffff00>{{power}}<c>; <c:ffff00>{{shooting}}<c>: <c:ffff00>{{success}}<c>;\n  <c:ffff00>Support<c>/<c:ffff00>Set-up<c>: <c:ffff00>{{cooldown}}<c>; <c:ffff00>Heal<c>/<c:ffff00>Block<c>: <c:ffff00>{{prep}}<c>;\n  <c:ffff00>{{legs}}<c>: <c:ffff00>{{mobility}}<c>/<c:ffff00>{{fighting}}<c>/<c:ffff00>{{shooting}}<c>.\nAt 20% or more <c:ffff00>{{medachange}}<c> can be used; at 100%,\n<c:ffff00>{{medaforce}}<c>."
+  }
+ ]
+}

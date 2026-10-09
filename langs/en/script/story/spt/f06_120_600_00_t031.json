@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f06_120_600_00_t031.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1045,
+   "src": "0f9c5d908395",
+   "t": "So she says."
+  },
+  {
+   "i": 1055,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "72eabe874a99",
+   "t": "True enough."
+  },
+  {
+   "i": 1067,
+   "src": "a82d94a66fd0",
+   "t": "There are a lot fewer now."
+  },
+  {
+   "i": 1077,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1086,
+   "src": "65227fe35947",
+   "t": "Even so, how's the competition going?"
+  },
+  {
+   "i": 1089,
+   "src": "80a819f37ea8",
+   "t": "I feel like we only keep beating those\nguys..."
+  },
+  {
+   "i": 1096,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1105,
+   "src": "59fb97aa8266",
+   "t": "Maybe."
+  },
+  {
+   "i": 1116,
+   "src": "fe528899e7ea",
+   "t": "Either way, there's little time left."
+  },
+  {
+   "i": 1119,
+   "src": "ec5ff8907942",
+   "t": "Let's turn it around with a final sprint."
+  },
+  {
+   "i": 1137,
+   "src": "342c20413c8f",
+   "t": "Yes!"
+  }
+ ]
+}

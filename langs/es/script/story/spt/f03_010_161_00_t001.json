@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f03_010_161_00_t001.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1049,
+   "src": "78776d17af54",
+   "t": "¿Y entonces?"
+  },
+  {
+   "i": 1057,
+   "src": "abc2abb65eca",
+   "t": "¿Y ahora qué?"
+  },
+  {
+   "i": 1075,
+   "src": "c5e0b181d73f",
+   "t": "¿Qué clase de {{club}} es el {{club|cap}} de\nExploración?"
+  },
+  {
+   "i": 1085,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1094,
+   "src": "1b7a7f8d0e0c",
+   "t": "Sí, tienes razón."
+  },
+  {
+   "i": 1097,
+   "src": "44a44471caea",
+   "t": "Primero hay que hablar de eso."
+  },
+  {
+   "i": 1109,
+   "src": "dd058b089d29",
+   "t": "-kun,"
+  },
+  {
+   "i": 1112,
+   "src": "dd93e2cd37d8",
+   "t": "Dale una explicación breve."
+  },
+  {
+   "i": 1123,
+   "src": "c26ebf6a148d",
+   "t": "Bueno, si me lo pide así de repente..."
+  },
+  {
+   "i": 1131,
+   "src": "8c8ef36efbb4",
+   "t": "Yo tampoco lo sé."
+  },
+  {
+   "i": 1136,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1142,
+   "src": "60e4437ad225",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1150,
+   "src": "dd74f1fbb53a",
+   "t": "¿Era eso?"
+  },
+  {
+   "i": 1165,
+   "src": "8b79fa4d2e33",
+   "t": "Sí, ¡no tengo ni idea!"
+  }
+ ]
+}

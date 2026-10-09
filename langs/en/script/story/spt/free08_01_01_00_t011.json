@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/free08_01_01_00_t011.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "68a19bf45aa3",
+   "t": "{{mission|cap}} '{{medalia}} Gathering: {{crater}}'..."
+  },
+  {
+   "i": 1047,
+   "src": "fed537c5ae87",
+   "t": "Huh?"
+  },
+  {
+   "i": 1050,
+   "src": "42962f76a828",
+   "t": "{{crater}}?!"
+  },
+  {
+   "i": 1058,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1064,
+   "src": "ddcf0ae44096",
+   "t": "That's right. It's a landform created"
+  },
+  {
+   "i": 1067,
+   "src": "7458598529e2",
+   "t": "by a meteorite impact, ages ago."
+  },
+  {
+   "i": 1078,
+   "src": "843f2b7eb1a5",
+   "t": "The {{outer_rim}}, which we usually call "
+  },
+  {
+   "i": 1081,
+   "src": "b5bec0e2678b",
+   "t": "the mountains, forms the crater's edge."
+  },
+  {
+   "i": 1089,
+   "src": "e47dce791b8f",
+   "t": "This signal comes from inside that."
+  },
+  {
+   "i": 1104,
+   "src": "993c2264a1a0",
+   "t": "S-so..."
+  },
+  {
+   "i": 1107,
+   "src": "3887461dc74b",
+   "t": "We're finally entering the crater's\ncenter!"
+  },
+  {
+   "i": 1112,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1118,
+   "src": "e2b34c4b7bb7",
+   "t": "Well, yes, but..."
+  },
+  {
+   "i": 1121,
+   "src": "891874f3c0fb",
+   "t": "Don't expect much. It's just {{terrain}}."
+  }
+ ]
+}

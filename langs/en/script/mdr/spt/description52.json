@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description52.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f9f1c9624f21",
+   "t": "Positive {{effect|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "86746d5f6dda",
+   "t": "An automatic support {{effect}} that works in a\n<c:ffff00>{{medabot}}<c>'s favor.\nMostly applied by allied <c:ffff00>actions<c> of the <c:ffff00>Support skill<c>.\nA {{medabot}} can hold up to 6 types; beyond that the\noldest vanish. They last a set time or number of\n<c:ffff00>acts<c>; some end under specific conditions.\n{{stacking|cap}} the same {{positive_effect}} resets its duration\nor count; some are strengthened."
+  }
+ ]
+}

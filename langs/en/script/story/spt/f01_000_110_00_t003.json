@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f01_000_110_00_t003.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1045,
+   "src": "6def5412b684",
+   "t": "I'm Akebono!"
+  },
+  {
+   "i": 1057,
+   "src": "2c6987d6a63e",
+   "t": "A top-class {{medafighter}} needs top-class\nstamina!"
+  },
+  {
+   "i": 1060,
+   "src": "1c2c5e4d9b14",
+   "t": "I'll be training you hard, so be ready!"
+  },
+  {
+   "i": 1070,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1076,
+   "src": "a933cf02c096",
+   "t": "Yes, and then,"
+  },
+  {
+   "i": 1079,
+   "src": "7291be7e3506",
+   "t": "next to him is {{ms_koimari}}."
+  },
+  {
+   "i": 1089,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1098,
+   "src": "0a9ab5bd6632",
+   "t": "I'm Koimari, nice to meet you."
+  },
+  {
+   "i": 1101,
+   "src": "59771e5a5af7",
+   "t": "I'm usually in the nurse's office."
+  },
+  {
+   "i": 1116,
+   "src": "83aea9b9e4d6",
+   "t": "If you have any trouble, come talk to\nme."
+  },
+  {
+   "i": 1119,
+   "src": "23d50fff5cf1",
+   "t": "I'll listen to anything, hehe."
+  },
+  {
+   "i": 1126,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1135,
+   "src": "878dba2f0c71",
+   "t": "The other teachers are in class and\ncan't be here,"
+  },
+  {
+   "i": 1138,
+   "src": "e5dc63a9dbb0",
+   "t": "but you'll get to know them in time."
+  },
+  {
+   "i": 1146,
+   "src": "bb852f3a54c2",
+   "t": "And last of all,"
+  },
+  {
+   "i": 1149,
+   "src": "6cd5faf42d92",
+   "t": "the only {{student}} here as the {{student}}\nrepresentative--"
+  },
+  {
+   "i": 1159,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1168,
+   "src": "c8c07edb2286",
+   "t": "I'm Suzune."
+  }
+ ]
+}

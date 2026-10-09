@@ -1,0 +1,75 @@
+{
+ "file": "mdr/spt/mlp_trade.spt",
+ "lines": [
+  {
+   "i": 1928,
+   "src": "659ddcb97acb",
+   "t": "Guardando."
+  },
+  {
+   "i": 1989,
+   "src": "cbf2f9db8b90",
+   "t": "Error al guardar."
+  },
+  {
+   "i": 2805,
+   "src": "071d5d8596d5",
+   "t": "Te desconectarás\nsi pulsas el menú HOME\nmientras transfieres tus piezas."
+  },
+  {
+   "i": 3382,
+   "src": "8a2dd5b2db82",
+   "t": "No llegaron los datos de piezas."
+  },
+  {
+   "i": 3457,
+   "src": "7343fba9150f",
+   "t": "{{head|cap}}"
+  },
+  {
+   "i": 3458,
+   "src": "f9cbcd0563a5",
+   "t": "Brazo der."
+  },
+  {
+   "i": 3459,
+   "src": "ae22d610ddf0",
+   "t": "Brazo izq."
+  },
+  {
+   "i": 3460,
+   "src": "528640d1d527",
+   "t": "{{legs|cap}}"
+  },
+  {
+   "i": 3461,
+   "src": "c1ed410584e0",
+   "t": "Set"
+  },
+  {
+   "i": 3473,
+   "src": "7343fba9150f",
+   "t": "{{head|cap}}"
+  },
+  {
+   "i": 3481,
+   "src": "f9cbcd0563a5",
+   "t": "Brazo der."
+  },
+  {
+   "i": 3489,
+   "src": "ae22d610ddf0",
+   "t": "Brazo izq."
+  },
+  {
+   "i": 3497,
+   "src": "528640d1d527",
+   "t": "{{legs|cap}}"
+  },
+  {
+   "i": 3505,
+   "src": "c1ed410584e0",
+   "t": "Set"
+  }
+ ]
+}

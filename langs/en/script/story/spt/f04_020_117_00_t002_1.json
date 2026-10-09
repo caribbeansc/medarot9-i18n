@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f04_020_117_00_t002_1.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "6b5c05e7d555",
+   "t": "Hey."
+  },
+  {
+   "i": 1045,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1054,
+   "src": "4168d0b9b588",
+   "t": "It's gotta be marine sports! Beginners\nare"
+  },
+  {
+   "i": 1057,
+   "src": "d66a39623f76",
+   "t": "welcome, and our president's nice, too--"
+  },
+  {
+   "i": 1064,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1073,
+   "src": "5889d9577f32",
+   "t": "Hey, you."
+  },
+  {
+   "i": 1080,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1089,
+   "src": "78235ccaf6d5",
+   "t": "The {{gardening_club}}!"
+  },
+  {
+   "i": 1096,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1106,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  }
+ ]
+}

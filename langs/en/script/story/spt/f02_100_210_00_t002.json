@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f02_100_210_00_t002.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1037,
+   "src": "6d297c7d344d",
+   "t": "Don't move until I say so."
+  }
+ ]
+}

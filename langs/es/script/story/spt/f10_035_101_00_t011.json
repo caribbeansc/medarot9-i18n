@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f10_035_101_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "dfb11eed7a30",
+   "t": "Bueno."
+  },
+  {
+   "i": 1046,
+   "src": "defefdace907",
+   "t": "¿Qué hacemos ahora?"
+  },
+  {
+   "i": 1054,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1060,
+   "src": "281d6a569521",
+   "t": "Sí, han pasado tantas"
+  },
+  {
+   "i": 1063,
+   "src": "0536cb7795e0",
+   "t": "cosas que estoy agotado..."
+  },
+  {
+   "i": 1073,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1082,
+   "src": "52d7a85951d8",
+   "t": "¡Pasan demasiadas cosas!"
+  },
+  {
+   "i": 1085,
+   "src": "25a811e6e072",
+   "t": "Solo quiero un baño y descansar."
+  },
+  {
+   "i": 1095,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1104,
+   "src": "2b9c0a4877c0",
+   "t": "Bueno, antes de eso, ¿podrían reunirse"
+  },
+  {
+   "i": 1107,
+   "src": "c2bee7e24f8c",
+   "t": "un momento en la {{clubroom}}?"
+  },
+  {
+   "i": 1115,
+   "src": "24846af1ac42",
+   "t": "Quiero ordenar lo que pasó hoy."
+  },
+  {
+   "i": 1118,
+   "src": "9129b43e4533",
+   "t": "Será rápido, lo prometo."
+  },
+  {
+   "i": 1125,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1134,
+   "src": "929252ee30f1",
+   "t": "...Está bien."
+  }
+ ]
+}

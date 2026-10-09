@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description80.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "93afdf25f8f6",
+   "t": "{{rank|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "8dbe1e694500",
+   "t": "La \"categoría\" de la <c:ffff00>{{medal}}<c>, que cambia en 3\netapas según el <c:ffff00>{{medal_level}}<c>.\nDetermina cuántas <c:ffff00>ranuras de Medaria<c> y\n<c:ffff00>{{medaforce|pl}}<c> se pueden usar, y cuánto suben los\n<c:ffff00>rendimientos<c> de la <c:ffff00>{{best_skill}}<c> y las <c:ffff00>{{legs}}<c>\n<c:ffff00>favoritas<c>:\n  {{bronze}} (nivel 0-32): 1 ranura, 1 {{medaforce}}, +2\n  {{silver}} (33-65): 2 ranuras, 2 {{medaforce|pl}}, +4\n  {{gold}} (66-150): 3 ranuras, 3 {{medaforce|pl}}, +6"
+  }
+ ]
+}

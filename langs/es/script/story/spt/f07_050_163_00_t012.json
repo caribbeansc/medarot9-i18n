@@ -1,0 +1,240 @@
+{
+ "file": "story/spt/f07_050_163_00_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1045,
+   "src": "1d46536c60b8",
+   "t": "Hay un ruido extraño."
+  },
+  {
+   "i": 1055,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1061,
+   "src": "facaaa8b2528",
+   "t": "¿Lo notaste?"
+  },
+  {
+   "i": 1069,
+   "src": "46e6d7abbe55",
+   "t": "Así es."
+  },
+  {
+   "i": 1072,
+   "src": "cb27bfbb9526",
+   "t": "Lleva así un buen rato."
+  },
+  {
+   "i": 1080,
+   "src": "3a4bc4cfb335",
+   "t": "No puedo hacer movimientos complejos."
+  },
+  {
+   "i": 1083,
+   "src": "3340b5b4d24a",
+   "t": "Casi siempre no pasa nada, pero..."
+  },
+  {
+   "i": 1090,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1096,
+   "src": "6656eda6d94b",
+   "t": "Esta unidad se ve sospechosa."
+  },
+  {
+   "i": 1099,
+   "src": "5b80b04c2308",
+   "t": "Nunca había visto esta forma."
+  },
+  {
+   "i": 1107,
+   "src": "79e32fa8c97f",
+   "t": "¿Qué es esto?"
+  },
+  {
+   "i": 1114,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1120,
+   "src": "1e322ad587b1",
+   "t": "Por favor, no me preguntes a mí."
+  },
+  {
+   "i": 1130,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1139,
+   "src": "1911d7fc3744",
+   "t": "Esto es un giroscopio."
+  },
+  {
+   "i": 1142,
+   "src": "1ac67c243bbc",
+   "t": "Del tipo de rueda."
+  },
+  {
+   "i": 1150,
+   "src": "fac88cfceebf",
+   "t": "Es un tipo bastante antiguo."
+  },
+  {
+   "i": 1153,
+   "src": "9cd8d27c29c5",
+   "t": "No es raro que {{main}} no lo conozca."
+  },
+  {
+   "i": 1164,
+   "src": "f2d0594252d6",
+   "t": "Seguro los cojinetes están gastados"
+  },
+  {
+   "i": 1167,
+   "src": "6929878a88f0",
+   "t": "y por eso ya no gira suave."
+  },
+  {
+   "i": 1175,
+   "src": "6056b1139c8e",
+   "t": "Sabes mucho de esto."
+  },
+  {
+   "i": 1183,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1189,
+   "src": "2ab35287effe",
+   "t": "En software no le llego a {{main}},"
+  },
+  {
+   "i": 1192,
+   "src": "62c9d35d5be9",
+   "t": "pero de hardware entiendo un poco..."
+  },
+  {
+   "i": 1203,
+   "src": "b5a2cdafe446",
+   "t": "Pero otras piezas se caen a pedazos."
+  },
+  {
+   "i": 1206,
+   "src": "8726f31dde59",
+   "t": "Es un milagro que aún funcione."
+  },
+  {
+   "i": 1216,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1225,
+   "src": "b751a913eaf9",
+   "t": "Lo siento, {{flora}}."
+  },
+  {
+   "i": 1228,
+   "src": "8967dea1a3ee",
+   "t": "Lamento no haberte cuidado mejor..."
+  },
+  {
+   "i": 1238,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1247,
+   "src": "72dde3109e3b",
+   "t": "No es culpa tuya."
+  },
+  {
+   "i": 1250,
+   "src": "1670d0d35e62",
+   "t": "Simplemente llegó al fin de su vida útil."
+  },
+  {
+   "i": 1261,
+   "src": "d97294fdebd5",
+   "t": "¿No podemos usar {{part|pl}} nuevas?"
+  },
+  {
+   "i": 1273,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1282,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1290,
+   "src": "b17734c57f50",
+   "t": "{{flora}} es un recuerdo de mi madre."
+  },
+  {
+   "i": 1293,
+   "src": "0ff140daf690",
+   "t": "Las {{part|pl}} también."
+  },
+  {
+   "i": 1301,
+   "src": "a0113e00e571",
+   "t": "Mi madre era bailarina y bailaba"
+  },
+  {
+   "i": 1304,
+   "src": "49eb70cca9c4",
+   "t": "con Flora. Bailar era su sueño."
+  },
+  {
+   "i": 1329,
+   "src": "537b504892de",
+   "t": "¡Quiero bailar con {{flora}}!"
+  },
+  {
+   "i": 1332,
+   "src": "fa7293c03e25",
+   "t": "¡Y con {{flora}} tal como es ahora!"
+  },
+  {
+   "i": 1340,
+   "src": "0612568e2fad",
+   "t": "...Ah."
+  },
+  {
+   "i": 1348,
+   "src": "2f8178a599bc",
+   "t": "Lo siento."
+  },
+  {
+   "i": 1351,
+   "src": "c5d0dacb5f0d",
+   "t": "Pero qué hago, siendo tan egoísta--"
+  },
+  {
+   "i": 1358,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1367,
+   "src": "669e8ef39214",
+   "t": "No."
+  }
+ ]
+}

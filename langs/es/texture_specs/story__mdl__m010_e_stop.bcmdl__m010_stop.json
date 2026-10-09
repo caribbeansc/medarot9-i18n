@@ -1,0 +1,66 @@
+{
+ "rel": "story/mdl/m010_e_stop.bcmdl",
+ "tex": "m010_stop",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "pad": 0,
+  "crisp": 0
+ },
+ "items": [
+  {
+   "erase_box": [
+    10,
+    52,
+    45,
+    20
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    7,
+    53,
+    50,
+    10
+   ],
+   "text": "SOLO",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "baseline": 62,
+   "tracking": 1.2,
+   "fill": "#FFE5D4",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#BC4523",
+    "opacity": 1
+   }
+  },
+  {
+   "box": [
+    7,
+    61,
+    50,
+    10
+   ],
+   "text": "PERSONAL",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "baseline": 70,
+   "tracking": 0.1,
+   "fill": "#FFE5D4",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#BC4523",
+    "opacity": 1
+   },
+   "scale_x": 0.92
+  }
+ ]
+}

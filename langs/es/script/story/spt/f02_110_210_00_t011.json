@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f02_110_210_00_t011.spt",
+ "lines": [
+  {
+   "i": 1025,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1036,
+   "src": "41ac1e913572",
+   "t": "Aquí el aviso de {{robattle}} es la Y."
+  },
+  {
+   "i": 1039,
+   "src": "3a76cd200662",
+   "t": "Si estás listo, pulsa Y para pelear."
+  }
+ ]
+}

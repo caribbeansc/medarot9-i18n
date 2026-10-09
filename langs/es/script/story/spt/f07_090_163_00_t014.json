@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f07_090_163_00_t014.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1042,
+   "src": "6094841c1d5a",
+   "t": "¡Mi cuerpo se siente ligero!"
+  },
+  {
+   "i": 1045,
+   "src": "233998118f3a",
+   "t": "¡Puedo moverme como quiero!"
+  },
+  {
+   "i": 1063,
+   "src": "a33bdd7e3a5c",
+   "t": "¡Oye, mira, {{aoi}}! ¡Volví a la normalidad!"
+  },
+  {
+   "i": 1066,
+   "src": "106e9212658f",
+   "t": "¡Puedo volver a bailar contigo...!"
+  },
+  {
+   "i": 1076,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1082,
+   "src": "729923ffe808",
+   "t": "{{flora}}..."
+  }
+ ]
+}

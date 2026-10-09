@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f05_100_117_00_t023.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "6be31507da76",
+   "t": "Hehehehehehe..."
+  },
+  {
+   "i": 1052,
+   "src": "611d079a9117",
+   "t": "W-what is it?"
+  },
+  {
+   "i": 1057,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1066,
+   "src": "846289d0e76b",
+   "t": "You got a failing score, "
+  },
+  {
+   "i": 1068,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1071,
+   "src": "36ef786a9925",
+   "t": "Lament it after the {{medabot}} interview."
+  },
+  {
+   "i": 1082,
+   "src": "52d12a8b8a0e",
+   "t": "Huh? What?"
+  },
+  {
+   "i": 1085,
+   "src": "d2925050a14e",
+   "t": "What kind of interview did you just\nsay...?"
+  },
+  {
+   "i": 1090,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1099,
+   "src": "37fc73e0e539",
+   "t": "Starting tomorrow after class, we begin"
+  },
+  {
+   "i": 1102,
+   "src": "3ac4cbfba17d",
+   "t": "individual interviews with each partner\n{{medabot}}."
+  },
+  {
+   "i": 1110,
+   "src": "917eba02ec35",
+   "t": "Of course, you Medafighters can't sit in."
+  },
+  {
+   "i": 1113,
+   "src": "212e4d4b3599",
+   "t": "You'll be asked to wait in the {{classroom}}."
+  },
+  {
+   "i": 1121,
+   "src": "708a96c1b22a",
+   "t": "The {{medabot}} interview is one of the\nfinal {{exam}} items."
+  },
+  {
+   "i": 1129,
+   "src": "0e8054e13de2",
+   "t": "Depending on the result, your summer"
+  },
+  {
+   "i": 1132,
+   "src": "d5bb4cb14309",
+   "t": "course load could shrink a lot."
+  },
+  {
+   "i": 1140,
+   "src": "f905145b6279",
+   "t": "So save the gloom for after that."
+  },
+  {
+   "i": 1143,
+   "src": "abb1ad318bb2",
+   "t": "Got it?"
+  }
+ ]
+}

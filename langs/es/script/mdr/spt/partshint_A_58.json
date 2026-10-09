@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_58.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "494e53d6f822",
+   "t": "<c:00ff00>{{mf}}:<c>Absorbedor C\nLa {{charge_gauge}} de\naliados y rivales deja de\nsubir.\n<c:00ffff>#{{part|cap}} requerida<c>\nNinguna"
+  }
+ ]
+}

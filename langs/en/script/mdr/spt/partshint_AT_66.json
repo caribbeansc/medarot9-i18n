@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_66.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2c8b0f6d4a1c",
+   "t": "<c:00ff00>Action:<c> {{time_attack}}\nA melee attack whose\n{{power}} rises by 1 each\ntime the {{robattle}} timer\ndrops by 1. Has\npiercing."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_40.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a8ca564ac7b4",
+   "t": "<c:00ff00>Técnica:<c>{{sword}}\nAtaque cuerpo a cuerpo\nveloz.\nSi el {{success}} llega a 40 o\nmás obtiene {{effect}} de\npenetración."
+  }
+ ]
+}

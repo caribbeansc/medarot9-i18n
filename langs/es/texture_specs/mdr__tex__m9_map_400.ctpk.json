@@ -1,0 +1,212 @@
+{
+ "rel": "mdr/tex/m9_map_400.ctpk",
+ "base": "jp",
+ "defaults": {
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    398,
+    -1,
+    49,
+    18
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    445,
+    -1,
+    40,
+    18
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    482,
+    -1,
+    30,
+    18
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    398,
+    14,
+    28,
+    18
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    426,
+    14,
+    69,
+    18
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    398,
+    29,
+    57,
+    18
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    455,
+    29,
+    32,
+    18
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.4,
+   "crisp": 0.8,
+   "box": [
+    400,
+    0,
+    44,
+    16
+   ],
+   "erase": "none",
+   "text": "Ent. Montana",
+   "cap": 8,
+   "pad": 0,
+   "baseline": 12
+  },
+  {
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.4,
+   "crisp": 0.8,
+   "box": [
+    448,
+    0,
+    34,
+    16
+   ],
+   "erase": "none",
+   "text": "Campam.",
+   "cap": 8,
+   "pad": 0,
+   "baseline": 11
+  },
+  {
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    485,
+    0,
+    26,
+    16
+   ],
+   "erase": "none",
+   "text": "Monte",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 12
+  },
+  {
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.4,
+   "crisp": 0.8,
+   "box": [
+    400,
+    15,
+    25,
+    16
+   ],
+   "erase": "none",
+   "text": "Bosque",
+   "cap": 7,
+   "pad": 0,
+   "baseline": 26
+  },
+  {
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.4,
+   "crisp": 0.8,
+   "box": [
+    427,
+    15,
+    66,
+    16
+   ],
+   "erase": "none",
+   "text": "Pista de esqui",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 26
+  },
+  {
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.4,
+   "crisp": 0.8,
+   "box": [
+    400,
+    30,
+    54,
+    16
+   ],
+   "erase": "none",
+   "text": "Crater",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 42
+  },
+  {
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.4,
+   "crisp": 0.8,
+   "box": [
+    456,
+    30,
+    28,
+    16
+   ],
+   "erase": "none",
+   "text": "Arroyo",
+   "cap": 8,
+   "pad": 0,
+   "baseline": 41
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f07_030_168_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1045,
+   "src": "03bb72ed835d",
+   "t": "¡Disculpen!"
+  },
+  {
+   "i": 1048,
+   "src": "10adfb44a9b0",
+   "t": "Disculpen, este..."
+  },
+  {
+   "i": 1062,
+   "src": "80b98c8d2ca4",
+   "t": "¿...Sí?"
+  },
+  {
+   "i": 1067,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1076,
+   "src": "2eff15fdaaaa",
+   "t": "Son del {{exploration_club}}, ¿no?"
+  },
+  {
+   "i": 1079,
+   "src": "2e6c84bfdc12",
+   "t": "Tengo un favor que pedirles, ¿sí?"
+  },
+  {
+   "i": 1090,
+   "src": "797272faff9d",
+   "t": "¿Un favor...?"
+  },
+  {
+   "i": 1102,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1111,
+   "src": "83e3f72eff67",
+   "t": "B-bueno, en realidad-"
+  }
+ ]
+}

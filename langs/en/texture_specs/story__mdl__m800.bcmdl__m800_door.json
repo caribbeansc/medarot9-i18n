@@ -1,0 +1,83 @@
+{
+ "rel": "story/mdl/m800.bcmdl",
+ "tex": "m800_door",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    285,
+    266,
+    87,
+    28
+   ],
+   "erase_box": [
+    285,
+    266,
+    87,
+    28
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 1,
+   "text": "SAFETY\nFIRST",
+   "font": "sf-heavy",
+   "cap": 9.5,
+   "pad": 0,
+   "leading": 1.08,
+   "fill": "#243F85",
+   "stroke": "#BBD4FD",
+   "stroke_w": 1
+  },
+  {
+   "box": [
+    290,
+    298,
+    76,
+    46
+   ],
+   "erase_box": [
+    289,
+    298,
+    77,
+    47
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 1,
+   "text": "LIGHT THAT\nGUARDS SAFETY\nAT SEA",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "pad": 0,
+   "leading": 1.28,
+   "fill": "#F2FFF7",
+   "stroke": null,
+   "thr": 80
+  },
+  {
+   "box": [
+    290,
+    345,
+    76,
+    45
+   ],
+   "erase_box": [
+    289,
+    345,
+    77,
+    45
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 1,
+   "text": "ZERO\nACCIDENTS",
+   "font": "sf-cond",
+   "cap": 11,
+   "pad": 0,
+   "leading": 1.3,
+   "fill": "#F2FFF7",
+   "stroke": null,
+   "thr": 80
+  }
+ ]
+}

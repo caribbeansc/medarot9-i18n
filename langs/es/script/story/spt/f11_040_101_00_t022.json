@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f11_040_101_00_t022.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1049,
+   "src": "a6670d284080",
+   "t": "¡Uf, reportándome!"
+  }
+ ]
+}

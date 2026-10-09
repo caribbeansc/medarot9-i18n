@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_126.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f9ca26a2ece4",
+   "t": "<c:00ff00>Técnica:<c>\nReparar por Conteo\nRecupera el {{damage}} de una\n{{part}} de un {{medabot}}\n{{ally_battle_term}}.\nLa cantidad recuperada\naumenta según el tiempo\ntranscurrido."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_5.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "68f9df83f43b",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>Ironclad Tactics\nWhile you are on guard standby,\n{{ally_battle_term}} {{critical|cap}} rate up 20%"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_155.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9d56c7b7061d",
+   "t": "{{medabot}} ardilla de gran\ncola y mejillas abultadas.\n \nLimpiar {{effect|cap}} en ambas\nmanos borra los efectos\npositivos del objetivo;\n{{destroy_game_term}} en la {{head_part_slot}}\nrompe cualquier\ncaparazón duro."
+  }
+ ]
+}

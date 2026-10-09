@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f02_140_211_00_t005.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1045,
+   "src": "8440ea7fdda3",
+   "t": "Oye, esto"
+  },
+  {
+   "i": 1048,
+   "src": "18b5187368fd",
+   "t": "¿No es un cristal de memoria?"
+  },
+  {
+   "i": 1059,
+   "src": "44c4fa2de7a3",
+   "t": "¿...?"
+  },
+  {
+   "i": 1071,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1077,
+   "src": "3ead2f4f7aa8",
+   "t": "Tal vez."
+  },
+  {
+   "i": 1084,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1090,
+   "src": "7bc7f9e185b4",
+   "t": "El cristal guarda datos."
+  },
+  {
+   "i": 1093,
+   "src": "54f056e470f9",
+   "t": "Se montan en la placa."
+  },
+  {
+   "i": 1101,
+   "src": "167c11915d9a",
+   "t": "Al parecer existen desde hace tiempo"
+  },
+  {
+   "i": 1104,
+   "src": "c7af6af7d8d7",
+   "t": "ya. Aun así, nunca se popularizaron."
+  },
+  {
+   "i": 1111,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1117,
+   "src": "96a1fe9ae5e1",
+   "t": "Es que son demasiado caros."
+  },
+  {
+   "i": 1125,
+   "src": "c0d2e90d2ee2",
+   "t": "Pero los datos duran casi para siempre"
+  },
+  {
+   "i": 1128,
+   "src": "33dac8e6d0c9",
+   "t": "y oí que su {{stats}} es impecable."
+  }
+ ]
+}

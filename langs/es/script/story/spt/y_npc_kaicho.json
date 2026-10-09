@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_kaicho.spt",
+ "lines": [
+  {
+   "i": 1632,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1643,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1646,
+   "src": "19f77161394b",
+   "t": "Seré tu oponente."
+  }
+ ]
+}

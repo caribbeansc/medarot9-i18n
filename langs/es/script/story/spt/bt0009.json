@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0009.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 872,
+   "src": "b25379da1a84",
+   "t": "¡En {{robattle}} no pierdo, {{robo}}!"
+  },
+  {
+   "i": 875,
+   "src": "a3ff3d4cf7af",
+   "t": "¡Vamos, {{robo}}!"
+  }
+ ]
+}

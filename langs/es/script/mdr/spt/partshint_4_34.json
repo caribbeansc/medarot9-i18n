@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_34.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d5b92c55db0b",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nClarividencia\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"Radar\"."
+  }
+ ]
+}

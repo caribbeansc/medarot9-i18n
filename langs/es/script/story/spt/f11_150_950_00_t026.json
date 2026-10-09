@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_150_950_00_t026.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "3b9afb4524b3",
+   "t": "¿Qué pasa? ¡Muévete de una vez!"
+  },
+  {
+   "i": 1038,
+   "src": "e0e8e481e100",
+   "t": "¿Quieres que te aplaste?"
+  },
+  {
+   "i": 1045,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1051,
+   "src": "cff340ce5541",
+   "t": "¡Sí, señor!"
+  }
+ ]
+}

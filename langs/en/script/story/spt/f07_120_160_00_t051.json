@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f07_120_160_00_t051.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1042,
+   "src": "99ebbb3e5e8f",
+   "t": "...Done!"
+  },
+  {
+   "i": 1045,
+   "src": "13bb444c59e7",
+   "t": "Is this okay?"
+  },
+  {
+   "i": 1059,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1065,
+   "src": "5d9a172445a9",
+   "t": "Yes. Leave it running and walk around"
+  },
+  {
+   "i": 1068,
+   "src": "65e9fbfa5633",
+   "t": "a bit, and I think you'll get it quickly."
+  }
+ ]
+}

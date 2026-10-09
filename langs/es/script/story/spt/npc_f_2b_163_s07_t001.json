@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2b_163_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 1038,
+   "src": "7606aad2f6e9",
+   "t": "Ay no... Ha ocurrido un accidente."
+  },
+  {
+   "i": 1041,
+   "src": "71bccacd5df3",
+   "t": "Qué hago ahora~."
+  }
+ ]
+}

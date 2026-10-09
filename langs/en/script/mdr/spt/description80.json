@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description80.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "93afdf25f8f6",
+   "t": "{{rank|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "8dbe1e694500",
+   "t": "The \"class\" of a <c:ffff00>{{medal}}<c>, which changes in 3 stages\naccording to its <c:ffff00>{{medal_level}}<c>.\nIt determines how many <c:ffff00>Medalia slots<c> and\n<c:ffff00>{{medaforce|pl}}<c> can be used, and how much the <c:ffff00>{{stats}}<c> of\nthe <c:ffff00>{{best_skill}}<c> and <c:ffff00>{{best_legs}}<c> rise:\n  {{bronze}} (level 0-32): 1 slot, 1 {{medaforce}}, +2\n  {{silver}} (33-65): 2 slots, 2 {{medaforce|pl}}, +4\n  {{gold}} (66-150): 3 slots, 3 {{medaforce|pl}}, +6"
+  }
+ ]
+}

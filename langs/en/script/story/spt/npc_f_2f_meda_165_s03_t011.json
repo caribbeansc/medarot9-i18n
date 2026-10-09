@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2f_meda_165_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f5489d59cc8e",
+   "t": "{{la_pucelle}}"
+  },
+  {
+   "i": 1035,
+   "src": "6490e5e3ea7c",
+   "t": "Hurry up!"
+  },
+  {
+   "i": 1038,
+   "src": "6490e5e3ea7c",
+   "t": "Hurry up!"
+  }
+ ]
+}

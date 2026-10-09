@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_f_1e_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1035,
+   "src": "03b3b42522de",
+   "t": "Oye, Senpai. ¿Es verdad que hace años"
+  },
+  {
+   "i": 1038,
+   "src": "485add26504a",
+   "t": "hubo un grave accidente en esta isla?"
+  },
+  {
+   "i": 1045,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1051,
+   "src": "bdf5aeeb237b",
+   "t": "Parece que sí... y dicen que"
+  },
+  {
+   "i": 1054,
+   "src": "7598d1e91ece",
+   "t": "murió mucha gente. Se rumorea que"
+  },
+  {
+   "i": 1062,
+   "src": "70fe2b636f19",
+   "t": "si entras sola al baño a medianoche,"
+  },
+  {
+   "i": 1065,
+   "src": "16281bb872b7",
+   "t": "oyes gemidos sin que haya nadie--"
+  },
+  {
+   "i": 1072,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1078,
+   "src": "4ec7827eb805",
+   "t": "¡Ni hablar!"
+  },
+  {
+   "i": 1081,
+   "src": "5f4015c1eb4e",
+   "t": "¡Deja de decir eso, Senpai!"
+  }
+ ]
+}

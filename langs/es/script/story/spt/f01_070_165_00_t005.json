@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f01_070_165_00_t005.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "754ccba79a05",
+   "t": "¿Qué rayos estás haciendo?"
+  },
+  {
+   "i": 1066,
+   "src": "9df26106b0f4",
+   "t": "Oye"
+  },
+  {
+   "i": 1069,
+   "src": "721f905ad451",
+   "t": "¿Qué es esto?"
+  },
+  {
+   "i": 1075,
+   "src": "d5f62c3ea968",
+   "t": "Oye, ¿qué es esto?"
+  },
+  {
+   "i": 1078,
+   "src": "c473337a291c",
+   "t": "¿Sabes qué es esto?"
+  },
+  {
+   "i": 1087,
+   "src": "3325a221029b",
+   "t": "¿Esto? Esto es..."
+  },
+  {
+   "i": 1095,
+   "src": "d782dea9c848",
+   "t": "Mmm, no lo sé."
+  },
+  {
+   "i": 1098,
+   "src": "5a87041313ac",
+   "t": "Me pregunto qué será..."
+  },
+  {
+   "i": 1123,
+   "src": "65391cb973ea",
+   "t": "¡Ah!"
+  },
+  {
+   "i": 1126,
+   "src": "b9ad72b728f8",
+   "t": "Espera, ¡no!"
+  }
+ ]
+}

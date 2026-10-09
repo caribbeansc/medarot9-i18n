@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description102.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1a349975edce",
+   "t": "Defensa (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "e5ea94d8c8d3",
+   "t": "<c:ffff00>Habilidad<c> <c:ffff00>auxiliar<c>: capacidad de manejar <c:ffff00>{{part|pl}}<c> que\nprotegen a los aliados de los <c:ffff00>ataques<c> enemigos.\nIncluye <c:ffff00>técnicas<c> de <c:ffff00>{{interrupt_guard}}<c>.\nA mayor <c:ffff00>{{skill_level}}<c>: <c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c> más\nrápidos, y mayores <c:ffff00>poder de {{defend}}<c> y <c:ffff00>poder de<c>\n<c:ffff00>{{evade}}<c>; en la {{interrupt_guard}}, el poder de\n{{defend}} sube aún más.\nEn las {{part|pl}} de {{defend}}, el <c:ffff00>{{stats}} de {{prep}}<c>\nsube al llenarse la <c:ffff00>{{charge_gauge}}<c>."
+  }
+ ]
+}

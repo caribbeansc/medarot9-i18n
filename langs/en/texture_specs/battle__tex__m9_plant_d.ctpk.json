@@ -1,0 +1,88 @@
+{
+ "rel": "battle/tex/m9_plant_d.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    152,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    1,
+    147,
+    30
+   ],
+   "erase": "none",
+   "text": "PLANT  DESTROYED!",
+   "font": "sf-compressed",
+   "italic_skew": 0.2,
+   "cap": 17.5,
+   "tracking": 0.0,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFCC"
+     ],
+     [
+      0.08,
+      "#FFDDCC"
+     ],
+     [
+      0.42,
+      "#FFEEDD"
+     ],
+     [
+      0.5,
+      "#EE9966"
+     ],
+     [
+      0.6,
+      "#EE5533"
+     ],
+     [
+      0.74,
+      "#FF5511"
+     ],
+     [
+      0.88,
+      "#FF7733"
+     ],
+     [
+      1,
+      "#FF9966"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#CC1144",
+     "w": 1.3
+    },
+    {
+     "color": "#AA1111",
+     "w": 1.2
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.0
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#FFFFFF",
+    "opacity": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_135.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "802c887c4288",
+   "t": "<c:00ff00>Técnica:<c>{{gd100}}\n{{guard}} que intercepta\nataques a los aliados.\nAl interceptar, anula el\n{{damage}} si es menor a 100.\nTermina si aliados actúan\n4 veces o pasa un\ntiempo."
+  }
+ ]
+}

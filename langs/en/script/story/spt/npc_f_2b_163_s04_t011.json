@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2b_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 1038,
+   "src": "db855e93d7f3",
+   "t": "If we do well in the tournament,"
+  },
+  {
+   "i": 1041,
+   "src": "cff5ed35dfbf",
+   "t": "they'll increase the {{club}}'s activity\nbudget."
+  },
+  {
+   "i": 1049,
+   "src": "a86686e49cec",
+   "t": "I wonder how much we'd get if we win."
+  },
+  {
+   "i": 1052,
+   "src": "a2ac717ad637",
+   "t": "I really want to get new costumes."
+  }
+ ]
+}

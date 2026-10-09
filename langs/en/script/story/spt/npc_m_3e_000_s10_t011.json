@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_m_3e_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1035,
+   "src": "f6ca13bf5ab9",
+   "t": "That bugs me..."
+  },
+  {
+   "i": 1038,
+   "src": "23bd08864efb",
+   "t": "That mark on the helicopter's side\nearlier..."
+  },
+  {
+   "i": 1046,
+   "src": "1246d1727ea4",
+   "t": "If I remember right, that's the Select\nCorps crest."
+  },
+  {
+   "i": 1049,
+   "src": "3d402ce85617",
+   "t": "Which means--"
+  },
+  {
+   "i": 1060,
+   "src": "fed537c5ae87",
+   "t": "Hm?"
+  },
+  {
+   "i": 1063,
+   "src": "8fe72a188c25",
+   "t": "You mean the {{select_corps}}?"
+  },
+  {
+   "i": 1071,
+   "src": "ca0e4bd7ae92",
+   "t": "The {{select_corps}} is the {{wmss}}\n{{conglomerate}}'s guard."
+  },
+  {
+   "i": 1074,
+   "src": "48de5063bd02",
+   "t": "A sort of private army--"
+  },
+  {
+   "i": 1082,
+   "src": "e30552b35b57",
+   "t": "From clean to shady, a secret\norganization"
+  },
+  {
+   "i": 1085,
+   "src": "c678e39e45c0",
+   "t": "packed with rumors like a jewel box."
+  },
+  {
+   "i": 1093,
+   "src": "8baf007491fd",
+   "t": "If guys like that came to the island..."
+  },
+  {
+   "i": 1096,
+   "src": "1343ebcff4ab",
+   "t": "This needs investigating."
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "rel": "mdr/tex/mlp_bg.ctpk",
+ "base": "jp",
+ "styles": {
+  "etq": {
+   "font": "sf-rounded-heavy",
+   "cap": 9.2,
+   "align": "right",
+   "valign": "middle",
+   "pad": 0,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#CDD7E5"
+   },
+   "strokes": [
+    {
+     "color": "#3E3E3ECC",
+     "w": 1.4
+    }
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 1.2,
+    "color": "#161D24",
+    "opacity": 0.6
+   }
+  },
+  "rosa": {
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "min_scale_x": 0.8,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFF9FD"
+     ],
+     [
+      0.5,
+      "#FFD1F4"
+     ],
+     [
+      1,
+      "#FFA6E9"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#E93380",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#F3468A",
+    "blur": 2.5,
+    "opacity": 0.8
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    4,
+    4,
+    96,
+    22
+   ],
+   "erase": "glyph",
+   "grow": 2,
+   "text": ""
+  },
+  {
+   "copy": [
+    100,
+    5,
+    96,
+    12
+   ],
+   "to": [
+    4,
+    5
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    4,
+    25,
+    96,
+    8
+   ],
+   "to": [
+    4,
+    17
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    8,
+    0,
+    92,
+    24
+   ],
+   "erase": "none",
+   "text": "Medaport",
+   "font": "sf-heavy-italic",
+   "font_var": "Semibold Italic",
+   "cap": 10.5,
+   "tracking": 1.0,
+   "align": "left",
+   "pad": 0,
+   "fill": {
+    "top": "#F2F6FF",
+    "bottom": "#3F7CE0"
+   },
+   "strokes": [
+    {
+     "color": "#1B3A78",
+     "w": 1.0
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#3A6FD0",
+    "blur": 2,
+    "opacity": 0.5
+   },
+   "baseline": 17.3
+  },
+  {
+   "box": [
+    253,
+    204,
+    62,
+    12
+   ],
+   "erase_box": [
+    252,
+    204,
+    64,
+    12
+   ],
+   "erase": "glyph",
+   "text": "Nombre de red",
+   "font": "tahoma",
+   "cap": 6,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0,
+   "crisp": 0.3,
+   "fill": "#A0A0A6",
+   "stroke": null
+  },
+  {
+   "box": [
+    367,
+    12,
+    44,
+    16
+   ],
+   "erase_box": [
+    364,
+    11,
+    44,
+    17
+   ],
+   "erase": "hfill",
+   "text": "Volver",
+   "font": "compact-rounded-heavy",
+   "cap": 9.5,
+   "fill": "#F2F2F2",
+   "stroke": null,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0
+  },
+  {
+   "box": [
+    367,
+    52,
+    44,
+    16
+   ],
+   "erase_box": [
+    364,
+    51,
+    44,
+    17
+   ],
+   "erase": "hfill",
+   "text": "Volver",
+   "font": "compact-rounded-heavy",
+   "cap": 9.5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#7A7A7A",
+    "opacity": 0.55
+   }
+  },
+  {
+   "style": "etq",
+   "box": [
+    322,
+    81,
+    124,
+    22
+   ],
+   "erase_box": [
+    322,
+    80,
+    125,
+    24
+   ],
+   "erase": "transparent",
+   "text": "Partida local"
+  },
+  {
+   "style": "etq",
+   "box": [
+    322,
+    105,
+    124,
+    22
+   ],
+   "erase_box": [
+    322,
+    104,
+    125,
+    24
+   ],
+   "erase": "transparent",
+   "text": "Partida en linea"
+  },
+  {
+   "style": "etq",
+   "box": [
+    322,
+    129,
+    124,
+    22
+   ],
+   "erase_box": [
+    322,
+    128,
+    125,
+    24
+   ],
+   "erase": "transparent",
+   "text": "Transferir pieza"
+  },
+  {
+   "style": "rosa",
+   "box": [
+    341,
+    153,
+    64,
+    24
+   ],
+   "erase_box": [
+    338,
+    152,
+    70,
+    25
+   ],
+   "erase": "transparent",
+   "text": "Enviado"
+  },
+  {
+   "style": "rosa",
+   "box": [
+    341,
+    178,
+    64,
+    24
+   ],
+   "erase_box": [
+    338,
+    177,
+    70,
+    26
+   ],
+   "erase": "transparent",
+   "text": "Recibido"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f11_150_950_00_t012.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "f10349b10d50",
+   "t": "Uf, ¿¿otra vez??"
+  },
+  {
+   "i": 1054,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1063,
+   "src": "7914fbfc7094",
+   "t": "¿¡...El {{school_building}}!?"
+  }
+ ]
+}

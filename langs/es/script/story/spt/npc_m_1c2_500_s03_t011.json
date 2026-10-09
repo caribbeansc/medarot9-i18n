@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_1c2_500_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1038,
+   "src": "e208e8669aac",
+   "t": "Somos el {{club|cap}} de Deportes Marinos."
+  },
+  {
+   "i": 1041,
+   "src": "6d1324873cf4",
+   "t": "Vamos a zarpar en un yate mar adentro."
+  },
+  {
+   "i": 1049,
+   "src": "7ddb0bc52c25",
+   "t": "Ahora mismo esperamos a que llegue el"
+  },
+  {
+   "i": 1052,
+   "src": "652145c1ad3b",
+   "t": "yate. Los Senpais se están tardando..."
+  }
+ ]
+}

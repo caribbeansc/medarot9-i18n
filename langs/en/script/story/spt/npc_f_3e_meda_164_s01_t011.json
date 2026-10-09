@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_3e_meda_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a406e2127b08",
+   "t": "SaishouGunshi"
+  },
+  {
+   "i": 1038,
+   "src": "d2bdb9b2992f",
+   "t": "{{robattle|pl}} are an age of information\nwarfare now."
+  },
+  {
+   "i": 1041,
+   "src": "0f956e5261cc",
+   "t": "You can't win just by attacking blindly."
+  },
+  {
+   "i": 1049,
+   "src": "32db45f7f2c6",
+   "t": "Though you can't win with info alone,\neither."
+  }
+ ]
+}

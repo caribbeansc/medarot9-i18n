@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/tuto_01_004.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "496e4e418320",
+   "t": "An {{enemy}} attack is coming.\nHow should I <c:ff00ff>respond<c>?"
+  },
+  {
+   "i": 1131,
+   "src": "496e4e418320",
+   "t": "An {{enemy}} attack is coming.\nHow should I <c:ff00ff>respond<c>?   "
+  },
+  {
+   "i": 1152,
+   "src": "e31cbbc154c9",
+   "t": "We must decide how to respond\nto the foe's attack...        "
+  },
+  {
+   "i": 1163,
+   "src": "8d117d05fd82",
+   "t": "If our head is destroyed, we lose,\nso...                                       "
+  },
+  {
+   "i": 1183,
+   "src": "53402eb65d5c",
+   "t": "Normally you <c:ff00ff>defend<c> with an arm...                            "
+  },
+  {
+   "i": 1200,
+   "src": "dfc31d670cf3",
+   "t": "or try to <c:ff00ff>evade<c> with the legs...                                      "
+  },
+  {
+   "i": 1223,
+   "src": "61277b41283f",
+   "t": "Arm guard always reduces {{damage}}.        "
+  },
+  {
+   "i": 1237,
+   "src": "54bafe419a00",
+   "t": "If you evade successfully, you take no\n{{damage}}.\nIf you fail, it's a direct hit for big\n{{damage}}."
+  },
+  {
+   "i": 1248,
+   "src": "6957e3ce6476",
+   "t": "Choose your {{response}} based on the\nfoe's {{part|pl}} and the situation.                     "
+  }
+ ]
+}

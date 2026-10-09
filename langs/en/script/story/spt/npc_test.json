@@ -1,0 +1,715 @@
+{
+ "file": "story/spt/npc_test.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "8d5bbcbbc7e5",
+   "t": "Protagonist"
+  },
+  {
+   "i": 1034,
+   "src": "13fa1dd2c5dd",
+   "t": "Protagonist: Atsushi Hattori"
+  },
+  {
+   "i": 1042,
+   "src": "7f12233250dd",
+   "t": "Protagonist: Cold-Weather Clothing"
+  },
+  {
+   "i": 1050,
+   "src": "a40494706b43",
+   "t": "Linker"
+  },
+  {
+   "i": 1058,
+   "src": "f06ff0f406e8",
+   "t": "Linka Hot Spot Suit"
+  },
+  {
+   "i": 1066,
+   "src": "c1085152c699",
+   "t": "Linka: Cold-weather clothing"
+  },
+  {
+   "i": 1074,
+   "src": "f01ed2e30cc1",
+   "t": "Daiki"
+  },
+  {
+   "i": 1082,
+   "src": "bfd5094c3d8f",
+   "t": "Daiki Heat-Resistant Clothing"
+  },
+  {
+   "i": 1090,
+   "src": "34a009124cc9",
+   "t": "Daiki Winter Clothing"
+  },
+  {
+   "i": 1098,
+   "src": "1bbbe87f4759",
+   "t": "Alan"
+  },
+  {
+   "i": 1106,
+   "src": "76aa953c8191",
+   "t": "Alan Hospital"
+  },
+  {
+   "i": 1114,
+   "src": "60474d53f1d6",
+   "t": "Information Broker"
+  },
+  {
+   "i": 1122,
+   "src": "f72f297396d5",
+   "t": "Information Broker - Savannah Town"
+  },
+  {
+   "i": 1130,
+   "src": "652e21f14450",
+   "t": "Information Broker - Clock Town"
+  },
+  {
+   "i": 1138,
+   "src": "31c759ae30f2",
+   "t": "Information Broker - Sand Village"
+  },
+  {
+   "i": 1146,
+   "src": "f41d7e41bdf1",
+   "t": "Information Broker: Atlantica Park"
+  },
+  {
+   "i": 1154,
+   "src": "e47fb809aa8c",
+   "t": "Information Broker Aurora Hall"
+  },
+  {
+   "i": 1162,
+   "src": "6de7afcb9c9a",
+   "t": "Black Gold Coin"
+  },
+  {
+   "i": 1170,
+   "src": "7498ff88f3c8",
+   "t": "Black Gold Coin: True Identity Revealed"
+  },
+  {
+   "i": 1178,
+   "src": "e7b4b7d9cc40",
+   "t": "Phantom Thieves 1"
+  },
+  {
+   "i": 1186,
+   "src": "45e14fdd71da",
+   "t": "Phantom Thieves 1: Disguises"
+  },
+  {
+   "i": 1194,
+   "src": "f1442fbb3d13",
+   "t": "Phantom Thieves 2"
+  },
+  {
+   "i": 1202,
+   "src": "772882735421",
+   "t": "Phantom Thieves 2: Disguises"
+  },
+  {
+   "i": 1210,
+   "src": "5e3247116d75",
+   "t": "Phantom Thieves 3"
+  },
+  {
+   "i": 1218,
+   "src": "e14e3574208e",
+   "t": "Phantom Thieves 3: Disguises"
+  },
+  {
+   "i": 1226,
+   "src": "b75c503e4db1",
+   "t": "{{rubberobo_gang}} Staff Officer"
+  },
+  {
+   "i": 1234,
+   "src": "c2fdfc546931",
+   "t": "{{rubberobo_gang}} {{leader|cap}}"
+  },
+  {
+   "i": 1242,
+   "src": "f8d1be620067",
+   "t": "{{rubberobo_gang}} Grunt"
+  },
+  {
+   "i": 1250,
+   "src": "f12a8df769d6",
+   "t": "{{rubberobo_gang}} Scrub Girl"
+  },
+  {
+   "i": 1258,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1266,
+   "src": "ecae4c42c3e3",
+   "t": "{{select_corps}} Male Member"
+  },
+  {
+   "i": 1274,
+   "src": "f57457b596b1",
+   "t": "Select Team Rookie"
+  },
+  {
+   "i": 1282,
+   "src": "5f54c72be617",
+   "t": "{{select_corps}} Female Member"
+  },
+  {
+   "i": 1290,
+   "src": "26f17d7c9509",
+   "t": "Brother 1"
+  },
+  {
+   "i": 1298,
+   "src": "8f3755516e36",
+   "t": "Big Sister 1"
+  },
+  {
+   "i": 1306,
+   "src": "9fc4b7b8cad7",
+   "t": "Big Brother 2"
+  },
+  {
+   "i": 1314,
+   "src": "066225b3625b",
+   "t": "Big Sister 2"
+  },
+  {
+   "i": 1322,
+   "src": "9ef9b70a26bf",
+   "t": "Uncle 1"
+  },
+  {
+   "i": 1330,
+   "src": "2644173d6b55",
+   "t": "Auntie 1"
+  },
+  {
+   "i": 1338,
+   "src": "abcf0d67aafb",
+   "t": "Uncle 2"
+  },
+  {
+   "i": 1346,
+   "src": "205059511da7",
+   "t": "Auntie 2"
+  },
+  {
+   "i": 1354,
+   "src": "2380f1663d31",
+   "t": "Grandpa"
+  },
+  {
+   "i": 1362,
+   "src": "6a24d7aed599",
+   "t": "Grandma"
+  },
+  {
+   "i": 1370,
+   "src": "0d3955791fbc",
+   "t": "Child 1"
+  },
+  {
+   "i": 1378,
+   "src": "98600209ff48",
+   "t": "Child 2"
+  },
+  {
+   "i": 1386,
+   "src": "57a6caeb0ed3",
+   "t": "Shop Clerk 1"
+  },
+  {
+   "i": 1394,
+   "src": "4b82fc18c662",
+   "t": "Shop Clerk 2"
+  },
+  {
+   "i": 1402,
+   "src": "91adc2f22454",
+   "t": "The Protagonist's Mother"
+  },
+  {
+   "i": 1410,
+   "src": "772fc721acea",
+   "t": "The Protagonist's Mother - Hospital"
+  },
+  {
+   "i": 1418,
+   "src": "4c6b94770a7c",
+   "t": "doctor"
+  },
+  {
+   "i": 1426,
+   "src": "fdf732317922",
+   "t": "Nurse"
+  },
+  {
+   "i": 1434,
+   "src": "8f12593e5bfb",
+   "t": "Elite Medallotter 1"
+  },
+  {
+   "i": 1442,
+   "src": "90440fe44837",
+   "t": "Elite Medallotter 2"
+  },
+  {
+   "i": 1450,
+   "src": "84a01ff14475",
+   "t": "Boy 1"
+  },
+  {
+   "i": 1458,
+   "src": "60ec5d976ac4",
+   "t": "Girl 1"
+  },
+  {
+   "i": 1466,
+   "src": "77ce27880d7d",
+   "t": "Boy 2"
+  },
+  {
+   "i": 1474,
+   "src": "7fca0437bafa",
+   "t": "Girl 2"
+  },
+  {
+   "i": 1482,
+   "src": "1d36eff35718",
+   "t": "Boy 3"
+  },
+  {
+   "i": 1490,
+   "src": "f99b72b41dfc",
+   "t": "Girl 3"
+  },
+  {
+   "i": 1498,
+   "src": "474f9422495d",
+   "t": "Company Employee 1"
+  },
+  {
+   "i": 1506,
+   "src": "416d2df84ed1",
+   "t": "Company Employee 2"
+  },
+  {
+   "i": 1514,
+   "src": "904983c55cb5",
+   "t": "Company Employee 3"
+  },
+  {
+   "i": 1522,
+   "src": "6c5199bb9bd7",
+   "t": "Company Employee 4"
+  },
+  {
+   "i": 1530,
+   "src": "a91e66e2962e",
+   "t": "Celebrity 1"
+  },
+  {
+   "i": 1538,
+   "src": "8e1bd77dc896",
+   "t": "Celebrity 2"
+  },
+  {
+   "i": 1546,
+   "src": "85432f420c4e",
+   "t": "Celebrity 3"
+  },
+  {
+   "i": 1554,
+   "src": "ba0647dd41bd",
+   "t": "Celebrity 4"
+  },
+  {
+   "i": 1562,
+   "src": "591371d72db4",
+   "t": "Information Broker 2"
+  },
+  {
+   "i": 1570,
+   "src": "2aec79c903e2",
+   "t": "Information Broker 3"
+  },
+  {
+   "i": 1578,
+   "src": "bc9a6a51f9d6",
+   "t": "{{rubberobo_gang}} {{leader|cap}} - Casual Wear"
+  },
+  {
+   "i": 1586,
+   "src": "7280d52f7d2a",
+   "t": "Rola"
+  },
+  {
+   "i": 1594,
+   "src": "4c9bfe340f31",
+   "t": "Robot Tournament Association Certified Referee"
+  },
+  {
+   "i": 1602,
+   "src": "67b8afb25e97",
+   "t": "Director Seaton"
+  },
+  {
+   "i": 1610,
+   "src": "d4e5900fe289",
+   "t": "Dr. {{blue}}"
+  },
+  {
+   "i": 1618,
+   "src": "0c113cc00189",
+   "t": "Curator 1"
+  },
+  {
+   "i": 1626,
+   "src": "fe39a35685fc",
+   "t": "Curator 2"
+  },
+  {
+   "i": 1634,
+   "src": "19420b42e455",
+   "t": "Director Lilba"
+  },
+  {
+   "i": 1642,
+   "src": "5c4d24270650",
+   "t": "Parsley"
+  },
+  {
+   "i": 1650,
+   "src": "0894ddfcc407",
+   "t": "Satomi"
+  },
+  {
+   "i": 1658,
+   "src": "359ca8c9a34f",
+   "t": "Satomi Hospital"
+  },
+  {
+   "i": 1666,
+   "src": "f3c4f815fe3e",
+   "t": "Researcher 1"
+  },
+  {
+   "i": 1674,
+   "src": "3ebe285bec99",
+   "t": "Researcher 2"
+  },
+  {
+   "i": 1682,
+   "src": "e289d14eb5fb",
+   "t": "Upa"
+  },
+  {
+   "i": 1690,
+   "src": "58e475997fe9",
+   "t": "Savannah: Reception"
+  },
+  {
+   "i": 1698,
+   "src": "9b048c1fea96",
+   "t": "Savannah: Shop Clerk 3"
+  },
+  {
+   "i": 1706,
+   "src": "e9c6251e998b",
+   "t": "Savannah: Big brother"
+  },
+  {
+   "i": 1714,
+   "src": "bfbab78feb7e",
+   "t": "Savannah: Big Sis"
+  },
+  {
+   "i": 1722,
+   "src": "aa30a3c9dc6e",
+   "t": "Savannah: Uncle"
+  },
+  {
+   "i": 1730,
+   "src": "2ac1d8e41ad0",
+   "t": "Savannah: Auntie"
+  },
+  {
+   "i": 1738,
+   "src": "21d098317779",
+   "t": "Savannah: Child 1"
+  },
+  {
+   "i": 1746,
+   "src": "f045ee74391d",
+   "t": "Savannah: 2 children"
+  },
+  {
+   "i": 1754,
+   "src": "532f9b6a767a",
+   "t": "Savannah: Boy 1"
+  },
+  {
+   "i": 1762,
+   "src": "f5d80fd69b1a",
+   "t": "Savannah: Girl 1"
+  },
+  {
+   "i": 1770,
+   "src": "1788fa28ac7b",
+   "t": "Watchmaster"
+  },
+  {
+   "i": 1778,
+   "src": "26f389580853",
+   "t": "Clock: Craftsman 1"
+  },
+  {
+   "i": 1786,
+   "src": "77ad04a235af",
+   "t": "Clock: Craftsman 2"
+  },
+  {
+   "i": 1794,
+   "src": "ea9a5c72554f",
+   "t": "Clock: Shop Clerk"
+  },
+  {
+   "i": 1802,
+   "src": "e54d910e8293",
+   "t": "Clock: Uncle"
+  },
+  {
+   "i": 1810,
+   "src": "72f220b0e6d7",
+   "t": "Clock: Auntie"
+  },
+  {
+   "i": 1818,
+   "src": "392c184ee0b4",
+   "t": "Clock: Grandpa"
+  },
+  {
+   "i": 1826,
+   "src": "e0f70bb2c089",
+   "t": "Clock: Grandma"
+  },
+  {
+   "i": 1834,
+   "src": "8c52dcb5b99b",
+   "t": "Clock: Child 1"
+  },
+  {
+   "i": 1842,
+   "src": "c1c7c642d3d1",
+   "t": "Clock: Child 2"
+  },
+  {
+   "i": 1850,
+   "src": "d2a7c8306d05",
+   "t": "Kanade"
+  },
+  {
+   "i": 1858,
+   "src": "6932f12ffb7d",
+   "t": "Onpu"
+  },
+  {
+   "i": 1866,
+   "src": "3dbccfa262d7",
+   "t": "Sand: Review Committee Member 1"
+  },
+  {
+   "i": 1874,
+   "src": "5a42848fa75f",
+   "t": "Sand: Judge 2"
+  },
+  {
+   "i": 1882,
+   "src": "d6d761d13cf4",
+   "t": "Sand: Shop Clerk"
+  },
+  {
+   "i": 1890,
+   "src": "a192e4a3eaa6",
+   "t": "Sand: Big brother"
+  },
+  {
+   "i": 1898,
+   "src": "41a38350bc5f",
+   "t": "Sand: Sis"
+  },
+  {
+   "i": 1906,
+   "src": "00b361a49cbc",
+   "t": "Sand: Uncle"
+  },
+  {
+   "i": 1914,
+   "src": "ff40d7a14f43",
+   "t": "Sand: Auntie"
+  },
+  {
+   "i": 1922,
+   "src": "76f4eebd5aff",
+   "t": "Sand: Grandpa"
+  },
+  {
+   "i": 1930,
+   "src": "4619b208dd2c",
+   "t": "Sand: Grandma"
+  },
+  {
+   "i": 1938,
+   "src": "4acb4f9114dd",
+   "t": "Sand: Child 1"
+  },
+  {
+   "i": 1946,
+   "src": "a6deb345f097",
+   "t": "Sand: Child 2"
+  },
+  {
+   "i": 1954,
+   "src": "89e36a07c00e",
+   "t": "Sand: Boy 1"
+  },
+  {
+   "i": 1962,
+   "src": "c6e3ca694428",
+   "t": "Sand: Girl 1"
+  },
+  {
+   "i": 1970,
+   "src": "782e9663d1ac",
+   "t": "Mikel"
+  },
+  {
+   "i": 1978,
+   "src": "cc6f5e83fa75",
+   "t": "Asuna"
+  },
+  {
+   "i": 1986,
+   "src": "9b103fad1659",
+   "t": "Yasuha"
+  },
+  {
+   "i": 1994,
+   "src": "04f082a73d36",
+   "t": "Atlantica: Beauty 1"
+  },
+  {
+   "i": 2002,
+   "src": "8473319af8f1",
+   "t": "Atlantica: Beautiful Woman 2"
+  },
+  {
+   "i": 2010,
+   "src": "c05aa161bfb2",
+   "t": "Atlantica: Beautiful Women 3"
+  },
+  {
+   "i": 2018,
+   "src": "98a98c8b404f",
+   "t": "Atlantica: Elite Medallotter 3"
+  },
+  {
+   "i": 2026,
+   "src": "0541ba778a13",
+   "t": "Atlantica: Elite Medalliotter 4"
+  },
+  {
+   "i": 2034,
+   "src": "c35a68d60052",
+   "t": "Aurora: Frost"
+  },
+  {
+   "i": 2042,
+   "src": "b261afecbdc5",
+   "t": "Aurora: Eris"
+  },
+  {
+   "i": 2050,
+   "src": "446d23d90b86",
+   "t": "Aurora: Ellis - Regular Outfit"
+  },
+  {
+   "i": 2058,
+   "src": "1ff6f90071d3",
+   "t": "Aurora: Skilled Worker / Shop Clerk"
+  },
+  {
+   "i": 2066,
+   "src": "f74529ae4b1e",
+   "t": "Aurora: Bar staff"
+  },
+  {
+   "i": 2074,
+   "src": "89277609dc78",
+   "t": "Aurora: Big brother"
+  },
+  {
+   "i": 2082,
+   "src": "a49a402a1f72",
+   "t": "Aurora: Big Sis"
+  },
+  {
+   "i": 2090,
+   "src": "d234c5a6be9d",
+   "t": "Aurora: Uncle"
+  },
+  {
+   "i": 2098,
+   "src": "7165d9ce8bd3",
+   "t": "Aurora: Auntie"
+  },
+  {
+   "i": 2106,
+   "src": "e6a09855440d",
+   "t": "Aurora: Child 1"
+  },
+  {
+   "i": 2114,
+   "src": "2b767c404e7c",
+   "t": "Aurora: Child 2"
+  },
+  {
+   "i": 2122,
+   "src": "dc630f6301e1",
+   "t": "Host"
+  },
+  {
+   "i": 2130,
+   "src": "bec9732c6f75",
+   "t": "Event Staff 1"
+  },
+  {
+   "i": 2138,
+   "src": "b277f8c3c172",
+   "t": "Event Staff 2"
+  },
+  {
+   "i": 2146,
+   "src": "59d7bfc0c020",
+   "t": "Electrician"
+  },
+  {
+   "i": 2154,
+   "src": "2db393435be4",
+   "t": "Fake Kite"
+  }
+ ]
+}

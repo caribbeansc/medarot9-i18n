@@ -1,0 +1,175 @@
+{
+ "file": "story/spt/f04_020_117_00_t001.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1037,
+   "src": "cc9b5a26f65b",
+   "t": "{{saika}}-san, what will you do about the\ntournament?"
+  },
+  {
+   "i": 1040,
+   "src": "b0b8619413a5",
+   "t": "You haven't joined a club yet, right?"
+  },
+  {
+   "i": 1052,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1061,
+   "src": "4678a00d28a5",
+   "t": "Today I'm planning to tour the school"
+  },
+  {
+   "i": 1064,
+   "src": "de1a84be3170",
+   "t": "with Ms. Kotobuki."
+  },
+  {
+   "i": 1071,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1080,
+   "src": "bb69ca738b31",
+   "t": "Aw, shame. I was hoping you could\nswing by"
+  },
+  {
+   "i": 1083,
+   "src": "c054b2c654e2",
+   "t": "our {{club}} for a look if you had time."
+  },
+  {
+   "i": 1090,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1099,
+   "src": "8f8cfcc4f1ce",
+   "t": "Oh, I'm sorry..."
+  },
+  {
+   "i": 1106,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1115,
+   "src": "f7c2d68c5d73",
+   "t": "It's fine, it's fine! Don't worry about it!"
+  },
+  {
+   "i": 1122,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1128,
+   "src": "47cebf9e4183",
+   "t": "By the way, {{saika}}-san,"
+  },
+  {
+   "i": 1131,
+   "src": "6235af3e5b91",
+   "t": "have you decided which club to join\nyet?"
+  },
+  {
+   "i": 1141,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1150,
+   "src": "fb8d7c29d7fe",
+   "t": "No, not yet..."
+  },
+  {
+   "i": 1157,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1166,
+   "src": "8fc0caf12553",
+   "t": "How about the {{gardening_club}}?"
+  },
+  {
+   "i": 1175,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1184,
+   "src": "3248ead3fca6",
+   "t": "The {{gardening_club}}... How lovely."
+  },
+  {
+   "i": 1187,
+   "src": "73df7cdb5470",
+   "t": "I just love flowers so much."
+  },
+  {
+   "i": 1194,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1203,
+   "src": "722723eb0a6f",
+   "t": "What about the sea?"
+  },
+  {
+   "i": 1206,
+   "src": "3466c12a76ce",
+   "t": "Aren't you interested in marine sports?"
+  },
+  {
+   "i": 1216,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1225,
+   "src": "ca608e467fc8",
+   "t": "I like the sea too."
+  },
+  {
+   "i": 1228,
+   "src": "263f0db96b59",
+   "t": "But I've never done any marine sports."
+  },
+  {
+   "i": 1238,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1247,
+   "src": "0b944295312e",
+   "t": "Oh, then the Fishing {{club|cap}} is perfect!"
+  },
+  {
+   "i": 1250,
+   "src": "376aa2ccfdbe",
+   "t": "We catch it and cook it, everything."
+  },
+  {
+   "i": 1258,
+   "src": "3bb4469a8d18",
+   "t": "You can eat all the fresh fish you want!\nWe go"
+  },
+  {
+   "i": 1261,
+   "src": "f89efaba9feb",
+   "t": "to the sea every day, so I think you'd fit\nright in."
+  }
+ ]
+}

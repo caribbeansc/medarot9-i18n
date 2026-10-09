@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description104.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bb669325cbba",
+   "t": "Especial (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "6b1fa622b6f4",
+   "t": "<c:ffff00>Técnica<c> que no pertenece a ninguna <c:ffff00>habilidad<c>.\n\nA diferencia de las demás habilidades, el <c:ffff00>nivel de<c>\n<c:ffff00>habilidad<c> no influye en la velocidad de <c:ffff00>{{prep}}<c> y\n<c:ffff00>{{cooldown}}<c> ni en el {{effect}}."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f05_060_150_00.spt",
+ "lines": [
+  {
+   "i": 1377,
+   "src": "712ed41b793e",
+   "t": "¿Quieres entrar?"
+  },
+  {
+   "i": 1378,
+   "src": "981eed5f69d8",
+   "t": "Entrar"
+  },
+  {
+   "i": 1379,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  },
+  {
+   "i": 1383,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  },
+  {
+   "i": 1596,
+   "src": "68e64366b920",
+   "t": "Entremos"
+  },
+  {
+   "i": 1597,
+   "src": "8d40dac65d99",
+   "t": "No se puede"
+  },
+  {
+   "i": 1601,
+   "src": "8d40dac65d99",
+   "t": "No se puede"
+  }
+ ]
+}

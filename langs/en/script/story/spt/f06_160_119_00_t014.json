@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_160_119_00_t014.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "76ce359db2c6",
+   "t": "Ughh!"
+  },
+  {
+   "i": 1038,
+   "src": "6e43bc3ef60a",
+   "t": "It won't open~! Grrr!"
+  },
+  {
+   "i": 1052,
+   "src": "bd52acc85442",
+   "t": "Hey..."
+  },
+  {
+   "i": 1055,
+   "src": "af5925d51c57",
+   "t": "S-stop it, {{main}}-chan, don't force it--"
+  }
+ ]
+}

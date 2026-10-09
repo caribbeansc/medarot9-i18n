@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_02_006.spt",
+ "lines": [
+  {
+   "i": 1116,
+   "src": "0b9ab821e1a4",
+   "t": "Now I'll show you the power hidden\ninside the {{medal}}!"
+  },
+  {
+   "i": 1125,
+   "src": "753e53784d46",
+   "t": "Very well, you'll see the hidden\npower of the {{medal}}!      "
+  },
+  {
+   "i": 1142,
+   "src": "e92677fa99e9",
+   "t": "Raaaaaaaaaaah!!"
+  },
+  {
+   "i": 1151,
+   "src": "023df97265ef",
+   "t": "Grraaaaaaaaaah!!"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_08_005.spt",
+ "lines": [
+  {
+   "i": 1118,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1124,
+   "src": "0ae7a50e9ece",
+   "t": "Crossfire is all set.\nLet's start the attack."
+  },
+  {
+   "i": 1132,
+   "src": "38a86d0433c1",
+   "t": "Oh, by the way, \"Aimshot\" and \"Berserk\"\ndon't work as triggers, so be careful."
+  },
+  {
+   "i": 1230,
+   "src": "b3f5512480fa",
+   "t": "Let's attack!"
+  }
+ ]
+}

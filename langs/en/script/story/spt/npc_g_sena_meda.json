@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_g_sena_meda.spt",
+ "lines": [
+  {
+   "i": 1030,
+   "src": "d1fb6110e8e7",
+   "t": "{{belzelga}}"
+  },
+  {
+   "i": 1041,
+   "src": "20de253ac212",
+   "t": "Want to {{robattle}}?"
+  },
+  {
+   "i": 1044,
+   "src": "85c29a19944e",
+   "t": "If so, talk to my {{master}} with the Y\nbutton."
+  },
+  {
+   "i": 1052,
+   "src": "ddf3d1cef438",
+   "t": "...Or do you know that already?"
+  }
+ ]
+}

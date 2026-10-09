@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1d_meda_150_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "8f441470e0e9",
+   "t": "{{lily_madonna}}"
+  },
+  {
+   "i": 1038,
+   "src": "9ac71a53e362",
+   "t": "Right now, together with {{master}},"
+  },
+  {
+   "i": 1041,
+   "src": "52d43012c8ac",
+   "t": "I'm growing tomatoes in our room."
+  },
+  {
+   "i": 1049,
+   "src": "0cad24a97b17",
+   "t": "Did you know?"
+  },
+  {
+   "i": 1052,
+   "src": "7971b99df4a1",
+   "t": "Tomatoes are round and red and cute."
+  }
+ ]
+}

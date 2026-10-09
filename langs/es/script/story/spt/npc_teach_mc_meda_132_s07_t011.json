@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_mc_meda_132_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "979edb0773e8",
+   "t": "Dr. Bokchoy "
+  },
+  {
+   "i": 1038,
+   "src": "f84091f01994",
+   "t": "Cuánto tiempo sin venir al {{gymnasium}}."
+  },
+  {
+   "i": 1041,
+   "src": "2f0c7ea01605",
+   "t": "Siempre en sala, aulas, {{shop}} y--"
+  },
+  {
+   "i": 1059,
+   "src": "c9d44057930c",
+   "t": "Siempre dando vueltas en los mismos"
+  },
+  {
+   "i": 1062,
+   "src": "17f068b94453",
+   "t": "lugares. ¡Mi {{master}} es muy perezoso!"
+  }
+ ]
+}

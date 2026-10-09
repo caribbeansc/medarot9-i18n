@@ -1,0 +1,40 @@
+{
+ "rel": "story/mdl/m002.bcmdl",
+ "tex": "m002_signboard_aran",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    24,
+    10,
+    208,
+    28
+   ],
+   "erase_box": [
+    20,
+    11,
+    216,
+    26
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "text": "Agencia de Detectives Laurel",
+   "font": "/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf",
+   "cap": 12,
+   "pad": 0,
+   "fill": "#4C3B3B",
+   "stroke": "#B8A58A",
+   "stroke_w": 0.8,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#8E6E45",
+    "blur": 1,
+    "opacity": 0.6
+   },
+   "dy": -1
+  }
+ ]
+}

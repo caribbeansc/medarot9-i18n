@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_154.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ce35fd148af7",
+   "t": "<c:00ff00>Action:<c> {{charge_trap}}\nSets a trap that deals\n{{damage}} when it reacts to\nthe {{opponent}}'s charging.\nSetting it repeatedly\nraises its {{armor}} and\n{{damage}}."
+  }
+ ]
+}

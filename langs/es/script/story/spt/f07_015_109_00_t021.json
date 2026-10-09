@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f07_015_109_00_t021.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "019ff395de69",
+   "t": "¡Una {{medal}}!"
+  },
+  {
+   "i": 1019,
+   "src": "e901b1fe0b90",
+   "t": "Pero..."
+  },
+  {
+   "i": 1027,
+   "src": "608158c1a256",
+   "t": "Algo no cuadra. Es tan lisa que ni"
+  },
+  {
+   "i": 1030,
+   "src": "70c51aeaa201",
+   "t": "se ve qué clase de {{medal}} es..."
+  },
+  {
+   "i": 1038,
+   "src": "d4c94c95b92e",
+   "t": "¿Será una {{fake_medal}}?"
+  },
+  {
+   "i": 1041,
+   "src": "62c11a250662",
+   "t": "¿Cómo terminó algo así aquí...?"
+  }
+ ]
+}

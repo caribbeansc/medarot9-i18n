@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_02_008.spt",
+ "lines": [
+  {
+   "i": 1319,
+   "src": "186833e3d05c",
+   "t": "¡Ahora toca elegir una {{attack_part}}!   "
+  },
+  {
+   "i": 1351,
+   "src": "2fe8b7267497",
+   "t": "¡Ahora elijamos una {{attack_part}}!"
+  },
+  {
+   "i": 2091,
+   "src": "6aba988dbadd",
+   "t": "¡Apunta al {{leader}}!  "
+  },
+  {
+   "i": 2108,
+   "src": "6aba988dbadd",
+   "t": "¡Apunta al {{leader}}!  "
+  }
+ ]
+}

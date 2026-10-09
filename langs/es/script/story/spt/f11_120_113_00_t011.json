@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f11_120_113_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1046,
+   "src": "00b354982a43",
+   "t": "Llegaron."
+  },
+  {
+   "i": 1049,
+   "src": "a650a8599772",
+   "t": "Me alegra que estén a salvo."
+  },
+  {
+   "i": 1060,
+   "src": "8972ba4762a7",
+   "t": "Se le ve ocupada, presidenta."
+  },
+  {
+   "i": 1065,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1074,
+   "src": "691bd1f42274",
+   "t": "Pues sí."
+  },
+  {
+   "i": 1077,
+   "src": "911aac69e39f",
+   "t": "Por cierto--"
+  },
+  {
+   "i": 1085,
+   "src": "db97c9274e75",
+   "t": "Respondan una pregunta."
+  },
+  {
+   "i": 1093,
+   "src": "b1079bdcef15",
+   "t": "Temprano, tras preparar el festival,"
+  },
+  {
+   "i": 1096,
+   "src": "e0f7af0b1bf3",
+   "t": "desaparecieron. ¿Dónde y qué hacían?"
+  }
+ ]
+}

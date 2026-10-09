@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_95.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2ab8cd6a80f4",
+   "t": "<c:00ff00>Técnica:<c>Hiperseptor\nAñade a todo tu equipo\ndos efectos positivos\nelegidos {{random}}."
+  }
+ ]
+}

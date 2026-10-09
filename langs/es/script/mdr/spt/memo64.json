@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo64.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "42d3e12ea934",
+   "t": "\"Recoger {{medalia}}: Pista de esquí\""
+  },
+  {
+   "i": 32,
+   "src": "05f6118a8618",
+   "t": "{{react|cap}} de {{medalia|pl}} en la {{artificial_ski_slope}}.\nDesde la {{mountain_entrance}} se llega enseguida.\n"
+  },
+  {
+   "i": 42,
+   "src": "a868c3f47d30",
+   "t": "{{robattle|cap}} contra el {{ski_club}} por una {{medalia}}.\nGanamos y recibimos la {{medalia}} con gratitud.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

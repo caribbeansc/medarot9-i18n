@@ -1,0 +1,46 @@
+{
+ "rel": "mdr/tex/bt_priset.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "tahoma",
+  "cap": 7,
+  "tracking": 0,
+  "baseline": 10,
+  "fill": "#1B2335",
+  "stroke": null,
+  "crisp": 1.0,
+  "align": "center",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    64,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    0,
+    24,
+    14
+   ],
+   "text": "Set"
+  },
+  {
+   "box": [
+    24,
+    0,
+    23.5,
+    14
+   ],
+   "text": "Load"
+  }
+ ]
+}

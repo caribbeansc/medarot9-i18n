@@ -1,0 +1,60 @@
+{
+ "file": "battle/spt/tuto_08_006.spt",
+ "lines": [
+  {
+   "i": 1111,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1117,
+   "src": "6def6ef551f4",
+   "t": "El FC de Disparo se adelanta y ataca\n<c:ff00ff>antes del ataque disparador<c>."
+  },
+  {
+   "i": 1122,
+   "src": "60063e51bd4d",
+   "t": "En cambio, el fuego cruzado de\nCombate ataca <c:ff00ff>tras el disparador<c>."
+  },
+  {
+   "i": 1127,
+   "src": "66b7e66d6b84",
+   "t": "Es decir, el orden será: FC de Disparo,\nataque disparador y FC de Combate.                                       "
+  },
+  {
+   "i": 1132,
+   "src": "1658614ebfc2",
+   "t": "Además, si un ataque del fuego cruzado\nacierta, el siguiente acierta seguro.                            "
+  },
+  {
+   "i": 1140,
+   "src": "804f53f5a6ab",
+   "t": "Aprovechando eso, hasta las {{part|pl}} de\nataque con poco {{success}} aciertan mejor.                        "
+  },
+  {
+   "i": 1148,
+   "src": "64522e2fe03c",
+   "t": "Además, quien recibe un fuego cruzado\nsolo puede elegir una acción de {{defense}}.                              "
+  },
+  {
+   "i": 1153,
+   "src": "ab7c1fd0f571",
+   "t": "Si defiendes el 1er ataque con el brazo\nderecho, defenderás los demás igual.                                                                               "
+  },
+  {
+   "i": 1158,
+   "src": "8a0d8aac88b4",
+   "t": "En ese caso, si te destruyen el brazo\nderecho, quedas sin {{defend}} ni {{evade}}.                      "
+  },
+  {
+   "i": 1163,
+   "src": "7c6d91f5371b",
+   "t": "El FC da trabajo y parece un derroche,\npero dominado decide el {{match}} de golpe.                                                                                                              "
+  },
+  {
+   "i": 1171,
+   "src": "59fa2e113ce3",
+   "t": "Ahora, gana esta {{robattle}}."
+  }
+ ]
+}

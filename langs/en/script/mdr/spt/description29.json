@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description29.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "95133dbfea1c",
+   "t": "All Parts (trait)"
+  },
+  {
+   "i": 11,
+   "src": "81a0455bf428",
+   "t": "A <c:ffff00>{{damage_trait}}<c> that deals <c:ffff00>{{damage}}<c> to all <c:ffff00>slots<c> at\nonce.\n\nThe {{damage}} is split equally among the {{opponent}}'s\n<c:ffff00>{{part|pl}}<c> that aren't <c:ffff00>destroyed<c>.\n\nIt isn't compatible with the <c:ffff00>{{pierce|cap}}<c> {{damage_trait}}."
+  }
+ ]
+}

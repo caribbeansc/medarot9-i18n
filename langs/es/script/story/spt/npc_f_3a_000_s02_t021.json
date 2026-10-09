@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3a_000_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "02d3fd812897",
+   "t": "{{megumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "0d5e0a71cdeb",
+   "t": "Eh, ¿{{aoi}}?"
+  },
+  {
+   "i": 1041,
+   "src": "246174745fe4",
+   "t": "¿{{aoi}}-chan... la de 1er año?"
+  },
+  {
+   "i": 1049,
+   "src": "f5c70631cb21",
+   "t": "Sí, la vi. Hace un momento,"
+  },
+  {
+   "i": 1052,
+   "src": "6cc2c809b8eb",
+   "t": "iba caminando recto por este camino."
+  },
+  {
+   "i": 1060,
+   "src": "7c45d8d54a11",
+   "t": "Parecía ir muy deprisa. ¿Tal vez fue al"
+  },
+  {
+   "i": 1063,
+   "src": "c0157de02373",
+   "t": "{{dormitory}} por algo que olvidó?"
+  }
+ ]
+}

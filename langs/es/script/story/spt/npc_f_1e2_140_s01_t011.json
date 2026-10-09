@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_1e2_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f44d21d69865",
+   "t": "{{hanayuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "32d5e14231f1",
+   "t": "Es un dojo espléndido, ¿verdad?"
+  },
+  {
+   "i": 1041,
+   "src": "9aac2e435113",
+   "t": "Al venir aquí, siempre me concentro."
+  },
+  {
+   "i": 1049,
+   "src": "107a305cb80d",
+   "t": "¡Pero limpiarlo es un fastidio!"
+  }
+ ]
+}

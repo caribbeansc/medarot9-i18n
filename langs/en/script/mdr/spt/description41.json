@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description41.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1683155cbeff",
+   "t": "{{interrupt_guard}}"
+  },
+  {
+   "i": 11,
+   "src": "d51abebdc541",
+   "t": "A special <c:ffff00>{{response}}<c>: it intercepts the {{opponent}}'s\n<c:ffff00>attack<c> and shields an {{ally_battle_term}} by taking the hit.\nA <c:ffff00>{{medabot}}<c> or <c:ffff00>{{plant}}<c> in <c:ffff00>{{guard}} Stance<c> (from an <c:ffff00>action<c>\nof the <c:ffff00>Block skill<c>) steps in front of the allied <c:ffff00>{{target}}<c>\nand <c:ffff00>defends<c> automatically with the stance's <c:ffff00>acting<c>\n<c:ffff00>{{part}}<c>.\nDefending raises <c:ffff00>Defense Power<c>, and the higher\nthe <c:ffff00>{{skill_level}}<c> in <c:ffff00>Block<c>, the more it rises. Some\nactions negate or {{reflect}} the attack."
+  }
+ ]
+}

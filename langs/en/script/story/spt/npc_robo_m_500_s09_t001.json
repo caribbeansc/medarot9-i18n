@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_robo_m_500_s09_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1035,
+   "src": "841d9d32bb92",
+   "t": "Everyone's gone, {{robo}}."
+  },
+  {
+   "i": 1038,
+   "src": "216927809fd1",
+   "t": "I'll have nothing to do for a while, robo."
+  }
+ ]
+}

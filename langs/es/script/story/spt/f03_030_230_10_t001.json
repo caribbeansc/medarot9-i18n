@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f03_030_230_10_t001.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "46c23fe94898",
+   "t": "Oh."
+  },
+  {
+   "i": 1057,
+   "src": "a12118d933ab",
+   "t": "Salimos a un espacio amplio y\nabierto, ¿no?"
+  },
+  {
+   "i": 1069,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1078,
+   "src": "0c20fc5036ec",
+   "t": "¿Qué es este lugar?"
+  }
+ ]
+}

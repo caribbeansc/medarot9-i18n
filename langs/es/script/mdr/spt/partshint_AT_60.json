@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_60.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "04d2702ea83e",
+   "t": "<c:00ff00>Técnica:<c>{{break_hammer}}\nAtaque de {{fighting}} que\nsuma al {{success}} 1/2 del % de\nla {{charge_gauge}}. Anula el\naumento de {{defend}} del\n{{opponent}}. Más {{damage}} cuantas\nmás piezas pesadas tenga\nel {{opponent}}. Con {{effect}} de\n{{pierce}}."
+  }
+ ]
+}

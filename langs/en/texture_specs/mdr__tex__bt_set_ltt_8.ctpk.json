@@ -1,0 +1,1023 @@
+{
+ "rel": "mdr/tex/bt_set_ltt_8.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond",
+  "cap": 8,
+  "fill": "#F4FF00",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.5,
+  "min_scale_x": 0.7,
+  "align": "left",
+  "dx": 0
+ },
+ "items": [
+  {
+   "text": "Aimshot",
+   "box": [
+    0,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    0,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Berserk",
+   "box": [
+    32,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    32,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Shooting",
+   "box": [
+    64,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    64,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Striking",
+   "box": [
+    96,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    96,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Attack",
+   "box": [
+    128,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    128,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Support",
+   "box": [
+    160,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    160,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Set-up",
+   "box": [
+    192,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    192,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Strike",
+   "box": [
+    224,
+    104,
+    32,
+    16
+   ],
+   "erase_box": [
+    224,
+    104,
+    32,
+    16
+   ],
+   "baseline": 116,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Block",
+   "box": [
+    0,
+    120,
+    32,
+    16
+   ],
+   "erase_box": [
+    0,
+    120,
+    32,
+    16
+   ],
+   "baseline": 132,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Shot",
+   "box": [
+    32,
+    120,
+    32,
+    16
+   ],
+   "erase_box": [
+    32,
+    120,
+    32,
+    16
+   ],
+   "baseline": 132,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Heal",
+   "box": [
+    224,
+    88,
+    32,
+    16
+   ],
+   "erase_box": [
+    224,
+    88,
+    32,
+    16
+   ],
+   "baseline": 100,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "1x",
+   "box": [
+    144,
+    88,
+    16,
+    16
+   ],
+   "erase_box": [
+    144,
+    88,
+    16,
+    16
+   ],
+   "baseline": 100,
+   "fill": "#2AFE7F",
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Leader",
+   "box": [
+    160,
+    88,
+    32,
+    16
+   ],
+   "erase_box": [
+    160,
+    88,
+    32,
+    16
+   ],
+   "baseline": 100,
+   "fill": "#2AFE7F",
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Save",
+   "box": [
+    192,
+    88,
+    32,
+    16
+   ],
+   "erase_box": [
+    192,
+    88,
+    32,
+    16
+   ],
+   "baseline": 100,
+   "fill": "#2AFE7F",
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Dmg",
+   "box": [
+    64,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    64,
+    136,
+    32,
+    16
+   ],
+   "baseline": 148
+  },
+  {
+   "text": "Part",
+   "box": [
+    96,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    96,
+    136,
+    32,
+    16
+   ],
+   "baseline": 148
+  },
+  {
+   "text": "Destr.",
+   "box": [
+    184,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    184,
+    136,
+    32,
+    16
+   ],
+   "baseline": 148
+  },
+  {
+   "text": "Part",
+   "box": [
+    128,
+    136,
+    24,
+    16
+   ],
+   "erase_box": [
+    128,
+    136,
+    24,
+    16
+   ],
+   "baseline": 148,
+   "align": "right"
+  },
+  {
+   "text": "Guard",
+   "box": [
+    216,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    216,
+    136,
+    32,
+    16
+   ],
+   "baseline": 148
+  },
+  {
+   "text": "Part hurt",
+   "box": [
+    0,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    0,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "Part 50%D",
+   "box": [
+    48,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    48,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "Part destr.",
+   "box": [
+    96,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    96,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "No attack",
+   "box": [
+    144,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    144,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "No defense",
+   "box": [
+    192,
+    152,
+    48,
+    16
+   ],
+   "erase_box": [
+    192,
+    152,
+    48,
+    16
+   ],
+   "baseline": 164
+  },
+  {
+   "text": "No evade",
+   "box": [
+    0,
+    168,
+    48,
+    16
+   ],
+   "erase_box": [
+    0,
+    168,
+    48,
+    16
+   ],
+   "baseline": 180
+  },
+  {
+   "text": "2 or less",
+   "box": [
+    48,
+    168,
+    48,
+    16
+   ],
+   "erase_box": [
+    48,
+    168,
+    48,
+    16
+   ],
+   "baseline": 180
+  },
+  {
+   "text": "Trap",
+   "box": [
+    120,
+    168,
+    48,
+    16
+   ],
+   "erase_box": [
+    120,
+    168,
+    48,
+    16
+   ],
+   "baseline": 180
+  },
+  {
+   "text": "Debuff",
+   "box": [
+    168,
+    168,
+    48,
+    16
+   ],
+   "erase_box": [
+    168,
+    168,
+    48,
+    16
+   ],
+   "baseline": 180
+  },
+  {
+   "text": "Buff",
+   "box": [
+    0,
+    184,
+    48,
+    16
+   ],
+   "erase_box": [
+    0,
+    184,
+    48,
+    16
+   ],
+   "baseline": 196
+  },
+  {
+   "text": "No debuff",
+   "box": [
+    48,
+    184,
+    48,
+    16
+   ],
+   "erase_box": [
+    48,
+    184,
+    48,
+    16
+   ],
+   "baseline": 196
+  },
+  {
+   "text": "No buff",
+   "box": [
+    96,
+    184,
+    48,
+    16
+   ],
+   "erase_box": [
+    96,
+    184,
+    48,
+    16
+   ],
+   "baseline": 196
+  },
+  {
+   "text": "1",
+   "box": [
+    96,
+    168,
+    16,
+    16
+   ],
+   "erase_box": [
+    96,
+    168,
+    16,
+    16
+   ],
+   "baseline": 180,
+   "align": "center",
+   "dx": 0
+  },
+  {
+   "text": "Battle start",
+   "box": [
+    0,
+    200,
+    56,
+    16
+   ],
+   "erase_box": [
+    0,
+    200,
+    56,
+    16
+   ],
+   "baseline": 212
+  },
+  {
+   "text": "Battle end",
+   "box": [
+    56,
+    200,
+    56,
+    16
+   ],
+   "erase_box": [
+    56,
+    200,
+    56,
+    16
+   ],
+   "baseline": 212
+  },
+  {
+   "text": "Desert",
+   "box": [
+    128,
+    200,
+    24,
+    16
+   ],
+   "erase_box": [
+    128,
+    200,
+    24,
+    16
+   ],
+   "baseline": 212
+  },
+  {
+   "text": "A-Air",
+   "box": [
+    0,
+    237,
+    34,
+    10
+   ],
+   "erase_box": [
+    0,
+    237,
+    34,
+    10
+   ],
+   "baseline": 246,
+   "cap": 8,
+   "font": "compact-rounded-heavy",
+   "align": "center"
+  },
+  {
+   "text": "A-Sea",
+   "box": [
+    38,
+    237,
+    34,
+    10
+   ],
+   "erase_box": [
+    38,
+    237,
+    34,
+    10
+   ],
+   "baseline": 246,
+   "cap": 8,
+   "font": "compact-rounded-heavy",
+   "align": "center"
+  },
+  {
+   "text": "Trans Part",
+   "box": [
+    170,
+    27,
+    46,
+    14
+   ],
+   "erase_box": [
+    170,
+    27,
+    46,
+    14
+   ],
+   "baseline": 38,
+   "font": "compact-rounded-heavy",
+   "cap": 9,
+   "align": "center"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#1E2637",
+   "stroke": "#FFFFFF9D",
+   "stroke_w": 1.0,
+   "crisp": 0.45,
+   "align": "left",
+   "pad": 0,
+   "min_scale_x": 0.75,
+   "dx": 1,
+   "sample_box": [
+    27,
+    5,
+    68,
+    18
+   ],
+   "text": "Rotation OK",
+   "box": [
+    24,
+    5,
+    73,
+    18
+   ],
+   "erase_box": [
+    23,
+    5,
+    74,
+    18
+   ],
+   "baseline": 18
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": "#1E2637",
+   "stroke": "#FFFFFF9D",
+   "stroke_w": 1.2,
+   "crisp": 0.45,
+   "align": "left",
+   "pad": 0,
+   "min_scale_x": 0.75,
+   "dx": 0,
+   "sample_box": [
+    27,
+    33,
+    62,
+    12
+   ],
+   "text": "Basic Action",
+   "box": [
+    26,
+    28,
+    64,
+    18
+   ],
+   "erase_box": [
+    25,
+    28,
+    66,
+    18
+   ],
+   "baseline": 42
+  },
+  {
+   "text": "Save & Load",
+   "box": [
+    152,
+    8,
+    72,
+    11
+   ],
+   "erase_box": [
+    152,
+    7,
+    72,
+    13
+   ],
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 7,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "align": "center",
+   "baseline": 17,
+   "pad": 0,
+   "crisp": 0.5,
+   "min_scale_x": 0.75
+  },
+  {
+   "text": "Striking",
+   "box": [
+    0,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    0,
+    136,
+    32,
+    16
+   ],
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#FF95C9",
+    "bottom": "#FF5666"
+   },
+   "stroke": "#2F141A",
+   "stroke_w": 1.0,
+   "align": "center",
+   "baseline": 148,
+   "pad": 0,
+   "crisp": 0,
+   "min_scale_x": 0.75
+  },
+  {
+   "text": "Shooting",
+   "box": [
+    32,
+    136,
+    32,
+    16
+   ],
+   "erase_box": [
+    32,
+    136,
+    32,
+    16
+   ],
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#A3FFFF",
+    "bottom": "#58D6FF"
+   },
+   "stroke": "#3C3E3E",
+   "stroke_w": 1.0,
+   "align": "center",
+   "baseline": 148,
+   "pad": 0,
+   "crisp": 0,
+   "min_scale_x": 0.75
+  },
+  {
+   "text": "",
+   "box": [
+    67,
+    124,
+    10,
+    8
+   ],
+   "erase_box": [
+    67,
+    124,
+    10,
+    8
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "",
+   "box": [
+    68,
+    123,
+    8,
+    1
+   ],
+   "erase_box": [
+    68,
+    123,
+    8,
+    1
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "",
+   "box": [
+    68,
+    132,
+    8,
+    1
+   ],
+   "erase_box": [
+    68,
+    132,
+    8,
+    1
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "Me",
+   "box": [
+    67,
+    123,
+    10,
+    10
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "fill": "#70D9FF",
+   "stroke": null,
+   "align": "center",
+   "baseline": 131,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 0.8,
+   "dx": 0
+  },
+  {
+   "text": "",
+   "box": [
+    83,
+    124,
+    10,
+    8
+   ],
+   "erase_box": [
+    83,
+    124,
+    10,
+    8
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "",
+   "box": [
+    84,
+    123,
+    8,
+    1
+   ],
+   "erase_box": [
+    84,
+    123,
+    8,
+    1
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "",
+   "box": [
+    84,
+    132,
+    8,
+    1
+   ],
+   "erase_box": [
+    84,
+    132,
+    8,
+    1
+   ],
+   "erase": "solid:#1D7BBD"
+  },
+  {
+   "text": "*",
+   "box": [
+    83,
+    123,
+    10,
+    10
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#70D9FF",
+   "stroke": null,
+   "align": "center",
+   "baseline": 135,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 0.8,
+   "dx": 0
+  },
+  {
+   "text": "",
+   "box": [
+    99,
+    124,
+    10,
+    8
+   ],
+   "erase_box": [
+    99,
+    124,
+    10,
+    8
+   ],
+   "erase": "solid:#BD371D"
+  },
+  {
+   "text": "",
+   "box": [
+    100,
+    123,
+    8,
+    1
+   ],
+   "erase_box": [
+    100,
+    123,
+    8,
+    1
+   ],
+   "erase": "solid:#BD371D"
+  },
+  {
+   "text": "",
+   "box": [
+    100,
+    132,
+    8,
+    1
+   ],
+   "erase_box": [
+    100,
+    132,
+    8,
+    1
+   ],
+   "erase": "solid:#BD371D"
+  },
+  {
+   "text": "*",
+   "box": [
+    99,
+    123,
+    10,
+    10
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "fill": "#FF9D9C",
+   "stroke": null,
+   "align": "center",
+   "baseline": 135,
+   "pad": 0,
+   "crisp": 1.0,
+   "min_scale_x": 0.8,
+   "dx": 0
+  }
+ ]
+}

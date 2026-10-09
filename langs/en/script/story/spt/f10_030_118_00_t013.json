@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f10_030_118_00_t013.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1045,
+   "src": "1d1ee71fc095",
+   "t": "It's been a while, Captain Tenshin."
+  },
+  {
+   "i": 1055,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1061,
+   "src": "e9cffe19cb1f",
+   "t": "We were about to launch a rescue, but"
+  },
+  {
+   "i": 1064,
+   "src": "d9cf207d3d53",
+   "t": "escaping on your own is just like you."
+  },
+  {
+   "i": 1071,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1077,
+   "src": "e3638398dda8",
+   "t": "Explain."
+  },
+  {
+   "i": 1091,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1097,
+   "src": "9969f86f8358",
+   "t": "Yes, sir.\nVice-Principal Suruga allied with an"
+  },
+  {
+   "i": 1105,
+   "src": "8bdb0e2377bf",
+   "t": "illegal outside group and planned to"
+  },
+  {
+   "i": 1108,
+   "src": "ee4e1988ab7f",
+   "t": "carry off the {{medalium}}."
+  },
+  {
+   "i": 1116,
+   "src": "e107e5769757",
+   "t": "Furthermore, he was diverting {{wmss}}\nmilitary"
+  },
+  {
+   "i": 1119,
+   "src": "00177d4ef7cb",
+   "t": "Medabots to that outside organization."
+  },
+  {
+   "i": 1136,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1142,
+   "src": "7a19325a4d55",
+   "t": "What?!"
+  },
+  {
+   "i": 1145,
+   "src": "3889b4a42afc",
+   "t": "No, that's--"
+  }
+ ]
+}

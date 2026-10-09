@@ -1,0 +1,165 @@
+{
+ "rel": "mdr/tex/mdr_icon_9.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "helv-cond-black",
+  "cap": 8,
+  "pad": 0,
+  "crisp": 0.6,
+  "fill": "#F2FBF6",
+  "strokes": [
+   {
+    "color": "#045C17",
+    "w": 1.0
+   },
+   {
+    "color": "#052F00C0",
+    "w": 1.0
+   }
+  ],
+  "min_scale_x": 0.72
+ },
+ "items": [
+  {
+   "box": [
+    391,
+    204,
+    40,
+    15
+   ],
+   "text": "Misiones",
+   "baseline": 216
+  },
+  {
+   "box": [
+    432,
+    204,
+    52,
+    15
+   ],
+   "text": "Mazmorra",
+   "baseline": 216
+  },
+  {
+   "box": [
+    395,
+    220,
+    57,
+    15
+   ],
+   "text": "Mis datos",
+   "baseline": 232
+  },
+  {
+   "box": [
+    454,
+    220,
+    30,
+    15
+   ],
+   "text": "Piezas",
+   "baseline": 232
+  },
+  {
+   "box": [
+    0,
+    236,
+    61,
+    15
+   ],
+   "text": "Configuracion",
+   "baseline": 247
+  },
+  {
+   "box": [
+    61,
+    236,
+    60,
+    15
+   ],
+   "text": "Ajustes",
+   "baseline": 247
+  },
+  {
+   "box": [
+    121,
+    236,
+    60,
+    15
+   ],
+   "text": "Enciclopedia",
+   "baseline": 247
+  },
+  {
+   "box": [
+    181,
+    236,
+    57,
+    15
+   ],
+   "text": "Companeros",
+   "baseline": 247
+  },
+  {
+   "box": [
+    260,
+    236,
+    40,
+    15
+   ],
+   "text": "Objetos",
+   "baseline": 247
+  },
+  {
+   "box": [
+    300,
+    236,
+    40,
+    15
+   ],
+   "text": "Album",
+   "baseline": 248
+  },
+  {
+   "box": [
+    340,
+    236,
+    33,
+    15
+   ],
+   "text": "Guardar",
+   "baseline": 248
+  },
+  {
+   "box": [
+    373,
+    236,
+    55,
+    15
+   ],
+   "text": "Red",
+   "baseline": 248
+  },
+  {
+   "box": [
+    428,
+    236,
+    56,
+    15
+   ],
+   "text": "Mapa de area",
+   "baseline": 247
+  },
+  {
+   "box": [
+    238,
+    236,
+    22,
+    15
+   ],
+   "text": "Nota",
+   "baseline": 248
+  }
+ ]
+}

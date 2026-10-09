@@ -1,0 +1,64 @@
+{
+ "rel": "mdr/tex/win_item.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "font": "sf-rounded-heavy",
+  "cap": 8,
+  "fill": "auto",
+  "stroke": "auto",
+  "stroke_w": 1.2,
+  "pad": 0,
+  "valign": "middle",
+  "crisp": 0.4
+ },
+ "items": [
+  {
+   "box": [
+    204,
+    42,
+    12,
+    14
+   ],
+   "erase_box": [
+    203,
+    41,
+    14,
+    15
+   ],
+   "text": "Y"
+  },
+  {
+   "box": [
+    219,
+    42,
+    34,
+    14
+   ],
+   "erase_box": [
+    217,
+    40,
+    38,
+    16
+   ],
+   "text": "Money",
+   "align": "left"
+  },
+  {
+   "box": [
+    203,
+    58,
+    34,
+    14
+   ],
+   "erase_box": [
+    201,
+    56,
+    39,
+    17
+   ],
+   "text": "Chips",
+   "align": "left"
+  }
+ ]
+}

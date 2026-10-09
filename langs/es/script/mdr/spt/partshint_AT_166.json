@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_166.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9f8bffbd6488",
+   "t": "<c:00ff01>Técnica:<c>Planta Guardia\nColoca un dispositivo que\nhace guardia de\ninterrupción ante ataques\na los aliados.\nAl colocarlo\nrepetidamente {{up}} el\n{{armor}}."
+  }
+ ]
+}

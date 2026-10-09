@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f01_000_110_00_t013.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1038,
+   "src": "3faaf0da07c8",
+   "t": "Entendido."
+  },
+  {
+   "i": 1041,
+   "src": "6d27b998c972",
+   "t": "Entonces..."
+  },
+  {
+   "i": 1052,
+   "src": "333d2561a4d4",
+   "t": "Sígueme."
+  }
+ ]
+}

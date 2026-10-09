@@ -1,0 +1,262 @@
+{
+ "rel": "mdr/tex/bg_arl_cam.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    232,
+    32
+   ],
+   "erase": "solid:#E4E7E700",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    3,
+    232,
+    26
+   ],
+   "erase": "none",
+   "text": "Aim at an AR card",
+   "font": "sf",
+   "wght": 400,
+   "cap": 14.5,
+   "baseline": 23,
+   "tracking": 0.8,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "align": "center",
+   "pad": [
+    8,
+    0,
+    8,
+    0
+   ],
+   "dx": 2,
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#E4E7E7",
+     "blur": 1.2,
+     "opacity": 0.55
+    },
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#E4E7E7",
+     "blur": 3.5,
+     "opacity": 0.75
+    }
+   ]
+  },
+  {
+   "box": [
+    0,
+    32,
+    256,
+    24
+   ],
+   "erase": "solid:#7A818000",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    44,
+    246,
+    12
+   ],
+   "erase": "none",
+   "text": "* Works with Medarot 7 AR cards",
+   "font": "sf",
+   "wght": 400,
+   "cap": 8,
+   "baseline": 54,
+   "fill": "#7A8180CF",
+   "stroke": null,
+   "align": "left",
+   "pad": 0
+  },
+  {
+   "box": [
+    35,
+    57,
+    197,
+    31
+   ],
+   "erase": "solid:#E4E7E700",
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    58,
+    206,
+    30
+   ],
+   "erase": "none",
+   "text": "to perform an action",
+   "font": "sf",
+   "wght": 400,
+   "cap": 13.5,
+   "baseline": 79,
+   "tracking": 0.3,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "align": "left",
+   "pad": [
+    9,
+    0,
+    5,
+    0
+   ],
+   "dx": 0,
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#E4E7E7",
+     "blur": 1.2,
+     "opacity": 0.55
+    },
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#E4E7E7",
+     "blur": 3.5,
+     "opacity": 0.75
+    }
+   ]
+  },
+  {
+   "box": [
+    0,
+    172,
+    40,
+    12
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    172,
+    40,
+    12
+   ],
+   "erase": "none",
+   "text": "Photo",
+   "font": "sf-cond-heavy",
+   "cap": 8.2,
+   "baseline": 182,
+   "fill": "#BDBDBD",
+   "stroke": "#00000036",
+   "stroke_w": 1.4,
+   "align": "center",
+   "pad": 0
+  },
+  {
+   "box": [
+    40,
+    172,
+    40,
+    12
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    40,
+    172,
+    40,
+    12
+   ],
+   "erase": "none",
+   "text": "Photo",
+   "font": "sf-cond-heavy",
+   "cap": 8.2,
+   "baseline": 182,
+   "fill": "#BDBDBD",
+   "stroke": "#00000036",
+   "stroke_w": 1.4,
+   "align": "center",
+   "pad": 0
+  },
+  {
+   "box": [
+    80,
+    172,
+    40,
+    12
+   ],
+   "erase": "solid:#3F3F3F00",
+   "text": ""
+  },
+  {
+   "box": [
+    80,
+    172,
+    40,
+    12
+   ],
+   "erase": "none",
+   "text": "Photo",
+   "font": "sf-cond-heavy",
+   "cap": 8.2,
+   "baseline": 182,
+   "fill": "#FFFFFF",
+   "stroke": "#3F3F3F36",
+   "stroke_w": 1.4,
+   "align": "center",
+   "pad": 0
+  },
+  {
+   "box": [
+    120,
+    172,
+    40,
+    12
+   ],
+   "erase": "solid:#3F3F3F00",
+   "text": ""
+  },
+  {
+   "box": [
+    120,
+    172,
+    40,
+    12
+   ],
+   "erase": "none",
+   "text": "Photo",
+   "font": "sf-cond-heavy",
+   "cap": 8.2,
+   "baseline": 182,
+   "fill": "#FFFFFF",
+   "stroke": "#3F3F3F36",
+   "stroke_w": 1.4,
+   "align": "center",
+   "pad": 0
+  }
+ ],
+ "protect": [
+  [
+   0,
+   88,
+   232,
+   3
+  ],
+  [
+   0,
+   166,
+   160,
+   6
+  ]
+ ]
+}

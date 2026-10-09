@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description85.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "27bdd8629217",
+   "t": "{{speed}} (est.)"
+  },
+  {
+   "i": 11,
+   "src": "bc8bbe72bceb",
+   "t": "<c:ffff00>{{robattle_style|cap}}<c> que prioriza la {{mobility}}.\n\n<c:ffff00>Rendimientos<c> que suben:\n  <c:ffff00>{{prep}}<c> +8, <c:ffff00>{{cooldown}}<c> +8, <c:ffff00>{{mobility}}<c> +8\n\n{{condition_rotation|cap}} de subida de la <c:ffff00>{{charge_gauge}}<c>:\n+5% por cada <c:ffff00>{{evade}}<c> exitosa."
+  }
+ ]
+}

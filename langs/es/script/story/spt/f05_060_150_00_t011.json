@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f05_060_150_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "ba61db1f2ba5",
+   "t": "Los dormitorios de chicas, eh."
+  },
+  {
+   "i": 1038,
+   "src": "f1318aa72898",
+   "t": "Cuánto tiempo sin verlos."
+  },
+  {
+   "i": 1045,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1051,
+   "src": "44c4fa2de7a3",
+   "t": "¿...?"
+  }
+ ]
+}

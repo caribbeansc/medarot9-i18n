@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2f2_140_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1038,
+   "src": "fa18722adee5",
+   "t": "Ya viene el torneo."
+  },
+  {
+   "i": 1041,
+   "src": "becb2ed535a0",
+   "t": "¡Este año ganamos seguro!"
+  },
+  {
+   "i": 1049,
+   "src": "ab01971d1187",
+   "t": "Eso es lo que me gustaría decir,"
+  },
+  {
+   "i": 1052,
+   "src": "4c7d0a6d26ad",
+   "t": "pero esos del {{rescue_club}}..."
+  },
+  {
+   "i": 1060,
+   "src": "c80e315ac830",
+   "t": "El año pasado nos aplastaron."
+  },
+  {
+   "i": 1063,
+   "src": "903b42f8b0bf",
+   "t": "Tanta diferencia que ni me enojé."
+  }
+ ]
+}

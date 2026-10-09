@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/free03_01_02_04_t031.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1037,
+   "src": "ee783d632228",
+   "t": "¡¡¡¡¡¡Araña!!!!!!"
+  },
+  {
+   "i": 1044,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1053,
+   "src": "6d0732d8dd85",
+   "t": "Cálmate, es solo un {{stray_medabot}}."
+  },
+  {
+   "i": 1061,
+   "src": "ec3a308d11f8",
+   "t": "¡Ahí viene!"
+  }
+ ]
+}

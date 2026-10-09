@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f08_140_339_00_t012.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "ccd439e37b77",
+   "t": "No, eso no tiene que ver."
+  },
+  {
+   "i": 1004,
+   "src": "b643abcb2e09",
+   "t": "¡Es porque es peligroso!"
+  },
+  {
+   "i": 1012,
+   "src": "007371a58481",
+   "t": "Mira, un derrumbe tapó el camino."
+  },
+  {
+   "i": 1015,
+   "src": "93a1bc211327",
+   "t": "¡¿Cómo vamos a volver ahora?!"
+  },
+  {
+   "i": 1023,
+   "src": "426a60c267c6",
+   "t": "Además se oye algo feo en los arbustos."
+  },
+  {
+   "i": 1026,
+   "src": "9693930bafdf",
+   "t": "¡¿Y si es un Medabot {{stray}} fuerte?!"
+  },
+  {
+   "i": 1034,
+   "src": "f9888300549a",
+   "t": "Si nos atacan ahora, seremos solo\nnosotros--"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_01_02_02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "880ef926458b",
+   "t": "Direction-wise it's northwest-- that\nway."
+  },
+  {
+   "i": 1038,
+   "src": "32c1adbe606b",
+   "t": "Let's look for a place to get through."
+  }
+ ]
+}

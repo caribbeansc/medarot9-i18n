@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_idol_153_s02_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "b91d3949b657",
+   "t": "No hay nada que pueda decir."
+  },
+  {
+   "i": 1041,
+   "src": "2f8178a599bc",
+   "t": "Lo siento."
+  },
+  {
+   "i": 1049,
+   "src": "436cc9d19511",
+   "t": "Pero en realidad, este..."
+  },
+  {
+   "i": 1052,
+   "src": "980aa6cf400b",
+   "t": "Este es el {{dormitory}} de chicas."
+  },
+  {
+   "i": 1060,
+   "src": "9e26c309a32c",
+   "t": "¿Cómo lograste llegar hasta aquí?"
+  },
+  {
+   "i": 1063,
+   "src": "2df3507e0d65",
+   "t": "¿Nadie te vio?"
+  },
+  {
+   "i": 1071,
+   "src": "5fa9a6239e63",
+   "t": "...Ah, no te estoy regañando."
+  },
+  {
+   "i": 1074,
+   "src": "7984b570f3c9",
+   "t": "Solo creo que tuviste suerte."
+  },
+  {
+   "i": 1082,
+   "src": "b2f0746a993a",
+   "t": "Si la encargada te hubiera visto,"
+  },
+  {
+   "i": 1085,
+   "src": "0af9f9f5046a",
+   "t": "seguro no habría acabado bien."
+  },
+  {
+   "i": 1093,
+   "src": "bcbb44aa1785",
+   "t": "No vuelvas nunca más, ¿está bien?"
+  }
+ ]
+}

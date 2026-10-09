@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/portal_m160_01.spt",
+ "lines": [
+  {
+   "i": 1549,
+   "src": "7d8d2ee30467",
+   "t": "It's closed."
+  },
+  {
+   "i": 1552,
+   "src": "4a4cf88f853d",
+   "t": "It seems to be locked."
+  },
+  {
+   "i": 1582,
+   "src": "7d8d2ee30467",
+   "t": "It's closed."
+  },
+  {
+   "i": 1585,
+   "src": "4a4cf88f853d",
+   "t": "It seems to be locked."
+  },
+  {
+   "i": 1618,
+   "src": "4600b8531dee",
+   "t": "Where should we go?"
+  }
+ ]
+}

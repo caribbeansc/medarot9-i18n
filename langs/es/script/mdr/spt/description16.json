@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description16.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0d14eac35ae5",
+   "t": "{{basic_rules|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "d9f31c9cb528",
+   "t": "Cada equipo participa con 3 <c:ffff00>{{medabot|pl}}<c> o menos, y\nambos eligen a uno de ellos como <c:ffff00>{{leader}}<c>.\n\nGana el equipo que primero deje <c:ffff00>{{knocked_out}}<c>\nal {{leader}} {{opponent}}.\n\nEl equipo ganador puede recibir del perdedor tantas\n<c:ffff00>{{part|pl}}<c> como {{medabot|pl}} haya dejado fuera de\ncombate."
+  }
+ ]
+}

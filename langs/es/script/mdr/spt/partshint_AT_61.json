@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_61.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fa36a9a65452",
+   "t": "<c:00ff00>Técnica:<c>Cuenta\nAtaque de {{fighting}} que\naplica {{countdown}}.\n<c:00ffff>{{status|cap}}:<c>{{countdown}}\nSe enciende la cuenta 3.\nCon cada ataque recibido\nbaja 1 y, al llegar a 0,\nqueda {{knocked_out}}."
+  }
+ ]
+}

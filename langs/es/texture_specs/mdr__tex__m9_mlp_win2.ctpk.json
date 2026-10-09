@@ -1,0 +1,233 @@
+{
+ "rel": "mdr/tex/m9_mlp_win2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "compact-rounded-heavy",
+  "cap": 6,
+  "fill": "#FFFFFF",
+  "stroke": "#000000",
+  "stroke_w": 1,
+  "pad": 0,
+  "crisp": 0.6,
+  "valign": "middle"
+ },
+ "items": [
+  {
+   "box": [
+    464,
+    109,
+    48,
+    9
+   ],
+   "text": "Nombre",
+   "baseline": 116,
+   "align": "left",
+   "pad": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "tracking": 0.4
+  },
+  {
+   "box": [
+    342,
+    119,
+    36,
+    9
+   ],
+   "text": "Historia",
+   "baseline": 127,
+   "align": "left",
+   "pad": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "tracking": 0
+  },
+  {
+   "box": [
+    380,
+    119,
+    29,
+    9
+   ],
+   "text": "Local",
+   "baseline": 127,
+   "align": "left",
+   "pad": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "tracking": 0.5
+  },
+  {
+   "box": [
+    410,
+    119,
+    41,
+    9
+   ],
+   "text": "En linea",
+   "baseline": 127,
+   "align": "left",
+   "pad": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "tracking": 0.5
+  },
+  {
+   "box": [
+    452,
+    119,
+    29,
+    9
+   ],
+   "text": "Total",
+   "baseline": 127,
+   "align": "left",
+   "pad": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "tracking": 0.5
+  },
+  {
+   "box": [
+    482,
+    119,
+    30,
+    9
+   ],
+   "text": "VS",
+   "baseline": 127,
+   "tracking": 0.5,
+   "align": "left",
+   "pad": [
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "box": [
+    55,
+    57,
+    13,
+    13
+   ],
+   "erase": "copy:76,57",
+   "text": ""
+  },
+  {
+   "box": [
+    100,
+    57,
+    13,
+    13
+   ],
+   "erase": "copy:76,57",
+   "text": ""
+  },
+  {
+   "box": [
+    55,
+    83,
+    13,
+    13
+   ],
+   "erase": "copy:76,83",
+   "text": ""
+  },
+  {
+   "box": [
+    100,
+    83,
+    13,
+    13
+   ],
+   "erase": "copy:76,83",
+   "text": ""
+  },
+  {
+   "box": [
+    57,
+    57,
+    19,
+    13
+   ],
+   "erase": "none",
+   "text": "Part.",
+   "cap": 7,
+   "font": "sf-cond-heavy",
+   "stroke": null,
+   "align": "left",
+   "pad": 0,
+   "crisp": 0.6,
+   "tracking": 0.2
+  },
+  {
+   "box": [
+    102,
+    57,
+    22,
+    13
+   ],
+   "erase": "none",
+   "text": "Vic.",
+   "cap": 7,
+   "font": "sf-cond-heavy",
+   "stroke": null,
+   "align": "left",
+   "pad": 0,
+   "crisp": 0.6,
+   "tracking": 0.2
+  },
+  {
+   "box": [
+    57,
+    83,
+    19,
+    13
+   ],
+   "erase": "none",
+   "text": "Part.",
+   "cap": 7,
+   "font": "sf-cond-heavy",
+   "stroke": null,
+   "align": "left",
+   "pad": 0,
+   "crisp": 0.6,
+   "tracking": 0.2
+  },
+  {
+   "box": [
+    102,
+    83,
+    22,
+    13
+   ],
+   "erase": "none",
+   "text": "Vic.",
+   "cap": 7,
+   "font": "sf-cond-heavy",
+   "stroke": null,
+   "align": "left",
+   "pad": 0,
+   "crisp": 0.6,
+   "tracking": 0.2
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/y_npc_m2a2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "49a78514fc0e",
+   "t": "{{kagetora}}"
+  },
+  {
+   "i": 1035,
+   "src": "28f1edcc8005",
+   "t": "I can't right now, sorry..."
+  }
+ ]
+}

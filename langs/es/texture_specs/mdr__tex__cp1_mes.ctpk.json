@@ -1,0 +1,39 @@
+{
+ "rel": "mdr/tex/cp1_mes.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    402,
+    50,
+    92,
+    14
+   ],
+   "erase_box": [
+    400,
+    48,
+    96,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Esperando comando",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": "#F4FAF8",
+   "strokes": [
+    {
+     "color": "#06825CD0",
+     "w": 1
+    },
+    {
+     "color": "#06825C60",
+     "w": 1
+    }
+   ],
+   "pad": 0,
+   "align": "center",
+   "crisp": 0.9,
+   "baseline": 59
+  }
+ ]
+}

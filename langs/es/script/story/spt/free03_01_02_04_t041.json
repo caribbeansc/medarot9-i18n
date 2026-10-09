@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free03_01_02_04_t041.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "92a914ee3bb9",
+   "t": "Uf..."
+  },
+  {
+   "i": 1054,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1063,
+   "src": "f2ecc34d9c31",
+   "t": "Bien, con eso terminamos la {{mission}} de"
+  },
+  {
+   "i": 1066,
+   "src": "9bf44bc85067",
+   "t": "exterminio de arañas. Volvamos."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/mlp_wm.spt",
+ "lines": [
+  {
+   "i": 1210,
+   "src": "071d5d8596d5",
+   "t": "You will be disconnected\nif you press the HOME menu\nduring your Robattle match."
+  },
+  {
+   "i": 1487,
+   "src": "4b8c97ada080",
+   "t": "Verify if everyone is using\nMedarot 9 update \"<c:ffC000>Ver1.1<c>\"\nhas been applied.\nYou can download the updated\nversion from the Nintendo Shop.\n<c:00B0f0>To verify which version you applied:<c>\nThe Title screen will display\n\"<c:ffC000>Ver.1.1<c>\" if it's updated."
+  },
+  {
+   "i": 2027,
+   "src": "18352f047d9c",
+   "t": " will be your opponent."
+  },
+  {
+   "i": 2223,
+   "src": "35f9656f5199",
+   "t": "Local match was canceled."
+  },
+  {
+   "i": 2284,
+   "src": "8da23e5bb198",
+   "t": "Rules and {{field}} settings\nselected."
+  }
+ ]
+}

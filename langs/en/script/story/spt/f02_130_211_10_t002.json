@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f02_130_211_10_t002.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "94ab0a635948",
+   "t": "The atmosphere here is quite different\nfrom the surface, isn't it?"
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "1b7a7f8d0e0c",
+   "t": "Yes."
+  },
+  {
+   "i": 1046,
+   "src": "b341e654cb9d",
+   "t": "Probably a research facility from back\nthen."
+  },
+  {
+   "i": 1054,
+   "src": "4aa3737e9dac",
+   "t": "Back then..."
+  },
+  {
+   "i": 1057,
+   "src": "a9f58a3cd2d3",
+   "t": "You said that earlier, too."
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1068,
+   "src": "6031142eb02a",
+   "t": "Oh, you didn't know?"
+  },
+  {
+   "i": 1071,
+   "src": "ebe73e71e89a",
+   "t": "This island used to have a {{medalia}} mine."
+  },
+  {
+   "i": 1079,
+   "src": "586a230b5f2c",
+   "t": "A {{medalia}} mine!"
+  },
+  {
+   "i": 1084,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1090,
+   "src": "670c2bb54963",
+   "t": "This academy was built "
+  },
+  {
+   "i": 1093,
+   "src": "06f0e006dd8d",
+   "t": "on the site of that mine."
+  },
+  {
+   "i": 1101,
+   "src": "5b8bf3e54094",
+   "t": "Back then big facilities dotted the\nisland,"
+  },
+  {
+   "i": 1104,
+   "src": "01bcc9260258",
+   "t": "but nearly all were razed without a\ntrace."
+  },
+  {
+   "i": 1112,
+   "src": "84e48d5d59ee",
+   "t": "Places like this, still in original form,"
+  },
+  {
+   "i": 1115,
+   "src": "c4187eb26611",
+   "t": "are almost gone."
+  },
+  {
+   "i": 1122,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1128,
+   "src": "826327f33b8c",
+   "t": "It's underground, after all."
+  },
+  {
+   "i": 1131,
+   "src": "7bb0d5c6692c",
+   "t": "Maybe it was forgotten and never\ndemolished."
+  },
+  {
+   "i": 1139,
+   "src": "0b2bfbea3b55",
+   "t": "A forgotten research facility..."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2f_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1038,
+   "src": "d30776aac004",
+   "t": "Hola. ¡Por favor ven al aula 3-B durante"
+  },
+  {
+   "i": 1041,
+   "src": "524715809c40",
+   "t": "el {{culture_festival}}!"
+  },
+  {
+   "i": 1049,
+   "src": "d46aa39cf609",
+   "t": "Haremos una proyección del filme."
+  },
+  {
+   "i": 1052,
+   "src": "d3bf18aea537",
+   "t": "¡Es el mejor en la historia del"
+  },
+  {
+   "i": 1060,
+   "src": "84896194052a",
+   "t": "Club de Cine! Por favor, por favor"
+  },
+  {
+   "i": 1063,
+   "src": "87f7c4927627",
+   "t": "ven a verla. ¡Sin falta!"
+  }
+ ]
+}

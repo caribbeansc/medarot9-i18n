@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f06_020_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "68946933a9e9",
+   "t": "¿Cómo va todo?"
+  },
+  {
+   "i": 1041,
+   "src": "1e34002c66d5",
+   "t": "¿Disfrutas las vacaciones de verano?"
+  },
+  {
+   "i": 1052,
+   "src": "8a290d06f025",
+   "t": "¡Por supuesto!"
+  },
+  {
+   "i": 1060,
+   "src": "20e8e4dcf7b2",
+   "t": "Ah, pero mis padres se preocuparon."
+  },
+  {
+   "i": 1063,
+   "src": "affef9d647eb",
+   "t": "Creían que volvería en verano."
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "ca2d13aba6d8",
+   "t": "En primero no se puede volver a casa\nhasta el invierno. Al pasar a segundo,"
+  },
+  {
+   "i": 1082,
+   "src": "caafe29687cb",
+   "t": "podrás volver también en verano."
+  },
+  {
+   "i": 1085,
+   "src": "dcebc356886e",
+   "t": "Aunque el tiempo sea corto."
+  },
+  {
+   "i": 1093,
+   "src": "6d1837fcb6a6",
+   "t": "Cierto, {{ryoma}}-san también volvió."
+  },
+  {
+   "i": 1096,
+   "src": "c2a9711458b1",
+   "t": "¿Qué tal estuvo?"
+  },
+  {
+   "i": 1101,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1107,
+   "src": "437d7ff30621",
+   "t": "Estuvo bien."
+  },
+  {
+   "i": 1115,
+   "src": "b8544f396e0c",
+   "t": "Solo me vi con mis padres, salí"
+  },
+  {
+   "i": 1118,
+   "src": "b5e694dabfb6",
+   "t": "y comí con mis amigos de mi pueblo--"
+  },
+  {
+   "i": 1125,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1131,
+   "src": "c575c2c39691",
+   "t": "Hola a todos."
+  }
+ ]
+}

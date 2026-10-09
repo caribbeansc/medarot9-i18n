@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_23.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e4269b7d7ee3",
+   "t": "<c:00ff00>Leg Trait:<c> {{auto_charge}}\nAfter each {{part}}'s action,\n{{charge_gauge}} +5%."
+  }
+ ]
+}

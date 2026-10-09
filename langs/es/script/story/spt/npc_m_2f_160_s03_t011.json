@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2f_160_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1035,
+   "src": "65af1bfd3b39",
+   "t": "El artista va aquí, ¿cierto?"
+  },
+  {
+   "i": 1038,
+   "src": "be79b1d88e4d",
+   "t": "La cámara junto a la palmera, así-"
+  },
+  {
+   "i": 1046,
+   "src": "afd98a453e8d",
+   "t": "Mira, mira, justo en este momento, el"
+  },
+  {
+   "i": 1049,
+   "src": "4aa92c771713",
+   "t": "sol del atardecer creará la silueta"
+  },
+  {
+   "i": 1057,
+   "src": "37976a1bb21e",
+   "t": "perfecta. ¿No es perfecto? ¡Mejor"
+  },
+  {
+   "i": 1060,
+   "src": "4ea3ee12156d",
+   "t": "aprobemos este plan de una vez!"
+  }
+ ]
+}

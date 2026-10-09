@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/wm_func.spt",
+ "lines": [
+  {
+   "i": 1229,
+   "src": "16cccbf71b7d",
+   "t": "You have been disconnected. "
+  },
+  {
+   "i": 1238,
+   "src": "cf0cb48c04e4",
+   "t": "Because your wifi is OFF,\nyou cannot connect.\n\nSlide the wifi switch\nto ON to connect."
+  },
+  {
+   "i": 1242,
+   "src": "6e8a0e969606",
+   "t": "You have been disconnected."
+  }
+ ]
+}

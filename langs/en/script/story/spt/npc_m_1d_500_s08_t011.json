@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_m_1d_500_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "6f6e3ced34a5",
+   "t": "No matter how easy they say it is to get,"
+  },
+  {
+   "i": 1041,
+   "src": "bcb3306504d8",
+   "t": "finding good {{medalia}} is tough."
+  },
+  {
+   "i": 1049,
+   "src": "6a5582edb4ba",
+   "t": "They're in places hard to get to,"
+  },
+  {
+   "i": 1052,
+   "src": "89801a29741d",
+   "t": "or strong {{stray}} Medabots are holding\nthem."
+  },
+  {
+   "i": 1060,
+   "src": "efc4fdc132f9",
+   "t": "But if I don't work hard to collect them,"
+  },
+  {
+   "i": 1063,
+   "src": "6549bcc0de66",
+   "t": "I'll lose even more in {{robattle|pl}}..."
+  },
+  {
+   "i": 1071,
+   "src": "2f2ee2edc5be",
+   "t": "Thanks for meddling, {{exploration_club}}!"
+  },
+  {
+   "i": 1079,
+   "src": "0d3ad291e8bf",
+   "t": "I mean, just a little."
+  },
+  {
+   "i": 1082,
+   "src": "bd1a4d94a386",
+   "t": "I can't help thinking it."
+  }
+ ]
+}

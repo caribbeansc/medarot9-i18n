@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f01_055_150_00_t012.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1042,
+   "src": "dec44fd48796",
+   "t": "I told you to stop already!"
+  },
+  {
+   "i": 1049,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1055,
+   "src": "2e4443bab5db",
+   "t": "But..."
+  },
+  {
+   "i": 1069,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1075,
+   "src": "b0950727924c",
+   "t": "Thanks for worrying. But it's"
+  },
+  {
+   "i": 1078,
+   "src": "b9bfecbb7040",
+   "t": "none of your business now! Leave me\nalone!"
+  },
+  {
+   "i": 1086,
+   "src": "506ddbfda411",
+   "t": "Let's go, "
+  },
+  {
+   "i": 1088,
+   "src": "7d9d809ecbf1",
+   "t": ""
+  }
+ ]
+}

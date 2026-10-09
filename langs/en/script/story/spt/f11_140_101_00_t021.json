@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f11_140_101_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "011fa709183e",
+   "t": "So it was the same type as that guy"
+  },
+  {
+   "i": 1035,
+   "src": "e2e24becb560",
+   "t": "we fought at the lighthouse, huh."
+  },
+  {
+   "i": 1046,
+   "src": "7ed4adad65f6",
+   "t": "We already know their weakness."
+  },
+  {
+   "i": 1059,
+   "src": "19296e9d9657",
+   "t": "They're no match for us!"
+  },
+  {
+   "i": 1066,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1072,
+   "src": "05b318e7b5a4",
+   "t": "...Good."
+  },
+  {
+   "i": 1080,
+   "src": "c6377858b7de",
+   "t": "As you can see, Einbecker."
+  },
+  {
+   "i": 1083,
+   "src": "7b6a62836a66",
+   "t": "Once you know them, they aren't that\nstrong."
+  },
+  {
+   "i": 1091,
+   "src": "a49b68767ae4",
+   "t": "Go to the dormitory and, with the\nResearch Club,"
+  },
+  {
+   "i": 1094,
+   "src": "ec1784a0da5e",
+   "t": "hold off the ones coming from the back\ngate."
+  },
+  {
+   "i": 1101,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1107,
+   "src": "a0c57b8fcd5f",
+   "t": "What about here?"
+  },
+  {
+   "i": 1114,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1120,
+   "src": "a1989288fc94",
+   "t": "We'll handle it."
+  },
+  {
+   "i": 1135,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1143,
+   "src": "6e4764cb7fd9",
+   "t": "Understood."
+  }
+ ]
+}

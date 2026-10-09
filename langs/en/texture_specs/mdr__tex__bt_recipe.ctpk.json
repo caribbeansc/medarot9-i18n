@@ -1,0 +1,84 @@
+{
+ "rel": "mdr/tex/bt_recipe.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf",
+  "cap": 13.5,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "align": "center",
+  "valign": "middle",
+  "pad": 0,
+  "shadow": {
+   "dx": 0,
+   "dy": 0,
+   "color": "#000000",
+   "blur": 1.5,
+   "opacity": 0.7
+  }
+ },
+ "items": [
+  {
+   "box": [
+    60,
+    7,
+    45,
+    29
+   ],
+   "erase": "copy:12,7",
+   "text": ""
+  },
+  {
+   "box": [
+    105,
+    7,
+    45,
+    29
+   ],
+   "erase": "copy:12,7",
+   "text": ""
+  },
+  {
+   "box": [
+    60,
+    47,
+    45,
+    29
+   ],
+   "erase": "copy:12,47",
+   "text": ""
+  },
+  {
+   "box": [
+    105,
+    47,
+    45,
+    29
+   ],
+   "erase": "copy:12,47",
+   "text": ""
+  },
+  {
+   "box": [
+    16,
+    8,
+    176,
+    27
+   ],
+   "erase": "none",
+   "text": "Make Recipe",
+   "baseline": 27
+  },
+  {
+   "box": [
+    16,
+    48,
+    176,
+    27
+   ],
+   "erase": "none",
+   "text": "Make Recipe",
+   "baseline": 67
+  }
+ ]
+}

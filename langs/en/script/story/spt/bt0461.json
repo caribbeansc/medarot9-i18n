@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0461.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 872,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 875,
+   "src": "19f77161394b",
+   "t": "I'll be your {{opponent}}."
+  }
+ ]
+}

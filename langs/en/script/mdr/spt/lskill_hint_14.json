@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_14.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8015c4dcaec7",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>{{leader_charge}}\nThe team's CG is pooled into the {{leader}}\n"
+  }
+ ]
+}

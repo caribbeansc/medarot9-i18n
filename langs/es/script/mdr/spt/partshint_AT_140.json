@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_140.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "31aa4412f86c",
+   "t": "<c:00ff00>Técnica:<c>{{counter_action}}\n{{guard}} contra ataques de\n{{fighting}} a aliados. Al\ninterceptar, anula el {{damage}}\nde {{fighting}} y lo devuelve\ncon el mismo poder de\nataque. Termina si los\naliados actúan 4 veces o\npasa cierto tiempo."
+  }
+ ]
+}

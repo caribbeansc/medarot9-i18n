@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc04_110_s06_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "d396084272a4",
+   "t": "Yo me quedo. No es montar guardia,"
+  },
+  {
+   "i": 1041,
+   "src": "740570c3e647",
+   "t": "pero ya sabes... por si acaso."
+  },
+  {
+   "i": 1049,
+   "src": "71b9134ceb77",
+   "t": "Si algo se acerca, te aviso."
+  },
+  {
+   "i": 1052,
+   "src": "9e239f02a71c",
+   "t": "Tú haz lo que quieras."
+  }
+ ]
+}

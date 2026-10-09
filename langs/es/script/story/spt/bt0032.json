@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0032.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 872,
+   "src": "5e92493e02d0",
+   "t": "Jeje, es el {{exploration_club}}."
+  },
+  {
+   "i": 875,
+   "src": "ce51aeef44ae",
+   "t": "Qué suerte."
+  }
+ ]
+}

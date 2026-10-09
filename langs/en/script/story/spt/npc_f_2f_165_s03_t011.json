@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_f_2f_165_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1035,
+   "src": "96983a8e9051",
+   "t": "Oh no!"
+  },
+  {
+   "i": 1038,
+   "src": "cb42d26c0574",
+   "t": "I'm late! This is terrible!"
+  },
+  {
+   "i": 1059,
+   "src": "1ceacda0445d",
+   "t": "W-what do you need? The club\nmembers"
+  },
+  {
+   "i": 1062,
+   "src": "2259a8c8b5b9",
+   "t": "are all shopping at the harbor right now."
+  },
+  {
+   "i": 1070,
+   "src": "182a16b71ce5",
+   "t": "They won't be back for a while, and\nthen"
+  },
+  {
+   "i": 1073,
+   "src": "ad285d482e79",
+   "t": "we're heading straight to outdoor\ntraining--"
+  },
+  {
+   "i": 1091,
+   "src": "c1128f9cfc19",
+   "t": "Eek!"
+  },
+  {
+   "i": 1094,
+   "src": "e1f5935815a6",
+   "t": "So I have to hurry too!"
+  },
+  {
+   "i": 1102,
+   "src": "3cd7892d152d",
+   "t": "Excuse me!!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_89.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "50a3896f2e19",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nCarta Oculta\nAl iniciar la {{robattle}}\nsuma a los {{uses}} de las\n{{part|pl}} de {{head}} la {{part}}\nsin usar del cupo\npermitido de Límite\nPesado."
+  }
+ ]
+}

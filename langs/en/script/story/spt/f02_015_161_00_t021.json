@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f02_015_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "77a7ffffa08a",
+   "t": "Well, that should do it."
+  },
+  {
+   "i": 1045,
+   "src": "c68d982f5b16",
+   "t": "Okay, all set."
+  },
+  {
+   "i": 1063,
+   "src": "1e59fa0bcec7",
+   "t": "So, this is the {{part_box}}. "
+  },
+  {
+   "i": 1066,
+   "src": "dbf7aa87aaa9",
+   "t": "It lets {{club}} members share {{part|pl}}."
+  },
+  {
+   "i": 1074,
+   "src": "38fbfc173191",
+   "t": "Keep the {{part|pl}} for {{club_activities}} in here,"
+  },
+  {
+   "i": 1077,
+   "src": "db688f9433da",
+   "t": "and transfer them right before a\n{{robattle}}."
+  },
+  {
+   "i": 1085,
+   "src": "7007fe9ae4fb",
+   "t": "{{part|pl|cap}} you {{obtain}} are sent here\nautomatically,"
+  },
+  {
+   "i": 1088,
+   "src": "0a793f58283b",
+   "t": "so you don't need to do anything at the\nbox."
+  },
+  {
+   "i": 1096,
+   "src": "33e81d1b8029",
+   "t": "And also, um..."
+  },
+  {
+   "i": 1104,
+   "src": "d6ed8e67375d",
+   "t": "Here, your allowance."
+  },
+  {
+   "i": 1112,
+   "src": "4edf4a22891d",
+   "t": "...Huh?"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_58.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a69f19d21128",
+   "t": "<c:00ff00>Técnica:<c>Recarga\nAtaque cuerpo a cuerpo\nque reduce la carga del\n{{opponent}} según el {{damage}}\ncausado."
+  }
+ ]
+}

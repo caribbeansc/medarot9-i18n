@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3e2_150_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1038,
+   "src": "083078d46d96",
+   "t": "I'll give you a warning, just in case."
+  },
+  {
+   "i": 1041,
+   "src": "6322a2c59a49",
+   "t": "The road ahead goes straight on, but..."
+  },
+  {
+   "i": 1049,
+   "src": "8573e315174a",
+   "t": "It's pointless to go."
+  },
+  {
+   "i": 1052,
+   "src": "babec9ef638b",
+   "t": "There's nothing there at all."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/bt0029.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "b756b29efe5d",
+   "t": "{{stray_medabot}}"
+  },
+  {
+   "i": 864,
+   "src": "6cd350517b79",
+   "t": "Dark Battle"
+  },
+  {
+   "i": 867,
+   "src": "1301f31b5234",
+   "t": "Dark Battle\nStarts in {{stealth}} state"
+  },
+  {
+   "i": 881,
+   "src": "8e3d696aa215",
+   "t": "Darkness... I like it..."
+  }
+ ]
+}

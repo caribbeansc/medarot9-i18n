@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1a_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1038,
+   "src": "e687ce3e19e1",
+   "t": "The {{culture_festival}}, huh."
+  },
+  {
+   "i": 1046,
+   "src": "bd5240117fa9",
+   "t": "...Oh, did I mention this before?"
+  },
+  {
+   "i": 1049,
+   "src": "be8dc08c706e",
+   "t": "You know, that super popular girl, {{saika}}."
+  },
+  {
+   "i": 1057,
+   "src": "38ffc6f527fa",
+   "t": "Looks like our senpai all got turned\ndown together."
+  },
+  {
+   "i": 1060,
+   "src": "50b8d784dedf",
+   "t": "They got depressed together, and\nrecovered together."
+  },
+  {
+   "i": 1068,
+   "src": "7117389a04f8",
+   "t": "Man, I'm glad they went back to normal."
+  },
+  {
+   "i": 1071,
+   "src": "29c771add180",
+   "t": "It's a little sad for them, though.\nHahaha."
+  }
+ ]
+}

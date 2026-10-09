@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free06_01_03_02_t012.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1042,
+   "src": "ce8033ac8587",
+   "t": "I can see the sea..."
+  },
+  {
+   "i": 1062,
+   "src": "e55ee348a264",
+   "t": "How pretty!"
+  },
+  {
+   "i": 1065,
+   "src": "665551893ef0",
+   "t": "This place should get us a good sound,\nahaha."
+  },
+  {
+   "i": 1073,
+   "src": "187d6ff29116",
+   "t": "...Hm?"
+  },
+  {
+   "i": 1078,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1084,
+   "src": "44794b407b41",
+   "t": "What's that sound?"
+  }
+ ]
+}

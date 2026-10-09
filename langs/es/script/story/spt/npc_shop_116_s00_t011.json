@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_shop_116_s00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5c1c534b59da",
+   "t": "{{shopkeeper}}"
+  },
+  {
+   "i": 1035,
+   "src": "e13ddea8d95a",
+   "t": "Bienvenido!"
+  },
+  {
+   "i": 1045,
+   "src": "c167617e7c07",
+   "t": "{{shaman_miko}}"
+  },
+  {
+   "i": 1051,
+   "src": "f0e05b5501ea",
+   "t": "¡Haga su pedido!           "
+  }
+ ]
+}

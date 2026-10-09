@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_11.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b75a0e530ec5",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>{{rash_misstep}}\nThe Enemies team first supportive actions\nwill always fail\n"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_38.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "f002244a0b38",
+   "t": "<c:00ff00>{{mf}}:<c>{{burn}}\nLos ataques cuerpo a\ncuerpo de todo tu equipo\ncausan {{damage_over_time}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_01_001.spt",
+ "lines": [
+  {
+   "i": 1083,
+   "src": "5fcb44005397",
+   "t": "Puedes prever el orden de acción\nen la <c:ff00ff>pantalla de campo<c> de abajo.  "
+  },
+  {
+   "i": 1097,
+   "src": "b666cc440c38",
+   "t": "Mi {{medabot}} aparece a la izquierda\ny el {{opponent}}, a la derecha.          "
+  },
+  {
+   "i": 1102,
+   "src": "1ad38837d74b",
+   "t": "Para usar una \"técnica\" hace falta un\ntiempo de preparación llamado \"<c:ff00ff>{{prep}}<c>\".                              "
+  },
+  {
+   "i": 1119,
+   "src": "ad477e54435e",
+   "t": "La barra azul sube al dar el comando\ne indica el tiempo de preparación.                      "
+  }
+ ]
+}

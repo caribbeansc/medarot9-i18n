@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_38.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "958490d8ca08",
+   "t": "<c:00ff00>Leg Trait:<c> {{accel}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"{{mobile_boost}}\"."
+  }
+ ]
+}

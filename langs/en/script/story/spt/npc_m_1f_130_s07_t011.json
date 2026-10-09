@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_1f_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "f431e7737400",
+   "t": "The senpai are taking it easy,"
+  },
+  {
+   "i": 1038,
+   "src": "6241a3a6e519",
+   "t": "shouldn't we start preparing soon..."
+  },
+  {
+   "i": 1046,
+   "src": "cdcc99270537",
+   "t": "Even if it's a simple food stall,"
+  },
+  {
+   "i": 1049,
+   "src": "dc186d7095df",
+   "t": "there's a lot to do, like shopping--"
+  },
+  {
+   "i": 1070,
+   "src": "708bb4cb270d",
+   "t": "Ah... oh, you were talking to me?"
+  },
+  {
+   "i": 1073,
+   "src": "05fbe5477878",
+   "t": "I was spacing out and didn't notice."
+  },
+  {
+   "i": 1081,
+   "src": "8138f70e7407",
+   "t": "Being able to zone out in the middle of\na run"
+  },
+  {
+   "i": 1084,
+   "src": "8f2f510fa3c9",
+   "t": "means I've really grown. Wahaha."
+  }
+ ]
+}

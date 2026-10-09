@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_100_109_00_t021.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "019ff395de69",
+   "t": "A {{medal}}!"
+  },
+  {
+   "i": 1019,
+   "src": "e901b1fe0b90",
+   "t": "But..."
+  },
+  {
+   "i": 1027,
+   "src": "608158c1a256",
+   "t": "Something's off."
+  },
+  {
+   "i": 1030,
+   "src": "70c51aeaa201",
+   "t": "It's so smooth I can't even tell what\nkind of {{medal}} it is..."
+  },
+  {
+   "i": 1038,
+   "src": "d4c94c95b92e",
+   "t": "Could it be a {{fake_medal}}?"
+  },
+  {
+   "i": 1041,
+   "src": "62c11a250662",
+   "t": "Why would something like this be\nhere...?"
+  }
+ ]
+}

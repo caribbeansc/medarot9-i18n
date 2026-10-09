@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f05_050_116_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "8be17db8fc92",
+   "t": "Parece que {{main}}-chan es una estudiante\nmujer."
+  },
+  {
+   "i": 1046,
+   "src": "09e1ad4d459c",
+   "t": "{{mio}}, ¿la conoces?"
+  },
+  {
+   "i": 1054,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1063,
+   "src": "2bf23a6ad21c",
+   "t": "¿Quién sabe?"
+  },
+  {
+   "i": 1073,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1082,
+   "src": "51505e55b8db",
+   "t": "En todo caso, es estudiante aquí,"
+  },
+  {
+   "i": 1085,
+   "src": "01f5a9fac195",
+   "t": "así que vivirá en los dormitorios."
+  },
+  {
+   "i": 1095,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1101,
+   "src": "8890b141e8d9",
+   "t": "Una niña prodigio, eh."
+  },
+  {
+   "i": 1104,
+   "src": "5faf7c73af4c",
+   "t": "Tengo que conocerla a como dé lugar."
+  }
+ ]
+}

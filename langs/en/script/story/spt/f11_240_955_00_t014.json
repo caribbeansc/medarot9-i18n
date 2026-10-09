@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f11_240_955_00_t014.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "afb7dca98787",
+   "t": ""
+  },
+  {
+   "i": 1053,
+   "src": "dc23339bb0da",
+   "t": "If we were going to be controlled, we'd\nhave been controlled ages ago."
+  },
+  {
+   "i": 1069,
+   "src": "376434d0a87b",
+   "t": "That's right."
+  },
+  {
+   "i": 1072,
+   "src": "1e2e8064325a",
+   "t": "But nothing's wrong with us."
+  },
+  {
+   "i": 1086,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1092,
+   "src": "9f307c571a55",
+   "t": "T-true, that's right..."
+  },
+  {
+   "i": 1095,
+   "src": "8b152393c9b2",
+   "t": "But why?"
+  },
+  {
+   "i": 1125,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1132,
+   "src": "afb7dca98787",
+   "t": ""
+  },
+  {
+   "i": 1148,
+   "src": "4b5dfe3a00f0",
+   "t": "Don't worry, {{master}}."
+  },
+  {
+   "i": 1151,
+   "src": "537c60fe37b8",
+   "t": "We'll be fine!"
+  },
+  {
+   "i": 1165,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1171,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1178,
+   "src": "f71322c5c57d",
+   "t": "{{principal}}"
+  },
+  {
+   "i": 1184,
+   "src": "891a6f0f8b93",
+   "t": "So there you have it."
+  }
+ ]
+}

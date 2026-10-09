@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description18.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "47ed0c27252b",
+   "t": "{{time_limit|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "b2363c81f2e5",
+   "t": "Lapso de tiempo desde el inicio hasta el final de la\n<c:ffff00>{{robattle}}<c>.\n\nCon el paso del tiempo la cuenta baja; al llegar a 0\nse acaba el tiempo y se emite el <c:ffff00>veredicto<c>.\n\nSi el {{time_limit}} es infinito, nunca se acaba el\ntiempo."
+  }
+ ]
+}

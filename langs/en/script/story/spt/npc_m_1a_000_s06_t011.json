@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_m_1a_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0cd5e5f7664b",
+   "t": "{{taketsuru}}"
+  },
+  {
+   "i": 1038,
+   "src": "673d2a8905ce",
+   "t": "Do you know a girl named {{saika}}?"
+  },
+  {
+   "i": 1041,
+   "src": "c1810451ce72",
+   "t": "Huh, she's in your {{class}}?"
+  },
+  {
+   "i": 1049,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1052,
+   "src": "7a39ccb787ad",
+   "t": "Lately our senpai have been acting\nweird."
+  },
+  {
+   "i": 1060,
+   "src": "8d38ae39299e",
+   "t": "Like they can't focus on practice,"
+  },
+  {
+   "i": 1063,
+   "src": "b38e289d5056",
+   "t": "or they're obsessed with {{robattle|pl}}..."
+  },
+  {
+   "i": 1071,
+   "src": "3bf312cbf091",
+   "t": "She seems to be the cause."
+  },
+  {
+   "i": 1074,
+   "src": "10246e71a71d",
+   "t": "I still don't really get it, though..."
+  },
+  {
+   "i": 1082,
+   "src": "bf21526ac9df",
+   "t": "Well, sure, she's cute."
+  },
+  {
+   "i": 1085,
+   "src": "ba436787338d",
+   "t": "But I can't tell what she's thinking, so\nshe's not my type."
+  }
+ ]
+}

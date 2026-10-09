@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_248.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "793859eedfb5",
+   "t": "{{medabot}} reloj formado\npor relojes de todo {{type}}.\n \nSus brazos pendulares\nmarcan el tiempo y la\npaloma de su {{head_part_slot}}\nanuncia la hora. Retro,\npero resistente al agua\nincluso sumergido."
+  }
+ ]
+}

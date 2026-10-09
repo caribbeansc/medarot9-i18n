@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_02_008.spt",
+ "lines": [
+  {
+   "i": 1319,
+   "src": "186833e3d05c",
+   "t": "Time to pick an {{attack_part}}!              "
+  },
+  {
+   "i": 1351,
+   "src": "2fe8b7267497",
+   "t": "Let's pick an {{attack_part}}!          "
+  },
+  {
+   "i": 2091,
+   "src": "6aba988dbadd",
+   "t": "Aim for the {{leader}}!"
+  },
+  {
+   "i": 2108,
+   "src": "6aba988dbadd",
+   "t": "Aim for the {{leader}}!"
+  }
+ ]
+}

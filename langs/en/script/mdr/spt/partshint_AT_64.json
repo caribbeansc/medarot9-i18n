@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_64.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bb0cfa67742c",
+   "t": "<c:00ff00>Action:<c> {{anti_air}}\nA melee attack that deals\nbig {{damage}} if the\n{{opponent}}'s {{leg_part}} is a\n{{flying}} type.\nHas piercing."
+  }
+ ]
+}

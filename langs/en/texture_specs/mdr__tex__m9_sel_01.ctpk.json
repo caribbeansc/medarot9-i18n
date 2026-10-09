@@ -1,0 +1,843 @@
+{
+ "rel": "mdr/tex/m9_sel_01.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 7.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000B0",
+   "stroke_w": 0.6,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "center",
+   "valign": "middle",
+   "box": [
+    161,
+    0,
+    32,
+    15
+   ],
+   "text": "Medal"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 7.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000B0",
+   "stroke_w": 0.6,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "center",
+   "valign": "middle",
+   "box": [
+    194,
+    0,
+    32,
+    15
+   ],
+   "text": "Parts"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 7.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000B0",
+   "stroke_w": 0.6,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "center",
+   "valign": "middle",
+   "box": [
+    227,
+    0,
+    46,
+    15
+   ],
+   "text": "EX-Parts"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond",
+   "cap": 7.5,
+   "fill": "#FFFFFF",
+   "stroke": "#000000B0",
+   "stroke_w": 0.6,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "center",
+   "valign": "middle",
+   "box": [
+    274,
+    0,
+    47,
+    15
+   ],
+   "text": "Presets"
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "HEAD",
+   "box": [
+    322,
+    0,
+    32,
+    12
+   ],
+   "baseline": 8,
+   "erase": "hfill",
+   "erase_box": [
+    328,
+    0,
+    20,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "R-ARM",
+   "box": [
+    355,
+    0,
+    32,
+    12
+   ],
+   "baseline": 8,
+   "erase": "hfill",
+   "erase_box": [
+    360,
+    0,
+    21,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "L-ARM",
+   "box": [
+    388,
+    0,
+    32,
+    12
+   ],
+   "baseline": 8,
+   "erase": "hfill",
+   "erase_box": [
+    393,
+    0,
+    21,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "LEGS",
+   "box": [
+    421,
+    0,
+    32,
+    12
+   ],
+   "baseline": 8,
+   "erase": "hfill",
+   "erase_box": [
+    424,
+    0,
+    25,
+    12
+   ]
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    3,
+    54,
+    21,
+    12
+   ],
+   "box": [
+    3,
+    54,
+    21,
+    12
+   ],
+   "text": ""
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "DRIVE A",
+   "box": [
+    0,
+    88,
+    28,
+    12
+   ],
+   "baseline": 96,
+   "erase": "copy:0,54",
+   "erase_box": [
+    0,
+    88,
+    28,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "DRIVE B",
+   "box": [
+    0,
+    100,
+    28,
+    12
+   ],
+   "baseline": 108,
+   "erase": "copy:0,54",
+   "erase_box": [
+    0,
+    100,
+    28,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "DRIVE C",
+   "box": [
+    0,
+    112,
+    28,
+    12
+   ],
+   "baseline": 120,
+   "erase": "copy:0,54",
+   "erase_box": [
+    0,
+    112,
+    28,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "R-ARM",
+   "box": [
+    0,
+    54,
+    28,
+    12
+   ],
+   "baseline": 62,
+   "erase": "none"
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "L-ARM",
+   "box": [
+    33,
+    54,
+    28,
+    12
+   ],
+   "baseline": 62,
+   "erase": "hfill",
+   "erase_box": [
+    36,
+    54,
+    21,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "LEGS",
+   "box": [
+    66,
+    54,
+    28,
+    12
+   ],
+   "baseline": 62,
+   "erase": "hfill",
+   "erase_box": [
+    68,
+    54,
+    24,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "MOVE",
+   "box": [
+    0,
+    124,
+    28,
+    12
+   ],
+   "baseline": 132,
+   "erase": "hfill",
+   "erase_box": [
+    3,
+    124,
+    20,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "HEAD",
+   "box": [
+    4,
+    21,
+    26,
+    10
+   ],
+   "baseline": 28,
+   "erase": "hfill",
+   "erase_box": [
+    8,
+    21,
+    20,
+    10
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "CHG. TYPE",
+   "box": [
+    162,
+    105,
+    41,
+    12
+   ],
+   "baseline": 113,
+   "erase": "hfill",
+   "erase_box": [
+    163,
+    105,
+    39,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "CHG. TYPE",
+   "box": [
+    162,
+    122,
+    41,
+    12
+   ],
+   "baseline": 130,
+   "erase": "hfill",
+   "erase_box": [
+    163,
+    122,
+    39,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "MEDALIA",
+   "box": [
+    337,
+    110,
+    31,
+    12
+   ],
+   "baseline": 118,
+   "erase": "hfill",
+   "erase_box": [
+    339,
+    110,
+    27,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "CHG. TYPE",
+   "box": [
+    302,
+    165,
+    41,
+    12
+   ],
+   "baseline": 173,
+   "erase": "hfill",
+   "erase_box": [
+    303,
+    165,
+    39,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "MEDALIA",
+   "box": [
+    302,
+    179,
+    32,
+    12
+   ],
+   "baseline": 187,
+   "erase": "hfill",
+   "erase_box": [
+    304,
+    179,
+    27,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "MEDALIA",
+   "box": [
+    302,
+    193,
+    32,
+    12
+   ],
+   "baseline": 201,
+   "erase": "hfill",
+   "erase_box": [
+    304,
+    193,
+    27,
+    12
+   ]
+  },
+  {
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "MEDALIA",
+   "box": [
+    302,
+    207,
+    32,
+    12
+   ],
+   "baseline": 215,
+   "erase": "hfill",
+   "erase_box": [
+    304,
+    207,
+    27,
+    12
+   ]
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "SUCC.",
+   "box": [
+    447,
+    16,
+    21,
+    11
+   ],
+   "baseline": 24
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "POW.",
+   "box": [
+    447,
+    28,
+    21,
+    11
+   ],
+   "baseline": 36
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "PREP",
+   "box": [
+    447,
+    40,
+    21,
+    11
+   ],
+   "baseline": 48
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "COOL.",
+   "box": [
+    447,
+    52,
+    21,
+    11
+   ],
+   "baseline": 60
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "MOBIL.",
+   "box": [
+    438,
+    64,
+    21,
+    11
+   ],
+   "baseline": 72
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "FIGHT",
+   "box": [
+    438,
+    76,
+    21,
+    11
+   ],
+   "baseline": 84
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "SHOOT",
+   "box": [
+    438,
+    88,
+    21,
+    11
+   ],
+   "baseline": 96
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "ARMOR",
+   "box": [
+    416,
+    57,
+    23,
+    6
+   ],
+   "baseline": 63
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    158,
+    24,
+    35,
+    9
+   ],
+   "box": [
+    159,
+    24,
+    31,
+    9
+   ],
+   "text": "Model",
+   "font": "sf-compressed",
+   "cap": 7,
+   "fill": "#101010",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.6,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "erase": "solid:#000000",
+   "erase_box": [
+    168,
+    47,
+    235,
+    13
+   ],
+   "box": [
+    168,
+    47,
+    235,
+    13
+   ],
+   "text": "Only the leader can use this in Robattle",
+   "font": "tahoma",
+   "cap": 7,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.5,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "erase": "transparent",
+   "box": [
+    145,
+    138,
+    43,
+    10
+   ],
+   "text": "L.EFFECT",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "baseline": 145
+  },
+  {
+   "erase": "hfill",
+   "font": "sf-compressed",
+   "cap": 7.5,
+   "fill": "#4ACF9B",
+   "stroke": "#0B2018B0",
+   "italic_skew": 0.15,
+   "pad": 0,
+   "crisp": 0.5,
+   "align": "left",
+   "valign": "middle",
+   "text": "Medal",
+   "box": [
+    300,
+    153,
+    30,
+    9
+   ],
+   "erase_box": [
+    302,
+    152,
+    26,
+    10
+   ],
+   "baseline": 161,
+   "stroke_w": 0.5,
+   "tracking": 0.3
+  },
+  {
+   "erase": "hfill",
+   "font": "sf-compressed",
+   "cap": 7.5,
+   "fill": "#4ACF9B",
+   "stroke": "#0B2018B0",
+   "italic_skew": 0.15,
+   "pad": 0,
+   "crisp": 0.5,
+   "align": "left",
+   "valign": "middle",
+   "text": "Parts",
+   "box": [
+    300,
+    223,
+    30,
+    9
+   ],
+   "erase_box": [
+    302,
+    222,
+    26,
+    10
+   ],
+   "baseline": 231,
+   "stroke_w": 0.5,
+   "tracking": 0.3
+  }
+ ]
+}

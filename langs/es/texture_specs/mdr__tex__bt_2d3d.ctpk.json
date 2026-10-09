@@ -1,0 +1,36 @@
+{
+ "rel": "mdr/tex/bt_2d3d.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    1,
+    45,
+    12
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    2,
+    46,
+    10
+   ],
+   "erase": "none",
+   "text": "Cambiar cam.",
+   "font": "sf-cond-heavy",
+   "cap": 6.2,
+   "fill": "#14142A",
+   "stroke": null,
+   "stroke_w": 0,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0,
+   "scale_x": 0.93,
+   "crisp": 0.4
+  }
+ ]
+}

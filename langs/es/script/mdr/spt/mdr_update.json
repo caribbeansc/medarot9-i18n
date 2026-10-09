@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/mdr_update.spt",
+ "lines": [
+  {
+   "i": 1546,
+   "src": "2373e85115c2",
+   "t": "Toca con el dedo para autenticar"
+  },
+  {
+   "i": 1568,
+   "src": "41c333ea1ea5",
+   "t": "Autenticando"
+  },
+  {
+   "i": 1593,
+   "src": "c098d782b96e",
+   "t": "Autenticación completada"
+  },
+  {
+   "i": 1616,
+   "src": "25d5cac47b69",
+   "t": "Autenticación fallida. Inténtalo de nuevo"
+  }
+ ]
+}

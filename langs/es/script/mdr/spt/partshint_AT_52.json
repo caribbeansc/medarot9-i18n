@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_52.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fa712f342276",
+   "t": "<c:00ff00>Técnica:<c>{{assassin}}\nAtaque cuerpo a cuerpo: el\n{{opponent}} no puede evadir y\nademás siempre es {{critical}}.\nPero si falla en destruir la\n{{part}} del {{opponent}}, a cambio\nexplota."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_90.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6104d6eaefc6",
+   "t": "<c:00ff00>Técnica:<c>{{dbldrive_l}}\nUsa las {{part|pl}} en orden de\n{{left_arm}} a brazo\nderecho."
+  }
+ ]
+}

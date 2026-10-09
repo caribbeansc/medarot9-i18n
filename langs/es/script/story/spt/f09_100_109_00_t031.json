@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f09_100_109_00_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1038,
+   "src": "34763bfea737",
+   "t": "Vaya, eres tú--"
+  },
+  {
+   "i": 1049,
+   "src": "ed9f1d8f9cb5",
+   "t": "¡{{vice_principal|cap}}!"
+  },
+  {
+   "i": 1054,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1060,
+   "src": "210db98e1e0f",
+   "t": "Buenos días, llegas temprano."
+  },
+  {
+   "i": 1078,
+   "src": "3fb2424e52f2",
+   "t": "¿Qué sucede?"
+  },
+  {
+   "i": 1081,
+   "src": "4b18480b60dc",
+   "t": "¿Tengo algo en la cara?"
+  },
+  {
+   "i": 1089,
+   "src": "76b15b0dc0a3",
+   "t": "N-no, no es eso, este..."
+  },
+  {
+   "i": 1102,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1110,
+   "src": "29fccb612046",
+   "t": "¿Hay algo de lo que quieras hablar?"
+  },
+  {
+   "i": 1118,
+   "src": "98617880be87",
+   "t": "S-sí."
+  },
+  {
+   "i": 1121,
+   "src": "50ec2d9d4774",
+   "t": "Es sobre lo que pasó en el puerto--"
+  },
+  {
+   "i": 1134,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1142,
+   "src": "c4c14ba1e994",
+   "t": "Está bien."
+  },
+  {
+   "i": 1145,
+   "src": "26c5fc9d2530",
+   "t": "Pasa."
+  }
+ ]
+}

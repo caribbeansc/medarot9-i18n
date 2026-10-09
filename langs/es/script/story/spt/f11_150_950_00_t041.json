@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_150_950_00_t041.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "c08cd5c016fd",
+   "t": "Esperen."
+  },
+  {
+   "i": 1043,
+   "src": "3ef2585e77fa",
+   "t": "Ustedes vayan por aquí."
+  },
+  {
+   "i": 1051,
+   "src": "608e43e02722",
+   "t": "¿¡Eh!?"
+  }
+ ]
+}

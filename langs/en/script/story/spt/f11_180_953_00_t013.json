@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f11_180_953_00_t013.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1049,
+   "src": "c99f297ece3e",
+   "t": "We're..."
+  },
+  {
+   "i": 1052,
+   "src": "80430cac038a",
+   "t": "the {{medabot_research_club}}!"
+  }
+ ]
+}

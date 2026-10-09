@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3b_163_s07_t010.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1035,
+   "src": "0fb543180b2b",
+   "t": "Been a while, but {{mio}}'s still great."
+  },
+  {
+   "i": 1039,
+   "src": "0c0c36ff874c",
+   "t": " and she are in sync, too."
+  },
+  {
+   "i": 1047,
+   "src": "0b6b56d090c7",
+   "t": "If only her personality were a bit softer."
+  },
+  {
+   "i": 1050,
+   "src": "31a630eefe55",
+   "t": "What a waste~."
+  }
+ ]
+}

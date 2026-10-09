@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_42.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ee92e0237211",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{weapon_master}}\nAl atacar con {{shooting}},\nsuma 1/2 del {{fighting}} al\n{{shooting}} de las {{legs}}.\nAl atacar en {{fighting}},\nsuma 1/2 del {{shooting}} al\n{{fighting}} de las {{legs}}."
+  }
+ ]
+}

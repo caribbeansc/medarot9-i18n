@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description110.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "171452540dbf",
+   "t": "{{cooldown|cap}} (rend.)"
+  },
+  {
+   "i": 11,
+   "src": "8d92c591e202",
+   "t": "Tipo de <c:ffff00>{{stats}}<c> de <c:ffff00>{{part|pl}}<c> de <c:ffff00>{{head}}<c> y <c:ffff00>brazos<c>.\n\nMide la rapidez de los movimientos físicos\nposteriores a la <c:ffff00>acción<c>, como un {{recoil}} y una\nvulnerabilidad reducidos, e incluye la eficiencia del\n{{cooldown}}.\n\nCuanto mayor es el valor, menos tarda el\n<c:ffff00>{{cooldown}}<c> de la <c:ffff00>técnica<c>."
+  }
+ ]
+}

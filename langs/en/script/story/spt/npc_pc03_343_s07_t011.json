@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc03_343_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "ef584176825e",
+   "t": "So you went to get leg {{part|pl}},"
+  },
+  {
+   "i": 1038,
+   "src": "219df0378471",
+   "t": "and got your own leg {{part|pl}} stolen... I\nsee."
+  },
+  {
+   "i": 1049,
+   "src": "194a8910bcf9",
+   "t": "It's just like that old story of"
+  },
+  {
+   "i": 1052,
+   "src": "56268d0515fe",
+   "t": "going for wool and coming back shorn."
+  }
+ ]
+}

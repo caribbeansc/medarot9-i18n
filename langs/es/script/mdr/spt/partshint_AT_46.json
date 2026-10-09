@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_46.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e95f102dbb67",
+   "t": "<c:00ff00>Técnica:<c>Hold\nAtaque de {{fighting}} que\naplica el {{status}} {{hold}}.\n<c:00ffff>{{status|cap}}:<c>{{hold}}\nPor un tiempo, {{prep}} y\n{{cooldown}} x1.5 y sin\n{{evade}}."
+  }
+ ]
+}

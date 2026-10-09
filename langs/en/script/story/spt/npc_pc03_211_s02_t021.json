@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc03_211_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "f79a0c9d15b3",
+   "t": "Naturally, no software has been left\nbehind..."
+  },
+  {
+   "i": 1050,
+   "src": "0dd766cf556c",
+   "t": "or rather,"
+  },
+  {
+   "i": 1053,
+   "src": "90cf86876df5",
+   "t": "the hard disk was removed to begin\nwith."
+  },
+  {
+   "i": 1061,
+   "src": "6ab61e52ee9c",
+   "t": "Weirdly, the power does turn on,\nthough."
+  },
+  {
+   "i": 1064,
+   "src": "323b0729c9fa",
+   "t": "I guess I shouldn't expect much from\nthis?"
+  },
+  {
+   "i": 1079,
+   "src": "cad22b03a4a8",
+   "t": "No, no, we have to\nfigure something out..."
+  },
+  {
+   "i": 1087,
+   "src": "23bce93dafed",
+   "t": "Isn't there anything around here...?"
+  },
+  {
+   "i": 1090,
+   "src": "e3e9848937c8",
+   "t": "Hmm..."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3e_164_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "bb688d51d448",
+   "t": "Sí, sí, ya entiendo."
+  },
+  {
+   "i": 1038,
+   "src": "d3e5131f7c50",
+   "t": "Solo nos enfocaremos en apoyarte."
+  },
+  {
+   "i": 1046,
+   "src": "b9ac08cf8584",
+   "t": "¡Qué gusto que vinieras! Pensé que no"
+  },
+  {
+   "i": 1049,
+   "src": "ab3dac912f8b",
+   "t": "te vería hasta la graduación, ajaja."
+  }
+ ]
+}

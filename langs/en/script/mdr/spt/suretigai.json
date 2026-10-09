@@ -1,0 +1,65 @@
+{
+ "file": "mdr/spt/suretigai.spt",
+ "lines": [
+  {
+   "i": 2323,
+   "src": "3d065d4e1362",
+   "t": "Striking"
+  },
+  {
+   "i": 2331,
+   "src": "07cd98f836fa",
+   "t": "Shooting"
+  },
+  {
+   "i": 2339,
+   "src": "d93e9a646712",
+   "t": "Support"
+  },
+  {
+   "i": 2347,
+   "src": "4a0567b1fe55",
+   "t": "Heal"
+  },
+  {
+   "i": 2355,
+   "src": "bc17bb6afea9",
+   "t": "Block"
+  },
+  {
+   "i": 2363,
+   "src": "f44bb303f465",
+   "t": "Set-up"
+  },
+  {
+   "i": 2367,
+   "src": "56dd90ad4c5c",
+   "t": "{{medalia}}("
+  },
+  {
+   "i": 2369,
+   "src": "c2949a05eb05",
+   "t": ")"
+  },
+  {
+   "i": 2467,
+   "src": "c757196f50a2",
+   "t": "StreetPass list"
+  },
+  {
+   "i": 2468,
+   "src": "659ddcb97acb",
+   "t": "Saving."
+  },
+  {
+   "i": 2506,
+   "src": "659ddcb97acb",
+   "t": "Saving."
+  },
+  {
+   "i": 2564,
+   "src": "cbf2f9db8b90",
+   "t": "Save failed."
+  }
+ ]
+}

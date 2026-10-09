@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m2e_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1057,
+   "src": "a0663fe82b01",
+   "t": "Sorry, I'm kinda busy right now."
+  },
+  {
+   "i": 1060,
+   "src": "34040a5445ef",
+   "t": "Another time."
+  }
+ ]
+}

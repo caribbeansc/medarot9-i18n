@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_133.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "db8280b48e34",
+   "t": "<c:00ff00>Action:<c> {{guard}}\nA {{guard_stance}} that\nintercepts attacks on\nallies. If an {{ally_battle_term}} is\nabout to be hit, it steps\nin to defend. Ends after\nallies act 4 times or time\npasses."
+  }
+ ]
+}

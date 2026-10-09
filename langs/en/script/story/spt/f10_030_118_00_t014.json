@@ -1,0 +1,130 @@
+{
+ "file": "story/spt/f10_030_118_00_t014.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1045,
+   "src": "1e1970cb81d3",
+   "t": "What do we do now?"
+  },
+  {
+   "i": 1059,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1065,
+   "src": "eb70e32900f8",
+   "t": "We'll monitor the {{rubberobo_gang}}'s\nmoves"
+  },
+  {
+   "i": 1068,
+   "src": "ea2ba2b9c08e",
+   "t": "and capture them all at the right\nmoment."
+  },
+  {
+   "i": 1075,
+   "src": "f71322c5c57d",
+   "t": "{{principal}}"
+  },
+  {
+   "i": 1081,
+   "src": "f134e7ad9130",
+   "t": "Why not act immediately?"
+  },
+  {
+   "i": 1088,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1094,
+   "src": "fa37e618d788",
+   "t": "There is only one harbor on the island"
+  },
+  {
+   "i": 1097,
+   "src": "4beadf6a847c",
+   "t": "where ships can dock, and theirs is\nthere."
+  },
+  {
+   "i": 1109,
+   "src": "b15dba7fb24d",
+   "t": "We just need to wait until they've\nloaded"
+  },
+  {
+   "i": 1112,
+   "src": "311948e8af7d",
+   "t": "the Medalium, then seize them as they\nleave."
+  },
+  {
+   "i": 1120,
+   "src": "6ae3083d9ad4",
+   "t": "That's why we have a ship waiting"
+  },
+  {
+   "i": 1123,
+   "src": "1d8376c9fa38",
+   "t": "offshore. There's no need to rush."
+  },
+  {
+   "i": 1130,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1136,
+   "src": "ba6826f23926",
+   "t": "Would you leave them alone\nuntil they've dug up everything?"
+  },
+  {
+   "i": 1150,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1156,
+   "src": "fe4760aef65e",
+   "t": "Even if we strike early, they'd just\nscatter"
+  },
+  {
+   "i": 1159,
+   "src": "6b8ddb1784c8",
+   "t": "into the mountains. That would be\ninefficient."
+  },
+  {
+   "i": 1166,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1172,
+   "src": "bd17fe36546c",
+   "t": "Forget the {{rubberobo_gang}}."
+  },
+  {
+   "i": 1175,
+   "src": "6a506e6b1f7e",
+   "t": "Top {{priority}} is to stop the mining."
+  },
+  {
+   "i": 1182,
+   "src": "bfa18efb41d9",
+   "t": "{{select_corps_captain}}"
+  },
+  {
+   "i": 1188,
+   "src": "36b740d291f5",
+   "t": "So that the monster won't awaken"
+  },
+  {
+   "i": 1191,
+   "src": "a3246ef208c6",
+   "t": "...is that it?"
+  }
+ ]
+}

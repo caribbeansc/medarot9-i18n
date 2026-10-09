@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f09_220_800_00_t115.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1045,
+   "src": "248385489cd2",
+   "t": "Where did you get the {{medal}}?"
+  },
+  {
+   "i": 1053,
+   "src": "cadf1eca18c1",
+   "t": "Huh."
+  },
+  {
+   "i": 1058,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1064,
+   "src": "d09591836c47",
+   "t": "Wasn't it you who woke me up?"
+  },
+  {
+   "i": 1072,
+   "src": "e9e9767b8d96",
+   "t": "Th-that {{fake_medal}}..."
+  },
+  {
+   "i": 1077,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1083,
+   "src": "9ba53068dfb0",
+   "t": "Strictly speaking, it isn't a {{fake_medal}}."
+  },
+  {
+   "i": 1086,
+   "src": "d3c739a0aa22",
+   "t": "It's an industrial {{medal}} power source."
+  },
+  {
+   "i": 1094,
+   "src": "137be979e3dc",
+   "t": "Um... I found it in front of the"
+  },
+  {
+   "i": 1097,
+   "src": "bebbf4df6eb8",
+   "t": "Vice-Principal's Office. Just by chance."
+  },
+  {
+   "i": 1109,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1115,
+   "src": "c811186e4c88",
+   "t": "Hmph, so you brought here what those\nfools"
+  },
+  {
+   "i": 1118,
+   "src": "df19c68a539a",
+   "t": "carelessly tossed aside."
+  },
+  {
+   "i": 1126,
+   "src": "5b1536248f1c",
+   "t": "Anyway, you saved me. The biological"
+  },
+  {
+   "i": 1129,
+   "src": "fdd332bd800f",
+   "t": "parts couldn't be maintained much\nlonger."
+  },
+  {
+   "i": 1137,
+   "src": "a364848514ed",
+   "t": "Now then--"
+  }
+ ]
+}

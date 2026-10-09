@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_idol_meda_163_s07_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1038,
+   "src": "a33bdd7e3a5c",
+   "t": "Hey, look, {{aoi}}! I'm back to normal!"
+  },
+  {
+   "i": 1041,
+   "src": "106e9212658f",
+   "t": "I can dance with you again...!"
+  }
+ ]
+}

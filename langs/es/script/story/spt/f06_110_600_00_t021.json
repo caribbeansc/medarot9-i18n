@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f06_110_600_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "b6f269bc0a74",
+   "t": "Uf."
+  },
+  {
+   "i": 1043,
+   "src": "4404a23effd3",
+   "t": "Bueno, va bastante bien, ¿no creen?"
+  },
+  {
+   "i": 1048,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1054,
+   "src": "aa1953d80b7e",
+   "t": "Sí."
+  },
+  {
+   "i": 1057,
+   "src": "aab3944a5322",
+   "t": "Sigamos así."
+  }
+ ]
+}

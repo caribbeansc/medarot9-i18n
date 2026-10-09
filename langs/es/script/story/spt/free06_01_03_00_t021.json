@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free06_01_03_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "7278a79a2c85",
+   "t": "¡{{mission|cap}} 'Observación de Ondas:\n{{summit|cap}} de la Montaña' iniciada!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "efa48ce88356",
+   "t": "Bien, subamos al monte. Tras cruzar"
+  },
+  {
+   "i": 1046,
+   "src": "f1f7fa326b71",
+   "t": "el puente, todo es recto a la cima."
+  }
+ ]
+}

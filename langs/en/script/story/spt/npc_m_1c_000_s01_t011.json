@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1c_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1038,
+   "src": "68a1e5835dc8",
+   "t": "Hi, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "5b8d7c2d4dce",
+   "t": "It's me, your {{classmate}} {{shintaro}}."
+  },
+  {
+   "i": 1051,
+   "src": "87e22053e0ee",
+   "t": "Now? I'm watering the flowers."
+  },
+  {
+   "i": 1054,
+   "src": "8653ae60fb46",
+   "t": "I may not look it, but I'm in the\n{{gardening_club}}~."
+  },
+  {
+   "i": 1062,
+   "src": "7e59ba9e4c92",
+   "t": "...Huh, just as you pictured?"
+  },
+  {
+   "i": 1065,
+   "src": "0e878ff8212f",
+   "t": "Maybe so, haha."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1038,
+   "src": "204a0527993c",
+   "t": "Sueño con ser director de cine."
+  },
+  {
+   "i": 1041,
+   "src": "9951cbd7b661",
+   "t": "Por eso estoy en el {{club|cap}} de Cine."
+  },
+  {
+   "i": 1049,
+   "src": "96cb5ba3123f",
+   "t": "En verano filmaré en la playa."
+  },
+  {
+   "i": 1052,
+   "src": "20a08b7fed76",
+   "t": "¡Aún elijo a la protagonista!"
+  }
+ ]
+}

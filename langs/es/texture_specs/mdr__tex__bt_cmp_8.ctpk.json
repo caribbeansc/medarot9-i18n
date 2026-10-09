@@ -1,0 +1,30 @@
+{
+ "rel": "mdr/tex/bt_cmp_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    18,
+    1,
+    75,
+    13
+   ],
+   "erase_box": [
+    16,
+    0,
+    80,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Iniciar sintesis",
+   "font": "din",
+   "cap": 10,
+   "min_scale_x": 0.8,
+   "fill": "#2A3243",
+   "stroke": "#FFFFFFC0",
+   "stroke_w": 0.8,
+   "pad": 0,
+   "align": "left"
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "rel": "battle/tex/mk_act_n_a.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+  "cap": 5,
+  "fill": "#000000",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0,
+  "align": "center",
+  "scale_x": 1
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    11,
+    24,
+    6
+   ],
+   "text": "STRIKE",
+   "baseline": 17
+  },
+  {
+   "box": [
+    0,
+    19,
+    24,
+    6
+   ],
+   "text": "Shoot",
+   "baseline": 25
+  },
+  {
+   "box": [
+    0,
+    27,
+    24,
+    6
+   ],
+   "text": "SUPP.",
+   "baseline": 33
+  },
+  {
+   "box": [
+    0,
+    35,
+    19,
+    6
+   ],
+   "text": "Heal",
+   "baseline": 41
+  },
+  {
+   "box": [
+    0,
+    43,
+    18,
+    6
+   ],
+   "text": "BLOCK",
+   "baseline": 49
+  },
+  {
+   "box": [
+    0,
+    51,
+    24,
+    6
+   ],
+   "text": "Set-up",
+   "baseline": 57
+  },
+  {
+   "box": [
+    25,
+    11,
+    24,
+    6
+   ],
+   "text": "A-Air",
+   "baseline": 17
+  },
+  {
+   "box": [
+    25,
+    19,
+    24,
+    6
+   ],
+   "text": "A-Sea",
+   "baseline": 25
+  },
+  {
+   "box": [
+    24,
+    27,
+    24,
+    6
+   ],
+   "text": "Spec.",
+   "baseline": 33
+  },
+  {
+   "box": [
+    25,
+    35,
+    24,
+    6
+   ],
+   "text": "Bers.",
+   "baseline": 41
+  },
+  {
+   "box": [
+    25,
+    43,
+    24,
+    6
+   ],
+   "text": "Aim",
+   "baseline": 49
+  },
+  {
+   "box": [
+    5,
+    81,
+    30,
+    7
+   ],
+   "erase_box": [
+    8,
+    82,
+    24,
+    5
+   ],
+   "erase": "hfill",
+   "text": "LONG",
+   "font": "translation-work/tex/fuentes_pixel/pix5x5.ttf",
+   "baseline": 87
+  },
+  {
+   "box": [
+    1,
+    89,
+    32,
+    7
+   ],
+   "erase_box": [
+    3,
+    90,
+    28,
+    5
+   ],
+   "erase": "hfill",
+   "text": "SHORT",
+   "font": "translation-work/tex/fuentes_pixel/pix5x5.ttf",
+   "baseline": 95
+  },
+  {
+   "box": [
+    4,
+    104,
+    51,
+    8
+   ],
+   "erase_box": [
+    8,
+    104,
+    44,
+    8
+   ],
+   "erase": "hfill",
+   "text": "MEDACHANGE",
+   "fill": "#FFFFF0",
+   "baseline": 110,
+   "stroke": "#4A3000",
+   "stroke_w": 1
+  },
+  {
+   "box": [
+    4,
+    115,
+    51,
+    8
+   ],
+   "erase_box": [
+    8,
+    115,
+    43,
+    9
+   ],
+   "erase": "hfill",
+   "text": "MEDAFORCE",
+   "fill": "#FFFFFF",
+   "baseline": 122,
+   "stroke": "#600000",
+   "stroke_w": 1
+  }
+ ]
+}

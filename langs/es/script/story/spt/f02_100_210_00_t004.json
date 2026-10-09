@@ -1,0 +1,230 @@
+{
+ "file": "story/spt/f02_100_210_00_t004.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "f6830e079d01",
+   "t": "Hola, {{ryoma}}-kun"
+  },
+  {
+   "i": 1048,
+   "src": "2745c22a12a5",
+   "t": "Cuánto tiempo~."
+  },
+  {
+   "i": 1060,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1066,
+   "src": "0abc6976afc0",
+   "t": "Eres tú, eh..."
+  },
+  {
+   "i": 1073,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1079,
+   "src": "92ea01556ebd",
+   "t": "¿Qué haces aquí?"
+  },
+  {
+   "i": 1086,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1092,
+   "src": "5c958dc6fbfd",
+   "t": "Mantenimiento de {{part|pl}}."
+  },
+  {
+   "i": 1099,
+   "src": "b129709de155",
+   "t": "{{blue_submarine}}"
+  },
+  {
+   "i": 1105,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1115,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1121,
+   "src": "7cef3aab6530",
+   "t": "Es una {{unit}} {{medachange}}, ¿no?"
+  },
+  {
+   "i": 1124,
+   "src": "db4bff30232d",
+   "t": "¿Será de tipo {{submarine}}?"
+  },
+  {
+   "i": 1134,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1140,
+   "src": "aa1953d80b7e",
+   "t": "Sí."
+  },
+  {
+   "i": 1153,
+   "src": "b16da6bd48c1",
+   "t": "¡Tipo {{submarine}}! Y como es una"
+  },
+  {
+   "i": 1156,
+   "src": "a4eea9b6c448",
+   "t": "{{unit}} {{medachange}}, eso significa--"
+  },
+  {
+   "i": 1164,
+   "src": "1e1b159b6b19",
+   "t": "Al transformarse, su empuje"
+  },
+  {
+   "i": 1167,
+   "src": "e3d54636b256",
+   "t": "iguala a una lancha. ¡Genial!"
+  },
+  {
+   "i": 1182,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1188,
+   "src": "7cfe07a42bd1",
+   "t": "Sabes bastante."
+  },
+  {
+   "i": 1196,
+   "src": "a1219ec370d4",
+   "t": "Suponiendo que los ajustes salgan bien."
+  },
+  {
+   "i": 1206,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1212,
+   "src": "7650d44d6f47",
+   "t": "Ah sí, decías algo sobre una"
+  },
+  {
+   "i": 1215,
+   "src": "a0b367124a47",
+   "t": "prueba. ¿Está averiado o algo?"
+  },
+  {
+   "i": 1225,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1231,
+   "src": "47124a95ac70",
+   "t": "Algo así."
+  },
+  {
+   "i": 1246,
+   "src": "696d84418a8b",
+   "t": "Al fin reunimos un juego completo,"
+  },
+  {
+   "i": 1249,
+   "src": "7a9662540911",
+   "t": "pero el {{condition}} varía mucho."
+  },
+  {
+   "i": 1260,
+   "src": "6b14be020fad",
+   "t": "Tomo datos reales de combate"
+  },
+  {
+   "i": 1263,
+   "src": "25c62189f2c4",
+   "t": "y por eso sigo con los ajustes."
+  },
+  {
+   "i": 1271,
+   "src": "8616788b0c52",
+   "t": "Este lugar es bueno porque casi nunca"
+  },
+  {
+   "i": 1274,
+   "src": "3bdf7186b034",
+   "t": "hay interrupciones... pero pasa."
+  },
+  {
+   "i": 1281,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1287,
+   "src": "8f769132dfd9",
+   "t": "¿Y cómo está funcionando?"
+  },
+  {
+   "i": 1297,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1303,
+   "src": "f07c8bb21df0",
+   "t": "Tendrías que preguntarle a él mismo."
+  },
+  {
+   "i": 1306,
+   "src": "e9ca9562d9de",
+   "t": "...Cómo te va, "
+  },
+  {
+   "i": 1308,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1324,
+   "src": "1a7f21ebbdad",
+   "t": "¿Eh? ¿Cómo me va?"
+  },
+  {
+   "i": 1332,
+   "src": "d2afb1388a1a",
+   "t": "Ni idea de eso. Tienes"
+  },
+  {
+   "i": 1335,
+   "src": "e34a651b2ed4",
+   "t": "que dejarme jugar un poco más."
+  },
+  {
+   "i": 1345,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1351,
+   "src": "95e5ed69aa9c",
+   "t": "...Eso dice él."
+  }
+ ]
+}

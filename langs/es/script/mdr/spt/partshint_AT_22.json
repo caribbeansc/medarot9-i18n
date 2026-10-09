@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_22.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "35bdf5d3d8ef",
+   "t": "<c:00ff00>Técnica:<c>{{fire_shot}}\nAtaque de {{shooting}} que\naplica el {{status}} {{fire}}.\n<c:00ffff>{{status|cap}}:<c>{{fire}}\nAl terminar su acción,\ncausa 10 de {{damage}} a todas\nlas {{part|pl}}.\nNo identifica al {{leader}}."
+  }
+ ]
+}

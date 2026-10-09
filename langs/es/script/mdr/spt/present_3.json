@@ -1,0 +1,50 @@
+{
+ "file": "mdr/spt/present_3.spt",
+ "lines": [
+  {
+   "i": 1357,
+   "src": "c57724fe45a1",
+   "t": "El regalo de esta contraseña "
+  },
+  {
+   "i": 1360,
+   "src": "106b39b67853",
+   "t": "ya fue recibido.       "
+  },
+  {
+   "i": 1452,
+   "src": "7343fba9150f",
+   "t": "Pieza de {{head}}"
+  },
+  {
+   "i": 1459,
+   "src": "f9cbcd0563a5",
+   "t": "Pieza de brazo der."
+  },
+  {
+   "i": 1466,
+   "src": "ae22d610ddf0",
+   "t": "Pieza de brazo izq."
+  },
+  {
+   "i": 1473,
+   "src": "528640d1d527",
+   "t": "Pieza de {{legs}}"
+  },
+  {
+   "i": 1484,
+   "src": "409d7686155f",
+   "t": " <c:00ff00>"
+  },
+  {
+   "i": 1486,
+   "src": "0e32041fdf29",
+   "t": "<c> obtenida!"
+  },
+  {
+   "i": 1494,
+   "src": "46c83d682b77",
+   "t": "<c> - set completo!"
+  }
+ ]
+}

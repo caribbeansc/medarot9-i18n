@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/npc_teach_fb_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1038,
+   "src": "9ebfa6aa2d3c",
+   "t": "What is it?"
+  },
+  {
+   "i": 1041,
+   "src": "4736a297fdb4",
+   "t": "Are you feeling unwell...? Oh?"
+  },
+  {
+   "i": 1049,
+   "src": "224bad19af4e",
+   "t": "Aren't you the transfer student who\ncame today--"
+  },
+  {
+   "i": 1052,
+   "src": "d4215c0e399a",
+   "t": "Oh, so you're "
+  },
+  {
+   "i": 1054,
+   "src": "34c4050e7c25",
+   "t": "-kun, right?"
+  },
+  {
+   "i": 1062,
+   "src": "5780ed0e379e",
+   "t": "What's the matter?"
+  },
+  {
+   "i": 1065,
+   "src": "8b7d69b49686",
+   "t": "Skipping class for the infirmary right\nafter transferring..."
+  },
+  {
+   "i": 1076,
+   "src": "213ed220b0f7",
+   "t": "N-no, that's not it!"
+  },
+  {
+   "i": 1079,
+   "src": "9a4525ad5a04",
+   "t": "I just made a little mistake, that's all!"
+  },
+  {
+   "i": 1084,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1093,
+   "src": "6b50a877023c",
+   "t": "Is that so?"
+  },
+  {
+   "i": 1096,
+   "src": "5736bcc1bd62",
+   "t": "Well, I suppose that's fine."
+  },
+  {
+   "i": 1104,
+   "src": "8bf014842690",
+   "t": "The first-year classrooms are on the\nsecond floor of the school building."
+  },
+  {
+   "i": 1107,
+   "src": "ab132e570287",
+   "t": "Don't get it wrong this time, hee hee."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "file": "battle/spt/auto_battle07.spt",
+ "lines": [
+  {
+   "i": 881,
+   "src": "4696ebf6d2db",
+   "t": "{{captain_oregano}}"
+  },
+  {
+   "i": 884,
+   "src": "630d17ded0da",
+   "t": "{{erica}}"
+  },
+  {
+   "i": 887,
+   "src": "b6383940fb52",
+   "t": "{{select_corps_member_character}}"
+  },
+  {
+   "i": 890,
+   "src": "3c7edee2c1de",
+   "t": "{{asad_arak}}"
+  },
+  {
+   "i": 1036,
+   "src": "55ee016fad47",
+   "t": "No hay piedad.\n¡Usa toda tu fuerza y hazlos añicos!"
+  },
+  {
+   "i": 1160,
+   "src": "64d54f8c8082",
+   "t": "Es cooperación, señor."
+  },
+  {
+   "i": 1372,
+   "src": "b0cc3f71e5e8",
+   "t": "¡Lo logramos!"
+  },
+  {
+   "i": 1673,
+   "src": "2157b19b62b2",
+   "t": "Bah, con esto encima\nno debería quedar ni rastro."
+  },
+  {
+   "i": 1709,
+   "src": "ec9f376ba9a6",
+   "t": "...Qué aburrido."
+  },
+  {
+   "i": 1852,
+   "src": "ac8eb6ea6b29",
+   "t": "Hacer añicos a alguien es así."
+  },
+  {
+   "i": 1933,
+   "src": "a00b05e6427f",
+   "t": "¡Uwaaaaa!"
+  },
+  {
+   "i": 2164,
+   "src": "7f4ab9d6e109",
+   "t": "¡No puede ser!"
+  },
+  {
+   "i": 2372,
+   "src": "cd135a65e1e9",
+   "t": "¡Retirada temporal!\n¡¡Retirada temporal!!"
+  }
+ ]
+}

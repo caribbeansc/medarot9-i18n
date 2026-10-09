@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_161_s06_t051.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "95589bb79f16",
+   "t": "Ay, al final terminó así, ¿no?..."
+  }
+ ]
+}

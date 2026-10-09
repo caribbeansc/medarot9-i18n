@@ -1,0 +1,158 @@
+{
+ "rel": "battle/tex/cp1_spp.ctpk",
+ "base": "jp",
+ "styles": {
+  "neon": {
+   "font": "avenir-heavy-italic",
+   "italic_skew": 0.3,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "cap": 16,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFFFF"
+     ],
+     [
+      0.55,
+      "#F4FFFC"
+     ],
+     [
+      1,
+      "#9CFFE0"
+     ]
+    ]
+   },
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#44EEBB",
+     "blur": 1.5,
+     "opacity": 0.9
+    },
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#44EEBB",
+     "blur": 3.5,
+     "opacity": 0.7
+    }
+   ],
+   "stroke": null
+  }
+ },
+ "items": [
+  {
+   "segments": [
+    [
+     176,
+     0,
+     80,
+     56,
+     0,
+     0
+    ],
+    [
+     176,
+     56,
+     56,
+     56,
+     80,
+     0
+    ]
+   ],
+   "box": [
+    0,
+    0,
+    136,
+    56
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    [
+     232,
+     56,
+     24,
+     1
+    ],
+    [
+     176,
+     112,
+     80,
+     1
+    ]
+   ],
+   "box": [
+    232,
+    56,
+    24,
+    1
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "neon",
+   "segments": [
+    [
+     176,
+     0,
+     80,
+     56,
+     0,
+     0
+    ],
+    [
+     176,
+     56,
+     56,
+     56,
+     80,
+     0
+    ]
+   ],
+   "box": [
+    8,
+    2,
+    118,
+    24
+   ],
+   "erase": "none",
+   "text": "PROGRAMA"
+  },
+  {
+   "style": "neon",
+   "segments": [
+    [
+     176,
+     0,
+     80,
+     56,
+     0,
+     0
+    ],
+    [
+     176,
+     56,
+     56,
+     56,
+     80,
+     0
+    ]
+   ],
+   "box": [
+    18,
+    30,
+    114,
+    24
+   ],
+   "erase": "none",
+   "text": "DE APOYO"
+  }
+ ]
+}

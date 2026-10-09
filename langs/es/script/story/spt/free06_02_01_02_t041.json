@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_01_02_t041.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "0f1c22e037c6",
+   "t": "¡Una {{medalia}}!"
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "1375d039dbf0",
+   "t": "Estaba escondida bajo los materiales."
+  },
+  {
+   "i": 1046,
+   "src": "dceb0aaa6946",
+   "t": "Con razón era imposible de encontrar."
+  },
+  {
+   "i": 1054,
+   "src": "7b94bc559352",
+   "t": "¡Esta {{app}} detectora es una salvación!"
+  },
+  {
+   "i": 1057,
+   "src": "677a5ed823b5",
+   "t": "Misión cumplida. Volvamos."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free06_01_02_03_t031.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "643fcfb7bf17",
+   "t": "*After {{robattle}}"
+  },
+  {
+   "i": 1138,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1149,
+   "src": "ce113e636f48",
+   "t": "I've got the sound wave data."
+  },
+  {
+   "i": 1152,
+   "src": "c0d965365696",
+   "t": "Let's go back to the {{clubroom}}."
+  }
+ ]
+}

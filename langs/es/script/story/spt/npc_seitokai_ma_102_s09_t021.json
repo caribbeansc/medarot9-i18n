@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_seitokai_ma_102_s09_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1038,
+   "src": "36f2a4bdbca7",
+   "t": "Perdón, perdón, creo que ya lo oíste..."
+  },
+  {
+   "i": 1046,
+   "src": "e04b792a4d34",
+   "t": "Sí, me lo dijo el {{janitor}}."
+  },
+  {
+   "i": 1049,
+   "src": "bc76523bfa1a",
+   "t": "¿Ya llegó?"
+  },
+  {
+   "i": 1054,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1060,
+   "src": "d8dbffd7aabb",
+   "t": "Sí, hace un momento."
+  },
+  {
+   "i": 1063,
+   "src": "5048fbe1cd3a",
+   "t": "Lamento hacerte venir en vano."
+  },
+  {
+   "i": 1071,
+   "src": "f571556e1123",
+   "t": "No hay problema."
+  },
+  {
+   "i": 1074,
+   "src": "9074067cbe49",
+   "t": "¿Necesitas que haga algo más?"
+  },
+  {
+   "i": 1079,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1085,
+   "src": "800d375b0c72",
+   "t": "No, estarás cansado tras volver."
+  },
+  {
+   "i": 1088,
+   "src": "5f19c8b1ae04",
+   "t": "Descansa hasta que ellos vuelvan."
+  },
+  {
+   "i": 1096,
+   "src": "3faaf0da07c8",
+   "t": "Entendido."
+  }
+ ]
+}

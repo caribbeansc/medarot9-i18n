@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description141.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "df6d8a69b310",
+   "t": "{{survival_robattle}}"
+  },
+  {
+   "i": 11,
+   "src": "35980a402c80",
+   "t": "A <c:ffff00>{{robattle}}<c> where both teams send out 4 or more\n<c:ffff00>{{medabot|pl}}<c>.\nUp to 3 per team fight on the <c:ffff00>{{field}}<c> at once; when\none is <c:ffff00>{{knocked_out}}<c>, a {{reserve_battle_term}} {{medabot}} takes its\nplace.\nThere is no <c:ffff00>{{leader}}<c>; it continues until every {{medabot}}\non one team is {{knocked_out}}. A knocked-out {{medabot}}\ncan't be <c:ffff00>revived<c>."
+  }
+ ]
+}

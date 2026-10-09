@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_13.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "10634d310d6a",
+   "t": "<c:00ff00>Leg Trait:<c> {{assault}}\nDuring your rushing action\nbetween {{prep}} and attack,\n{{mobility}} +15."
+  }
+ ]
+}

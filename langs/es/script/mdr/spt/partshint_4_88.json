@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_88.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "20c09971f1ce",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nBrazo Pesado\nPor cada pieza Pesada\nequipada {{mobility}},\n{{shooting}} y {{fighting}} +3."
+  }
+ ]
+}

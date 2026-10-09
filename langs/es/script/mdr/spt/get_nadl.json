@@ -1,0 +1,65 @@
+{
+ "file": "mdr/spt/get_nadl.spt",
+ "lines": [
+  {
+   "i": 1402,
+   "src": "7343fba9150f",
+   "t": "Pieza de {{head}}"
+  },
+  {
+   "i": 1409,
+   "src": "f9cbcd0563a5",
+   "t": "Pieza de brazo der."
+  },
+  {
+   "i": 1416,
+   "src": "ae22d610ddf0",
+   "t": "Pieza de brazo izq."
+  },
+  {
+   "i": 1423,
+   "src": "528640d1d527",
+   "t": "Pieza de {{legs}}"
+  },
+  {
+   "i": 1434,
+   "src": "409d7686155f",
+   "t": " <c:00ff00>"
+  },
+  {
+   "i": 1436,
+   "src": "0e32041fdf29",
+   "t": "<c> obtenida!"
+  },
+  {
+   "i": 1444,
+   "src": "46c83d682b77",
+   "t": "<c> - set completo!"
+  },
+  {
+   "i": 1644,
+   "src": "242b2eb50a16",
+   "t": "<c> - set de {{part|pl}} obtenido!"
+  },
+  {
+   "i": 2051,
+   "src": "6d939269632f",
+   "t": "{{medalia}} <c:00ff00>"
+  },
+  {
+   "i": 2053,
+   "src": "0e32041fdf29",
+   "t": "<c> obtenida!"
+  },
+  {
+   "i": 2092,
+   "src": "7869e7b18985",
+   "t": "No puedes llevar más {{medalia|pl}}."
+  },
+  {
+   "i": 2095,
+   "src": "da012f421144",
+   "t": "Tira una que no quieras. "
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo8.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "3a85510786b1",
+   "t": "Let's go talk to {{stella}}."
+  },
+  {
+   "i": 32,
+   "src": "d95faba1fbfe",
+   "t": "2 {{stella}}'s Practice Ends\n"
+  },
+  {
+   "i": 42,
+   "src": "1f0dfcc9f5f4",
+   "t": "2 First Meeting with {{stella}}\n"
+  },
+  {
+   "i": 52,
+   "src": "0687cc094d79",
+   "t": "2 Second Meeting with {{stella}}\n"
+  }
+ ]
+}

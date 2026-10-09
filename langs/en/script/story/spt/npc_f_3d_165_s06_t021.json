@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3d_165_s06_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "889acc64d4c3",
+   "t": "Hm? ...Oh, it's you two."
+  },
+  {
+   "i": 1041,
+   "src": "5d712518faf1",
+   "t": "Good work earlier!"
+  },
+  {
+   "i": 1049,
+   "src": "c05da3082078",
+   "t": "The President and the others are out."
+  },
+  {
+   "i": 1052,
+   "src": "17ec9e98d8d5",
+   "t": "They went off to outdoor training on\nfoot."
+  },
+  {
+   "i": 1060,
+   "src": "cb25a4d1ccd5",
+   "t": "I'm managing the supplies."
+  },
+  {
+   "i": 1063,
+   "src": "2a37b7aeb726",
+   "t": "We go through a lot, so we have to save\nwherever we can."
+  }
+ ]
+}

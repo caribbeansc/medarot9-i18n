@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_idol_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

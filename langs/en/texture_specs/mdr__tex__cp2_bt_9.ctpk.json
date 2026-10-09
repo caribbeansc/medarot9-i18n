@@ -1,0 +1,33 @@
+{
+ "rel": "mdr/tex/cp2_bt_9.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    40,
+    6,
+    52,
+    15
+   ],
+   "erase_box": [
+    53,
+    7,
+    28,
+    14
+   ],
+   "erase": "glyph",
+   "text": "Back",
+   "font": "compact-rounded-heavy",
+   "cap": 9,
+   "fill": "#1B1B1B",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#E4E4E0",
+    "opacity": 0.8
+   },
+   "dx": -1.5
+  }
+ ]
+}

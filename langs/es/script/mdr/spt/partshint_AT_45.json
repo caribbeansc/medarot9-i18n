@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_45.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "682c6a31453d",
+   "t": "<c:00ff00>Técnica:<c>{{wave}}\nAtaque de {{fighting}} que\naplica el {{status}} {{wave}}.\n<c:00ffff>{{status|cap}}:<c>{{wave}}\nPor un tiempo, {{prep}} y\n{{cooldown}} x1.5 y sin\n{{defend}}."
+  }
+ ]
+}

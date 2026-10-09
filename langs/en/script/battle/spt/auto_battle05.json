@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/auto_battle05.spt",
+ "lines": [
+  {
+   "i": 1050,
+   "src": "b7c9ff1d73f6",
+   "t": "{{taisan}}"
+  },
+  {
+   "i": 1161,
+   "src": "5ac2aaf9bbbd",
+   "t": "Here we go!!\nPrototype 1, transfer!"
+  },
+  {
+   "i": 1228,
+   "src": "dd4bac05f29b",
+   "t": ", transfer!"
+  },
+  {
+   "i": 1343,
+   "src": "349b9806ea93",
+   "t": "How's that!"
+  },
+  {
+   "i": 1408,
+   "src": "8bee73235d75",
+   "t": "..."
+  },
+  {
+   "i": 1523,
+   "src": "4f654cd6fd6b",
+   "t": "Not yet, not yet!"
+  },
+  {
+   "i": 1588,
+   "src": "8bee73235d75",
+   "t": "..."
+  },
+  {
+   "i": 1757,
+   "src": "4d55b62ce8bc",
+   "t": "Time to finish this!"
+  },
+  {
+   "i": 1835,
+   "src": "8bee73235d75",
+   "t": "..."
+  }
+ ]
+}

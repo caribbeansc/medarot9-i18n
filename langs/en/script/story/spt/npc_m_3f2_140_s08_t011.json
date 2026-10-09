@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_3f2_140_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "39f12f1955b9",
+   "t": "{{momotaro}}"
+  },
+  {
+   "i": 1038,
+   "src": "cd74d6767413",
+   "t": "Geez,"
+  },
+  {
+   "i": 1041,
+   "src": "c12adb056dbb",
+   "t": "even the president is late today?"
+  },
+  {
+   "i": 1049,
+   "src": "e5890b85ca9c",
+   "t": "Hunting for {{medalia}} is fine, sure, but"
+  },
+  {
+   "i": 1052,
+   "src": "6f99dcef112b",
+   "t": "getting too into it is a problem."
+  },
+  {
+   "i": 1060,
+   "src": "20a4e4a265a6",
+   "t": "If you don't take it easy,"
+  },
+  {
+   "i": 1063,
+   "src": "6b7b75aa5650",
+   "t": "they'll ban it..."
+  }
+ ]
+}

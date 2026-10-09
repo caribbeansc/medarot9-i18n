@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f02_130_211_10_t001.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "1265e8be7103",
+   "t": "Here we are~!"
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1048,
+   "src": "de9a63cba7b4",
+   "t": "Everyone okay?"
+  },
+  {
+   "i": 1061,
+   "src": "3458a690e4a9",
+   "t": "I'm in top shape!"
+  },
+  {
+   "i": 1068,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1074,
+   "src": "c6d3d83b1370",
+   "t": "Wow, impressive as ever."
+  },
+  {
+   "i": 1077,
+   "src": "3611ac7d545b",
+   "t": "Still..."
+  }
+ ]
+}

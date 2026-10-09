@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f01_040_117_00_t005.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1038,
+   "src": "d2c895a5637c",
+   "t": "Second from the right."
+  },
+  {
+   "i": 1046,
+   "src": "54916a17c3fa",
+   "t": "Huh?"
+  },
+  {
+   "i": 1051,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1057,
+   "src": "2438675ddd40",
+   "t": "The subject we're on now."
+  },
+  {
+   "i": 1060,
+   "src": "f34aedc68364",
+   "t": "Try clicking it."
+  },
+  {
+   "i": 1068,
+   "src": "6447006caffb",
+   "t": "Hmm."
+  },
+  {
+   "i": 1076,
+   "src": "d1efa6521de0",
+   "t": "Oh, there it is, I can see it."
+  },
+  {
+   "i": 1079,
+   "src": "83032a21b17b",
+   "t": "Thanks!"
+  },
+  {
+   "i": 1084,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1090,
+   "src": "f0ab4e9fe5c7",
+   "t": "Heh."
+  }
+ ]
+}

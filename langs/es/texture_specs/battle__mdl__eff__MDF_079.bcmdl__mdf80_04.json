@@ -1,0 +1,40 @@
+{
+ "rel": "battle/mdl/eff/MDF_079.bcmdl",
+ "tex": "mdf80_04",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "sf",
+  "fill": "#FC8484",
+  "stroke": null,
+  "pad": 0,
+  "valign": "middle",
+  "align": "center"
+ },
+ "items": [
+  {
+   "erase_box": [
+    0,
+    0,
+    128,
+    32
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "box": [
+    8,
+    4,
+    112,
+    24
+   ],
+   "baseline": 26,
+   "cap": 17.5,
+   "tracking": 4.2,
+   "dx": 0,
+   "text": "LISTO."
+  }
+ ]
+}

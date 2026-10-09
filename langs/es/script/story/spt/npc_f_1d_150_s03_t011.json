@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_1d_150_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "cc4e33627947",
+   "t": "{{hana}}"
+  },
+  {
+   "i": 1038,
+   "src": "fadd176442d4",
+   "t": "¿No es injusto que el {{dormitory}} de las"
+  },
+  {
+   "i": 1041,
+   "src": "537a29490107",
+   "t": "chicas esté más lejos que el de chicos?"
+  },
+  {
+   "i": 1049,
+   "src": "4eae5cddaac4",
+   "t": "¿Acaso es para que hagamos dieta...?"
+  }
+ ]
+}

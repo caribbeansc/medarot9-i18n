@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f11_120_113_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1046,
+   "src": "00b354982a43",
+   "t": "You came."
+  },
+  {
+   "i": 1049,
+   "src": "a650a8599772",
+   "t": "Glad to see you're safe."
+  },
+  {
+   "i": 1060,
+   "src": "8972ba4762a7",
+   "t": "You look busy, Council President."
+  },
+  {
+   "i": 1065,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1074,
+   "src": "691bd1f42274",
+   "t": "I suppose."
+  },
+  {
+   "i": 1077,
+   "src": "911aac69e39f",
+   "t": "By the way--"
+  },
+  {
+   "i": 1085,
+   "src": "db97c9274e75",
+   "t": "I'll get right to it: answer my question."
+  },
+  {
+   "i": 1093,
+   "src": "b1079bdcef15",
+   "t": "Early in the morning, right after the\nsports festival prep, you vanished."
+  },
+  {
+   "i": 1096,
+   "src": "e0f7af0b1bf3",
+   "t": "Where were you, and what were you\ndoing?"
+  }
+ ]
+}

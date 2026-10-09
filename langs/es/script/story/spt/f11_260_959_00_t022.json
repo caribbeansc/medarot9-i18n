@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f11_260_959_00_t022.spt",
+ "lines": [
+  {
+   "i": 1055,
+   "src": "da717da8c5ad",
+   "t": "Finge ser mi {{master}}."
+  },
+  {
+   "i": 1061,
+   "src": "56962f19cf44",
+   "t": "Finge ser mi {{master}}."
+  },
+  {
+   "i": 1069,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1080,
+   "src": "6435386f9122",
+   "t": "{{metabee}}..."
+  },
+  {
+   "i": 1086,
+   "src": "ffce3d14e2f8",
+   "t": "{{rokusho}}..."
+  },
+  {
+   "i": 1113,
+   "src": "d4b8d36f711d",
+   "t": "Dime cuando venga ese ataque."
+  },
+  {
+   "i": 1116,
+   "src": "fdf2ca2bebd9",
+   "t": "Yo me encargo de todo."
+  },
+  {
+   "i": 1122,
+   "src": "d4b8d36f711d",
+   "t": "Dime cuando venga ese ataque."
+  },
+  {
+   "i": 1125,
+   "src": "17764cd18ac6",
+   "t": "Yo me encargo de todo."
+  },
+  {
+   "i": 1133,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1139,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1154,
+   "src": "571ecde32cb9",
+   "t": "Entendido."
+  }
+ ]
+}

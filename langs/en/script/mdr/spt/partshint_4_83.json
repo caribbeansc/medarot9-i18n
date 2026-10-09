@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_83.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e5122e0a3060",
+   "t": "<c:00ff00>Leg Trait:<c> {{sabotage}}\nWhen attacking anything\nother than a {{medabot}},\n{{power}},\n{{success}}, {{prep}} and\n{{cooldown}} +10."
+  }
+ ]
+}

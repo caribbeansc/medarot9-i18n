@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description90.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a25e9eaa6ee4",
+   "t": "{{leader|cap}} {{effect|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "125cbbec2a3a",
+   "t": "A special {{effect}} each <c:ffff00>{{medal}}<c> has that only activates\nwhen it is chosen as <c:ffff00>{{leader}}<c> in a <c:ffff00>{{robattle}}<c>.\n\nMany are powerful effects that reach the whole\nallied or opposing team.\n\nIf you set 3 <c:ffff00>{{medalia}}<c> of the same shape in the\n<c:ffff00>{{medalia}} slots<c>, the {{medal}}'s {{leader_effect}} changes."
+  }
+ ]
+}

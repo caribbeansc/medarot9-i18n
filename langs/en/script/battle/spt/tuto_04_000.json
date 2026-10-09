@@ -1,0 +1,55 @@
+{
+ "file": "battle/spt/tuto_04_000.spt",
+ "lines": [
+  {
+   "i": 1126,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1132,
+   "src": "b11de1c7401b",
+   "t": "Only {{part|pl}} with the Berserk <c:ff00ff>sub-skill<c>\ncan use <c:ff00ff>Berserk<c>.     "
+  },
+  {
+   "i": 1146,
+   "src": "82b2020a6c0f",
+   "t": "These are the {{part|pl}} showing this\nBerserk command.          "
+  },
+  {
+   "i": 1172,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1178,
+   "src": "3d85bd4082fa",
+   "t": "First, use the <c:ff00ff>D-Pad<c> to select\na {{part}} that can use Berserk.                  "
+  },
+  {
+   "i": 1254,
+   "src": "34560d71e4e5",
+   "t": "After selecting the {{part}}, press\n<c:ff00ff>the same D-Pad direction<c> again.           "
+  },
+  {
+   "i": 1329,
+   "src": "6e452734de37",
+   "t": "Ah, <c:ff00ff>{{power}} went up<c>!          "
+  },
+  {
+   "i": 1334,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1340,
+   "src": "ccfbbfed8781",
+   "t": "Berserk builds up momentum. The\nhigher\nthe legs' <c:ff00ff>{{mobility}}<c>, the more power.                                                            "
+  },
+  {
+   "i": 1348,
+   "src": "70b7792986ec",
+   "t": "Confirm the command with the $*\nbutton.     "
+  }
+ ]
+}

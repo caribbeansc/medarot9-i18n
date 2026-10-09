@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f02_120_210_20_t001.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "3f4a35c3542b",
+   "t": "W-wait, don't run away--"
+  },
+  {
+   "i": 1046,
+   "src": "55e9c5cf3275",
+   "t": "Stay away."
+  },
+  {
+   "i": 1057,
+   "src": "b1f4ebeb9958",
+   "t": "Why not?"
+  },
+  {
+   "i": 1060,
+   "src": "114c0c58f043",
+   "t": "{{mio}} is so worried about you..."
+  },
+  {
+   "i": 1068,
+   "src": "9b7a818b8fb7",
+   "t": "Is there a reason you don't want to go\nback?"
+  },
+  {
+   "i": 1071,
+   "src": "5781cd84f781",
+   "t": "Then won't you tell us?"
+  },
+  {
+   "i": 1095,
+   "src": "0f7d6f19b729",
+   "t": "{{mio}} doesn't understand."
+  },
+  {
+   "i": 1106,
+   "src": "432ba9c1264a",
+   "t": "Understand what?"
+  },
+  {
+   "i": 1120,
+   "src": "4756d4f46d5c",
+   "t": "That's why I want her to understand."
+  },
+  {
+   "i": 1123,
+   "src": "8753c80c4261",
+   "t": "Until then, I--"
+  }
+ ]
+}

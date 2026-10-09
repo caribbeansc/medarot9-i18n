@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3c_130_s01_t012.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "c5e089e0ea5a",
+   "t": "If you join now, a {{culture_club}} is\nprobably better."
+  },
+  {
+   "i": 1041,
+   "src": "70c70625945c",
+   "t": "Why not try the {{club_building}}?"
+  }
+ ]
+}

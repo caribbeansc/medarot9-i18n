@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/free06_02_05_03_t011.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1048,
+   "src": "68946933a9e9",
+   "t": "Qué tal, "
+  },
+  {
+   "i": 1052,
+   "src": "7d82e4edd0cb",
+   "t": "¿Puedes ver algo?"
+  },
+  {
+   "i": 1075,
+   "src": "c55af6d34379",
+   "t": "Se ve un barco enorme allá abajo."
+  },
+  {
+   "i": 1083,
+   "src": "adeb0c47850c",
+   "t": "¿¡Será un {{sunken_ship}}...!?"
+  },
+  {
+   "i": 1088,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1094,
+   "src": "05b318e7b5a4",
+   "t": "Bien."
+  },
+  {
+   "i": 1097,
+   "src": "5e6bff26a346",
+   "t": "Sigue acercándote despacio."
+  },
+  {
+   "i": 1104,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1113,
+   "src": "0bdfde9b6753",
+   "t": "La señal se está moviendo."
+  },
+  {
+   "i": 1116,
+   "src": "a9e25972b461",
+   "t": "Esto es..."
+  }
+ ]
+}

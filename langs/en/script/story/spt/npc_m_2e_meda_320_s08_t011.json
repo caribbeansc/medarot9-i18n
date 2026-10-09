@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2e_meda_320_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e5d5c2111d8c",
+   "t": "{{banisher}}"
+  },
+  {
+   "i": 1038,
+   "src": "51394225f253",
+   "t": "Honestly, I think it's fine to look for"
+  },
+  {
+   "i": 1041,
+   "src": "7df5afaf0b43",
+   "t": "{{medalia|pl}} while we train."
+  },
+  {
+   "i": 1049,
+   "src": "c4569e9be350",
+   "t": "Field training and {{medalia}} hunting"
+  },
+  {
+   "i": 1052,
+   "src": "5a3e598bad07",
+   "t": "are pretty much the same thing."
+  }
+ ]
+}

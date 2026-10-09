@@ -1,0 +1,135 @@
+{
+ "file": "story/spt/f11_020_108_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1045,
+   "src": "d96c79805492",
+   "t": "What should we do"
+  },
+  {
+   "i": 1048,
+   "src": "7db5e9c478db",
+   "t": "now..."
+  },
+  {
+   "i": 1065,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1074,
+   "src": "48e7129c62f7",
+   "t": "There's nothing we can do. The\nacademy"
+  },
+  {
+   "i": 1077,
+   "src": "d252d88c109f",
+   "t": "is now fully under {{select_corps}}\ncommand."
+  },
+  {
+   "i": 1091,
+   "src": "5c970240c8e3",
+   "t": "{{mr_saito}}"
+  },
+  {
+   "i": 1097,
+   "src": "77af76ea0322",
+   "t": "Unless they give the word,"
+  },
+  {
+   "i": 1100,
+   "src": "62fa0b4a7c5d",
+   "t": "we can't even breathe..."
+  },
+  {
+   "i": 1110,
+   "src": "43aa2cb11823",
+   "t": "{{ms_tomigiku}}"
+  },
+  {
+   "i": 1119,
+   "src": "a17e7d8dc94b",
+   "t": "That's"
+  },
+  {
+   "i": 1122,
+   "src": "0252c4d8cba6",
+   "t": "way too pessimistic!"
+  },
+  {
+   "i": 1132,
+   "src": "9d002433b612",
+   "t": "{{mr_izumo}}"
+  },
+  {
+   "i": 1141,
+   "src": "b8f96ac52d84",
+   "t": "She's right, Saito-san."
+  },
+  {
+   "i": 1156,
+   "src": "cc3e63d3758b",
+   "t": "For the students' sake, we have"
+  },
+  {
+   "i": 1159,
+   "src": "ff6429afe486",
+   "t": "to think hard about what we can do and\nact."
+  },
+  {
+   "i": 1169,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1178,
+   "src": "a8efe2025f88",
+   "t": "Um, um..."
+  },
+  {
+   "i": 1181,
+   "src": "ccefa43e0737",
+   "t": "Will classes be canceled from\ntomorrow?"
+  },
+  {
+   "i": 1191,
+   "src": "5c970240c8e3",
+   "t": "{{mr_saito}}"
+  },
+  {
+   "i": 1200,
+   "src": "224c726474df",
+   "t": "Tomorrow, at least, can't be helped."
+  },
+  {
+   "i": 1203,
+   "src": "c6268811145e",
+   "t": "Let the students know to wait in the\ndorms--"
+  },
+  {
+   "i": 1210,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1216,
+   "src": "45a31c090c05",
+   "t": "That won't be necessary."
+  },
+  {
+   "i": 1226,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1235,
+   "src": "a79c3e558321",
+   "t": "{{principal|cap}}?!"
+  }
+ ]
+}

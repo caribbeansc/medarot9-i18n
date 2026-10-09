@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1c_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38970cb0378c",
+   "t": "1st-Yr Boy C"
+  },
+  {
+   "i": 1035,
+   "src": "68a1e5835dc8",
+   "t": "Hi, "
+  },
+  {
+   "i": 1037,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1040,
+   "src": "6b45202650a6",
+   "t": "It's me, your {{classmate}}!"
+  },
+  {
+   "i": 1048,
+   "src": "87e22053e0ee",
+   "t": "Now? I'm watering the flowers."
+  },
+  {
+   "i": 1051,
+   "src": "8653ae60fb46",
+   "t": "Believe it or not, I'm in the Gardening\n{{club|cap}}."
+  },
+  {
+   "i": 1059,
+   "src": "1510ab517ec3",
+   "t": "...Huh, not surprising at all?"
+  },
+  {
+   "i": 1062,
+   "src": "68c2089575c6",
+   "t": "Maybe so, haha."
+  }
+ ]
+}

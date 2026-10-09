@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f01_000_110_00_t008.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1042,
+   "src": "de6853432462",
+   "t": "Es el {{principal}}."
+  },
+  {
+   "i": 1049,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1055,
+   "src": "198f51d27531",
+   "t": "¿Ya terminó la ceremonia?"
+  },
+  {
+   "i": 1069,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1075,
+   "src": "d1042eda2652",
+   "t": "Ah, sí."
+  },
+  {
+   "i": 1078,
+   "src": "039d133a8d42",
+   "t": "Ya casi terminamos aquí."
+  },
+  {
+   "i": 1085,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1091,
+   "src": "ef86350d793b",
+   "t": "Ya veo."
+  },
+  {
+   "i": 1094,
+   "src": "62db54054f4d",
+   "t": "Pues, es el momento perfecto."
+  }
+ ]
+}

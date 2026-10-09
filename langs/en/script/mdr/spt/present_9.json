@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/present_9.spt",
+ "lines": [
+  {
+   "i": 1386,
+   "src": "c57724fe45a1",
+   "t": "The password for this present"
+  },
+  {
+   "i": 1389,
+   "src": "106b39b67853",
+   "t": "I've already received it. "
+  },
+  {
+   "i": 1510,
+   "src": "242b2eb50a16",
+   "t": " <c>I got a set of {{part|pl}}!"
+  }
+ ]
+}

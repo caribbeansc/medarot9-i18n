@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2b_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1038,
+   "src": "31ac411e0c53",
+   "t": "Sobre {{medabot|pl}}, pregúntale al"
+  },
+  {
+   "i": 1041,
+   "src": "0d2683fabbed",
+   "t": "presidente del club. Sabe muchísimo."
+  },
+  {
+   "i": 1049,
+   "src": "5ea884355ddc",
+   "t": "En {{robattle|pl}} yo soy mejor."
+  },
+  {
+   "i": 1052,
+   "src": "24f4542fe364",
+   "t": "Solo un poquito, eso sí."
+  }
+ ]
+}

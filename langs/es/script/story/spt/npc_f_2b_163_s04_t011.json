@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2b_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 1038,
+   "src": "db855e93d7f3",
+   "t": "Si nos va bien en el torneo,"
+  },
+  {
+   "i": 1041,
+   "src": "cff5ed35dfbf",
+   "t": "suben el presupuesto del {{club}}."
+  },
+  {
+   "i": 1049,
+   "src": "a86686e49cec",
+   "t": "¿Cuánto nos darán si ganamos?"
+  },
+  {
+   "i": 1052,
+   "src": "a2ac717ad637",
+   "t": "Yo de verdad quiero un traje nuevo."
+  }
+ ]
+}

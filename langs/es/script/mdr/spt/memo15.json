@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/memo15.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "a21fab32bf62",
+   "t": "Volvamos al subsuelo del {{storehouse}}."
+  },
+  {
+   "i": 32,
+   "src": "d01baea3b7c6",
+   "t": "3 Nueva investigación del {{storehouse_basement}}\n"
+  }
+ ]
+}

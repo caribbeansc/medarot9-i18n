@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_35.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "0775f3c8e000",
+   "t": "<c:00ff00>{{mf}}:<c>{{explosive_medaforce}}\nLos ataques a distancia de\ntu equipo golpean a todos\ny dañan todas las {{part|pl}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

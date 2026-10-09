@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0454.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 872,
+   "src": "5b96be5b32d6",
+   "t": "¿Una {{robattle}}?"
+  },
+  {
+   "i": 875,
+   "src": "9fa2722c637c",
+   "t": "Está bien, hagámoslo."
+  }
+ ]
+}

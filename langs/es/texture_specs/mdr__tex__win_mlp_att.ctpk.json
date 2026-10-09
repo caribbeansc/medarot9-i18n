@@ -1,0 +1,55 @@
+{
+ "rel": "mdr/tex/win_mlp_att.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    162,
+    1,
+    80,
+    19
+   ],
+   "erase_box": [
+    161,
+    0,
+    82,
+    21
+   ],
+   "erase": "transparent",
+   "text": "Atencion",
+   "font": "sf-rounded-heavy",
+   "cap": 11.5,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFB22A"
+     ],
+     [
+      0.45,
+      "#FFCF48"
+     ],
+     [
+      1,
+      "#FFEC70"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#7F0000",
+     "w": 1.0
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#190600",
+    "blur": 1.4,
+    "opacity": 0.3
+   },
+   "pad": 0,
+   "baseline": 15
+  }
+ ]
+}

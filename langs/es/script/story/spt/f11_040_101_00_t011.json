@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f11_040_101_00_t011.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "9f734fd1a777",
+   "t": "¿Qué es eso?"
+  },
+  {
+   "i": 1060,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1069,
+   "src": "c7233bf2fbcb",
+   "t": "Los {{medabot|pl}}--"
+  },
+  {
+   "i": 1076,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1085,
+   "src": "ec3a308d11f8",
+   "t": "¡Ahí vienen!"
+  }
+ ]
+}

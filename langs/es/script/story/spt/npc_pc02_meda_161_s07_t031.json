@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc02_meda_161_s07_t031.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "76c1ff014138",
+   "t": "Me alegra que encontráramos las {{part|pl}}."
+  },
+  {
+   "i": 1038,
+   "src": "6a509e3fa78c",
+   "t": "{{flora}} estará feliz."
+  }
+ ]
+}

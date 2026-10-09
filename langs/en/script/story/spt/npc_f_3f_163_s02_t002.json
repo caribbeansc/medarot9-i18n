@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3f_163_s02_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "d613c6db4a17",
+   "t": "Even so, I'm worried."
+  },
+  {
+   "i": 1041,
+   "src": "b1e6b59b1eae",
+   "t": "You tend to be a little too serious, you\nknow."
+  },
+  {
+   "i": 1049,
+   "src": "628b21c41a36",
+   "t": "Don't push yourself too hard, okay?"
+  },
+  {
+   "i": 1052,
+   "src": "e28fb2ae0763",
+   "t": "Promise me."
+  }
+ ]
+}

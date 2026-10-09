@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f02_130_211_10_t003.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1049,
+   "src": "f6e7fb1a6036",
+   "t": "How exciting."
+  },
+  {
+   "i": 1063,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1069,
+   "src": "784f109752a2",
+   "t": "We might make a big discovery."
+  },
+  {
+   "i": 1077,
+   "src": "10b8384c368d",
+   "t": "Ah, hey--"
+  }
+ ]
+}

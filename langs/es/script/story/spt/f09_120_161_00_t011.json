@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f09_120_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "398362255bc4",
+   "t": "Buen trabajo con los materiales. "
+  },
+  {
+   "i": 1038,
+   "src": "0c488c905fd3",
+   "t": "Así terminamos todo a tiempo."
+  },
+  {
+   "i": 1046,
+   "src": "7229be34257f",
+   "t": "Nosotros haremos el resto."
+  },
+  {
+   "i": 1049,
+   "src": "decd07a43150",
+   "t": "Eres libre hasta la apertura."
+  }
+ ]
+}

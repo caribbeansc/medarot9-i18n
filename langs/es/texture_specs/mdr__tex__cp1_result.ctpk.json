@@ -1,0 +1,111 @@
+{
+ "rel": "mdr/tex/cp1_result.ctpk",
+ "base": "jp",
+ "styles": {
+  "dorado": {
+   "erase": "none",
+   "font": "sf-rounded-black",
+   "pad": 0,
+   "min_scale_x": 0.8,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFF0BC"
+     ],
+     [
+      0.5,
+      "#FFF0BC"
+     ],
+     [
+      0.62,
+      "#FFDC6D"
+     ],
+     [
+      0.72,
+      "#FFCD43"
+     ],
+     [
+      0.85,
+      "#FFA01A"
+     ],
+     [
+      1,
+      "#FF690C"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#BC4E07",
+     "w": 1.3
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "box": [
+    107,
+    60,
+    52,
+    39
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    158,
+    60,
+    60,
+    40
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "dorado",
+   "box": [
+    109,
+    62,
+    48,
+    36
+   ],
+   "text": "Nota",
+   "cap": 16
+  },
+  {
+   "style": "dorado",
+   "box": [
+    160,
+    62,
+    56,
+    36
+   ],
+   "text": "Premio",
+   "cap": 13
+  },
+  {
+   "box": [
+    107,
+    102,
+    14,
+    15
+   ],
+   "erase": "glyph",
+   "bg": "transparent",
+   "text": "Y",
+   "font": "tahoma",
+   "cap": 9.5,
+   "fill": {
+    "top": "#EEEEEE",
+    "bottom": "#C4C4C4"
+   },
+   "stroke": "#1D1D1DC8",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "crisp": 0.3
+  }
+ ]
+}

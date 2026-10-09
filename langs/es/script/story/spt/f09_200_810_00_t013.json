@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f09_200_810_00_t013.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "3b28b1dfd2d8",
+   "t": "¿Oh?"
+  },
+  {
+   "i": 1141,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1152,
+   "src": "7c5f89e438a5",
+   "t": "!?"
+  }
+ ]
+}

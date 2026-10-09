@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/medal_get_nadl.spt",
+ "lines": [
+  {
+   "i": 1561,
+   "src": "5679586979f8",
+   "t": "<c> - {{medal}} obtenida!"
+  },
+  {
+   "i": 1588,
+   "src": "0da2cf604308",
+   "t": "<c>: ¿quieres ponerle nombre?"
+  },
+  {
+   "i": 1595,
+   "src": "398ba28da04b",
+   "t": "Sí"
+  },
+  {
+   "i": 1596,
+   "src": "7e3865de42a5",
+   "t": "No"
+  },
+  {
+   "i": 1600,
+   "src": "398ba28da04b",
+   "t": "Sí"
+  }
+ ]
+}

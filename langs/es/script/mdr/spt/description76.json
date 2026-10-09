@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description76.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b6184967b42b",
+   "t": "{{cyber|cap}} ({{field}})"
+  },
+  {
+   "i": 11,
+   "src": "4c44ca3d9c1a",
+   "t": "Un tipo de <c:ffff00>{{field}}<c> donde se hace la <c:ffff00>{{robattle}}<c>.\n{{terrain|cap}} de un espacio virtual construido en un\nespacio no tridimensional.\nLa <c:ffff00>{{terrain_affinity}}<c> da +4 a la <c:ffff00>{{mobility}}<c>, el\n<c:ffff00>{{fighting}}<c> y el <c:ffff00>{{shooting}}<c> de todos los <c:ffff00>tipos de {{legs}}<c>."
+  }
+ ]
+}

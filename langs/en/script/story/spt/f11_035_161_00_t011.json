@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f11_035_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 896,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 907,
+   "src": "254b012904cd",
+   "t": "Ready?"
+  },
+  {
+   "i": 918,
+   "src": "ad3cb5700c50",
+   "t": "Huh?"
+  },
+  {
+   "i": 923,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 929,
+   "src": "7d6ee45640eb",
+   "t": "Probably-- no, definitely"
+  },
+  {
+   "i": 932,
+   "src": "1ec50ac4f0a5",
+   "t": "a battle awaits once we leave here."
+  },
+  {
+   "i": 940,
+   "src": "eb54b378850d",
+   "t": "You'd better go out prepared for it."
+  },
+  {
+   "i": 943,
+   "src": "c3236428c20f",
+   "t": "Are you mentally ready?"
+  }
+ ]
+}

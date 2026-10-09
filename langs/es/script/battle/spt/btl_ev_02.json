@@ -1,0 +1,15 @@
+{
+ "file": "battle/spt/btl_ev_02.spt",
+ "lines": [
+  {
+   "i": 32,
+   "src": "f9f7c6283ae4",
+   "t": "Usar CF"
+  },
+  {
+   "i": 55,
+   "src": "87676a3f2bea",
+   "t": "Explicación"
+  }
+ ]
+}

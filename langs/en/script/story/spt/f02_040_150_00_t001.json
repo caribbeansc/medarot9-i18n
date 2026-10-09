@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f02_040_150_00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1035,
+   "src": "b5558f25c234",
+   "t": "{{aoi}}? Yeah,"
+  },
+  {
+   "i": 1038,
+   "src": "bcd11eef8696",
+   "t": "we're in the same {{class}}."
+  },
+  {
+   "i": 1046,
+   "src": "1d4a5fc614bb",
+   "t": "I just passed her a minute ago."
+  },
+  {
+   "i": 1049,
+   "src": "ad21ab21fb6c",
+   "t": "Maybe she's heading back to the dorm?"
+  },
+  {
+   "i": 1060,
+   "src": "4d6d37df14a6",
+   "t": "Dorm?"
+  },
+  {
+   "i": 1065,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1074,
+   "src": "bebe77f62989",
+   "t": "Huh? But it's the girls' dorm..."
+  },
+  {
+   "i": 1085,
+   "src": "168b842b1c0e",
+   "t": "There's a girls' dorm!"
+  },
+  {
+   "i": 1090,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1099,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1107,
+   "src": "8f2753e22aff",
+   "t": "Of course there is!"
+  }
+ ]
+}

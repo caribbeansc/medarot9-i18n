@@ -1,0 +1,45 @@
+{
+ "file": "spt/field.spt",
+ "lines": [
+  {
+   "i": 1888,
+   "src": "081eb70049a7",
+   "t": "The trial version ends here."
+  },
+  {
+   "i": 1891,
+   "src": "14c93347d4d5",
+   "t": "Enjoy the rest in the full version."
+  },
+  {
+   "i": 1926,
+   "src": "d1ca24bcb6a6",
+   "t": "Checking for additional content."
+  },
+  {
+   "i": 2022,
+   "src": "a15bb7e3bce6",
+   "t": "An unavailable {{robattle}} BGM"
+  },
+  {
+   "i": 2023,
+   "src": "684adbd587b4",
+   "t": "was selected, so the {{robattle}} BGM"
+  },
+  {
+   "i": 2024,
+   "src": "25dc5078e0e8",
+   "t": "was reset to the default."
+  },
+  {
+   "i": 2040,
+   "src": "1f78484f34cc",
+   "t": "Unavailable {{part|pl}} were equipped,"
+  },
+  {
+   "i": 2041,
+   "src": "b8c75b166f1e",
+   "t": "so your setup was changed."
+  }
+ ]
+}

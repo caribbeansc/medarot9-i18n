@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f06_150_161_00_t025.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "7ce90605cfda",
+   "t": "¿Vamos?"
+  },
+  {
+   "i": 1053,
+   "src": "1f5c8636b2c9",
+   "t": "¿A dónde?"
+  },
+  {
+   "i": 1061,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1067,
+   "src": "9ef8a7c2ecba",
+   "t": "Al lugar del problema."
+  },
+  {
+   "i": 1070,
+   "src": "610709c86dae",
+   "t": "Sería más rápido ir directamente, ¿no?"
+  },
+  {
+   "i": 1077,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1083,
+   "src": "ab6ebe4cab53",
+   "t": "La {{principal_s_office}}, eh..."
+  },
+  {
+   "i": 1100,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1109,
+   "src": "362758e00a64",
+   "t": "¡Yo también voy!"
+  }
+ ]
+}

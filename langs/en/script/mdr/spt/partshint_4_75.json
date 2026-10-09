@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_75.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "23829264a827",
+   "t": "<c:00ff00>Leg Trait:<c> CF Charge\nWhile {{waiting}} on CF, the\n{{charge_gauge}} increases."
+  }
+ ]
+}

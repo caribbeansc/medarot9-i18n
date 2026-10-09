@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f05_180_114_10_t013.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1044,
+   "src": "cb51ec649cb9",
+   "t": "Ta-da!"
+  },
+  {
+   "i": 1047,
+   "src": "2d0e5a693a77",
+   "t": "You {{pass}}~!"
+  },
+  {
+   "i": 1061,
+   "src": "26c1b807f8de",
+   "t": "What!?"
+  },
+  {
+   "i": 1068,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1077,
+   "src": "09e50a07e066",
+   "t": "Saying \"{{pass}}\" is a little odd, though."
+  },
+  {
+   "i": 1080,
+   "src": "75a306ce5faa",
+   "t": "But there was nothing to worry about."
+  },
+  {
+   "i": 1088,
+   "src": "57ed8a350cbf",
+   "t": "I think you two have a wonderful\nrelationship."
+  },
+  {
+   "i": 1091,
+   "src": "5e4840e2cabf",
+   "t": "Keep growing together, nice and slow."
+  },
+  {
+   "i": 1099,
+   "src": "fe7caea5ef28",
+   "t": "So your course is fine, same as the\nothers."
+  },
+  {
+   "i": 1102,
+   "src": "d54ce8d6887b",
+   "t": "*Clap clap* Congratulations~!"
+  },
+  {
+   "i": 1113,
+   "src": "95039396e47f",
+   "t": "Ah..."
+  },
+  {
+   "i": 1128,
+   "src": "5cd63277d645",
+   "t": "Thank you very much!!"
+  }
+ ]
+}

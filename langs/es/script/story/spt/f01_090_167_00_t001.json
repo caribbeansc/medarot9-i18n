@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f01_090_167_00_t001.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "54fe05c2711c",
+   "t": "¡Ah, ahí estás!"
+  },
+  {
+   "i": 1053,
+   "src": "19799e8590da",
+   "t": "No te vayas así de repente, "
+  },
+  {
+   "i": 1055,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1058,
+   "src": "0be4f855cec1",
+   "t": "Por tu culpa no pude unirme al {{club}}."
+  },
+  {
+   "i": 1082,
+   "src": "895ddf3a68c9",
+   "t": "¿No pudiste unirte al {{club}}?"
+  },
+  {
+   "i": 1088,
+   "src": "138e743f257f",
+   "t": "No pudiste unirte al {{club}}..."
+  },
+  {
+   "i": 1094,
+   "src": "1b430b4806ad",
+   "t": "¡Bien hecho!"
+  },
+  {
+   "i": 1109,
+   "src": "26fb22b2892b",
+   "t": "No, ¡para nada!"
+  },
+  {
+   "i": 1128,
+   "src": "1f2b4cbd3559",
+   "t": "?...??"
+  },
+  {
+   "i": 1134,
+   "src": "a1cf2657124c",
+   "t": ", ¿querías unirte al club?"
+  },
+  {
+   "i": 1137,
+   "src": "f2dd26ce532c",
+   "t": "¿Te gusta estudiar?"
+  },
+  {
+   "i": 1145,
+   "src": "acabaee96980",
+   "t": "B-bueno, no exactamente..."
+  },
+  {
+   "i": 1169,
+   "src": "9f54fef3f1f9",
+   "t": "Entonces, mejor que no entraras, ¿no?"
+  },
+  {
+   "i": 1172,
+   "src": "3c8ac552d66b",
+   "t": "¿Cuál es el problema?"
+  },
+  {
+   "i": 1178,
+   "src": "e9fe93cf3a79",
+   "t": "Pues fue bueno que no entraras, ¿no?"
+  },
+  {
+   "i": 1181,
+   "src": "741579422576",
+   "t": "¿Por qué estás tan preocupado?"
+  },
+  {
+   "i": 1197,
+   "src": "4eda78e33c83",
+   "t": "Ya, está bien."
+  }
+ ]
+}

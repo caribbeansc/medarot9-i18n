@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_19.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7ddafbdf6041",
+   "t": "Yellow dragonfly-{{type}}\n{{medabot}}.\n \nMakes up for thin\narmor with agility: it\nconfuses the foe and\nslams in a {{press}}\nattack with {{power}} and\n{{success}}."
+  }
+ ]
+}

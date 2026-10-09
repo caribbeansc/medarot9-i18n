@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f11_050_108_00_t011.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1049,
+   "src": "046b1b4b0547",
+   "t": "At first we had the upper hand, sir."
+  },
+  {
+   "i": 1052,
+   "src": "dee369343e85",
+   "t": "The monster was clearly weakened, sir."
+  },
+  {
+   "i": 1060,
+   "src": "1caaccbb9ddc",
+   "t": "But then..."
+  },
+  {
+   "i": 1075,
+   "src": "55e243216210",
+   "t": "Suddenly the monster let out a roar, sir."
+  },
+  {
+   "i": 1078,
+   "src": "1606f12d4c3b",
+   "t": "And the tide of battle turned in an\ninstant, sir!"
+  },
+  {
+   "i": 1086,
+   "src": "d276a2bbd398",
+   "t": "Our {{medabot|pl}} suddenly stopped\nlistening to us"
+  },
+  {
+   "i": 1089,
+   "src": "51426b3b4771",
+   "t": "and began attacking us, sir!"
+  },
+  {
+   "i": 1104,
+   "src": "20db2e42f9c0",
+   "t": "Before long we were forced into"
+  },
+  {
+   "i": 1107,
+   "src": "a7799c10082d",
+   "t": "a full retreat, sir...!"
+  },
+  {
+   "i": 1114,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1120,
+   "src": "e37fb78bb5b4",
+   "t": "What happened to Tenshin?"
+  },
+  {
+   "i": 1134,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1140,
+   "src": "3c1f173f5e71",
+   "t": "Ten-- You mean the captain, sir? He"
+  },
+  {
+   "i": 1143,
+   "src": "b3c5c481bae4",
+   "t": "is armed and holding the front line with\nthe squad."
+  },
+  {
+   "i": 1151,
+   "src": "e7668f6594df",
+   "t": "The captain intends to stake his life as a\nbreakwater."
+  },
+  {
+   "i": 1154,
+   "src": "a84999e89369",
+   "t": "Of course, we're prepared for that too."
+  },
+  {
+   "i": 1165,
+   "src": "e7dc425807b7",
+   "t": "While we hold them off,"
+  },
+  {
+   "i": 1168,
+   "src": "7459c137949e",
+   "t": "everyone, please evacuate the island\nquickly--"
+  },
+  {
+   "i": 1175,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1181,
+   "src": "86ae81c594bd",
+   "t": "Nonsense."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2d2_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "805865e3c3b7",
+   "t": "{{sarayuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "b109a8c27696",
+   "t": "Winning three years in a row is pretty\nrare."
+  },
+  {
+   "i": 1041,
+   "src": "f79973b14b1b",
+   "t": "We've got a shot this year, I think!"
+  }
+ ]
+}

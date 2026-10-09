@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_220_800_00_t112.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "86d09c0b4348",
+   "t": "A perfect fit!"
+  },
+  {
+   "i": 1056,
+   "src": "92b471322d43",
+   "t": "W-what's going on?"
+  },
+  {
+   "i": 1059,
+   "src": "c2235dfc100e",
+   "t": "Don't tell me it's a {{principal|cap}}-{{type}}\n{{medabot}}...?"
+  },
+  {
+   "i": 1067,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1073,
+   "src": "d82df2b7982b",
+   "t": "No."
+  },
+  {
+   "i": 1088,
+   "src": "e7af03c8ebfc",
+   "t": "Waaah!"
+  }
+ ]
+}

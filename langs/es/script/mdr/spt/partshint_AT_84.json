@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_84.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ced6d7829f30",
+   "t": "<c:00ff00>Técnica:<c>{{cooler}}\nDurante un tiempo, {{up}}\nel {{cooldown}} de todo tu\nequipo.\nSi se usa de nuevo\ndurante el {{effect}} de\nenfriador, el {{effect}}\naumenta."
+  }
+ ]
+}

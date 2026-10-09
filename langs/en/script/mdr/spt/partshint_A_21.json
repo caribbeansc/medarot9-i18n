@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_21.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ce306cd80842",
+   "t": "<c:00ff00>{{mf}}:<c> Sideswipe\nLaunches a melee attack\nat the whole opposing\nteam.\n<c:00ffff>{{required_parts}}<c>\nOne or more fighting\n{{part|pl}}"
+  }
+ ]
+}

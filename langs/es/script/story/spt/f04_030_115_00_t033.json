@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f04_030_115_00_t033.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1035,
+   "src": "5780ed0e379e",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1038,
+   "src": "32c4ebc15f4c",
+   "t": "¿No ibas a la oficina del {{teacher}}?"
+  },
+  {
+   "i": 1045,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1054,
+   "src": "8cb06cf38b07",
+   "t": "Así que..."
+  },
+  {
+   "i": 1067,
+   "src": "aa1c6046e64d",
+   "t": "Esa era mi intención, pero"
+  },
+  {
+   "i": 1070,
+   "src": "6beed0a7646e",
+   "t": "no sé dónde está la {{staff_room}}."
+  },
+  {
+   "i": 1077,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1086,
+   "src": "861f683df6f2",
+   "t": "Vaya, así que era eso~."
+  },
+  {
+   "i": 1096,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1102,
+   "src": "08f1bdb24f97",
+   "t": "Entonces yo te llevo."
+  },
+  {
+   "i": 1112,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1118,
+   "src": "ec11bee3493f",
+   "t": "No, ¡yo puedo!"
+  },
+  {
+   "i": 1127,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1136,
+   "src": "9ea703cbd370",
+   "t": "¡Muchísimas gracias!"
+  }
+ ]
+}

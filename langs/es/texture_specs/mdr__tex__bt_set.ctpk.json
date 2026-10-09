@@ -1,0 +1,73 @@
+{
+ "rel": "mdr/tex/bt_set.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "font": "sf-cond-heavy",
+  "cap": 9,
+  "fill": "auto",
+  "stroke": null,
+  "min_scale_x": 0.75,
+  "text": "Configuracion",
+  "baseline": 18,
+  "align": "left",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    33,
+    8,
+    74,
+    14
+   ],
+   "erase_box": [
+    32,
+    8,
+    66,
+    14
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#F4F4F4",
+    "opacity": 0.8
+   }
+  },
+  {
+   "box": [
+    34,
+    32,
+    73,
+    14
+   ],
+   "erase_box": [
+    32,
+    32,
+    66,
+    14
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#E4E4E4",
+    "opacity": 0.6
+   },
+   "baseline": 42
+  },
+  {
+   "box": [
+    145,
+    8,
+    74,
+    14
+   ],
+   "erase_box": [
+    144,
+    8,
+    66,
+    14
+   ]
+  }
+ ]
+}

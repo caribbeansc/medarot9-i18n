@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_6.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "78d38bf14172",
+   "t": "<c:00ff00>{{mf}}:<c>Nivel Perdido\nReduce a la mitad todos\nlos niveles de habilidad de\nla\n{{medal}} del equipo {{opponent}}.\n<c:00ffff>#{{part|cap}} requerida<c>\n1 o más {{part|pl}} de ataque"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3e2_meda_150_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1b252ff8ff2e",
+   "t": "{{auroraqueen}}"
+  },
+  {
+   "i": 1038,
+   "src": "1ab60ce7acd9",
+   "t": "¡Sigue recto y verás un bote de basura!"
+  },
+  {
+   "i": 1041,
+   "src": "42aed7f16440",
+   "t": "¡Ojo o te chocas con él!"
+  }
+ ]
+}

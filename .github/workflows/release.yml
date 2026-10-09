@@ -1,0 +1,137 @@
+# On each push to main that can change what a player receives: checks the language packs, builds the
+# double-clickable patcher (gui.py) for Windows and macOS and publishes it as one GitHub release.
+#
+# The game is never in this repository, nor anywhere in CI: the patcher reads the player's own decrypted dump on
+# their computer. The executables bundle this repository's code and langs/ only.
+
+name: release-patcher
+
+# Releases happen only when something a player receives could have changed: translations, build code, the patcher,
+# or this workflow. A README or docs push publishes nothing; workflow_dispatch forces a run.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'langs/**'
+      - 'm9/**'
+      - 'm9.py'
+      - 'gui.py'
+      - '.github/workflows/release.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-patcher
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Language packs are well formed
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
+  # gui.py is pure standard library, so the macOS app is built universal2 on the Apple Silicon runner.
+  gui:
+    needs: check
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-latest
+            artifact: Medarot9-Patcher-Windows
+          - os: macos-latest
+            artifact: Medarot9-Patcher-macOS
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Install PyInstaller
+        run: pip install pyinstaller
+
+      - name: Build (Windows)
+        if: runner.os == 'Windows'
+        run: >
+          pyinstaller --noconfirm --clean --onefile --windowed
+          --name Medarot9-Patcher
+          --add-data "langs;langs"
+          gui.py
+
+      - name: Build (macOS, universal2)
+        if: runner.os == 'macOS'
+        run: >
+          pyinstaller --noconfirm --clean --onefile --windowed
+          --target-arch universal2
+          --name "Medarot9-Patcher"
+          --add-data "langs:langs"
+          gui.py
+
+      - name: Verify the app runs on both architectures (macOS)
+        if: runner.os == 'macOS'
+        run: |
+          archs=$(lipo -archs "dist/Medarot9-Patcher.app/Contents/MacOS/Medarot9-Patcher")
+          echo "archs: $archs"
+          case "$archs" in *x86_64*arm64*|*arm64*x86_64*) ;; *) exit 1;; esac
+
+      - name: Package (Windows)
+        if: runner.os == 'Windows'
+        run: Move-Item dist/Medarot9-Patcher.exe "${{ matrix.artifact }}.exe"
+
+      # Zip with ditto so the .app bundle structure and permissions survive.
+      - name: Package (macOS)
+        if: runner.os == 'macOS'
+        run: ditto -c -k --keepParent "dist/Medarot9-Patcher.app" "${{ matrix.artifact }}.zip"
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: ${{ matrix.artifact }}
+          path: |
+            ${{ matrix.artifact }}.exe
+            ${{ matrix.artifact }}.zip
+          if-no-files-found: error
+
+  release:
+    needs: gui
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/download-artifact@v8
+        with:
+          path: out
+          merge-multiple: true
+
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          (cd out && sha256sum * > "$RUNNER_TEMP/SHA256SUMS")
+          mv "$RUNNER_TEMP/SHA256SUMS" out/SHA256SUMS
+          # Same version scheme as the sibling repos: v<build date>-<short commit>.
+          day="$(date -u +%Y.%m.%d)"
+          short="${GITHUB_SHA::7}"
+          tag="v${day}-${short}"
+          notes="$RUNNER_TEMP/notes.md"
+          {
+            echo "**Version ${tag}**, built from commit ${GITHUB_SHA}."
+            echo
+            echo "The patcher only: it is not the game and it cannot get it for you. Point it at your own decrypted"
+            echo "copy of Medarot 9 (Kuwagata Ver.) and its 1.3.0 update, pick a language, and it installs the"
+            echo "translation into Azahar or makes a ZIP for the SD card of a real 3DS (Luma3DS)."
+            echo
+            echo "Windows: run the .exe (SmartScreen: 'More info' > 'Run anyway'). macOS: unzip, right-click the"
+            echo "app > Open the first time (it is not notarized); the app is universal, Intel and Apple Silicon."
+          } > "$notes"
+          gh release create "$tag" out/* \
+            --target "$GITHUB_SHA" \
+            --title "Patcher v${day} (${short})" \
+            --notes-file "$notes"

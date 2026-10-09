@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_77.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "64c433b68ef1",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{hoplite}}\nPor cada {{part}} de tipo\nDefensa que equipes,\n{{shooting}} y {{fighting}} +5."
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "rel": "mdr/tex/m9_chr_sel04__.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "hfill",
+  "font": "sf-cond-heavy",
+  "cap": 8.5,
+  "fill": "#111111",
+  "stroke": "#F2F2F2",
+  "stroke_w": 1.0,
+  "pad": 0,
+  "crisp": 0.4,
+  "baseline": 20,
+  "min_scale_x": 0.7
+ },
+ "items": [
+  {
+   "box": [
+    30,
+    9,
+    34,
+    13
+   ],
+   "erase_box": [
+    31,
+    11,
+    32,
+    10
+   ],
+   "text": "Flee"
+  },
+  {
+   "box": [
+    139,
+    9,
+    68,
+    13
+   ],
+   "erase_box": [
+    139,
+    11,
+    68,
+    10
+   ],
+   "text": "Start Robattle"
+  },
+  {
+   "box": [
+    37,
+    63,
+    66,
+    14
+   ],
+   "erase_box": [
+    36,
+    64,
+    55,
+    10
+   ],
+   "text": "Settings",
+   "baseline": 73,
+   "align": "left"
+  },
+  {
+   "box": [
+    157,
+    63,
+    66,
+    12
+   ],
+   "erase_box": [
+    156,
+    64,
+    64,
+    10
+   ],
+   "text": "View rival data",
+   "baseline": 73,
+   "align": "left"
+  },
+  {
+   "box": [
+    166,
+    114,
+    50,
+    12
+   ],
+   "erase_box": [
+    165,
+    114,
+    30,
+    11
+   ],
+   "text": "Back",
+   "baseline": 124,
+   "align": "left"
+  }
+ ]
+}

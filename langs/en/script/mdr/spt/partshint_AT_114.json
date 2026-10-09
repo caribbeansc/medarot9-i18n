@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_114.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c605914789ff",
+   "t": "<c:00ff00>Action:<c> {{serious_repair}}\nRecovers a lot of {{damage}}\non one {{part}} of one allied\n{{medabot}}."
+  }
+ ]
+}

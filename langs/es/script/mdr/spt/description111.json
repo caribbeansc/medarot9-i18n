@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description111.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "475f47fba755",
+   "t": "{{uses|cap}} (rend.)"
+  },
+  {
+   "i": 11,
+   "src": "7db65135c8de",
+   "t": "Tipo de <c:ffff00>{{stats}}<c> de la <c:ffff00>{{part}}<c> de <c:ffff00>{{head}}<c>.\n\nMide la munición o la energía que quedan, es decir,\ncuántas veces se puede ejecutar (disparar) la\nacción.\nBaja al usar la <c:ffff00>técnica<c> de la {{head_part}}. Con 0\n{{uses}}, la {{part}} no se puede usar.\nAl terminar la <c:ffff00>{{robattle}}<c> se recupera por completo\nde forma automática."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_52.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "77c6d49514fb",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nMancha de {{blood_stain}}\nCada vez que destruyes\nuna {{part}}, +3 en {{power}}.\n*Máximo +15."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_45.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "682c6a31453d",
+   "t": "<c:00ff00>Action:<c> {{wave}}\nA melee attack that\napplies\nthe {{wave}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{wave}}\nFor a while, {{prep}} and\n{{cooldown}} x1.5 and\ncannot\ndefend."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description94.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c9a03ab0d96d",
+   "t": "Técnica"
+  },
+  {
+   "i": 11,
+   "src": "bc1edf88735d",
+   "t": "<c:ffff00>Acción<c> en la que se usa una <c:ffff00>{{part}}<c> de <c:ffff00>{{head}}<c>, <c:ffff00>brazo<c>\n<c:ffff00>derecho<c> o <c:ffff00>{{left_arm}}<c>, o el <c:ffff00>Drive<c> durante el\n<c:ffff00>{{medachange}}<c>.\nPertenece a una de las 6 <c:ffff00>habilidades<c>, o es <c:ffff00>especial<c>.\n\nLos tiempos de <c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c> y el {{effect}}\nvarían según el <c:ffff00>{{stats}}<c> de la <c:ffff00>{{acting_part}}<c> y\nde las <c:ffff00>{{legs}}<c>, y el <c:ffff00>{{skill_level}}<c> de la <c:ffff00>{{medal}}<c>."
+  }
+ ]
+}

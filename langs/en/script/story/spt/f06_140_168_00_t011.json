@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f06_140_168_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1040,
+   "src": "38fb7e4654ed",
+   "t": "You're back. Good work."
+  },
+  {
+   "i": 1048,
+   "src": "47343e3fa8e5",
+   "t": "I've already received a report from the\nRescue"
+  },
+  {
+   "i": 1051,
+   "src": "2441d3ce7432",
+   "t": "Club. I hear it all ended safely."
+  },
+  {
+   "i": 1059,
+   "src": "36b4e989189a",
+   "t": "I'll pick up the fireworks on tournament\nday."
+  },
+  {
+   "i": 1062,
+   "src": "5432360cbc39",
+   "t": "Until then, don't touch them."
+  }
+ ]
+}

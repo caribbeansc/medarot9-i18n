@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_44.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "e1638ea5b5b4",
+   "t": "<c:00ff00>{{mf}}:<c>Restauración\nRepara 50 puntos de {{damage}}\nen cada {{part}} de todo tu\nequipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

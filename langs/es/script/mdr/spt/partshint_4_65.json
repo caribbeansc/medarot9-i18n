@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_65.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7f9c3d344558",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nMemoria de Forma\nAl completar la carga,\nreparte de nuevo el\n{{armor}} de todas las\n{{part|pl}} por igual.\nLas {{part|pl}} destruidas\nreviven."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3c_101_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "9f235be18887",
+   "t": "¿Alguien que sepa de internet y"
+  },
+  {
+   "i": 1041,
+   "src": "eeec2d6bdab0",
+   "t": "programación? ¿Un club cultural, no?"
+  },
+  {
+   "i": 1049,
+   "src": "0ef870fed865",
+   "t": "Pero hay {{exam}} mañana... todos"
+  },
+  {
+   "i": 1052,
+   "src": "7c0a02bcf930",
+   "t": "estarán estudiando en sus cuartos."
+  },
+  {
+   "i": 1060,
+   "src": "ecf809d768d9",
+   "t": "Eh, ¿yo? ¡No te preocupes! ¡Yo"
+  },
+  {
+   "i": 1063,
+   "src": "e71edc6bc5b6",
+   "t": "hallé la iluminación ya, jajaja!"
+  }
+ ]
+}

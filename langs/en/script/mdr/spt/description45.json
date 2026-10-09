@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description45.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e37eb09553fd",
+   "t": "Destruction"
+  },
+  {
+   "i": 11,
+   "src": "83f328931d4f",
+   "t": "The state of a <c:ffff00>{{part}}<c> or <c:ffff00>{{object}}<c> that breaks when its\n<c:ffff00>{{armor}}<c> reaches 0.\n\nIt can no longer perform <c:ffff00>acts<c> or <c:ffff00>responses<c>, and all\nof its <c:ffff00>{{stats}}<c> are nullified. The {{armor}} of a destroyed\n{{part}} can't be <c:ffff00>recovered<c>, but the <c:ffff00>{{restore}}<c> effect\nworks.\nA <c:ffff00>{{medabot}}<c> whose <c:ffff00>head<c> is destroyed is <c:ffff00>{{knocked_out}}<c>.\nA destroyed {{object}} disappears."
+  }
+ ]
+}

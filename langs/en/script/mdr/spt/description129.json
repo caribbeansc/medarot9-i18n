@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description129.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7c30b3207a8a",
+   "t": "{{biped|cap}} (legs)"
+  },
+  {
+   "i": 11,
+   "src": "a031a160dbd9",
+   "t": "A <c:ffff00>Leg Type<c> that walks on two feet, like a human. It\nhas the most variations, and its <c:ffff00>{{stats}}<c> vary by {{part}}. It\nstruggles on unstable {{terrain}}.\n\n<c:ffff00>{{terrain|cap}} {{affinity|cap}}<c> (<c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains}}<c> +4, <c:ffff00>{{forest}}<c> +6, <c:ffff00>{{rocky_ground}}<c> +4, <c:ffff00>{{sand}}<c> -6,\n  <c:ffff00>{{tundra}}<c> -6, <c:ffff00>{{hall}}<c> +4, <c:ffff00>{{waterside}}<c> -6, <c:ffff00>{{cyber}}<c> +4.\n  <c:ffff00>{{underwater}}<c> and <c:ffff00>{{sky}}<c>: {{robattle|pl}} not possible."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f02_150_163_00_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "bfd6ef945edc",
+   "t": "Hey, {{mio}}-chan,"
+  },
+  {
+   "i": 1041,
+   "src": "79d19f20b82b",
+   "t": "why did you want to join the {{idol_club}}?"
+  },
+  {
+   "i": 1049,
+   "src": "c9cfeb70c932",
+   "t": "If you just sing and dance on your own,"
+  },
+  {
+   "i": 1052,
+   "src": "85ec4fc25ccd",
+   "t": "you can't make anyone happy, you\nknow?"
+  },
+  {
+   "i": 1060,
+   "src": "c2e7243badf4",
+   "t": "That's not an idol!"
+  },
+  {
+   "i": 1071,
+   "src": "a670749c592b",
+   "t": "Hey "
+  },
+  {
+   "i": 1073,
+   "src": "8441ebedab13",
+   "t": ", what do you think?"
+  },
+  {
+   "i": 1076,
+   "src": "dd837c7b8a46",
+   "t": "Is it okay to go on like this?"
+  },
+  {
+   "i": 1084,
+   "src": "ddcf0ae44096",
+   "t": "That's right."
+  },
+  {
+   "i": 1095,
+   "src": "d68d155653e0",
+   "t": "Locking yourselves away in a world of\ntwo"
+  },
+  {
+   "i": 1098,
+   "src": "1b171e7deaba",
+   "t": "is the problem, I bet."
+  },
+  {
+   "i": 1106,
+   "src": "87e481547326",
+   "t": "How about it? Why not break up the\nduo?"
+  },
+  {
+   "i": 1115,
+   "src": "0247ef60971b",
+   "t": " weren't around,"
+  },
+  {
+   "i": 1118,
+   "src": "299923e37f98",
+   "t": "even {{mio}} would--"
+  }
+ ]
+}

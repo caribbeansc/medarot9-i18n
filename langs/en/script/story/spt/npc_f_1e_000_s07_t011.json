@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/npc_f_1e_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1035,
+   "src": "3fcb54ac9f88",
+   "t": "Hey, hey, Senpai, what is your club"
+  },
+  {
+   "i": 1038,
+   "src": "204883c6da1b",
+   "t": "doing for the {{culture_festival}}?"
+  },
+  {
+   "i": 1045,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1051,
+   "src": "7612f90d9ad3",
+   "t": "Mine?"
+  },
+  {
+   "i": 1054,
+   "src": "ad7612e44acb",
+   "t": "A crepe stand."
+  },
+  {
+   "i": 1061,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1067,
+   "src": "270ca3b25372",
+   "t": "Whaaat!? The Occult Club"
+  },
+  {
+   "i": 1070,
+   "src": "54ac309a239b",
+   "t": "doing a food stand?"
+  },
+  {
+   "i": 1078,
+   "src": "4403381d4ca8",
+   "t": "There are so many options!"
+  },
+  {
+   "i": 1081,
+   "src": "febf3388870b",
+   "t": "A haunted house, or a tour of the\nisland's haunted spots!"
+  },
+  {
+   "i": 1088,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1094,
+   "src": "e2772bd824e6",
+   "t": "If we did that, we'd end up calling them\nover..."
+  },
+  {
+   "i": 1101,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1107,
+   "src": "86766b2e2dcb",
+   "t": "C-calling them over?"
+  },
+  {
+   "i": 1110,
+   "src": "070518efd2e4",
+   "t": "Calling WHAT??"
+  },
+  {
+   "i": 1117,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1123,
+   "src": "6f15dd031bb3",
+   "t": "We did a haunted house last year."
+  },
+  {
+   "i": 1126,
+   "src": "dc9b7d2d18e3",
+   "t": "And then--"
+  },
+  {
+   "i": 1133,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1139,
+   "src": "1b71cfc9da19",
+   "t": "Ah! Never mind, it's scary, cancel it!"
+  },
+  {
+   "i": 1142,
+   "src": "0d17550faa73",
+   "t": "Please stop, Senpaaai!"
+  }
+ ]
+}

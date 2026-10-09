@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f11_250_953_00_t012.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1049,
+   "src": "be34e27ec99a",
+   "t": "Ya no aguanto más... Por mucho que"
+  },
+  {
+   "i": 1052,
+   "src": "e6a3531c76c8",
+   "t": "lo derrotemos, no sirve de nada..."
+  },
+  {
+   "i": 1066,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1072,
+   "src": "5ec3aaf64c7f",
+   "t": "Estoy agotada, ya no aguanto más..."
+  },
+  {
+   "i": 1075,
+   "src": "323a8c5c3d31",
+   "t": "Si esto sigue así, nosotras..."
+  },
+  {
+   "i": 1089,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1095,
+   "src": "ed80a55485f2",
+   "t": "¡No te rindas! Tiene que haber"
+  },
+  {
+   "i": 1098,
+   "src": "dd00bbae5db8",
+   "t": "algo que podamos hacer, algo--"
+  },
+  {
+   "i": 1105,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1111,
+   "src": "04c619cc0727",
+   "t": "...Ah."
+  },
+  {
+   "i": 1118,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1124,
+   "src": "252d2534a446",
+   "t": "¿¡Qué pasa, {{flora}}!?"
+  },
+  {
+   "i": 1131,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1137,
+   "src": "bea616ad23ce",
+   "t": "Algo le está pasando, su estado es\nraro..."
+  }
+ ]
+}

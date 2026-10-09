@@ -1,0 +1,264 @@
+{
+ "rel": "mdr/tex/bt_keihin.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "compact-rounded-heavy",
+  "cap": 10,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "align": "center",
+  "valign": "middle",
+  "pad": 0
+ },
+ "styles": {
+  "oscuro": {
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#000000",
+    "blur": 1.5,
+    "opacity": 0.6
+   }
+  },
+  "claro": {
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "blur": 1,
+    "opacity": 0.35
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    60,
+    6,
+    100,
+    22
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    55,
+    8,
+    96,
+    17
+   ],
+   "erase": "none",
+   "text": "Medal",
+   "baseline": 22,
+   "style": "oscuro",
+   "cap": 9.5
+  },
+  {
+   "box": [
+    60,
+    38,
+    100,
+    22
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    55,
+    40,
+    96,
+    17
+   ],
+   "erase": "none",
+   "text": "Medal",
+   "baseline": 54,
+   "style": "claro",
+   "cap": 9.5
+  },
+  {
+   "box": [
+    0,
+    67,
+    256,
+    26
+   ],
+   "erase_box": [
+    [
+     0,
+     67,
+     63,
+     26
+    ],
+    [
+     62,
+     67,
+     194,
+     26
+    ]
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    99,
+    256,
+    26
+   ],
+   "erase_box": [
+    [
+     0,
+     99,
+     63,
+     26
+    ],
+    [
+     62,
+     99,
+     194,
+     26
+    ]
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    72,
+    56,
+    20
+   ],
+   "erase": "none",
+   "text": "Medalia",
+   "baseline": 86,
+   "style": "oscuro",
+   "cap": 9
+  },
+  {
+   "box": [
+    66,
+    72,
+    90,
+    20
+   ],
+   "erase": "none",
+   "text": "Part Sets",
+   "baseline": 86,
+   "style": "oscuro",
+   "cap": 9
+  },
+  {
+   "box": [
+    160,
+    72,
+    44,
+    20
+   ],
+   "erase": "none",
+   "text": "Parts",
+   "baseline": 86,
+   "style": "oscuro",
+   "cap": 9
+  },
+  {
+   "box": [
+    208,
+    72,
+    46,
+    20
+   ],
+   "erase": "none",
+   "text": "Other",
+   "baseline": 86,
+   "style": "oscuro",
+   "cap": 9
+  },
+  {
+   "box": [
+    2,
+    104,
+    56,
+    20
+   ],
+   "erase": "none",
+   "text": "Medalia",
+   "baseline": 118,
+   "style": "claro",
+   "cap": 9
+  },
+  {
+   "box": [
+    66,
+    104,
+    90,
+    20
+   ],
+   "erase": "none",
+   "text": "Part Sets",
+   "baseline": 118,
+   "style": "claro",
+   "cap": 9
+  },
+  {
+   "box": [
+    160,
+    104,
+    44,
+    20
+   ],
+   "erase": "none",
+   "text": "Parts",
+   "baseline": 118,
+   "style": "claro",
+   "cap": 9
+  },
+  {
+   "box": [
+    208,
+    104,
+    46,
+    20
+   ],
+   "erase": "none",
+   "text": "Other",
+   "baseline": 118,
+   "style": "claro",
+   "cap": 9
+  },
+  {
+   "box": [
+    0,
+    172,
+    200,
+    34
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    5,
+    181,
+    196,
+    20
+   ],
+   "erase": "none",
+   "text": "Choose a prize type",
+   "align": "left",
+   "font": "sf-rounded-heavy",
+   "cap": 10,
+   "fill": "#FFFFFF",
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#E7EAEA",
+    "blur": 2,
+    "opacity": 0.6
+   }
+  }
+ ]
+}

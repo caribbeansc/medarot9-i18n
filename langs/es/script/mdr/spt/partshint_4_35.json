@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_35.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "21ffeaadafda",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{generator}}\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"{{heater}}\"."
+  }
+ ]
+}

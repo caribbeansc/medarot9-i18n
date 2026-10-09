@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f06_160_119_00_t017.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "608e43e02722",
+   "t": "!?"
+  },
+  {
+   "i": 1047,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1056,
+   "src": "e6f289f970ca",
+   "t": "You!"
+  },
+  {
+   "i": 1070,
+   "src": "27497a4eb96d",
+   "t": "{{saika}}-san..."
+  },
+  {
+   "i": 1085,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1094,
+   "src": "2765f6872f90",
+   "t": "What was that just now, a scream?"
+  },
+  {
+   "i": 1097,
+   "src": "55f6a4d50605",
+   "t": "You're too jumpy, ahahaha!"
+  },
+  {
+   "i": 1108,
+   "src": "1b1c05787999",
+   "t": "Hmph."
+  },
+  {
+   "i": 1118,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1127,
+   "src": "f6602401a298",
+   "t": "Phew, I laughed so much."
+  },
+  {
+   "i": 1130,
+   "src": "f218ff099338",
+   "t": "So--"
+  },
+  {
+   "i": 1138,
+   "src": "654069d2e4c9",
+   "t": "What are you doing in a place like this?"
+  },
+  {
+   "i": 1156,
+   "src": "eee79809a629",
+   "t": "Oh my, no answer?"
+  },
+  {
+   "i": 1164,
+   "src": "48dd782e9477",
+   "t": "Fine by me~"
+  },
+  {
+   "i": 1167,
+   "src": "55e838729b54",
+   "t": "I've got a pretty good guess anyway."
+  }
+ ]
+}

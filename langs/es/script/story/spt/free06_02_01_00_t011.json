@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/free06_02_01_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "5c8b887fc930",
+   "t": "{{mission|cap}} 'Recolección de {{medalia|pl}}:\n{{storehouse|cap}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "6b76631ea03f",
+   "t": "Es donde rescatamos a "
+  },
+  {
+   "i": 1048,
+   "src": "461e5a458631",
+   "t": "-chan."
+  },
+  {
+   "i": 1051,
+   "src": "2ae4b940e558",
+   "t": "Lo recuerdas, ¿verdad?"
+  },
+  {
+   "i": 1059,
+   "src": "e08c5745a82a",
+   "t": "Claro que lo recuerdo..."
+  },
+  {
+   "i": 1062,
+   "src": "f7002b11706b",
+   "t": "¿Todavía hay {{medalia|pl}} en un lugar así?"
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "3bf59134e093",
+   "t": "Si las hallamos, probará que el"
+  },
+  {
+   "i": 1076,
+   "src": "f502011d4bff",
+   "t": "detector sirve. Sitio ideal."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/bt0028.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "b756b29efe5d",
+   "t": "{{stray_medabot}}"
+  },
+  {
+   "i": 864,
+   "src": "7627bff2d069",
+   "t": "Narrow Bridge {{robattle}}"
+  },
+  {
+   "i": 867,
+   "src": "7627bff2d069",
+   "t": "Narrow Bridge {{robattle}}"
+  },
+  {
+   "i": 870,
+   "src": "9d567fcedd28",
+   "t": "It's a 1-on-1 showdown!"
+  },
+  {
+   "i": 884,
+   "src": "53c2d0e585a7",
+   "t": "Hey, hey...\nLeave that part here..."
+  }
+ ]
+}

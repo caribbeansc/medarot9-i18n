@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_idol_150_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1056,
+   "src": "65391cb973ea",
+   "t": "¡Ah!"
+  },
+  {
+   "i": 1064,
+   "src": "6b93250ac5c6",
+   "t": "Perdón por no darme cuenta."
+  },
+  {
+   "i": 1067,
+   "src": "3e2b748a8c7e",
+   "t": "¿Necesitas algo de mí?"
+  },
+  {
+   "i": 1075,
+   "src": "79848d80c8c4",
+   "t": "Oh, ¿quieres visitar los clubes? Pues"
+  },
+  {
+   "i": 1078,
+   "src": "a03825ae4c76",
+   "t": "prueba en el {{club_building}}. Es el"
+  },
+  {
+   "i": 1086,
+   "src": "e466bb43a683",
+   "t": "edificio al lado opuesto del edificio"
+  },
+  {
+   "i": 1089,
+   "src": "86acd39cf7ba",
+   "t": "escolar desde aquí. Lo más rápido es ir"
+  },
+  {
+   "i": 1097,
+   "src": "76ecd8122da5",
+   "t": "recto por este camino. ¿Buscas"
+  },
+  {
+   "i": 1100,
+   "src": "297d7d13f990",
+   "t": "un club al cual unirte ahora? ¡Suerte!"
+  }
+ ]
+}

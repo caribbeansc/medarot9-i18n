@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "8ed96c034548",
+   "t": "No hay por qué apurarse. Asegúrate"
+  },
+  {
+   "i": 1041,
+   "src": "e77808db6ecd",
+   "t": "de estar bien preparado antes de partir."
+  }
+ ]
+}

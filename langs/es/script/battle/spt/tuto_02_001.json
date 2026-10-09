@@ -1,0 +1,140 @@
+{
+ "file": "battle/spt/tuto_02_001.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "8920f16c7ff5",
+   "t": "¡Ahora, usa <c:ff00ff>puntería<c>!"
+  },
+  {
+   "i": 1138,
+   "src": "ad240cf75e58",
+   "t": "Ahora usaré la arremetida.        "
+  },
+  {
+   "i": 1143,
+   "src": "9b7b062115c8",
+   "t": "La arremetida de mi {{left_arm}}\npuede dañar todas las {{part|pl}} rivales."
+  },
+  {
+   "i": 1148,
+   "src": "1207724eb518",
+   "t": "¡Con \"{{picopeco_hammer}}\" del brazo izq.,\nidentificaré al {{leader}}!   "
+  },
+  {
+   "i": 1168,
+   "src": "624846ef992a",
+   "t": "Aparece el subcomando de puntería...\nes la {{part}} del {{right_arm}}, ¿no?"
+  },
+  {
+   "i": 1180,
+   "src": "b65c0d053181",
+   "t": "{{left_arm|cap}}... el del subcomando\nde arremetida, ¿no?   "
+  },
+  {
+   "i": 1221,
+   "src": "2e96c3675b95",
+   "t": "¡Exacto! ¡Con la cruceta, elige primero\n\"<c:ff00ff>{{meta_revolver}}<c>\"!           "
+  },
+  {
+   "i": 1233,
+   "src": "9e0b8b025244",
+   "t": "Así es, ese mismo. Con la cruceta,\nelige primero \"{{picopeco_hammer}}\".            "
+  },
+  {
+   "i": 1316,
+   "src": "23bb630baddb",
+   "t": "¡Al elegir la {{part}}, vuelve a presionar\n<c:ff00ff>la misma dirección de la cruceta<c>!"
+  },
+  {
+   "i": 1393,
+   "src": "d54193785f68",
+   "t": "¿Eh?\n¿<c:ff00ff>Ha bajado la {{prep}}<c>...?         "
+  },
+  {
+   "i": 1404,
+   "src": "867c9abd93b8",
+   "t": "Para apuntar con precisión hace falta\nmás tiempo de {{prep}} de lo normal."
+  },
+  {
+   "i": 1413,
+   "src": "191fd1f0485c",
+   "t": "¿Eh?\n¿<c:ff00ff>Subió la {{power}}<c>...?              "
+  },
+  {
+   "i": 1424,
+   "src": "d458324e92ae",
+   "t": "La arremetida usa el impulso: a mayor\n{{mobility}} de {{legs}}, mayor {{power}}.               "
+  },
+  {
+   "i": 1444,
+   "src": "c180ba0a76b4",
+   "t": "Ya veo..."
+  },
+  {
+   "i": 1450,
+   "src": "0c3aeb94d999",
+   "t": "Ya veo, así que es así...    "
+  },
+  {
+   "i": 1464,
+   "src": "9f007ac53409",
+   "t": "¡Confirma el comando con el botón $*!      "
+  },
+  {
+   "i": 1473,
+   "src": "24cdb3d293c8",
+   "t": "Confirma el comando con el botón $*.        "
+  },
+  {
+   "i": 1524,
+   "src": "9aca370a68f7",
+   "t": "¿¡A qué {{medabot}} ataco!?"
+  },
+  {
+   "i": 1532,
+   "src": "a2ba5cc96640",
+   "t": "Puedes cambiar el <c:ff00ff>{{target}}<c> del ataque\ncon izquierda y derecha de la <c:ff00ff>cruceta<c>.            "
+  },
+  {
+   "i": 1537,
+   "src": "63c7f621d363",
+   "t": "Deduce su {{armor}} y orden de acción,\nelige {{target}} y confirma con $*.                        "
+  },
+  {
+   "i": 1542,
+   "src": "306200c1ff2a",
+   "t": "Bueno, esta vez el {{leader}} sería el del\nmedio. Apunta a ese.                     "
+  },
+  {
+   "i": 1730,
+   "src": "58d31228bdcd",
+   "t": "¡Apunta al del medio, te digo!\n¡Si haces otra cosa, perderás!  "
+  },
+  {
+   "i": 1739,
+   "src": "199f52cef339",
+   "t": "¡Ya te dije que apuntaras al del medio!     "
+  },
+  {
+   "i": 1780,
+   "src": "21f94bfb420a",
+   "t": "Una {{part}} normal ya está lista, pero\ncon puntería además eliges la zona."
+  },
+  {
+   "i": 1791,
+   "src": "e181110a59e3",
+   "t": "Mira la <c:ff00ff>{{hit_rate}}<c> de puntería en la\npantalla inferior. ¡Depende de la <c:ff00ff>{{slot}}<c>!   "
+  },
+  {
+   "i": 1802,
+   "src": "492e01de13b4",
+   "t": "Bien, el <c:ff00ff>brazo<c> se ve fácil de acertar.\nPrimero lo elijo con la <c:ff00ff>cruceta<c>...                                             "
+  },
+  {
+   "i": 1836,
+   "src": "058daddad73d",
+   "t": "Y luego confirmo con el botón $*.   "
+  }
+ ]
+}

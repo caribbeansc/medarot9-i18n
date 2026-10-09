@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0474.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 872,
+   "src": "461c4b969006",
+   "t": "¡Oh, es una {{robattle}}!"
+  },
+  {
+   "i": 875,
+   "src": "b1226e4b55b0",
+   "t": "¡Claro que entro! ¡Vamos allá!"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_1a_117_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "9a3edbed436c",
+   "t": "*Dos personas estudiando juntas"
+  },
+  {
+   "i": 1138,
+   "src": "47ee163be707",
+   "t": "{{girl_1_a}}"
+  },
+  {
+   "i": 1149,
+   "src": "c808741ef2b8",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1153,
+   "src": "17c1027988c8",
+   "t": "-kun, ¿quieres estudiar juntos?"
+  },
+  {
+   "i": 1161,
+   "src": "74350899803b",
+   "t": "Eh, ¿buscas a alguien?"
+  },
+  {
+   "i": 1164,
+   "src": "72afcf2fc4d0",
+   "t": "¿¡Un hacker!?"
+  },
+  {
+   "i": 1172,
+   "src": "66a6decc170e",
+   "t": "No conozco a nadie así. Además,"
+  },
+  {
+   "i": 1175,
+   "src": "ff6927575df6",
+   "t": "¿existen hackers así en la vida real?"
+  }
+ ]
+}

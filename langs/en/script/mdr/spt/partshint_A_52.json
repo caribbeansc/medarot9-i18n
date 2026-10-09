@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_52.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "d1ded225d3bc",
+   "t": "<c:00ff00>{{mf}}:<c> Down {{plant}}\nSets a {{plant}} in the\n{{opponent}}'s {{area}} that\nlowers\n{{prep}} and {{cooldown}}.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

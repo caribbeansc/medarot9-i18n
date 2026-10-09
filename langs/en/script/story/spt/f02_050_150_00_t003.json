@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f02_050_150_00_t003.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}    "
+  },
+  {
+   "i": 1045,
+   "src": "701c52f2c31a",
+   "t": "Enjoyed yourself?"
+  },
+  {
+   "i": 1063,
+   "src": "342c20413c8f",
+   "t": "Yes!"
+  },
+  {
+   "i": 1068,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}    "
+  },
+  {
+   "i": 1074,
+   "src": "722f7af262d1",
+   "t": "Okay, let's go."
+  }
+ ]
+}

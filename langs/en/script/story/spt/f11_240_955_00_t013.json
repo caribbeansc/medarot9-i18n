@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f11_240_955_00_t013.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1049,
+   "src": "5c0c83ce512a",
+   "t": "W-wait a moment!"
+  },
+  {
+   "i": 1057,
+   "src": "e2ec02d76ac7",
+   "t": "Earlier you said that {{medalia}} are a seal"
+  },
+  {
+   "i": 1060,
+   "src": "5f1e926c419a",
+   "t": "to contain the ultrasound, didn't you?"
+  },
+  {
+   "i": 1068,
+   "src": "750a4044e5d1",
+   "t": "Yet stopping that means..."
+  },
+  {
+   "i": 1076,
+   "src": "a66970b7db09",
+   "t": "Won't our partners"
+  },
+  {
+   "i": 1079,
+   "src": "c5d893fbea91",
+   "t": "end up being controlled too?"
+  },
+  {
+   "i": 1110,
+   "src": "8227af7b0f85",
+   "t": "No way."
+  }
+ ]
+}

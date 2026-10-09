@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0488.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "43aa2cb11823",
+   "t": "{{ms_tomigiku}}"
+  },
+  {
+   "i": 872,
+   "src": "1f5b1456fb96",
+   "t": "¿Una {{robattle}}? ¡Suena bien!"
+  },
+  {
+   "i": 875,
+   "src": "3491ac288f9d",
+   "t": "¡Por supuesto que la hacemos!"
+  }
+ ]
+}

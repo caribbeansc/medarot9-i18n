@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f04_050_131_00_t012.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1045,
+   "src": "9efd66e26a59",
+   "t": "¿No se lo habías dicho?"
+  },
+  {
+   "i": 1052,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1061,
+   "src": "381d06167d37",
+   "t": "¿De eso fue de lo que hablamos?"
+  },
+  {
+   "i": 1068,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1077,
+   "src": "f35c107919ca",
+   "t": "Como siempre, olvidas rápido las cosas"
+  },
+  {
+   "i": 1080,
+   "src": "cbc144e5a3a5",
+   "t": "que no te convienen. Qué admirable."
+  },
+  {
+   "i": 1094,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1103,
+   "src": "43d6ea80c90e",
+   "t": "¡Jajaja!"
+  },
+  {
+   "i": 1113,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1122,
+   "src": "c7cede6bf142",
+   "t": "Ahí no toca reírse."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f09_030_500_00_t031.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "0920f421dccf",
+   "t": "¿A dónde se dirigen?"
+  },
+  {
+   "i": 1004,
+   "src": "22029b1ce5a6",
+   "t": "¿Eso de allá es una {{mine}}?"
+  },
+  {
+   "i": 1012,
+   "src": "434425adaccb",
+   "t": "Así que ese robot chatarra es..."
+  }
+ ]
+}

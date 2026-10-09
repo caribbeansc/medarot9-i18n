@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_101.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9ba8f6016294",
+   "t": "<c:00ff00>Action:<c> {{power_link}}\nAdds each stat of this {{part}}\nto the same {{slot}} of one\nallied {{medabot}}.\nThe {{effect}} ends after it\nacts once."
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f03_010_161_00_t009.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1052,
+   "src": "37836c70d604",
+   "t": "Vaya, de verdad funciona."
+  },
+  {
+   "i": 1055,
+   "src": "57efdcc26df5",
+   "t": "Hace nada estaba todo en blanco."
+  },
+  {
+   "i": 1065,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1074,
+   "src": "9e1e004d40f0",
+   "t": "Tú eres el presidente, ¿no?"
+  },
+  {
+   "i": 1084,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1093,
+   "src": "6a1bef4da54e",
+   "t": "Vaya, lo dejé ahí y me"
+  },
+  {
+   "i": 1096,
+   "src": "bc4065129894",
+   "t": "olvidé por completo."
+  },
+  {
+   "i": 1106,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1112,
+   "src": "d3d48b4a0026",
+   "t": "Bueno,"
+  },
+  {
+   "i": 1115,
+   "src": "e589a0fbad0b",
+   "t": "solo lo usé sin permiso..."
+  },
+  {
+   "i": 1123,
+   "src": "893d8e957a62",
+   "t": "Ya que por fin tenemos más miembros,"
+  },
+  {
+   "i": 1126,
+   "src": "2c022d0d034f",
+   "t": "podríamos compartirlo desde ahora."
+  },
+  {
+   "i": 1134,
+   "src": "d40ba72fc545",
+   "t": "Así que puedo mirar esto y luego"
+  },
+  {
+   "i": 1137,
+   "src": "9ce0aae86fb4",
+   "t": "'explorar' lo que me interese, ¿no?"
+  },
+  {
+   "i": 1152,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1158,
+   "src": "8bcf7dff0db0",
+   "t": "Sí, sí, eso suena bien."
+  },
+  {
+   "i": 1161,
+   "src": "7512dadff5eb",
+   "t": "Maravilloso."
+  },
+  {
+   "i": 1172,
+   "src": "13ab19e9ee9b",
+   "t": "A elegir un destino y explorarlo"
+  },
+  {
+   "i": 1175,
+   "src": "91c769b65d73",
+   "t": "lo llamaremos una '{{mission}}'."
+  },
+  {
+   "i": 1190,
+   "src": "3f0b5756b8e3",
+   "t": "Esto ya parece un {{club}} de verdad,"
+  },
+  {
+   "i": 1193,
+   "src": "e30bf9961dfc",
+   "t": "¿eh? Sigan así, jajaja."
+  }
+ ]
+}

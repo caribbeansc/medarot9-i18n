@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f2c_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1035,
+   "src": "87423d118fa9",
+   "t": "Lo siento. No es"
+  },
+  {
+   "i": 1038,
+   "src": "413e396c5885",
+   "t": "posible ahora... La próxima, ¿sí?"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_035_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "b7d5164f70ec",
+   "t": "Bien..."
+  },
+  {
+   "i": 1042,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1051,
+   "src": "e0fc361ae0c5",
+   "t": "¡Vamos!"
+  }
+ ]
+}

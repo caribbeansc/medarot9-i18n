@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_37.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6ac76f86148e",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Barrera\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"Refuerzo de Guardia\"."
+  }
+ ]
+}

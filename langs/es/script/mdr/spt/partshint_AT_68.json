@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_68.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f2d027568a4f",
+   "t": "<c:00ff00>Técnica:<c>Sello {{mf}}\nAtaque cuerpo a cuerpo\nque añade el estado Sello\n{{mf}}.\n<c:00ffff>{{status|cap}}:<c>Sello {{mf}}\nUn poder especial\ninutiliza la {{medaforce}}."
+  }
+ ]
+}

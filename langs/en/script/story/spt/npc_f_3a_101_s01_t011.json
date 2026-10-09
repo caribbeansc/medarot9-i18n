@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3a_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "51e173a9a84f",
+   "t": "3rd-Yr Girl A"
+  },
+  {
+   "i": 1035,
+   "src": "d01a5f3150a2",
+   "t": "I only stepped outside the school\ngrounds"
+  },
+  {
+   "i": 1038,
+   "src": "158981f5a438",
+   "t": "and a {{stray_medabot}} attacked me."
+  },
+  {
+   "i": 1046,
+   "src": "ab68e646a545",
+   "t": "Compared to the mainland,"
+  },
+  {
+   "i": 1049,
+   "src": "618cefb1e3f2",
+   "t": "the strays on this island seem meaner."
+  }
+ ]
+}

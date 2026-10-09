@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f00_000_900_00_t015.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5e2002167676",
+   "t": "{{friend}}"
+  },
+  {
+   "i": 1038,
+   "src": "66cbfd429699",
+   "t": "Thanks for the match!"
+  },
+  {
+   "i": 1041,
+   "src": "738563877fe0",
+   "t": "See ya, "
+  },
+  {
+   "i": 1043,
+   "src": "222a7652ec56",
+   "t": "-kun!"
+  },
+  {
+   "i": 1054,
+   "src": "cb8fb3552e51",
+   "t": "The tournament is tomorrow at noon,"
+  },
+  {
+   "i": 1057,
+   "src": "ecf92398b6be",
+   "t": "so meet in front of the station!"
+  },
+  {
+   "i": 1068,
+   "src": "a570bc7c81f3",
+   "t": "Okay!"
+  }
+ ]
+}

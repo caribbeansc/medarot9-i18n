@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2a_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "ddca7f2269da",
+   "t": "Medalia, Medalia~"
+  },
+  {
+   "i": 1041,
+   "src": "1ce0f6bc3df7",
+   "t": "I found three of them yesterday!"
+  },
+  {
+   "i": 1049,
+   "src": "9daa8bbd0595",
+   "t": "We were talking about trying the\nsouthern sea today."
+  },
+  {
+   "i": 1052,
+   "src": "e03cbd28f039",
+   "t": "...Oh, that's a secret. Don't go ahead of\nme!"
+  }
+ ]
+}

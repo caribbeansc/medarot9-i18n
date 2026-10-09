@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_1b_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "09d467a9b00a",
+   "t": "When I got into this school,"
+  },
+  {
+   "i": 1041,
+   "src": "9b151206250e",
+   "t": "everyone around me made a huge fuss."
+  },
+  {
+   "i": 1049,
+   "src": "8b892f6bc372",
+   "t": "My mom was crying for joy,"
+  },
+  {
+   "i": 1052,
+   "src": "cfee7b67d552",
+   "t": "and even the local TV came to interview\nme."
+  },
+  {
+   "i": 1060,
+   "src": "d0a0c8db3c95",
+   "t": "But once you're in, it's totally quiet."
+  },
+  {
+   "i": 1063,
+   "src": "940480666760",
+   "t": "Well, living in a dorm on an island, it's\nnatural."
+  }
+ ]
+}

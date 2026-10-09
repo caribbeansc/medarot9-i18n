@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f02_100_210_00_t003.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1038,
+   "src": "6a3c92a7f59c",
+   "t": "There was an important part lying\naround."
+  },
+  {
+   "i": 1041,
+   "src": "113054780b48",
+   "t": "You can move now. Sorry about that."
+  },
+  {
+   "i": 1049,
+   "src": "e5ef07d6dfd8",
+   "t": "N-no, it's fine."
+  },
+  {
+   "i": 1057,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1063,
+   "src": "187d6ff29116",
+   "t": "...Hm?"
+  }
+ ]
+}

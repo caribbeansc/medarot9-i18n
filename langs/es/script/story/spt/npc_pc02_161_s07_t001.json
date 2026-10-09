@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_161_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "825faed5278d",
+   "t": "Publicarlo, ¿eh?"
+  },
+  {
+   "i": 1041,
+   "src": "bd727c545f9c",
+   "t": "Sigo sin terminar de convencerme..."
+  }
+ ]
+}

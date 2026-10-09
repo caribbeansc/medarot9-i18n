@@ -1,0 +1,995 @@
+{
+ "rel": "mdr/tex/win_mydata.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0,
+  "valign": "middle",
+  "align": "left"
+ },
+ "items": [
+  {
+   "font": "tahoma",
+   "cap": 10,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D8D8D8"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    140,
+    3,
+    80,
+    15
+   ],
+   "erase_box": [
+    136,
+    0,
+    88,
+    20
+   ],
+   "text": "Mis datos",
+   "align": "center",
+   "erase": "solid:#000000"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#D9D9D9"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    3,
+    2,
+    60,
+    13
+   ],
+   "erase_box": [
+    0,
+    0,
+    64,
+    16
+   ],
+   "text": "Licencias",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#D9D9D9"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    83,
+    10,
+    36,
+    12
+   ],
+   "erase_box": [
+    80,
+    0,
+    40,
+    24
+   ],
+   "text": "Lugar",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 7.5,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#D9D9D9"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    3,
+    29,
+    60,
+    20
+   ],
+   "erase_box": [
+    0,
+    27,
+    64,
+    24
+   ],
+   "text": "Tiempo de\njuego",
+   "align": "left",
+   "leading": 0.95
+  },
+  {
+   "font": "tahoma",
+   "cap": 7.5,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#D9D9D9"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    300,
+    3,
+    76,
+    20
+   ],
+   "erase_box": [
+    296,
+    0,
+    80,
+    24
+   ],
+   "text": "Historial de\nrobobatallas",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#D9D9D9"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    379,
+    12,
+    116,
+    15
+   ],
+   "erase_box": [
+    376,
+    0,
+    120,
+    32
+   ],
+   "text": "Piezas que tienes",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#D9D9D9"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    460,
+    219,
+    36,
+    12
+   ],
+   "erase_box": [
+    460,
+    212,
+    36,
+    20
+   ],
+   "text": "Dinero",
+   "align": "left"
+  },
+  {
+   "font": "sf-cond",
+   "cap": 8.5,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#E5E5E5"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    66,
+    28,
+    86,
+    13
+   ],
+   "erase_box": [
+    64,
+    27,
+    88,
+    16
+   ],
+   "text": "Medalla Rubberobo",
+   "align": "left"
+  },
+  {
+   "font": "sf-cond",
+   "cap": 8.5,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#E5E5E5"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    161,
+    28,
+    70,
+    13
+   ],
+   "erase_box": [
+    160,
+    27,
+    72,
+    16
+   ],
+   "text": "Fichas de casino",
+   "align": "left"
+  },
+  {
+   "font": "sf-cond",
+   "cap": 8.5,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#E5E5E5"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    66,
+    43,
+    94,
+    13
+   ],
+   "erase_box": [
+    64,
+    42,
+    96,
+    16
+   ],
+   "text": "Monedas MedaGacha",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": "#D6D6D6",
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    400,
+    34,
+    40,
+    13
+   ],
+   "erase_box": [
+    398,
+    33,
+    42,
+    15
+   ],
+   "text": "Medalla",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": "#D6D6D6",
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    400,
+    53,
+    70,
+    13
+   ],
+   "erase_box": [
+    398,
+    52,
+    74,
+    15
+   ],
+   "text": "Cabeza",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": "#D6D6D6",
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    400,
+    72,
+    70,
+    13
+   ],
+   "erase_box": [
+    398,
+    68,
+    74,
+    19
+   ],
+   "text": "Brazo der.",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": "#D6D6D6",
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    400,
+    91,
+    70,
+    13
+   ],
+   "erase_box": [
+    398,
+    86,
+    74,
+    20
+   ],
+   "text": "Brazo izq.",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": "#D6D6D6",
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    400,
+    109,
+    86,
+    14
+   ],
+   "erase_box": [
+    398,
+    104,
+    90,
+    24
+   ],
+   "text": "Piernas",
+   "align": "left"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    496,
+    0,
+    8,
+    8
+   ],
+   "erase_box": [
+    496,
+    0,
+    8,
+    8
+   ],
+   "text": "u.",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    496,
+    40,
+    8,
+    8
+   ],
+   "erase_box": [
+    496,
+    40,
+    8,
+    8
+   ],
+   "text": "u.",
+   "align": "center"
+  },
+  {
+   "font": "din",
+   "cap": 7,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "box": [
+    120,
+    16,
+    8,
+    8
+   ],
+   "erase_box": [
+    120,
+    16,
+    8,
+    8
+   ],
+   "text": "Y",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    424,
+    139,
+    16,
+    11
+   ],
+   "erase_box": [
+    424,
+    128,
+    16,
+    24
+   ],
+   "text": "Part.",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    440,
+    139,
+    16,
+    11
+   ],
+   "erase_box": [
+    440,
+    128,
+    16,
+    24
+   ],
+   "text": "Vic.",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    387,
+    160,
+    36,
+    8
+   ],
+   "erase_box": [
+    384,
+    160,
+    40,
+    10
+   ],
+   "text": "Solo",
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    387,
+    181,
+    36,
+    17
+   ],
+   "erase_box": [
+    384,
+    176,
+    40,
+    24
+   ],
+   "text": "Partida\nlocal",
+   "align": "left",
+   "leading": 0.9,
+   "dy": 1
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    387,
+    206,
+    36,
+    17
+   ],
+   "erase_box": [
+    384,
+    200,
+    40,
+    24
+   ],
+   "text": "Partida\nen linea",
+   "align": "left",
+   "leading": 0.9,
+   "dy": 1
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    387,
+    237,
+    36,
+    10
+   ],
+   "erase_box": [
+    384,
+    232,
+    40,
+    16
+   ],
+   "text": "Total",
+   "align": "left",
+   "dy": 1
+  },
+  {
+   "font": "tahoma",
+   "cap": 9,
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#E5E5E5"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    457,
+    194,
+    54,
+    13
+   ],
+   "erase_box": [
+    456,
+    192,
+    56,
+    16
+   ],
+   "text": "M Drive",
+   "align": "left"
+  },
+  {
+   "erase_box": [
+    128,
+    82,
+    16,
+    8
+   ],
+   "text": "",
+   "box": [
+    128,
+    82,
+    16,
+    8
+   ]
+  },
+  {
+   "font": "din",
+   "cap": 8.5,
+   "fill": {
+    "top": "#E4E4E4",
+    "bottom": "#C4C4C4"
+   },
+   "stroke": null,
+   "crisp": 0.5,
+   "box": [
+    0,
+    91,
+    46,
+    10
+   ],
+   "erase_box": [
+    0,
+    91,
+    46,
+    10
+   ],
+   "text": "Arremetida",
+   "align": "left"
+  },
+  {
+   "font": "din",
+   "cap": 8.5,
+   "fill": {
+    "top": "#E4E4E4",
+    "bottom": "#C4C4C4"
+   },
+   "stroke": null,
+   "crisp": 0.5,
+   "box": [
+    51,
+    91,
+    46,
+    10
+   ],
+   "erase_box": [
+    51,
+    91,
+    46,
+    10
+   ],
+   "text": "Punteria",
+   "align": "left"
+  },
+  {
+   "font": "din",
+   "cap": 8.5,
+   "fill": {
+    "top": "#E4E4E4",
+    "bottom": "#C4C4C4"
+   },
+   "stroke": null,
+   "crisp": 0.5,
+   "box": [
+    100,
+    91,
+    46,
+    10
+   ],
+   "erase_box": [
+    100,
+    91,
+    46,
+    10
+   ],
+   "text": "Medafuerza",
+   "align": "left"
+  },
+  {
+   "font": "din",
+   "cap": 8.5,
+   "fill": {
+    "top": "#E4E4E4",
+    "bottom": "#C4C4C4"
+   },
+   "stroke": null,
+   "crisp": 0.5,
+   "box": [
+    149,
+    91,
+    46,
+    10
+   ],
+   "erase_box": [
+    149,
+    91,
+    46,
+    10
+   ],
+   "text": "MedaCambio",
+   "align": "left",
+   "scale_x": 0.93
+  },
+  {
+   "font": "narrow",
+   "cap": 7.0,
+   "fill": {
+    "top": "#E4E4E4",
+    "bottom": "#C4C4C4"
+   },
+   "stroke": null,
+   "crisp": 0.5,
+   "box": [
+    198,
+    91,
+    46,
+    10
+   ],
+   "erase_box": [
+    198,
+    91,
+    46,
+    10
+   ],
+   "text": "Fuego cruz.",
+   "align": "left",
+   "dy": -0.4
+  },
+  {
+   "font": "din",
+   "cap": 8.5,
+   "fill": {
+    "top": "#E4E4E4",
+    "bottom": "#C4C4C4"
+   },
+   "stroke": null,
+   "crisp": 0.5,
+   "box": [
+    247,
+    91,
+    27,
+    10
+   ],
+   "erase_box": [
+    247,
+    91,
+    27,
+    10
+   ],
+   "text": "Combo",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#91DBFF",
+    "bottom": "#73C1FD"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    2,
+    233,
+    60,
+    13
+   ],
+   "erase_box": [
+    0,
+    232,
+    64,
+    16
+   ],
+   "text": "Buscador",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#FEB1E5",
+    "bottom": "#F98FCE"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    66,
+    233,
+    70,
+    13
+   ],
+   "erase_box": [
+    64,
+    232,
+    72,
+    16
+   ],
+   "text": "MedaCambio",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#FB834B",
+    "bottom": "#F0602A"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    139,
+    233,
+    90,
+    13
+   ],
+   "erase_box": [
+    136,
+    232,
+    96,
+    16
+   ],
+   "text": "Transportador",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#82F7B7",
+    "bottom": "#37E28D"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    346,
+    241,
+    22,
+    13
+   ],
+   "erase_box": [
+    345,
+    232,
+    24,
+    24
+   ],
+   "text": "Red",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#6DE3CD",
+    "bottom": "#56D3C1"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    426,
+    233,
+    68,
+    13
+   ],
+   "erase_box": [
+    424,
+    232,
+    72,
+    16
+   ],
+   "text": "Medafuerza",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#F7D060",
+    "bottom": "#EDB13A"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    458,
+    177,
+    44,
+    13
+   ],
+   "erase_box": [
+    456,
+    176,
+    48,
+    16
+   ],
+   "text": "Carga",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#B9EE55",
+    "bottom": "#9ACF35"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    458,
+    161,
+    36,
+    13
+   ],
+   "erase_box": [
+    456,
+    160,
+    40,
+    16
+   ],
+   "text": "Mapa",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#FFF09A",
+    "bottom": "#F0CE55"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    458,
+    129,
+    36,
+    13
+   ],
+   "erase_box": [
+    456,
+    128,
+    40,
+    16
+   ],
+   "text": "Combo",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#6DE3CD",
+    "bottom": "#56D3C1"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    226,
+    9,
+    44,
+    13
+   ],
+   "erase_box": [
+    224,
+    0,
+    48,
+    24
+   ],
+   "text": "Medaria",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8.5,
+   "fill": {
+    "top": "#6DE3CD",
+    "bottom": "#56D3C1"
+   },
+   "stroke": null,
+   "crisp": 0.6,
+   "box": [
+    274,
+    9,
+    21,
+    13
+   ],
+   "erase_box": [
+    272,
+    0,
+    24,
+    24
+   ],
+   "text": "Sint.",
+   "align": "left"
+  }
+ ]
+}

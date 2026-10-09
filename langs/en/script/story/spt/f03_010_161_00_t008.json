@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f03_010_161_00_t008.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "2fa114e6d1e4",
+   "t": "What kind of list is this? They all"
+  },
+  {
+   "i": 1035,
+   "src": "064ab66f5850",
+   "t": "start with 'Exploration'."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "92b6d61b8665",
+   "t": "It's a list of areas I've been curious"
+  },
+  {
+   "i": 1049,
+   "src": "29c735623fd5",
+   "t": "about and want to explore."
+  }
+ ]
+}

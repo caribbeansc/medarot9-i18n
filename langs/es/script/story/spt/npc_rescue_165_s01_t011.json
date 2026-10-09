@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rescue_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1038,
+   "src": "37d9d2302e18",
+   "t": "Nuestro {{rescue_club}} valora la"
+  },
+  {
+   "i": 1041,
+   "src": "add7e936fc60",
+   "t": "combinación de humano y {{medabot}}."
+  },
+  {
+   "i": 1049,
+   "src": "170bb719fc94",
+   "t": "A juzgar por cómo te ves,"
+  },
+  {
+   "i": 1052,
+   "src": "f81d4b2ea600",
+   "t": "no aguantarías el entrenamiento."
+  },
+  {
+   "i": 1060,
+   "src": "57c8b500828e",
+   "t": "No hace falta ni una prueba."
+  },
+  {
+   "i": 1063,
+   "src": "1a2dff7bdd90",
+   "t": "Mejor no te unas al {{club}}."
+  }
+ ]
+}

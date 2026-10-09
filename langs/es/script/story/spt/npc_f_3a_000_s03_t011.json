@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3a_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "02d3fd812897",
+   "t": "{{megumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "266034abfd3b",
+   "t": "Los {{medabot|pl}} aman los lugares amplios."
+  },
+  {
+   "i": 1041,
+   "src": "8e073a1c80fc",
+   "t": "Sobre todo los de tipo {{vehicle}}."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "battle/spt/battle_effect_skip.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "522245a6f3ef",
+   "t": "Attack reflected!"
+  },
+  {
+   "i": 1708,
+   "src": "27403bd9f2e0",
+   "t": "Counterattack!"
+  },
+  {
+   "i": 1774,
+   "src": "27403bd9f2e0",
+   "t": "Counterattack!"
+  }
+ ]
+}

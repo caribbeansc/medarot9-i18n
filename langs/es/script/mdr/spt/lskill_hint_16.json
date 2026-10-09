@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_16.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5b3e4bcef41a",
+   "t": "<c:00ff00>{{effect|cap}} {{leader|cap}}:<c>{{charge_halt}}\nCada vez que atacas al equipo enemigo,\nreduces su Medidor de Carga en 5%"
+  }
+ ]
+}

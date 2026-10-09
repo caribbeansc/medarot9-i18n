@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo53.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "3a764322da85",
+   "t": "'Search:Sea of Mist'"
+  },
+  {
+   "i": 32,
+   "src": "d77f6a06c469",
+   "t": "{{explore|cap}} the Sea of Mist,by the the northern shore.\nFollow the route from the beach,through the forest.\n"
+  },
+  {
+   "i": 42,
+   "src": "a3f7ea470e48",
+   "t": "View the horizon,from the cliff at the northern end!\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

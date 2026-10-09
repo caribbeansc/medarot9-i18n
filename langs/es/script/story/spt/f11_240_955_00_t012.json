@@ -1,0 +1,265 @@
+{
+ "file": "story/spt/f11_240_955_00_t012.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "b2acbb302603",
+   "t": "Eh... ¿Qué está haciendo?"
+  },
+  {
+   "i": 1050,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1056,
+   "src": "4d8ea7d5c050",
+   "t": "Voy a detener el aparato."
+  },
+  {
+   "i": 1071,
+   "src": "fe46cca64783",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1079,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1085,
+   "src": "48118446445d",
+   "t": "Ya sabes lo que es esto."
+  },
+  {
+   "i": 1095,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1101,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1118,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1127,
+   "src": "3c6b00258c22",
+   "t": "Es un generador de ondas sonoras."
+  },
+  {
+   "i": 1130,
+   "src": "26e52f1eae28",
+   "t": "Anula las ondas que emite la {{medalia}}."
+  },
+  {
+   "i": 1140,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1149,
+   "src": "c43e06003048",
+   "t": "Incorrecto."
+  },
+  {
+   "i": 1156,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1162,
+   "src": "cadf1eca18c1",
+   "t": "Eh."
+  },
+  {
+   "i": 1178,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1184,
+   "src": "76b4f901db62",
+   "t": "Las ondas no vienen de la {{medalia}}."
+  },
+  {
+   "i": 1187,
+   "src": "d4464acb2d4d",
+   "t": "Las emite el {{medal_eater}}."
+  },
+  {
+   "i": 1195,
+   "src": "3fd1fb0b4e10",
+   "t": "Aun sellado dentro del {{medalium}},"
+  },
+  {
+   "i": 1198,
+   "src": "3aed6db0ec03",
+   "t": "siguió emitiendo débiles ondas sonoras-"
+  },
+  {
+   "i": 1209,
+   "src": "422b3435eff5",
+   "t": "La {{medalia}} resuena con esto y actúa"
+  },
+  {
+   "i": 1212,
+   "src": "43d4ed31ea4c",
+   "t": "como si emitiera el sonido por sí misma."
+  },
+  {
+   "i": 1232,
+   "src": "c94ebac3ce98",
+   "t": "Controla las {{medal|pl}} con ultrasonido."
+  },
+  {
+   "i": 1235,
+   "src": "660f046fcbcf",
+   "t": "Las usa de proveedoras de comida."
+  },
+  {
+   "i": 1243,
+   "src": "b2ed3867430f",
+   "t": "Cuando ya no le sirven, las llama de\nvuelta... para comerlas."
+  },
+  {
+   "i": 1254,
+   "src": "205fb59ecbd9",
+   "t": "Su arma es el ultrasonido,"
+  },
+  {
+   "i": 1257,
+   "src": "2b07213da359",
+   "t": "y el {{medalium}} lo bloquea. Quizás..."
+  },
+  {
+   "i": 1264,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1270,
+   "src": "cfe26843e222",
+   "t": "Quizás, ¿qué?"
+  },
+  {
+   "i": 1280,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1286,
+   "src": "947e0110db21",
+   "t": "Todo se reduce a meras conjeturas."
+  },
+  {
+   "i": 1301,
+   "src": "f74521a6db69",
+   "t": "Ambos vienen del espacio exterior."
+  },
+  {
+   "i": 1304,
+   "src": "cbe379eabb41",
+   "t": "Con lo que sabemos, no lo afirmo."
+  },
+  {
+   "i": 1324,
+   "src": "d1be516b253d",
+   "t": "Aquello cayó hace millones de años."
+  },
+  {
+   "i": 1327,
+   "src": "df06786f164d",
+   "t": "El {{medalium}} se deteriora y se fragiliza. "
+  },
+  {
+   "i": 1338,
+   "src": "1087fe119c17",
+   "t": "Algo se deteriora por la edad,"
+  },
+  {
+   "i": 1341,
+   "src": "bd0af4151382",
+   "t": "pero lo clave es la resonancia."
+  },
+  {
+   "i": 1349,
+   "src": "ef5882f8c8b2",
+   "t": "Al resonar con sus ondas sonoras,"
+  },
+  {
+   "i": 1352,
+   "src": "f7da8fcb85c1",
+   "t": "el {{medalium}} acumulaba {{damage}}."
+  },
+  {
+   "i": 1375,
+   "src": "f57da81f14b8",
+   "t": "Hice este aparato para suprimir la\nresonancia."
+  },
+  {
+   "i": 1383,
+   "src": "29ccf4342893",
+   "t": "Al contener la resonancia,"
+  },
+  {
+   "i": 1386,
+   "src": "97828e5c2553",
+   "t": "estabilizamos un poco la {{medalia}}."
+  },
+  {
+   "i": 1393,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1399,
+   "src": "64de6f847c8e",
+   "t": "Espere, por favor."
+  },
+  {
+   "i": 1410,
+   "src": "48a9cc663cfe",
+   "t": "Si detenemos eso, significa que..."
+  },
+  {
+   "i": 1425,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1433,
+   "src": "39b88bd16d77",
+   "t": "Su {{armor}} es {{medalium}} grueso y duro."
+  },
+  {
+   "i": 1436,
+   "src": "f38aab26804e",
+   "t": "Con eso, no esperes {{damage}} fatal."
+  },
+  {
+   "i": 1444,
+   "src": "e8012fd8cc2c",
+   "t": "Si paras las ondas, se afloja,"
+  },
+  {
+   "i": 1447,
+   "src": "1b079fb6e4d6",
+   "t": "y el {{medalium}} se desprenderá."
+  },
+  {
+   "i": 1455,
+   "src": "f5c6d8e6014b",
+   "t": "y caerá, dejando ver su cuerpo principal."
+  },
+  {
+   "i": 1458,
+   "src": "afd98dd37d75",
+   "t": "Así podremos hacerle daño. Es decir-"
+  }
+ ]
+}

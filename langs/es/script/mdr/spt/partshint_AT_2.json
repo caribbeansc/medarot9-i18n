@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "57f3aff45765",
+   "t": "<c:00ff00>Técnica:<c>Ametralladora\nAtaque de {{shooting}} que\ndispara rápido en ráfaga.\nEl {{damage}} varía, pero si el\n{{success}} llega a 40 o más, el\n{{damage}} converge alto."
+  }
+ ]
+}

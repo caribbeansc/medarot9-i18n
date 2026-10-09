@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_01_03_02_t032.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "145b09ded013",
+   "t": "Sí, así está bien..."
+  },
+  {
+   "i": 1056,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1062,
+   "src": "c0d965365696",
+   "t": "Volvamos al {{club}}."
+  }
+ ]
+}

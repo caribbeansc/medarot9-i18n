@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_02_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "90501d04bd2c",
+   "t": "¡La {{mission}} 'Recolección de {{medalia|pl}}:\nRuinas Mineras' comienza!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "56ef8a1e577c",
+   "t": "Primero, vamos al sendero del monte."
+  },
+  {
+   "i": 1046,
+   "src": "0120b1d83fb5",
+   "t": "Apuntemos al {{suspension_bridge}}."
+  },
+  {
+   "i": 1054,
+   "src": "b663ebcf6904",
+   "t": "Esa zona es el centro del área."
+  },
+  {
+   "i": 1057,
+   "src": "f19d062c583e",
+   "t": "Allí la señal debería ser más fuerte."
+  }
+ ]
+}

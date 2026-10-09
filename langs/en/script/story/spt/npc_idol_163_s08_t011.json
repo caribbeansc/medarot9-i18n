@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_idol_163_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "062d4dc75e0d",
+   "t": "That {{medalia}} detection {{app}} is so\npopular."
+  },
+  {
+   "i": 1041,
+   "src": "d2d04b1199a8",
+   "t": "Our {{club}} is no exception, as you can\nsee."
+  },
+  {
+   "i": 1049,
+   "src": "16289e69e9b5",
+   "t": "After such a big event, everyone said\nit's a nice break,"
+  },
+  {
+   "i": 1052,
+   "src": "4093eba60347",
+   "t": "and they were all happy about it."
+  },
+  {
+   "i": 1060,
+   "src": "494021ea558e",
+   "t": "Us? We're practicing dance."
+  },
+  {
+   "i": 1063,
+   "src": "68e728de0e1a",
+   "t": "Right now dancing is the most fun thing\nof all... hehe."
+  }
+ ]
+}

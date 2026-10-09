@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_41.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "668057bc55fc",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Furia\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"{{desperate}}\"."
+  }
+ ]
+}

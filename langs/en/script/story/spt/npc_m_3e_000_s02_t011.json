@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/npc_m_3e_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1038,
+   "src": "6ab6e7a9cd63",
+   "t": "What?"
+  },
+  {
+   "i": 1041,
+   "src": "279768d127c5",
+   "t": "You're looking for a girl named {{aoi}}...?"
+  },
+  {
+   "i": 1049,
+   "src": "afc8f0e24b39",
+   "t": "Is she missing?!"
+  },
+  {
+   "i": 1057,
+   "src": "85ba16d4b811",
+   "t": "N-no, it's nothing like that..."
+  },
+  {
+   "i": 1060,
+   "src": "a28751b82d6e",
+   "t": "I just thought you might have seen her."
+  },
+  {
+   "i": 1065,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1071,
+   "src": "40d49e26581c",
+   "t": "...Oh, is that all."
+  },
+  {
+   "i": 1074,
+   "src": "16fc293bb1c7",
+   "t": "I was sure it was a case."
+  },
+  {
+   "i": 1082,
+   "src": "9930c91a6a57",
+   "t": "Well, whatever."
+  },
+  {
+   "i": 1085,
+   "src": "74fbc1eea719",
+   "t": "About that {{aoi}}-chan..."
+  },
+  {
+   "i": 1093,
+   "src": "209a18b34d1b",
+   "t": "Sorry, I have no clue."
+  },
+  {
+   "i": 1096,
+   "src": "a167e4e9c23f",
+   "t": "Why not ask a girl?"
+  }
+ ]
+}

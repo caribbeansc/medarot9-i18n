@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/f07_065_343_00_t011.spt",
+ "lines": [
+  {
+   "i": 1037,
+   "src": "bd4f9f1205f0",
+   "t": "¡Buaaah!"
+  },
+  {
+   "i": 1040,
+   "src": "c913215dfba3",
+   "t": "¡Ay {{mio}}, qué hacemos~!"
+  },
+  {
+   "i": 1047,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1053,
+   "src": "ad11aad67c4d",
+   "t": "Cálmate "
+  },
+  {
+   "i": 1055,
+   "src": "5708d5fc262a",
+   "t": ", no pasa nada. Es solo"
+  },
+  {
+   "i": 1058,
+   "src": "5c4ee8b80a2e",
+   "t": "una {{part}}. La arreglo enseguida--"
+  },
+  {
+   "i": 1069,
+   "src": "4b2584ce358f",
+   "t": "!!"
+  },
+  {
+   "i": 1087,
+   "src": "0ec97446c61d",
+   "t": "¡Qué-Qué haces aquí!"
+  },
+  {
+   "i": 1098,
+   "src": "9a98184b3f92",
+   "t": "Aunque me preguntes eso..."
+  },
+  {
+   "i": 1103,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1109,
+   "src": "fe7d9fa23a36",
+   "t": "{{mio}},"
+  },
+  {
+   "i": 1112,
+   "src": "06cc99b59c65",
+   "t": "¿qué rayos haces tú aquí?"
+  },
+  {
+   "i": 1119,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1128,
+   "src": "ae42e465978c",
+   "t": "Eh, yo, es decir, pues--"
+  },
+  {
+   "i": 1131,
+   "src": "98a88e4f9240",
+   "t": "¡Sí! ¡Es pura coincidencia!"
+  },
+  {
+   "i": 1139,
+   "src": "e3ad7de58330",
+   "t": "Caminaba por ahí y de casualidad"
+  },
+  {
+   "i": 1142,
+   "src": "67ff6038900e",
+   "t": "asomé a esta cabañita..."
+  },
+  {
+   "i": 1153,
+   "src": "919ec4497dd7",
+   "t": "¿Y cuándo te asomaste?"
+  },
+  {
+   "i": 1167,
+   "src": "9eeccd900494",
+   "t": "...y me quitaron las piernas."
+  },
+  {
+   "i": 1170,
+   "src": "0fcfc5510326",
+   "t": "Snif."
+  },
+  {
+   "i": 1191,
+   "src": "7498d1e46398",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1196,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1202,
+   "src": "5f173235891c",
+   "t": "¿Qué está pasando aquí...?"
+  },
+  {
+   "i": 1209,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1215,
+   "src": "6035291e41ac",
+   "t": "Vaya, ¿viniste a buscar las {{legs_part_slot}},"
+  },
+  {
+   "i": 1218,
+   "src": "0db82bcfb07a",
+   "t": "y en cambio te robaron las tuyas?"
+  },
+  {
+   "i": 1225,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1234,
+   "src": "f1392a9b455d",
+   "t": "¡Qué interesante!"
+  },
+  {
+   "i": 1247,
+   "src": "b1aa162016a1",
+   "t": "Nada interesante..."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_1c_meda_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1038,
+   "src": "7ba5f223e61b",
+   "t": "Female-{{type}} {{part|pl}} are"
+  },
+  {
+   "i": 1041,
+   "src": "8806d035e2f5",
+   "t": "mostly Support types, so boring."
+  },
+  {
+   "i": 1049,
+   "src": "10764358e0bb",
+   "t": "I wish they'd add more Power types too."
+  }
+ ]
+}

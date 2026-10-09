@@ -1,0 +1,66 @@
+{
+ "rel": "mdr/tex/event11_04.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    18,
+    112,
+    58,
+    18
+   ],
+   "erase_box": [
+    16,
+    111,
+    61,
+    20
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 1,
+   "text": "SELECT\nCORPS",
+   "font": "avenir-cond-heavy",
+   "cap": 7,
+   "leading": 1.05,
+   "tracking": 2,
+   "fill": {
+    "top": "#CDB262",
+    "bottom": "#9A8244"
+   },
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#0A0A10",
+    "opacity": 0.9
+   },
+   "pad": 0,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "box": [
+    213,
+    33,
+    10,
+    58
+   ],
+   "erase_box": [
+    213,
+    32,
+    10,
+    60
+   ],
+   "erase": "hfill",
+   "text": "SAFE DUEL",
+   "rotate": 270,
+   "font": "sf-cond",
+   "cap": 7,
+   "tracking": 0.6,
+   "fill": "#2F8410",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.3
+  }
+ ]
+}

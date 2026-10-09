@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0535.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 872,
+   "src": "2115cea1d881",
+   "t": "Oh, you want to {{robattle}} me?"
+  },
+  {
+   "i": 875,
+   "src": "b94c5249b61f",
+   "t": "Sure, I'll be your {{opponent}}."
+  }
+ ]
+}

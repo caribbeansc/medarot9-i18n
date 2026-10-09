@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_01_02_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "3435e3bc23f9",
+   "t": "{{mission|cap}} 'Observación de Ondas: Tate...\nAna..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "034b31a7abf4",
+   "t": "Se lee 'tatekou yagura'. Es una torre"
+  },
+  {
+   "i": 1049,
+   "src": "ff75b0a5cb0c",
+   "t": "de pozo, reliquia de la época minera."
+  },
+  {
+   "i": 1057,
+   "src": "096e03cabf2c",
+   "t": "Bajo la torre hay un pozo muy hondo."
+  },
+  {
+   "i": 1060,
+   "src": "d5368755c7c7",
+   "t": "{{main}} quiere captar sonidos del subsuelo."
+  }
+ ]
+}

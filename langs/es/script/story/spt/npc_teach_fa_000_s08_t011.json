@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_fa_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1038,
+   "src": "caf146a1cd4d",
+   "t": "El {{vice_principal}} dice que no es malo, pero"
+  },
+  {
+   "i": 1041,
+   "src": "aa957b36d0de",
+   "t": "¡no poder con estudio y club es grave!"
+  },
+  {
+   "i": 1049,
+   "src": "a07fa4fd0b62",
+   "t": "¡Si esto sigue así por mucho,"
+  },
+  {
+   "i": 1052,
+   "src": "049de3a1bb07",
+   "t": "habrá que proponer soluciones!"
+  }
+ ]
+}

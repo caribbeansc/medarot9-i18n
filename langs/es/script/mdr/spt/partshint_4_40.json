@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_40.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e9a82a09f7f2",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nEstruendo\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"{{fight_boost}}\"."
+  }
+ ]
+}

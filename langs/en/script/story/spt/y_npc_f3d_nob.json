@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3d_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "461e9e0ab417",
+   "t": "{{shiragiku}}"
+  },
+  {
+   "i": 1047,
+   "src": "09aebf3aab84",
+   "t": "Huh, now? I'm a bit busy right now..."
+  },
+  {
+   "i": 1050,
+   "src": "8e5945a7e676",
+   "t": "Sorry, invite me another time~!"
+  }
+ ]
+}

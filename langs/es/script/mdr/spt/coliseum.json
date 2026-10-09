@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/coliseum.spt",
+ "lines": [
+  {
+   "i": 1572,
+   "src": "52bbc9050154",
+   "t": "¡Voy por el título!"
+  },
+  {
+   "i": 1594,
+   "src": "be004c7d38f7",
+   "t": "¡No voy a perder!"
+  },
+  {
+   "i": 1675,
+   "src": "6cf202ddc326",
+   "t": "¡Campeón!"
+  },
+  {
+   "i": 1684,
+   "src": "ccc197b7656b",
+   "t": "¡Gané!"
+  },
+  {
+   "i": 1702,
+   "src": "c253f1b995a8",
+   "t": "¡Ay, perdí!"
+  }
+ ]
+}

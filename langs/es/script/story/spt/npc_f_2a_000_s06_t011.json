@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_2a_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "3eca694c340b",
+   "t": "¿Hay una arena de robobatalla"
+  },
+  {
+   "i": 1041,
+   "src": "f5aa7fce4fda",
+   "t": "secreta que solo los chicos conocen?"
+  },
+  {
+   "i": 1049,
+   "src": "d711b5e81871",
+   "t": "Oí que hay {{medabot|pl}} muy fuertes."
+  },
+  {
+   "i": 1052,
+   "src": "5727236e6a3f",
+   "t": "¿Y ganas {{part|pl}} increíbles si vences?"
+  },
+  {
+   "i": 1060,
+   "src": "5352107e6cd3",
+   "t": "Pregunto a los chicos y solo se ríen."
+  },
+  {
+   "i": 1063,
+   "src": "2d69eca2b7a5",
+   "t": "¡Qué injusto! ¡Yo también quiero pelear!"
+  }
+ ]
+}

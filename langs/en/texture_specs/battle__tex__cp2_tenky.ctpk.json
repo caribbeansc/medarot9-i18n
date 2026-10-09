@@ -1,0 +1,72 @@
+{
+ "rel": "battle/tex/cp2_tenky.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    1,
+    80,
+    26,
+    16
+   ],
+   "erase_box": [
+    0,
+    80,
+    28,
+    16
+   ],
+   "text": "Prep",
+   "font": "sf-cond-heavy",
+   "cap": 9.5,
+   "baseline": 91,
+   "fill": "#FFFFFF",
+   "stroke": "#000E1BA2",
+   "stroke_w": 1,
+   "crisp": 0.5
+  },
+  {
+   "box": [
+    33,
+    80,
+    26,
+    16
+   ],
+   "erase_box": [
+    32,
+    80,
+    28,
+    16
+   ],
+   "text": "Cool.",
+   "font": "sf-cond-heavy",
+   "cap": 9.5,
+   "baseline": 91,
+   "fill": "#FFFFFF",
+   "stroke": "#000E1BA2",
+   "stroke_w": 1,
+   "crisp": 0.5
+  },
+  {
+   "erase_box": [
+    0,
+    96,
+    24,
+    8
+   ],
+   "text": ""
+  },
+  {
+   "erase_box": [
+    24,
+    96,
+    24,
+    8
+   ],
+   "text": ""
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_20.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a908c39fb02c",
+   "t": "<c:00ff00>Action:<c> {{thunder_shot}}\nA ranged attack that\napplies the {{thunder}}\n{{status}}.\n<c:00ffff>{{status|cap}}:<c> {{thunder}}\nPauses the action for a\nwhile; {{cannot_evade}}.\nReleased when attacked."
+  }
+ ]
+}

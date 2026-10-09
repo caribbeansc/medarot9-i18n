@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free08_01_01_02_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "beeeab5583c6",
+   "t": "A shrine."
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "d4a61a527d5f",
+   "t": "This must be the top of the {{outer_rim}}."
+  },
+  {
+   "i": 1046,
+   "src": "f685343df5a1",
+   "t": "Let's go down into the crater by the left\nslope."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f07_010_130_00_t013.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1133,
+   "src": "db1a00b2c9f8",
+   "t": "While the {{principal|cap}} is away, I, the"
+  },
+  {
+   "i": 1136,
+   "src": "ee7551baf585",
+   "t": "Vice-Principal, will humbly fill in for\nhim."
+  },
+  {
+   "i": 1144,
+   "src": "8de5a6dec351",
+   "t": "Please carry on with your studies"
+  },
+  {
+   "i": 1147,
+   "src": "14e47ed9ed45",
+   "t": "diligently, just as usual."
+  },
+  {
+   "i": 1155,
+   "src": "17b59878fb45",
+   "t": "And let us pray for the {{principal|cap}}'s"
+  },
+  {
+   "i": 1158,
+   "src": "860152d22de1",
+   "t": "swift recovery. That's all from me."
+  },
+  {
+   "i": 1174,
+   "src": "5081eec42a79",
+   "t": "*Murmur murmur*..."
+  },
+  {
+   "i": 1185,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1196,
+   "src": "9d93e4f445d5",
+   "t": "Yes, now then, next--"
+  }
+ ]
+}

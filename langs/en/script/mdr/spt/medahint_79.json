@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_79.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "49c765990dae",
+   "t": "Worker ant-{{type}} {{medabot}},\nspecialist in cooperating\nwith comrades.\n \nDefends better than the\nsoldier ant {{antldier}} and\nkeeps preparing chain\nattacks."
+  }
+ ]
+}

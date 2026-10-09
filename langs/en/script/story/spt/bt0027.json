@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/bt0027.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "297269455b96",
+   "t": "{{stray_medabot_character}}"
+  },
+  {
+   "i": 864,
+   "src": "a44af508b5b1",
+   "t": "Win the {{robattle}}!"
+  },
+  {
+   "i": 867,
+   "src": "a44af508b5b1",
+   "t": "Win the {{robattle}}!"
+  },
+  {
+   "i": 881,
+   "src": "dc6872b08494",
+   "t": "He... hehehe..."
+  }
+ ]
+}

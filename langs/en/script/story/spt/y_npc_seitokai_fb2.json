@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_seitokai_fb2.spt",
+ "lines": [
+  {
+   "i": 1605,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1616,
+   "src": "deb8f21c4006",
+   "t": "{{robattle}}?"
+  },
+  {
+   "i": 1619,
+   "src": "89d46c761ed4",
+   "t": "Oh, you want to tune up, huh. I'll help."
+  }
+ ]
+}

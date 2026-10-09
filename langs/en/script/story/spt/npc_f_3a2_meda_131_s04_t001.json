@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3a2_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "8bc49da03d8a",
+   "t": "{{rouge_katze}}"
+  },
+  {
+   "i": 1038,
+   "src": "22bcb16ff6bb",
+   "t": "What a big ring!"
+  },
+  {
+   "i": 1041,
+   "src": "a2e3c9849f7e",
+   "t": "It looks like a giant {{medal}}!"
+  }
+ ]
+}

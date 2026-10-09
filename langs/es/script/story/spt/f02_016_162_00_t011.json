@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f02_016_162_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "1848ec28344d",
+   "t": "Bien, ¿qué {{medabot}} parece listo\npara una {{robattle}}?"
+  }
+ ]
+}

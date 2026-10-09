@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f01_090_167_10_t002.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "e6ee4e0d1e01",
+   "t": "Oh, you're right."
+  },
+  {
+   "i": 1006,
+   "src": "eb6e87051b41",
+   "t": "But they look pretty run-down."
+  },
+  {
+   "i": 1009,
+   "src": "9c5bae4911c4",
+   "t": "And they're right in the corner."
+  },
+  {
+   "i": 1017,
+   "src": "0e66f6d557b5",
+   "t": "Is there a {{clubroom}} down there?"
+  },
+  {
+   "i": 1020,
+   "src": "4793510c56ef",
+   "t": "No way."
+  }
+ ]
+}

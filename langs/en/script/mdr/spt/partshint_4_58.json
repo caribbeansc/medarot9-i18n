@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_58.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f8fc4b0d5162",
+   "t": "<c:00ff00>Leg Trait:<c> {{waylay}}\n1/20 of the {{armor}} of your\nset Traps and Plants is\nadded to the {{leg_part}}'s\n{{shooting}} and {{fighting}}\n{{stats}}."
+  }
+ ]
+}

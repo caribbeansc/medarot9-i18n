@@ -1,0 +1,231 @@
+{
+ "rel": "mdr/tex/mlp_win2_9.ctpk",
+ "base": "jp",
+ "styles": {
+  "cian": {
+   "erase": "glyph",
+   "grow": 3,
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "align": "left",
+   "valign": "middle",
+   "pad": 0,
+   "crisp": 0.3,
+   "fill": {
+    "top": "#3BFEFF",
+    "bottom": "#66FFFF"
+   },
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#2B75C8",
+    "blur": 2,
+    "opacity": 0.9
+   }
+  },
+  "amarillo": {
+   "erase": "transparent",
+   "font": "narrow",
+   "cap": 8.5,
+   "align": "center",
+   "valign": "middle",
+   "pad": 0,
+   "crisp": 0.55,
+   "fill": "#E1FF14",
+   "stroke": null
+  }
+ },
+ "items": [
+  {
+   "style": "cian",
+   "box": [
+    12,
+    4,
+    40,
+    20
+   ],
+   "erase_box": [
+    8,
+    5,
+    46,
+    18
+   ],
+   "text": "Rules",
+   "cap": 10.5,
+   "baseline": 18
+  },
+  {
+   "style": "cian",
+   "box": [
+    9,
+    31,
+    89,
+    17
+   ],
+   "erase_box": [
+    6,
+    31,
+    92,
+    17
+   ],
+   "text": "Total Medal Level"
+  },
+  {
+   "style": "cian",
+   "box": [
+    201,
+    31,
+    92,
+    17
+   ],
+   "erase_box": [
+    198,
+    31,
+    95,
+    17
+   ],
+   "text": "Robattle Field"
+  },
+  {
+   "style": "cian",
+   "box": [
+    9,
+    51,
+    170,
+    16
+   ],
+   "erase_box": [
+    5,
+    54,
+    60,
+    15
+   ],
+   "text": "Banned Skills",
+   "baseline": 62.5
+  },
+  {
+   "style": "cian",
+   "box": [
+    201,
+    51,
+    170,
+    16
+   ],
+   "erase_box": [
+    198,
+    54,
+    62,
+    15
+   ],
+   "text": "Other Limits",
+   "baseline": 62.5
+  },
+  {
+   "style": "cian",
+   "box": [
+    9,
+    92,
+    170,
+    16
+   ],
+   "erase_box": [
+    5,
+    95,
+    59,
+    15
+   ],
+   "text": "Banned Parts",
+   "baseline": 104
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    398,
+    0,
+    77,
+    12
+   ],
+   "text": "Rotation Only"
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    398,
+    13,
+    40,
+    12
+   ],
+   "text": "Original",
+   "cap": 8
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    447,
+    11,
+    24,
+    14
+   ],
+   "text": "None"
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    398,
+    26,
+    64,
+    12
+   ],
+   "text": "Highlander"
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    398,
+    39,
+    64,
+    12
+   ],
+   "text": "No Medalia"
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    398,
+    52,
+    54,
+    12
+   ],
+   "text": "No Combos"
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    398,
+    65,
+    71,
+    12
+   ],
+   "text": "No Medaforce"
+  },
+  {
+   "style": "amarillo",
+   "box": [
+    398,
+    78,
+    64,
+    11
+   ],
+   "text": "Tinpet Only",
+   "cap": 8.5,
+   "align": "left",
+   "pad": [
+    2,
+    0,
+    0,
+    0
+   ]
+  }
+ ]
+}

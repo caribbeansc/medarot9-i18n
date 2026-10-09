@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f06_160_119_00_t018.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1035,
+   "src": "eb84fcb85a0f",
+   "t": "¿Quieres un poco de ayuda?"
+  },
+  {
+   "i": 1045,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1054,
+   "src": "6ab6e7a9cd63",
+   "t": "¡¿Qué?!"
+  },
+  {
+   "i": 1061,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1070,
+   "src": "29d39ef303c6",
+   "t": "¿Quieres que te abra esta puerta?"
+  },
+  {
+   "i": 1073,
+   "src": "fa781cb8bc2d",
+   "t": "Es lo que estoy diciendo."
+  },
+  {
+   "i": 1084,
+   "src": "bb99e726b47a",
+   "t": "Cómo... cómo..."
+  },
+  {
+   "i": 1092,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1101,
+   "src": "96f8a4f82340",
+   "t": "Eso es secreto de la empresa."
+  },
+  {
+   "i": 1104,
+   "src": "b8b4d1d94eaa",
+   "t": "Y bien, ¿qué deciden?"
+  },
+  {
+   "i": 1125,
+   "src": "351e26c9b965",
+   "t": "Vaya, ¿otra vez sin respuesta?"
+  },
+  {
+   "i": 1133,
+   "src": "48dd782e9477",
+   "t": "Bien~"
+  },
+  {
+   "i": 1136,
+   "src": "0f66c7f5f661",
+   "t": "Entonces la abriré yo misma."
+  }
+ ]
+}

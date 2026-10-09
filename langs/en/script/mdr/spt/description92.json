@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description92.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "eef88c11e8fe",
+   "t": "Medalia Slot"
+  },
+  {
+   "i": 11,
+   "src": "91d13f54f9be",
+   "t": "A socket in a <c:ffff00>{{medal}}<c> where a <c:ffff00>{{medalia}}<c> can be set.\n\nThe number of slots depends on <c:ffff00>{{rank}}<c>:\n  {{bronze}}: 1, {{silver}}: 2, {{gold}}: 3\n\nIf all 3 slots of the {{medal}} hold {{medalia}} of the same\nshape, the <c:ffff00>{{leader_effect}}<c> changes; if they are the\nsame color, a <c:ffff00>{{medal_change}}<c> occurs."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_67.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3f14521a27ce",
+   "t": "<c:00ff00>Técnica:<c>Limpiar Efectos\nAtaque cuerpo a cuerpo\nque borra los efectos\npositivos del {{opponent}}.\nCuantos más efectos\npositivos tenga el {{opponent}},\nmás {{damage}} causa."
+  }
+ ]
+}

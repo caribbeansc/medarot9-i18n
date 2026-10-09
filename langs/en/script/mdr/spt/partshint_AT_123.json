@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_123.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b348bd544285",
+   "t": "<c:00ff00>Action:<c> {{rebirth}}\nRestores one knocked-out\nallied {{medabot}}."
+  }
+ ]
+}

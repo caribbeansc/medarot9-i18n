@@ -1,0 +1,50 @@
+{
+ "file": "mdr/spt/memo12.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "f5b6c753644c",
+   "t": "Vamos tras Lapis."
+  },
+  {
+   "i": 32,
+   "src": "8dfabce6d891",
+   "t": "2 Salto desde el {{dormitory}} femenino\n"
+  },
+  {
+   "i": 42,
+   "src": "2e26449c6cdf",
+   "t": "2 Área de la {{abandoned_mine}} desbloqueada\n"
+  },
+  {
+   "i": 52,
+   "src": "363392c63bc1",
+   "t": "2 Primera vez en el {{storehouse}}: aparece {{baum}}\n"
+  },
+  {
+   "i": 62,
+   "src": "60cc1ba0bb90",
+   "t": "2 Hallazgo de Ladybug\n"
+  },
+  {
+   "i": 72,
+   "src": "c7a37b954425",
+   "t": "2 Ladybug en peligro\n"
+  },
+  {
+   "i": 82,
+   "src": "167ed5467024",
+   "t": "2 {{baum}} nos acompaña al {{storehouse_basement}}\n"
+  },
+  {
+   "i": 92,
+   "src": "c3c173efcbb8",
+   "t": "2 Hallazgo de una {{medalia}}\n"
+  },
+  {
+   "i": 102,
+   "src": "50c61893b697",
+   "t": "2 Acercamiento a Ladybug\n"
+  }
+ ]
+}

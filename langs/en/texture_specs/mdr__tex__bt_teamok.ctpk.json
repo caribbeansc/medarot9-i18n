@@ -1,0 +1,64 @@
+{
+ "rel": "mdr/tex/bt_teamok.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "font": "tahoma",
+  "cap": 8,
+  "pad": 0,
+  "crisp": 0.5,
+  "text": "Team OK"
+ },
+ "items": [
+  {
+   "box": [
+    28,
+    8,
+    77,
+    13
+   ],
+   "erase_box": [
+    27,
+    8,
+    79,
+    13
+   ],
+   "fill": "#4A4F5B",
+   "stroke": "#F4F4F4",
+   "stroke_w": 1
+  },
+  {
+   "box": [
+    141,
+    8,
+    75,
+    13
+   ],
+   "erase_box": [
+    140,
+    8,
+    77,
+    13
+   ],
+   "fill": "#CDCDD1",
+   "stroke": null
+  },
+  {
+   "box": [
+    29,
+    32,
+    75,
+    13
+   ],
+   "erase_box": [
+    28,
+    32,
+    77,
+    13
+   ],
+   "fill": "#44474C",
+   "stroke": null
+  }
+ ]
+}

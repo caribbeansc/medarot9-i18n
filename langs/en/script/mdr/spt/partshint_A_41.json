@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_41.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "785f0e3c89c8",
+   "t": "<c:00ff00>{{mf}}:<c> {{float}}\nThe {{leg_type}} of your whole\nteam becomes the {{float}}\ntype.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

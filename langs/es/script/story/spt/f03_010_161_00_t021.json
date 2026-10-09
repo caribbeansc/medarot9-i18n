@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f03_010_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "ff57655f6533",
+   "t": "Ah, cierto, sobre esa {{medalia}},"
+  },
+  {
+   "i": 1045,
+   "src": "8c9f1c3820c0",
+   "t": "la sumé a los objetos del {{club}}."
+  },
+  {
+   "i": 1053,
+   "src": "cb3d3763a753",
+   "t": "Abre Configuración, pestaña {{medal|pl}},"
+  },
+  {
+   "i": 1056,
+   "src": "52d345f3b22b",
+   "t": "y elige una {{medalia}} para colocarla."
+  },
+  {
+   "i": 1071,
+   "src": "7d37f42d974f",
+   "t": "Sería tonto no usar"
+  },
+  {
+   "i": 1074,
+   "src": "68de852ec42b",
+   "t": "el poder de las Medarias. Pruébalas."
+  }
+ ]
+}

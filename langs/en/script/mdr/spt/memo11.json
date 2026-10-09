@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo11.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "3a85510786b1",
+   "t": "Let's go talk to {{stella}}."
+  },
+  {
+   "i": 32,
+   "src": "25e90d48eb09",
+   "t": "2 {{stella}} Found\n"
+  },
+  {
+   "i": 42,
+   "src": "32966eb59d8d",
+   "t": "2 {{stella}}'s Room\n"
+  },
+  {
+   "i": 52,
+   "src": "7cd00baba921",
+   "t": "2 {{stella}}'s Room, End\n"
+  }
+ ]
+}

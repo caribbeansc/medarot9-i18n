@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description109.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9d39df372b40",
+   "t": "{{prep|cap}} (rend.)"
+  },
+  {
+   "i": 11,
+   "src": "51f316fac8d8",
+   "t": "Tipo de <c:ffff00>{{stats}}<c> de <c:ffff00>{{part|pl}}<c> de <c:ffff00>{{head}}<c> y <c:ffff00>brazos<c>.\n\nMide la velocidad de los preparativos físicos, como\nrecargar munición, e incluye la eficiencia de la {{prep}}\nde energía que requiere la <c:ffff00>acción<c>.\n\nCuanto mayor es el valor, menos tarda la <c:ffff00>{{prep}}<c> de la\n<c:ffff00>técnica<c>."
+  }
+ ]
+}

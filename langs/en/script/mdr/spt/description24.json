@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description24.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "01d32bb66498",
+   "t": "{{cooldown}}"
+  },
+  {
+   "i": 11,
+   "src": "8f2a67051dc1",
+   "t": "The follow-up processing time that accompanies the\n<c:ffff00>act<c> of an <c:ffff00>action<c> or <c:ffff00>Medaforce<c>, from when it is\nexecuted until the next command is chosen.\n\nIts length varies with the abilities of the <c:ffff00>{{medal}}<c> and\n<c:ffff00>{{part|pl}}<c>."
+  }
+ ]
+}

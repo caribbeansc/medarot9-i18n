@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description46.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "7e5b80caf2a5",
+   "t": "Knocked Out"
+  },
+  {
+   "i": 11,
+   "src": "576e4155c08a",
+   "t": "A state in which the <c:ffff00>{{medal}}<c> comes off the <c:ffff00>{{medabot}}<c>\nand it can no longer continue in the <c:ffff00>{{robattle}}<c>.\n\nIf the <c:ffff00>{{head_part}}<c> is <c:ffff00>destroyed<c>, the {{medabot}} is\n{{knocked_out}}. It can return to the {{robattle}} if another\n{{ally_battle_term}} <c:ffff00>revives<c> it.\n\nThe team whose <c:ffff00>{{leader}}<c> is {{knocked_out}} loses the\n{{robattle}}."
+  }
+ ]
+}

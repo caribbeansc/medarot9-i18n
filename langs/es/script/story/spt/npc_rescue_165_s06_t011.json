@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rescue_165_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1035,
+   "src": "65ba7afe5a3a",
+   "t": "Mmm, la montaña tiene riscos al este..."
+  },
+  {
+   "i": 1038,
+   "src": "2944e7e7f489",
+   "t": "Quizá sirvan para hacer rapel."
+  },
+  {
+   "i": 1046,
+   "src": "a532f0562d97",
+   "t": "Pero me preocupa el puente del camino."
+  },
+  {
+   "i": 1049,
+   "src": "fa1c980b57da",
+   "t": "Si es de la era minera, su resistencia--"
+  },
+  {
+   "i": 1070,
+   "src": "9cb84c5f2af1",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1073,
+   "src": "f94a4dd56c67",
+   "t": "Estoy ocupado. Hablamos después."
+  }
+ ]
+}

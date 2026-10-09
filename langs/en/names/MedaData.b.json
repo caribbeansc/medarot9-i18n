@@ -1,0 +1,4109 @@
+{
+ "file": "param/MedaData.b",
+ "slots": [
+  {
+   "off": 14,
+   "size": 20,
+   "src": "5bac5b197472",
+   "t": "RestoreAngel",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 66,
+   "size": 20,
+   "src": "d0832d5c27bc",
+   "t": "ReviveAngel",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 118,
+   "size": 20,
+   "src": "89124bd93323",
+   "t": "SpenageMenog",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 170,
+   "size": 20,
+   "src": "7aec1b69b111",
+   "t": "{{boarbooster}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 222,
+   "size": 20,
+   "src": "16d322d79e57",
+   "t": "{{noctobat}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 274,
+   "size": 20,
+   "src": "b53ab626191a",
+   "t": "{{bustroyer}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 326,
+   "size": 20,
+   "src": "6aa66fc6f54d",
+   "t": "{{noir_katze}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 378,
+   "size": 20,
+   "src": "89ff26c3a530",
+   "t": "{{dr_bokchoy}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 430,
+   "size": 20,
+   "src": "716f896d799f",
+   "t": "{{baroncastle}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 482,
+   "size": 20,
+   "src": "3d36480a0b95",
+   "t": "{{peppercat}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 534,
+   "size": 20,
+   "src": "141cb2e45814",
+   "t": "{{octoclam}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 586,
+   "size": 20,
+   "src": "ef725f27187c",
+   "t": "{{multikolor}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 638,
+   "size": 20,
+   "src": "6a9c0b968106",
+   "t": "{{aimflash}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 690,
+   "size": 20,
+   "src": "7e228aed97e5",
+   "t": "{{badhacker}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 742,
+   "size": 20,
+   "src": "18c09f8e132f",
+   "t": "SakuraChan-Z  ",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 794,
+   "size": 20,
+   "src": "8106f87bbb40",
+   "t": "{{gorem_2}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 846,
+   "size": 20,
+   "src": "c1720f076c24",
+   "t": "{{krosserdog}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 898,
+   "size": 20,
+   "src": "0100cff73ef6",
+   "t": "{{olympia}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 950,
+   "size": 20,
+   "src": "ba3817a71ad6",
+   "t": "{{moon_dragon}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1002,
+   "size": 20,
+   "src": "b05ba317755d",
+   "t": "{{drakonfly}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1054,
+   "size": 20,
+   "src": "5fd0dd6e8cd1",
+   "t": "{{uglyduck}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1106,
+   "size": 20,
+   "src": "cb06a87b692b",
+   "t": "{{belzelga}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1158,
+   "size": 20,
+   "src": "e3d42030b1f5",
+   "t": "{{kingpharaoh}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1210,
+   "size": 20,
+   "src": "d11be7ecce78",
+   "t": "{{gigaphant}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1262,
+   "size": 20,
+   "src": "62046e486a02",
+   "t": "{{fireflash}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1314,
+   "size": 20,
+   "src": "b3cf80d5ec5d",
+   "t": "{{botafly}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1366,
+   "size": 20,
+   "src": "f6660a8065b1",
+   "t": "{{fossilkat}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1418,
+   "size": 20,
+   "src": "a951aed59cb0",
+   "t": "{{potatobug}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1470,
+   "size": 20,
+   "src": "39dc64ffb3ff",
+   "t": "{{queen_vespa}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1522,
+   "size": 20,
+   "src": "884b245dacd3",
+   "t": "{{hippopo}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1574,
+   "size": 20,
+   "src": "3ff91340d000",
+   "t": "{{flyfalcon}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1626,
+   "size": 20,
+   "src": "794707269968",
+   "t": "{{great_kabuki}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1678,
+   "size": 20,
+   "src": "1ae0373e4fcd",
+   "t": "{{metabee}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1730,
+   "size": 20,
+   "src": "14a3dea6d6e4",
+   "t": "ArcBeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1782,
+   "size": 20,
+   "src": "7614df520557",
+   "t": "BlackBeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1834,
+   "size": 20,
+   "src": "e0f5eadc60e9",
+   "t": "Saikacchis",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1886,
+   "size": 20,
+   "src": "8d0ae27afe04",
+   "t": "GunNose",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1938,
+   "size": 20,
+   "src": "735004eb005a",
+   "t": "{{maasai_moran}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1990,
+   "size": 20,
+   "src": "669f02ecaf4d",
+   "t": "{{aviking}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2042,
+   "size": 20,
+   "src": "bb346830cf53",
+   "t": "{{cordy}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2094,
+   "size": 20,
+   "src": "83699eee4c39",
+   "t": "{{rokusho}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2146,
+   "size": 20,
+   "src": "e5448569b0ae",
+   "t": "BlackStag",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2198,
+   "size": 20,
+   "src": "28e685317b64",
+   "t": "Dorcus",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2250,
+   "size": 20,
+   "src": "29da97a92da2",
+   "t": "Sanjuro",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2302,
+   "size": 20,
+   "src": "c60ac3a4a92c",
+   "t": "Ranga-6-LF",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2354,
+   "size": 20,
+   "src": "81699bef32c8",
+   "t": "Ragna-6-RF",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2406,
+   "size": 20,
+   "src": "d1b4a41f7a81",
+   "t": "PureMermaid",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2458,
+   "size": 20,
+   "src": "dcb83768e459",
+   "t": "{{brightness}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2510,
+   "size": 20,
+   "src": "99afdb6318a9",
+   "t": "MagicalCard",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2562,
+   "size": 20,
+   "src": "36725d31d637",
+   "t": "{{thirteen}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2614,
+   "size": 20,
+   "src": "acc51338a42e",
+   "t": "{{aurora}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2666,
+   "size": 20,
+   "src": "51ca8d16041b",
+   "t": "SaintNurse",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2718,
+   "size": 20,
+   "src": "0bd28210d40a",
+   "t": "{{nin_ninja}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2770,
+   "size": 20,
+   "src": "9767327b8316",
+   "t": "KnightArmor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2822,
+   "size": 20,
+   "src": "3eab64cfb7fc",
+   "t": "{{pingen}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2874,
+   "size": 20,
+   "src": "eef6e94f6267",
+   "t": "{{hell_phoenix}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2926,
+   "size": 20,
+   "src": "763cf3b5b3be",
+   "t": "{{rhinorush}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2978,
+   "size": 20,
+   "src": "62f174f18716",
+   "t": "{{circulis}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3030,
+   "size": 20,
+   "src": "6a6e04557aca",
+   "t": "{{snowbro}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3082,
+   "size": 20,
+   "src": "dd9c94e06f29",
+   "t": "{{poison_copy}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3134,
+   "size": 20,
+   "src": "ed6db7c3b052",
+   "t": "{{saldron}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3186,
+   "size": 20,
+   "src": "71a40edab9de",
+   "t": "{{sailor_multi}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3238,
+   "size": 20,
+   "src": "5d4ba4fa88a9",
+   "t": "{{maxsnake}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3290,
+   "size": 20,
+   "src": "848a7e308cb0",
+   "t": "ShootSpider",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3342,
+   "size": 20,
+   "src": "480b7399d7ad",
+   "t": "{{machairodus}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3394,
+   "size": 20,
+   "src": "05bae9aa345c",
+   "t": "{{attack_tyranno}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3446,
+   "size": 20,
+   "src": "884aaaa14a38",
+   "t": "{{totalizer}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3498,
+   "size": 20,
+   "src": "ed0d27c18fc5",
+   "t": "{{legend_horn}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3550,
+   "size": 20,
+   "src": "c134298195b4",
+   "t": "{{pretty_prime}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3602,
+   "size": 20,
+   "src": "7102e427e3a1",
+   "t": "GodEmperor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3654,
+   "size": 20,
+   "src": "0ede10eb806f",
+   "t": "{{redmatador}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3706,
+   "size": 20,
+   "src": "5d8f37404ad2",
+   "t": "{{crow_tengu}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3758,
+   "size": 20,
+   "src": "c5106cc3ba1f",
+   "t": "{{blackram}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3810,
+   "size": 20,
+   "src": "8606ec61440f",
+   "t": "{{foxuno}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3862,
+   "size": 20,
+   "src": "aec1b751d8cb",
+   "t": "{{auroraqueen}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3914,
+   "size": 20,
+   "src": "01df5ec47dce",
+   "t": "{{sharkkan}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 3966,
+   "size": 20,
+   "src": "1585003bc1e4",
+   "t": "{{samurai}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4018,
+   "size": 20,
+   "src": "b0428653bab7",
+   "t": "BeastMaster",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4070,
+   "size": 20,
+   "src": "3499229cde44",
+   "t": "{{antldier}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4122,
+   "size": 20,
+   "src": "b27d3a617cec",
+   "t": "{{antacker}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4174,
+   "size": 20,
+   "src": "28da6460c901",
+   "t": "{{gokudo}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4226,
+   "size": 20,
+   "src": "3fad578f8bfd",
+   "t": "{{whitesword}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4278,
+   "size": 20,
+   "src": "a31a0db93d41",
+   "t": "{{shaman_miko}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4330,
+   "size": 20,
+   "src": "5a6ac28abaa3",
+   "t": "{{cry_banshee}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4382,
+   "size": 20,
+   "src": "a08785a369c4",
+   "t": "{{float_spinner}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4434,
+   "size": 20,
+   "src": "256fe46b5f95",
+   "t": "{{first_ace}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4486,
+   "size": 20,
+   "src": "7189600cb972",
+   "t": "{{gun_king}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4538,
+   "size": 20,
+   "src": "52fa671c9ff3",
+   "t": "{{attractor}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4590,
+   "size": 20,
+   "src": "1027905145f3",
+   "t": "{{chibehemoth}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4642,
+   "size": 20,
+   "src": "49d1e7c4a278",
+   "t": "{{ku_centaurus}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4694,
+   "size": 20,
+   "src": "4dfd6e795a80",
+   "t": "{{blossomail}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4746,
+   "size": 20,
+   "src": "b7ffa56656f5",
+   "t": "{{goldfin}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4798,
+   "size": 20,
+   "src": "7b1bfe05311c",
+   "t": "{{greek_head}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4850,
+   "size": 20,
+   "src": "8200a7a2a258",
+   "t": "{{mi_leviathan}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4902,
+   "size": 20,
+   "src": "52e3979bd7c9",
+   "t": "{{destiny}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 4954,
+   "size": 20,
+   "src": "bdcd5ad9425e",
+   "t": "{{ku_wyvern}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5006,
+   "size": 20,
+   "src": "ede1fc510f54",
+   "t": "{{kanabunbun}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5058,
+   "size": 20,
+   "src": "a8b2d0f6ba38",
+   "t": "Gairain",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5110,
+   "size": 20,
+   "src": "17b520e7d0ae",
+   "t": "{{hardness_ten}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5162,
+   "size": 20,
+   "src": "d789103670ed",
+   "t": "BlueCorundum",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5214,
+   "size": 20,
+   "src": "f8cdf601f47e",
+   "t": "PigeonBlood",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5266,
+   "size": 20,
+   "src": "65204e1da82a",
+   "t": "TeodoraBeryl",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5318,
+   "size": 20,
+   "src": "31e45dc8cc58",
+   "t": "{{dokoka_no_oji}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5370,
+   "size": 20,
+   "src": "a00e370e644c",
+   "t": "OtogiPrincess",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5422,
+   "size": 20,
+   "src": "c4836471a0d0",
+   "t": "HimeDakker",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5474,
+   "size": 20,
+   "src": "927627b647bb",
+   "t": "{{jiangzhu}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5526,
+   "size": 20,
+   "src": "73ad47dcfc95",
+   "t": "{{snow_fenrir}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5578,
+   "size": 20,
+   "src": "a143903884fa",
+   "t": "{{asterios}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5630,
+   "size": 20,
+   "src": "2a73e6585600",
+   "t": "{{greed}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5682,
+   "size": 20,
+   "src": "55ff7ac0478c",
+   "t": "{{blazermate}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5734,
+   "size": 20,
+   "src": "2b3edf340341",
+   "t": "{{bug_stink}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5786,
+   "size": 20,
+   "src": "2511c78cceb8",
+   "t": "{{side_move}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5838,
+   "size": 20,
+   "src": "019fc76bf59e",
+   "t": "{{jiras_jidas}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5890,
+   "size": 20,
+   "src": "04e96570677d",
+   "t": "{{rouge_katze}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5942,
+   "size": 20,
+   "src": "942eb6606008",
+   "t": "{{cobalt_setter}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 5994,
+   "size": 20,
+   "src": "b115440feac6",
+   "t": "{{chromtortoise}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6046,
+   "size": 20,
+   "src": "229c523d59b5",
+   "t": "{{aragostar}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6098,
+   "size": 20,
+   "src": "ae351f5fc1f3",
+   "t": "{{speed_alert}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6150,
+   "size": 20,
+   "src": "5b12e6898579",
+   "t": "{{the_edge}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6202,
+   "size": 20,
+   "src": "350e59e818a3",
+   "t": "{{turbulent}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6254,
+   "size": 20,
+   "src": "c6bc323088fa",
+   "t": "{{arinsu_dayu}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6306,
+   "size": 20,
+   "src": "64c319d8c8ea",
+   "t": "{{chugen_hao}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6358,
+   "size": 20,
+   "src": "84df293cfa11",
+   "t": "{{saisho_gunshi}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6410,
+   "size": 20,
+   "src": "e1858329c811",
+   "t": "{{flapper_kung_fu}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6462,
+   "size": 20,
+   "src": "6456f9a9d4f2",
+   "t": "{{ginban_fairy}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6514,
+   "size": 20,
+   "src": "094d3db48293",
+   "t": "Kukultikal",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6566,
+   "size": 20,
+   "src": "9e6f84cbea29",
+   "t": "Ixkarakurum",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6618,
+   "size": 20,
+   "src": "850ee8579d84",
+   "t": "{{huracan}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6670,
+   "size": 20,
+   "src": "770e85baca5c",
+   "t": "ChaosFixer",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6722,
+   "size": 20,
+   "src": "87bfe281e6af",
+   "t": "{{garutman}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6774,
+   "size": 20,
+   "src": "a5d358c291ca",
+   "t": "{{sha_fu}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6826,
+   "size": 20,
+   "src": "ced1743dd39f",
+   "t": "ShuShutai",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6878,
+   "size": 20,
+   "src": "70d73212ccd9",
+   "t": "{{maasai_laibon}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6930,
+   "size": 20,
+   "src": "923f9b3da922",
+   "t": "{{scimitar_tooth}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 6982,
+   "size": 20,
+   "src": "3dc2b2fbf489",
+   "t": "{{buster_tyranno}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7034,
+   "size": 20,
+   "src": "4a8350afe2e6",
+   "t": "{{strike_horn}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7086,
+   "size": 20,
+   "src": "cea6edadbcd7",
+   "t": "{{led_shadow}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7138,
+   "size": 20,
+   "src": "4f1af783c7b1",
+   "t": "Buriki-OH",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7190,
+   "size": 20,
+   "src": "81e67b92c52c",
+   "t": "BettyBear",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7242,
+   "size": 20,
+   "src": "134f2700bb8a",
+   "t": "{{seekamar}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7294,
+   "size": 20,
+   "src": "7bee46e0201b",
+   "t": "{{hawkdacker}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7346,
+   "size": 20,
+   "src": "c51d963ef8c4",
+   "t": "NotTouch",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7398,
+   "size": 20,
+   "src": "61de7864ecd6",
+   "t": "{{lily_madonna}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7450,
+   "size": 20,
+   "src": "a07f98673602",
+   "t": "IronHorse",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7502,
+   "size": 20,
+   "src": "2fa7ba76a96c",
+   "t": "Warheadly",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7554,
+   "size": 20,
+   "src": "cd6f3ed13136",
+   "t": "Yellow Crick",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7606,
+   "size": 20,
+   "src": "aeaa32aa5073",
+   "t": "{{ptolemy}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7658,
+   "size": 20,
+   "src": "e02b75096186",
+   "t": "ElementMark",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7710,
+   "size": 20,
+   "src": "b064c2837173",
+   "t": "Noel",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7762,
+   "size": 20,
+   "src": "8d718d1ec16c",
+   "t": "MarineHealer",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7814,
+   "size": 20,
+   "src": "95cff7b9e246",
+   "t": "{{g_o_death}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7866,
+   "size": 20,
+   "src": "9fdd47d555cb",
+   "t": "Sti-Dryad",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7918,
+   "size": 20,
+   "src": "e555a87ac88f",
+   "t": "SeaCatcher",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 7970,
+   "size": 20,
+   "src": "a73a99e37c59",
+   "t": "Riza",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8022,
+   "size": 20,
+   "src": "700ab6749500",
+   "t": "{{nagaraja}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8074,
+   "size": 20,
+   "src": "ead2bc5743bf",
+   "t": "NutCracker",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8126,
+   "size": 20,
+   "src": "48c8062c868f",
+   "t": "TyrrellBeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8178,
+   "size": 20,
+   "src": "7a26003298ae",
+   "t": "{{einrad}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8230,
+   "size": 20,
+   "src": "fb00cb8bf692",
+   "t": "LyricalNurse",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8282,
+   "size": 20,
+   "src": "cff163c554a4",
+   "t": "ArmorChariot",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8334,
+   "size": 20,
+   "src": "60d33a83d10b",
+   "t": "TwinkleStar",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8386,
+   "size": 20,
+   "src": "67831c627d05",
+   "t": "{{swimmermate}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8438,
+   "size": 20,
+   "src": "21d98bee4586",
+   "t": "{{ready_go}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8490,
+   "size": 20,
+   "src": "93cf7c4cb0ec",
+   "t": "SageHorn",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8542,
+   "size": 20,
+   "src": "be07e8f5fcbc",
+   "t": "Hirschkafer",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8594,
+   "size": 20,
+   "src": "fea6cd4d8d36",
+   "t": "{{wild_ukon}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8646,
+   "size": 20,
+   "src": "5fc98fbfc80c",
+   "t": "{{steel_stork}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8698,
+   "size": 20,
+   "src": "08ee68d33d82",
+   "t": "{{pinecone}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8750,
+   "size": 20,
+   "src": "d5e59719118d",
+   "t": "{{one_stroke}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8802,
+   "size": 20,
+   "src": "2e7af7e1a464",
+   "t": "{{tengai_kiso}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8854,
+   "size": 20,
+   "src": "242b0651e9e1",
+   "t": "{{vamp_squid}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8906,
+   "size": 20,
+   "src": "ccc89e8059ef",
+   "t": "{{infinitis}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 8958,
+   "size": 20,
+   "src": "324a8ec81394",
+   "t": "{{proto_musha}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9010,
+   "size": 20,
+   "src": "8bd4079dd4b2",
+   "t": "{{tomoe}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9062,
+   "size": 20,
+   "src": "b83ad3679048",
+   "t": "{{swallowtail}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9114,
+   "size": 20,
+   "src": "5edb21c89763",
+   "t": "{{fluffy_hair}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9166,
+   "size": 20,
+   "src": "0572f4f56bb0",
+   "t": "YataCrow",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9218,
+   "size": 20,
+   "src": "387542eafe62",
+   "t": "{{wheel_comb}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9270,
+   "size": 20,
+   "src": "4d362118114e",
+   "t": "{{megavex}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9322,
+   "size": 20,
+   "src": "57c745a0a073",
+   "t": "{{ours_blanc}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9374,
+   "size": 20,
+   "src": "10ec5692aa13",
+   "t": "{{horny_devil}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9426,
+   "size": 20,
+   "src": "0eb5db5aed9e",
+   "t": "{{katakata_mawaru}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9478,
+   "size": 20,
+   "src": "adb9a129a59f",
+   "t": "{{bone_cracker}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9530,
+   "size": 20,
+   "src": "04b61762648b",
+   "t": "{{fearlessness}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9582,
+   "size": 20,
+   "src": "64e43bb2ca74",
+   "t": "Salvation",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9634,
+   "size": 20,
+   "src": "07723e2f4d69",
+   "t": "{{death_providence}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9686,
+   "size": 20,
+   "src": "5f1fb0c2c235",
+   "t": "LittleLackey",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9738,
+   "size": 20,
+   "src": "4f68bb0e4e38",
+   "t": "ChaperonRouge",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9790,
+   "size": 20,
+   "src": "96441bbbbc9d",
+   "t": "{{iliako_force}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9842,
+   "size": 20,
+   "src": "4e7f0507327f",
+   "t": "{{fegaro_force}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9894,
+   "size": 20,
+   "src": "0e07245c99a8",
+   "t": "{{la_pucelle}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9946,
+   "size": 20,
+   "src": "09412978a5cd",
+   "t": "{{barbe_bleue}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 9998,
+   "size": 20,
+   "src": "8fd9a78a6d85",
+   "t": "{{convex}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10050,
+   "size": 20,
+   "src": "02661dcbdd39",
+   "t": "{{concave}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10102,
+   "size": 20,
+   "src": "8edf87f6aa48",
+   "t": "Shisaku-1Gou",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10154,
+   "size": 20,
+   "src": "2c5eb10330b4",
+   "t": "Shisaku-2Gou",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10206,
+   "size": 20,
+   "src": "95dc949fb130",
+   "t": "Shisaku-3Gou",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10258,
+   "size": 20,
+   "src": "8dc3c972ba96",
+   "t": "BlackMail-X",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10310,
+   "size": 20,
+   "src": "203cb8be395d",
+   "t": "Hardness-X",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10362,
+   "size": 20,
+   "src": "702a945ed0ed",
+   "t": "{{shiny_star}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10414,
+   "size": 20,
+   "src": "39d8d9ff9b03",
+   "t": "{{alec_bear}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10466,
+   "size": 20,
+   "src": "56267ba1ad57",
+   "t": "{{booby_spider}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10518,
+   "size": 20,
+   "src": "f6435294964b",
+   "t": "Riza-2",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10570,
+   "size": 20,
+   "src": "3d1efbc3a7e5",
+   "t": "Gold Ukon",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10622,
+   "size": 20,
+   "src": "e6e07ebac335",
+   "t": "{{rapprapp}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10674,
+   "size": 20,
+   "src": "54081d4e18aa",
+   "t": "Paparacia",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10726,
+   "size": 20,
+   "src": "fed487f49bc3",
+   "t": "RossaRibes",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10778,
+   "size": 20,
+   "src": "f124fdba8d07",
+   "t": "Buri-Pink",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10830,
+   "size": 20,
+   "src": "1def2f15e304",
+   "t": "{{buri_red}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10882,
+   "size": 20,
+   "src": "8ad3af948497",
+   "t": "{{buri_green}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10934,
+   "size": 20,
+   "src": "6630d49e7ba7",
+   "t": "{{buri_black}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 10986,
+   "size": 20,
+   "src": "e53be3bc1117",
+   "t": "Buri-Silver",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11038,
+   "size": 20,
+   "src": "9460f398aa00",
+   "t": "{{cyandog}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11090,
+   "size": 20,
+   "src": "c00c2e77f41a",
+   "t": "{{magentacat}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11142,
+   "size": 20,
+   "src": "fad494b12d2f",
+   "t": "{{yellowturtle}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11194,
+   "size": 20,
+   "src": "c0f5fcb20e34",
+   "t": "{{sailormate}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11246,
+   "size": 20,
+   "src": "749d65d3693f",
+   "t": "{{heal_angel}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11298,
+   "size": 20,
+   "src": "5358e85f0034",
+   "t": "{{hellweaver}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11350,
+   "size": 20,
+   "src": "70d43930929e",
+   "t": "{{snake_queen}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11402,
+   "size": 20,
+   "src": "6adeab30ade7",
+   "t": "{{prowl_viper}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11454,
+   "size": 20,
+   "src": "5ddbf8612d50",
+   "t": "{{teppen}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11506,
+   "size": 20,
+   "src": "19aa1f11224d",
+   "t": "{{hoppin}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11558,
+   "size": 20,
+   "src": "e3bf572a33fa",
+   "t": "{{chrono_rabbit}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11610,
+   "size": 20,
+   "src": "ca00b2f0b22b",
+   "t": "Tempt Bunny",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11662,
+   "size": 20,
+   "src": "d3c9c68ad94a",
+   "t": "NioKaiko",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11714,
+   "size": 20,
+   "src": "ead7722c3c22",
+   "t": "NioHeiko",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11766,
+   "size": 20,
+   "src": "71e9cf34c0b6",
+   "t": "Jinja-OH",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11818,
+   "size": 20,
+   "src": "52876b4e966b",
+   "t": "Yinja-OH",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11870,
+   "size": 20,
+   "src": "a83b58b2fae4",
+   "t": "Kirmashira",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11922,
+   "size": 20,
+   "src": "ee9f38dcb400",
+   "t": "IraMashira",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 11974,
+   "size": 20,
+   "src": "9f816d915117",
+   "t": "RightSoutasu",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12026,
+   "size": 20,
+   "src": "42c539f760cd",
+   "t": "TawararyaLeft",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12078,
+   "size": 20,
+   "src": "d4e92c7bbcfa",
+   "t": "{{roll_star}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12130,
+   "size": 20,
+   "src": "e6712942f55f",
+   "t": "WarBonnet",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12182,
+   "size": 20,
+   "src": "c0577bdd678f",
+   "t": "Smilodonad",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12234,
+   "size": 20,
+   "src": "cf00d75db22d",
+   "t": "ArchBeetle-D",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12286,
+   "size": 20,
+   "src": "14662341c8de",
+   "t": "Kantaros",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12338,
+   "size": 20,
+   "src": "209cdb62e5e4",
+   "t": "MachMassive",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12390,
+   "size": 20,
+   "src": "4b9b1f477013",
+   "t": "Chrotojil",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12442,
+   "size": 20,
+   "src": "15b4ebdab15a",
+   "t": "Shinzan",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12494,
+   "size": 20,
+   "src": "3f283bdb1ca5",
+   "t": "GranBeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12546,
+   "size": 20,
+   "src": "3dd8f6df35bf",
+   "t": "{{windclap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12598,
+   "size": 20,
+   "src": "2e192d53b525",
+   "t": "SonicStag",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12650,
+   "size": 20,
+   "src": "4313f394bd77",
+   "t": "{{ashton}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12702,
+   "size": 20,
+   "src": "64b16bbd60d2",
+   "t": "{{navi_commun}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12754,
+   "size": 20,
+   "src": "970063f12625",
+   "t": "TitanBeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12806,
+   "size": 20,
+   "src": "24ecf4e5f856",
+   "t": "Maquette",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12858,
+   "size": 20,
+   "src": "28fa11f9f538",
+   "t": "{{haikara_mate}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12910,
+   "size": 20,
+   "src": "8ceacd2ee7e8",
+   "t": "{{time_faller}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 12962,
+   "size": 20,
+   "src": "bade838bc06c",
+   "t": "{{kimengar}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13014,
+   "size": 20,
+   "src": "1b2d053b58a2",
+   "t": "LandMotor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13066,
+   "size": 20,
+   "src": "9e81d980242b",
+   "t": "{{blue_submarine}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13118,
+   "size": 20,
+   "src": "725006a512dd",
+   "t": "LadyJet",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13170,
+   "size": 20,
+   "src": "2ee855617cd8",
+   "t": "{{agadama}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13222,
+   "size": 20,
+   "src": "b8497609524e",
+   "t": "{{gloomeg}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13274,
+   "size": 20,
+   "src": "4d5b3fc210a9",
+   "t": "{{kuraba}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13326,
+   "size": 20,
+   "src": "82ca5dfb1e24",
+   "t": "{{banisher}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13378,
+   "size": 20,
+   "src": "f520fa2dadde",
+   "t": "{{toybox}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13430,
+   "size": 20,
+   "src": "56ed8f34796c",
+   "t": "{{gobanko}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13482,
+   "size": 20,
+   "src": "6da55e1630b8",
+   "t": "Lapi",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13534,
+   "size": 20,
+   "src": "a12303f4907b",
+   "t": "{{piraskull}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13586,
+   "size": 20,
+   "src": "b692eb87c8e9",
+   "t": "{{pirastar}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13638,
+   "size": 20,
+   "src": "1d3cd8bab417",
+   "t": "{{djungarian}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13690,
+   "size": 20,
+   "src": "8197b73668a2",
+   "t": "{{sickle_cutter}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13742,
+   "size": 20,
+   "src": "27c9ec0048a7",
+   "t": "Super-EXP",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13794,
+   "size": 20,
+   "src": "6895311a1b91",
+   "t": "Jhuk",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13846,
+   "size": 20,
+   "src": "2dd5389d52bf",
+   "t": "Manjiro",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13898,
+   "size": 20,
+   "src": "07caa4a364b4",
+   "t": "TwintailCat",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 13950,
+   "size": 20,
+   "src": "2b91a1f0c8ff",
+   "t": "{{lovelydog}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14002,
+   "size": 20,
+   "src": "fd438e09ba57",
+   "t": "{{venom_scorpi}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14054,
+   "size": 20,
+   "src": "c82a974a2615",
+   "t": "{{dixsnake}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14106,
+   "size": 20,
+   "src": "6b024adb085e",
+   "t": "{{blitz_spider}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14158,
+   "size": 20,
+   "src": "057f8b602aa8",
+   "t": "{{raid_gavial}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14210,
+   "size": 20,
+   "src": "f214abb0b211",
+   "t": "{{rhinodash}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14262,
+   "size": 20,
+   "src": "6440026b66e9",
+   "t": "{{hippopotensia}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14314,
+   "size": 20,
+   "src": "26ef608e6ee9",
+   "t": "{{seitei_king}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14366,
+   "size": 20,
+   "src": "b80ec0e41439",
+   "t": "{{cybister}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14418,
+   "size": 20,
+   "src": "6c068a70f0c0",
+   "t": "{{longtailcock}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14470,
+   "size": 20,
+   "src": "57545b6e530e",
+   "t": "{{stabshrike}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14522,
+   "size": 20,
+   "src": "9317174878a8",
+   "t": "{{mekong_narrob}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14574,
+   "size": 20,
+   "src": "ac5849143653",
+   "t": "{{queen_braid}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14626,
+   "size": 20,
+   "src": "e3bae3f5a1a8",
+   "t": "{{grausam_tiger}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14678,
+   "size": 20,
+   "src": "6ddaee6c1967",
+   "t": "{{xianglong}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14730,
+   "size": 20,
+   "src": "e2f9d4533fa8",
+   "t": "{{deadpile}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14782,
+   "size": 20,
+   "src": "cd599a2b552e",
+   "t": "Kantaros-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14834,
+   "size": 20,
+   "src": "2603f99dc0ff",
+   "t": "MachMassive-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14886,
+   "size": 20,
+   "src": "46e31d04b769",
+   "t": "LandRaider",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14938,
+   "size": 20,
+   "src": "1af179e490da",
+   "t": "LadyRaptor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 14990,
+   "size": 20,
+   "src": "55b1bda2abeb",
+   "t": "DearStage",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15042,
+   "size": 20,
+   "src": "05c88d8a5ca1",
+   "t": "{{palms}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15094,
+   "size": 20,
+   "src": "9ba5e2627cc3",
+   "t": "EXP-7",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15146,
+   "size": 20,
+   "src": "0100dd7043de",
+   "t": "BeastDuster",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15198,
+   "size": 20,
+   "src": "1ae0373e4fcd",
+   "t": "{{metabee}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15250,
+   "size": 20,
+   "src": "83699eee4c39",
+   "t": "{{rokusho}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15302,
+   "size": 20,
+   "src": "05ef20927507",
+   "t": "Bayonet",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15354,
+   "size": 20,
+   "src": "d420a5a08259",
+   "t": "Solin",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15406,
+   "size": 20,
+   "src": "c140aaacceae",
+   "t": "Ambiguous",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15458,
+   "size": 20,
+   "src": "9130d3160e5d",
+   "t": "Atheist",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15510,
+   "size": 20,
+   "src": "33306b5718b6",
+   "t": "Beet",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15562,
+   "size": 20,
+   "src": "7ae21d944783",
+   "t": "Cervo",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15614,
+   "size": 20,
+   "src": "77039644a250",
+   "t": "PomPom-Mate",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15666,
+   "size": 20,
+   "src": "43b6f225be3b",
+   "t": "RollBeauty",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15718,
+   "size": 20,
+   "src": "be30f26e1081",
+   "t": "G-{{metabee}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15770,
+   "size": 20,
+   "src": "3a636d8bc142",
+   "t": "P-{{rokusho}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15822,
+   "size": 20,
+   "src": "4a19ac06f70a",
+   "t": "{{medal_eater}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15874,
+   "size": 20,
+   "src": "64e43bb2ca74",
+   "t": "Salvation",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15926,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 15978,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16030,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16082,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16134,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16186,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16238,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16290,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16342,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16394,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16446,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16498,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16550,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16602,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16654,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16706,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16758,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16810,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16862,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16914,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 16966,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17018,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17070,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17122,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17174,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17226,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17278,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17330,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17382,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17434,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17486,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17538,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17590,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17642,
+   "size": 20,
+   "src": "9922547a60f5",
+   "t": "Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17694,
+   "size": 20,
+   "src": "6aa66fc6f54d",
+   "t": "{{noir_katze}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17746,
+   "size": 20,
+   "src": "0bd28210d40a",
+   "t": "{{nin_ninja}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17798,
+   "size": 20,
+   "src": "89ff26c3a530",
+   "t": "{{dr_bokchoy}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17850,
+   "size": 20,
+   "src": "c1720f076c24",
+   "t": "{{krosserdog}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17902,
+   "size": 20,
+   "src": "6779bba8bb3a",
+   "t": "{{rokusho}} (T)",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 17954,
+   "size": 20,
+   "src": "ff6538889db1",
+   "t": "Test  Study",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18006,
+   "size": 20,
+   "src": "ff6538889db1",
+   "t": "Test  Study",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18058,
+   "size": 20,
+   "src": "82e722f12e37",
+   "t": "CF-Study",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18110,
+   "size": 20,
+   "src": "4ccff0323551",
+   "t": "Trap-Study",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18162,
+   "size": 20,
+   "src": "4324b301aefe",
+   "t": "ArcStudy-D",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18214,
+   "size": 20,
+   "src": "e1143bd4b636",
+   "t": "{{junk}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18266,
+   "size": 20,
+   "src": "7e228aed97e5",
+   "t": "{{badhacker}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18318,
+   "size": 20,
+   "src": "5fd0dd6e8cd1",
+   "t": "{{uglyduck}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18370,
+   "size": 20,
+   "src": "a951aed59cb0",
+   "t": "{{potatobug}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18422,
+   "size": 20,
+   "src": "7614df520557",
+   "t": "BlackBeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18474,
+   "size": 20,
+   "src": "e0f5eadc60e9",
+   "t": "Saikacchis",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18526,
+   "size": 20,
+   "src": "e5448569b0ae",
+   "t": "BlackStag",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18578,
+   "size": 20,
+   "src": "28e685317b64",
+   "t": "Dorcus",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18630,
+   "size": 20,
+   "src": "256fe46b5f95",
+   "t": "{{first_ace}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18682,
+   "size": 20,
+   "src": "7189600cb972",
+   "t": "{{gun_king}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18734,
+   "size": 20,
+   "src": "4dfd6e795a80",
+   "t": "{{blossomail}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18786,
+   "size": 20,
+   "src": "5b12e6898579",
+   "t": "{{the_edge}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18838,
+   "size": 20,
+   "src": "87bfe281e6af",
+   "t": "{{garutman}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18890,
+   "size": 20,
+   "src": "ced1743dd39f",
+   "t": "ShuShutai",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18942,
+   "size": 20,
+   "src": "4f1af783c7b1",
+   "t": "Buriki-OH",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 18994,
+   "size": 20,
+   "src": "b064c2837173",
+   "t": "Noel",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19046,
+   "size": 20,
+   "src": "48c8062c868f",
+   "t": "TyrrellBeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19098,
+   "size": 20,
+   "src": "08ee68d33d82",
+   "t": "{{pinecone}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19150,
+   "size": 20,
+   "src": "b83ad3679048",
+   "t": "{{swallowtail}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19202,
+   "size": 20,
+   "src": "0572f4f56bb0",
+   "t": "YataCrow",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19254,
+   "size": 20,
+   "src": "cf00d75db22d",
+   "t": "ArchBeetle-D",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19306,
+   "size": 20,
+   "src": "3f283bdb1ca5",
+   "t": "GranBeetle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19358,
+   "size": 20,
+   "src": "2e192d53b525",
+   "t": "SonicStag",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19410,
+   "size": 20,
+   "src": "64b16bbd60d2",
+   "t": "{{navi_commun}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19462,
+   "size": 20,
+   "src": "f124fdba8d07",
+   "t": "Buri-Pink",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19514,
+   "size": 20,
+   "src": "1def2f15e304",
+   "t": "{{buri_red}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19566,
+   "size": 20,
+   "src": "8ad3af948497",
+   "t": "{{buri_green}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19618,
+   "size": 20,
+   "src": "6630d49e7ba7",
+   "t": "{{buri_black}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19670,
+   "size": 20,
+   "src": "e53be3bc1117",
+   "t": "Buri-Silver",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19722,
+   "size": 20,
+   "src": "28fa11f9f538",
+   "t": "{{haikara_mate}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19774,
+   "size": 20,
+   "src": "bade838bc06c",
+   "t": "{{kimengar}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19826,
+   "size": 20,
+   "src": "1b2d053b58a2",
+   "t": "LandMotor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19878,
+   "size": 20,
+   "src": "9e81d980242b",
+   "t": "{{blue_submarine}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19930,
+   "size": 20,
+   "src": "725006a512dd",
+   "t": "LadyJet",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 19982,
+   "size": 20,
+   "src": "27c9ec0048a7",
+   "t": "Super-EXP",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20034,
+   "size": 20,
+   "src": "e3bae3f5a1a8",
+   "t": "{{grausam_tiger}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20086,
+   "size": 20,
+   "src": "6ddaee6c1967",
+   "t": "{{xianglong}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20138,
+   "size": 20,
+   "src": "46e31d04b769",
+   "t": "LandRaider",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20190,
+   "size": 20,
+   "src": "1af179e490da",
+   "t": "LadyRaptor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20242,
+   "size": 20,
+   "src": "9ba5e2627cc3",
+   "t": "EXP-7",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20294,
+   "size": 20,
+   "src": "4b47bcf6beb5",
+   "t": "Haikara Test",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20346,
+   "size": 20,
+   "src": "edf96b96d727",
+   "t": "GodEmperor-H",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20398,
+   "size": 20,
+   "src": "f09d45aacb70",
+   "t": "GodEmperor-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20450,
+   "size": 20,
+   "src": "e47796ca1854",
+   "t": "GodEmperor-L",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20502,
+   "size": 20,
+   "src": "3d5f1d5186ee",
+   "t": "GodMaster-H",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20554,
+   "size": 20,
+   "src": "6130d5d43bc7",
+   "t": "GodMaster-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20606,
+   "size": 20,
+   "src": "aacb70c2eda5",
+   "t": "GodMaster-L",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20658,
+   "size": 20,
+   "src": "1daf15da9ec2",
+   "t": "Mother-RH",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20710,
+   "size": 20,
+   "src": "c4f962ba513e",
+   "t": "Mother-RR",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20762,
+   "size": 20,
+   "src": "0cc977dc427e",
+   "t": "Mother-RL",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20814,
+   "size": 20,
+   "src": "315dbabeddab",
+   "t": "MedalEater-H",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20866,
+   "size": 20,
+   "src": "938e436fcc72",
+   "t": "MedalEater-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20918,
+   "size": 20,
+   "src": "c35287b3f6ae",
+   "t": "MedalEater-L",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 20970,
+   "size": 20,
+   "src": "67c8b743b1e9",
+   "t": "GodAshera-H",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21022,
+   "size": 20,
+   "src": "c16f3384d63d",
+   "t": "GodAshera-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21074,
+   "size": 20,
+   "src": "2101d3405aa2",
+   "t": "GodAshera-L",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21438,
+   "size": 20,
+   "src": "9ad2233f169a",
+   "t": "GodLevi-H",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21490,
+   "size": 20,
+   "src": "1a696cbc253a",
+   "t": "GodLevi-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21542,
+   "size": 20,
+   "src": "a056caf51baa",
+   "t": "GodLevi-L",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21594,
+   "size": 20,
+   "src": "c94ddb004254",
+   "t": "GodBehemoth-H",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21646,
+   "size": 20,
+   "src": "7da1f96df51a",
+   "t": "GodBehemoth-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21698,
+   "size": 20,
+   "src": "e36ac177b078",
+   "t": "GodBehemoth-L",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21750,
+   "size": 20,
+   "src": "b418769f2b45",
+   "t": "GodWyvern-H",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21802,
+   "size": 20,
+   "src": "e0aa2b5fdbf4",
+   "t": "GodWyvern-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21854,
+   "size": 20,
+   "src": "b003898fdf38",
+   "t": "GodWyvern-L",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21906,
+   "size": 20,
+   "src": "120172ba429d",
+   "t": "GodBragger-H",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 21958,
+   "size": 20,
+   "src": "7c56f116b01c",
+   "t": "GodBragger-R",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22010,
+   "size": 20,
+   "src": "2df12505c21a",
+   "t": "GodBragger-L",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22530,
+   "size": 20,
+   "src": "4a7c8398eeba",
+   "t": "{{target}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22582,
+   "size": 20,
+   "src": "4c5104d71216",
+   "t": "{{rock}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22634,
+   "size": 20,
+   "src": "3e9258e3366d",
+   "t": "Rock 3",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22686,
+   "size": 20,
+   "src": "c48cb17b37b9",
+   "t": "Rock 4",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22738,
+   "size": 20,
+   "src": "3f2655454c0a",
+   "t": "{{junk_enemy}}-1",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22790,
+   "size": 20,
+   "src": "a412fb53195d",
+   "t": "Junk-Kabuto",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22842,
+   "size": 20,
+   "src": "089f2e3302c3",
+   "t": "Junk-Shoot",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22894,
+   "size": 20,
+   "src": "ed137ecd17dd",
+   "t": "Junk-Guard",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22946,
+   "size": 20,
+   "src": "8e5e72fe965c",
+   "t": "ClosedDoor-3",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 22998,
+   "size": 20,
+   "src": "5253043f7cc5",
+   "t": "Red Pod",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23050,
+   "size": 20,
+   "src": "00b47e8df796",
+   "t": "Yellow Pod",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23102,
+   "size": 20,
+   "src": "d6625957c95b",
+   "t": "Blue Pod",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23154,
+   "size": 20,
+   "src": "28c3326185fc",
+   "t": "Green Pod",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23206,
+   "size": 20,
+   "src": "97f908c9d4a4",
+   "t": "Medabox",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23258,
+   "size": 20,
+   "src": "b1aa53c42646",
+   "t": "{{debris}}-A",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23310,
+   "size": 20,
+   "src": "16f4b2718d9b",
+   "t": "{{debris}}-B",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23362,
+   "size": 20,
+   "src": "756e16da171d",
+   "t": "{{desert}} {{rock}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23414,
+   "size": 20,
+   "src": "4dcccbbfc587",
+   "t": "{{debris}}-C",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23466,
+   "size": 20,
+   "src": "c3cc9e5c4be1",
+   "t": "{{fighting_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23518,
+   "size": 20,
+   "src": "5823c0127c76",
+   "t": "{{shooting_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23570,
+   "size": 20,
+   "src": "b4373ec53379",
+   "t": "{{head_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23622,
+   "size": 20,
+   "src": "76199eba3591",
+   "t": "{{legs_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23674,
+   "size": 20,
+   "src": "c5ce3415e3d4",
+   "t": "{{charge_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23726,
+   "size": 20,
+   "src": "5d275bde52de",
+   "t": "{{support_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23778,
+   "size": 20,
+   "src": "7580bab5d89c",
+   "t": "{{heal_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23830,
+   "size": 20,
+   "src": "8bb6f012f9a1",
+   "t": "{{protect_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23882,
+   "size": 20,
+   "src": "15bd54190709",
+   "t": "{{setup_trap}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23934,
+   "size": 20,
+   "src": "65d9386f4526",
+   "t": "{{disturbance}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 23986,
+   "size": 20,
+   "src": "4bb0f536853e",
+   "t": "{{repair_plant}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24038,
+   "size": 20,
+   "src": "a4df2208cca6",
+   "t": "{{heating_plant}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24090,
+   "size": 20,
+   "src": "197e17ff0ac3",
+   "t": "{{cooling_plant}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24142,
+   "size": 20,
+   "src": "0beabac6ebd4",
+   "t": "{{charge_plant}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24194,
+   "size": 20,
+   "src": "e47c8ba3c168",
+   "t": "{{first_aid}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24246,
+   "size": 20,
+   "src": "c18807b16433",
+   "t": "DefensePlant",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24298,
+   "size": 20,
+   "src": "c6a8a955d870",
+   "t": "Fight-{{plant}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24350,
+   "size": 20,
+   "src": "b9c1dc747fee",
+   "t": "Shoot-{{plant}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24402,
+   "size": 20,
+   "src": "1ae0373e4fcd",
+   "t": "{{metabee}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24454,
+   "size": 20,
+   "src": "83699eee4c39",
+   "t": "{{rokusho}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  }
+ ]
+}

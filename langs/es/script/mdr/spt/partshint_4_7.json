@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_7.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3cd47ef39d69",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nTipo {{space_type}}\nSin importar el tipo de\n{{legs}}, mejora la {{affinity}}\nde {{terrain}} con zonas\nespaciales."
+  }
+ ]
+}

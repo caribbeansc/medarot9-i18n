@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f02_120_210_30_t011.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1042,
+   "src": "a9e25972b461",
+   "t": "Esto es..."
+  },
+  {
+   "i": 1050,
+   "src": "65391cb973ea",
+   "t": "¡Ah!"
+  },
+  {
+   "i": 1053,
+   "src": "e24d5b70d672",
+   "t": "¡Es un bote inflable!"
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "20950fffe2e5",
+   "t": "Vaya, sí que había uno."
+  },
+  {
+   "i": 1079,
+   "src": "7f4f51f2f7a1",
+   "t": "¡Sí! ¡Vamos a inflarlo de una vez!"
+  },
+  {
+   "i": 1082,
+   "src": "8fde4848177b",
+   "t": "Eh, el manual... a ver..."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_teach_fb_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ed9dd8dbb708",
+   "t": "Enfermera Escolar"
+  },
+  {
+   "i": 1035,
+   "src": "2280ad2bd9ae",
+   "t": "Vaya, "
+  },
+  {
+   "i": 1037,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1040,
+   "src": "918990ca6b1b",
+   "t": "¿Vas al {{classroom}} ahora?"
+  },
+  {
+   "i": 1048,
+   "src": "dc9a7be9d479",
+   "t": "El edificio de enfrente es el de las aulas."
+  },
+  {
+   "i": 1051,
+   "src": "2d3c2234367d",
+   "t": "Mucha suerte, jeje."
+  }
+ ]
+}

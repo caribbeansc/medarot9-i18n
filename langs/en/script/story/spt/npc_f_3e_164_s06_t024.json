@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t024.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "abae12d24ea6",
+   "t": "The traits of the {{medalia}} you get from\nfusing"
+  },
+  {
+   "i": 1038,
+   "src": "9a397583d645",
+   "t": "are mostly inherited from the base\n{{medalia}}."
+  },
+  {
+   "i": 1046,
+   "src": "abf7c36d5437",
+   "t": "Things like color, shape, skills, and so\non."
+  },
+  {
+   "i": 1054,
+   "src": "ce8fdb1038ab",
+   "t": "If you accidentally use a {{medalia}} you\nwant to keep as fusion fodder,"
+  },
+  {
+   "i": 1057,
+   "src": "794d622ccb05",
+   "t": "something awful will happen, so be\ncareful."
+  },
+  {
+   "i": 1065,
+   "src": "f680edb18634",
+   "t": "Like what happened to me."
+  },
+  {
+   "i": 1068,
+   "src": "637267402b1c",
+   "t": "Ah, ahahahahaha."
+  }
+ ]
+}

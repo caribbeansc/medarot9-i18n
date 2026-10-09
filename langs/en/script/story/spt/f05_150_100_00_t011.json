@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f05_150_100_00_t011.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "eb110cc37486",
+   "t": "Huh..."
+  },
+  {
+   "i": 1009,
+   "src": "c3dc14362f25",
+   "t": "The gate is locked..."
+  },
+  {
+   "i": 1012,
+   "src": "0772918d61de",
+   "t": "Going out is forbidden at night."
+  }
+ ]
+}

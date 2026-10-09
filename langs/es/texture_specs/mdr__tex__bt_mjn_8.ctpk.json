@@ -1,0 +1,33 @@
+{
+ "rel": "mdr/tex/bt_mjn_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    1,
+    0,
+    166,
+    16
+   ],
+   "erase": "transparent",
+   "erase_box": [
+    0,
+    0,
+    172,
+    18
+   ],
+   "text": "Ultimo Medajournal aqui",
+   "font": "compact-rounded-heavy",
+   "cap": 9,
+   "fill": {
+    "top": "#323A4C",
+    "bottom": "#141A2A"
+   },
+   "stroke": "#FFFFFFC8",
+   "stroke_w": 1,
+   "align": "left",
+   "pad": 0,
+   "crisp": 0
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1b_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "ed64a828d8dc",
+   "t": "Hey "
+  },
+  {
+   "i": 1040,
+   "src": "7d9d809ecbf1",
+   "t": ""
+  },
+  {
+   "i": 1043,
+   "src": "5e8c33f39675",
+   "t": "The {{culture_festival}} is finally here."
+  },
+  {
+   "i": 1051,
+   "src": "cf58078927ca",
+   "t": "Mine? We're doing a haunted house!"
+  },
+  {
+   "i": 1054,
+   "src": "d4299dd46aea",
+   "t": "Apparently we did it last year and it was\nthe most popular."
+  },
+  {
+   "i": 1062,
+   "src": "d26161815607",
+   "t": "I'm playing one of the scarers too."
+  },
+  {
+   "i": 1065,
+   "src": "e63da19cf856",
+   "t": "I'm still deciding what to dress up as."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f09_060_230_00_t057.spt",
+ "lines": [
+  {
+   "i": 1057,
+   "src": "f31735c184c4",
+   "t": "D-don't go near... that door..."
+  },
+  {
+   "i": 1064,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1070,
+   "src": "6b117e8216ad",
+   "t": "Huh?"
+  },
+  {
+   "i": 1073,
+   "src": "c9a9e7c1e64d",
+   "t": "What are you saying, {{robo}}?"
+  },
+  {
+   "i": 1097,
+   "src": "0fdd0f09e41f",
+   "t": "Any-one who comes cl-"
+  },
+  {
+   "i": 1100,
+   "src": "265d15f0ab0d",
+   "t": "ose, whoever it is,"
+  },
+  {
+   "i": 1116,
+   "src": "f7b9512baa78",
+   "t": "to the ends of the ear-"
+  },
+  {
+   "i": 1119,
+   "src": "83cf4b5b1452",
+   "t": "th"
+  },
+  {
+   "i": 1140,
+   "src": "e216ae71a72f",
+   "t": "I'll chase them"
+  },
+  {
+   "i": 1143,
+   "src": "51cb62c8570c",
+   "t": "I m-"
+  },
+  {
+   "i": 1149,
+   "src": "cc27adb6e8ee",
+   "t": "I will hunt them"
+  },
+  {
+   "i": 1152,
+   "src": "840ab0ee28d7",
+   "t": "I m-"
+  },
+  {
+   "i": 1174,
+   "src": "acff87fb044e",
+   "t": "yself"
+  },
+  {
+   "i": 1180,
+   "src": "b0fe7f274400",
+   "t": "yself"
+  }
+ ]
+}

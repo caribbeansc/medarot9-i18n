@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3e_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1035,
+   "src": "859135352f9e",
+   "t": "¿Ahora?"
+  },
+  {
+   "i": 1038,
+   "src": "abd7bb6f7598",
+   "t": "Ahora no es buen momento... Lo siento."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_24.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "e7f5c991333d",
+   "t": "<c:00ff00>{{mf}}:<c>{{body_slam}}\nEl último recurso...\nchocar con todas sus\nfuerzas.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ]
+}

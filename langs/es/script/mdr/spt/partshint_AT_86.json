@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_86.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d478938f2ac4",
+   "t": "<c:00ff00>Técnica:<c>Refuerzo Mov.\nDurante un tiempo, {{up}}\nla {{mobility}} de la {{part}} de\n{{legs}} de todo tu equipo.\nSi se usa de nuevo\ndurante el {{effect}} de\nrefuerzo mov., el {{effect}}\naumenta."
+  }
+ ]
+}

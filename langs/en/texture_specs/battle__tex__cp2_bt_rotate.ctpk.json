@@ -1,0 +1,402 @@
+{
+ "rel": "battle/tex/cp2_bt_rotate.ctpk",
+ "base": "jp",
+ "styles": {
+  "claro": {
+   "font": "compact-rounded-heavy",
+   "cap": 8.5,
+   "pad": 0,
+   "stroke": null,
+   "crisp": 0.3,
+   "fill": {
+    "top": "#5E636C",
+    "bottom": "#44464F"
+   }
+  },
+  "oscuro": {
+   "font": "compact-rounded-heavy",
+   "cap": 8.5,
+   "pad": 0,
+   "stroke": null,
+   "crisp": 0.3,
+   "fill": {
+    "top": "#DBDBDC",
+    "bottom": "#BCBEC4"
+   }
+  }
+ },
+ "items": [
+  {
+   "style": "claro",
+   "box": [
+    16,
+    4,
+    76,
+    14
+   ],
+   "erase_box": [
+    15,
+    5,
+    78,
+    13
+   ],
+   "erase": "hfill",
+   "text": "Rotation"
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    16,
+    28,
+    76,
+    14
+   ],
+   "erase_box": [
+    15,
+    29,
+    78,
+    13
+   ],
+   "erase": "hfill",
+   "text": "Rotation"
+  },
+  {
+   "style": "claro",
+   "box": [
+    140,
+    3,
+    62,
+    14
+   ],
+   "erase_box": [
+    139,
+    5,
+    64,
+    14
+   ],
+   "erase": "hfill",
+   "text": "Details"
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    140,
+    27,
+    62,
+    14
+   ],
+   "erase_box": [
+    139,
+    29,
+    64,
+    14
+   ],
+   "erase": "hfill",
+   "text": "Details"
+  },
+  {
+   "copy": [
+    170,
+    0,
+    32,
+    16
+   ],
+   "to": [
+    208,
+    0
+   ]
+  },
+  {
+   "copy": [
+    170,
+    24,
+    32,
+    16
+   ],
+   "to": [
+    208,
+    16
+   ]
+  },
+  {
+   "style": "claro",
+   "box": [
+    209,
+    2,
+    30,
+    13
+   ],
+   "erase": "none",
+   "cap": 7.5,
+   "text": "Back"
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    209,
+    17,
+    30,
+    13
+   ],
+   "erase": "none",
+   "cap": 7.5,
+   "text": "Back"
+  },
+  {
+   "copy": [
+    170,
+    0,
+    24,
+    16
+   ],
+   "to": [
+    0,
+    48
+   ]
+  },
+  {
+   "copy": [
+    170,
+    24,
+    24,
+    16
+   ],
+   "to": [
+    24,
+    48
+   ]
+  },
+  {
+   "copy": [
+    170,
+    0,
+    24,
+    16
+   ],
+   "to": [
+    48,
+    48
+   ]
+  },
+  {
+   "copy": [
+    170,
+    24,
+    24,
+    16
+   ],
+   "to": [
+    72,
+    48
+   ]
+  },
+  {
+   "copy": [
+    170,
+    24,
+    32,
+    16
+   ],
+   "to": [
+    96,
+    48
+   ]
+  },
+  {
+   "copy": [
+    170,
+    0,
+    32,
+    16
+   ],
+   "to": [
+    128,
+    48
+   ]
+  },
+  {
+   "copy": [
+    170,
+    24,
+    32,
+    16
+   ],
+   "to": [
+    160,
+    48
+   ]
+  },
+  {
+   "copy": [
+    170,
+    0,
+    32,
+    16
+   ],
+   "to": [
+    192,
+    48
+   ]
+  },
+  {
+   "style": "claro",
+   "box": [
+    1,
+    49,
+    19,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "text": "Host",
+   "min_scale_x": 0.8
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    25,
+    49,
+    19,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "text": "Host",
+   "min_scale_x": 0.8
+  },
+  {
+   "style": "claro",
+   "box": [
+    49,
+    49,
+    19,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "text": "Guest",
+   "min_scale_x": 0.8
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    73,
+    49,
+    19,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8,
+   "text": "Guest",
+   "min_scale_x": 0.8
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    99,
+    49,
+    19,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "text": "Watch"
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    121,
+    49,
+    6,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "text": "1"
+  },
+  {
+   "style": "claro",
+   "box": [
+    131,
+    49,
+    19,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "text": "Watch"
+  },
+  {
+   "style": "claro",
+   "box": [
+    153,
+    49,
+    6,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "text": "1"
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    163,
+    49,
+    19,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "text": "Watch"
+  },
+  {
+   "style": "oscuro",
+   "box": [
+    185,
+    49,
+    6,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "text": "2"
+  },
+  {
+   "style": "claro",
+   "box": [
+    195,
+    49,
+    19,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "text": "Watch"
+  },
+  {
+   "style": "claro",
+   "box": [
+    217,
+    49,
+    6,
+    14
+   ],
+   "erase": "none",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "text": "2"
+  }
+ ]
+}

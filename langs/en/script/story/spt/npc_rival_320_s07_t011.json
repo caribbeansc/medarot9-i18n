@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_rival_320_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1038,
+   "src": "7c23894db6ef",
+   "t": "Huh? Oh, it's just you."
+  },
+  {
+   "i": 1041,
+   "src": "1d48e3a862b3",
+   "t": "Don't hang around in clubs that aren't\nyours."
+  },
+  {
+   "i": 1049,
+   "src": "c107d0613f75",
+   "t": "Unlike you, we have nothing to do with\nthe {{culture_festival}}."
+  },
+  {
+   "i": 1052,
+   "src": "4bcbe6af623e",
+   "t": "We're busy like always."
+  },
+  {
+   "i": 1060,
+   "src": "188753aa0407",
+   "t": "You go practice flipping okonomiyaki."
+  },
+  {
+   "i": 1063,
+   "src": "65bea1e1a435",
+   "t": "I wouldn't eat it, though. I'd get a\nstomachache."
+  }
+ ]
+}

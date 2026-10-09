@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc04_110_s06_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "d396084272a4",
+   "t": "I'll stay. Not exactly standing guard,"
+  },
+  {
+   "i": 1041,
+   "src": "740570c3e647",
+   "t": "but you know... just in case."
+  },
+  {
+   "i": 1049,
+   "src": "71b9134ceb77",
+   "t": "If anything approaches, I'll let you know."
+  },
+  {
+   "i": 1052,
+   "src": "9e239f02a71c",
+   "t": "Do as you like."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f01_000_110_00_t008.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1042,
+   "src": "de6853432462",
+   "t": "Ah, {{principal|cap}}."
+  },
+  {
+   "i": 1049,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1055,
+   "src": "198f51d27531",
+   "t": "Is the ceremony over?"
+  },
+  {
+   "i": 1069,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1075,
+   "src": "d1042eda2652",
+   "t": "Uh, yes."
+  },
+  {
+   "i": 1078,
+   "src": "039d133a8d42",
+   "t": "More or less."
+  },
+  {
+   "i": 1085,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1091,
+   "src": "ef86350d793b",
+   "t": "I see."
+  },
+  {
+   "i": 1094,
+   "src": "62db54054f4d",
+   "t": "Then the timing is perfect."
+  }
+ ]
+}

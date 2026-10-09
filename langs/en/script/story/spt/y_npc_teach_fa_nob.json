@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_fa_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "a25ca93e8b1c",
+   "t": "{{ms_yamamoto}}"
+  },
+  {
+   "i": 1035,
+   "src": "df2ad2afb6d9",
+   "t": "Oh dear, what a shame. I'm"
+  },
+  {
+   "i": 1038,
+   "src": "d6f43836ddc6",
+   "t": "busy right now, so another time."
+  }
+ ]
+}

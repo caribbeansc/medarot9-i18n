@@ -1,0 +1,67 @@
+{
+ "rel": "mdr/tex/m9_map_300.ctpk",
+ "base": "jp",
+ "defaults": {
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    368,
+    -1,
+    33,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "box": [
+    402,
+    -1,
+    42,
+    17
+   ],
+   "erase": "transparent",
+   "text": "",
+   "pad": 0
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    368,
+    0,
+    33,
+    15
+   ],
+   "erase": "none",
+   "text": "Entrada",
+   "cap": 8.5,
+   "pad": 0,
+   "baseline": 12
+  },
+  {
+   "font": "din",
+   "fill": "#F2F2F2",
+   "stroke": "#000000",
+   "stroke_w": 2.0,
+   "crisp": 0.8,
+   "box": [
+    402,
+    0,
+    42,
+    15
+   ],
+   "erase": "none",
+   "text": "Barrio Viejo",
+   "cap": 7.5,
+   "pad": 0,
+   "baseline": 11
+  }
+ ]
+}

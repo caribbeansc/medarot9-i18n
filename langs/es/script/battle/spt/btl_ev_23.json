@@ -1,0 +1,125 @@
+{
+ "file": "battle/spt/btl_ev_23.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1123,
+   "src": "1f84efa36515",
+   "t": "¡Te lo voy a mostrar!"
+  },
+  {
+   "i": 1126,
+   "src": "c8943ef3b0da",
+   "t": "¡Mi combo!"
+  },
+  {
+   "i": 1142,
+   "src": "9df26106b0f4",
+   "t": "Oye, "
+  },
+  {
+   "i": 1146,
+   "src": "f234977e8991",
+   "t": "¿Qué es un \"combo\"?"
+  },
+  {
+   "i": 1155,
+   "src": "9df26106b0f4",
+   "t": "Oye, "
+  },
+  {
+   "i": 1159,
+   "src": "9b7315cdce86",
+   "t": "Qué es \"combo\"?"
+  },
+  {
+   "i": 1169,
+   "src": "ecff0d12b65f",
+   "t": ", un combo es un ataque con"
+  },
+  {
+   "i": 1172,
+   "src": "581987f35099",
+   "t": "técnicas encadenadas en una acción."
+  },
+  {
+   "i": 1188,
+   "src": "b2cc6899f715",
+   "t": "¡¿Qué?! "
+  },
+  {
+   "i": 1189,
+   "src": "10e2f5e866fe",
+   "t": "¡Yo también quiero usarlo!"
+  },
+  {
+   "i": 1198,
+   "src": "b2cc6899f715",
+   "t": "¡¿Qué?! "
+  },
+  {
+   "i": 1199,
+   "src": "e4ed7563d23e",
+   "t": "¡Yo también quiero usarlo!"
+  },
+  {
+   "i": 1208,
+   "src": "39ba6a6cbf6e",
+   "t": "Ah, es verdad...              "
+  },
+  {
+   "i": 1211,
+   "src": "7c1f001c3d76",
+   "t": "Nunca lo he usado.      "
+  },
+  {
+   "i": 1216,
+   "src": "b8e0f68e239d",
+   "t": "Disculpa, "
+  },
+  {
+   "i": 1220,
+   "src": "55f196d54f2c",
+   "t": "Olvidé ajustar el combo del {{medawatch}}."
+  },
+  {
+   "i": 1225,
+   "src": "0e906f3a5936",
+   "t": "Lo dejo listo para la próxima, así que  "
+  },
+  {
+   "i": 1228,
+   "src": "e87d017befc5",
+   "t": "por ahora vamos sin combos, ¿vale?          "
+  },
+  {
+   "i": 1244,
+   "src": "d418548124d5",
+   "t": "Qué remedio...              "
+  },
+  {
+   "i": 1253,
+   "src": "01f53f8d6085",
+   "t": "No hay remedio...   "
+  },
+  {
+   "i": 1259,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1265,
+   "src": "928b50d87d85",
+   "t": "¡¿De qué tanto hablan?!         "
+  },
+  {
+   "i": 1268,
+   "src": "1c8b841ffea0",
+   "t": "¡Empecemos de una vez!    "
+  }
+ ]
+}

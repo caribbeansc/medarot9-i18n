@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f02_090_200_00_t002.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "ad8f09d561e5",
+   "t": "What a run-down building."
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "2ed838cc7c6f",
+   "t": "Looks like a facility that was used back\nthen."
+  },
+  {
+   "i": 1051,
+   "src": "db001e7186bd",
+   "t": "Back then?"
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "b368003fd97a",
+   "t": "Right."
+  },
+  {
+   "i": 1065,
+   "src": "63b6dfc94160",
+   "t": "Now it's like a school storeroom."
+  },
+  {
+   "i": 1073,
+   "src": "1acd06a03ef2",
+   "t": "Well, hardly anyone ever comes here,"
+  },
+  {
+   "i": 1076,
+   "src": "7f6cb46d3438",
+   "t": "and sometimes {{stray|cap}} {{medabot|pl}} wander\nin."
+  },
+  {
+   "i": 1084,
+   "src": "ae3c324f4fa0",
+   "t": "{{stray|cap}} {{medabot|pl}}, huh..."
+  }
+ ]
+}

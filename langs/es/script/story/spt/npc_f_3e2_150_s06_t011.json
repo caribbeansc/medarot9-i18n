@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/npc_f_3e2_150_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1035,
+   "src": "3b1253c5fe57",
+   "t": "Espera, ¿entonces tú y Suzune-san"
+  },
+  {
+   "i": 1038,
+   "src": "6f6b7d9bc701",
+   "t": "se conocen, Senpai?"
+  },
+  {
+   "i": 1045,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1051,
+   "src": "f0bad5ac053f",
+   "t": "Somos compañeras de clase."
+  },
+  {
+   "i": 1054,
+   "src": "4c4eb7659833",
+   "t": "Hablamos de toda clase de cosas."
+  },
+  {
+   "i": 1061,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1067,
+   "src": "fdd82c98f046",
+   "t": "¡Qué envidia! ¡Suzune-san es mi ídola!"
+  },
+  {
+   "i": 1070,
+   "src": "42b73ad6d108",
+   "t": "Es tan elegante y genial..."
+  },
+  {
+   "i": 1078,
+   "src": "7561104d2b3f",
+   "t": "y lo mejor, ¡fue la primera presidenta"
+  },
+  {
+   "i": 1081,
+   "src": "b1fc61edbd65",
+   "t": "del Consejo de la {{academy|cap}} MEDA!"
+  },
+  {
+   "i": 1089,
+   "src": "c20ed7f1893c",
+   "t": "¡Es tan maravillosa~!"
+  }
+ ]
+}

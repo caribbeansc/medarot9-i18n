@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/free06_01_00_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1040,
+   "src": "b2f8976e9fdc",
+   "t": "Oh, right--"
+  },
+  {
+   "i": 1051,
+   "src": "cbcfd3535019",
+   "t": "Yes?"
+  },
+  {
+   "i": 1056,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1062,
+   "src": "bd4f773ef790",
+   "t": "Many observation points are high up."
+  },
+  {
+   "i": 1065,
+   "src": "0815a1b3019a",
+   "t": "Depending on the situation, {{flying}} legs\nmay be a must."
+  },
+  {
+   "i": 1073,
+   "src": "dad8bfe221aa",
+   "t": "If you feel you need it, use this."
+  },
+  {
+   "i": 1076,
+   "src": "6adb16e9ee98",
+   "t": "I've tuned it up already."
+  }
+ ]
+}

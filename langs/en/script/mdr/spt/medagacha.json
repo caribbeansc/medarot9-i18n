@@ -1,0 +1,65 @@
+{
+ "file": "mdr/spt/medagacha.spt",
+ "lines": [
+  {
+   "i": 1692,
+   "src": "11e0bccfdf99",
+   "t": "<c:00ff00>I don't have any <c>medagacha coins!"
+  },
+  {
+   "i": 1696,
+   "src": "e2183b29ecf0",
+   "t": "<c:00ff00>I don't have enough <c>medagacha coins!"
+  },
+  {
+   "i": 2707,
+   "src": "82d50b0e0a91",
+   "t": "<c>was hit!"
+  },
+  {
+   "i": 2879,
+   "src": "82d50b0e0a91",
+   "t": "<c>was hit!"
+  },
+  {
+   "i": 2903,
+   "src": "b6f5eec224f6",
+   "t": " {{head_part|cap}}\n<c:00ff00>"
+  },
+  {
+   "i": 2905,
+   "src": "82d50b0e0a91",
+   "t": "<c>was hit!"
+  },
+  {
+   "i": 2931,
+   "src": "2dfb1f20c357",
+   "t": "Right {{arm_part}}\n<c:00ff00>"
+  },
+  {
+   "i": 2933,
+   "src": "82d50b0e0a91",
+   "t": "<c>was hit!"
+  },
+  {
+   "i": 2959,
+   "src": "85b3154e43d6",
+   "t": "{{left_item}} {{arm_part}}\n<c:00ff00>"
+  },
+  {
+   "i": 2961,
+   "src": "82d50b0e0a91",
+   "t": "<c>was hit!"
+  },
+  {
+   "i": 2990,
+   "src": "ba906ef49336",
+   "t": "{{leg_part|cap}}\n<c:00ff00>"
+  },
+  {
+   "i": 2992,
+   "src": "82d50b0e0a91",
+   "t": "<c>was hit!"
+  }
+ ]
+}

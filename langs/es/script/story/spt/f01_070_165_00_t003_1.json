@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f01_070_165_00_t003_1.spt",
+ "lines": [
+  {
+   "i": 833,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 842,
+   "src": "ef86350d793b",
+   "t": "Ya veo."
+  },
+  {
+   "i": 845,
+   "src": "04d50eb04d5f",
+   "t": "Pero por desgracia, no puedes unirte."
+  },
+  {
+   "i": 853,
+   "src": "b3998217876b",
+   "t": "¿Eh...?"
+  }
+ ]
+}

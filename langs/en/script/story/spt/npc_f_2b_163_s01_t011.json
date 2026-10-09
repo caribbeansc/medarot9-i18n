@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_2b_163_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 1038,
+   "src": "0d1b2fff5965",
+   "t": "Our activities center on PVs."
+  },
+  {
+   "i": 1046,
+   "src": "268fd86fb25f",
+   "t": "So we have"
+  },
+  {
+   "i": 1049,
+   "src": "3f67b7c8753a",
+   "t": "lots of fans outside the island too."
+  }
+ ]
+}

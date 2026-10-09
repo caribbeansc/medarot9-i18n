@@ -1,0 +1,65 @@
+{
+ "file": "mdr/spt/get_nadl.spt",
+ "lines": [
+  {
+   "i": 1402,
+   "src": "7343fba9150f",
+   "t": "{{head}}"
+  },
+  {
+   "i": 1409,
+   "src": "f9cbcd0563a5",
+   "t": "R-Arm"
+  },
+  {
+   "i": 1416,
+   "src": "ae22d610ddf0",
+   "t": "L-Arm"
+  },
+  {
+   "i": 1423,
+   "src": "528640d1d527",
+   "t": "Leg"
+  },
+  {
+   "i": 1434,
+   "src": "409d7686155f",
+   "t": " {{part}} <c:00ff00>"
+  },
+  {
+   "i": 1436,
+   "src": "0e32041fdf29",
+   "t": "<c> received!"
+  },
+  {
+   "i": 1444,
+   "src": "46c83d682b77",
+   "t": " <c>All {{part|pl}} are available!"
+  },
+  {
+   "i": 1644,
+   "src": "242b2eb50a16",
+   "t": "<c> received a set of {{part|pl}}!"
+  },
+  {
+   "i": 2051,
+   "src": "6d939269632f",
+   "t": "Got<c:00ff00> "
+  },
+  {
+   "i": 2053,
+   "src": "0e32041fdf29",
+   "t": "<c> received!"
+  },
+  {
+   "i": 2092,
+   "src": "7869e7b18985",
+   "t": "I cant have any more medals."
+  },
+  {
+   "i": 2095,
+   "src": "da012f421144",
+   "t": "Toss one unwanted medal. "
+  }
+ ]
+}

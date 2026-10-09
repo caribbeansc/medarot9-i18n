@@ -1,0 +1,130 @@
+{
+ "file": "story/spt/f06_020_161_00_t023.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1037,
+   "src": "ed29aa42c655",
+   "t": "We analyzed the blueprints."
+  },
+  {
+   "i": 1040,
+   "src": "86a7af972142",
+   "t": "We succeeded in digitizing them."
+  },
+  {
+   "i": 1048,
+   "src": "e3b3a3c08f1e",
+   "t": "The blueprints are a program that\ncaptures"
+  },
+  {
+   "i": 1051,
+   "src": "9a0505fa09be",
+   "t": "Medalia's sound waves and maps their\nsource!"
+  },
+  {
+   "i": 1058,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1067,
+   "src": "bab6bd955575",
+   "t": "Sound waves..."
+  },
+  {
+   "i": 1070,
+   "src": "a4df9a494dc0",
+   "t": "Does {{medalia}} make sound?"
+  },
+  {
+   "i": 1077,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1086,
+   "src": "7640093ef6fd",
+   "t": "It does. "
+  },
+  {
+   "i": 1089,
+   "src": "b00b43ef932f",
+   "t": "At frequencies humans can't hear."
+  },
+  {
+   "i": 1097,
+   "src": "2659ce116493",
+   "t": "A device picks up waves, sends them to\na PC"
+  },
+  {
+   "i": 1100,
+   "src": "ea27330f6084",
+   "t": "for analysis, and gets back just the right\nlocation data."
+  },
+  {
+   "i": 1108,
+   "src": "c76adbee6c48",
+   "t": "The device can then show where\n{{medalia}} is."
+  },
+  {
+   "i": 1119,
+   "src": "cc531ce0b14c",
+   "t": "A device..."
+  },
+  {
+   "i": 1124,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1133,
+   "src": "abf6fd9bb523",
+   "t": "A {{smartphone}} will do."
+  },
+  {
+   "i": 1136,
+   "src": "dd962fa29540",
+   "t": "Keep your {{medawatch}} on and it'll\nrespond by itself."
+  },
+  {
+   "i": 1143,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1152,
+   "src": "6a4d13641b87",
+   "t": "A {{smartphone}} will do?"
+  },
+  {
+   "i": 1155,
+   "src": "ee45fbc3327c",
+   "t": "That's amazing! Can I use it already?!"
+  },
+  {
+   "i": 1162,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1171,
+   "src": "e3ea9f328c77",
+   "t": "Not yet~."
+  },
+  {
+   "i": 1178,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1187,
+   "src": "cb0676f62351",
+   "t": "That's where we come in."
+  }
+ ]
+}

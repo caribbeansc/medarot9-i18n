@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_18.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "00f1ebea9986",
+   "t": "<c:00ff00>Leg Trait:<c> {{bunker}}\nWhile {{waiting}} on CF,\n{{damage}} taken is reduced\nby 20%."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_55.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "86093404a51e",
+   "t": "<c:00ff00>Action:<c> {{ghost}}\nA melee attack that\nadds 1/2 of the Charge\nGauge % to {{power}}.\nIgnores the {{defend}}\nboost the foe gets from\ndefending. Has\npiercing."
+  }
+ ]
+}

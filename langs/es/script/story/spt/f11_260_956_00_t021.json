@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_260_956_00_t021.spt",
+ "lines": [
+  {
+   "i": 1130,
+   "src": "162f89e4e3fc",
+   "t": "Me--"
+  },
+  {
+   "i": 1135,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1146,
+   "src": "31a7bc713153",
+   "t": "¡¡{{metabee}}!!"
+  },
+  {
+   "i": 1152,
+   "src": "d7a4df25453a",
+   "t": "¡¡{{rokusho}}!!"
+  },
+  {
+   "i": 1174,
+   "src": "d1cea93563a3",
+   "t": "Oye, tú--"
+  },
+  {
+   "i": 1190,
+   "src": "abc65cc177db",
+   "t": "*{{metabee}}, hacia el {{principal}} (aquí,\ndespacio)"
+  }
+ ]
+}

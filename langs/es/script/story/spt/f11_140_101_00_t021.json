@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/f11_140_101_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "011fa709183e",
+   "t": "Ese tipo del faro resultó ser"
+  },
+  {
+   "i": 1035,
+   "src": "e2e24becb560",
+   "t": "del mismo tipo, ¿eh?"
+  },
+  {
+   "i": 1046,
+   "src": "7ed4adad65f6",
+   "t": "Ya conocemos su punto débil."
+  },
+  {
+   "i": 1059,
+   "src": "19296e9d9657",
+   "t": "¡No son {{opponent}} para nosotros!"
+  },
+  {
+   "i": 1066,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1072,
+   "src": "05b318e7b5a4",
+   "t": "Muy bien."
+  },
+  {
+   "i": 1080,
+   "src": "c6377858b7de",
+   "t": "Como ves, Einbecker."
+  },
+  {
+   "i": 1083,
+   "src": "7b6a62836a66",
+   "t": "Si los conoces, no son tan fuertes."
+  },
+  {
+   "i": 1091,
+   "src": "a49b68767ae4",
+   "t": "Vayan al {{dormitory}} y, junto al Club"
+  },
+  {
+   "i": 1094,
+   "src": "ec1784a0da5e",
+   "t": "Medabot, frenen a los de la trasera."
+  },
+  {
+   "i": 1101,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1107,
+   "src": "a0c57b8fcd5f",
+   "t": "¿Qué hacemos aquí?"
+  },
+  {
+   "i": 1114,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1120,
+   "src": "a1989288fc94",
+   "t": "Nosotros nos encargamos."
+  },
+  {
+   "i": 1135,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1143,
+   "src": "6e4764cb7fd9",
+   "t": "Entendido."
+  }
+ ]
+}

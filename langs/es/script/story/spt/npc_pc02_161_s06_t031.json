@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc02_161_s06_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "74a933261c3a",
+   "t": "La {{principal_s_office}}... ¿el {{principal}} que"
+  },
+  {
+   "i": 1041,
+   "src": "793e7eb10274",
+   "t": "parece un pirata, ese mismo?"
+  },
+  {
+   "i": 1049,
+   "src": "b8043b663270",
+   "t": "Mejor lo dejamos, ¿no?"
+  },
+  {
+   "i": 1052,
+   "src": "2d2e2bfbc980",
+   "t": "Nos raptarán y venderán al extranjero."
+  }
+ ]
+}

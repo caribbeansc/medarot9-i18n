@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f02_015_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "2bb77afe0cc7",
+   "t": "¡Diez mil yenes!"
+  },
+  {
+   "i": 1039,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "288e5cb2e85c",
+   "t": "Son fondos del {{club}}."
+  },
+  {
+   "i": 1048,
+   "src": "855cb3ed75bd",
+   "t": "Gastos para nuevos miembros."
+  },
+  {
+   "i": 1056,
+   "src": "ad8fcbb3822b",
+   "t": "¿Está bien aceptarlo?"
+  },
+  {
+   "i": 1061,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1067,
+   "src": "2efb156daeb7",
+   "t": "Por supuesto, jajaja. Ya eres"
+  },
+  {
+   "i": 1070,
+   "src": "86291963d698",
+   "t": "miembro pleno del {{exploration_club}}."
+  },
+  {
+   "i": 1078,
+   "src": "063febe25978",
+   "t": "Agarra esos 10,000 yenes y ve"
+  },
+  {
+   "i": 1081,
+   "src": "a037f3b9557f",
+   "t": "a la {{shop}} del {{school_building}}."
+  },
+  {
+   "i": 1089,
+   "src": "5b7db96b0681",
+   "t": "Aunque, con {{activity_level}} bajo,"
+  },
+  {
+   "i": 1092,
+   "src": "4e2e92ce9e7f",
+   "t": "no habrá mucho que comprar."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_2f2_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1038,
+   "src": "22fc82795760",
+   "t": "No te reconozco. ¿Eres de primero?"
+  },
+  {
+   "i": 1041,
+   "src": "51b0ac2eb17e",
+   "t": "¿En qué {{club}} estás?"
+  },
+  {
+   "i": 1049,
+   "src": "eadbccba0730",
+   "t": "¿Eh? ¿Todavía no te has decidido?"
+  },
+  {
+   "i": 1052,
+   "src": "e08281dcc306",
+   "t": "Eso es malo a estas alturas."
+  },
+  {
+   "i": 1060,
+   "src": "a69c4b58ab19",
+   "t": "Ya estamos llenos, no puedes entrar."
+  },
+  {
+   "i": 1063,
+   "src": "58c180f384b1",
+   "t": "Salvo que tengas mucha experiencia."
+  },
+  {
+   "i": 1071,
+   "src": "41011ed777d2",
+   "t": "Pero no veo ajustes de artes marciales..."
+  },
+  {
+   "i": 1074,
+   "src": "b233fbaaee0c",
+   "t": "Eres novato. Prueba en otro lado."
+  }
+ ]
+}

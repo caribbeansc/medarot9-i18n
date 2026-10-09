@@ -1,0 +1,330 @@
+{
+ "file": "story/spt/f05_180_210_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e21dfec68ed5",
+   "t": "{{pretty_prime}}"
+  },
+  {
+   "i": 1035,
+   "src": "828a03eb844d",
+   "t": "Getting along doesn't make someone"
+  },
+  {
+   "i": 1038,
+   "src": "a4731bb0aaf3",
+   "t": "a good Master, don't you think?"
+  },
+  {
+   "i": 1045,
+   "src": "276dee70715c",
+   "t": "{{zakuro}}"
+  },
+  {
+   "i": 1054,
+   "src": "e21269e5f90c",
+   "t": "Not at all."
+  },
+  {
+   "i": 1062,
+   "src": "b2f5f9e9df0b",
+   "t": "No matter how reliable they are in\n{{robattle|pl}},"
+  },
+  {
+   "i": 1065,
+   "src": "10b8ee358f46",
+   "t": "that's not enough for me."
+  },
+  {
+   "i": 1073,
+   "src": "9275e7e659da",
+   "t": "We should be able to make sweets\ntogether"
+  },
+  {
+   "i": 1076,
+   "src": "e854ce38d999",
+   "t": "and go shopping together, too."
+  },
+  {
+   "i": 1083,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1089,
+   "src": "10d438e80dd0",
+   "t": "{{zakuro}}'s {{master}} makes sweets?"
+  },
+  {
+   "i": 1096,
+   "src": "276dee70715c",
+   "t": "{{zakuro}}"
+  },
+  {
+   "i": 1102,
+   "src": "f364d0ffc0f3",
+   "t": "Hehe"
+  },
+  {
+   "i": 1105,
+   "src": "95b746c408de",
+   "t": "It's a hobby we share!"
+  },
+  {
+   "i": 1112,
+   "src": "a6e23e611714",
+   "t": "{{kongo}}"
+  },
+  {
+   "i": 1121,
+   "src": "417ffd81344e",
+   "t": "Wow, you'd never guess from looking at\nher."
+  },
+  {
+   "i": 1124,
+   "src": "c8f01615927f",
+   "t": "Well, my boss is the same."
+  },
+  {
+   "i": 1132,
+   "src": "27495ac4c0c9",
+   "t": "His hobby is bonsai!"
+  },
+  {
+   "i": 1135,
+   "src": "4e5a1ef17cf9",
+   "t": "What are you, an old man?!"
+  },
+  {
+   "i": 1142,
+   "src": "dc985d3d3adc",
+   "t": "RedMatador"
+  },
+  {
+   "i": 1148,
+   "src": "5ee3479bd40f",
+   "t": "Just as I pictured."
+  },
+  {
+   "i": 1155,
+   "src": "f36baaf6bab0",
+   "t": "{{samurai}}"
+  },
+  {
+   "i": 1161,
+   "src": "bf631fb4c7f8",
+   "t": "People's personalities change depending\non"
+  },
+  {
+   "i": 1164,
+   "src": "a14c8a92c6c7",
+   "t": "whether other people are around."
+  },
+  {
+   "i": 1171,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1180,
+   "src": "0fbc5d803807",
+   "t": "Really?"
+  },
+  {
+   "i": 1183,
+   "src": "8e38ec844a84",
+   "t": "My {{aoi}} doesn't change that much."
+  },
+  {
+   "i": 1234,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1247,
+   "src": "036e8d22b86f",
+   "t": "Hey! Say something, "
+  },
+  {
+   "i": 1249,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1252,
+   "src": "0ed635d66b3b",
+   "t": "you started this!"
+  },
+  {
+   "i": 1273,
+   "src": "263adadf9c35",
+   "t": "Hmm."
+  },
+  {
+   "i": 1280,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1289,
+   "src": "69f0e962bbea",
+   "t": "And what about "
+  },
+  {
+   "i": 1291,
+   "src": "1619a0cac1a3",
+   "t": "'s {{master}}?"
+  },
+  {
+   "i": 1294,
+   "src": "af2d83be2423",
+   "t": "A good {{master}}?"
+  },
+  {
+   "i": 1323,
+   "src": "8aede7d603a1",
+   "t": "Let's see."
+  },
+  {
+   "i": 1329,
+   "src": "529e3e745130",
+   "t": "Hmm..."
+  },
+  {
+   "i": 1346,
+   "src": "2f15fdb2e6e1",
+   "t": "Maybe we aren't close."
+  },
+  {
+   "i": 1362,
+   "src": "b00a66b73cd1",
+   "t": "I mean, I don't bake sweets with that\nguy."
+  },
+  {
+   "i": 1365,
+   "src": "1063ea8130be",
+   "t": "But--"
+  },
+  {
+   "i": 1372,
+   "src": "dc985d3d3adc",
+   "t": "RedMatador"
+  },
+  {
+   "i": 1378,
+   "src": "65f58db5a025",
+   "t": "Can you trust him?"
+  },
+  {
+   "i": 1399,
+   "src": "2425455b92da",
+   "t": "Trust?"
+  },
+  {
+   "i": 1406,
+   "src": "f36baaf6bab0",
+   "t": "{{samurai}}"
+  },
+  {
+   "i": 1412,
+   "src": "0fdddf5139d9",
+   "t": "Yes, trust."
+  },
+  {
+   "i": 1415,
+   "src": "0562df07c9dd",
+   "t": "Without absolute trust, he's no good\n{{master}}."
+  },
+  {
+   "i": 1422,
+   "src": "ad1a2c18e5bf",
+   "t": "{{jasper}}"
+  },
+  {
+   "i": 1428,
+   "src": "cfcabbdadbee",
+   "t": "Right!"
+  },
+  {
+   "i": 1431,
+   "src": "d07f4b71a16c",
+   "t": "Trust is what matters, after all!"
+  },
+  {
+   "i": 1439,
+   "src": "f77b8900371d",
+   "t": "{{ryusei}}'s the only one I trust to watch\nmy back!"
+  },
+  {
+   "i": 1442,
+   "src": "b84f7b12bee9",
+   "t": "He's the best {{master}}!"
+  },
+  {
+   "i": 1463,
+   "src": "b6c92c30dd0d",
+   "t": "Trust, huh."
+  },
+  {
+   "i": 1489,
+   "src": "98c4265a5ea2",
+   "t": "Maybe I don't."
+  },
+  {
+   "i": 1498,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1507,
+   "src": "6b50a877023c",
+   "t": "Really?"
+  },
+  {
+   "i": 1536,
+   "src": "aa1953d80b7e",
+   "t": "Yeah."
+  },
+  {
+   "i": 1539,
+   "src": "84af09387f6e",
+   "t": "'Cause that guy doesn't trust me."
+  },
+  {
+   "i": 1545,
+   "src": "062cc210376c",
+   "t": "Yes."
+  },
+  {
+   "i": 1548,
+   "src": "20b10017aa9a",
+   "t": "Because that guy doesn't trust me at all."
+  },
+  {
+   "i": 1565,
+   "src": "2934e3005b66",
+   "t": "If you trusted me, you wouldn't do\nthat!!"
+  },
+  {
+   "i": 1581,
+   "src": "46aeb135ae7e",
+   "t": "He's always doing stuff like that."
+  },
+  {
+   "i": 1602,
+   "src": "b29a8a7f7322",
+   "t": "So I don't trust him either."
+  },
+  {
+   "i": 1608,
+   "src": "43f2da867c75",
+   "t": "So I don't trust that guy either."
+  },
+  {
+   "i": 1625,
+   "src": "3fa0a1b0aec7",
+   "t": "He's a bad Master!"
+  }
+ ]
+}

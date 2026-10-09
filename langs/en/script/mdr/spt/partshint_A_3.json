@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_3.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "f2153509e813",
+   "t": "<c:00ff00>{{mf}}:<c> Genocide\nLaunches a {{destroy_game_term}} attack\nat the whole opposing\nteam.\n<c:00ffff>{{required_parts}}<c>\nOne or more attack {{part|pl}}"
+  }
+ ]
+}

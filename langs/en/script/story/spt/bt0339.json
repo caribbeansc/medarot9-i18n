@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0339.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 872,
+   "src": "f3b1ff4cdc93",
+   "t": "A {{robattle}}? Sounds good."
+  },
+  {
+   "i": 875,
+   "src": "c171e33acc08",
+   "t": "I'd be happy to face you."
+  }
+ ]
+}

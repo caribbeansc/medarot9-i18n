@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_pc03_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "9b97368f1c5f",
+   "t": "Si nos atrapan, será un lío."
+  },
+  {
+   "i": 1041,
+   "src": "1bbd5eae9741",
+   "t": "Despierta, {{master}}."
+  }
+ ]
+}

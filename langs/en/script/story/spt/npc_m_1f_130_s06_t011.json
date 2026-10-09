@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_m_1f_130_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "38537c2de730",
+   "t": "{{masamune}}"
+  },
+  {
+   "i": 1035,
+   "src": "1cb3321f8407",
+   "t": "The strongest {{medafighter}}, huh..."
+  },
+  {
+   "i": 1038,
+   "src": "79be8cd99bd8",
+   "t": "But I want to be the strongest attacker..."
+  },
+  {
+   "i": 1046,
+   "src": "a0b05ad12b87",
+   "t": "They say if you chase two rabbits... "
+  },
+  {
+   "i": 1049,
+   "src": "18d334951b45",
+   "t": "Or the saying about catching neither\nbee nor horsefly--"
+  },
+  {
+   "i": 1070,
+   "src": "708bb4cb270d",
+   "t": "Ah... oh, you were talking to me?"
+  },
+  {
+   "i": 1073,
+   "src": "05fbe5477878",
+   "t": "I was spacing out and didn't notice."
+  },
+  {
+   "i": 1081,
+   "src": "8138f70e7407",
+   "t": "Being able to zone out in the middle of\na run"
+  },
+  {
+   "i": 1084,
+   "src": "8f2f510fa3c9",
+   "t": "means I've really grown. Wahaha."
+  }
+ ]
+}

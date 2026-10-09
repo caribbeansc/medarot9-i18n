@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_176.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f46a4dac48f7",
+   "t": "{{medabot}} {{themed_on}} the\nthree-legged Yatagarasu,\nguide of heroes.\n \nFills the {{charge_gauge}} at\nonce and converts it to\n{{power}}: {{charge_buster}}\ncuts the dark."
+  }
+ ]
+}

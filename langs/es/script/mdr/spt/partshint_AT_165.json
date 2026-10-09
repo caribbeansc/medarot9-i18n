@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_165.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6d5f3eb31788",
+   "t": "<c:00ff00>Técnica:<c>Primeros Auxilios\nColoca un dispositivo que\nrevive las {{part|pl}}\ndestruidas del equipo al\ncompletar la {{prep}}.\nAl colocarlo varias veces\nsuben su {{armor}} y su\n{{recover}}.\nDesaparece al activarse."
+  }
+ ]
+}

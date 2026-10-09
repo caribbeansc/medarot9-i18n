@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f02_140_211_00_t005.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1045,
+   "src": "8440ea7fdda3",
+   "t": "Hey, this"
+  },
+  {
+   "i": 1048,
+   "src": "18b5187368fd",
+   "t": "isn't it a memory crystal?"
+  },
+  {
+   "i": 1059,
+   "src": "44c4fa2de7a3",
+   "t": "...?"
+  },
+  {
+   "i": 1071,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1077,
+   "src": "3ead2f4f7aa8",
+   "t": "Maybe."
+  },
+  {
+   "i": 1084,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1090,
+   "src": "7bc7f9e185b4",
+   "t": "A memory crystal is a type of storage\nmedium."
+  },
+  {
+   "i": 1093,
+   "src": "54f056e470f9",
+   "t": "They're built into circuit boards."
+  },
+  {
+   "i": 1101,
+   "src": "167c11915d9a",
+   "t": "Apparently they've been around a long\ntime."
+  },
+  {
+   "i": 1104,
+   "src": "c7af6af7d8d7",
+   "t": "Even so, they never became widespread."
+  },
+  {
+   "i": 1111,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1117,
+   "src": "96a1fe9ae5e1",
+   "t": "They're just too expensive."
+  },
+  {
+   "i": 1125,
+   "src": "c0d2e90d2ee2",
+   "t": "But data lasts almost forever,"
+  },
+  {
+   "i": 1128,
+   "src": "33dac8e6d0c9",
+   "t": "and I hear the performance is flawless."
+  }
+ ]
+}

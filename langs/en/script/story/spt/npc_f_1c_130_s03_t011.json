@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_f_1c_130_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1035,
+   "src": "5cfbc08c9571",
+   "t": "Huff, puff, ugh... not good."
+  },
+  {
+   "i": 1038,
+   "src": "b0abfd5b46b3",
+   "t": "Practice is so hard I'm getting\nnauseous..."
+  },
+  {
+   "i": 1049,
+   "src": "bf7883a2d832",
+   "t": "Ah, huh?"
+  },
+  {
+   "i": 1052,
+   "src": "1f055e295a83",
+   "t": "You're in my {{class}}, "
+  },
+  {
+   "i": 1054,
+   "src": "c89b0c4bb8c2",
+   "t": "-kun...?"
+  },
+  {
+   "i": 1062,
+   "src": "4ac9b24e99f8",
+   "t": "Don't stand there, go over there, okay?"
+  },
+  {
+   "i": 1065,
+   "src": "a66569ba528c",
+   "t": "I hate boys seeing me when I'm\nstruggling."
+  },
+  {
+   "i": 1073,
+   "src": "0d39cff93a02",
+   "t": "Even if he's"
+  },
+  {
+   "i": 1076,
+   "src": "bb8d2f39c390",
+   "t": "not a boy I like!"
+  }
+ ]
+}

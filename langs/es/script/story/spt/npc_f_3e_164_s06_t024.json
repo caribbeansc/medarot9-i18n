@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t024.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1035,
+   "src": "abae12d24ea6",
+   "t": "La {{medalia}} resultante hereda casi"
+  },
+  {
+   "i": 1038,
+   "src": "9a397583d645",
+   "t": "todo de la {{medalia}} base."
+  },
+  {
+   "i": 1046,
+   "src": "abf7c36d5437",
+   "t": "El color, la forma, las habilidades..."
+  },
+  {
+   "i": 1054,
+   "src": "ce8fdb1038ab",
+   "t": "Ojo, no uses por error de material"
+  },
+  {
+   "i": 1057,
+   "src": "794d622ccb05",
+   "t": "la Medaria que quieres conservar."
+  },
+  {
+   "i": 1065,
+   "src": "f680edb18634",
+   "t": "para la síntesis, o pasará algo terrible."
+  },
+  {
+   "i": 1068,
+   "src": "637267402b1c",
+   "t": "Como lo que me pasó a mí. Jaja, ajaja"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_122.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e43684664bee",
+   "t": "<c:00ff00>Técnica:<c>Auto Reparación\nAñade un {{effect}} que\nrecupera un poco tu\n{{self}} {{damage}} cada vez que\ntermina el enfriado."
+  }
+ ]
+}

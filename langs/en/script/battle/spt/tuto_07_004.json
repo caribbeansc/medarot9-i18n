@@ -1,0 +1,55 @@
+{
+ "file": "battle/spt/tuto_07_004.spt",
+ "lines": [
+  {
+   "i": 1129,
+   "src": "08c4864b907d",
+   "t": "Okay, attack!\n...Huh? What are {{drive_a}}, B, C?                "
+  },
+  {
+   "i": 1134,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1140,
+   "src": "110eb4f5919a",
+   "t": "Once you {{medachange}}, you can't\nuse your original head and arm {{part|pl}}."
+  },
+  {
+   "i": 1145,
+   "src": "7e6fc01a4e38",
+   "t": "Instead you get three {{medachange}}\ncommands, the <c:ff00ff>Drives<c>.              "
+  },
+  {
+   "i": 1150,
+   "src": "4368ef2502ed",
+   "t": "Drives have no usage limit, but each\nuse costs <c:ff00ff>10%<c> of the {{charge_gauge}}.            "
+  },
+  {
+   "i": 1155,
+   "src": "96fa5ceb0210",
+   "t": "Note: charging during {{medachange}}\nwon't fill the {{charge_gauge}}.            "
+  },
+  {
+   "i": 1160,
+   "src": "ae0b2882f8c5",
+   "t": "Watch out: under 10% {{charge_gauge}},\n{{medachange}} is <c:ff00ff>forcibly canceled<c>.                                             "
+  },
+  {
+   "i": 1165,
+   "src": "fdcd60b3087d",
+   "t": "In return, many Drives are powerful,\nso they can turn a {{robattle}} your way.                                      "
+  },
+  {
+   "i": 1170,
+   "src": "3efd34cb5941",
+   "t": "You can also pick {{medachange}} with $ｷ\nto <c:ff00ff>end the transformation<c> yourself.                                                              "
+  },
+  {
+   "i": 1175,
+   "src": "40b84b6202ef",
+   "t": "That's all. Use {{medachange}} well\nand show me you can win this {{robattle}}."
+  }
+ ]
+}

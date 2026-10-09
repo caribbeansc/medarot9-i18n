@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/npc_pc04_161_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "84099fc518e2",
+   "t": "Lately, wherever I go on the island,"
+  },
+  {
+   "i": 1041,
+   "src": "e5d96a261b54",
+   "t": "I run into some {{club}}'s people."
+  },
+  {
+   "i": 1049,
+   "src": "348c60d7d8bc",
+   "t": "It feels like a {{club}}-vs-{{club}} {{medalia}}\nbattle."
+  },
+  {
+   "i": 1052,
+   "src": "911aac69e39f",
+   "t": "By the way--"
+  },
+  {
+   "i": 1060,
+   "src": "ced0afb900b3",
+   "t": "Did you see the {{bulletin_board}}?"
+  },
+  {
+   "i": 1063,
+   "src": "7375ba0feb92",
+   "t": "I added a few more exploration points."
+  },
+  {
+   "i": 1071,
+   "src": "c5ef260f3fa4",
+   "t": "Let's go look for them soon, before"
+  },
+  {
+   "i": 1074,
+   "src": "29eae60c3ae5",
+   "t": "the other clubs take them."
+  }
+ ]
+}

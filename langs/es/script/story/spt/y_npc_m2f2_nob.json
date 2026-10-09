@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m2f2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1035,
+   "src": "a0663fe82b01",
+   "t": "Perdona, ahora estoy algo ocupado."
+  },
+  {
+   "i": 1038,
+   "src": "34040a5445ef",
+   "t": "Hasta la próxima."
+  }
+ ]
+}

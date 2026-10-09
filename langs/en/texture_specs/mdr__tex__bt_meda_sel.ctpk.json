@@ -1,0 +1,35 @@
+{
+ "rel": "mdr/tex/bt_meda_sel.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    27,
+    19,
+    152,
+    22
+   ],
+   "erase": "hfill",
+   "erase_box": [
+    25,
+    20,
+    154,
+    19
+   ],
+   "text": "Medabot Select",
+   "font": "sf-rounded",
+   "cap": 10.5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "align": "center",
+   "valign": "middle",
+   "pad": 0,
+   "repeat": [
+    [
+     0,
+     64
+    ]
+   ]
+  }
+ ]
+}

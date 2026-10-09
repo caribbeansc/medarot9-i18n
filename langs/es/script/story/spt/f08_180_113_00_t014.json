@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f08_180_113_00_t014.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "021968eba267",
+   "t": "Más chicos van a zonas peligrosas,"
+  },
+  {
+   "i": 1038,
+   "src": "07dd1fbc7860",
+   "t": "y temen que pase una desgracia."
+  },
+  {
+   "i": 1046,
+   "src": "35c05654d157",
+   "t": "Pensaba en tomar medidas pronto,"
+  },
+  {
+   "i": 1049,
+   "src": "a7b93e2c128d",
+   "t": "y justo pasó este accidente."
+  },
+  {
+   "i": 1057,
+   "src": "8e955acbc766",
+   "t": "Y encima, el {{exploration_club}}, origen\ndel alboroto, se perdió--"
+  }
+ ]
+}

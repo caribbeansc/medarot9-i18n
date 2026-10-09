@@ -1,0 +1,235 @@
+{
+ "file": "story/spt/f09_140_230_00_t012.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "7e8b87555197",
+   "t": "Qué pasó..."
+  },
+  {
+   "i": 1045,
+   "src": "61889643855b",
+   "t": "¿Qué significa esto?"
+  },
+  {
+   "i": 1055,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1061,
+   "src": "da15f95c635e",
+   "t": "En fin, esto es lo que hay, {{robo}}."
+  },
+  {
+   "i": 1064,
+   "src": "e086dcd4290c",
+   "t": "Forasteros, ¡largo de aquí, {{robo}}! ¡{{robo|cap}}!"
+  },
+  {
+   "i": 1078,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1087,
+   "src": "32d559c62309",
+   "t": "¿Eh? ¿Quién de los dos es el forastero?"
+  },
+  {
+   "i": 1090,
+   "src": "04549397c3be",
+   "t": "Como sea, apúrate y sal de ahí--"
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1109,
+   "src": "e352594c38d2",
+   "t": "Calma, calma, {{mio}}-kun."
+  },
+  {
+   "i": 1112,
+   "src": "bf6feafa671d",
+   "t": "Este..."
+  },
+  {
+   "i": 1133,
+   "src": "368b9f40d394",
+   "t": "Disculpen."
+  },
+  {
+   "i": 1136,
+   "src": "8e73fb245ff8",
+   "t": "Buscamos a un estudiante varón."
+  },
+  {
+   "i": 1144,
+   "src": "0b6670dde28f",
+   "t": "Lleva el mismo uniforme que nosotros"
+  },
+  {
+   "i": 1147,
+   "src": "77aad6f9a808",
+   "t": "un poco más bajo que yo,"
+  },
+  {
+   "i": 1155,
+   "src": "9bb1c1509348",
+   "t": "Pelo azul en una coleta rara,"
+  },
+  {
+   "i": 1158,
+   "src": "25dfa13c4911",
+   "t": "y cara de recién despierto..."
+  },
+  {
+   "i": 1165,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1171,
+   "src": "dbb38221c5a7",
+   "t": "O sea, ¿como tú?"
+  },
+  {
+   "i": 1181,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1187,
+   "src": "c5cf37f8c347",
+   "t": "Sí, alguien como yo."
+  },
+  {
+   "i": 1195,
+   "src": "c07401cc3f9c",
+   "t": "¿Te suena de algo?"
+  },
+  {
+   "i": 1202,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1208,
+   "src": "a753a7c01c23",
+   "t": "Si es así, entonces"
+  },
+  {
+   "i": 1211,
+   "src": "a96cf03f0832",
+   "t": "hubieras dicho eso desde el inicio, {{robo}}."
+  },
+  {
+   "i": 1222,
+   "src": "8bdad1e74fb7",
+   "t": "A ese lo vi aquí esta mañana, {{robo}}."
+  },
+  {
+   "i": 1225,
+   "src": "983429803e99",
+   "t": "El que hablaba con el {{leader}}, {{robo}}."
+  },
+  {
+   "i": 1232,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1238,
+   "src": "78776d17af54",
+   "t": "¿Y?"
+  },
+  {
+   "i": 1245,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1251,
+   "src": "a7310a8e2f3c",
+   "t": "Eso es todo, {{robo}}."
+  },
+  {
+   "i": 1259,
+   "src": "6246a0c5beff",
+   "t": "Al volver ya no estaba, {{robo}}."
+  },
+  {
+   "i": 1262,
+   "src": "149862855a98",
+   "t": "Habrá vuelto con el {{medabot}} roto, robo."
+  },
+  {
+   "i": 1280,
+   "src": "0129da00e2a7",
+   "t": "No tengo más información, {{robo}}."
+  },
+  {
+   "i": 1287,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1293,
+   "src": "510548dfa472",
+   "t": "Eso parece, eh."
+  },
+  {
+   "i": 1310,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1319,
+   "src": "110db6950ef6",
+   "t": "¿...Qué hacemos?"
+  },
+  {
+   "i": 1329,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1338,
+   "src": "56fd959fc36c",
+   "t": "Qué se le va a hacer."
+  },
+  {
+   "i": 1341,
+   "src": "b9054af466fc",
+   "t": "Probemos en otro lugar."
+  },
+  {
+   "i": 1351,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1357,
+   "src": "e36f2d17dab6",
+   "t": "Aparte de eso, supongo que... el puerto."
+  },
+  {
+   "i": 1371,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1380,
+   "src": "de323af59d04",
+   "t": "Apurémonos."
+  }
+ ]
+}

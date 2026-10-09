@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f_000_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1038,
+   "src": "82ed67c455d2",
+   "t": "Now I remember."
+  },
+  {
+   "i": 1041,
+   "src": "dbdd75499740",
+   "t": "There's a helipad on the roof, right?"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f06_020_161_00_t025.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "ea89ecccee36",
+   "t": "I posted the places to observe on the\n{{bulletin_board}}."
+  },
+  {
+   "i": 1038,
+   "src": "1be5a144599e",
+   "t": "Please go there and take measurements."
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1054,
+   "src": "2136bad54be0",
+   "t": "So that's the situation."
+  },
+  {
+   "i": 1057,
+   "src": "54cd0913dd61",
+   "t": "Let's get moving right away."
+  },
+  {
+   "i": 1068,
+   "src": "31ce9bb44289",
+   "t": "{{main}}-chan, keep up your work--"
+  },
+  {
+   "i": 1071,
+   "src": "83f889a52d57",
+   "t": "and watch the place while we're gone,\nplease."
+  },
+  {
+   "i": 1078,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1087,
+   "src": "900e89ccc492",
+   "t": "Have a safe trip!"
+  }
+ ]
+}

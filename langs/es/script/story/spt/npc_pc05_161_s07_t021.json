@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc05_161_s07_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1038,
+   "src": "f300236f9300",
+   "t": "¡{{ryoma}}-san, lo sabes todo! Eres genial."
+  },
+  {
+   "i": 1041,
+   "src": "59a897e37360",
+   "t": "Desde ahora te llamaré Maestro."
+  },
+  {
+   "i": 1051,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1060,
+   "src": "0d7163d5cad6",
+   "t": "Por favor, basta."
+  }
+ ]
+}

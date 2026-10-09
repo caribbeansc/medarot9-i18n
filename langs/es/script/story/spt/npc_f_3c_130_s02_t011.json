@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3c_130_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "cedd7f83e4db",
+   "t": "¿Buscas a alguien? ¿Una de 1er año"
+  },
+  {
+   "i": 1041,
+   "src": "a5e95e7b85c1",
+   "t": "del {{idol_club}}...? Perdona, no..."
+  },
+  {
+   "i": 1049,
+   "src": "08704411fa59",
+   "t": "No conozco mucho a los"
+  },
+  {
+   "i": 1052,
+   "src": "7cbdd1488919",
+   "t": "culturales. No la he visto por aquí."
+  }
+ ]
+}

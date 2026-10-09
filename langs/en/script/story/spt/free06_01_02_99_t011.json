@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/free06_01_02_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "cf7371709f28",
+   "t": "Quest 'Sound Wave Survey: Shaft\nTower' cleared!"
+  },
+  {
+   "i": 1011,
+   "src": "913e0c661d21",
+   "t": "The {{exploration_club}}'s record went up!"
+  }
+ ]
+}

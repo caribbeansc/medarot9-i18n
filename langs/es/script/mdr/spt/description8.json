@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description8.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "70501226edd6",
+   "t": "{{head|cap}} ({{slot}})"
+  },
+  {
+   "i": 11,
+   "src": "b7825a5991b6",
+   "t": "<c:ffff00>{{slot|cap}}<c> de la parte superior del <c:ffff00>{{medabot}}<c> ({{head_part_slot}} y\ntorso). Tiene <c:ffff00>habilidad<c>, <c:ffff00>técnica<c> y este <c:ffff00>{{stats}}<c>:\n<c:ffff00>{{armor}}<c>, <c:ffff00>{{success}}<c>, <c:ffff00>{{power}}<c>, <c:ffff00>{{prep}}<c>, <c:ffff00>{{cooldown}}<c> y <c:ffff00>{{uses}}<c>.\nLos {{uses}} de técnicas por <c:ffff00>{{robattle}}<c> son limitados.\nComo aloja el mecanismo de la <c:ffff00>{{medal}}<c>, si la\n<c:ffff00>destruyen<c> el {{medabot}} queda <c:ffff00>{{knocked_out}}<c>.\nCon la <c:ffff00>{{charge_gauge}}<c> llena sube, según la habilidad:\n{{power}} (<c:ffff00>combate<c>), {{success}} (<c:ffff00>disparo<c>), {{cooldown}}\n(<c:ffff00>apoyo<c>, <c:ffff00>trampa<c>) o {{prep}} (<c:ffff00>curación<c>, <c:ffff00>defensa<c>)."
+  }
+ ]
+}

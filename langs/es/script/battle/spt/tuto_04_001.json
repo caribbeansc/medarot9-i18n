@@ -1,0 +1,80 @@
+{
+ "file": "battle/spt/tuto_04_001.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "2567d5287753",
+   "t": "¡Bien!  "
+  },
+  {
+   "i": 1125,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1131,
+   "src": "b163b56facf7",
+   "t": "¿Viste el <c:ff00ff>{{damage}} simultáneo<c> a\n<c:ff00ff>todas las {{part|pl}}<c> del {{opponent}}?"
+  },
+  {
+   "i": 1136,
+   "src": "435298ac589c",
+   "t": "Con la arremetida es posible destruir\nvarias {{part|pl}} del {{opponent}} de una vez.            "
+  },
+  {
+   "i": 1141,
+   "src": "a6c235eaf9a3",
+   "t": "Sin embargo..."
+  },
+  {
+   "i": 1149,
+   "src": "7526ec14ae76",
+   "t": "¿Eh?\nEste icono..."
+  },
+  {
+   "i": 1160,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1166,
+   "src": "b3877f9d70d3",
+   "t": "$8 es un icono que indica el <c:ff00ff>{{condition|cap}}\nImbloqueable<c>."
+  },
+  {
+   "i": 1171,
+   "src": "8656ab8e31da",
+   "t": "Tras una arremetida, en el <c:ff00ff>{{cooldown}}<c>\nya no puedes esquivar ni defender.              "
+  },
+  {
+   "i": 1187,
+   "src": "d58719336ab5",
+   "t": "Tras atacar con todas sus fuerzas,\nrecuperar la postura toma tiempo.           "
+  },
+  {
+   "i": 1196,
+   "src": "d58719336ab5",
+   "t": "Tras atacar con todas sus fuerzas,\nrecuperar la postura toma tiempo.       "
+  },
+  {
+   "i": 1205,
+   "src": "c180ba0a76b4",
+   "t": "Ya veo. "
+  },
+  {
+   "i": 1210,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1216,
+   "src": "b65f396e6a96",
+   "t": "Sin {{defend}} ni {{evade}}, un golpe es\nsiempre <c:ff00ff>{{critical}}<c> y recibes mucho {{damage}}.                                                                     "
+  },
+  {
+   "i": 1224,
+   "src": "c729d425cc5d",
+   "t": "Es muy potente, pero arriesgada.\nÚsala si es difícil que te contraataquen.                                                                          "
+  }
+ ]
+}

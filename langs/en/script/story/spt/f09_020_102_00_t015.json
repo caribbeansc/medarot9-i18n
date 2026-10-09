@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f09_020_102_00_t015.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1045,
+   "src": "1ad7d932dbfc",
+   "t": "Hey you, could you go to the harbor for\nme"
+  },
+  {
+   "i": 1048,
+   "src": "73f148598d85",
+   "t": "and pick up a package from the {{janitor}}?"
+  },
+  {
+   "i": 1059,
+   "src": "80a4b7a36a03",
+   "t": "Say it's for the Council and they'll hand\nit over."
+  },
+  {
+   "i": 1062,
+   "src": "bc2d020a5295",
+   "t": "The duct tape's in that package too, so\ngrab it."
+  },
+  {
+   "i": 1077,
+   "src": "090c7e0175a9",
+   "t": "The harbor, right?"
+  },
+  {
+   "i": 1080,
+   "src": "063fa655fd4a",
+   "t": "Got it!"
+  },
+  {
+   "i": 1091,
+   "src": "c2ccbd191461",
+   "t": "Hey--"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_84.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e089a38cbc3d",
+   "t": "<c:00ff00>Leg Trait:<c> {{crit_up}}\n1/3 of the {{mobility}}\ndifference with the\n{{opponent}} is added to your\n{{critical}} rate."
+  }
+ ]
+}

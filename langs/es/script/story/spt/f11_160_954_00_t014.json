@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_160_954_00_t014.spt",
+ "lines": [
+  {
+   "i": 961,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 970,
+   "src": "c06e87c48af1",
+   "t": "¡Aaah!"
+  },
+  {
+   "i": 973,
+   "src": "2d40ef40a833",
+   "t": "¡El pasillo...!"
+  },
+  {
+   "i": 983,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 992,
+   "src": "a5bcf8ea95a3",
+   "t": "Vayan por la {{staff_room}}."
+  },
+  {
+   "i": 995,
+   "src": "bec6c3a3d8ad",
+   "t": "Por aquí."
+  }
+ ]
+}

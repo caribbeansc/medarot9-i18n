@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/npc_pc04_161_s08_t001.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1133,
+   "src": "84099fc518e2",
+   "t": "Lately, wherever I go on the island,"
+  },
+  {
+   "i": 1136,
+   "src": "e5d96a261b54",
+   "t": "I run into some {{club}}'s people."
+  },
+  {
+   "i": 1144,
+   "src": "348c60d7d8bc",
+   "t": "It feels like a {{club}}-vs-{{club}} {{medalia}}\nbattle."
+  },
+  {
+   "i": 1147,
+   "src": "911aac69e39f",
+   "t": "By the way--"
+  },
+  {
+   "i": 1155,
+   "src": "ced0afb900b3",
+   "t": "Did you see the {{bulletin_board}}?"
+  },
+  {
+   "i": 1158,
+   "src": "7375ba0feb92",
+   "t": "I added a few more exploration points."
+  },
+  {
+   "i": 1166,
+   "src": "c5ef260f3fa4",
+   "t": "Before the other clubs take them,"
+  },
+  {
+   "i": 1169,
+   "src": "29eae60c3ae5",
+   "t": "let's go look for them soon."
+  },
+  {
+   "i": 1185,
+   "src": "df691ceecc4e",
+   "t": "*{{ryoma}}'s power disables {{field}} gimmicks"
+  },
+  {
+   "i": 1188,
+   "src": "1c90505b095e",
+   "t": "(Details pending)"
+  },
+  {
+   "i": 1193,
+   "src": "5a04ae9f0ecf",
+   "t": "*->New Free Quests added to new fields"
+  },
+  {
+   "i": 1196,
+   "src": "84124731345e",
+   "t": "One: \"{{crater}} Survey\" (working title)"
+  },
+  {
+   "i": 1201,
+   "src": "6adf4b1801f1",
+   "t": "*Accept trigger undecided, so for now"
+  },
+  {
+   "i": 1204,
+   "src": "f907e2ee4b02",
+   "t": "turn 'Quest A ({{crater}} Survey) accepted'\nON"
+  },
+  {
+   "i": 1209,
+   "src": "a5c2fff5da15",
+   "t": "*Head toward the crater area"
+  }
+ ]
+}

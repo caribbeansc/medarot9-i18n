@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_f_1c_130_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1035,
+   "src": "5cfbc08c9571",
+   "t": "Jadeo, uf, ugh... qué mal."
+  },
+  {
+   "i": 1038,
+   "src": "b0abfd5b46b3",
+   "t": "El entreno es tan duro que me mareo..."
+  },
+  {
+   "i": 1049,
+   "src": "bf7883a2d832",
+   "t": "Ah, ¿eh?"
+  },
+  {
+   "i": 1052,
+   "src": "1f055e295a83",
+   "t": "¿Eres "
+  },
+  {
+   "i": 1054,
+   "src": "c89b0c4bb8c2",
+   "t": "-kun, de mi clase...?"
+  },
+  {
+   "i": 1062,
+   "src": "4ac9b24e99f8",
+   "t": "No te quedes ahí parado, vete para allá."
+  },
+  {
+   "i": 1065,
+   "src": "a66569ba528c",
+   "t": "Odio que los chicos me vean batallando."
+  },
+  {
+   "i": 1073,
+   "src": "0d39cff93a02",
+   "t": "¡Aunque ese chico"
+  },
+  {
+   "i": 1076,
+   "src": "bb8d2f39c390",
+   "t": "no sea uno que me guste!"
+  }
+ ]
+}

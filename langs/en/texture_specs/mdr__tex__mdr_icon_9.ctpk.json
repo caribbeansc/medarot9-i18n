@@ -1,0 +1,165 @@
+{
+ "rel": "mdr/tex/mdr_icon_9.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "helv-cond-black",
+  "cap": 8,
+  "pad": 0,
+  "crisp": 0.6,
+  "fill": "#F2FBF6",
+  "strokes": [
+   {
+    "color": "#045C17",
+    "w": 1.0
+   },
+   {
+    "color": "#052F00C0",
+    "w": 1.0
+   }
+  ],
+  "min_scale_x": 0.72
+ },
+ "items": [
+  {
+   "box": [
+    391,
+    204,
+    40,
+    15
+   ],
+   "text": "Missions",
+   "baseline": 216
+  },
+  {
+   "box": [
+    432,
+    204,
+    52,
+    15
+   ],
+   "text": "Dungeon",
+   "baseline": 216
+  },
+  {
+   "box": [
+    395,
+    220,
+    57,
+    15
+   ],
+   "text": "My Data",
+   "baseline": 232
+  },
+  {
+   "box": [
+    454,
+    220,
+    30,
+    15
+   ],
+   "text": "Parts",
+   "baseline": 232
+  },
+  {
+   "box": [
+    0,
+    236,
+    61,
+    15
+   ],
+   "text": "Settings",
+   "baseline": 247
+  },
+  {
+   "box": [
+    61,
+    236,
+    60,
+    15
+   ],
+   "text": "Options",
+   "baseline": 247
+  },
+  {
+   "box": [
+    121,
+    236,
+    60,
+    15
+   ],
+   "text": "Dictionary",
+   "baseline": 247
+  },
+  {
+   "box": [
+    181,
+    236,
+    57,
+    15
+   ],
+   "text": "Partners",
+   "baseline": 247
+  },
+  {
+   "box": [
+    260,
+    236,
+    40,
+    15
+   ],
+   "text": "Items",
+   "baseline": 247
+  },
+  {
+   "box": [
+    300,
+    236,
+    40,
+    15
+   ],
+   "text": "Album",
+   "baseline": 248
+  },
+  {
+   "box": [
+    340,
+    236,
+    33,
+    15
+   ],
+   "text": "Save",
+   "baseline": 248
+  },
+  {
+   "box": [
+    373,
+    236,
+    55,
+    15
+   ],
+   "text": "Network",
+   "baseline": 248
+  },
+  {
+   "box": [
+    428,
+    236,
+    56,
+    15
+   ],
+   "text": "Area Map",
+   "baseline": 247
+  },
+  {
+   "box": [
+    238,
+    236,
+    22,
+    15
+   ],
+   "text": "Memo",
+   "baseline": 248
+  }
+ ]
+}

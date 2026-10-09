@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description115.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "520cf27f894e",
+   "t": "{{part_trait|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "d5f6de9d07a7",
+   "t": "{{effect|cap}}, distinto del de la <c:ffff00>técnica<c>, que tienen\nalgunas <c:ffff00>{{part|pl}}<c>.\n\nHay 2 tipos:\n  <c:ffff00>Cadena<c>\n  <c:ffff00>{{heavy|cap}}<c>"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_99.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4f57318f1a22",
+   "t": "<c:00ff00>Técnica:<c>Oculta\n{{up|cap}} la {{evade}} de todo\nel equipo. Además, hace\nfallar los ataques de\narremetida y puntería del\nequipo {{opponent}}.\nEl {{effect}} se anula al\n{{take_it}} un ataque normal."
+  }
+ ]
+}

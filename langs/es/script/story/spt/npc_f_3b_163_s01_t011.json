@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/npc_f_3b_163_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1035,
+   "src": "e70f18378554",
+   "t": "Mmm, me siento algo pesada..."
+  },
+  {
+   "i": 1038,
+   "src": "b94317fcf816",
+   "t": "¿¡Acaso engordé!?"
+  },
+  {
+   "i": 1048,
+   "src": "48d28919cf40",
+   "t": "{{lovelydog}}"
+  },
+  {
+   "i": 1054,
+   "src": "825280801ab2",
+   "t": "A ver, mmm..."
+  },
+  {
+   "i": 1065,
+   "src": "e20ac9c1974e",
+   "t": "¡Tachán! 45.65 kg."
+  },
+  {
+   "i": 1068,
+   "src": "05f83cdf42c3",
+   "t": "¡No has engordado nada de nada!"
+  },
+  {
+   "i": 1075,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1081,
+   "src": "60087a490a1e",
+   "t": "¡Uf, qué alivio! Estaba preocupada"
+  },
+  {
+   "i": 1084,
+   "src": "aff4f01973b0",
+   "t": "porque ayer comí demasiado--"
+  },
+  {
+   "i": 1105,
+   "src": "4d2e5d45ec2e",
+   "t": "¡Oye! ¿Qué rayos, amigo?"
+  },
+  {
+   "i": 1108,
+   "src": "0b41c71f743b",
+   "t": "¿¡Cuánto tiempo llevas ahí parado!?"
+  },
+  {
+   "i": 1116,
+   "src": "7f897b9ade76",
+   "t": "¡Lárgate de aquí!"
+  },
+  {
+   "i": 1119,
+   "src": "dece52c88b03",
+   "t": "¡Fuera, chicos!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_seitokai_fa_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "437e818d1f62",
+   "t": "LegendHorn"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  }
+ ]
+}

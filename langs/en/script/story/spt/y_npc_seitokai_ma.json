@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_seitokai_ma.spt",
+ "lines": [
+  {
+   "i": 1632,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1643,
+   "src": "5c81825539c5",
+   "t": "Heh, with me?"
+  },
+  {
+   "i": 1646,
+   "src": "51d8c0404452",
+   "t": "Of course, I'll be your {{opponent}}."
+  }
+ ]
+}

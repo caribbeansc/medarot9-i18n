@@ -1,0 +1,53 @@
+{
+ "rel": "story/mdl/m334.bcmdl",
+ "tex": "m334_board",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "hfill"
+ },
+ "items": [
+  {
+   "erase_box": [
+    24,
+    21,
+    33,
+    25
+   ],
+   "text": ""
+  },
+  {
+   "erase_box": [
+    64,
+    21,
+    33,
+    30
+   ],
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    20,
+    68,
+    30
+   ],
+   "erase": "none",
+   "text": "SUMMIT",
+   "font": "hiragino-heavy",
+   "cap": 19,
+   "fill": {
+    "top": "#D4D4D6",
+    "bottom": "#A6A6A8"
+   },
+   "stroke": null,
+   "pad": 0,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 2,
+    "color": "#1A1616",
+    "opacity": 0.9
+   }
+  }
+ ]
+}

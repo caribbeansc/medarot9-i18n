@@ -1,0 +1,190 @@
+{
+ "file": "story/spt/f01_000_110_00_t010.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1047,
+   "src": "d584f272c7ed",
+   "t": "Ya está encendido."
+  },
+  {
+   "i": 1050,
+   "src": "bfa15b8f44e7",
+   "t": "Salúdalo."
+  },
+  {
+   "i": 1058,
+   "src": "e901b1fe0b90",
+   "t": "Pero..."
+  },
+  {
+   "i": 1066,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1072,
+   "src": "38e28d6d267b",
+   "t": "Apúrate."
+  },
+  {
+   "i": 1083,
+   "src": "af6c510cb0fe",
+   "t": "¡S-sí, señor!"
+  },
+  {
+   "i": 1094,
+   "src": "6388ef497c34",
+   "t": "¿H-hola?"
+  },
+  {
+   "i": 1102,
+   "src": "418583960db8",
+   "t": "No es así, este..."
+  },
+  {
+   "i": 1117,
+   "src": "675cf99f5f85",
+   "t": "¡Mucho gusto!"
+  },
+  {
+   "i": 1141,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1147,
+   "src": "b6c887e5e3d8",
+   "t": "¿Hmm?"
+  },
+  {
+   "i": 1158,
+   "src": "6363f7b619a3",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1164,
+   "src": "ccddf39603f6",
+   "t": "¿Hmmm?"
+  },
+  {
+   "i": 1175,
+   "src": "f1b4cd066cc8",
+   "t": "¿Quién rayos eres tú?"
+  },
+  {
+   "i": 1181,
+   "src": "a62d5cde7a00",
+   "t": "¿Quién eres tú?"
+  },
+  {
+   "i": 1190,
+   "src": "07ed5fbc3afd",
+   "t": "Me llamo "
+  },
+  {
+   "i": 1192,
+   "src": "3ca34346e6ec",
+   "t": "."
+  },
+  {
+   "i": 1203,
+   "src": "546ceb92cb14",
+   "t": "Tu... este..."
+  },
+  {
+   "i": 1224,
+   "src": "4e1749a53464",
+   "t": "Soy tu {{master}}."
+  },
+  {
+   "i": 1243,
+   "src": "5674c27ae485",
+   "t": "¿Maestro?"
+  },
+  {
+   "i": 1259,
+   "src": "91377b3d23e1",
+   "t": "¿...Maestro?"
+  },
+  {
+   "i": 1275,
+   "src": "b8b63025d128",
+   "t": "¿Qué es eso?"
+  },
+  {
+   "i": 1283,
+   "src": "6e860ddb57d6",
+   "t": "{{master|cap}} significa, bueno, este..."
+  },
+  {
+   "i": 1291,
+   "src": "d38f18ef8ffd",
+   "t": "¡Tu amigo!"
+  },
+  {
+   "i": 1296,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1302,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1328,
+   "src": "aa334e42a289",
+   "t": "¿Qué es un amigo?"
+  },
+  {
+   "i": 1334,
+   "src": "6cf73747a4c0",
+   "t": "¿Qué es exactamente un amigo?"
+  },
+  {
+   "i": 1343,
+   "src": "626a2f4bdc22",
+   "t": "Un amigo es, pues...~"
+  },
+  {
+   "i": 1351,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1359,
+   "src": "2fa04bd083c5",
+   "t": "B-bueno, te lo contaré después."
+  },
+  {
+   "i": 1362,
+   "src": "6f72a740b3f4",
+   "t": "En fin..."
+  },
+  {
+   "i": 1377,
+   "src": "e3d43fa764f0",
+   "t": "¡Mucho gusto!"
+  },
+  {
+   "i": 1380,
+   "src": "6f6107a90532",
+   "t": "Este..."
+  },
+  {
+   "i": 1385,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1391,
+   "src": "95ee57ee1025",
+   "t": "Ponle un nombre."
+  }
+ ]
+}

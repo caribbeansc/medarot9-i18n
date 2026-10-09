@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc02_000_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "1a1a10fef636",
+   "t": "Wha-"
+  },
+  {
+   "i": 1041,
+   "src": "e32b994acf3b",
+   "t": "What do you want?"
+  },
+  {
+   "i": 1049,
+   "src": "b3ce49dcdf38",
+   "t": "Me?"
+  },
+  {
+   "i": 1052,
+   "src": "806d699f62e5",
+   "t": "I, um, j-just..."
+  },
+  {
+   "i": 1060,
+   "src": "7d8c99cfa2a8",
+   "t": "Right! I was thinking. I was a little"
+  },
+  {
+   "i": 1063,
+   "src": "abdc7af8e8ad",
+   "t": "spaced out on my way back to the\ndorm--"
+  },
+  {
+   "i": 1081,
+   "src": "daa69990930e",
+   "t": "What?"
+  },
+  {
+   "i": 1084,
+   "src": "ee62eaa52436",
+   "t": "I don't matter to you anyway."
+  },
+  {
+   "i": 1092,
+   "src": "784956ade281",
+   "t": "Hurry up and find "
+  },
+  {
+   "i": 1094,
+   "src": "89bb9a7ab885",
+   "t": ", find it, okay!"
+  }
+ ]
+}

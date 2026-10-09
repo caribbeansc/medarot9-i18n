@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_02_02_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "The {{mission}} we're on now is"
+  },
+  {
+   "i": 1004,
+   "src": "d052cfdd409d",
+   "t": "'{{medalia}}: {{mine_ruins}}'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Check the mission app for more details."
+  }
+ ]
+}

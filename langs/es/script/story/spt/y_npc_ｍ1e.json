@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_ｍ1e.spt",
+ "lines": [
+  {
+   "i": 1515,
+   "src": "01e9608e9448",
+   "t": "¡Hagamos una {{robattle}}!"
+  },
+  {
+   "i": 1520,
+   "src": "5a91b5f27def",
+   "t": "{{boy_1_e}}"
+  },
+  {
+   "i": 1526,
+   "src": "9e20da738db7",
+   "t": "¡A resolver esto!"
+  }
+ ]
+}

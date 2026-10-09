@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_23.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e4269b7d7ee3",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{auto_charge}}\nTras la acción de cada\n{{part}} la {{charge_gauge}}\naumenta 5%."
+  }
+ ]
+}

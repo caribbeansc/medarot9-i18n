@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_89.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "121e9246d49f",
+   "t": "<c:00ff00>Técnica:<c>{{field_control}}\nPor un tiempo, mejora la\n{{terrain_affinity}} de las\n{{legs}} de todo el equipo,\nsea cual sea el {{field}}.\nFija el límite pesado en 3."
+  }
+ ]
+}

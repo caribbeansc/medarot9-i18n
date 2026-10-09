@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_3e2_meda_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3456179ce831",
+   "t": "{{chugen_hao}}"
+  },
+  {
+   "i": 1035,
+   "src": "1a33205f294a",
+   "t": "Estoy aburrido."
+  }
+ ]
+}

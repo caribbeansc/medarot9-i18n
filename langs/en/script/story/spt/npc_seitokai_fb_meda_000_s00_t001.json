@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_seitokai_fb_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "a7dc79720d9d",
+   "t": "FlapperKung-Fu"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  }
+ ]
+}

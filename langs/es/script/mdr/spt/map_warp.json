@@ -1,0 +1,75 @@
+{
+ "file": "mdr/spt/map_warp.spt",
+ "lines": [
+  {
+   "i": 1234,
+   "src": "2b1812577d2f",
+   "t": "{{class_1_c|cap}}"
+  },
+  {
+   "i": 1244,
+   "src": "71fd3356bde9",
+   "t": "{{shop|cap}}"
+  },
+  {
+   "i": 1254,
+   "src": "b888e3c02c35",
+   "t": "{{infirmary|cap}}    "
+  },
+  {
+   "i": 1264,
+   "src": "2cf9ed9d053e",
+   "t": "Dirección"
+  },
+  {
+   "i": 1274,
+   "src": "b0dfea91e671",
+   "t": "Subdirección"
+  },
+  {
+   "i": 1284,
+   "src": "378c99ec5184",
+   "t": "Sala del Consejo    "
+  },
+  {
+   "i": 1294,
+   "src": "5ef9e3e0c8b8",
+   "t": "Sala Prof. "
+  },
+  {
+   "i": 1310,
+   "src": "15f9e671a6a0",
+   "t": "{{club|cap}} Explorac.  "
+  },
+  {
+   "i": 1320,
+   "src": "6ccf4614da83",
+   "t": "Club {{medabot}}"
+  },
+  {
+   "i": 1330,
+   "src": "90d2b5be1978",
+   "t": "{{club|cap}} Resc. "
+  },
+  {
+   "i": 1340,
+   "src": "1fc6dd49959f",
+   "t": "{{idol_club}}"
+  },
+  {
+   "i": 1350,
+   "src": "3d88ede28094",
+   "t": "{{locker_room|cap}}"
+  },
+  {
+   "i": 1360,
+   "src": "7881c883c8b0",
+   "t": "Por definir"
+  },
+  {
+   "i": 1370,
+   "src": "7881c883c8b0",
+   "t": "Por definir"
+  }
+ ]
+}

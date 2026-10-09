@@ -1,0 +1,115 @@
+{
+ "file": "battle/spt/tuto_02_000.spt",
+ "lines": [
+  {
+   "i": 1131,
+   "src": "45682ab66b4f",
+   "t": "¡Uy! ¡Son tres enemigos!\n¿¡Y ahora qué hago!?"
+  },
+  {
+   "i": 1144,
+   "src": "f54d397bdc4f",
+   "t": "Regla básica: deja {{knocked_out}}\nal {{leader}} {{opponent}} y ganas.                               "
+  },
+  {
+   "i": 1153,
+   "src": "7bb4bb291966",
+   "t": "Regla básica: dejar {{knocked_out}}\nal {{leader}} {{opponent}} da la {{victory}}.                  "
+  },
+  {
+   "i": 1159,
+   "src": "853d5d03fe72",
+   "t": "Al empezar la {{robattle}} no sabes\nqué {{medabot}} {{opponent}} es el {{leader}}, pero...                  "
+  },
+  {
+   "i": 1164,
+   "src": "eb7d653c6a1f",
+   "t": "Dañando su {{head_part}}\npuedes saber si es el {{leader}}.   "
+  },
+  {
+   "i": 1179,
+   "src": "458af514dc89",
+   "t": "¡Al hallar al Medabot líder, la marca\n\"LEADER\" aparece en la pantalla!        "
+  },
+  {
+   "i": 1183,
+   "src": "308ac9ae33a2",
+   "t": "Al hallar al Medabot líder, la marca\n\"LEADER\" se enciende en la pantalla.   "
+  },
+  {
+   "i": 1197,
+   "src": "bda10be39eee",
+   "t": "Dañas la {{head}} para hallar al {{leader}},\nlo dejas {{knocked_out}} y ganas, ¿no?   "
+  },
+  {
+   "i": 1210,
+   "src": "afff4be20fa4",
+   "t": "Mi {{head_part_slot}} \"<c:ff00ff>{{meta_msl}}<c>\" puede dañar\ntodas las {{part|pl}} del {{opponent}}.        "
+  },
+  {
+   "i": 1215,
+   "src": "4b91f85b73ab",
+   "t": "¡Primero usaré \"{{meta_msl}}\" para\nidentificar al {{leader}}!               "
+  },
+  {
+   "i": 1226,
+   "src": "ca54b85790d2",
+   "t": "Mi {{head_part_slot}} \"{{anten}}\" puede subir\nel {{success}} de los ataques.       "
+  },
+  {
+   "i": 1231,
+   "src": "1aa217a41b37",
+   "t": "Primero usaré \"{{anten}}\" y luego\nderrotaré al {{enemy}} sin falta. "
+  },
+  {
+   "i": 1376,
+   "src": "186833e3d05c",
+   "t": "¡Ahora toca elegir una {{attack_part}}!   "
+  },
+  {
+   "i": 1385,
+   "src": "4ffa8c18993f",
+   "t": "¡Ya te dije que usaras \"{{anten}}\"!"
+  },
+  {
+   "i": 1424,
+   "src": "4ffa8c18993f",
+   "t": "¡Ya te dije que usaras \"{{anten}}\"!"
+  },
+  {
+   "i": 1462,
+   "src": "e5ee0fd0e762",
+   "t": "¡Usa {{meta_msl}}!     "
+  },
+  {
+   "i": 1506,
+   "src": "9aca370a68f7",
+   "t": "¿¡A qué {{medabot}} ataco!?        "
+  },
+  {
+   "i": 1522,
+   "src": "a2ba5cc96640",
+   "t": "Puedes cambiar el <c:ff00ff>{{target}}<c> del ataque\ncon izquierda y derecha de la <c:ff00ff>cruceta<c>.            "
+  },
+  {
+   "i": 1527,
+   "src": "08c00dd4fb1a",
+   "t": "¡Elige {{target}} por su {{armor}} y orden\nde acción! ¡Confirma con el botón $*!            "
+  },
+  {
+   "i": 1532,
+   "src": "6657161d87f0",
+   "t": "¡Bueno, esta vez el {{leader}} debe ser\nel del medio! ¡Apunta a ese!   "
+  },
+  {
+   "i": 1719,
+   "src": "96857e7b6256",
+   "t": "¡Apunta al del medio!         "
+  },
+  {
+   "i": 1728,
+   "src": "96857e7b6256",
+   "t": "¡Apunta al del medio!         "
+  }
+ ]
+}

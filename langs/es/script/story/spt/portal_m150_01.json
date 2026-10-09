@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/portal_m150_01.spt",
+ "lines": [
+  {
+   "i": 1375,
+   "src": "f3190877d2a9",
+   "t": "¿Buscar en el cuarto?"
+  },
+  {
+   "i": 1376,
+   "src": "981eed5f69d8",
+   "t": "Ir"
+  },
+  {
+   "i": 1377,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  },
+  {
+   "i": 1384,
+   "src": "d9c7a4c417d3",
+   "t": "¿Volver a tu cuarto?"
+  },
+  {
+   "i": 1385,
+   "src": "981eed5f69d8",
+   "t": "Ir"
+  },
+  {
+   "i": 1386,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  },
+  {
+   "i": 1391,
+   "src": "d3e89dd94333",
+   "t": "Cancelar"
+  }
+ ]
+}

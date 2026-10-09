@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f01_130_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1045,
+   "src": "801adc8e33c8",
+   "t": "Well."
+  },
+  {
+   "i": 1048,
+   "src": "e0b4f36a2ada",
+   "t": "If I remember right, you're..."
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1071,
+   "src": "eb2bdbf68fc5",
+   "t": "Well, well, Madam Council President."
+  },
+  {
+   "i": 1074,
+   "src": "92cf391fe59e",
+   "t": "Lots of visitors today, huh."
+  },
+  {
+   "i": 1079,
+   "src": "9840eb535cc5",
+   "t": "So, what'll it be today?"
+  },
+  {
+   "i": 1086,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1095,
+   "src": "177effb4fca9",
+   "t": "I doubt it, but are you..."
+  },
+  {
+   "i": 1100,
+   "src": "e0e0b0f3a68d",
+   "t": "planning to {{join_the_club}}?"
+  },
+  {
+   "i": 1114,
+   "src": "54916a17c3fa",
+   "t": "Huh?"
+  },
+  {
+   "i": 1126,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1132,
+   "src": "f60b4ea69be7",
+   "t": "As a matter of fact, yes, ha ha."
+  },
+  {
+   "i": 1143,
+   "src": "ad1e2177f27d",
+   "t": "Huh? What?"
+  },
+  {
+   "i": 1148,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1157,
+   "src": "7a0ec48f81b8",
+   "t": "Oh... Well, I suppose that's fine?"
+  },
+  {
+   "i": 1160,
+   "src": "faf8a7231548",
+   "t": "You two make a good pair."
+  },
+  {
+   "i": 1167,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1176,
+   "src": "73cda6cffb9b",
+   "t": "Right~?"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc01_meda_161_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9df26106b0f4",
+   "t": "Hey "
+  },
+  {
+   "i": 1036,
+   "src": "610e9bd6f061",
+   "t": "I'm counting on you for tomorrow's\ninterview."
+  },
+  {
+   "i": 1063,
+   "src": "432ba9c1264a",
+   "t": "For what?"
+  },
+  {
+   "i": 1069,
+   "src": "1ea3389b1337",
+   "t": "What are you asking of me?"
+  },
+  {
+   "i": 1078,
+   "src": "b8193a32bb07",
+   "t": "Depending on the result, I might lose my"
+  },
+  {
+   "i": 1081,
+   "src": "f2e41027cdc8",
+   "t": "summer vacation. So..."
+  },
+  {
+   "i": 1100,
+   "src": "3a0977f899d1",
+   "t": "No summer vacation?"
+  },
+  {
+   "i": 1103,
+   "src": "0dfe0f5d63af",
+   "t": "That would be a problem, so I'll do it."
+  },
+  {
+   "i": 1124,
+   "src": "99a7f7c9691f",
+   "t": "So, what should I do?"
+  },
+  {
+   "i": 1130,
+   "src": "f8c4c69aa014",
+   "t": "So, what must this humble one do?"
+  },
+  {
+   "i": 1139,
+   "src": "e3e9848937c8",
+   "t": "Hmm..."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_rescue_meda_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a6e23e611714",
+   "t": "{{kongo}}"
+  },
+  {
+   "i": 1038,
+   "src": "db80b5854a81",
+   "t": "Lo que dice el jefe,"
+  },
+  {
+   "i": 1041,
+   "src": "80f51e5320fb",
+   "t": "no te preocupes tanto."
+  },
+  {
+   "i": 1049,
+   "src": "ca49facec6fc",
+   "t": "Suena duro, pero solo es serio."
+  },
+  {
+   "i": 1052,
+   "src": "a7cf3eae5fbf",
+   "t": "No está enojado ni nada así."
+  }
+ ]
+}

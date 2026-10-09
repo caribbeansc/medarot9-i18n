@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_2c_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1038,
+   "src": "1bf6a2a2db65",
+   "t": "Ah,"
+  },
+  {
+   "i": 1041,
+   "src": "34ad2359aebd",
+   "t": "recorres los clubes para conocerlos."
+  },
+  {
+   "i": 1049,
+   "src": "ae2038a3f0cb",
+   "t": "Debe ser duro en esta época."
+  },
+  {
+   "i": 1052,
+   "src": "d729fef80de8",
+   "t": "Los clubes populares ya están llenos."
+  },
+  {
+   "i": 1060,
+   "src": "95fa55d35241",
+   "t": "¿...Eh? ¿El nuestro?"
+  },
+  {
+   "i": 1063,
+   "src": "8a45495aeebe",
+   "t": "Claro, siempre reclutamos, ajaja."
+  },
+  {
+   "i": 1071,
+   "src": "24bdfd47510e",
+   "t": "Suspiro..."
+  }
+ ]
+}

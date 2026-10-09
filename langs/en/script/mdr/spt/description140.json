@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description140.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "671140553d22",
+   "t": "{{conditional_robattle}}"
+  },
+  {
+   "i": 11,
+   "src": "963fdcec7ac1",
+   "t": "A <c:ffff00>{{robattle}}<c> with special conditions that differ from\nthe normal <c:ffff00>{{basic_rules}}<c>.\n\nIf there are entry conditions, <c:ffff00>{{medabot|pl}}<c> that don't\nmeet them can't be sent out.\n\nIf there are conditions for deciding victory or defeat,\nmeeting only the victory {{condition_rotation}} of the {{basic_rules}}\nis not enough to win."
+  }
+ ]
+}

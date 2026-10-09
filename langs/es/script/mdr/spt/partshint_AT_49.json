@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_49.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fb3f15c6e84f",
+   "t": "<c:00ff00>Técnica:<c>{{virus}}\nAtaque de {{fighting}} que\naplica el {{status}} {{virus}}.\n<c:00ffff>{{status|cap}}:<c>{{virus}}\n{{cannot_evade|cap}} hasta\nterminar la {{prep}} o el\n{{cooldown}}. Si lo\ngolpean cargando o en\nespera, falla su acción."
+  }
+ ]
+}

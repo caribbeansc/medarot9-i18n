@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f08_110_339_00_t023.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1036,
+   "src": "d6227042c8c4",
+   "t": "-kun is calling you."
+  },
+  {
+   "i": 1039,
+   "src": "251c8eb99b13",
+   "t": "Why don't you go see?"
+  }
+ ]
+}

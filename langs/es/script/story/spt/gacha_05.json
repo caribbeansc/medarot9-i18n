@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/gacha_05.spt",
+ "lines": [
+  {
+   "i": 1295,
+   "src": "5f5127ef48f8",
+   "t": "¡Es una {{medagacha}}!"
+  },
+  {
+   "i": 1303,
+   "src": "f1456ad2aef6",
+   "t": "¿Qué hago?"
+  },
+  {
+   "i": 1304,
+   "src": "9d27f405a4a7",
+   "t": "Hacerlo"
+  },
+  {
+   "i": 1305,
+   "src": "eb5532fe54eb",
+   "t": "No hacerlo"
+  },
+  {
+   "i": 1309,
+   "src": "9d27f405a4a7",
+   "t": "Hacerlo"
+  },
+  {
+   "i": 1320,
+   "src": "eb5532fe54eb",
+   "t": "No hacerlo"
+  },
+  {
+   "i": 1326,
+   "src": "529e3e745130",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1329,
+   "src": "76d74c0b1b9e",
+   "t": "Mejor lo dejo."
+  }
+ ]
+}

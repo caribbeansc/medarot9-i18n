@@ -1,0 +1,138 @@
+{
+ "rel": "mdr/tex/cp1_txt_win.ctpk",
+ "base": "jp",
+ "styles": {
+  "cartel": {
+   "font": "avenir-cond-heavy-italic",
+   "italic_skew": 0.3,
+   "pad": 0,
+   "min_scale_x": 0.7
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    228,
+    99
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    229,
+    0,
+    128,
+    92
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "cartel",
+   "box": [
+    2,
+    2,
+    224,
+    96
+   ],
+   "erase": "none",
+   "text": "VICTORIA",
+   "cap": 46,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#0B2F00"
+     ],
+     [
+      0.15,
+      "#1F6A08"
+     ],
+     [
+      0.33,
+      "#55C22A"
+     ],
+     [
+      0.46,
+      "#C4FF3E"
+     ],
+     [
+      0.5,
+      "#F4FFD8"
+     ],
+     [
+      0.53,
+      "#3FA81B"
+     ],
+     [
+      0.75,
+      "#7BE038"
+     ],
+     [
+      1,
+      "#D8FF70"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#F2FFF8",
+     "w": 1.5
+    },
+    {
+     "color": "#19D86A",
+     "w": 2
+    }
+   ],
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 2,
+     "color": "#021A0A",
+     "blur": 4,
+     "opacity": 0.6
+    },
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#19D86A",
+     "blur": 2,
+     "opacity": 0.7
+    }
+   ],
+   "rotate": 6
+  },
+  {
+   "style": "cartel",
+   "box": [
+    235,
+    0,
+    116,
+    91
+   ],
+   "erase": "none",
+   "text": "VICTORIA",
+   "italic_skew": 0.15,
+   "rotate": 12,
+   "size": 64.788732,
+   "scale_x": 0.356936,
+   "fill": "#FFFFFF00",
+   "strokes": [
+    {
+     "color": "#FFFFFF00",
+     "w": 2.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#DDFFF0",
+    "blur": 3,
+    "opacity": 0.9
+   }
+  }
+ ]
+}

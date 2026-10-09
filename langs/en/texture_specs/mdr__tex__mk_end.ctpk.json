@@ -1,0 +1,32 @@
+{
+ "rel": "mdr/tex/mk_end.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    128,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    2,
+    120,
+    28
+   ],
+   "erase": "none",
+   "text": "END",
+   "font": "sf-rounded",
+   "cap": 25,
+   "tracking": 5,
+   "pad": 0,
+   "fill": "#FFFFFF",
+   "stroke": null
+  }
+ ]
+}

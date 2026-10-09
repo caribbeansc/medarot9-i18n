@@ -1,0 +1,185 @@
+{
+ "file": "story/spt/f05_090_154_00_t012.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1047,
+   "src": "d1809f2760b5",
+   "t": "You're loud and distracting."
+  },
+  {
+   "i": 1065,
+   "src": "d53d7a8e173b",
+   "t": "Please be quiet!"
+  },
+  {
+   "i": 1072,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1078,
+   "src": "7498d1e46398",
+   "t": "Huh?"
+  },
+  {
+   "i": 1089,
+   "src": "c8a2b39f704f",
+   "t": "Are you one to talk?"
+  },
+  {
+   "i": 1092,
+   "src": "422ffc43d986",
+   "t": "After setting up that booby trap, how\ndare you--"
+  },
+  {
+   "i": 1099,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1108,
+   "src": "abd28222a226",
+   "t": "Now, now, {{mio}}-kun, calm down."
+  },
+  {
+   "i": 1111,
+   "src": "306658d6200c",
+   "t": "More importantly, um..."
+  },
+  {
+   "i": 1122,
+   "src": "9868dfe05bd8",
+   "t": "You're {{main}}-chan, right?"
+  },
+  {
+   "i": 1139,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1148,
+   "src": "4fdb21beed09",
+   "t": "Yes, I'm {{main}}."
+  },
+  {
+   "i": 1151,
+   "src": "00edd2bd7858",
+   "t": "You're the {{exploration_club}} president."
+  },
+  {
+   "i": 1158,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1167,
+   "src": "5e7b2a36f09f",
+   "t": "So you know who I am."
+  },
+  {
+   "i": 1174,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1183,
+   "src": "eccb61f5632c",
+   "t": "We fought in the second round\nof the {{robattle}} Tournament."
+  },
+  {
+   "i": 1190,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1199,
+   "src": "cbd56345b8e5",
+   "t": "Second round? Who did we face again?"
+  },
+  {
+   "i": 1202,
+   "src": "62f0ddd2b252",
+   "t": "Ah... the Medabot Research Club, I see."
+  },
+  {
+   "i": 1209,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1218,
+   "src": "29ea8facacf3",
+   "t": "Why did you come here?"
+  },
+  {
+   "i": 1221,
+   "src": "040d1cfc29ce",
+   "t": "Did you notice the missing {{part|pl}}?"
+  },
+  {
+   "i": 1235,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1244,
+   "src": "d380e91a0a50",
+   "t": "Correct."
+  },
+  {
+   "i": 1251,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1260,
+   "src": "a178faed932c",
+   "t": "I borrowed them for a bit."
+  },
+  {
+   "i": 1263,
+   "src": "75b6209b6b63",
+   "t": "I will return them soon."
+  },
+  {
+   "i": 1270,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1279,
+   "src": "c859d70fac92",
+   "t": "Why did you do something like that?"
+  },
+  {
+   "i": 1286,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1295,
+   "src": "6138fbbb4600",
+   "t": "In the match, my prediction and the\nresult differed."
+  },
+  {
+   "i": 1298,
+   "src": "452a37e06f18",
+   "t": "I borrowed them to find out why."
+  },
+  {
+   "i": 1313,
+   "src": "dc651fed5869",
+   "t": "But I examined them and learned\nnothing."
+  },
+  {
+   "i": 1316,
+   "src": "ac01573b54a7",
+   "t": "There was no difference in the {{part|pl}}."
+  }
+ ]
+}

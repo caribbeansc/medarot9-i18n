@@ -1,0 +1,250 @@
+{
+ "file": "story/spt/f09_110_112_00_t011.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1042,
+   "src": "e10e2c2fbd0e",
+   "t": "Now then, about that--"
+  },
+  {
+   "i": 1050,
+   "src": "442ce51615f5",
+   "t": "No, let me ask you something first."
+  },
+  {
+   "i": 1053,
+   "src": "847295abbdbd",
+   "t": "You said \"harbor\" just now, didn't you?"
+  },
+  {
+   "i": 1061,
+   "src": "3d754e52e478",
+   "t": "Did something happen at the harbor?"
+  },
+  {
+   "i": 1071,
+   "src": "a743c2ac2de3",
+   "t": "Huh..."
+  },
+  {
+   "i": 1079,
+   "src": "381904b40f7c",
+   "t": "But you were at the harbor too,\nVice-Principal."
+  },
+  {
+   "i": 1082,
+   "src": "1766846bb1a2",
+   "t": "I'm sure you know..."
+  },
+  {
+   "i": 1087,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1093,
+   "src": "dc439eed2de5",
+   "t": "Me?"
+  },
+  {
+   "i": 1096,
+   "src": "4fa5ae8674ab",
+   "t": "Could you be mistaken?"
+  },
+  {
+   "i": 1111,
+   "src": "8a221303d1b4",
+   "t": "That can't be. I saw you clearly."
+  },
+  {
+   "i": 1114,
+   "src": "407a26821003",
+   "t": "You were with that group in black--"
+  },
+  {
+   "i": 1132,
+   "src": "4d255cbaa831",
+   "t": "Please tell me."
+  },
+  {
+   "i": 1135,
+   "src": "0034ed44a321",
+   "t": "Who are those guys?"
+  },
+  {
+   "i": 1143,
+   "src": "fca922a77c7a",
+   "t": "Right, I think... they called themselves\nthe {{rubberobo_gang}}..."
+  },
+  {
+   "i": 1146,
+   "src": "1e2fb481feaa",
+   "t": "{{saika}} seemed to be the {{leader}}."
+  },
+  {
+   "i": 1159,
+   "src": "aa26413eae59",
+   "t": "{{metabee}} got beaten by them, and then\nthey"
+  },
+  {
+   "i": 1162,
+   "src": "b612f741356c",
+   "t": "opened a huge door and went inside--"
+  },
+  {
+   "i": 1168,
+   "src": "8509a27fb5e5",
+   "t": "{{rokusho}} got beaten by them, and then\nthey"
+  },
+  {
+   "i": 1171,
+   "src": "b612f741356c",
+   "t": "opened a huge door and went inside--"
+  },
+  {
+   "i": 1190,
+   "src": "50bf6f0f6aeb",
+   "t": "S-sorry."
+  },
+  {
+   "i": 1193,
+   "src": "8dadb051ca02",
+   "t": "So much happened that I can't explain it\nwell..."
+  },
+  {
+   "i": 1213,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1221,
+   "src": "6e4764cb7fd9",
+   "t": "I understand."
+  },
+  {
+   "i": 1224,
+   "src": "89e7b129d638",
+   "t": "Leave the rest to me."
+  },
+  {
+   "i": 1232,
+   "src": "a743c2ac2de3",
+   "t": "Huh..."
+  },
+  {
+   "i": 1237,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1243,
+   "src": "e12261007687",
+   "t": "I understand you're confused by\neverything you saw and heard."
+  },
+  {
+   "i": 1246,
+   "src": "7e8f74a881bc",
+   "t": "But there's nothing for you to worry\nabout."
+  },
+  {
+   "i": 1254,
+   "src": "c0e51032e3ab",
+   "t": "The men in black-- they're connected to\nthe {{wmss}} {{conglomerate}}."
+  },
+  {
+   "i": 1257,
+   "src": "15dc291e54b0",
+   "t": "We're aware of their activities, too."
+  },
+  {
+   "i": 1265,
+   "src": "4b17d05b1b6f",
+   "t": "T-then--"
+  },
+  {
+   "i": 1277,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1283,
+   "src": "2bde03bcc4b7",
+   "t": "In other words, there's no problem at\nall."
+  },
+  {
+   "i": 1291,
+   "src": "491f1e86a66a",
+   "t": "Go on living your normal student life."
+  },
+  {
+   "i": 1294,
+   "src": "7c130c87201b",
+   "t": "Don't cause needless commotion and\nworry everyone."
+  },
+  {
+   "i": 1302,
+   "src": "e72fc274e0bd",
+   "t": "Isn't today the sports\nfestival?"
+  },
+  {
+   "i": 1320,
+   "src": "5ef4008153c4",
+   "t": "It's strange."
+  },
+  {
+   "i": 1325,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1331,
+   "src": "33b288070521",
+   "t": "What is?"
+  },
+  {
+   "i": 1339,
+   "src": "07ee5b1b8c48",
+   "t": "{{saika}} said"
+  },
+  {
+   "i": 1342,
+   "src": "acb4bd5f4db8",
+   "t": "it was all thanks to the detection\nsystem."
+  },
+  {
+   "i": 1347,
+   "src": "55af011d6889",
+   "t": "Vice-Principal"
+  },
+  {
+   "i": 1353,
+   "src": "7c5f89e438a5",
+   "t": "!?"
+  },
+  {
+   "i": 1361,
+   "src": "ee92f9754a89",
+   "t": "That..."
+  },
+  {
+   "i": 1364,
+   "src": "e296414eb2db",
+   "t": "That's the detection {{app}} our Exploration\n{{club|cap}} made, right?"
+  },
+  {
+   "i": 1372,
+   "src": "428634407745",
+   "t": "You said they're connected to the\n{{conglomerate}}, didn't you?"
+  },
+  {
+   "i": 1375,
+   "src": "3e4ffa9b16c6",
+   "t": "Which means that {{app}}--"
+  }
+ ]
+}

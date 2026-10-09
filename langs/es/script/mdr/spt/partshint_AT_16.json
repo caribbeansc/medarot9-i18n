@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_16.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0268ad24d4a4",
+   "t": "<c:00ff00>Técnica:<c>Slip\nAtaque de {{shooting}} que\ninterrumpe la acción si da\nen las {{legs}} de un {{opponent}}\nque {{prep}} o espera.\nSi da en otra {{part}}, es un\nataque normal."
+  }
+ ]
+}

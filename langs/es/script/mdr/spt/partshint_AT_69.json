@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_69.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c20538daff0f",
+   "t": "<c:00ff00>Técnica:<c>Anti-{{cg}}\nAtaque cuerpo a cuerpo\nque suma al poder el\ndoble de la carga del {{opponent}}.\nTiene {{effect}} perforante."
+  }
+ ]
+}

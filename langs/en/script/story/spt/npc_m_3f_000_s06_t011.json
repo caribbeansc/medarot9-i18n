@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3f_000_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1038,
+   "src": "97b773d89073",
+   "t": "Summer means beach, but"
+  },
+  {
+   "i": 1041,
+   "src": "43bbe1418739",
+   "t": "the strays out there have been weirdly\naggressive."
+  },
+  {
+   "i": 1049,
+   "src": "e84c3a4edc5a",
+   "t": "Can't even lie down in peace."
+  },
+  {
+   "i": 1052,
+   "src": "30091c1ebcff",
+   "t": "Before you know it, it's a {{robattle}}\ntournament!"
+  }
+ ]
+}

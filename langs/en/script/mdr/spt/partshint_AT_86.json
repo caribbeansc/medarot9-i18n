@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_86.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d478938f2ac4",
+   "t": "<c:00ff00>Action:<c> {{mobile_boost}}\nFor a while, raises the\n{{mobility}} of the leg {{part|pl}} of\nyour whole team.\nUsing it again during the\n{{mobile_boost}} {{effect}}\nmakes the {{effect}}\nstronger."
+  }
+ ]
+}

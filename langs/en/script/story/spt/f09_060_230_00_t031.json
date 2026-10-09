@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f09_060_230_00_t031.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1052,
+   "src": "2e8cbc8012d7",
+   "t": "Geez~!"
+  },
+  {
+   "i": 1073,
+   "src": "d3345873ea9c",
+   "t": "...Oh."
+  },
+  {
+   "i": 1076,
+   "src": "5b4d2e22d386",
+   "t": "Still here?"
+  },
+  {
+   "i": 1087,
+   "src": "b19faa0b035b",
+   "t": "Tell me."
+  },
+  {
+   "i": 1090,
+   "src": "894da7f48949",
+   "t": "Who are you-- who exactly are you\npeople?"
+  },
+  {
+   "i": 1103,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1114,
+   "src": "28e79180fbc2",
+   "t": "The {{rubberobo_gang}}."
+  },
+  {
+   "i": 1125,
+   "src": "bb61ca211625",
+   "t": "Rubberobo...?"
+  },
+  {
+   "i": 1130,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1139,
+   "src": "a193f052d64f",
+   "t": "My name is {{saika}}."
+  },
+  {
+   "i": 1142,
+   "src": "1812fe36f43e",
+   "t": "Being a {{transfer_student}} was just a\ndisguise!"
+  },
+  {
+   "i": 1150,
+   "src": "33a8b7fc1322",
+   "t": "My true identity is--"
+  }
+ ]
+}

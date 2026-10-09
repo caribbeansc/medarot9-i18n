@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1d_500_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "Hey, "
+  },
+  {
+   "i": 1040,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1043,
+   "src": "f9c9ebf73a46",
+   "t": "Did you come fishing, too?"
+  },
+  {
+   "i": 1051,
+   "src": "eaba75afcb76",
+   "t": "Fishing is great, isn't it?"
+  },
+  {
+   "i": 1054,
+   "src": "4512d16e2e33",
+   "t": "I love fish!"
+  },
+  {
+   "i": 1062,
+   "src": "ff8f6fe02d0f",
+   "t": "Boiled or grilled, it's delicious."
+  },
+  {
+   "i": 1065,
+   "src": "af2ff7879fc8",
+   "t": "And of course I love sashimi, too!"
+  }
+ ]
+}

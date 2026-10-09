@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1c2_meda_500_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a7ad52b5077c",
+   "t": "{{one_stroke}}"
+  },
+  {
+   "i": 1038,
+   "src": "0209b52274da",
+   "t": "¿Por qué les gustan los veleros?"
+  },
+  {
+   "i": 1041,
+   "src": "78062517a581",
+   "t": "Si los humanos pueden nadar."
+  }
+ ]
+}

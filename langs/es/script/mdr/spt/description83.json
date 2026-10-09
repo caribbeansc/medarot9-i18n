@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description83.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d555fd3831e8",
+   "t": "Estilo robobatalla"
+  },
+  {
+   "i": 11,
+   "src": "dc68a7dd77bb",
+   "t": "La tendencia y el rol adecuados en la <c:ffff00>{{robattle}}<c>,\ndistintos en cada <c:ffff00>{{medal}}<c>. Se puede decir que es la\n\"personalidad\" del {{medabot}}.\n\nHay 6 estilos: <c:ffff00>{{power_style}}<c>, <c:ffff00>{{speed}}<c>, <c:ffff00>{{hunter}}<c>,\n<c:ffff00>{{sniper}}<c>, <c:ffff00>{{guard}}<c> y <c:ffff00>{{assist}}<c>.\nCada uno difiere en los <c:ffff00>rendimientos<c> que suben y\nen la {{condition_rotation}} para llenar la <c:ffff00>{{charge_gauge}}<c>."
+  }
+ ]
+}

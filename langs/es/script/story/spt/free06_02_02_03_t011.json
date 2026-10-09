@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/free06_02_02_03_t011.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "c1a739c111f7",
+   "t": "Ah, una señal..."
+  },
+  {
+   "i": 1046,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1052,
+   "src": "20dea4386195",
+   "t": "Se ven las viejas ruinas de la {{mine}} allá\nabajo, junto al risco."
+  },
+  {
+   "i": 1069,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1078,
+   "src": "e538f3ada9fd",
+   "t": "Oye, ¿vas a ir hasta allá?"
+  },
+  {
+   "i": 1081,
+   "src": "df526fadb711",
+   "t": "¿¡Cómo!?"
+  },
+  {
+   "i": 1091,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1097,
+   "src": "d741a101b3c3",
+   "t": "Hay una cuerda."
+  },
+  {
+   "i": 1100,
+   "src": "1d468775deaa",
+   "t": "Usándola se puede bajar con seguridad."
+  },
+  {
+   "i": 1117,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1123,
+   "src": "ea72a3274ac5",
+   "t": "Esa cuerda... ¿es de la época minera?"
+  },
+  {
+   "i": 1126,
+   "src": "21e33e66370a",
+   "t": "¿La de hace varias décadas?"
+  },
+  {
+   "i": 1133,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1139,
+   "src": "019bd39e5353",
+   "t": "Solo el aspecto está gastado."
+  },
+  {
+   "i": 1142,
+   "src": "3aacf31af4c9",
+   "t": "Lleva acero, así que es resistente."
+  }
+ ]
+}

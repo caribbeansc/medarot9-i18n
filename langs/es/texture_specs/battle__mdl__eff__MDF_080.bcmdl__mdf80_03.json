@@ -1,0 +1,51 @@
+{
+ "rel": "battle/mdl/eff/MDF_080.bcmdl",
+ "tex": "mdf80_03",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "tahoma",
+  "fill": "#E27272",
+  "stroke": null,
+  "pad": 0,
+  "valign": "middle",
+  "crisp": 0.2
+ },
+ "items": [
+  {
+   "erase_box": [
+    0,
+    0,
+    128,
+    32
+   ],
+   "erase": "solid:#000000",
+   "text": ""
+  },
+  {
+   "box": [
+    3,
+    0,
+    97,
+    16
+   ],
+   "baseline": 12,
+   "cap": 9,
+   "align": "right",
+   "text": "Solicitud de"
+  },
+  {
+   "box": [
+    3,
+    16,
+    122,
+    16
+   ],
+   "baseline": 26,
+   "cap": 9,
+   "align": "left",
+   "text": "emergencia aprobada"
+  }
+ ]
+}

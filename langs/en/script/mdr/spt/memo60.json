@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo60.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "2bfbaa52d1fd",
+   "t": "'{{medalia}} {{collect|cap}}:Trolley Station'"
+  },
+  {
+   "i": 32,
+   "src": "9e4d776314eb",
+   "t": "Large medalia reaction at the trolley station.\nLet's go west from the mine {{area}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "51aec252b6ae",
+   "t": "Ran into a strange man,but the {{medalia}} was found safe.\nLet's go back to the {{club}} room.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "Return to the {{club}},to complete the quest!\n"
+  }
+ ]
+}

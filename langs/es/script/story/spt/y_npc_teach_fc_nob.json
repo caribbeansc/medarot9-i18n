@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_teach_fc_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "43aa2cb11823",
+   "t": "{{ms_tomigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "ae0f6c5a731e",
+   "t": "Mmm, ¡qué lástima!"
+  },
+  {
+   "i": 1038,
+   "src": "666cc852ea5f",
+   "t": "Ahora no puedo... ¡La próxima vez!"
+  }
+ ]
+}

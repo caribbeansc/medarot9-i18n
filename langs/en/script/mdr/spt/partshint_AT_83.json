@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_83.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "077874ea1626",
+   "t": "<c:00ff00>Action:<c> {{heater}}\nFor a while, raises the\n{{prep}} stat of your whole\nteam.\nUsing it again during the\n{{heater}} {{effect}} makes the\n{{effect}} stronger."
+  }
+ ]
+}

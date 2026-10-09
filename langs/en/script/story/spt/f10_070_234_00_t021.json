@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f10_070_234_00_t021.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "14c14ffc5d9f",
+   "t": "Ugh, my ears...!"
+  },
+  {
+   "i": 1058,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1067,
+   "src": "219ec5bf958d",
+   "t": "What is that sound?!"
+  },
+  {
+   "i": 1077,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1086,
+   "src": "528f196a9a5f",
+   "t": "Look!!"
+  }
+ ]
+}

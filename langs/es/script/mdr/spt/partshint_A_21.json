@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_21.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ce306cd80842",
+   "t": "<c:00ff00>{{mf}}:<c>Tajo Horizontal\nLanza un ataque cuerpo a\ncuerpo contra todo el\nequipo {{opponent}}.\n<c:00ffff>*{{required_parts|cap}}<c>\nUna o más {{part|pl}} de\n{{fighting}}"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "file": "story/spt/f01_040_117_00_t006.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1037,
+   "src": "69db44fbbd37",
+   "t": "I'm {{ryusei}}."
+  },
+  {
+   "i": 1040,
+   "src": "f9adfba131be",
+   "t": "Nice to meet ya."
+  },
+  {
+   "i": 1048,
+   "src": "8e48b5b7a806",
+   "t": "Yeah, nice to meet you."
+  },
+  {
+   "i": 1053,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1059,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1067,
+   "src": "c808741ef2b8",
+   "t": "What?"
+  },
+  {
+   "i": 1072,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1078,
+   "src": "669e8ef39214",
+   "t": "Nothing."
+  },
+  {
+   "i": 1081,
+   "src": "0e130dba7afe",
+   "t": "Just thought you're surprisingly\nordinary."
+  },
+  {
+   "i": 1089,
+   "src": "afde02f431b8",
+   "t": "Me?"
+  },
+  {
+   "i": 1094,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1100,
+   "src": "b368003fd97a",
+   "t": "Yeah."
+  },
+  {
+   "i": 1108,
+   "src": "b9a4399b628b",
+   "t": "Like, the first special-admission student."
+  },
+  {
+   "i": 1111,
+   "src": "6da14a83e6b1",
+   "t": "Showing up a week late for some\nreason."
+  },
+  {
+   "i": 1119,
+   "src": "4287429a4195",
+   "t": "That's intimidating!"
+  },
+  {
+   "i": 1122,
+   "src": "26f5805d9014",
+   "t": "What kind of genius is this guy?!"
+  },
+  {
+   "i": 1130,
+   "src": "94cf49d079be",
+   "t": "So I was imagining all sorts of things."
+  },
+  {
+   "i": 1133,
+   "src": "72c69dd03766",
+   "t": "A giant or a snooty guy with glasses!"
+  },
+  {
+   "i": 1141,
+   "src": "e3e9848937c8",
+   "t": "Hmm..."
+  },
+  {
+   "i": 1146,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1152,
+   "src": "57d6f9dc5172",
+   "t": "I know, I know!"
+  },
+  {
+   "i": 1155,
+   "src": "61a20d900fb0",
+   "t": "We're {{medafighter|pl}}: looks don't matter."
+  },
+  {
+   "i": 1163,
+   "src": "84e1ada34b37",
+   "t": "What counts is the {{robattle}}!"
+  },
+  {
+   "i": 1166,
+   "src": "93ceb8dcb310",
+   "t": "Right?"
+  },
+  {
+   "i": 1174,
+   "src": "195680bf05ce",
+   "t": "...So you're strong at {{robattle|pl}}, right?"
+  },
+  {
+   "i": 1177,
+   "src": "89e6a361b482",
+   "t": "Not an idol special student... Nah, haha."
+  }
+ ]
+}

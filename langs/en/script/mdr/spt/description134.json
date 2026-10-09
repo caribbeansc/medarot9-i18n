@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description134.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a8de385fdc44",
+   "t": "{{flying|cap}} (legs)"
+  },
+  {
+   "i": 11,
+   "src": "837cd5fed51c",
+   "t": "A <c:ffff00>Leg Type<c> that flies high in the air. Its <c:ffff00>{{stats}}<c> tend\ntoward high <c:ffff00>{{mobility}}<c>, but low <c:ffff00>{{armor}}<c> and <c:ffff00>Heavy<c>\n<c:ffff00>Limit<c>. It isn't affected by ground shape, but\nstruggles in enclosed {{terrain}}.\n\n<c:ffff00>{{terrain|cap}} {{affinity|cap}}<c> ({{mobility}}, <c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c>):\n  <c:ffff00>{{plains}}<c>, <c:ffff00>{{forest}}<c>, <c:ffff00>{{rocky_ground}}<c> and <c:ffff00>{{tundra}}<c>: 0.\n  <c:ffff00>{{sand}}<c> +6, <c:ffff00>{{hall}}<c> -4, <c:ffff00>{{waterside}}<c> -6, <c:ffff00>{{sky}}<c> +6, <c:ffff00>{{cyber}}<c> +4.\n  <c:ffff00>{{underwater}}<c>: {{robattle|pl}} not possible."
+  }
+ ]
+}

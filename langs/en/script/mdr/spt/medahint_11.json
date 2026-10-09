@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_11.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c0b2d74a0e95",
+   "t": "Chameleon-{{type}} {{medabot}}\nthat hides with protective\ncoloring.\n \nA concealment specialist:\n{{stealth}} evades {{enemy}}\ndetection and {{conceal}}\nblocks the line of fire."
+  }
+ ]
+}

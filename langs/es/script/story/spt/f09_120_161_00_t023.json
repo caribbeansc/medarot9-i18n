@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_120_161_00_t023.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "43004d2812fc",
+   "t": "¿Lo viste, {{main}}-chan? Pensé que"
+  },
+  {
+   "i": 1038,
+   "src": "33aa6222d2c8",
+   "t": "estuviste en el {{club}} todo el tiempo."
+  },
+  {
+   "i": 1045,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1054,
+   "src": "e70f4cb83d63",
+   "t": "Estuve en el {{club}} todo el tiempo."
+  },
+  {
+   "i": 1058,
+   "src": "a8413102394a",
+   "t": "-kun trajo esto."
+  }
+ ]
+}

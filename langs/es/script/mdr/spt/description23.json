@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description23.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f0008c7e1953",
+   "t": "{{prep|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "c507d21c716e",
+   "t": "Tiempo de preparación que acompaña a la <c:ffff00>acción<c> de\nuna <c:ffff00>técnica<c> o <c:ffff00>Medafuerza<c>, desde que se elige el\ncomando hasta que se ejecuta. Su duración varía\nsegún las capacidades de la <c:ffff00>{{medal}}<c> y las <c:ffff00>{{part|pl}}<c>.\n\nSi <c:ffff00>destruyen<c> la <c:ffff00>{{acting_part}}<c> durante la {{prep}}, la\nacción se interrumpe y comienza de inmediato el\n<c:ffff00>{{cooldown}}<c>."
+  }
+ ]
+}

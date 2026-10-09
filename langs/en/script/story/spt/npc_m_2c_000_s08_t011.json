@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2c_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1038,
+   "src": "7316ac8b4768",
+   "t": "Sigh. Everyone's so obsessed with\nMedalias"
+  },
+  {
+   "i": 1041,
+   "src": "ce7d98c79e27",
+   "t": "that {{club}} activities fall apart. Well,"
+  },
+  {
+   "i": 1049,
+   "src": "d459045dd139",
+   "t": "it can't be helped. Given that,"
+  },
+  {
+   "i": 1052,
+   "src": "bfc578c98e06",
+   "t": "I guess I have to join the festivities too."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e2d11d6f76f2",
+   "t": "{{cordy}}"
+  },
+  {
+   "i": 1038,
+   "src": "da2d57d67a48",
+   "t": "Changing clothes every time is a hassle."
+  },
+  {
+   "i": 1041,
+   "src": "3bbdcc689d3c",
+   "t": "I wish humans could be set up too."
+  }
+ ]
+}

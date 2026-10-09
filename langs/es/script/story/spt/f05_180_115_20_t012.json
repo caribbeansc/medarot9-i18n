@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f05_180_115_20_t012.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "de418a8d236d",
+   "t": "¡¿Qué?!"
+  },
+  {
+   "i": 1070,
+   "src": "c6b40ed6f749",
+   "t": "{{flora}} tiene puesta la {{radar_sight}},"
+  },
+  {
+   "i": 1073,
+   "src": "c055efd928d8",
+   "t": "así que esas cosas las noto al instante."
+  },
+  {
+   "i": 1079,
+   "src": "c6b40ed6f749",
+   "t": "{{flora}} tiene puesta la {{radar_sight}}, así"
+  },
+  {
+   "i": 1082,
+   "src": "796986f8a7e9",
+   "t": "que esas cosas las noto de inmediato."
+  },
+  {
+   "i": 1091,
+   "src": "fab90ad6eca7",
+   "t": "¿¿Entonces lo de ayer... fue a"
+  },
+  {
+   "i": 1094,
+   "src": "7d8bbb5e354b",
+   "t": "propósito porque yo escuchaba...??"
+  },
+  {
+   "i": 1118,
+   "src": "d3d58223b664",
+   "t": "No fue a propósito. Es la verdad."
+  },
+  {
+   "i": 1121,
+   "src": "925d438399b9",
+   "t": "No confías para nada en mí, ¿verdad?"
+  },
+  {
+   "i": 1127,
+   "src": "d3d58223b664",
+   "t": "No lo hice a propósito, es la verdad."
+  },
+  {
+   "i": 1130,
+   "src": "1236747e0402",
+   "t": "No confías para nada en mí, ¿verdad?"
+  },
+  {
+   "i": 1155,
+   "src": "8da944fa5a3c",
+   "t": "¡Alguien que confía en mí"
+  },
+  {
+   "i": 1158,
+   "src": "43fa83bf1f90",
+   "t": "no me espiaría a escondidas!"
+  },
+  {
+   "i": 1164,
+   "src": "7dc63b60fb73",
+   "t": "¡Si confiaras en mí, no me"
+  },
+  {
+   "i": 1167,
+   "src": "43fa83bf1f90",
+   "t": "espiarías a escondidas!"
+  }
+ ]
+}

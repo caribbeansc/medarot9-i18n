@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_85.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f59b8dd38b45",
+   "t": "<c:00ff00>Action:<c> {{guard_boost}}\nFor a while, raises the\n{{defend}} stat of your whole\nteam.\nUsing it again during the\n{{guard_boost}} {{effect}}\nmakes the {{effect}}\nstronger."
+  }
+ ]
+}

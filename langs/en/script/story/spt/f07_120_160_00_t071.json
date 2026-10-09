@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f07_120_160_00_t071.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1039,
+   "src": "a721e8634b38",
+   "t": "-kun, how about you?"
+  },
+  {
+   "i": 1042,
+   "src": "75533e3605cb",
+   "t": "First festival, right? Want to look\naround?"
+  },
+  {
+   "i": 1053,
+   "src": "8f7d6ee7b04d",
+   "t": "A-are you sure it's okay?"
+  },
+  {
+   "i": 1058,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1067,
+   "src": "8a2cb4789cf6",
+   "t": "There are three of us, so it's fine!"
+  },
+  {
+   "i": 1077,
+   "src": "97c3154bbe1b",
+   "t": "{{yukishiro}}"
+  },
+  {
+   "i": 1083,
+   "src": "5fca4b48de2a",
+   "t": "Um..."
+  },
+  {
+   "i": 1093,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1102,
+   "src": "6869539ac0f1",
+   "t": "Ah, sorry for the long wait."
+  },
+  {
+   "i": 1105,
+   "src": "83c32c1778b3",
+   "t": "Let's start right away."
+  },
+  {
+   "i": 1112,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1121,
+   "src": "968e6a9dde41",
+   "t": "Here we go~!"
+  }
+ ]
+}

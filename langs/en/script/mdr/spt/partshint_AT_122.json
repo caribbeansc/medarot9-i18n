@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_122.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e43684664bee",
+   "t": "<c:00ff00>Action:<c> {{self_repair}}\nApplies an {{effect}} that\nrecovers a little of your\nown {{damage}} each time\ncooldown completes."
+  }
+ ]
+}

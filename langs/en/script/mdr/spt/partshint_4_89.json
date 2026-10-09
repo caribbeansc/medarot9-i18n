@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_89.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "50a3896f2e19",
+   "t": "<c:00ff00>Leg Trait:<c> {{hidden}}\nAt {{robattle}} start, adds the\nunused portion of the\nHeavy Limit allowance to\nthe {{head_part}}'s {{uses}}."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_teach_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f36baaf6bab0",
+   "t": "{{samurai}}"
+  },
+  {
+   "i": 1038,
+   "src": "9f6a4477e620",
+   "t": "A tournament... remembering our old\ndays stirs my blood."
+  },
+  {
+   "i": 1041,
+   "src": "126c5c399745",
+   "t": "Come to think of it, we were young back\nthen."
+  }
+ ]
+}

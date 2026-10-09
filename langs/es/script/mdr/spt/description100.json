@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description100.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8bae303d0d7f",
+   "t": "Apoyo (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "af3c2fa3e898",
+   "t": "<c:ffff00>Habilidad<c> <c:ffff00>auxiliar<c>: capacidad de manejar <c:ffff00>{{part|pl}}<c> que\npotencian a los aliados. Incluye <c:ffff00>técnicas<c> que aplican\nun <c:ffff00>{{positive_effect}}<c>.\n\nA mayor <c:ffff00>{{skill_level}}<c>: <c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c> más\nrápidos, y mayores <c:ffff00>poder de {{defend}}<c> y <c:ffff00>poder de<c>\n<c:ffff00>{{evade}}<c>.\nEn las {{part|pl}} de apoyo, el <c:ffff00>{{stats}} de<c>\n<c:ffff00>{{cooldown}}<c> sube al llenarse la <c:ffff00>{{charge_gauge}}<c>."
+  }
+ ]
+}

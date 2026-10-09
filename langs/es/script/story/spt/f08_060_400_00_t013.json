@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f08_060_400_00_t013.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1044,
+   "src": "0f50b838a2a1",
+   "t": "¿Está bajo tierra?"
+  },
+  {
+   "i": 1058,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1064,
+   "src": "eafa7e3dbe74",
+   "t": "...Eso parece."
+  },
+  {
+   "i": 1076,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1085,
+   "src": "a8a05283fd9d",
+   "t": "¿Qué hacemos?"
+  },
+  {
+   "i": 1088,
+   "src": "f3f3c658fcf4",
+   "t": "¿Lo desenterramos o algo así?"
+  }
+ ]
+}

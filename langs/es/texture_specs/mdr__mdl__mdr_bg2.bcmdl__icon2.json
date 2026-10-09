@@ -1,0 +1,62 @@
+{
+ "rel": "mdr/mdl/mdr_bg2.bcmdl",
+ "tex": "icon2",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "hfill",
+  "font": "tahoma",
+  "cap": 7,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.4
+ },
+ "items": [
+  {
+   "box": [
+    18,
+    88,
+    62,
+    8
+   ],
+   "erase_box": [
+    34,
+    87,
+    30,
+    10
+   ],
+   "text": "MEDALLA"
+  },
+  {
+   "box": [
+    98,
+    88,
+    62,
+    8
+   ],
+   "erase_box": [
+    100,
+    87,
+    57,
+    10
+   ],
+   "text": "CONFIG."
+  },
+  {
+   "box": [
+    178,
+    88,
+    62,
+    8
+   ],
+   "erase_box": [
+    194,
+    87,
+    30,
+    10
+   ],
+   "text": "GUARDAR"
+  }
+ ]
+}

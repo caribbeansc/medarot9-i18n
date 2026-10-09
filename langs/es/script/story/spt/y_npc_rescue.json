@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/y_npc_rescue.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1665,
+   "src": "6409c0fe4597",
+   "t": "Está bien."
+  }
+ ]
+}

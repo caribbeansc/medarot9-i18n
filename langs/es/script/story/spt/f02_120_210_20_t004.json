@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f02_120_210_20_t004.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "9ea63f5980b2",
+   "t": "Coordenadas del {{target}} 10.120.30."
+  },
+  {
+   "i": 1038,
+   "src": "e52f0b28bb2c",
+   "t": "Sin cambios por 60 seg. ¿Continúo?"
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "65affe15ff0c",
+   "t": "Está bien, gracias."
+  }
+ ]
+}

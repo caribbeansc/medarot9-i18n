@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f02_150_211_00_t018.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "41ccf59c861c",
+   "t": "Ya veo. Así que empezó a andar tras"
+  },
+  {
+   "i": 1046,
+   "src": "6660aa5368f2",
+   "t": "conectar esa fuente de energía."
+  },
+  {
+   "i": 1053,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1059,
+   "src": "261405878c0b",
+   "t": "Sí, sí, todo salió a la perfección."
+  },
+  {
+   "i": 1062,
+   "src": "97c1e415b79a",
+   "t": "Bueno, ahora sí, hora de volver a casa."
+  }
+ ]
+}

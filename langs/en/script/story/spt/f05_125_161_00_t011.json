@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/f05_125_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1040,
+   "src": "cf78bd892f21",
+   "t": "Hey "
+  },
+  {
+   "i": 1042,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1053,
+   "src": "80b98c8d2ca4",
+   "t": "...Yes?"
+  },
+  {
+   "i": 1066,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1082,
+   "src": "2a136eb7f244",
+   "t": "You, just go home and rest today."
+  },
+  {
+   "i": 1085,
+   "src": "38da6c96c01c",
+   "t": "You couldn't focus on anything anyway."
+  },
+  {
+   "i": 1093,
+   "src": "f07eb8cb62ac",
+   "t": "I won't be able to relax at home either."
+  },
+  {
+   "i": 1098,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1104,
+   "src": "ae0426017b1f",
+   "t": "Even so, it's better"
+  },
+  {
+   "i": 1107,
+   "src": "519cb030b797",
+   "t": "than sitting here sighing all day."
+  },
+  {
+   "i": 1115,
+   "src": "f095d4123503",
+   "t": "So I thought I'd go out exploring--"
+  },
+  {
+   "i": 1123,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1132,
+   "src": "3e88a23af9dd",
+   "t": "No {{field}} exploring either!"
+  },
+  {
+   "i": 1135,
+   "src": "cd8dc340df2c",
+   "t": "I refuse to listen to your sighing all day."
+  },
+  {
+   "i": 1146,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1151,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1157,
+   "src": "a4ff10f767a5",
+   "t": "I'll say it once more."
+  },
+  {
+   "i": 1160,
+   "src": "aa34d1ed1465",
+   "t": "Go home and rest today."
+  },
+  {
+   "i": 1168,
+   "src": "b40d0e38c4fa",
+   "t": "Got it?"
+  },
+  {
+   "i": 1176,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1179,
+   "src": "b59d97d125b8",
+   "t": "Fine, I got it."
+  }
+ ]
+}

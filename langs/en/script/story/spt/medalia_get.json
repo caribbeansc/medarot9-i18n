@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/medalia_get.spt",
+ "lines": [
+  {
+   "i": 1206,
+   "src": "6d939269632f",
+   "t": "{{medalia}} <c:00ff00>"
+  },
+  {
+   "i": 1208,
+   "src": "0e32041fdf29",
+   "t": "<c> received!"
+  },
+  {
+   "i": 1261,
+   "src": "7869e7b18985",
+   "t": "I can't hold anymore medalias. "
+  },
+  {
+   "i": 1264,
+   "src": "da012f421144",
+   "t": "Toss away medalias to free up space. "
+  }
+ ]
+}

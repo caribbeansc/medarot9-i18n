@@ -1,0 +1,337 @@
+{
+ "rel": "mdr/tex/bt_t_field.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "grow": 1,
+  "font": "sf-heavy-italic",
+  "cap": 10,
+  "align": "right",
+  "fill": {
+   "top": "#C8C8C8",
+   "bottom": "#FFFFFF"
+  },
+  "stroke": "#474747",
+  "stroke_w": 1.5,
+  "shadow": {
+   "dx": 1,
+   "dy": 1,
+   "color": "#000000",
+   "opacity": 0.5
+  }
+ },
+ "items": [
+  {
+   "box": [
+    36,
+    63,
+    31,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    66,
+    66,
+    19
+   ],
+   "erase_box": [
+    34,
+    71,
+    38,
+    15
+   ],
+   "text": "Forest",
+   "baseline": 82
+  },
+  {
+   "box": [
+    111,
+    63,
+    28,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    76,
+    66,
+    66,
+    19
+   ],
+   "erase_box": [
+    106,
+    71,
+    38,
+    15
+   ],
+   "text": "Desert",
+   "baseline": 82
+  },
+  {
+   "box": [
+    176,
+    63,
+    18,
+    9
+   ],
+   "erase": "copy:158,63",
+   "text": ""
+  },
+  {
+   "box": [
+    194,
+    63,
+    14,
+    9
+   ],
+   "erase": "copy:162,63",
+   "text": ""
+  },
+  {
+   "box": [
+    208,
+    63,
+    4,
+    9
+   ],
+   "erase": "vfill",
+   "text": ""
+  },
+  {
+   "box": [
+    212,
+    63,
+    3,
+    9
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    148,
+    66,
+    66,
+    19
+   ],
+   "erase_box": [
+    178,
+    71,
+    38,
+    15
+   ],
+   "text": "Water",
+   "baseline": 82
+  },
+  {
+   "box": [
+    256,
+    63,
+    24,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    220,
+    66,
+    66,
+    19
+   ],
+   "erase_box": [
+    250,
+    71,
+    38,
+    15
+   ],
+   "text": "Rocks",
+   "baseline": 82
+  },
+  {
+   "box": [
+    36,
+    151,
+    28,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    154,
+    66,
+    19
+   ],
+   "erase_box": [
+    34,
+    159,
+    38,
+    15
+   ],
+   "text": "Plains",
+   "baseline": 170
+  },
+  {
+   "box": [
+    109,
+    151,
+    30,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    76,
+    154,
+    66,
+    19
+   ],
+   "erase_box": [
+    106,
+    159,
+    38,
+    15
+   ],
+   "text": "Cave",
+   "baseline": 170
+  },
+  {
+   "box": [
+    180,
+    151,
+    28,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    148,
+    154,
+    66,
+    19
+   ],
+   "erase_box": [
+    178,
+    159,
+    38,
+    15
+   ],
+   "text": "Tundra",
+   "baseline": 170
+  },
+  {
+   "box": [
+    252,
+    151,
+    31,
+    9
+   ],
+   "erase": "hfill",
+   "text": ""
+  },
+  {
+   "box": [
+    220,
+    154,
+    66,
+    19
+   ],
+   "erase_box": [
+    250,
+    159,
+    38,
+    15
+   ],
+   "text": "Space",
+   "baseline": 170
+  },
+  {
+   "box": [
+    451,
+    1,
+    34,
+    15
+   ],
+   "erase_box": [
+    449,
+    0,
+    40,
+    18
+   ],
+   "erase": "transparent",
+   "text": "You",
+   "font": "bold",
+   "cap": 8,
+   "align": "center",
+   "fill": {
+    "top": "#A6CEF4",
+    "bottom": "#5A9AE2"
+   },
+   "stroke": null,
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#000000",
+    "opacity": 0.18,
+    "blur": 1
+   }
+  },
+  {
+   "box": [
+    450,
+    18,
+    36,
+    14
+   ],
+   "erase_box": [
+    448,
+    18,
+    42,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Rival",
+   "font": "bold",
+   "cap": 8,
+   "align": "center",
+   "fill": {
+    "top": "#F8BCE6",
+    "bottom": "#CE4A8A"
+   },
+   "stroke": null,
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#000000",
+    "opacity": 0.18,
+    "blur": 1
+   }
+  }
+ ]
+}

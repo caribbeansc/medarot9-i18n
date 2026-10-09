@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/memo54.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "ded872c23da7",
+   "t": "\"Observar ondas: {{old_harbor_town}}\""
+  },
+  {
+   "i": 32,
+   "src": "625c92baa8f0",
+   "t": "Tomemos datos en lo más alto del {{old_harbor_town}} ruinoso.\nLo más corto es ir al oeste desde la {{mine_entrance}}.\n"
+  },
+  {
+   "i": 42,
+   "src": "857b3173f22b",
+   "t": "Cruzando lo que está por derrumbarse, hacia lo alto...\n"
+  },
+  {
+   "i": 52,
+   "src": "f5efe6770915",
+   "t": "Observamos ondas sonoras en la {{rooftop}} de un edificio.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 62,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

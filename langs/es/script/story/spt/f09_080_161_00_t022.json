@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f09_080_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "2f1c15942b36",
+   "t": "¿Se puede reparar?"
+  },
+  {
+   "i": 1054,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1063,
+   "src": "e4dfc5b85ae6",
+   "t": "Un humano no puede reparar {{medal|pl}}."
+  },
+  {
+   "i": 1074,
+   "src": "b19436a65093",
+   "t": "Ya veo."
+  },
+  {
+   "i": 1077,
+   "src": "84992e1cfd39",
+   "t": "Es cierto..."
+  },
+  {
+   "i": 1085,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1094,
+   "src": "95eb2affbf22",
+   "t": "Pero si no está completamente roto..."
+  }
+ ]
+}

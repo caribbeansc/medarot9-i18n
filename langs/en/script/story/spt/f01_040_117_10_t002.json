@@ -1,0 +1,270 @@
+{
+ "file": "story/spt/f01_040_117_10_t002.spt",
+ "lines": [
+  {
+   "i": 1129,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1140,
+   "src": "f604d47f0a4f",
+   "t": "Come on, don't ask so many questions."
+  },
+  {
+   "i": 1144,
+   "src": "c0f62fe30843",
+   "t": " is in trouble, can't you see?"
+  },
+  {
+   "i": 1152,
+   "src": "4079d36df1ff",
+   "t": "Anyway, here's the thing..."
+  },
+  {
+   "i": 1182,
+   "src": "1ed58f8f5b9e",
+   "t": "Hey."
+  },
+  {
+   "i": 1185,
+   "src": "58f83c8618d8",
+   "t": "Wanna {{robattle}} me?"
+  },
+  {
+   "i": 1196,
+   "src": "1438fe65ba59",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1212,
+   "src": "5081eec42a79",
+   "t": "*Murmur*..."
+  },
+  {
+   "i": 1223,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1234,
+   "src": "5c5cfc8a16d6",
+   "t": "A {{robattle}} with {{ryusei}}...?"
+  },
+  {
+   "i": 1241,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1247,
+   "src": "afe67b045d1d",
+   "t": "Sounds like fun!"
+  },
+  {
+   "i": 1254,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1260,
+   "src": "6ea5cbb894a1",
+   "t": "So what'll it be, "
+  },
+  {
+   "i": 1262,
+   "src": "e52afecfbed9",
+   "t": "?"
+  },
+  {
+   "i": 1270,
+   "src": "cc0584a6ce59",
+   "t": "......"
+  },
+  {
+   "i": 1282,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1288,
+   "src": "a95d3d0b5633",
+   "t": "Let's do it."
+  },
+  {
+   "i": 1291,
+   "src": "a631f5dbfb69",
+   "t": "You guys wanna see it too, right?"
+  },
+  {
+   "i": 1298,
+   "src": "cc4e33627947",
+   "t": "{{hana}}"
+  },
+  {
+   "i": 1307,
+   "src": "67ba758304e1",
+   "t": "I wanna see!   "
+  },
+  {
+   "i": 1314,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1320,
+   "src": "3fd0ca2fdc51",
+   "t": "I wanna see~!  "
+  },
+  {
+   "i": 1331,
+   "src": "fd48118040c9",
+   "t": "Uh, ummm."
+  },
+  {
+   "i": 1334,
+   "src": "9e4ee95523a9",
+   "t": "Sorry, but I can't right now. See--"
+  },
+  {
+   "i": 1357,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1368,
+   "src": "c21e5d516209",
+   "t": "Gulp."
+  },
+  {
+   "i": 1392,
+   "src": "517ea13bb26f",
+   "t": "What's a {{robattle}}?"
+  },
+  {
+   "i": 1398,
+   "src": "8bd6fbfaeea1",
+   "t": "What's a {{robattle}}?"
+  },
+  {
+   "i": 1416,
+   "src": "23ddfb293433",
+   "t": "You're starting from THERE!?"
+  },
+  {
+   "i": 1424,
+   "src": "fc27429d21e6",
+   "t": "Eh, whatever."
+  },
+  {
+   "i": 1427,
+   "src": "6f102b3bde28",
+   "t": "A {{robattle}} is~"
+  },
+  {
+   "i": 1435,
+   "src": "f729db4b7e8f",
+   "t": "...a battle between {{medabot|pl}}."
+  },
+  {
+   "i": 1459,
+   "src": "0ad1e4ee18db",
+   "t": "Fight?"
+  },
+  {
+   "i": 1462,
+   "src": "c4a939f73822",
+   "t": "So I'm the one who fights?"
+  },
+  {
+   "i": 1468,
+   "src": "6548422679b9",
+   "t": "Is a battle the same as a fight?"
+  },
+  {
+   "i": 1471,
+   "src": "1319fda5bce7",
+   "t": "So I am the one who fights?"
+  },
+  {
+   "i": 1480,
+   "src": "22d37184cedd",
+   "t": "Yes, but--"
+  },
+  {
+   "i": 1507,
+   "src": "3afc04ed41c3",
+   "t": "All right, got it!"
+  },
+  {
+   "i": 1510,
+   "src": "6a3dcc99b8c2",
+   "t": "Leave it to me~!"
+  },
+  {
+   "i": 1516,
+   "src": "4a3d7c136ab7",
+   "t": "Mm, understood!"
+  },
+  {
+   "i": 1519,
+   "src": "f561bb128740",
+   "t": "Leave it to this warrior~!"
+  },
+  {
+   "i": 1527,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1533,
+   "src": "a4c4d17bf68f",
+   "t": "Heh, now you're fired up."
+  },
+  {
+   "i": 1536,
+   "src": "77ce350c145d",
+   "t": "That's the spirit!"
+  },
+  {
+   "i": 1544,
+   "src": "c8855fe5ebff",
+   "t": "H-hey, "
+  },
+  {
+   "i": 1546,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1549,
+   "src": "5b14859bbf0e",
+   "t": "I never said I'd do it, not even once--"
+  },
+  {
+   "i": 1554,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1560,
+   "src": "ec48fc65d529",
+   "t": "What's all the fuss about?"
+  },
+  {
+   "i": 1563,
+   "src": "d2b45a1ce714",
+   "t": "Enough already, just come at me."
+  },
+  {
+   "i": 1574,
+   "src": "bfa1f1df3ccc",
+   "t": "No holding back!"
+  },
+  {
+   "i": 1577,
+   "src": "8cedabbe4682",
+   "t": "Here I come~! "
+  }
+ ]
+}

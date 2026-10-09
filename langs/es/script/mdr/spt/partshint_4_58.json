@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_58.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f8fc4b0d5162",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nEmboscada\n1/20 del {{armor}} de las\ntrampas y plantas\ncolocadas se suma al\n{{shooting}} y {{fighting}} de la\n{{leg_part}}."
+  }
+ ]
+}

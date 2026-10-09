@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_02_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "90501d04bd2c",
+   "t": "{{mission|cap}} '{{medalia}} Collection:\n{{mine_ruins}}' begins!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "56ef8a1e577c",
+   "t": "First, let's take the mountain trail from\nthe {{mountains}} {{area}}."
+  },
+  {
+   "i": 1046,
+   "src": "0120b1d83fb5",
+   "t": "Let's aim for the suspension bridge."
+  },
+  {
+   "i": 1054,
+   "src": "b663ebcf6904",
+   "t": "That's the center of the {{area}}."
+  },
+  {
+   "i": 1057,
+   "src": "f19d062c583e",
+   "t": "The reading should get stronger there."
+  }
+ ]
+}

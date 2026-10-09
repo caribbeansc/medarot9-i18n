@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f09_090_160_00_t011.spt",
+ "lines": [
+  {
+   "i": 1015,
+   "src": "ed19f13f8b6e",
+   "t": "...Ya me decidí."
+  },
+  {
+   "i": 1023,
+   "src": "32dc7225756e",
+   "t": "Iré a ver al {{vice_principal}}. ¡Tengo que"
+  },
+  {
+   "i": 1026,
+   "src": "d87ae63ee4ac",
+   "t": "verlo y escuchar toda la historia...!"
+  },
+  {
+   "i": 1037,
+   "src": "54fb2928e1f6",
+   "t": "La {{vice_principal_s_office}}... ¿Estará ahí?"
+  }
+ ]
+}

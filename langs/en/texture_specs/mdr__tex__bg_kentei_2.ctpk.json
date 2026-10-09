@@ -1,0 +1,128 @@
+{
+ "rel": "mdr/tex/bg_kentei_2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "helv-cond-black",
+  "pad": 0,
+  "snap": true
+ },
+ "items": [
+  {
+   "box": [
+    64,
+    0,
+    96,
+    24
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    120,
+    96,
+    32,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    64,
+    0,
+    96,
+    24
+   ],
+   "erase": "none",
+   "text": "Map Guide",
+   "cap": 12,
+   "baseline": 17,
+   "align": "center",
+   "tracking": 0,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#8BEFFB"
+     ],
+     [
+      0.08,
+      "#5DE5F7"
+     ],
+     [
+      0.15,
+      "#4BE0ED"
+     ],
+     [
+      0.31,
+      "#27D1D1"
+     ],
+     [
+      0.46,
+      "#12B9B0"
+     ],
+     [
+      0.62,
+      "#00988A"
+     ],
+     [
+      0.77,
+      "#008776"
+     ],
+     [
+      0.85,
+      "#0E9081"
+     ],
+     [
+      0.92,
+      "#3CB6AE"
+     ],
+     [
+      1.0,
+      "#6EE1E3"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 2
+    },
+    {
+     "color": "#011D1A40",
+     "w": 2
+    },
+    {
+     "color": "#011D1A50",
+     "w": 0.6
+    },
+    {
+     "color": "#011D1A12",
+     "w": 0.7
+    }
+   ],
+   "scale_x": 0.88
+  }
+ ],
+ "protect": [
+  [
+   56,
+   0,
+   8,
+   28
+  ],
+  [
+   160,
+   0,
+   8,
+   28
+  ],
+  [
+   64,
+   24,
+   96,
+   4
+  ]
+ ]
+}

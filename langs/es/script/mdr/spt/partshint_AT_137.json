@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_137.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b4453cea3f17",
+   "t": "<c:00ff00>Técnica:<c>{{mirror_guard}}\n{{guard}} contra ataques de\n{{shooting}} a aliados. Al\ninterceptar, anula el {{damage}}\nde {{shooting}} y lo devuelve\ncon el mismo poder de\nataque. Termina si los\naliados actúan 4 veces o\npasa cierto tiempo."
+  }
+ ]
+}

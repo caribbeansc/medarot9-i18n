@@ -1,0 +1,175 @@
+{
+ "file": "story/spt/f04_020_117_00_t001.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1037,
+   "src": "cc9b5a26f65b",
+   "t": "{{saika}}-san, ¿qué harás en el torneo?"
+  },
+  {
+   "i": 1040,
+   "src": "b0b8619413a5",
+   "t": "Aún no estás en un club, ¿verdad?"
+  },
+  {
+   "i": 1052,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1061,
+   "src": "4678a00d28a5",
+   "t": "Hoy visitaré las instalaciones"
+  },
+  {
+   "i": 1064,
+   "src": "de1a84be3170",
+   "t": "con la Profa. Kotobuki."
+  },
+  {
+   "i": 1071,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1080,
+   "src": "bb69ca738b31",
+   "t": "Qué lástima. Esperaba que vinieras a ver"
+  },
+  {
+   "i": 1083,
+   "src": "c054b2c654e2",
+   "t": "nuestro {{club}} si tenías tiempo libre."
+  },
+  {
+   "i": 1090,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1099,
+   "src": "8f8cfcc4f1ce",
+   "t": "Ay, lo siento..."
+  },
+  {
+   "i": 1106,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1115,
+   "src": "f7c2d68c5d73",
+   "t": "¡Está bien, está bien! ¡No te preocupes!"
+  },
+  {
+   "i": 1122,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1128,
+   "src": "47cebf9e4183",
+   "t": "Por cierto, {{saika}}-san,"
+  },
+  {
+   "i": 1131,
+   "src": "6235af3e5b91",
+   "t": "¿ya decidiste a qué club te vas a unir?"
+  },
+  {
+   "i": 1141,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1150,
+   "src": "fb8d7c29d7fe",
+   "t": "No, aún no..."
+  },
+  {
+   "i": 1157,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1166,
+   "src": "8fc0caf12553",
+   "t": "¿Qué tal el {{gardening_club}}?"
+  },
+  {
+   "i": 1175,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1184,
+   "src": "3248ead3fca6",
+   "t": "El {{gardening_club}}... Qué maravilla."
+  },
+  {
+   "i": 1187,
+   "src": "73df7cdb5470",
+   "t": "Me encantan muchísimo las flores."
+  },
+  {
+   "i": 1194,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1203,
+   "src": "722723eb0a6f",
+   "t": "¿Y el mar?"
+  },
+  {
+   "i": 1206,
+   "src": "3466c12a76ce",
+   "t": "¿Te interesan los deportes acuáticos?"
+  },
+  {
+   "i": 1216,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1225,
+   "src": "ca608e467fc8",
+   "t": "El mar también me gusta."
+  },
+  {
+   "i": 1228,
+   "src": "263f0db96b59",
+   "t": "Pero nunca probé deportes acuáticos."
+  },
+  {
+   "i": 1238,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1247,
+   "src": "0b944295312e",
+   "t": "¡Ah, el {{club|cap}} de Pesca es ideal!"
+  },
+  {
+   "i": 1250,
+   "src": "376aa2ccfdbe",
+   "t": "Pescamos y hasta cocinamos."
+  },
+  {
+   "i": 1258,
+   "src": "3bb4469a8d18",
+   "t": "¡Comes pescado fresco a gusto! Vamos"
+  },
+  {
+   "i": 1261,
+   "src": "f89efaba9feb",
+   "t": "al mar a diario, te quedaría genial."
+  }
+ ]
+}

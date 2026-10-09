@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f00_010_901_00_t051.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1037,
+   "src": "8dce262b1d07",
+   "t": "I've been beaten, {{robo}}~."
+  },
+  {
+   "i": 1061,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

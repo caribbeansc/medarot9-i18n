@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free06_02_04_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "ef99460d8dd5",
+   "t": "{{mission|cap}} '{{medalia}} Collection:"
+  },
+  {
+   "i": 1009,
+   "src": "58265f63c1e5",
+   "t": "Mine Cart Station' complete!"
+  },
+  {
+   "i": 1014,
+   "src": "913e0c661d21",
+   "t": "The {{exploration_club}}'s achievements\nwent up!"
+  }
+ ]
+}

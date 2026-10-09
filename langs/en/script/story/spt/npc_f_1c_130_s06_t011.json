@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1c_130_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "83e86dfaafa7",
+   "t": "The seniors are at a tournament off the\nisland!"
+  },
+  {
+   "i": 1041,
+   "src": "b32b4bac6b7b",
+   "t": "Okay, I can accept not being able to go\nhome..."
+  },
+  {
+   "i": 1049,
+   "src": "52109675fd41",
+   "t": "but not even being allowed to follow\nthem there?"
+  },
+  {
+   "i": 1052,
+   "src": "d5552a9ff2ff",
+   "t": "They could at least let me cheer. Geez."
+  }
+ ]
+}

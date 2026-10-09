@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f04_050_131_40_t022.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b9a21fb07ca6",
+   "t": "{{council_hyoga}}"
+  },
+  {
+   "i": 1035,
+   "src": "84aa7c43d162",
+   "t": "Truly an unstoppable momentum!"
+  },
+  {
+   "i": 1043,
+   "src": "3f2d445b92fb",
+   "t": "Against all expectations, with great\nteamwork"
+  },
+  {
+   "i": 1046,
+   "src": "43e14f3eb1e1",
+   "t": "and strategy, they beat powerhouse\nafter powerhouse."
+  },
+  {
+   "i": 1054,
+   "src": "e2c352bee0da",
+   "t": "The {{exploration_club}} team!"
+  }
+ ]
+}

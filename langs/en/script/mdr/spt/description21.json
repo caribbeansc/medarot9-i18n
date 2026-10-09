@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description21.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9441d4411217",
+   "t": "{{target}}"
+  },
+  {
+   "i": 11,
+   "src": "f33e18f7ecd0",
+   "t": "The <c:ffff00>{{medabot}}<c> or <c:ffff00>{{object}}<c> affected by an <c:ffff00>act<c>.\n\nWhen choosing commands, if there are multiple\nopponents and the {{effect}} targets only one, the\ntarget is chosen after choosing the act.\n\nWhen the act is executed, if the target is <c:ffff00>knocked<c>\n<c:ffff00>out<c> or otherwise in an unsuitable state, the {{medabot}}\nitself decides to change the target."
+  }
+ ]
+}

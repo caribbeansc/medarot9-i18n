@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_158.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f906f8c13a4e",
+   "t": "<c:00ff00>Action:<c> {{setup_trap}}\nSets a trap that deals\n{{damage}} when it reacts to\nthe {{opponent}}'s\nSetup action. Setting it\nrepeatedly raises its\n{{armor}} and {{damage}}."
+  }
+ ]
+}

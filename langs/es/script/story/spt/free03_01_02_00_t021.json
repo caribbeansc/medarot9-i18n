@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free03_01_02_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9b0a088e49c4",
+   "t": "¡{{mission|cap}} '{{explore|cap}}: {{entrance}} de\nla {{mine_shaft}}' comienza!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "162e523f0510",
+   "t": "Debe haber una bajada en algún punto\ndel {{mountain_path}}."
+  }
+ ]
+}

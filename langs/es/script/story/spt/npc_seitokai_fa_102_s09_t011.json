@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_seitokai_fa_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 1035,
+   "src": "0987069cb95e",
+   "t": "Eh. Esta cuerda es para la zona"
+  },
+  {
+   "i": 1038,
+   "src": "cead86d01403",
+   "t": "del público, y esta es para la pista..."
+  },
+  {
+   "i": 1049,
+   "src": "807132236f57",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1052,
+   "src": "5d8935c9fe17",
+   "t": "Ya me confundí otra vez~, jeje."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f09_050_230_00_t032.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1049,
+   "src": "635a60b891a4",
+   "t": "Revenge complete, {{robo}}!"
+  },
+  {
+   "i": 1060,
+   "src": "51a87729803b",
+   "t": "{{robo|cap}}~!"
+  }
+ ]
+}

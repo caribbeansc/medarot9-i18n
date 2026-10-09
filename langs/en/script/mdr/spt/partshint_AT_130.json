@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_130.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "12770aac68c7",
+   "t": "<c:00ff00>Action:<c> Blast {{guard}}\nTakes a {{guard_stance}} that\ninterrupts attacks on\nallies.\nWhen interrupting,\nnullifies {{damage}} from\nmissiles and napalm."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description28.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "86d168095940",
+   "t": "{{pierce|cap}} (trait)"
+  },
+  {
+   "i": 11,
+   "src": "2672bc303c78",
+   "t": "A <c:ffff00>{{damage_trait}}<c> that, when it reduces the <c:ffff00>{{armor}}<c> of\nany of the {{opponent}}'s <c:ffff00>{{part|pl}}<c> to 0 and <c:ffff00>destroys<c> it,\ndeals the leftover <c:ffff00>{{damage}}<c> as additional {{damage}} to\nthe <c:ffff00>head<c> {{part}}.\n\nIt isn't compatible with the <c:ffff00>All {{part|pl|cap}}<c> {{damage_trait}}."
+  }
+ ]
+}

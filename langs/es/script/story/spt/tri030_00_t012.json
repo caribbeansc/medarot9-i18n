@@ -1,0 +1,190 @@
+{
+ "file": "story/spt/tri030_00_t012.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1044,
+   "src": "d3b076630c0a",
+   "t": "De aquí en adelante"
+  },
+  {
+   "i": 1047,
+   "src": "6b6566646c1a",
+   "t": "yo lo explico."
+  },
+  {
+   "i": 1055,
+   "src": "6941f133969b",
+   "t": "¿Quiénes son ustedes?"
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "4d0c6ca1f745",
+   "t": "Soy Kunigiku, presidente del\n{{exploration_club}}."
+  },
+  {
+   "i": 1087,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1093,
+   "src": "dc83c0e0fe65",
+   "t": "Yo soy {{ryoma}}."
+  },
+  {
+   "i": 1096,
+   "src": "4c90811e835f",
+   "t": "Mucho gusto."
+  },
+  {
+   "i": 1111,
+   "src": "59b22ff10bcd",
+   "t": "Ah, mucho gusto."
+  },
+  {
+   "i": 1123,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1129,
+   "src": "0c66d11464dc",
+   "t": "En realidad es raro que estemos aquí,"
+  },
+  {
+   "i": 1132,
+   "src": "03d78a7777f1",
+   "t": "ya que esto es solo una demo."
+  },
+  {
+   "i": 1142,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1148,
+   "src": "a5d5725cbed5",
+   "t": "Oye, oye..."
+  },
+  {
+   "i": 1161,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1169,
+   "src": "61540c197a66",
+   "t": "Bien, "
+  },
+  {
+   "i": 1171,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1174,
+   "src": "31e17a569faf",
+   "t": "¿Sabes qué es la {{trans_part}}?"
+  },
+  {
+   "i": 1185,
+   "src": "b0542d74159f",
+   "t": "¿{{trans_part}}...?"
+  },
+  {
+   "i": 1190,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1196,
+   "src": "c6bf24c42aa8",
+   "t": "Transfiere {{part|pl}} en plena {{robattle}}."
+  },
+  {
+   "i": 1199,
+   "src": "b1ba99a53c64",
+   "t": "Se adoptó en las últimas reglas."
+  },
+  {
+   "i": 1207,
+   "src": "7891c9d37b88",
+   "t": "Solo al {{leader}}, una vez por {{robattle}}."
+  },
+  {
+   "i": 1210,
+   "src": "806fcf4a4752",
+   "t": "Y solo con {{part|pl}} EX preajustadas."
+  },
+  {
+   "i": 1218,
+   "src": "b7d965cee4b1",
+   "t": "Vaya..."
+  },
+  {
+   "i": 1223,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1229,
+   "src": "67ff56ce7f01",
+   "t": "Si vas a robobatallar en esta {{academy}},"
+  },
+  {
+   "i": 1232,
+   "src": "128dff55f66c",
+   "t": "más te vale aprender a dominarlo."
+  },
+  {
+   "i": 1239,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1245,
+   "src": "7b25c3b0cadc",
+   "t": "Bien, vamos a practicar un poco."
+  },
+  {
+   "i": 1253,
+   "src": "a836e0ceea8e",
+   "t": "Ahora, tu oponente será~"
+  },
+  {
+   "i": 1263,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1272,
+   "src": "7d79a8582770",
+   "t": "...lo haré yo."
+  },
+  {
+   "i": 1282,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1291,
+   "src": "c0eee1f951b7",
+   "t": "Eh, ¿segura? Entonces, Presidenta"
+  },
+  {
+   "i": 1294,
+   "src": "2d34bc581a01",
+   "t": "del Consejo, se lo encargo."
+  }
+ ]
+}

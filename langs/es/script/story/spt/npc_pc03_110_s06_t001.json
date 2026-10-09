@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc03_110_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "b0ee470a969f",
+   "t": "¿Será esto?"
+  },
+  {
+   "i": 1043,
+   "src": "e1afa5d169e7",
+   "t": "No, espera... Mmm..."
+  },
+  {
+   "i": 1051,
+   "src": "d718c55ef3ed",
+   "t": "¿Qué-qué está haciendo? En serio no"
+  },
+  {
+   "i": 1054,
+   "src": "3f180373b444",
+   "t": "debería tocar todo..."
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1069,
+   "src": "f58308913ade",
+   "t": "-kun, ayúdame tú también."
+  },
+  {
+   "i": 1077,
+   "src": "bdcbe0b8d6ce",
+   "t": "¿Buscar qué?"
+  },
+  {
+   "i": 1082,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1088,
+   "src": "cd5ab11f3c05",
+   "t": "Algo, sabes. Creo que hay algún tipo"
+  },
+  {
+   "i": 1091,
+   "src": "3257189a7ad0",
+   "t": "de truco o mecanismo en esta sala."
+  }
+ ]
+}

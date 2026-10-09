@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f02_015_161_00_t012.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "fca5942a463a",
+   "t": "What are you doing?"
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "ba77320c2850",
+   "t": "Oh, nothing. Just tidying the {{part_box}}."
+  },
+  {
+   "i": 1054,
+   "src": "1e896a554c57",
+   "t": "Since you'll be using it too from now\non-"
+  },
+  {
+   "i": 1062,
+   "src": "bd46f601a1ad",
+   "t": "But first I need to register your\n{{smartphone}}."
+  },
+  {
+   "i": 1065,
+   "src": "28a7616dcac7",
+   "t": "Signing you up for the {{club|cap}} in the\nBuddy app-"
+  }
+ ]
+}

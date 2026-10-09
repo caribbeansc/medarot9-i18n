@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f02_015_161_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "2bb59a3f3c7d",
+   "t": "There, now you can see members'\nprofiles."
+  },
+  {
+   "i": 1038,
+   "src": "04c92bbb9c59",
+   "t": "Not that there's much written there."
+  },
+  {
+   "i": 1046,
+   "src": "fb36130492ee",
+   "t": "I also installed the network app for you."
+  },
+  {
+   "i": 1049,
+   "src": "205d6fe9d809",
+   "t": "Now you can {{robattle}} online, too."
+  }
+ ]
+}

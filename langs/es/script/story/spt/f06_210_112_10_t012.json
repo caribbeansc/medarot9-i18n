@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_210_112_10_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "dfd4cfe770e4",
+   "t": "Pero es otro tema. Entrar sin permiso a"
+  },
+  {
+   "i": 1038,
+   "src": "5a729aa3da50",
+   "t": "la {{principal_s_office}} es inaudito."
+  },
+  {
+   "i": 1046,
+   "src": "dbfdf144e7e5",
+   "t": "No puedo dejarlo pasar, pero..."
+  },
+  {
+   "i": 1049,
+   "src": "edf569d01129",
+   "t": "¿qué hago ahora...?"
+  }
+ ]
+}

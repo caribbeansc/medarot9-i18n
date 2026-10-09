@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_2e_320_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1038,
+   "src": "3a72102d1e0d",
+   "t": "Medalia Rush?"
+  },
+  {
+   "i": 1041,
+   "src": "84727d0540fb",
+   "t": "Never heard of it."
+  },
+  {
+   "i": 1049,
+   "src": "fbe6e83b31da",
+   "t": "We have field training today."
+  },
+  {
+   "i": 1052,
+   "src": "92b155a91524",
+   "t": "And tomorrow, of course."
+  },
+  {
+   "i": 1070,
+   "src": "40d012a79a6e",
+   "t": "And the day after, too!"
+  }
+ ]
+}

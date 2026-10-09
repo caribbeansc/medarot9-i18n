@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1d_116_s02_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "88f1430a893b",
+   "t": "{{kamekichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "d79c96ed83d7",
+   "t": "I'm in the Fishing {{club|cap}}."
+  },
+  {
+   "i": 1041,
+   "src": "39c336f7a01e",
+   "t": "I'm glad they sell fishing gear here, too."
+  }
+ ]
+}

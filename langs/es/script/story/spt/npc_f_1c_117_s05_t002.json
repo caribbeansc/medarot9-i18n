@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_1c_117_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "c808741ef2b8",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1042,
+   "src": "17c1027988c8",
+   "t": "-kun, ¿quieres estudiar juntos?"
+  },
+  {
+   "i": 1050,
+   "src": "74350899803b",
+   "t": "Eh, ¿estás buscando a alguien?"
+  },
+  {
+   "i": 1053,
+   "src": "72afcf2fc4d0",
+   "t": "¿¡Un hacker!?"
+  },
+  {
+   "i": 1061,
+   "src": "66a6decc170e",
+   "t": "No conozco a nadie así."
+  },
+  {
+   "i": 1064,
+   "src": "57b565695e50",
+   "t": "¿Existen los hackers de verdad?"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/itemlist.spt",
+ "lines": [
+  {
+   "i": 1544,
+   "src": "f60815100faa",
+   "t": "Consumibles"
+  },
+  {
+   "i": 1545,
+   "src": "be7c607c5929",
+   "t": "Importantes"
+  },
+  {
+   "i": 1556,
+   "src": "f60815100faa",
+   "t": "Consumibles"
+  },
+  {
+   "i": 1564,
+   "src": "be7c607c5929",
+   "t": "Importantes"
+  },
+  {
+   "i": 2142,
+   "src": "988e32d18d45",
+   "t": ":"
+  },
+  {
+   "i": 2151,
+   "src": "6ee8d6e74481",
+   "t": "¿Quieres usarlo?"
+  }
+ ]
+}

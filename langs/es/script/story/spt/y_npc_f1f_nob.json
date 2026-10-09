@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f1f_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "97c3154bbe1b",
+   "t": "{{yukishiro}}"
+  },
+  {
+   "i": 1035,
+   "src": "7953db9c75ab",
+   "t": "Lo siento... ahora no..."
+  },
+  {
+   "i": 1038,
+   "src": "3a08e9be7e91",
+   "t": "Estoy ocupada..."
+  }
+ ]
+}

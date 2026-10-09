@@ -1,0 +1,135 @@
+{
+ "file": "story/spt/f05_090_154_00_t025.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "4826e79efab3",
+   "t": "That was easy..."
+  },
+  {
+   "i": 1047,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1053,
+   "src": "6af6b74068d9",
+   "t": "No, no. As always, talking with you"
+  },
+  {
+   "i": 1056,
+   "src": "786076643b58",
+   "t": "goes smoothly, and that helps."
+  },
+  {
+   "i": 1064,
+   "src": "d370e0866fea",
+   "t": "Well then, let's head to the Exploration\n{{club|cap}}\nright away--"
+  },
+  {
+   "i": 1074,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1080,
+   "src": "b38c819f72fc",
+   "t": "Wait."
+  },
+  {
+   "i": 1090,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1096,
+   "src": "2cb791852d97",
+   "t": "What is it, {{ryoma}}-kun?"
+  },
+  {
+   "i": 1103,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1109,
+   "src": "31714da28f55",
+   "t": "Aren't you forgetting something?"
+  },
+  {
+   "i": 1112,
+   "src": "ef2e0a130efa",
+   "t": "Tomorrow is--"
+  },
+  {
+   "i": 1129,
+   "src": "5c2b8091ea96",
+   "t": "The final exams!!"
+  },
+  {
+   "i": 1134,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1140,
+   "src": "a2010b7c0c32",
+   "t": "Oh, right. Is it?"
+  },
+  {
+   "i": 1155,
+   "src": "279a796a8ad6",
+   "t": "But there's no need to panic."
+  },
+  {
+   "i": 1158,
+   "src": "b6765d58b59d",
+   "t": "As long as you don't fail, you'll be fine."
+  },
+  {
+   "i": 1165,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1171,
+   "src": "193ca6421d50",
+   "t": "I'm not worried about going that far."
+  },
+  {
+   "i": 1179,
+   "src": "138e550a051a",
+   "t": "Oh, by the way,"
+  },
+  {
+   "i": 1182,
+   "src": "3a2d75c517f9",
+   "t": "what happens if you fail?"
+  },
+  {
+   "i": 1187,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1193,
+   "src": "28dba85003e7",
+   "t": "The full summer cram course."
+  },
+  {
+   "i": 1203,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1209,
+   "src": "91a5b7a9cbc3",
+   "t": "Goodbye, summer vacation."
+  },
+  {
+   "i": 1227,
+   "src": "a743c2ac2de3",
+   "t": "Eh..."
+  }
+ ]
+}

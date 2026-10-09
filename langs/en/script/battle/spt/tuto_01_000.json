@@ -1,0 +1,155 @@
+{
+ "file": "battle/spt/tuto_01_000.spt",
+ "lines": [
+  {
+   "i": 1098,
+   "src": "4aedf8291041",
+   "t": "Use the {{medawatch}}'s <c:ff00ff>command screen<c>\nand give me some <c:ff00ff>orders<c>.                   "
+  },
+  {
+   "i": 1107,
+   "src": "4aedf8291041",
+   "t": "Use the {{medawatch}}'s <c:ff00ff>command screen<c>\nand give me some <c:ff00ff>orders<c>.                   "
+  },
+  {
+   "i": 1119,
+   "src": "a04f62285363",
+   "t": "Leave it to me!"
+  },
+  {
+   "i": 1127,
+   "src": "e1fe19701a0a",
+   "t": "The basics: use a {{part}}'s \"actions.\"\nAttack, support, heal... they vary.                                      "
+  },
+  {
+   "i": 1132,
+   "src": "eb2402a4a618",
+   "t": "Pick a {{part}} to use with the D-Pad.\n$ｻ selects the head {{part}}.                                                                "
+  },
+  {
+   "i": 1133,
+   "src": "bf0635bd797f",
+   "t": ""
+  },
+  {
+   "i": 1172,
+   "src": "f152fa526de0",
+   "t": "Info on the selected {{part}} shows\nin the status window above.                            "
+  },
+  {
+   "i": 1198,
+   "src": "f9002cc523d3",
+   "t": " This icon is the <c:00ffe6>{{pierce|cap}} Mark<c>.            "
+  },
+  {
+   "i": 1203,
+   "src": "dc86a60e91db",
+   "t": "{{pierce|cap}} attacks that {{destroy}} a {{part}}\ndeal extra {{damage}} to the head.               "
+  },
+  {
+   "i": 1221,
+   "src": "66cbfa2e37f4",
+   "t": "The head is stronger than other {{part|pl}},\nbut it only has a few uses.       "
+  },
+  {
+   "i": 1235,
+   "src": "66bbd8bf0513",
+   "t": "The {{remaining}} uses are shown\non this gauge.                        "
+  },
+  {
+   "i": 1246,
+   "src": "0673a04f5d42",
+   "t": "Press <c:00ffe6>$ｽ<c> on the <c:00ffe6>D-Pad<c> to\nselect the <c:ff00ff>right arm<c>."
+  },
+  {
+   "i": 1247,
+   "src": "cfe08f3e8880",
+   "t": ""
+  },
+  {
+   "i": 1282,
+   "src": "67fcfaddec41",
+   "t": ""
+  },
+  {
+   "i": 1283,
+   "src": "f9002cc523d3",
+   "t": "This icon $0 shows <c:00ffe6>{{pierce}} damage<c>.         "
+  },
+  {
+   "i": 1288,
+   "src": "dc86a60e91db",
+   "t": "{{pierce|cap}} attacks that {{destroy}} a {{part}}\ndeal extra {{damage}} to the head.               "
+  },
+  {
+   "i": 1302,
+   "src": "b411b5926242",
+   "t": "Press <c:00ffe6>$ｼ<c> on the <c:00ffe6>D-Pad<c> and\nselect the <c:ff00ff>left arm<c>."
+  },
+  {
+   "i": 1303,
+   "src": "2781b626882e",
+   "t": ""
+  },
+  {
+   "i": 1309,
+   "src": "b411b5926242",
+   "t": ""
+  },
+  {
+   "i": 1310,
+   "src": "99ed43afcc00",
+   "t": " Now the <c:ff00ff>left {{arm_part}}<c> - press <c:00ffe6>$ｼ<c>.\nThe <c:ff00ff>left arm<c> pierces too!                    "
+  },
+  {
+   "i": 1359,
+   "src": "fad53305c661",
+   "t": "The head can't attack. Let's fight\nwith the arms, which are unlimited.                     "
+  },
+  {
+   "i": 1365,
+   "src": "e5e78c17576c",
+   "t": "Unlike the head, arm {{part|pl}} can be used\nany number of times. Fight with them.        "
+  },
+  {
+   "i": 1386,
+   "src": "83474f31efd8",
+   "t": ""
+  },
+  {
+   "i": 1387,
+   "src": "b1bc3c5ebe9d",
+   "t": " Press <c:00ffe6>$ｾ<c> on the <c:00ffe6>D-Pad<c> and\npick the <c:ff00ff>legs<c>.   "
+  },
+  {
+   "i": 1414,
+   "src": "3eafb00a5dfe",
+   "t": "{{legs}} have no actions, but they affect\nevery ability of a {{medabot}}.                 "
+  },
+  {
+   "i": 1419,
+   "src": "6e460ca2db58",
+   "t": "They have a passive {{effect}},\nthe \"<c:ff00ff>{{leg_trait}}<c>.\"      "
+  },
+  {
+   "i": 1456,
+   "src": "d9de02e3e60a",
+   "t": "Now, let's decide the first command!\nPick any {{part}} except the legs...      "
+  },
+  {
+   "i": 1467,
+   "src": "d11dd2f216a0",
+   "t": "Let's try an attack first.\nPick one of the arm {{part|pl}}...                                              "
+  },
+  {
+   "i": 1531,
+   "src": "0f0c870b1456",
+   "t": "Confirm the command with the $*\nbutton.    "
+  },
+  {
+   "i": 1584,
+   "src": "706276fcd5b6",
+   "t": "Alright, let the {{robattle}} begin!  "
+  }
+ ]
+}

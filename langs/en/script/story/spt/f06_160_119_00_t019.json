@@ -1,0 +1,130 @@
+{
+ "file": "story/spt/f06_160_119_00_t019.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1045,
+   "src": "cb51ec649cb9",
+   "t": "Ta-da!"
+  },
+  {
+   "i": 1066,
+   "src": "393ae1709561",
+   "t": "Hey, even now, no reaction?"
+  },
+  {
+   "i": 1069,
+   "src": "a1dad77e643c",
+   "t": "Isn't that a bit too cold?"
+  },
+  {
+   "i": 1085,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1096,
+   "src": "ee93ee9138cd",
+   "t": "Sorry, sorry."
+  },
+  {
+   "i": 1111,
+   "src": "d37c1f2834c8",
+   "t": "So many unexpected things kept\nhappening,"
+  },
+  {
+   "i": 1114,
+   "src": "04c1d59ee249",
+   "t": "that even I couldn't {{react}}, hahaha."
+  },
+  {
+   "i": 1122,
+   "src": "9a617456dcb3",
+   "t": "But I'm fine now."
+  },
+  {
+   "i": 1130,
+   "src": "fd6c9005d35d",
+   "t": "Sorry to spring this on you, but may I\nask a question?"
+  },
+  {
+   "i": 1133,
+   "src": "e18d97757e4b",
+   "t": "I have a lot, but just one for now."
+  },
+  {
+   "i": 1140,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1149,
+   "src": "6433f020ad6c",
+   "t": "Heh."
+  },
+  {
+   "i": 1152,
+   "src": "77d34e5e7091",
+   "t": "I like smart men."
+  },
+  {
+   "i": 1159,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1168,
+   "src": "16d5677681fd",
+   "t": "What do you get out of this?"
+  },
+  {
+   "i": 1175,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1184,
+   "src": "f0d3a2d3d89a",
+   "t": "We might get a clue to solve"
+  },
+  {
+   "i": 1187,
+   "src": "5e91ca7c4ac9",
+   "t": "the secret of this island."
+  },
+  {
+   "i": 1194,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1203,
+   "src": "30c3d1a3a805",
+   "t": "You want to solve the island's secret?"
+  },
+  {
+   "i": 1206,
+   "src": "c94f4ad285c9",
+   "t": "Are you a detective or something?"
+  },
+  {
+   "i": 1213,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1222,
+   "src": "0c35de32b55e",
+   "t": "Didn't you say just one yourself?"
+  },
+  {
+   "i": 1225,
+   "src": "afc63c503faa",
+   "t": "I hate dumb men."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m2c.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "f2bc7f988387",
+   "t": "{{eishin}}"
+  },
+  {
+   "i": 1653,
+   "src": "f3b1ff4cdc93",
+   "t": "Una {{robattle}}, ¿eh? Suena bien."
+  },
+  {
+   "i": 1656,
+   "src": "c171e33acc08",
+   "t": "Seré tu {{opponent}} con mucho gusto."
+  }
+ ]
+}

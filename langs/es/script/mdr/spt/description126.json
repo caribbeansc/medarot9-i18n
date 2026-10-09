@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description126.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "eee9f5296ac7",
+   "t": "Antiaéreo (sub.)"
+  },
+  {
+   "i": 11,
+   "src": "3ed3c80d328a",
+   "t": "<c:ffff00>Subhabilidad<c> de <c:ffff00>ataque<c> de <c:ffff00>{{part|pl}}<c> con munición o\nmecanismo especial que mejora mucho el\n<c:ffff00>{{stats}}<c> contra rivales que vuelan.\nPor preparar la munición o el mecanismo, el\n<c:ffff00>{{stats}} de {{prep}}<c> de la <c:ffff00>técnica<c> baja un 50%.\nSi al completar la <c:ffff00>{{prep}}<c> (no al elegir el comando) el\n<c:ffff00>{{leg_type}}<c> del <c:ffff00>{{target}}<c> es <c:ffff00>{{flying}}<c>, se añaden:\n<c:ffff00>{{stats}} de {{power}}<c> +20, <c:ffff00>{{evade}}<c> del {{target}}\nen 0% y siempre <c:ffff00>{{critical}}<c>. Si no, es un ataque normal."
+  }
+ ]
+}

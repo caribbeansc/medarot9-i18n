@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_44.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6ca73aa7d099",
+   "t": "<c:00ff00>Action:<c> {{melt}}\nA melee attack that\napplies\nthe {{melt}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{melt}}\nFor a while, after each\naction deals 20% {{damage}}\nto\nall {{part|pl}}. Not the {{leader}}."
+  }
+ ]
+}

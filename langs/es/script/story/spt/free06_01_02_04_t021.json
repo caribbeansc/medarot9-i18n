@@ -1,0 +1,150 @@
+{
+ "file": "story/spt/free06_01_02_04_t021.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "c80a5ba2f4a4",
+   "t": "Así que esta es la torre del pozo..."
+  },
+  {
+   "i": 1039,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1045,
+   "src": "bae4774482ac",
+   "t": "En otras palabras, hay una {{mine_shaft}}\njusto debajo de este punto."
+  },
+  {
+   "i": 1052,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1058,
+   "src": "aa1953d80b7e",
+   "t": "Sí."
+  },
+  {
+   "i": 1061,
+   "src": "4249f838efa2",
+   "t": "Aunque el elevador está muerto."
+  },
+  {
+   "i": 1069,
+   "src": "de60fc551bb3",
+   "t": "Cuidado, no caigas si te asomas"
+  },
+  {
+   "i": 1072,
+   "src": "cda23e6fab81",
+   "t": "ahí. El fondo es muy profundo."
+  },
+  {
+   "i": 1079,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1088,
+   "src": "7dbec7f4eb72",
+   "t": "Que tenga cuidado, dices..."
+  },
+  {
+   "i": 1096,
+   "src": "34d4323f309c",
+   "t": "El hoyo está en ese cilindro, ¿no?"
+  },
+  {
+   "i": 1099,
+   "src": "66456c165789",
+   "t": "No parece haber mirilla por aquí."
+  },
+  {
+   "i": 1110,
+   "src": "f20b3fa7ddd3",
+   "t": "Hay una escalera. Si la usas y"
+  },
+  {
+   "i": 1113,
+   "src": "c216a2d5fc27",
+   "t": "subes a la cima, ¿podrás asomarte?"
+  },
+  {
+   "i": 1118,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1127,
+   "src": "d00a486e68e4",
+   "t": "Esas escaleras están en ruinas, ¿no?"
+  },
+  {
+   "i": 1130,
+   "src": "26081a844a87",
+   "t": "Casi no quedan escalones."
+  },
+  {
+   "i": 1141,
+   "src": "cfb84575aa84",
+   "t": "Ah, tienes razón."
+  },
+  {
+   "i": 1144,
+   "src": "3b46610bf6a7",
+   "t": "Bueno entonces, mmm..."
+  },
+  {
+   "i": 1149,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1155,
+   "src": "99a96658ed0e",
+   "t": "No, no, chicos"
+  },
+  {
+   "i": 1158,
+   "src": "eb7e29291dd7",
+   "t": "No hace falta arriesgarse a caer."
+  },
+  {
+   "i": 1165,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1171,
+   "src": "8dc1b145e014",
+   "t": "Aun así, lo mejor es captar justo sobre"
+  },
+  {
+   "i": 1174,
+   "src": "a662dc916924",
+   "t": "el pozo; hay que subir a la torre."
+  },
+  {
+   "i": 1181,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1187,
+   "src": "428afdf9aa38",
+   "t": "Sí, bueno entonces..."
+  },
+  {
+   "i": 1191,
+   "src": "0bd99c71f0ed",
+   "t": "-chan."
+  },
+  {
+   "i": 1204,
+   "src": "7292df59b095",
+   "t": "Déjamelo a mí."
+  }
+ ]
+}

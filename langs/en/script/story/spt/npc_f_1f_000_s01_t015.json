@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1f_000_s01_t015.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "97c3154bbe1b",
+   "t": "{{yukishiro}}"
+  },
+  {
+   "i": 1038,
+   "src": "346ed20e2a21",
+   "t": "I've decided."
+  },
+  {
+   "i": 1041,
+   "src": "c4b5f3478147",
+   "t": "I'll have chicken nanban today."
+  }
+ ]
+}

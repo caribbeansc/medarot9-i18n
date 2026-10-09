@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_142.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6f9d633c7e7b",
+   "t": "<c:00ff01>Técnica:<c>{{reflect_action}}\n{{guard}} contra ataques de\n{{fighting}} a aliados.\nTras interceptar,\ncontraataca con el mismo\n{{attack_power}}.\nTermina si aliados actúan\n4 veces o pasa un\ntiempo."
+  }
+ ]
+}

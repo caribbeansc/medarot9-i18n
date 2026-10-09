@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_teach_mb_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e895c1be5156",
+   "t": "{{moon_dragon}}"
+  },
+  {
+   "i": 1035,
+   "src": "bbdfcabc528e",
+   "t": "Resiste, {{master}}"
+  },
+  {
+   "i": 1038,
+   "src": "4a2505827e3b",
+   "t": "Solo un esfuerzo más..."
+  }
+ ]
+}

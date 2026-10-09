@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f06_230_212_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "0f1c22e037c6",
+   "t": "¡{{medalia}}!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "d87327c6baa5",
+   "t": "Así que un {{medabot}} la tenía..."
+  }
+ ]
+}

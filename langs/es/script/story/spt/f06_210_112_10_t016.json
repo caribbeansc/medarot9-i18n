@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f06_210_112_10_t016.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1045,
+   "src": "8e0782b83d95",
+   "t": "Tú eres {{main}}-san, ¿verdad? ¿Debería"
+  },
+  {
+   "i": 1048,
+   "src": "f87a3cda757a",
+   "t": "creer las palabras de una niña genio?"
+  },
+  {
+   "i": 1069,
+   "src": "f70429ff9f46",
+   "t": "Quiero recalcar una última cosa."
+  },
+  {
+   "i": 1077,
+   "src": "03b155a859fc",
+   "t": "Sobre ese aparato del cuarto oculto,"
+  },
+  {
+   "i": 1080,
+   "src": "35e7bef16103",
+   "t": "¿lo dejaron todo como estaba?"
+  },
+  {
+   "i": 1094,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1100,
+   "src": "2170f5b2baf9",
+   "t": "No hay problema. Prácticamente"
+  },
+  {
+   "i": 1103,
+   "src": "02f743e76afe",
+   "t": "no quedarán rastros."
+  },
+  {
+   "i": 1110,
+   "src": "55af011d6889",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1116,
+   "src": "d50cf4694c6a",
+   "t": "Ya veo..."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3e_meda_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e3f5969a7bf3",
+   "t": "{{boy_3_e_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "1a33205f294a",
+   "t": "Qué aburrimiento."
+  },
+  {
+   "i": 1038,
+   "src": "27e192719d2f",
+   "t": "Así mi alma periodística se oxidará."
+  },
+  {
+   "i": 1046,
+   "src": "2d2d37119f33",
+   "t": "Ojalá pasara algo emocionante."
+  },
+  {
+   "i": 1049,
+   "src": "e06230ec1ebf",
+   "t": "¡Algo increíble!"
+  }
+ ]
+}

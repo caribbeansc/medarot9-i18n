@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f03_020_211_00_t002.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "8667436fdf50",
+   "t": "No se abre."
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "86c4a7882a91",
+   "t": "Ah, eso ya lo revisé."
+  },
+  {
+   "i": 1046,
+   "src": "189273b7a6d0",
+   "t": "Pero creo que podremos."
+  },
+  {
+   "i": 1057,
+   "src": "2249e7cffd13",
+   "t": "¿Arreglárnoslas...?"
+  },
+  {
+   "i": 1062,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1068,
+   "src": "97b5ba570e85",
+   "t": "Esta puerta tiene cierre automático."
+  },
+  {
+   "i": 1071,
+   "src": "4cbf4b28136c",
+   "t": "Habrá un interruptor por dentro."
+  },
+  {
+   "i": 1081,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1090,
+   "src": "c4f55161f531",
+   "t": "No lo entiendo."
+  },
+  {
+   "i": 1093,
+   "src": "e365cfd85910",
+   "t": "¿Y cómo entramos entonces?"
+  },
+  {
+   "i": 1100,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1109,
+   "src": "02a33ba8c5c2",
+   "t": "Bajo tierra, el aire está fresco."
+  },
+  {
+   "i": 1112,
+   "src": "65e760fad60b",
+   "t": "Habrá otro camino aparte de la puerta..."
+  },
+  {
+   "i": 1120,
+   "src": "757efc4d0da6",
+   "t": "¡Entonces hay que buscarlo!"
+  }
+ ]
+}

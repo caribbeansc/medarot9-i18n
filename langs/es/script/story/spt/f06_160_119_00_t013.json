@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_160_119_00_t013.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "b82d3d615aa1",
+   "t": "Ah, {{main}}-cha-"
+  },
+  {
+   "i": 1042,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1051,
+   "src": "4e79ce76c5ee",
+   "t": "¡Con permiso!"
+  },
+  {
+   "i": 1072,
+   "src": "5c6f261ace9e",
+   "t": "Oh..."
+  },
+  {
+   "i": 1075,
+   "src": "ed842add96bc",
+   "t": "Parece que no hay nadie en casa..."
+  }
+ ]
+}

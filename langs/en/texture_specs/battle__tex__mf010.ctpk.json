@@ -1,0 +1,29 @@
+{
+ "rel": "battle/tex/mf010.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    96,
+    56,
+    320,
+    60
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "medafuerza",
+   "box": [
+    106,
+    58,
+    300,
+    54
+   ],
+   "erase": "none",
+   "text": "Orogeny",
+   "cap": 24,
+   "baseline": 94
+  }
+ ]
+}

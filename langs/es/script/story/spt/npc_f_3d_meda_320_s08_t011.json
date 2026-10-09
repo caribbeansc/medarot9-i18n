@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3d_meda_320_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4e1ee0d069ed",
+   "t": "{{float_spinner}}"
+  },
+  {
+   "i": 1038,
+   "src": "61a27975f503",
+   "t": "Los senderos son angostos y desiguales,"
+  },
+  {
+   "i": 1041,
+   "src": "4b86979a0f4e",
+   "t": "flotantes tienen ventaja."
+  }
+ ]
+}

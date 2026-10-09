@@ -1,0 +1,135 @@
+{
+ "file": "story/spt/f06_220_161_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "08e7bfa91ba0",
+   "t": "Ya veo, ya veo. Bueno, supongo que"
+  },
+  {
+   "i": 1038,
+   "src": "34bff060c79f",
+   "t": "no sabremos hasta salir al {{field}}."
+  },
+  {
+   "i": 1054,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1062,
+   "src": "0bdc6225aa0b",
+   "t": "¿¡Lo vas a usar ya!?"
+  },
+  {
+   "i": 1072,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1078,
+   "src": "0208a556901c",
+   "t": "Ese es el plan."
+  },
+  {
+   "i": 1085,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1091,
+   "src": "e3415a7d36a9",
+   "t": "¿...De verdad está bien? Le mentiremos"
+  },
+  {
+   "i": 1094,
+   "src": "4ad665206e22",
+   "t": "al {{vice_principal}} y lo engañaremos..."
+  },
+  {
+   "i": 1101,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1107,
+   "src": "250918ad624c",
+   "t": "No miento, ¿verdad? Nunca más"
+  },
+  {
+   "i": 1110,
+   "src": "a90f8098cce6",
+   "t": "me colaré en la {{principal_s_office}}."
+  },
+  {
+   "i": 1117,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1123,
+   "src": "a0c2625470ae",
+   "t": "P-pero el subdirector seguramente"
+  },
+  {
+   "i": 1126,
+   "src": "41a93801e7c0",
+   "t": "no cree que sigamos usándolo."
+  },
+  {
+   "i": 1133,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1139,
+   "src": "1ffdfaf357cc",
+   "t": "Seguro. Por eso está bien."
+  },
+  {
+   "i": 1142,
+   "src": "ce2d9b0cb108",
+   "t": "El {{vice_principal}} no será culpado."
+  },
+  {
+   "i": 1149,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1155,
+   "src": "dc79b9bddb14",
+   "t": "B-bueno..."
+  },
+  {
+   "i": 1162,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1168,
+   "src": "32e7b4fa178a",
+   "t": "Sería una lástima parar aquí. Pensemos"
+  },
+  {
+   "i": 1171,
+   "src": "aa432e37fd86",
+   "t": "en el futuro después de terminar esto."
+  },
+  {
+   "i": 1179,
+   "src": "982fe97a7f50",
+   "t": "Más importante aún-"
+  },
+  {
+   "i": 1197,
+   "src": "94989e1e6a51",
+   "t": "Aquí, y aquí, y... sí, aquí."
+  }
+ ]
+}

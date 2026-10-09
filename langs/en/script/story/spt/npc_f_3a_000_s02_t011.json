@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3a_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "02d3fd812897",
+   "t": "{{megumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "0d5e0a71cdeb",
+   "t": "Huh, {{aoi}}?"
+  },
+  {
+   "i": 1041,
+   "src": "4a87be7d205e",
+   "t": "{{aoi}}-chan, from the {{idol_club}}?"
+  },
+  {
+   "i": 1049,
+   "src": "0f6bae16a28c",
+   "t": "Yeah, I know her."
+  },
+  {
+   "i": 1052,
+   "src": "d2f12306b5b3",
+   "t": "Our rooms are close in the dormitory."
+  },
+  {
+   "i": 1060,
+   "src": "94fd47691c26",
+   "t": "She's cute, but such a serious girl. She's"
+  },
+  {
+   "i": 1063,
+   "src": "3664c9e8c1b0",
+   "t": "probably practicing with her {{club}} right\nnow?"
+  }
+ ]
+}

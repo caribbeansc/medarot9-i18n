@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/tuto_03_001.spt",
+ "lines": [
+  {
+   "i": 1111,
+   "src": "2567d5287753",
+   "t": "¡Bien!  "
+  },
+  {
+   "i": 1116,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1122,
+   "src": "10797b888b97",
+   "t": "La puntería tarda más en cargar que un\nataque normal y falla más, pero..."
+  },
+  {
+   "i": 1127,
+   "src": "a709ca288f54",
+   "t": "Con {{success}}, <c:ff00ff>impide defender y esquivar<c>\ny <c:ff00ff>la {{part}} apuntada recibe {{damage}}<c>.                                                      "
+  },
+  {
+   "i": 1135,
+   "src": "0cf37c5e629a",
+   "t": "Sirve para destruir con exactitud {{part|pl}}\ncon técnicas molestas o poco {{armor}}...                 "
+  },
+  {
+   "i": 1140,
+   "src": "92cc66e4fda4",
+   "t": "Es útil para acertar con seguridad a\n{{medabot|pl}} con gran {{defend}} o {{evade}}.                 "
+  }
+ ]
+}

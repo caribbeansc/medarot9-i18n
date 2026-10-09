@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_14.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a883d56b5495",
+   "t": "<c:00ff00>Técnica:<c>Anti-Mar\nAtaque de {{shooting}} que\ncausa gran {{damage}} si la\n{{leg_part}} del {{opponent}}\nes de tipo sumergible.\nTiene {{effect}} perforante."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_seitokai_fb.spt",
+ "lines": [
+  {
+   "i": 1632,
+   "src": "aff5ca5901b9",
+   "t": "{{council_chirori}}"
+  },
+  {
+   "i": 1643,
+   "src": "461c4b969006",
+   "t": "¡Oh, es una {{robattle}}!"
+  },
+  {
+   "i": 1646,
+   "src": "b1226e4b55b0",
+   "t": "¡Claro que me apunto! ¡Vamos allá!"
+  }
+ ]
+}

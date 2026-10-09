@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/reward_parts_tuto.spt",
+ "lines": [
+  {
+   "i": 828,
+   "src": "ceff5d4eac34",
+   "t": "Si ganas una {{robattle}}, recibes 1-3\n{{part|pl}} del {{medabot}} {{opponent}}."
+  },
+  {
+   "i": 832,
+   "src": "934ff8b1a2b9",
+   "t": "Recibes tantas {{part|pl}} como Medabots\ndejes {{knocked_out}}: esta vez, 1."
+  },
+  {
+   "i": 836,
+   "src": "722b30fb4cdd",
+   "t": "¡Elige tus {{part|pl}} entre las del {{medabot}}\n{{knocked_out}} y las destruidas!"
+  }
+ ]
+}

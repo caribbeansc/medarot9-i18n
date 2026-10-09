@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_2c_164_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1038,
+   "src": "252e771d5bc0",
+   "t": "¿Sabías que la {{medalia}} vino"
+  },
+  {
+   "i": 1041,
+   "src": "177fdd48bd71",
+   "t": "del espacio? Un meteorito cayó aquí--"
+  },
+  {
+   "i": 1049,
+   "src": "14185ba2767f",
+   "t": "se hizo añicos y formó la {{medalia}}."
+  },
+  {
+   "i": 1052,
+   "src": "08910be1c7c0",
+   "t": "Por eso solo existe en esta isla."
+  },
+  {
+   "i": 1060,
+   "src": "949b436e19f5",
+   "t": "¡Ese gran {{crater}} en el centro"
+  },
+  {
+   "i": 1063,
+   "src": "a24a97a184a8",
+   "t": "de la isla es donde cayó el meteorito!"
+  }
+ ]
+}

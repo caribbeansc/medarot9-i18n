@@ -1,0 +1,58 @@
+{
+ "rel": "mdr/tex/bt_sre.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond",
+  "cap": 11,
+  "fill": "#FFFFFF",
+  "stroke": "#444444A0",
+  "stroke_w": 1,
+  "baseline": 23,
+  "shadow": {
+   "dx": 0,
+   "dy": 0,
+   "color": "#000000",
+   "blur": 2,
+   "opacity": 0.55
+  }
+ },
+ "items": [
+  {
+   "box": [
+    6,
+    6,
+    120,
+    26
+   ],
+   "erase_box": [
+    0,
+    0,
+    128,
+    32
+   ],
+   "text": "Make Team"
+  },
+  {
+   "box": [
+    128,
+    6,
+    40,
+    26
+   ],
+   "pad": [
+    0,
+    1,
+    0,
+    1
+   ],
+   "erase_box": [
+    128,
+    0,
+    40,
+    32
+   ],
+   "text": "Battle"
+  }
+ ]
+}

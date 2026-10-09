@@ -1,0 +1,50 @@
+{
+ "file": "battle/spt/tuto_02_002.spt",
+ "lines": [
+  {
+   "i": 1085,
+   "src": "2567d5287753",
+   "t": "Good!   "
+  },
+  {
+   "i": 1098,
+   "src": "1c8766b67ff3",
+   "t": "Aimshot preps slower than a normal\nattack and misses more, but...                                "
+  },
+  {
+   "i": 1103,
+   "src": "d356e9e2976d",
+   "t": "If it hits, <c:ff00ff>the foe can't defend or evade<c>\nand <c:ff00ff>the targeted slot takes sure {{damage}}<c>.                         "
+  },
+  {
+   "i": 1108,
+   "src": "b0d711ae4a74",
+   "t": "Pinpoint-{{destroy}} {{part|pl}} with nasty\nactions or thin armor...                                          "
+  },
+  {
+   "i": 1113,
+   "src": "f1bb9b7cf935",
+   "t": "Use it to land a sure hit on a {{medabot}}\nthat excels at {{defend}} or {{evade}}!                           "
+  },
+  {
+   "i": 1124,
+   "src": "7b5c21f54ae7",
+   "t": "After an all-out attack,\nrecovering its stance takes time."
+  },
+  {
+   "i": 1129,
+   "src": "1d56037ee91d",
+   "t": "In other words, during {{cooldown}}\nit can't defend or evade."
+  },
+  {
+   "i": 1134,
+   "src": "abec9eeaa58b",
+   "t": "A hit in this state is always\na {{critical}} and does heavy {{damage}}.                               "
+  },
+  {
+   "i": 1139,
+   "src": "c2ef82066021",
+   "t": "Very strong, but very risky.\nUse it when you're safe in {{cooldown}}.                              "
+  }
+ ]
+}

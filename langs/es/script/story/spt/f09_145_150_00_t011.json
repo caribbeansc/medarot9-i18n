@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f09_145_150_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "73b634fdc310",
+   "t": "El {{dormitory}} femenino..."
+  },
+  {
+   "i": 1038,
+   "src": "9c0a0ba077d4",
+   "t": "Ahí seguro no está, ¿verdad?"
+  }
+ ]
+}

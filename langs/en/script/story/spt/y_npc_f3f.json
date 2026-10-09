@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3f.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1675,
+   "src": "a335d298ada5",
+   "t": "Oh, you want a {{robattle}}?"
+  },
+  {
+   "i": 1678,
+   "src": "0964f899ab55",
+   "t": "Sure, I won't lose~!"
+  }
+ ]
+}

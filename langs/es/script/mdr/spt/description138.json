@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description138.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fd9319f41ea2",
+   "t": "{{trap|cap}} ({{object}})"
+  },
+  {
+   "i": 11,
+   "src": "dad9f5aef32a",
+   "t": "<c:ffff00>{{object|cap}}<c> similar a una {{trap}} que se activa ante una\n<c:ffff00>acción<c> concreta del {{opponent}}. Se coloca en el <c:ffff00>{{field}}<c>,\nsobre todo con <c:ffff00>técnicas<c> de la <c:ffff00>habilidad de {{trap}}<c>.\nUn solo tipo por equipo: colocar otro lo reemplaza.\nAl colocarse, su <c:ffff00>{{armor}}<c> es 100 y baja 50 en cada\nactivación. No se puede <c:ffff00>recuperar<c>, pero volver a\ncolocar el mismo tipo (ampliar) lo sube 50 (máximo\n300); si queda por debajo de 100, vuelve a 100.\nAlgunos tipos cambian de {{effect}} según el {{armor}}."
+  }
+ ]
+}

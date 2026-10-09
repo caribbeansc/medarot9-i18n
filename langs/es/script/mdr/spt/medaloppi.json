@@ -1,0 +1,230 @@
+{
+ "file": "mdr/spt/medaloppi.spt",
+ "lines": [
+  {
+   "i": 1746,
+   "src": "659ddcb97acb",
+   "t": "Guardando..."
+  },
+  {
+   "i": 1807,
+   "src": "cbf2f9db8b90",
+   "t": "Error al guardar."
+  },
+  {
+   "i": 1891,
+   "src": "b588acc02310",
+   "t": "Recibiendo regalo..."
+  },
+  {
+   "i": 1921,
+   "src": "71a26c7fd812",
+   "t": "Los datos se dañaron     "
+  },
+  {
+   "i": 1922,
+   "src": "e329ba9772b4",
+   "t": "y fueron eliminados.  "
+  },
+  {
+   "i": 1962,
+   "src": "345a215cbef9",
+   "t": "No hay regalos nuevos.  "
+  },
+  {
+   "i": 2127,
+   "src": "242b2eb50a16",
+   "t": "<c> - set de {{part|pl}} obtenido!"
+  },
+  {
+   "i": 2489,
+   "src": "1ff1911619b5",
+   "t": "Para usar en línea,  "
+  },
+  {
+   "i": 2490,
+   "src": "a437386b6b6f",
+   "t": "escribe tu nombre."
+  },
+  {
+   "i": 2539,
+   "src": "fb650afd032f",
+   "t": "Partida en linea"
+  },
+  {
+   "i": 2540,
+   "src": "0741080803c8",
+   "t": "Partida local"
+  },
+  {
+   "i": 2541,
+   "src": "c09e47e221f6",
+   "t": "Transferir {{part|pl}}"
+  },
+  {
+   "i": 2542,
+   "src": "3b275401dc5a",
+   "t": "Cambiar nombre"
+  },
+  {
+   "i": 2543,
+   "src": "fd04d383e15c",
+   "t": "Recibir regalo"
+  },
+  {
+   "i": 2554,
+   "src": "fb650afd032f",
+   "t": "Partida en linea"
+  },
+  {
+   "i": 2562,
+   "src": "0741080803c8",
+   "t": "Partida local"
+  },
+  {
+   "i": 2570,
+   "src": "c09e47e221f6",
+   "t": "Transferir {{part|pl}}"
+  },
+  {
+   "i": 2578,
+   "src": "3b275401dc5a",
+   "t": "Cambiar nombre"
+  },
+  {
+   "i": 2586,
+   "src": "fd04d383e15c",
+   "t": "Recibir regalo"
+  },
+  {
+   "i": 2724,
+   "src": "c3c5b4d37fe8",
+   "t": "El otro jugador verá este nombre\nen partidas por comunicación y\nStreetPass. Evita nombres que\npuedan molestar al otro jugador."
+  },
+  {
+   "i": 2755,
+   "src": "1019be717317",
+   "t": "Contiene palabras no permitidas."
+  },
+  {
+   "i": 2756,
+   "src": "c7f75fa118bf",
+   "t": "Elige otro nombre.    "
+  },
+  {
+   "i": 2767,
+   "src": "c67de65f175f",
+   "t": "Máximo 5 números.        "
+  },
+  {
+   "i": 2768,
+   "src": "c7f75fa118bf",
+   "t": "Elige otro nombre.    "
+  },
+  {
+   "i": 2802,
+   "src": "cb8433a68c8e",
+   "t": "SpotPass"
+  },
+  {
+   "i": 2803,
+   "src": "bfab5a53d2ec",
+   "t": "Contraseña"
+  },
+  {
+   "i": 2804,
+   "src": "3a224f68c003",
+   "t": "DLC"
+  },
+  {
+   "i": 2811,
+   "src": "7880f4bda104",
+   "t": "StreetPass"
+  },
+  {
+   "i": 2812,
+   "src": "cb8433a68c8e",
+   "t": "SpotPass"
+  },
+  {
+   "i": 2813,
+   "src": "bfab5a53d2ec",
+   "t": "Contraseña"
+  },
+  {
+   "i": 2814,
+   "src": "3a224f68c003",
+   "t": "DLC"
+  },
+  {
+   "i": 2830,
+   "src": "7880f4bda104",
+   "t": "StreetPass"
+  },
+  {
+   "i": 2838,
+   "src": "cb8433a68c8e",
+   "t": "SpotPass"
+  },
+  {
+   "i": 2846,
+   "src": "bfab5a53d2ec",
+   "t": "Contraseña"
+  },
+  {
+   "i": 2854,
+   "src": "3a224f68c003",
+   "t": "DLC"
+  },
+  {
+   "i": 3125,
+   "src": "c0b1b65767f5",
+   "t": "No hay {{part|pl}} para recibir."
+  },
+  {
+   "i": 3160,
+   "src": "7e99e8422747",
+   "t": "Aun cerrando el juego,"
+  },
+  {
+   "i": 3163,
+   "src": "f0cc31a6cbfa",
+   "t": "StreetPass funciona solo."
+  },
+  {
+   "i": 3166,
+   "src": "eb7b873abde0",
+   "t": "¿Registrar juego en StreetPass?"
+  },
+  {
+   "i": 3207,
+   "src": "b6acb72ada59",
+   "t": "Lista de StreetPass llena."
+  },
+  {
+   "i": 3210,
+   "src": "870c1b947cdc",
+   "t": "Desactiva StreetPass de otros"
+  },
+  {
+   "i": 3213,
+   "src": "ba72fb851645",
+   "t": "juegos en Ajustes de la consola."
+  },
+  {
+   "i": 3311,
+   "src": "83934c65f647",
+   "t": "Los padres o tutores limitan"
+  },
+  {
+   "i": 3314,
+   "src": "08ea7077f762",
+   "t": "'StreetPass con otros'"
+  },
+  {
+   "i": 3317,
+   "src": "579bd8a2f803",
+   "t": "y no puedes usar StreetPass."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_47.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1d27560d3637",
+   "t": "<c:00ff00>Action:<c> {{thunder}}\nA melee attack that\napplies\nthe {{thunder}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{thunder}}\nPauses the action for a\nwhile; {{cannot_evade}}.\nReleased when attacked."
+  }
+ ]
+}

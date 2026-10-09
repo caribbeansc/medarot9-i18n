@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b_meda_164_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9f369e870f1a",
+   "t": "{{cyandog}}"
+  },
+  {
+   "i": 1038,
+   "src": "407fbc298f70",
+   "t": "This flashing looks cool, doesn't it! "
+  },
+  {
+   "i": 1041,
+   "src": "4050791b433f",
+   "t": "But don't stare at it too long or you'll\nhurt your eyes!"
+  }
+ ]
+}

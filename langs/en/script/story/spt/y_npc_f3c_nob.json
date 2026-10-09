@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3c_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1047,
+   "src": "deee517201f9",
+   "t": "Sooorry."
+  },
+  {
+   "i": 1050,
+   "src": "7f3a759632a4",
+   "t": "Can't right now, invite me again!"
+  }
+ ]
+}

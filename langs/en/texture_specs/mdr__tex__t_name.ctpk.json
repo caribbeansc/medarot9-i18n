@@ -1,0 +1,203 @@
+{
+ "rel": "mdr/tex/t_name.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "avenir-cond-heavy-italic",
+  "cap": 14,
+  "pad": 0,
+  "crisp": 0,
+  "fill": {
+   "stops": [
+    [
+     0,
+     "#F5F5F5"
+    ],
+    [
+     0.5,
+     "#D1D1D1"
+    ],
+    [
+     1,
+     "#9D9D9D"
+    ]
+   ]
+  },
+  "strokes": [
+   {
+    "color": "#202080",
+    "w": 2
+   }
+  ]
+ },
+ "items": [
+  {
+   "box": [
+    2,
+    0,
+    150,
+    25
+   ],
+   "erase_box": [
+    0,
+    0,
+    154,
+    25
+   ],
+   "text": "Grand Forest",
+   "cap": 14,
+   "baseline": 17
+  },
+  {
+   "box": [
+    2,
+    25,
+    120,
+    24
+   ],
+   "erase_box": [
+    0,
+    25,
+    124,
+    24
+   ],
+   "text": "Clock Town",
+   "cap": 13,
+   "baseline": 42
+  },
+  {
+   "box": [
+    2,
+    50,
+    132,
+    24
+   ],
+   "erase_box": [
+    0,
+    50,
+    136,
+    24
+   ],
+   "text": "Sand Village",
+   "cap": 14,
+   "baseline": 68
+  },
+  {
+   "box": [
+    2,
+    75,
+    167,
+    24
+   ],
+   "erase_box": [
+    0,
+    75,
+    171,
+    24
+   ],
+   "text": "Atlantica Park",
+   "cap": 13.5,
+   "baseline": 92
+  },
+  {
+   "box": [
+    2,
+    100,
+    136,
+    25
+   ],
+   "erase_box": [
+    0,
+    100,
+    140,
+    25
+   ],
+   "text": "Aurora Falls",
+   "cap": 14,
+   "baseline": 118
+  },
+  {
+   "box": [
+    2,
+    125,
+    124,
+    25
+   ],
+   "erase_box": [
+    0,
+    125,
+    128,
+    25
+   ],
+   "text": "Pepper Town",
+   "cap": 14,
+   "baseline": 143
+  },
+  {
+   "box": [
+    2,
+    150,
+    144,
+    25
+   ],
+   "erase_box": [
+    0,
+    150,
+    148,
+    25
+   ],
+   "text": "Medalonia Museum",
+   "cap": 14,
+   "baseline": 168
+  },
+  {
+   "box": [
+    2,
+    176,
+    110,
+    25
+   ],
+   "erase_box": [
+    0,
+    176,
+    114,
+    25
+   ],
+   "text": "Medal Lab",
+   "cap": 14,
+   "baseline": 194
+  },
+  {
+   "box": [
+    114,
+    177,
+    46,
+    12
+   ],
+   "erase": "transparent",
+   "text": "",
+   "erase_box": [
+    114,
+    177,
+    46,
+    13
+   ]
+  },
+  {
+   "box": [
+    114,
+    190,
+    52,
+    12
+   ],
+   "erase": "transparent",
+   "text": "",
+   "erase_box": [
+    114,
+    190,
+    52,
+    13
+   ]
+  }
+ ]
+}

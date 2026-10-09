@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_1e_meda_164_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "6a09e0c2588a",
+   "t": "{{navi_commun}}"
+  },
+  {
+   "i": 1035,
+   "src": "e72959da969c",
+   "t": "This {{part}} is pretty cool."
+  },
+  {
+   "i": 1038,
+   "src": "5e75af71aeb6",
+   "t": "{{sonic_boom}}... a new model, huh."
+  },
+  {
+   "i": 1046,
+   "src": "5388568584a0",
+   "t": "If I ask master, would he buy it for me?"
+  },
+  {
+   "i": 1049,
+   "src": "41b2c6ab060f",
+   "t": "...Probably not."
+  }
+ ]
+}

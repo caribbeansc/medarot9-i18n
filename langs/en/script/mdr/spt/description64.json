@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description64.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bcf06006eb32",
+   "t": "{{trans_part}}"
+  },
+  {
+   "i": 11,
+   "src": "cc1a5169241d",
+   "t": "A function that transfers a <c:ffff00>{{part}}<c> to refit a <c:ffff00>{{medabot}}<c>\nmid-<c:ffff00>{{robattle}}<c>.\nThe EX {{part}} to transfer must be set beforehand, in\nany one <c:ffff00>{{slot}}<c> other than the <c:ffff00>{{head}}<c>.\nOnly the <c:ffff00>{{leader}}<c> can use it, once per {{robattle}}, which\nreveals who the {{leader}} is. It cannot be used if that\n{{slot}} is <c:ffff00>destroyed<c>.\nNo <c:ffff00>{{prep}}<c> or <c:ffff00>{{cooldown}}<c>: a fixed wait is needed, during\nwhich all <c:ffff00>negative statuses<c> are nullified."
+  }
+ ]
+}

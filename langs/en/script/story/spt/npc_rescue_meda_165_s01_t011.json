@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_rescue_meda_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "a6e23e611714",
+   "t": "{{kongo}}"
+  },
+  {
+   "i": 1038,
+   "src": "db80b5854a81",
+   "t": "What the boss says,"
+  },
+  {
+   "i": 1041,
+   "src": "80f51e5320fb",
+   "t": "don't take it too seriously."
+  },
+  {
+   "i": 1049,
+   "src": "ca49facec6fc",
+   "t": "He sounds harsh, but he's just serious."
+  },
+  {
+   "i": 1052,
+   "src": "a7cf3eae5fbf",
+   "t": "He's not angry or anything."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_teach_mc_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "9d002433b612",
+   "t": "{{mr_izumo}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Good morning."
+  }
+ ]
+}

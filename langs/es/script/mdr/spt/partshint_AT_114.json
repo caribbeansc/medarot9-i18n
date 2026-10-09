@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_114.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c605914789ff",
+   "t": "<c:00ff00>Técnica:<c>Reparación Seria\nRecupera bastante el {{damage}}\nde una {{part}} de un\n{{medabot}} {{ally_battle_term}}."
+  }
+ ]
+}

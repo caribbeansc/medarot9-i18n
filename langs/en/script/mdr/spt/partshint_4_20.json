@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_20.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8ae68852efd1",
+   "t": "<c:00ff00>Leg Trait:<c> High {{mobility}}\n{{leg_part|cap}}'s {{mobility}} +5"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_94.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "49e329b43e1f",
+   "t": "<c:00ff00>Action:<c> {{full_charge}}\nSets your own Charge\nGauge to\n100%. The {{part}} used\ntakes {{damage}} equal to\nthe amount gained."
+  }
+ ]
+}

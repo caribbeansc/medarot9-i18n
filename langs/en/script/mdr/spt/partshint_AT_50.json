@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_50.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "67e8d53d3f32",
+   "t": "<c:00ff00>Action:<c> {{bug}}\nA melee attack that\napplies the {{bug}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{bug}}\n{{cannot_defend|cap}} until\nprepping or cooldown\ncompletes. If {{hit}} while\nprepping or {{waiting}}, its\naction fails."
+  }
+ ]
+}

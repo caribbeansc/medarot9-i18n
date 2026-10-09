@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/auto_battle02.spt",
+ "lines": [
+  {
+   "i": 1047,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1050,
+   "src": "cd5a0c53a167",
+   "t": "Ladrón Jill"
+  },
+  {
+   "i": 1166,
+   "src": "96971a60a1de",
+   "t": "¡{{aragostar}}, transmisión!"
+  },
+  {
+   "i": 1291,
+   "src": "4d322502f305",
+   "t": "¡Hasta aquí llegaste!"
+  },
+  {
+   "i": 1366,
+   "src": "413d7e8ca056",
+   "t": "¡...Tsk!"
+  }
+ ]
+}

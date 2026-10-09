@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1a_000_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "59a0ab151899",
+   "t": "1st-Yr Boy A"
+  },
+  {
+   "i": 1035,
+   "src": "f8012384efa5",
+   "t": "The club {{robattle_tournament}} is coming\nup, right?"
+  },
+  {
+   "i": 1043,
+   "src": "6d7801475826",
+   "t": "We were all fired up about winning it\nwith our senpai,"
+  },
+  {
+   "i": 1046,
+   "src": "b9a966ad3190",
+   "t": "when the {{ski_club}}'s ___ came into the\nroom--"
+  },
+  {
+   "i": 1054,
+   "src": "9813a7dd96f7",
+   "t": "Next thing I knew, the two of them\nstarted a {{robattle}}."
+  },
+  {
+   "i": 1057,
+   "src": "d29d9f1e3a21",
+   "t": "Saying it was the qualifiers or whatever."
+  },
+  {
+   "i": 1065,
+   "src": "90776dd7e31b",
+   "t": "Practice has already begun."
+  },
+  {
+   "i": 1068,
+   "src": "73921b61e91d",
+   "t": "I mean, in that case I want to join too."
+  }
+ ]
+}

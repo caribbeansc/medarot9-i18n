@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f2c.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1653,
+   "src": "deb8f21c4006",
+   "t": "A {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "410dd9af902d",
+   "t": "Sure?"
+  }
+ ]
+}

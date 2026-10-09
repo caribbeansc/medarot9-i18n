@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/f04_050_131_10_t011.spt",
+ "lines": [
+  {
+   "i": 1134,
+   "src": "d2ae678681e9",
+   "t": "El {{robattle_tournament|cap}} de Clubes"
+  },
+  {
+   "i": 1137,
+   "src": "e2526c6e7ce0",
+   "t": "comenzará pronto."
+  },
+  {
+   "i": 1142,
+   "src": "6ded737b7256",
+   "t": "Cada {{club}}, registre a sus participantes."
+  },
+  {
+   "i": 1145,
+   "src": "841ed1700f35",
+   "t": "La recepción está en--"
+  },
+  {
+   "i": 1160,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1171,
+   "src": "26b44629f14c",
+   "t": "Bueno, da igual."
+  },
+  {
+   "i": 1174,
+   "src": "7fea22897c4e",
+   "t": "Ya pensaba ganar de todos modos."
+  },
+  {
+   "i": 1185,
+   "src": "fd8342c74e1c",
+   "t": "S-s-sí, ¡así es!"
+  },
+  {
+   "i": 1188,
+   "src": "cdb5fa571fff",
+   "t": "Y ahora entro en pánico, a-a-a-ah..."
+  },
+  {
+   "i": 1196,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1205,
+   "src": "077b6b28b20f",
+   "t": "Cálmate."
+  },
+  {
+   "i": 1215,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1224,
+   "src": "3fcbf5d9e8fc",
+   "t": "Vamos."
+  },
+  {
+   "i": 1234,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1240,
+   "src": "6a305d593efc",
+   "t": "Buena suerte. El futuro del Club de"
+  },
+  {
+   "i": 1243,
+   "src": "9a30ad11c214",
+   "t": "Exploración depende de ustedes."
+  },
+  {
+   "i": 1253,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1262,
+   "src": "bfd7933f4a8d",
+   "t": "...Aah"
+  },
+  {
+   "i": 1265,
+   "src": "ff9041202e4c",
+   "t": "¿Qué es esa actitud de espectador?"
+  },
+  {
+   "i": 1282,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1291,
+   "src": "0535bfb25f61",
+   "t": "¿Yo?"
+  },
+  {
+   "i": 1294,
+   "src": "2510389d9ba9",
+   "t": "Yo soy el asistente."
+  },
+  {
+   "i": 1312,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f09_080_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "53ef48802c64",
+   "t": "It's the {{medabot}} from the mine\nentrance!"
+  },
+  {
+   "i": 1046,
+   "src": "be8f55742378",
+   "t": "Yeah."
+  },
+  {
+   "i": 1051,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1060,
+   "src": "fca546c33deb",
+   "t": "How awful..."
+  },
+  {
+   "i": 1063,
+   "src": "632bfef3c25e",
+   "t": "It's in tatters..."
+  },
+  {
+   "i": 1071,
+   "src": "cec81e20b170",
+   "t": "Poor thing..."
+  }
+ ]
+}

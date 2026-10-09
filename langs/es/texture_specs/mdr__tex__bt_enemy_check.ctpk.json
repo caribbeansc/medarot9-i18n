@@ -1,0 +1,62 @@
+{
+ "rel": "mdr/tex/bt_enemy_check.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "compact-rounded-heavy",
+  "stroke": "#00000036",
+  "stroke_w": 2,
+  "pad": 0,
+  "crisp": 0.3
+ },
+ "items": [
+  {
+   "box": [
+    2,
+    98,
+    132,
+    24
+   ],
+   "erase_box": [
+    0,
+    96,
+    136,
+    24
+   ],
+   "text": "Revisar equipo actual",
+   "cap": 8.5,
+   "fill": "#FFFFFF",
+   "stroke": "#44444480"
+  },
+  {
+   "segments": [
+    [
+     136,
+     96,
+     120,
+     32,
+     0,
+     0
+    ],
+    [
+     208,
+     72,
+     48,
+     24,
+     120,
+     0
+    ]
+   ],
+   "box": [
+    3,
+    2,
+    162,
+    24
+   ],
+   "text": "Equipo sin configurar",
+   "cap": 8.5,
+   "fill": "#A6A6A6",
+   "stroke": "#2C2C2C80"
+  }
+ ]
+}

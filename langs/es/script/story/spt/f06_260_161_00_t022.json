@@ -1,0 +1,285 @@
+{
+ "file": "story/spt/f06_260_161_00_t022.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1037,
+   "src": "82f64cbd02fc",
+   "t": "Domino el diseño por completo."
+  },
+  {
+   "i": 1040,
+   "src": "4c82174a113e",
+   "t": "Mi PC sirve como servidor."
+  },
+  {
+   "i": 1048,
+   "src": "1af108a691a2",
+   "t": "La recuperación es posible en un día..."
+  },
+  {
+   "i": 1059,
+   "src": "de5659abe7bf",
+   "t": "¿U-un día?"
+  },
+  {
+   "i": 1062,
+   "src": "7c6883282cca",
+   "t": "Como toda una niña genio..."
+  },
+  {
+   "i": 1067,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1073,
+   "src": "72ee1a063274",
+   "t": "Mejor no hagamos eso, {{main}}-chan."
+  },
+  {
+   "i": 1080,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1089,
+   "src": "403f3e2e6873",
+   "t": "¿Por qué no?"
+  },
+  {
+   "i": 1096,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1105,
+   "src": "165cdb7471b1",
+   "t": "Si te atrapan esta vez, te van a\nexpulsar de verdad."
+  },
+  {
+   "i": 1112,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1121,
+   "src": "5e7997ff14b5",
+   "t": "Mmm."
+  },
+  {
+   "i": 1129,
+   "src": "3faaf0da07c8",
+   "t": "Entendido."
+  },
+  {
+   "i": 1132,
+   "src": "21c624b54503",
+   "t": "Lo dejaré."
+  },
+  {
+   "i": 1139,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1145,
+   "src": "78042ebee20c",
+   "t": "¿Así de fácil?"
+  },
+  {
+   "i": 1152,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1158,
+   "src": "9e90cd86bab6",
+   "t": "Sí."
+  },
+  {
+   "i": 1169,
+   "src": "b18397e89cc5",
+   "t": "Porque ya está terminado."
+  },
+  {
+   "i": 1172,
+   "src": "8e036014f9f1",
+   "t": "¡Fue divertido!"
+  },
+  {
+   "i": 1179,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1188,
+   "src": "f16c06792e6a",
+   "t": "De acuerdo, {{main}}-chan. El"
+  },
+  {
+   "i": 1191,
+   "src": "d5752b8c5d60",
+   "t": "chiste es acabarlo, lo demás sobra."
+  },
+  {
+   "i": 1201,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1210,
+   "src": "c68aa3e88303",
+   "t": "Sí."
+  },
+  {
+   "i": 1217,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1226,
+   "src": "b6d41a978c06",
+   "t": "Ya veo. Es una lástima que ya no pueda"
+  },
+  {
+   "i": 1229,
+   "src": "804bd67bd97e",
+   "t": "salir a explorar en busca de {{medalia|pl}}..."
+  },
+  {
+   "i": 1236,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1242,
+   "src": "8f99723b76b8",
+   "t": "Es que te encanta el trabajo de campo,\n{{ryoma}}-kun."
+  },
+  {
+   "i": 1250,
+   "src": "1540288b9cef",
+   "t": "Pero esto es un problema."
+  },
+  {
+   "i": 1260,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1266,
+   "src": "f4021704d3a6",
+   "t": "¿Qué cosa?"
+  },
+  {
+   "i": 1278,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1284,
+   "src": "295e23f75764",
+   "t": "El {{principal}} sacó y se llevó"
+  },
+  {
+   "i": 1287,
+   "src": "352a53eb068d",
+   "t": "el disco duro."
+  },
+  {
+   "i": 1295,
+   "src": "e6313babbfd3",
+   "t": "Además de la {{app}} de {{detect}},"
+  },
+  {
+   "i": 1298,
+   "src": "5b2fa268903c",
+   "t": "tenía muchos otros datos importantes."
+  },
+  {
+   "i": 1308,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1317,
+   "src": "71327faf407d",
+   "t": "¿Por ejemplo?"
+  },
+  {
+   "i": 1324,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1333,
+   "src": "adf7e497e9ff",
+   "t": "El sistema de transferencia de la caja de\npiezas, etc."
+  },
+  {
+   "i": 1340,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1346,
+   "src": "6ab6e7a9cd63",
+   "t": "¡¿Qué?!"
+  },
+  {
+   "i": 1353,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1362,
+   "src": "e52d428dea1c",
+   "t": "Entonces, ¿sin recuperarlo no podemos"
+  },
+  {
+   "i": 1365,
+   "src": "40241678a12e",
+   "t": "configurar desde el {{smartphone}}?"
+  },
+  {
+   "i": 1376,
+   "src": "6acdfa04ddf1",
+   "t": "¡Eso es un problema!"
+  },
+  {
+   "i": 1381,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1387,
+   "src": "a190d4b5602c",
+   "t": "Sí que es un problema."
+  },
+  {
+   "i": 1390,
+   "src": "f9c449ecbdba",
+   "t": "¿Qué hacemos?"
+  },
+  {
+   "i": 1398,
+   "src": "2fed83fc65ee",
+   "t": "¡Pidamos consejo!"
+  },
+  {
+   "i": 1403,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1412,
+   "src": "441d8ee45afa",
+   "t": "¿A quién?"
+  }
+ ]
+}

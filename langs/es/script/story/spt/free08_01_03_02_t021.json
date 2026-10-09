@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free08_01_03_02_t021.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1049,
+   "src": "472216b29892",
+   "t": "Oh, qué lástima."
+  },
+  {
+   "i": 1052,
+   "src": "102cd841d8f0",
+   "t": "Es territorio de nuestro {{club}} de esquí."
+  },
+  {
+   "i": 1059,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1068,
+   "src": "c251773f31dd",
+   "t": "Esta {{medalia}} es del {{club}} de esquí."
+  },
+  {
+   "i": 1071,
+   "src": "62e77aebce9e",
+   "t": "Si insistes, ¡te la quitamos a la fuerza!"
+  }
+ ]
+}

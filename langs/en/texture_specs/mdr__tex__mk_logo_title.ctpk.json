@@ -1,0 +1,120 @@
+{
+ "rel": "mdr/tex/mk_logo_title.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    60,
+    71,
+    166,
+    12
+   ],
+   "erase_box": [
+    54,
+    71,
+    178,
+    12
+   ],
+   "erase": "transparent",
+   "text": "ENGLISH VERSION",
+   "font": "futura",
+   "cap": 8,
+   "tracking": 2.6,
+   "fill": "#161212",
+   "stroke": null,
+   "pad": 0
+  },
+  {
+   "box": [
+    128,
+    87,
+    90,
+    14
+   ],
+   "erase_box": [
+    131,
+    88,
+    85,
+    14
+   ],
+   "erase": "glyph",
+   "text": "Metabee  Ver.",
+   "font": "sf-black-italic",
+   "cap": 8,
+   "tracking": 0.2,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#E6E1E1"
+   },
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#8A0101",
+    "opacity": 1
+   },
+   "pad": 0,
+   "dx": 0,
+   "dy": 0,
+   "grow": 2
+  },
+  {
+   "box": [
+    124,
+    104,
+    96,
+    14
+   ],
+   "erase_box": [
+    126,
+    105,
+    92,
+    14
+   ],
+   "erase": "glyph",
+   "text": "Rokusho  Ver.",
+   "font": "sf-black-italic",
+   "cap": 8,
+   "tracking": 0.2,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#E6E6E6"
+   },
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#0B3A42",
+    "opacity": 1
+   },
+   "pad": 0,
+   "grow": 2
+  },
+  {
+   "box": [
+    342,
+    105,
+    71,
+    19
+   ],
+   "erase_box": [
+    334,
+    88,
+    82,
+    38
+   ],
+   "erase": "transparent",
+   "text": "DEMO",
+   "font": "sf-rounded-black",
+   "cap": 13.5,
+   "fill": "#F00000",
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 2
+    }
+   ],
+   "pad": 0
+  }
+ ]
+}

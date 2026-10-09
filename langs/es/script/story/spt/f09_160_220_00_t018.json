@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f09_160_220_00_t018.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "d25b09abab55",
+   "t": "Está cerrada con llave... ¿verdad?"
+  },
+  {
+   "i": 1056,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1062,
+   "src": "aa1953d80b7e",
+   "t": "Sí."
+  },
+  {
+   "i": 1078,
+   "src": "458bcadb969a",
+   "t": "Pero no es imposible derribarla."
+  },
+  {
+   "i": 1081,
+   "src": "de54c9a90722",
+   "t": "Si la rompemos con el Exp 7, claro."
+  },
+  {
+   "i": 1087,
+   "src": "458bcadb969a",
+   "t": "Pero no es imposible derribarla."
+  },
+  {
+   "i": 1090,
+   "src": "5ad5955b4584",
+   "t": "Si la rompemos con el Super EXP."
+  },
+  {
+   "i": 1098,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1107,
+   "src": "9f36dadba584",
+   "t": "Espe-"
+  },
+  {
+   "i": 1114,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1124,
+   "src": "1db46bd86d63",
+   "t": " dice que es por aquí."
+  },
+  {
+   "i": 1127,
+   "src": "b7a27806904b",
+   "t": "Vale la pena esforzarme un poco."
+  },
+  {
+   "i": 1134,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1140,
+   "src": "25db24acb3bd",
+   "t": "...sí."
+  },
+  {
+   "i": 1147,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1153,
+   "src": "2aeda2cd40d5",
+   "t": "Está decidido."
+  },
+  {
+   "i": 1156,
+   "src": "3fcbf5d9e8fc",
+   "t": "Vamos."
+  }
+ ]
+}

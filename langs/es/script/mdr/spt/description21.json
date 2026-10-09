@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description21.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9441d4411217",
+   "t": "{{target|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "f33e18f7ecd0",
+   "t": "<c:ffff00>{{medabot}}<c> u <c:ffff00>{{object}}<c> al que afecta una <c:ffff00>acción<c>.\n\nAl elegir comandos, si hay varios rivales y el {{effect}}\nes para uno solo, el {{target}} se elige después de\nelegir la acción.\n\nAl ejecutar la acción, si el {{target}} está <c:ffff00>fuera de<c>\n<c:ffff00>combate<c> o en un {{condition}} inadecuado, el propio\n{{medabot}} decide cambiarlo."
+  }
+ ]
+}

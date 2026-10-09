@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_24.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "e7f5c991333d",
+   "t": "<c:00ff00>{{mf}}:<c> {{body_slam}}\nThe last resort...\nJust slam into them with\nall your might.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

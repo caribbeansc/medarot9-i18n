@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_1e_117_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1035,
+   "src": "4f78cbbbdc56",
+   "t": "S-{{saika}}-san is so cute..."
+  },
+  {
+   "i": 1038,
+   "src": "f81bf0888125",
+   "t": "She's just like Bunnyheart..."
+  },
+  {
+   "i": 1046,
+   "src": "72167f77f1fd",
+   "t": "Everyone talks to her so casually."
+  },
+  {
+   "i": 1049,
+   "src": "023b77d09721",
+   "t": "I can't, she's too dazzling..."
+  }
+ ]
+}

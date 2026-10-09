@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_73.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b5468aa11afe",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nAdversidad\nPor cada {{status}}\nnegativo, {{mobility}},\n{{shooting}} y {{fighting}} +5."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_2b2_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "6b121c309af4",
+   "t": "Yo soy del {{club}} de esquí."
+  },
+  {
+   "i": 1046,
+   "src": "4d2c1c854ca3",
+   "t": "¿...Eh? ¿Qué hago en verano?"
+  },
+  {
+   "i": 1054,
+   "src": "5920583c08fd",
+   "t": "Jaja, no lo vas a creer, ¡pero en esta isla"
+  },
+  {
+   "i": 1057,
+   "src": "4c3319ec46b7",
+   "t": "hay una pista de esquí solo para el {{club}}!"
+  },
+  {
+   "i": 1065,
+   "src": "5f877cec0789",
+   "t": "Es al aire libre, con nieve artificial."
+  },
+  {
+   "i": 1068,
+   "src": "91ab9d816b04",
+   "t": "Claro, la patrocina el {{conglomerate}} Mega."
+  }
+ ]
+}

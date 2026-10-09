@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_idol_meda_163_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1038,
+   "src": "668f5c5ebab4",
+   "t": "I'm best friends with "
+  },
+  {
+   "i": 1040,
+   "src": "28548fae10b4",
+   "t": "."
+  },
+  {
+   "i": 1043,
+   "src": "e573e35f85d8",
+   "t": "She's so girly and cute."
+  },
+  {
+   "i": 1051,
+   "src": "9232c35f67cf",
+   "t": "When did we become friends, you ask?"
+  },
+  {
+   "i": 1054,
+   "src": "e31a52938e5b",
+   "t": "Hee hee, that's a secret just for\n{{medabot|pl}}."
+  }
+ ]
+}

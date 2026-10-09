@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_19.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "68e272abed79",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nAlta Estabilidad\n{{success|cap}} de {{part|pl}} {{head}} y\nbrazos +5"
+  }
+ ]
+}

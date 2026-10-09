@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f11_180_953_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1038,
+   "src": "b8b4d1d94eaa",
+   "t": "¿Qué hacemos?"
+  },
+  {
+   "i": 1041,
+   "src": "b7212f9a9649",
+   "t": "¡¡Qué vamos a hacer...!!"
+  },
+  {
+   "i": 1051,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1057,
+   "src": "6fe5b9e1f8e5",
+   "t": "Cómo que 'qué hacemos'..."
+  },
+  {
+   "i": 1060,
+   "src": "d086d2c481a2",
+   "t": "¡Pues hacer algo, obviamente!"
+  },
+  {
+   "i": 1070,
+   "src": "ad1a2c18e5bf",
+   "t": "{{jasper}}"
+  },
+  {
+   "i": 1076,
+   "src": "152b53aac82a",
+   "t": "¡Pelear!"
+  },
+  {
+   "i": 1079,
+   "src": "bc3e744ba597",
+   "t": "¡Es vencer o ser devorados!"
+  },
+  {
+   "i": 1089,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1098,
+   "src": "82194d4cc4f4",
+   "t": "P-pero cómo rayos vamos a--"
+  }
+ ]
+}

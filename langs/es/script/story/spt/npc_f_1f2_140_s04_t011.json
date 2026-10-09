@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1f2_140_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2fcba1bd9f86",
+   "t": "{{suiro}}"
+  },
+  {
+   "i": 1035,
+   "src": "c8eb21fa4505",
+   "t": "¡Senpai!"
+  },
+  {
+   "i": 1038,
+   "src": "25a5cdc8529e",
+   "t": "¡Ya es la hora!"
+  },
+  {
+   "i": 1046,
+   "src": "ae6d29845efc",
+   "t": "¡Todos ya se fueron al {{gymnasium}}! ¡¡No es"
+  },
+  {
+   "i": 1049,
+   "src": "406eff57591d",
+   "t": "momento de practicar {{robattle|pl}}!!"
+  }
+ ]
+}

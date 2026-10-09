@@ -1,0 +1,200 @@
+{
+ "file": "story/spt/f02_110_210_00_t101.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1044,
+   "src": "085ba2d8ab41",
+   "t": "You guys again?"
+  },
+  {
+   "i": 1052,
+   "src": "84dc1e848e2f",
+   "t": "What do you want this time?"
+  },
+  {
+   "i": 1060,
+   "src": "d96981e0838c",
+   "t": "Um, I think this {{medabot}} can"
+  },
+  {
+   "i": 1063,
+   "src": "49872bfd8b51",
+   "t": "{{medachange}} into a {{submarine}} type,\nright?"
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "691bd1f42274",
+   "t": "Yeah, it can."
+  },
+  {
+   "i": 1082,
+   "src": "017060fd0cb0",
+   "t": "It can glide right over water too, right!?"
+  },
+  {
+   "i": 1087,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1093,
+   "src": "ab15a9bdc537",
+   "t": "Once the tuning is done."
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1106,
+   "src": "961072dcc28a",
+   "t": "How long will that tuning take?"
+  },
+  {
+   "i": 1109,
+   "src": "af37cdcbcd99",
+   "t": "Is it almost done?"
+  },
+  {
+   "i": 1123,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1129,
+   "src": "721219613444",
+   "t": "Don't be unreasonable."
+  },
+  {
+   "i": 1132,
+   "src": "e07ed6bff4fd",
+   "t": "Do you know how long it's been?"
+  },
+  {
+   "i": 1140,
+   "src": "b004165d0114",
+   "t": "So what's still missing?"
+  },
+  {
+   "i": 1145,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1151,
+   "src": "6aff32e6107d",
+   "t": "Let's see."
+  },
+  {
+   "i": 1159,
+   "src": "08d120d9c36e",
+   "t": "No..."
+  },
+  {
+   "i": 1167,
+   "src": "c27468f619e2",
+   "t": "Actually, it's mostly done already."
+  },
+  {
+   "i": 1170,
+   "src": "0f26117e4f32",
+   "t": "All that's left is testing, and if I'm\nsatisfied--"
+  },
+  {
+   "i": 1178,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1196,
+   "src": "ef86350d793b",
+   "t": "I see."
+  },
+  {
+   "i": 1199,
+   "src": "2964678dc968",
+   "t": "I could ask you two... that's an option."
+  },
+  {
+   "i": 1207,
+   "src": "f5607e45a83a",
+   "t": "Me and "
+  },
+  {
+   "i": 1209,
+   "src": "1766f366f5e9",
+   "t": "?"
+  },
+  {
+   "i": 1212,
+   "src": "7a65662aa7b0",
+   "t": "What is it?"
+  },
+  {
+   "i": 1224,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1230,
+   "src": "e8868fef8257",
+   "t": "We need a real combat test."
+  },
+  {
+   "i": 1238,
+   "src": "5d5d56b7e717",
+   "t": "You and my partner seem like a good\nmatch."
+  },
+  {
+   "i": 1241,
+   "src": "4b9d4ec03e19",
+   "t": "I'm sure it'll be a great fight."
+  },
+  {
+   "i": 1249,
+   "src": "05755f0b0250",
+   "t": "Can you be my {{robattle}} {{opponent}}?"
+  },
+  {
+   "i": 1257,
+   "src": "e75f9f0127d9",
+   "t": "That's--"
+  },
+  {
+   "i": 1284,
+   "src": "aa293255c635",
+   "t": "I'll do it!"
+  },
+  {
+   "i": 1290,
+   "src": "4284b2971675",
+   "t": "You got it!"
+  },
+  {
+   "i": 1301,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1307,
+   "src": "dc9fa7ccf6d5",
+   "t": "That's a big help."
+  },
+  {
+   "i": 1310,
+   "src": "6d416b141f46",
+   "t": "Let me know when you're ready."
+  }
+ ]
+}

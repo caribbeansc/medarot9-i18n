@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f11_150_950_00_t022.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1045,
+   "src": "45ff7224a38c",
+   "t": "¡Viene hacia acá!"
+  },
+  {
+   "i": 1055,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1061,
+   "src": "92ea5c073bf7",
+   "t": "¿Qué hacemos?"
+  },
+  {
+   "i": 1075,
+   "src": "00bdc2e55a31",
+   "t": "{{shohei}}"
+  },
+  {
+   "i": 1081,
+   "src": "a8f4dad85c00",
+   "t": "¿Qué deberíamos hacer?"
+  }
+ ]
+}

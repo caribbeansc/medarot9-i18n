@@ -1,0 +1,140 @@
+{
+ "file": "story/spt/free08_02_01_02_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "5157810cd9a0",
+   "t": "¿Esto estaba aquí antes?"
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1048,
+   "src": "6af787e3a837",
+   "t": "No me había dado cuenta."
+  },
+  {
+   "i": 1051,
+   "src": "7b197b7e22e9",
+   "t": "¿Estaba oculto entre la hierba...?"
+  },
+  {
+   "i": 1059,
+   "src": "473579d5b380",
+   "t": "Ah, ya entiendo. Últimamente todos"
+  },
+  {
+   "i": 1062,
+   "src": "791835ee593c",
+   "t": "andan obsesionados buscando {{medalia|pl}}."
+  },
+  {
+   "i": 1070,
+   "src": "52a0083d44ae",
+   "t": "Aquí ya pasa bastante gente ahora,"
+  },
+  {
+   "i": 1073,
+   "src": "e8ee78c3622e",
+   "t": "y han pisoteado la hierba, ¿no crees?"
+  },
+  {
+   "i": 1078,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1084,
+   "src": "e4751a182444",
+   "t": "...Tal vez."
+  },
+  {
+   "i": 1091,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1100,
+   "src": "5ef090c1fb4b",
+   "t": "¿Hay algo escrito aquí?"
+  },
+  {
+   "i": 1107,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1116,
+   "src": "6447006caffb",
+   "t": "Mmm."
+  },
+  {
+   "i": 1124,
+   "src": "7ebb13a41f49",
+   "t": "Ni hablar, la pintura está descascarada."
+  },
+  {
+   "i": 1127,
+   "src": "57a87e7c4ac9",
+   "t": "Es de la era minera, ¿no? Es viejo."
+  },
+  {
+   "i": 1135,
+   "src": "0612568e2fad",
+   "t": "...Ah."
+  },
+  {
+   "i": 1140,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1146,
+   "src": "6ba141a6dc7e",
+   "t": "¿Y ahora qué pasa?"
+  },
+  {
+   "i": 1154,
+   "src": "159d74d41dda",
+   "t": "¡Hay un camino! Todavía está oculto"
+  },
+  {
+   "i": 1157,
+   "src": "2a3065a9eb9b",
+   "t": "por la hierba y cuesta verlo, pero..."
+  },
+  {
+   "i": 1162,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1171,
+   "src": "3e90c9219cc8",
+   "t": "Es cierto."
+  },
+  {
+   "i": 1178,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1184,
+   "src": "ad2408f632ed",
+   "t": "La dirección coincide con la señal de\n{{medalia}}."
+  },
+  {
+   "i": 1195,
+   "src": "7970a144d947",
+   "t": "¡Vamos a ver!"
+  }
+ ]
+}

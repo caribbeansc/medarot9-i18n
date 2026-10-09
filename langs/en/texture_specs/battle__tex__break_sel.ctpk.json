@@ -1,0 +1,29 @@
+{
+ "rel": "battle/tex/break_sel.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    5,
+    11,
+    78,
+    34
+   ],
+   "erase_box": [
+    14,
+    16,
+    66,
+    24
+   ],
+   "erase": "glyph",
+   "text": "Knocked\nout",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "leading": 1.08,
+   "fill": "#D81A1A",
+   "stroke": "#140404",
+   "stroke_w": 1,
+   "crisp": 0.5
+  }
+ ]
+}

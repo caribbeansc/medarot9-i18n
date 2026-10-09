@@ -1,0 +1,260 @@
+{
+ "rel": "mdr/tex/m9_sel_win2.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "erase": "transparent",
+   "erase_box": [
+    40,
+    32,
+    64,
+    23
+   ],
+   "box": [
+    42,
+    33,
+    60,
+    20
+   ],
+   "text": "Vacio",
+   "font": "sf-rounded-heavy",
+   "cap": 14,
+   "fill": {
+    "top": "#8FFFD0",
+    "bottom": "#50F1A0"
+   },
+   "stroke": "#1F6081A8",
+   "stroke_w": 1.2,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle"
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    14,
+    58,
+    118,
+    16
+   ],
+   "box": [
+    14,
+    58,
+    118,
+    16
+   ],
+   "text": ""
+  },
+  {
+   "copy": [
+    63,
+    58,
+    15,
+    15
+   ],
+   "to": [
+    89,
+    58
+   ],
+   "blend": "replace"
+  },
+  {
+   "erase": "none",
+   "box": [
+    42,
+    58,
+    46,
+    16
+   ],
+   "text": "Pulsa",
+   "font": "sf",
+   "wght": 500,
+   "wdth": 125,
+   "cap": 10,
+   "tracking": 0.5,
+   "fill": "#76FFC6",
+   "stroke": "#1F6081C0",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0.3,
+   "align": "left",
+   "valign": "middle",
+   "baseline": 71
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    182,
+    4,
+    36,
+    11
+   ],
+   "box": [
+    181,
+    3,
+    38,
+    10
+   ],
+   "text": "MEDARIA",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "size": 10,
+   "fill": "#2FAE7F",
+   "stroke": "#173024",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "baseline": 11
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    20,
+    108,
+    28,
+    9
+   ],
+   "box": [
+    16,
+    107,
+    36,
+    12
+   ],
+   "text": "CABEZA",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "size": 10,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1
+   },
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "baseline": 115
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    62,
+    108,
+    28,
+    9
+   ],
+   "box": [
+    58,
+    107,
+    36,
+    12
+   ],
+   "text": "BR.DER.",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "size": 10,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1
+   },
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "baseline": 115
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    104,
+    108,
+    28,
+    9
+   ],
+   "box": [
+    100,
+    107,
+    36,
+    12
+   ],
+   "text": "BR.IZQ.",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "size": 10,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1
+   },
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "baseline": 115
+  },
+  {
+   "erase": "hfill",
+   "erase_box": [
+    145,
+    108,
+    31,
+    9
+   ],
+   "box": [
+    142,
+    107,
+    36,
+    12
+   ],
+   "text": "PIERNAS",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#00EFDB",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 1
+   },
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "baseline": 115
+  },
+  {
+   "erase": "transparent",
+   "box": [
+    216,
+    92,
+    26,
+    10
+   ],
+   "text": "BLIND.",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "size": 10,
+   "fill": "#FFFFFF",
+   "stroke": "#000000",
+   "stroke_w": 1,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "baseline": 99
+  }
+ ]
+}

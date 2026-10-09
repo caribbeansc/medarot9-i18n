@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_252.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c6c487808f32",
+   "t": "Modelo inicial de\n{{medabot}} {{type}} avión\nque surca el gran cielo.\n{{unit|cap}} con {{medachange}}\nexperimental para\nayudar al {{medafighter}}\na moverse. Forma de\nvuelo: \"Lady Phantom\"\n(nombre en clave)."
+  }
+ ]
+}

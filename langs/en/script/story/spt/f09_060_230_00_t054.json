@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f09_060_230_00_t054.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1049,
+   "src": "6c2bbc7be191",
+   "t": "Wh-what!?"
+  },
+  {
+   "i": 1056,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1062,
+   "src": "a6b81b98f389",
+   "t": "It doesn't budge at all, {{robo}}."
+  },
+  {
+   "i": 1076,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1082,
+   "src": "8d2151bb99b8",
+   "t": "Impossible!"
+  }
+ ]
+}

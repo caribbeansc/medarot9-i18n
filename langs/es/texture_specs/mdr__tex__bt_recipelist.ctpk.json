@@ -1,0 +1,81 @@
+{
+ "rel": "mdr/tex/bt_recipelist.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "compact-rounded-heavy",
+  "cap": 9,
+  "tracking": 0.5,
+  "align": "left",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    33,
+    8,
+    74,
+    15
+   ],
+   "erase_box": [
+    31,
+    8,
+    66,
+    14
+   ],
+   "erase": "glyph",
+   "text": "Recetas",
+   "baseline": 19,
+   "fill": {
+    "top": "#636771",
+    "bottom": "#44474F"
+   },
+   "stroke": "#E8E8E8",
+   "stroke_w": 1
+  },
+  {
+   "box": [
+    145,
+    8,
+    74,
+    15
+   ],
+   "erase_box": [
+    143,
+    8,
+    66,
+    14
+   ],
+   "erase": "glyph",
+   "text": "Recetas",
+   "baseline": 19,
+   "fill": {
+    "top": "#E4E5E5",
+    "bottom": "#BBBDC3"
+   },
+   "stroke": null
+  },
+  {
+   "box": [
+    33,
+    32,
+    74,
+    15
+   ],
+   "erase_box": [
+    31,
+    32,
+    66,
+    14
+   ],
+   "erase": "glyph",
+   "text": "Recetas",
+   "baseline": 43,
+   "fill": {
+    "top": "#585B63",
+    "bottom": "#3E4147"
+   },
+   "stroke": "#8C8C8C",
+   "stroke_w": 1
+  }
+ ]
+}

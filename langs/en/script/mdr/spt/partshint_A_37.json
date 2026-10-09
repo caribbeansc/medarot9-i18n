@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_37.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "d63217d874d3",
+   "t": "<c:00ff00>{{mf}}:<c> {{gravity_medaforce}}\nRanged attacks by your\nwhole team get double\n{{success}}.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

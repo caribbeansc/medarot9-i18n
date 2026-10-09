@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f09_080_161_00_t012.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1040,
+   "src": "c7224e8c5320",
+   "t": "Welcome back."
+  },
+  {
+   "i": 1051,
+   "src": "93df2a8603a6",
+   "t": "Sorry for waking you, {{main}}-chan."
+  },
+  {
+   "i": 1059,
+   "src": "be8aea62fc9a",
+   "t": "Where is everyone?"
+  },
+  {
+   "i": 1064,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1073,
+   "src": "f094cb88016d",
+   "t": "They went to the storeroom with\nsomeone"
+  },
+  {
+   "i": 1076,
+   "src": "81946d8ef8c3",
+   "t": "from the Student Council."
+  },
+  {
+   "i": 1084,
+   "src": "3ec5795d0b7d",
+   "t": "It's heavy labor, so I don't have to go,\nthey said."
+  },
+  {
+   "i": 1087,
+   "src": "bbbec53f22fd",
+   "t": "{{mio}}-chan was angry."
+  },
+  {
+   "i": 1098,
+   "src": "98ed7739a2ab",
+   "t": "That's a complete {{medabot}} set."
+  },
+  {
+   "i": 1109,
+   "src": "5ef32737b957",
+   "t": "...Yeah."
+  }
+ ]
+}

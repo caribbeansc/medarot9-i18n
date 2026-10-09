@@ -1,0 +1,55 @@
+{
+ "file": "battle/spt/tuto_07_004.spt",
+ "lines": [
+  {
+   "i": 1129,
+   "src": "08c4864b907d",
+   "t": "¡Bien, a atacar!\n¿...Eh? ¿Qué son {{drive_a}}, B y C?            "
+  },
+  {
+   "i": 1134,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1140,
+   "src": "110eb4f5919a",
+   "t": "Al hacer {{medachange}}, no puedes usar\nlas {{part|pl}} originales de {{head}} y brazos."
+  },
+  {
+   "i": 1145,
+   "src": "7e6fc01a4e38",
+   "t": "En su lugar, puedes usar tres comandos\nde {{medachange}}: los <c:ff00ff>Drive<c>.    "
+  },
+  {
+   "i": 1150,
+   "src": "4368ef2502ed",
+   "t": "Los Drive se usan sin límite, pero cada\nuso <c:ff00ff>consume 10%<c> de la {{charge_gauge}}.      "
+  },
+  {
+   "i": 1155,
+   "src": "96fa5ceb0210",
+   "t": "Ojo: en {{medachange}}, aunque cargues\nla {{charge_gauge}} no se llena.        "
+  },
+  {
+   "i": 1160,
+   "src": "ae0b2882f8c5",
+   "t": "Ojo: si la {{charge_gauge}} baja del 10%,\nel {{medachange}} <c:ff00ff>se revierte a la fuerza<c>.                                  "
+  },
+  {
+   "i": 1165,
+   "src": "fdcd60b3087d",
+   "t": "A cambio, muchos Drive tienen efectos\npotentes: dan ventaja en la {{robattle}}.                                  "
+  },
+  {
+   "i": 1170,
+   "src": "3efd34cb5941",
+   "t": "Pulsa $ｷ y elige {{medachange}} para\n<c:ff00ff>revertir la {{transform}}<c> a voluntad.                                                               "
+  },
+  {
+   "i": 1175,
+   "src": "40b84b6202ef",
+   "t": "Eso es todo. Usa bien el {{medachange}}\ny gana la {{robattle}}, quiero verlo."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_65.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c944e138aec0",
+   "t": "{{medabot}} {{type}} tiranosaurio,\nuno de los mayores\ndinosaurios carnívoros.\n \nEscupe llamas por la\n{{head_part_slot}} y blande martillos\ncon ambos brazos: su\nbrutal poder es digno de\nun tirano."
+  }
+ ]
+}

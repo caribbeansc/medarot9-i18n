@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f03_010_161_00_t006.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1049,
+   "src": "8b3abb71c498",
+   "t": "Sí, sí, le dejaremos la parte de la"
+  },
+  {
+   "i": 1052,
+   "src": "701b040bd2eb",
+   "t": "{{explore}} a Ryoma-kun."
+  },
+  {
+   "i": 1060,
+   "src": "ef2d597ac64e",
+   "t": "Yo voy a poner todo mi esfuerzo"
+  },
+  {
+   "i": 1063,
+   "src": "5aff4fd2d7fd",
+   "t": "en esto. Les encargo lo demás~."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f07_030_161_30_t012.spt",
+ "lines": [
+  {
+   "i": 904,
+   "src": "0ba2d15caa9b",
+   "t": "I wonder if she's practicing at\nthe {{idol_club}} right now."
+  },
+  {
+   "i": 912,
+   "src": "8bc19d26a04e",
+   "t": "Or maybe she won't come back at all."
+  },
+  {
+   "i": 915,
+   "src": "180205298f88",
+   "t": "Ha ha."
+  },
+  {
+   "i": 923,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 929,
+   "src": "8d148181ed12",
+   "t": "Does it bother you?"
+  }
+ ]
+}

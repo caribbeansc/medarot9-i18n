@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description62.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9e95492ecb37",
+   "t": "Revertir forma"
+  },
+  {
+   "i": 11,
+   "src": "a21192eeee55",
+   "t": "<c:ffff00>Acción<c> que devuelve a un <c:ffff00>{{medabot}}<c> en <c:ffff00>forma<c>\n<c:ffff00>{{medachange}}<c> a su {{condition}} original. A mayor <c:ffff00>nivel de<c>\n<c:ffff00>Medalla<c>, más rápidos son la <c:ffff00>{{prep}}<c> y el <c:ffff00>{{cooldown}}<c>.\nSe puede usar en cualquier momento; además, si en\n{{medachange_form}} la <c:ffff00>{{charge_gauge}}<c> baja del 10%,\nse revierte a la fuerza.\nAl revertir, el <c:ffff00>{{armor}}<c> se reparte por igual entre las\n4 <c:ffff00>zonas<c> y desaparecen todos los <c:ffff00>síntomas<c>\n<c:ffff00>negativos<c>."
+  }
+ ]
+}

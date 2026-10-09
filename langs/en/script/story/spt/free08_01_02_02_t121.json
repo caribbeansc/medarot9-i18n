@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/free08_01_02_02_t121.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1035,
+   "src": "894c62f0e360",
+   "t": "Tch."
+  },
+  {
+   "i": 1038,
+   "src": "f7041a348f4b",
+   "t": "Aren't you afraid of curses?!"
+  },
+  {
+   "i": 1045,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1051,
+   "src": "d2390e71e5ec",
+   "t": "Fine..."
+  },
+  {
+   "i": 1054,
+   "src": "77ae2830a309",
+   "t": "Then I'll just take it by force."
+  },
+  {
+   "i": 1062,
+   "src": "e316b148a774",
+   "t": "Now, hand over that {{medalia}}!"
+  },
+  {
+   "i": 1065,
+   "src": "7467a5d16685",
+   "t": "And you can regret failing your exams...!"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description59.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f85aafacdae5",
+   "t": "{{medachange}}"
+  },
+  {
+   "i": 11,
+   "src": "4a0f6501e3fb",
+   "t": "<c:ffff00>Acción<c> que lleva a un <c:ffff00>{{medabot}}<c> transformable a su\n<c:ffff00>{{medachange_form}}<c>. Las <c:ffff00>{{part|pl}}<c> con \"-C\" en el\n<c:ffff00>{{model_number}}<c> son de diseño transformable; se\nnecesitan en las 4 <c:ffff00>zonas<c>, en {{settings}} <c:ffff00>{{original}}<c>.\nRequiere las 4 zonas sin <c:ffff00>destruir<c> y la <c:ffff00>{{charge_gauge}}<c>\nal 20% o más. Cuanto mayor es el <c:ffff00>{{medal_level}}<c>,\nmás rápidas son la <c:ffff00>{{prep}}<c> y el <c:ffff00>{{cooldown}}<c>.\nGasta el 10% de la {{charge_gauge}} y elimina todos\nlos <c:ffff00>síntomas negativos<c>."
+  }
+ ]
+}

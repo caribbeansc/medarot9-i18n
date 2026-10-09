@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_1e_150_s02_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1038,
+   "src": "436204549db7",
+   "t": "I was watching."
+  },
+  {
+   "i": 1046,
+   "src": "e29f156a48e8",
+   "t": "You look a bit spacey, but"
+  },
+  {
+   "i": 1049,
+   "src": "c55fb200b598",
+   "t": "you two are pretty bold!"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f02_015_161_00_t023.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "6044b5354554",
+   "t": "Ah sí, hablando de transferir {{part|pl}}..."
+  },
+  {
+   "i": 1038,
+   "src": "ba55749e30ae",
+   "t": "¿Estás usando la {{trans_part}}?"
+  },
+  {
+   "i": 1046,
+   "src": "b0542d74159f",
+   "t": "¿La {{trans_part}}...?"
+  },
+  {
+   "i": 1051,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1057,
+   "src": "c6bf24c42aa8",
+   "t": "Transfieres {{part|pl}} en plena {{robattle}}."
+  },
+  {
+   "i": 1060,
+   "src": "b1ba99a53c64",
+   "t": "Es de las nuevas reglas oficiales."
+  },
+  {
+   "i": 1068,
+   "src": "7891c9d37b88",
+   "t": "Solo al {{leader}}, una vez por {{robattle}}."
+  },
+  {
+   "i": 1071,
+   "src": "806fcf4a4752",
+   "t": "Y solo las {{part|pl}} EX que fijes antes."
+  }
+ ]
+}

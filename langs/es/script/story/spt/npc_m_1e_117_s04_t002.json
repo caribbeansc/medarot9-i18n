@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_1e_117_s04_t002.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1035,
+   "src": "4f78cbbbdc56",
+   "t": "S-{{saika}}-san es tan linda..."
+  },
+  {
+   "i": 1038,
+   "src": "f81bf0888125",
+   "t": "es como un conejito..."
+  },
+  {
+   "i": 1046,
+   "src": "72167f77f1fd",
+   "t": "Todos le hablan con naturalidad."
+  },
+  {
+   "i": 1049,
+   "src": "023b77d09721",
+   "t": "Yo no puedo, es deslumbrante..."
+  },
+  {
+   "i": 1057,
+   "src": "4f9a3d98a397",
+   "t": "Tan deslumbrante que ni puedo\nmirarla..."
+  }
+ ]
+}

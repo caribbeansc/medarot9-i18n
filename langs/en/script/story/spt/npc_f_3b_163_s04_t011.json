@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3b_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1035,
+   "src": "99e9dc3de8c2",
+   "t": "I wonder what this year's prize is."
+  },
+  {
+   "i": 1038,
+   "src": "6c142eaef68a",
+   "t": "I hope it's a {{medalia}}."
+  },
+  {
+   "i": 1049,
+   "src": "05cf8ad0c210",
+   "t": "Oh, I don't mean the prize for winning--"
+  },
+  {
+   "i": 1052,
+   "src": "ce3d7ca1d55c",
+   "t": "I mean the participation prize!"
+  }
+ ]
+}

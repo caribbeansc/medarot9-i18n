@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_240_955_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "31d69f2a1432",
+   "t": "Qué silencio..."
+  },
+  {
+   "i": 1042,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1051,
+   "src": "1c341cec450e",
+   "t": "El alboroto de arriba parece mentira."
+  }
+ ]
+}

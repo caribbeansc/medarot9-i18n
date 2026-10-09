@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_8.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3f4bd75b1efc",
+   "t": "<c:00ff00>Action:<c> {{laser}}\nA ranged attack: {{power}} is\nx1.5 with the Charge\nGauge at 50% or more,\nand doubles at 100%.\nHas piercing."
+  }
+ ]
+}

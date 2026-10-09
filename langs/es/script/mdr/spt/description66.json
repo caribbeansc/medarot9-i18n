@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description66.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1c8339b37ca8",
+   "t": "{{terrain_affinity|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "49a200f19fa4",
+   "t": "Compatibilidad del mecanismo de {{move}} de la\n<c:ffff00>{{part}}<c> de <c:ffff00>{{legs}}<c> del <c:ffff00>{{medabot}}<c> con cada <c:ffff00>{{field}}<c>.\n\nLa {{terrain_affinity}} varía según el <c:ffff00>tipo de<c>\n<c:ffff00>{{legs}}<c>.\n\nEn un {{terrain}} favorable suben la <c:ffff00>{{mobility}}<c>, el\n<c:ffff00>{{fighting}}<c> y el <c:ffff00>{{shooting}}<c> de las {{legs}}; en uno\n{{weak_at}}, bajan."
+  }
+ ]
+}

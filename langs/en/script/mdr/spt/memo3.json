@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/memo3.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "fa44f98ffc32",
+   "t": "Let's go to the {{club}} room building."
+  },
+  {
+   "i": 32,
+   "src": "366612e084ec",
+   "t": "1 {{club|cap}} Recruitment\n"
+  }
+ ]
+}

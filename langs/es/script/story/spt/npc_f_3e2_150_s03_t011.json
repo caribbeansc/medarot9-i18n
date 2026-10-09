@@ -1,0 +1,85 @@
+{
+ "file": "story/spt/npc_f_3e2_150_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1035,
+   "src": "a2182eaf696a",
+   "t": "¿Te enteraste del intruso?"
+  },
+  {
+   "i": 1042,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1048,
+   "src": "2d4c4e0f1c50",
+   "t": "¡Me enteré! ¿No era un chico? Yo no"
+  },
+  {
+   "i": 1051,
+   "src": "886f3d17396b",
+   "t": "estaba aquí, ¡ojalá lo hubiera visto!"
+  },
+  {
+   "i": 1058,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1064,
+   "src": "54b06b2f6c6c",
+   "t": "Qué despreocupada eres. Bueno"
+  },
+  {
+   "i": 1067,
+   "src": "abf054b89da7",
+   "t": "no hubo ningún daño esta vez, eso sí."
+  },
+  {
+   "i": 1074,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1080,
+   "src": "d6449f126d95",
+   "t": "¿Y si pensó que era el de chicos?"
+  },
+  {
+   "i": 1083,
+   "src": "3014a4b4773c",
+   "t": "Es enorme y los cuartos son iguales."
+  },
+  {
+   "i": 1091,
+   "src": "6ce57431c57e",
+   "t": "¡Yo también entré por error al de chicos"
+  },
+  {
+   "i": 1094,
+   "src": "8bab688cb76a",
+   "t": "y en el baño había un chico! ¡Qué susto!"
+  },
+  {
+   "i": 1101,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1107,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1110,
+   "src": "3ddf94211bac",
+   "t": "Creí que lo notarían antes."
+  }
+ ]
+}

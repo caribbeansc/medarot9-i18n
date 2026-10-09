@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_janit_meda_500_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "d831eb772913",
+   "t": "{{gloomeg}}"
+  },
+  {
+   "i": 1038,
+   "src": "4d4627042f0a",
+   "t": "My master and I"
+  },
+  {
+   "i": 1041,
+   "src": "75398592d5f6",
+   "t": "go clean the school every morning."
+  },
+  {
+   "i": 1049,
+   "src": "4e5f80a3d4c9",
+   "t": "I see you in front of the dorm a lot."
+  },
+  {
+   "i": 1052,
+   "src": "52d0e278369b",
+   "t": "You're always running, so I remembered\nyou."
+  }
+ ]
+}

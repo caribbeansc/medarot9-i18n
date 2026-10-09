@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_m_1e_164_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c3f4cc69311",
+   "t": "{{hiroki}}"
+  },
+  {
+   "i": 1038,
+   "src": "88b7697b6479",
+   "t": "¡Hola, "
+  },
+  {
+   "i": 1040,
+   "src": "222a7652ec56",
+   "t": "-kun!"
+  },
+  {
+   "i": 1043,
+   "src": "51611519da49",
+   "t": "Te ves ocupado."
+  },
+  {
+   "i": 1051,
+   "src": "6f5b22280787",
+   "t": "¿Yo? Bueno-- creo que ahora sé"
+  },
+  {
+   "i": 1054,
+   "src": "7c48150cfb7e",
+   "t": "mucho más sobre {{medabot|pl}} que antes."
+  },
+  {
+   "i": 1062,
+   "src": "6dcc330bad3b",
+   "t": "Sigo siendo malo en {{robattle|pl}}."
+  },
+  {
+   "i": 1065,
+   "src": "68143015e243",
+   "t": "Ajaja."
+  }
+ ]
+}

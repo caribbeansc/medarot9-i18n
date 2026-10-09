@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_3f_163_s01_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1035,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1043,
+   "src": "02797653d299",
+   "t": "Perdón por preguntar."
+  },
+  {
+   "i": 1046,
+   "src": "f7354a15accb",
+   "t": "De todos modos no habría funcionado."
+  },
+  {
+   "i": 1054,
+   "src": "620b44713a9b",
+   "t": "No tenemos chicos. Y tampoco"
+  },
+  {
+   "i": 1057,
+   "src": "3691424e395e",
+   "t": "sé entrenar idols varones..."
+  }
+ ]
+}

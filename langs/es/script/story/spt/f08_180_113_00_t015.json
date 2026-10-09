@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f08_180_113_00_t015.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1049,
+   "src": "4c0d16618bd1",
+   "t": "Estoy tan indignada que me quedo sin\npalabras."
+  },
+  {
+   "i": 1063,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1072,
+   "src": "7a5d2746e482",
+   "t": "Jajaja."
+  },
+  {
+   "i": 1084,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1093,
+   "src": "c804dc7572db",
+   "t": "¡¡No te rías!!"
+  }
+ ]
+}

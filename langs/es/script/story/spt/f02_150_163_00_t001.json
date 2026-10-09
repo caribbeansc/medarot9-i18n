@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f02_150_163_00_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1038,
+   "src": "bfd6ef945edc",
+   "t": "Oye, {{mio}}-chan,"
+  },
+  {
+   "i": 1041,
+   "src": "79d19f20b82b",
+   "t": "¿por qué decidiste unirte al {{idol_club}}?"
+  },
+  {
+   "i": 1049,
+   "src": "c9cfeb70c932",
+   "t": "Si solo cantas y bailas por tu cuenta,"
+  },
+  {
+   "i": 1052,
+   "src": "85ec4fc25ccd",
+   "t": "no puedes hacer feliz a nadie, ¿verdad?"
+  },
+  {
+   "i": 1060,
+   "src": "c2e7243badf4",
+   "t": "¡De eso no se trata ser una idol!"
+  },
+  {
+   "i": 1071,
+   "src": "a670749c592b",
+   "t": "Oye, "
+  },
+  {
+   "i": 1073,
+   "src": "8441ebedab13",
+   "t": ", ¿qué piensas? ¿Crees que"
+  },
+  {
+   "i": 1076,
+   "src": "dd837c7b8a46",
+   "t": "está bien seguir así?"
+  },
+  {
+   "i": 1084,
+   "src": "ddcf0ae44096",
+   "t": "Así es."
+  },
+  {
+   "i": 1095,
+   "src": "d68d155653e0",
+   "t": "No está bien encerrarte"
+  },
+  {
+   "i": 1098,
+   "src": "1b171e7deaba",
+   "t": "por completo lejos de todos."
+  },
+  {
+   "i": 1106,
+   "src": "87e481547326",
+   "t": "¿Por qué no prueban a disolver el dúo?"
+  },
+  {
+   "i": 1115,
+   "src": "0247ef60971b",
+   "t": ", si no fuera por ti,"
+  },
+  {
+   "i": 1118,
+   "src": "299923e37f98",
+   "t": "{{mio}} también estaría--"
+  }
+ ]
+}

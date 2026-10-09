@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3c_meda_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "65357b923f0d",
+   "t": "{{sha_fu}}"
+  },
+  {
+   "i": 1038,
+   "src": "6bc1dfa70343",
+   "t": "¡{{sawahime}} es la capitana de"
+  },
+  {
+   "i": 1041,
+   "src": "948241ab43f6",
+   "t": "basquet! ¡Yo también soy observador!"
+  }
+ ]
+}

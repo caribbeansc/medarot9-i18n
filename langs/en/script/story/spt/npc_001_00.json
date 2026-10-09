@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_001_00.spt",
+ "lines": [
+  {
+   "i": 1154,
+   "src": "2380f1663d31",
+   "t": "{{old_man}}"
+  },
+  {
+   "i": 1162,
+   "src": "9c2acd7bd097",
+   "t": "Since the other day, the {{laurel}}\nDetective"
+  },
+  {
+   "i": 1165,
+   "src": "de9e76f9b5fe",
+   "t": "Agency's rookie is the talk of the town!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_92.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "39e35fd6b108",
+   "t": "<c:00ff00>Action:<c> {{change}}\nYour {{part|pl}} other than the\n{{head_part}} transform into\nother {{part|pl}}."
+  }
+ ]
+}

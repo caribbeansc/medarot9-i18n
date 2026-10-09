@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_22.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "35bdf5d3d8ef",
+   "t": "<c:00ff00>Action:<c> {{fire_shot}}\nA ranged attack that\napplies the {{fire}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{fire}}\nWhen its action ends,\ndeals 10 {{damage}} to all\n{{part|pl}}. Does not reveal\nthe\n{{leader}}."
+  }
+ ]
+}

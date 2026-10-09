@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f06_250_000_10_t023.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1047,
+   "src": "6b727d5cf05c",
+   "t": "¡El sistema se cayó!"
+  },
+  {
+   "i": 1050,
+   "src": "11e2144a2cd8",
+   "t": "¿Les pasó lo mismo a ustedes?"
+  }
+ ]
+}

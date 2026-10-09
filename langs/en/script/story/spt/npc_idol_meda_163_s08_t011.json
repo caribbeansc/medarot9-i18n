@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_idol_meda_163_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "29f1f1321a6d",
+   "t": "{{flora}}"
+  },
+  {
+   "i": 1038,
+   "src": "4822cbda460e",
+   "t": "Oh, hello, everyone."
+  },
+  {
+   "i": 1041,
+   "src": "224c83ab924b",
+   "t": "The leg {{part}} you gave me is in perfect\nshape."
+  },
+  {
+   "i": 1049,
+   "src": "703d7d40be1c",
+   "t": "I could keep dancing all night long."
+  },
+  {
+   "i": 1052,
+   "src": "e7ffec3962c7",
+   "t": "Yes."
+  }
+ ]
+}

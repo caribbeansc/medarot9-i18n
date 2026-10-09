@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description88.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1d059c296d29",
+   "t": "{{assist}} (est.)"
+  },
+  {
+   "i": 11,
+   "src": "280d0d8af2f1",
+   "t": "<c:ffff00>{{robattle_style|cap}}<c> que prioriza la eficiencia de\nacción.\n\n<c:ffff00>Rendimientos<c> que suben:\n  <c:ffff00>{{prep}}<c> +12, <c:ffff00>{{cooldown}}<c> +12\n\n{{condition_rotation|cap}} de subida de la <c:ffff00>{{charge_gauge}}<c>:\n+2% por cada <c:ffff00>acción<c> realizada."
+  }
+ ]
+}

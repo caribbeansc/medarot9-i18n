@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description105.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "00b2f07adddb",
+   "t": "{{stats|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "ffdf2bb01349",
+   "t": "Numerical values that measure the strength and\neffects of <c:ffff00>{{part|pl}}<c> and <c:ffff00>objects<c> for comparison.\nThere are 9 types; they vary by the {{part}}'s <c:ffff00>{{slot}}<c> or the\n{{object}}'s {{effect}}:\n  <c:ffff00>{{armor}}<c> (head, arms, legs)\n  <c:ffff00>{{success}}<c> and <c:ffff00>{{power}}<c> (head, arms)\n  <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c> (head, arms)\n  <c:ffff00>{{uses}}<c> (head)\n  <c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c>, <c:ffff00>{{shooting}}<c> (legs)"
+  }
+ ]
+}

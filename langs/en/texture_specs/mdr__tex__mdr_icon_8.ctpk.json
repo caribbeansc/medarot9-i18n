@@ -1,0 +1,164 @@
+{
+ "rel": "mdr/tex/mdr_icon_8.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond-heavy",
+  "cap": 8,
+  "pad": 0,
+  "crisp": 0.5,
+  "fill": "#FCFCFC",
+  "stroke": "#001064",
+  "stroke_w": 1.3,
+  "min_scale_x": 0.72
+ },
+ "items": [
+  {
+   "box": [
+    362,
+    185,
+    48,
+    14
+   ],
+   "text": "My Data",
+   "baseline": 195
+  },
+  {
+   "box": [
+    411,
+    185,
+    32,
+    14
+   ],
+   "text": "Parts",
+   "baseline": 195
+  },
+  {
+   "box": [
+    443,
+    185,
+    31,
+    14
+   ],
+   "text": "Medal",
+   "baseline": 195
+  },
+  {
+   "box": [
+    476,
+    185,
+    31,
+    14
+   ],
+   "text": "Save",
+   "baseline": 195
+  },
+  {
+   "box": [
+    362,
+    200,
+    57,
+    14
+   ],
+   "text": "Network",
+   "baseline": 210
+  },
+  {
+   "box": [
+    421,
+    200,
+    40,
+    14
+   ],
+   "text": "Sound",
+   "baseline": 210
+  },
+  {
+   "box": [
+    460,
+    200,
+    40,
+    14
+   ],
+   "text": "Album",
+   "baseline": 210
+  },
+  {
+   "box": [
+    431,
+    215,
+    55,
+    14
+   ],
+   "text": "Medafighter",
+   "baseline": 225
+  },
+  {
+   "box": [
+    186,
+    228,
+    33,
+    14
+   ],
+   "text": "Mail",
+   "baseline": 238
+  },
+  {
+   "box": [
+    220,
+    228,
+    61,
+    14
+   ],
+   "text": "Settings",
+   "baseline": 238
+  },
+  {
+   "box": [
+    281,
+    228,
+    42,
+    14
+   ],
+   "text": "Memo",
+   "baseline": 238,
+   "erase_box": [
+    281,
+    222,
+    42,
+    20
+   ]
+  },
+  {
+   "box": [
+    188,
+    242,
+    31,
+    14
+   ],
+   "text": "Map",
+   "baseline": 252
+  },
+  {
+   "box": [
+    220,
+    242,
+    48,
+    14
+   ],
+   "text": "M Radar",
+   "baseline": 252
+  },
+  {
+   "box": [
+    268,
+    242,
+    39,
+    13
+   ],
+   "text": "Items",
+   "baseline": 251.5,
+   "cap": 7.5
+  }
+ ]
+}

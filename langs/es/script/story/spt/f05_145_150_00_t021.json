@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f05_145_150_00_t021.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "135b1854e853",
+   "t": "{{medabot|pl}} a esta hora..."
+  },
+  {
+   "i": 1009,
+   "src": "cb29df682d75",
+   "t": "¿Qué estarán haciendo? ¿Por ahí no hay"
+  },
+  {
+   "i": 1012,
+   "src": "5ec57dae4f80",
+   "t": "nada más que un {{storehouse}}...?"
+  }
+ ]
+}

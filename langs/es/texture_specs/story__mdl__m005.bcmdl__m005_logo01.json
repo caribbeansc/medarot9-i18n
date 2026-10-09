@@ -1,0 +1,91 @@
+{
+ "rel": "story/mdl/m005.bcmdl",
+ "tex": "m005_logo01",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    24,
+    30,
+    208,
+    54
+   ],
+   "erase_box": [
+    22,
+    30,
+    214,
+    56
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "text": "CUERPO SELECT",
+   "font": "impact",
+   "cap": 28,
+   "pad": 0,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#E2CE8C"
+     ],
+     [
+      0.45,
+      "#B9A15E"
+     ],
+     [
+      1,
+      "#7C6733"
+     ]
+    ]
+   },
+   "stroke": "#33250A",
+   "stroke_w": 1.0,
+   "shadow": [
+    {
+     "dx": -1,
+     "dy": -1,
+     "color": "#F0E4B0",
+     "opacity": 0.55
+    },
+    {
+     "dx": 1,
+     "dy": 1,
+     "color": "#10100C",
+     "opacity": 0.85
+    }
+   ]
+  },
+  {
+   "box": [
+    55,
+    192,
+    166,
+    34
+   ],
+   "erase_box": [
+    52,
+    194,
+    172,
+    30
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 2,
+   "text": "LABORATORIO\nDE MEDALLAS",
+   "font": "hiragino-heavy",
+   "cap": 12,
+   "pad": 0,
+   "leading": 1.15,
+   "fill": "#1A242A",
+   "stroke": null,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#CFC6BE",
+    "opacity": 0.7
+   }
+  }
+ ]
+}

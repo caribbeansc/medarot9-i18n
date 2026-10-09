@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f02_070_152_00_t001.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "e1122e337b77",
+   "t": "Well?"
+  },
+  {
+   "i": 1051,
+   "src": "0b3ea3c0afe8",
+   "t": "I can hear voices."
+  },
+  {
+   "i": 1056,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1062,
+   "src": "858ed522c4b8",
+   "t": "What are they saying?"
+  },
+  {
+   "i": 1070,
+   "src": "ed19ee0c7087",
+   "t": "It's too quiet to make out..."
+  },
+  {
+   "i": 1075,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1081,
+   "src": "46aae6c5fbbc",
+   "t": "At least that means she's not alone."
+  },
+  {
+   "i": 1084,
+   "src": "5dbe959cc8e1",
+   "t": "Though she might be on a call."
+  },
+  {
+   "i": 1095,
+   "src": "b25c6f06aad4",
+   "t": "What do we do?"
+  },
+  {
+   "i": 1100,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1106,
+   "src": "1b7a7f8d0e0c",
+   "t": "Let's see."
+  },
+  {
+   "i": 1109,
+   "src": "39a20578dabe",
+   "t": "Giving her time to think will only cause\ntrouble--"
+  },
+  {
+   "i": 1117,
+   "src": "5cb547d6a3e9",
+   "t": "Let's just go in."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_f_1c_meda_130_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "55baa4d4f9a1",
+   "t": "{{hawkdacker}}"
+  },
+  {
+   "i": 1038,
+   "src": "c63e200e4f7e",
+   "t": "De titular creo que habría llegado."
+  },
+  {
+   "i": 1041,
+   "src": "fc9a9735eed7",
+   "t": "¡Fue mi culpa por ser tan débil!"
+  },
+  {
+   "i": 1051,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1057,
+   "src": "673893bcd74d",
+   "t": "Tonta, la débil fui yo."
+  },
+  {
+   "i": 1060,
+   "src": "6d09f37693a1",
+   "t": "Ya te dije, ¡no fue tu culpa!"
+  }
+ ]
+}

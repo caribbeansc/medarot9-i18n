@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free03_01_02_04_t023.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "43fe144a4b73",
+   "t": "Las bisagras están muy oxidadas. "
+  },
+  {
+   "i": 1041,
+   "src": "0c2890b1d4ac",
+   "t": "Aunque rompa el candado, no abrirá."
+  }
+ ]
+}

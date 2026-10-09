@@ -1,0 +1,20 @@
+{
+ "file": "mdr/spt/wifi_func.spt",
+ "lines": [
+  {
+   "i": 1171,
+   "src": "16cccbf71b7d",
+   "t": "Se desconectó la comunicación."
+  },
+  {
+   "i": 1175,
+   "src": "6e8a0e969606",
+   "t": "Se ha perdido la comunicación."
+  },
+  {
+   "i": 1229,
+   "src": "a0f41ef3a41d",
+   "t": "Desconectando de\nNintendo Network."
+  }
+ ]
+}

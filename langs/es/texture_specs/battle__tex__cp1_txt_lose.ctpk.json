@@ -1,0 +1,140 @@
+{
+ "rel": "battle/tex/cp1_txt_lose.ctpk",
+ "base": "jp",
+ "styles": {
+  "cartel": {
+   "font": "avenir-cond-heavy-italic",
+   "italic_skew": 0.3,
+   "pad": 0,
+   "min_scale_x": 0.7
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    237,
+    83
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    238,
+    0,
+    133,
+    74
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "cartel",
+   "box": [
+    2,
+    2,
+    233,
+    79
+   ],
+   "erase": "none",
+   "text": "DERROTA",
+   "cap": 39,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#04200E"
+     ],
+     [
+      0.16,
+      "#0C5A2A"
+     ],
+     [
+      0.34,
+      "#1FA050"
+     ],
+     [
+      0.46,
+      "#46E58A"
+     ],
+     [
+      0.5,
+      "#EDFFF5"
+     ],
+     [
+      0.53,
+      "#17803C"
+     ],
+     [
+      0.76,
+      "#45D580"
+     ],
+     [
+      1,
+      "#A8FFD2"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#F2FFF8",
+     "w": 1.5
+    },
+    {
+     "color": "#19D86A",
+     "w": 2
+    }
+   ],
+   "shadow": [
+    {
+     "dx": 0,
+     "dy": 2,
+     "color": "#021A0A",
+     "blur": 4,
+     "opacity": 0.6
+    },
+    {
+     "dx": 0,
+     "dy": 0,
+     "color": "#19D86A",
+     "blur": 2,
+     "opacity": 0.7
+    }
+   ],
+   "tracking": 1.2,
+   "rotate": 5
+  },
+  {
+   "style": "cartel",
+   "box": [
+    242,
+    0,
+    124,
+    74
+   ],
+   "erase": "none",
+   "text": "DERROTA",
+   "italic_skew": 0.15,
+   "tracking": 1.2,
+   "rotate": 10,
+   "size": 54.929577,
+   "scale_x": 0.457462,
+   "fill": "#FFFFFF00",
+   "strokes": [
+    {
+     "color": "#FFFFFF00",
+     "w": 2.5
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#DDFFF0",
+    "blur": 3,
+    "opacity": 0.72
+   }
+  }
+ ]
+}

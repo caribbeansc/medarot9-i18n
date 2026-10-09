@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_07_002.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1123,
+   "src": "3126cfeaa0c8",
+   "t": "Gauge is at 100%.          "
+  },
+  {
+   "i": 1128,
+   "src": "dd9c45fedfe6",
+   "t": "Now press $ｷ and\npick {{medachange}}.                  "
+  },
+  {
+   "i": 1158,
+   "src": "d7da969764d8",
+   "t": "Then confirm with the $* button.    "
+  }
+ ]
+}

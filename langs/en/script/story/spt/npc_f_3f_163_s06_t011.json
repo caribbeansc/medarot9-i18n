@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3f_163_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1035,
+   "src": "269268613f44",
+   "t": "Yeah, everything's really taking shape!"
+  },
+  {
+   "i": 1038,
+   "src": "d2880b0a622b",
+   "t": "Do you think we'll make it just in time?"
+  },
+  {
+   "i": 1049,
+   "src": "4edf4a22891d",
+   "t": "...Huh? I'm talking"
+  },
+  {
+   "i": 1052,
+   "src": "30f0cf5013c2",
+   "t": "about the cultural festival program."
+  },
+  {
+   "i": 1060,
+   "src": "84051f5eca82",
+   "t": "Of course I'll be fired up!"
+  },
+  {
+   "i": 1063,
+   "src": "f28e37592cad",
+   "t": "It's the biggest festival of the year, and\nthey'll see us live!"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "file": "battle/spt/tuto_02_005.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "cfc3144904ed",
+   "t": "La barra parece suficiente.\n¿Ya puedo activar la Medafuerza...?"
+  },
+  {
+   "i": 1136,
+   "src": "d0bfa446a6d5",
+   "t": "La barra parece suficiente.\nYa podríamos activar la Medafuerza.         "
+  },
+  {
+   "i": 1147,
+   "src": "7454eedf8858",
+   "t": "¡Pulsa el botón $ｸ! "
+  },
+  {
+   "i": 1153,
+   "src": "203c47f996bd",
+   "t": "Presiona $ｸ.        "
+  },
+  {
+   "i": 1180,
+   "src": "5aa2305407f8",
+   "t": "Ya aparecen los comandos de\n{{medaforce}}, ¿no?    "
+  },
+  {
+   "i": 1186,
+   "src": "9612b725eec3",
+   "t": "Deberían verse los comandos\nde {{medaforce}}.  "
+  },
+  {
+   "i": 1197,
+   "src": "f87ba38a832d",
+   "t": "¡Elige <c:ff00ff>\"Descarga Total\"<c>!"
+  },
+  {
+   "i": 1205,
+   "src": "eaa8b431131b",
+   "t": "¡Entendido,\nes \"Descarga Total\"!"
+  },
+  {
+   "i": 1211,
+   "src": "374b30f558df",
+   "t": "¡Elige <c:ff00ff>\"{{bamboo_splitter}}\"<c>!    "
+  },
+  {
+   "i": 1219,
+   "src": "b91651bd5dd0",
+   "t": "¡Entendido,\nes \"{{bamboo_splitter}}\"!   "
+  },
+  {
+   "i": 1446,
+   "src": "6aba988dbadd",
+   "t": "¡Apunta al {{leader}}!  "
+  },
+  {
+   "i": 1455,
+   "src": "257abc6d4b1e",
+   "t": "¡Dije que apuntes al {{leader}}!"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_170.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ec637065b675",
+   "t": "{{medabot}} {{themed_on}} el\ncalamar vampiro, que brilla\nazul pálido en las\nprofundidades y no es ni\npulpo ni calamar.\n \nAnte el peligro invierte su\nmanto y se protege con\n{{guard}} de Combate."
+  }
+ ]
+}

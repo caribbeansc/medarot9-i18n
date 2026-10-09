@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f11_260_956_00_t022.spt",
+ "lines": [
+  {
+   "i": 1043,
+   "src": "da717da8c5ad",
+   "t": "Finge ser mi {{master}}."
+  },
+  {
+   "i": 1050,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1061,
+   "src": "6435386f9122",
+   "t": "{{metabee}}..."
+  },
+  {
+   "i": 1067,
+   "src": "ffce3d14e2f8",
+   "t": "{{rokusho}}..."
+  },
+  {
+   "i": 1089,
+   "src": "d4b8d36f711d",
+   "t": "Dime cuándo va a llegar ese ataque."
+  },
+  {
+   "i": 1092,
+   "src": "fdf2ca2bebd9",
+   "t": "Yo lo recibiré todo."
+  },
+  {
+   "i": 1099,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1105,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1113,
+   "src": "571ecde32cb9",
+   "t": "Entendido."
+  }
+ ]
+}

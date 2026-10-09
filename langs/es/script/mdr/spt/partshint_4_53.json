@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_53.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "95ecf547ae37",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nEmergencia\nCada vez que una {{part}} de\ntu equipo es destruida, la\n{{leg_part}} gana +4\nen {{mobility}}.\n*Máximo +20."
+  }
+ ]
+}

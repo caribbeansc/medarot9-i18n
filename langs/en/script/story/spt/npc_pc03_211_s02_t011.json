@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc03_211_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "20209541d795",
+   "t": "Hmm, truly, truly fascinating."
+  },
+  {
+   "i": 1038,
+   "src": "2478a41f26d4",
+   "t": "Fascinating, but dark."
+  },
+  {
+   "i": 1046,
+   "src": "2845a2e475c5",
+   "t": "Fumbling around like this won't get us\nanywhere."
+  },
+  {
+   "i": 1049,
+   "src": "95e8bbe836ad",
+   "t": "First, light... Where's the power source..."
+  }
+ ]
+}

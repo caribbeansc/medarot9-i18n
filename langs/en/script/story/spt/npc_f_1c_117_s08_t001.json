@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1c_117_s08_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "bb606185beb2",
+   "t": "Lately everyone's all about {{medalia}}!"
+  },
+  {
+   "i": 1046,
+   "src": "cdea497269a7",
+   "t": "I think they're making way too big a\nfuss."
+  },
+  {
+   "i": 1049,
+   "src": "f01a640b9ddf",
+   "t": "Students have more important things\ntoo."
+  },
+  {
+   "i": 1057,
+   "src": "0b1c1886ad12",
+   "t": "Like romance!"
+  }
+ ]
+}

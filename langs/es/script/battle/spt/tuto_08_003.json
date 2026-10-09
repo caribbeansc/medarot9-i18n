@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_08_003.spt",
+ "lines": [
+  {
+   "i": 1114,
+   "src": "4b3bef921d81",
+   "t": "...Eh?\nQué fue esa acción?"
+  },
+  {
+   "i": 1119,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1125,
+   "src": "bc13ed09cd3b",
+   "t": "Al completar la {{prep}}, pasa al\n<c:ff00ff>{{condition}} de espera de fuego cruzado<c>.          "
+  },
+  {
+   "i": 1130,
+   "src": "ea672825860f",
+   "t": "En este {{condition}}, si otro {{ally_battle_term}} ataca,\nel {{medabot}} en espera se une al ataque.                                   "
+  },
+  {
+   "i": 1135,
+   "src": "5be9de48be5c",
+   "t": "Esperemos a que el fuego cruzado del\n2do Medabot también esté en espera."
+  }
+ ]
+}

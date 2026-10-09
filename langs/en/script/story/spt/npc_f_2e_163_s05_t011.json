@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_2e_163_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1038,
+   "src": "b2d437ea238b",
+   "t": "Um. Can I help you? This place"
+  },
+  {
+   "i": 1041,
+   "src": "9a793b403491",
+   "t": "is technically no boy-- I mean, hey,"
+  },
+  {
+   "i": 1049,
+   "src": "65bf141d2f4e",
+   "t": "right now I'm the only one here."
+  },
+  {
+   "i": 1052,
+   "src": "b68df04cafeb",
+   "t": "If you don't leave soon, I'll scream,\nokay?"
+  },
+  {
+   "i": 1063,
+   "src": "eb325c04b01e",
+   "t": "S-sorry!"
+  },
+  {
+   "i": 1066,
+   "src": "54bdca3aa7f6",
+   "t": "I'll leave right now, yes!"
+  }
+ ]
+}

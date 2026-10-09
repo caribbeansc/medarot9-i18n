@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_0.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "49a2cdc9cba1",
+   "t": "<c:00ff00>Técnica:<c>{{rifle}}\nAtaque de {{shooting}} veloz.\nSi la {{power}} llega a 40 o\nmás gana {{effect}} de\n{{pierce}}."
+  }
+ ]
+}

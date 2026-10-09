@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_68.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f2d027568a4f",
+   "t": "<c:00ff00>Action:<c> {{mf}} Seal\nA melee attack that\napplies the\n{{mf}} Seal {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{mf}} Seal\nA special power makes\nthe\n{{medaforce}} unusable."
+  }
+ ]
+}

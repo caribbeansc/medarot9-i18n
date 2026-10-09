@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_56.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6784a7eb5942",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{acrobatics}}\nCon {{both_arms}}\nintactos {{mobility}} +10.\nCon {{one_arm}} destruido\n{{mobility}} +5."
+  }
+ ]
+}

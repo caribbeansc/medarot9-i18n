@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description126.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "eee9f5296ac7",
+   "t": "{{anti_air}} (sub-skill)"
+  },
+  {
+   "i": 11,
+   "src": "3ed3c80d328a",
+   "t": "An <c:ffff00>attack<c> <c:ffff00>sub-skill<c> for <c:ffff00>{{part|pl}}<c> with special ammo or\nmechanisms that greatly boosts <c:ffff00>{{stats}}<c> against {{flying}}\nfoes.\nPreparing it drops the <c:ffff00>action<c>'s <c:ffff00>{{prep}}<c> by 50%.\nIf, when <c:ffff00>{{prep}}<c> completes, the <c:ffff00>{{target}}<c>'s <c:ffff00>Leg Type<c> is\n<c:ffff00>{{flying}}<c>: <c:ffff00>{{power}}<c> +20, <c:ffff00>evasion<c> {{success_rate}} 0%, and\nalways <c:ffff00>{{critical}}<c>. Otherwise, a normal attack."
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f02_010_115_00_t004_2.spt",
+ "lines": [
+  {
+   "i": 1126,
+   "src": "ad7b8f99481c",
+   "t": "...Paso."
+  },
+  {
+   "i": 1131,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1140,
+   "src": "7e031891feea",
+   "t": "¿Por qué no?"
+  },
+  {
+   "i": 1151,
+   "src": "d39cdc41575d",
+   "t": "No tengo ganas."
+  },
+  {
+   "i": 1159,
+   "src": "1d8899904b98",
+   "t": "Además, soy del {{club|cap}}. Buscar al"
+  },
+  {
+   "i": 1162,
+   "src": "277dc563ff60",
+   "t": "culpable no es asunto mío... creo."
+  },
+  {
+   "i": 1167,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1176,
+   "src": "56ff28bfdc11",
+   "t": "Entonces, si a mi "
+  },
+  {
+   "i": 1178,
+   "src": "a1432ffee269",
+   "t": " le pasa algo,"
+  },
+  {
+   "i": 1181,
+   "src": "07933fe1a8a9",
+   "t": "¿te da igual, es eso? "
+  },
+  {
+   "i": 1190,
+   "src": "eb4b7aee9b86",
+   "t": "... si le hacen algo terrible, "
+  },
+  {
+   "i": 1193,
+   "src": "54e185637253",
+   "t": "¿vas a hacerte responsable?"
+  },
+  {
+   "i": 1204,
+   "src": "6dab001d2978",
+   "t": "¿Por qué tenía que terminar así?"
+  },
+  {
+   "i": 1212,
+   "src": "e8afc91063d9",
+   "t": "Si apenas me uní al {{club}}, caramba."
+  },
+  {
+   "i": 1215,
+   "src": "cfb370c37b65",
+   "t": "No puedo decidir algo así por mi cuenta."
+  },
+  {
+   "i": 1223,
+   "src": "2f359b54e063",
+   "t": "Pídelo directo al {{club_president}}."
+  },
+  {
+   "i": 1226,
+   "src": "795e53245f07",
+   "t": "Entonces yo al menos podría-"
+  },
+  {
+   "i": 1242,
+   "src": "529266a8b07a",
+   "t": "Claro."
+  },
+  {
+   "i": 1261,
+   "src": "fed537c5ae87",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1277,
+   "src": "95fe58d00537",
+   "t": "Pero hay una {{condition_rotation}}."
+  }
+ ]
+}

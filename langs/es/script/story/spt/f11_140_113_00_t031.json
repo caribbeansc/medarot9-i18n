@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f11_140_113_00_t031.spt",
+ "lines": [
+  {
+   "i": 1018,
+   "src": "e029b4b14579",
+   "t": "*{{victory|cap}} en el primer combate"
+  },
+  {
+   "i": 1029,
+   "src": "0190c829f17a",
+   "t": "{{exploration_club_pres}}"
+  },
+  {
+   "i": 1040,
+   "src": "8f61439be377",
+   "t": "Uf."
+  },
+  {
+   "i": 1047,
+   "src": "0517113512bd",
+   "t": "{{baum}}"
+  },
+  {
+   "i": 1053,
+   "src": "b5d98f82a01c",
+   "t": "No bajes la guardia."
+  },
+  {
+   "i": 1061,
+   "src": "3897bcbc330a",
+   "t": "¡Ahí viene!"
+  },
+  {
+   "i": 1077,
+   "src": "bb307b8df7ac",
+   "t": "*Múltiples {{medabot|pl}} de nuevo desde el\nportón"
+  },
+  {
+   "i": 1082,
+   "src": "1ac55122bfad",
+   "t": "*A la {{robattle}}"
+  }
+ ]
+}

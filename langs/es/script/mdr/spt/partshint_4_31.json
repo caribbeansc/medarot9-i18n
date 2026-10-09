@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_31.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "89fd9c286391",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Brillo\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"Súper Reparación\"."
+  }
+ ]
+}

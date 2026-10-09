@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f11_220_958_00_t011.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1133,
+   "src": "7510ac9af962",
+   "t": "You haven't defeated it."
+  },
+  {
+   "i": 1144,
+   "src": "4c0b1994bb45",
+   "t": "Huh?"
+  },
+  {
+   "i": 1152,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1158,
+   "src": "78314ffba0c9",
+   "t": "Its self-repair speed is abnormal."
+  },
+  {
+   "i": 1169,
+   "src": "12d4c62f5079",
+   "t": "{{destroy|cap}} part of an organ and it revives\ninstantly."
+  },
+  {
+   "i": 1172,
+   "src": "ffeadfda1fbb",
+   "t": "At best it only buys time."
+  },
+  {
+   "i": 1182,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1191,
+   "src": "661e02583f4d",
+   "t": "Th-then"
+  },
+  {
+   "i": 1194,
+   "src": "26d902eb8bf1",
+   "t": "Then how are we supposed to beat it?"
+  },
+  {
+   "i": 1214,
+   "src": "2546e0175d41",
+   "t": "Principaaal!!!"
+  }
+ ]
+}

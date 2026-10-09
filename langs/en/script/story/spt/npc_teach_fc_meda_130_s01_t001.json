@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_teach_fc_meda_130_s01_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "06338d21ac39",
+   "t": "{{teacher_b_s_medabot}}"
+  },
+  {
+   "i": 1035,
+   "src": "f504c650b2a9",
+   "t": "Unlike humans, male-type and\nfemale-type"
+  },
+  {
+   "i": 1038,
+   "src": "d8b6e4768d03",
+   "t": "Medabots have no difference in athletic\nability."
+  }
+ ]
+}

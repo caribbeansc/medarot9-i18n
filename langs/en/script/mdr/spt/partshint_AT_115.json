@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_115.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "da3299a1767c",
+   "t": "<c:00ff00>Action:<c> {{full_fix}}\nFully recovers {{damage}} on\none {{part}} of one allied\n{{medabot}}."
+  }
+ ]
+}

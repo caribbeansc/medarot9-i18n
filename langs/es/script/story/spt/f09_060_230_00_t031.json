@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f09_060_230_00_t031.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1052,
+   "src": "2e8cbc8012d7",
+   "t": "¡Ay~!"
+  },
+  {
+   "i": 1073,
+   "src": "d3345873ea9c",
+   "t": "Vaya."
+  },
+  {
+   "i": 1076,
+   "src": "5b4d2e22d386",
+   "t": "¿Sigues aquí?"
+  },
+  {
+   "i": 1087,
+   "src": "b19faa0b035b",
+   "t": "Dime. Quién eres--"
+  },
+  {
+   "i": 1090,
+   "src": "894da7f48949",
+   "t": "¿Quiénes son todos ustedes?"
+  },
+  {
+   "i": 1103,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1114,
+   "src": "28e79180fbc2",
+   "t": "La {{rubberobo_gang}}."
+  },
+  {
+   "i": 1125,
+   "src": "bb61ca211625",
+   "t": "¿Rubberobo...?"
+  },
+  {
+   "i": 1130,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1139,
+   "src": "a193f052d64f",
+   "t": "Mi nombre es {{saika}}."
+  },
+  {
+   "i": 1142,
+   "src": "1812fe36f43e",
+   "t": "¡Ser nueva es solo una fachada!"
+  },
+  {
+   "i": 1150,
+   "src": "33a8b7fc1322",
+   "t": "Mi verdadera identidad es--"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_rival_meda_165_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "ad1a2c18e5bf",
+   "t": "{{jasper}}"
+  },
+  {
+   "i": 1035,
+   "src": "6475c4a48789",
+   "t": "Estoy aburrido."
+  },
+  {
+   "i": 1038,
+   "src": "7afba9389247",
+   "t": "Afuera es mucho más divertido."
+  }
+ ]
+}

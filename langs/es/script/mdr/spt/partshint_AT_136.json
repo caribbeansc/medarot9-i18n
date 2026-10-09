@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_136.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a0021be33a09",
+   "t": "<c:00ff00>Técnica:<c>Guard Perf.\n{{guard}} que intercepta\nataques a los aliados.\nAl interceptar, anula\ncualquier ataque.\nTermina tras 1 guardia o\nsi\naliados actúan 4 veces o\npasa un tiempo."
+  }
+ ]
+}

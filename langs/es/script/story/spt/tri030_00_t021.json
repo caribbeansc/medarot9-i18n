@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/tri030_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1035,
+   "src": "e0c1ded7f434",
+   "t": "Ahora, {{robattle}} 3 vs 3."
+  },
+  {
+   "i": 1038,
+   "src": "abc2dc4e0185",
+   "t": "Piensa tú también la {{settings}}."
+  },
+  {
+   "i": 1049,
+   "src": "ec9c4043377c",
+   "t": "¡S-sí!"
+  },
+  {
+   "i": 1054,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1060,
+   "src": "5f60a475b02d",
+   "t": "Entonces, en el equipo de "
+  },
+  {
+   "i": 1062,
+   "src": "97f8acbab500",
+   "t": "-kun,"
+  },
+  {
+   "i": 1065,
+   "src": "7368436f713c",
+   "t": "entraremos {{ryoma}}-kun y yo..."
+  },
+  {
+   "i": 1075,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1084,
+   "src": "e4df8d71c905",
+   "t": "Entonces dejen que nosotros"
+  },
+  {
+   "i": 1087,
+   "src": "de24abc77962",
+   "t": "nos unamos al equipo rival."
+  },
+  {
+   "i": 1094,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1103,
+   "src": "1cbc9d5b779f",
+   "t": "¡Vengan con todo lo que tengan!"
+  }
+ ]
+}

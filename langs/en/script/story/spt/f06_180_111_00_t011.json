@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f06_180_111_00_t011.spt",
+ "lines": [
+  {
+   "i": 1039,
+   "src": "608e43e02722",
+   "t": "Huh?!"
+  },
+  {
+   "i": 1057,
+   "src": "48da82063da8",
+   "t": "Wh-what did you do, {{main}}-chan?!"
+  },
+  {
+   "i": 1065,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1074,
+   "src": "e22d7ee6627e",
+   "t": "Please look at your phone."
+  },
+  {
+   "i": 1077,
+   "src": "e9185fd53014",
+   "t": "Check the {{medalia}} reaction."
+  },
+  {
+   "i": 1088,
+   "src": "4edf4a22891d",
+   "t": "...Huh?"
+  }
+ ]
+}

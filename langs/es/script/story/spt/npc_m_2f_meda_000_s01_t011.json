@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9356f0822883",
+   "t": "{{dokoka_no_oji}}"
+  },
+  {
+   "i": 1038,
+   "src": "e20fe0a21e84",
+   "t": "Los filmes de {{medabot|pl}} siempre"
+  },
+  {
+   "i": 1041,
+   "src": "119ab505ce73",
+   "t": "son de acción. Creo que debería"
+  },
+  {
+   "i": 1049,
+   "src": "52eeb0c7e400",
+   "t": "haber un filme de Medabots juvenil"
+  },
+  {
+   "i": 1052,
+   "src": "6bed6a3a661e",
+   "t": "o romántico por una vez."
+  }
+ ]
+}

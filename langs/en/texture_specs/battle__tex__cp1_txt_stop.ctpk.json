@@ -1,0 +1,186 @@
+{
+ "rel": "battle/tex/cp1_txt_stop.ctpk",
+ "base": "jp",
+ "styles": {
+  "stop": {
+   "font": "sf-black-italic",
+   "italic_skew": 0.14,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#1838E0"
+     ],
+     [
+      0.26,
+      "#0A1C94"
+     ],
+     [
+      0.46,
+      "#1E50CC"
+     ],
+     [
+      0.53,
+      "#2CD2FF"
+     ],
+     [
+      0.62,
+      "#1E7CE8"
+     ],
+     [
+      0.8,
+      "#50CAFF"
+     ],
+     [
+      1,
+      "#A8FFFF"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#0A2C9C",
+     "w": 1.2
+    },
+    {
+     "color": "#E4FFFF",
+     "w": 1.6
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "color": "#10B09C",
+    "blur": 3.5,
+    "opacity": 1.0
+   },
+   "dark_edges": true
+  }
+ },
+ "items": [
+  {
+   "segments": [
+    [
+     0,
+     0,
+     128,
+     73,
+     0,
+     7
+    ],
+    [
+     0,
+     144,
+     99,
+     70,
+     128,
+     0
+    ]
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "segments": [
+    [
+     0,
+     74,
+     128,
+     69,
+     0,
+     5
+    ],
+    [
+     0,
+     215,
+     63,
+     41,
+     128,
+     0
+    ],
+    [
+     64,
+     215,
+     63,
+     19,
+     128,
+     41
+    ]
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "stop",
+   "segments": [
+    [
+     0,
+     0,
+     128,
+     73,
+     0,
+     7
+    ],
+    [
+     0,
+     144,
+     99,
+     70,
+     128,
+     0
+    ]
+   ],
+   "box": [
+    10,
+    8,
+    205,
+    60
+   ],
+   "erase": "none",
+   "text": "KNOCKED\nOUT",
+   "cap": 23,
+   "leading": 0.82
+  },
+  {
+   "style": "stop",
+   "segments": [
+    [
+     0,
+     74,
+     128,
+     69,
+     0,
+     5
+    ],
+    [
+     0,
+     215,
+     63,
+     41,
+     128,
+     0
+    ],
+    [
+     64,
+     215,
+     63,
+     19,
+     128,
+     41
+    ]
+   ],
+   "box": [
+    8,
+    8,
+    176,
+    50
+   ],
+   "erase": "none",
+   "text": "LEADER",
+   "cap": 34,
+   "tracking": 1.5
+  }
+ ]
+}

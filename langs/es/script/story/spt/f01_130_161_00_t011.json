@@ -1,0 +1,100 @@
+{
+ "file": "story/spt/f01_130_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1045,
+   "src": "801adc8e33c8",
+   "t": "Vaya."
+  },
+  {
+   "i": 1048,
+   "src": "e0b4f36a2ada",
+   "t": "Si mal no recuerdo, tú..."
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1071,
+   "src": "eb2bdbf68fc5",
+   "t": "Pero miren, la Presidenta del Consejo."
+  },
+  {
+   "i": 1074,
+   "src": "92cf391fe59e",
+   "t": "Hoy tenemos muchas visitas, eh."
+  },
+  {
+   "i": 1079,
+   "src": "9840eb535cc5",
+   "t": "Bien, ¿qué desea ordenar hoy?"
+  },
+  {
+   "i": 1086,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1095,
+   "src": "177effb4fca9",
+   "t": "No me lo creo, pero tú..."
+  },
+  {
+   "i": 1100,
+   "src": "e0e0b0f3a68d",
+   "t": "¿...piensas unirte al {{club}}?"
+  },
+  {
+   "i": 1114,
+   "src": "54916a17c3fa",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1126,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1132,
+   "src": "f60b4ea69be7",
+   "t": "De hecho, así es, jaja."
+  },
+  {
+   "i": 1143,
+   "src": "ad1e2177f27d",
+   "t": "¿Eh? ¿Qué?"
+  },
+  {
+   "i": 1148,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1157,
+   "src": "7a0ec48f81b8",
+   "t": "Vaya... Bueno, ¿supongo que está bien?"
+  },
+  {
+   "i": 1160,
+   "src": "faf8a7231548",
+   "t": "Ustedes dos hacen buena pareja."
+  },
+  {
+   "i": 1167,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1176,
+   "src": "73cda6cffb9b",
+   "t": "¿Verdad~?"
+  }
+ ]
+}

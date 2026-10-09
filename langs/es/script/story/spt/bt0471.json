@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0471.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "5f6bc00515c2",
+   "t": "{{council_yachiyo}}"
+  },
+  {
+   "i": 872,
+   "src": "30f31b4dc404",
+   "t": "Eh, ¿una {{robattle}}?"
+  },
+  {
+   "i": 875,
+   "src": "0dd543646fff",
+   "t": "Por supuesto, sin problema~."
+  }
+ ]
+}

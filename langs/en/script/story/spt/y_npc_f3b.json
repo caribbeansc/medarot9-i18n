@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3b.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1653,
+   "src": "2d3c440e2700",
+   "t": "A {{robattle}}? Sure!"
+  },
+  {
+   "i": 1656,
+   "src": "2b93cc06e93d",
+   "t": "I won't lose!"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f04_010_117_00_t006.spt",
+ "lines": [
+  {
+   "i": 1129,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1140,
+   "src": "e61e2787437e",
+   "t": "This tournament is run by the {{student|cap}}\nCouncil"
+  },
+  {
+   "i": 1143,
+   "src": "5fc3e81c9bc3",
+   "t": "and is for students only."
+  },
+  {
+   "i": 1151,
+   "src": "e3d858e97814",
+   "t": "We teachers will cheer you on happily"
+  },
+  {
+   "i": 1154,
+   "src": "628d6f356e51",
+   "t": "from a corner of the gym."
+  },
+  {
+   "i": 1162,
+   "src": "b7eb2e7c1480",
+   "t": "Everyone, do your best to cheer for your\nclub"
+  },
+  {
+   "i": 1165,
+   "src": "cc980d1bba89",
+   "t": "and help with the organization."
+  },
+  {
+   "i": 1180,
+   "src": "98487a96ab5b",
+   "t": "And let's also cheer for {{ryusei}}-kun, and"
+  },
+  {
+   "i": 1184,
+   "src": "401e365cb03f",
+   "t": "-kun, our class representatives!"
+  },
+  {
+   "i": 1200,
+   "src": "fea98c8483c9",
+   "t": "Okay!"
+  },
+  {
+   "i": 1211,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1222,
+   "src": "072718f82bdb",
+   "t": "Now, next--"
+  }
+ ]
+}

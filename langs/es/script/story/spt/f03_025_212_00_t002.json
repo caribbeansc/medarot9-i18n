@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f03_025_212_00_t002.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "13adae57c830",
+   "t": "No veo nada."
+  },
+  {
+   "i": 1054,
+   "src": "093008232fad",
+   "t": "No veo nada."
+  },
+  {
+   "i": 1063,
+   "src": "a1227c54640f",
+   "t": "¿Está oscuro...?"
+  },
+  {
+   "i": 1071,
+   "src": "8d7eb2e24fc5",
+   "t": "¿Puedes revisar por ahí? "
+  },
+  {
+   "i": 1073,
+   "src": "7d9d809ecbf1",
+   "t": "."
+  },
+  {
+   "i": 1076,
+   "src": "6a52e9840f82",
+   "t": "Creo que habrá un interruptor."
+  },
+  {
+   "i": 1100,
+   "src": "6e4764cb7fd9",
+   "t": "Entendido."
+  },
+  {
+   "i": 1106,
+   "src": "93c0c51d7add",
+   "t": "Comprendido."
+  }
+ ]
+}

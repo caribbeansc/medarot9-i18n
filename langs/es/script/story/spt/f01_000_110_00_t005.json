@@ -1,0 +1,105 @@
+{
+ "file": "story/spt/f01_000_110_00_t005.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1042,
+   "src": "4e82a5793379",
+   "t": "Te entregaré el {{student_id}}."
+  },
+  {
+   "i": 1045,
+   "src": "7bdb48701b85",
+   "t": "¡Llama a tu {{medabot}}!"
+  },
+  {
+   "i": 1060,
+   "src": "4edf4a22891d",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1072,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1078,
+   "src": "b5f07f9df1be",
+   "t": "¡El lema de la escuela es"
+  },
+  {
+   "i": 1081,
+   "src": "81257c05d2bb",
+   "t": "'{{medabot}} y {{medafighter}} son uno'!"
+  },
+  {
+   "i": 1086,
+   "src": "746676d73b95",
+   "t": "Un {{medafighter}} y su {{medabot}} deben"
+  },
+  {
+   "i": 1089,
+   "src": "2d917cdfd23b",
+   "t": "actuar juntos en lo posible--"
+  },
+  {
+   "i": 1094,
+   "src": "1b6351323fc4",
+   "t": "¡La relación es siempre de uno a uno!"
+  },
+  {
+   "i": 1097,
+   "src": "d5eadc567f68",
+   "t": "¡Tener varias {{medal|pl}} está prohibido!"
+  },
+  {
+   "i": 1102,
+   "src": "d4fdc67ffda2",
+   "t": "El carnet prueba tu lazo con el {{medabot}}."
+  },
+  {
+   "i": 1105,
+   "src": "d2a1a647b579",
+   "t": "¡Ambos deben llevarlo!"
+  },
+  {
+   "i": 1117,
+   "src": "694ab4b10cbb",
+   "t": "¡El carnet se entrega en persona!"
+  },
+  {
+   "i": 1120,
+   "src": "cdc56802e15b",
+   "t": "Ahora, ¡llama a tu Medabot!"
+  },
+  {
+   "i": 1128,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1133,
+   "src": "681fcb2c5347",
+   "t": "{{mr_akebono}}"
+  },
+  {
+   "i": 1139,
+   "src": "234aaf12e9d2",
+   "t": "¿Qué pasa? ¿Por qué dudas tanto?"
+  },
+  {
+   "i": 1144,
+   "src": "1c8baa40bc56",
+   "t": "¡Llama a tu {{medabot}}!"
+  },
+  {
+   "i": 1154,
+   "src": "e33f69768466",
+   "t": "B-bueno, la cosa es..."
+  }
+ ]
+}

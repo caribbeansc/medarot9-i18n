@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_m_1a_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c5839dad975a",
+   "t": "{{g_o_death}}"
+  },
+  {
+   "i": 1035,
+   "src": "eae4af808584",
+   "t": "Hola."
+  }
+ ]
+}

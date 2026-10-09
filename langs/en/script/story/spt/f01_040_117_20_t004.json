@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f01_040_117_20_t004.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1038,
+   "src": "e4054ad0716f",
+   "t": "Weak."
+  },
+  {
+   "i": 1041,
+   "src": "a690a4e98af6",
+   "t": "He's a total beginner."
+  },
+  {
+   "i": 1049,
+   "src": "2c47bceda38e",
+   "t": "Start by reading the {{robattle}} dictionary"
+  },
+  {
+   "i": 1052,
+   "src": "b6e31aef8c9a",
+   "t": "You should go study the basics again."
+  },
+  {
+   "i": 1065,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1077,
+   "src": "7573d549b2ee",
+   "t": "~~~~~!"
+  },
+  {
+   "i": 1104,
+   "src": "fed537c5ae87",
+   "t": "Huh?"
+  },
+  {
+   "i": 1110,
+   "src": "b6c887e5e3d8",
+   "t": "Hm?"
+  },
+  {
+   "i": 1132,
+   "src": "6363f7b619a3",
+   "t": "Huh?"
+  },
+  {
+   "i": 1138,
+   "src": "ccddf39603f6",
+   "t": "Hm?"
+  }
+ ]
+}

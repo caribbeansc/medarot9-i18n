@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_103.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bff7eee389fb",
+   "t": "<c:00ff00>Técnica:<c>{{desperate}}\nDurante un tiempo\naumenta mucho la\n{{power}} de tus {{part|pl}} de\nataque.\nPero recibes la mitad del\n{{damage}} que infliges."
+  }
+ ]
+}

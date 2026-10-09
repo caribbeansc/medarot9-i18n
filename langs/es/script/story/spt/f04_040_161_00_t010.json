@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f04_040_161_00_t010.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1037,
+   "src": "9b7b440a9342",
+   "t": "Un genio... ¿habrá alguno cerca?"
+  },
+  {
+   "i": 1040,
+   "src": "384721cb011d",
+   "t": "No, mejor en nuestra escuela."
+  },
+  {
+   "i": 1048,
+   "src": "d21a5b629f0e",
+   "t": "Con tantos élites reunidos aquí,"
+  },
+  {
+   "i": 1051,
+   "src": "517bafc722cb",
+   "t": "debería haber al menos uno, ¿no?"
+  },
+  {
+   "i": 1059,
+   "src": "6290ba6c66d9",
+   "t": "La presidenta del Consejo... imposible."
+  },
+  {
+   "i": 1062,
+   "src": "28002e218922",
+   "t": "El Club Medabot... tampoco sirvió."
+  },
+  {
+   "i": 1070,
+   "src": "fa722f48dd78",
+   "t": "Entonces, mmm..."
+  }
+ ]
+}

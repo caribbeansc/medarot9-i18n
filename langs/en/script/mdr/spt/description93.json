@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description93.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a5e9294aa892",
+   "t": "{{medal}} Change"
+  },
+  {
+   "i": 11,
+   "src": "a6afb35b52b6",
+   "t": "A phenomenon where a <c:ffff00>{{medal}}<c> transforms into a\n{{medal}} of a different type.\nIt happens when you set 3 <c:ffff00>{{medalia}}<c> of the same\ncolor in the <c:ffff00>{{medalia}} slots<c>.\n\nBesides the emblem on its surface, the <c:ffff00>Robattle<c>\n<c:ffff00>style<c> and <c:ffff00>{{medaforce}}<c> also change.\n\nVery rarely, some {{medal|pl}} even change <c:ffff00>{{gender}}<c>."
+  }
+ ]
+}

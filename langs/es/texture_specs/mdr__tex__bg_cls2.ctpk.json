@@ -1,0 +1,586 @@
+{
+ "rel": "mdr/tex/bg_cls2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "anton",
+  "pad": 0,
+  "snap": true,
+  "cap": 16,
+  "align": "center",
+  "fill": {
+   "stops": [
+    [
+     0,
+     "#F5F5F5"
+    ],
+    [
+     0.25,
+     "#F5F5F5"
+    ],
+    [
+     0.4,
+     "#E6E6E6"
+    ],
+    [
+     0.55,
+     "#CFCFCF"
+    ],
+    [
+     0.68,
+     "#C0C0C0"
+    ],
+    [
+     0.8,
+     "#D2D2D2"
+    ],
+    [
+     1.0,
+     "#F3F3F3"
+    ]
+   ]
+  },
+  "strokes": [
+   {
+    "color": "#5178D0",
+    "w": 1
+   },
+   {
+    "color": "#154BC3",
+    "w": 1.3
+   },
+   {
+    "color": "#154BC359",
+    "w": 0.7
+   }
+  ]
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    128,
+    168,
+    32
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    168,
+    128,
+    216,
+    32
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    160,
+    192,
+    32
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    192,
+    160,
+    104,
+    32
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    296,
+    160,
+    176,
+    32
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    192,
+    216,
+    24
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    216,
+    192,
+    72,
+    24
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    288,
+    192,
+    40,
+    24
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    328,
+    192,
+    34,
+    24
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    362,
+    192,
+    38,
+    24
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    400,
+    192,
+    88,
+    24
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    472,
+    128,
+    40,
+    8
+   ],
+   "erase": "solid:#FF680000",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    128,
+    160,
+    32
+   ],
+   "text": "Torneo Oficial",
+   "baseline": 155,
+   "tracking": 3.2
+  },
+  {
+   "box": [
+    172,
+    128,
+    208,
+    32
+   ],
+   "text": "Prueba del Gran Premio",
+   "baseline": 155,
+   "tracking": 1.0
+  },
+  {
+   "box": [
+    4,
+    160,
+    184,
+    32
+   ],
+   "text": "Gran Premio de robobatalla",
+   "baseline": 187
+  },
+  {
+   "box": [
+    196,
+    160,
+    96,
+    32
+   ],
+   "text": "Torneo Normal",
+   "baseline": 187
+  },
+  {
+   "box": [
+    300,
+    160,
+    168,
+    32
+   ],
+   "text": "Torneo de Campeones",
+   "baseline": 187
+  },
+  {
+   "box": [
+    4,
+    192,
+    208,
+    24
+   ],
+   "text": "Robobatalla Noche de Viernes",
+   "baseline": 212
+  },
+  {
+   "font": "anton",
+   "cap": 9.5,
+   "italic_skew": 0.2,
+   "baseline": 208,
+   "align": "right",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FF9544"
+     ],
+     [
+      0.25,
+      "#FF8500"
+     ],
+     [
+      0.55,
+      "#FF4500"
+     ],
+     [
+      0.8,
+      "#FF6E00"
+     ],
+     [
+      1.0,
+      "#FF9544"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.6
+    },
+    {
+     "color": "#FFE5EB",
+     "w": 0.5
+    },
+    {
+     "color": "#FF003C5C",
+     "w": 1.4
+    }
+   ],
+   "box": [
+    216,
+    192,
+    24,
+    24
+   ],
+   "text": "A",
+   "pad": [
+    0,
+    0,
+    3,
+    0
+   ]
+  },
+  {
+   "font": "anton",
+   "cap": 9.5,
+   "italic_skew": 0.2,
+   "baseline": 208,
+   "align": "left",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FF9544"
+     ],
+     [
+      0.25,
+      "#FF8500"
+     ],
+     [
+      0.55,
+      "#FF4500"
+     ],
+     [
+      0.8,
+      "#FF6E00"
+     ],
+     [
+      1.0,
+      "#FF9544"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.6
+    },
+    {
+     "color": "#FFE5EB",
+     "w": 0.5
+    },
+    {
+     "color": "#FF003C5C",
+     "w": 1.4
+    }
+   ],
+   "tracking": 0.4,
+   "box": [
+    240,
+    192,
+    48,
+    24
+   ],
+   "text": "BLOQUE",
+   "pad": [
+    2,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "font": "anton",
+   "cap": 9.5,
+   "italic_skew": 0.2,
+   "baseline": 208,
+   "align": "right",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FF9544"
+     ],
+     [
+      0.25,
+      "#FF8500"
+     ],
+     [
+      0.55,
+      "#FF4500"
+     ],
+     [
+      0.8,
+      "#FF6E00"
+     ],
+     [
+      1.0,
+      "#FF9544"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.6
+    },
+    {
+     "color": "#FFE5EB",
+     "w": 0.5
+    },
+    {
+     "color": "#FF003C5C",
+     "w": 1.4
+    }
+   ],
+   "box": [
+    288,
+    192,
+    24,
+    24
+   ],
+   "text": "B",
+   "pad": [
+    0,
+    0,
+    3,
+    0
+   ]
+  },
+  {
+   "font": "anton",
+   "cap": 9.5,
+   "italic_skew": 0.2,
+   "baseline": 208,
+   "align": "right",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FF9544"
+     ],
+     [
+      0.25,
+      "#FF8500"
+     ],
+     [
+      0.55,
+      "#FF4500"
+     ],
+     [
+      0.8,
+      "#FF6E00"
+     ],
+     [
+      1.0,
+      "#FF9544"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.6
+    },
+    {
+     "color": "#FFE5EB",
+     "w": 0.5
+    },
+    {
+     "color": "#FF003C5C",
+     "w": 1.4
+    }
+   ],
+   "box": [
+    328,
+    192,
+    24,
+    24
+   ],
+   "text": "C",
+   "pad": [
+    0,
+    0,
+    3,
+    0
+   ]
+  },
+  {
+   "font": "anton",
+   "cap": 9.5,
+   "italic_skew": 0.2,
+   "baseline": 208,
+   "align": "right",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FF9544"
+     ],
+     [
+      0.25,
+      "#FF8500"
+     ],
+     [
+      0.55,
+      "#FF4500"
+     ],
+     [
+      0.8,
+      "#FF6E00"
+     ],
+     [
+      1.0,
+      "#FF9544"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.6
+    },
+    {
+     "color": "#FFE5EB",
+     "w": 0.5
+    },
+    {
+     "color": "#FF003C5C",
+     "w": 1.4
+    }
+   ],
+   "box": [
+    362,
+    192,
+    22,
+    24
+   ],
+   "text": "D",
+   "pad": [
+    0,
+    0,
+    3,
+    0
+   ]
+  },
+  {
+   "font": "anton",
+   "cap": 9.5,
+   "italic_skew": 0.2,
+   "baseline": 208,
+   "align": "center",
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FF9544"
+     ],
+     [
+      0.25,
+      "#FF8500"
+     ],
+     [
+      0.55,
+      "#FF4500"
+     ],
+     [
+      0.8,
+      "#FF6E00"
+     ],
+     [
+      1.0,
+      "#FF9544"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#FFFFFF",
+     "w": 1.6
+    },
+    {
+     "color": "#FFE5EB",
+     "w": 0.5
+    },
+    {
+     "color": "#FF003C5C",
+     "w": 1.4
+    }
+   ],
+   "tracking": 0.4,
+   "box": [
+    400,
+    192,
+    88,
+    24
+   ],
+   "text": "BLOQUE FINAL"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_meda_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5d1f8cd82138",
+   "t": "{{pingen}}"
+  },
+  {
+   "i": 1038,
+   "src": "ae23c364b89c",
+   "t": "I don't want summer to end. It's so\nlonely."
+  },
+  {
+   "i": 1041,
+   "src": "fcb7ce8fd6ce",
+   "t": "I won't be able to swim in the sea with\nmy master."
+  }
+ ]
+}

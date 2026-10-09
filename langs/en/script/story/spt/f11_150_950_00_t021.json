@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f11_150_950_00_t021.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1049,
+   "src": "60d74ad6249d",
+   "t": "Kyaaa!!"
+  },
+  {
+   "i": 1056,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1065,
+   "src": "9a13111729ab",
+   "t": "W-what is that?"
+  },
+  {
+   "i": 1073,
+   "src": "56ea2383f08d",
+   "t": "Th-"
+  },
+  {
+   "i": 1081,
+   "src": "91e75c52c92b",
+   "t": "It's that thing from the mine!"
+  },
+  {
+   "i": 1093,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1102,
+   "src": "33add717c374",
+   "t": "It must have climbed up\nto the surface!"
+  },
+  {
+   "i": 1116,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1125,
+   "src": "01da6d90da5f",
+   "t": "W-what a size...!"
+  }
+ ]
+}

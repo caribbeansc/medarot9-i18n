@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description57.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9e52b6c3e2c8",
+   "t": "{{charge_type|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "93ede5b7de4e",
+   "t": "Ajuste del tiempo que dura cada <c:ffff00>carga<c>. Se elige\nentre 3 tipos:\n  - {{short|cap}} (poco tiempo): <c:ffff00>{{charge_gauge}}<c> +10%\n  - {{normal|cap}} (tiempo medio): {{charge_gauge}} +20%\n  - {{long|cap}} (mucho tiempo): {{charge_gauge}} +50%\n\nPor unidad de tiempo, la {{charge_gauge}} sube más en\neste orden: {{long|cap}} > {{normal|cap}} > {{short|cap}}.\n(Cuanto más {{long}}, más eficiente es la carga)"
+  }
+ ]
+}

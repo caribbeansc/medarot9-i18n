@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f09_060_230_00_t051.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e30cf7dd26ab",
+   "t": "{{rubberobo_master}}"
+  },
+  {
+   "i": 1038,
+   "src": "fe80ceb6452a",
+   "t": "¿Es aquí...?"
+  },
+  {
+   "i": 1045,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1051,
+   "src": "8818283beb4c",
+   "t": "Así es, {{robo}}."
+  }
+ ]
+}

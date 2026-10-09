@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f03_020_211_00_t002.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "8667436fdf50",
+   "t": "It won't open."
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "86c4a7882a91",
+   "t": "Yeah, I checked that last time too."
+  },
+  {
+   "i": 1046,
+   "src": "189273b7a6d0",
+   "t": "But I think we can manage."
+  },
+  {
+   "i": 1057,
+   "src": "2249e7cffd13",
+   "t": "Manage...?"
+  },
+  {
+   "i": 1062,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1068,
+   "src": "97b5ba570e85",
+   "t": "From what I can see, this door has an\nautomatic lock."
+  },
+  {
+   "i": 1071,
+   "src": "4cbf4b28136c",
+   "t": "There should be a switch on the inside."
+  },
+  {
+   "i": 1081,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1090,
+   "src": "c4f55161f531",
+   "t": "I don't get it."
+  },
+  {
+   "i": 1093,
+   "src": "e365cfd85910",
+   "t": "The question is how to get to the inside,\nright?"
+  },
+  {
+   "i": 1100,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1109,
+   "src": "02a33ba8c5c2",
+   "t": "The air here isn't stale, for being\nunderground."
+  },
+  {
+   "i": 1112,
+   "src": "65e760fad60b",
+   "t": "There has to be another way through\nbesides this door..."
+  },
+  {
+   "i": 1120,
+   "src": "757efc4d0da6",
+   "t": "So we look for it!"
+  }
+ ]
+}

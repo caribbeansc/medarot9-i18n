@@ -1,0 +1,155 @@
+{
+ "file": "story/spt/f08_060_400_00_t015.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1042,
+   "src": "de1a88cb2249",
+   "t": "We measured the reaction at several\npoints."
+  },
+  {
+   "i": 1045,
+   "src": "c064ee7ac21f",
+   "t": "We calculated the distance from the\ndifferences."
+  },
+  {
+   "i": 1053,
+   "src": "d947745394fc",
+   "t": "The {{medalia}} reaction is directly below or\nabove here."
+  },
+  {
+   "i": 1056,
+   "src": "1b7cae083d7e",
+   "t": "The distance is about 180 meters."
+  },
+  {
+   "i": 1063,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1069,
+   "src": "824fbc69cb07",
+   "t": "O-one hundred eighty meters? Are you\nserious..."
+  },
+  {
+   "i": 1080,
+   "src": "d6e0ab60f79f",
+   "t": "A mere shovel won't get us anywhere."
+  },
+  {
+   "i": 1088,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1094,
+   "src": "09f5caebf189",
+   "t": "...Hey."
+  },
+  {
+   "i": 1102,
+   "src": "e29bb422e657",
+   "t": "Weren't they saying the mine was\nexhausted?"
+  },
+  {
+   "i": 1105,
+   "src": "66e4e9540a05",
+   "t": "How can this much be left?"
+  },
+  {
+   "i": 1121,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1129,
+   "src": "a9c0f6312486",
+   "t": "Hey, {{ryoma}}-kun."
+  },
+  {
+   "i": 1140,
+   "src": "20f4f9377a07",
+   "t": "This is where the meteorite landed,\nright--"
+  },
+  {
+   "i": 1143,
+   "src": "fb7db9474949",
+   "t": "I mean, it's a crater, isn't it?"
+  },
+  {
+   "i": 1150,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1156,
+   "src": "45ecaaff5853",
+   "t": "Huh? ...Ah, yeah."
+  },
+  {
+   "i": 1159,
+   "src": "8d724ff961b7",
+   "t": "It's ancient, so it's not very clear, but..."
+  },
+  {
+   "i": 1167,
+   "src": "45c24664c349",
+   "t": "Judging from the surrounding {{terrain}},"
+  },
+  {
+   "i": 1170,
+   "src": "b06e7c956bbb",
+   "t": "I think this is almost the dead center of\nthe crater."
+  },
+  {
+   "i": 1184,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1190,
+   "src": "f3fff40e550a",
+   "t": "I see, I see."
+  },
+  {
+   "i": 1193,
+   "src": "7348ed10f2c7",
+   "t": "So..."
+  },
+  {
+   "i": 1214,
+   "src": "17a4846653c1",
+   "t": "Maybe this is..."
+  },
+  {
+   "i": 1225,
+   "src": "e98318abadd7",
+   "t": "{{medalium}}..."
+  },
+  {
+   "i": 1236,
+   "src": "17c8b7248b26",
+   "t": "Perhaps."
+  },
+  {
+   "i": 1247,
+   "src": "051d2f5ba15f",
+   "t": "{{medalium_character}}"
+  },
+  {
+   "i": 1252,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1261,
+   "src": "922a52813c7b",
+   "t": "What's that?"
+  }
+ ]
+}

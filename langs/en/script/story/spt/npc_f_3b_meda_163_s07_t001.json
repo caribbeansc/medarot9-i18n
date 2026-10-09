@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3b_meda_163_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "48d28919cf40",
+   "t": "LovelyDog"
+  },
+  {
+   "i": 1038,
+   "src": "7a0c573064df",
+   "t": "I still can't decide on {{part|pl}} for the\nfestival. It's a pain."
+  },
+  {
+   "i": 1041,
+   "src": "51cd60bcccd1",
+   "t": "Because everything I equip looks good\non me."
+  }
+ ]
+}

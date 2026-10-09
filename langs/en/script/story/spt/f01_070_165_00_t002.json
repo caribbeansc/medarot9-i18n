@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f01_070_165_00_t002.spt",
+ "lines": [
+  {
+   "i": 898,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 909,
+   "src": "ddd21fa69c16",
+   "t": "What caused this commotion?"
+  },
+  {
+   "i": 916,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 922,
+   "src": "23df2346d290",
+   "t": "This guy keeps getting in the way of our\ntraining."
+  },
+  {
+   "i": 929,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 935,
+   "src": "8181e2a17283",
+   "t": "Who is he?"
+  },
+  {
+   "i": 945,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 951,
+   "src": "2e8273f16f14",
+   "t": "He's the one who joined my {{class}} today."
+  },
+  {
+   "i": 954,
+   "src": "bec9d5476353",
+   "t": "The famous--"
+  },
+  {
+   "i": 961,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 967,
+   "src": "cbdb49bf43e4",
+   "t": "Ah, the scholarship student."
+  },
+  {
+   "i": 970,
+   "src": "c872b0f740b3",
+   "t": "I've heard about him."
+  },
+  {
+   "i": 978,
+   "src": "491383d8bdb3",
+   "t": "Do you want to {{join_the_club}}?"
+  }
+ ]
+}

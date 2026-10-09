@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_19.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "68e272abed79",
+   "t": "<c:00ff00>Leg Trait:<c> {{high_stability}}\n{{head}} and both arm {{part|pl}}'\n{{success}} +5"
+  }
+ ]
+}

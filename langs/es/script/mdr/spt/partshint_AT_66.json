@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_66.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2c8b0f6d4a1c",
+   "t": "<c:00ff00>Técnica:<c>{{time_attack}}\nAtaque de {{fighting}} cuya\n{{power}} sube 1 cada vez\nque baja 1 el\ntemporizador\nde la {{robattle}}.\nCon {{effect}} de\n{{pierce}}."
+  }
+ ]
+}

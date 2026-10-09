@@ -1,0 +1,44 @@
+{
+ "rel": "mdr/tex/bt_title.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    4,
+    1,
+    222,
+    24
+   ],
+   "erase_box": [
+    0,
+    0,
+    230,
+    26
+   ],
+   "erase": "transparent",
+   "text": "PRESIONA START",
+   "font": "sf",
+   "cap": 16,
+   "pad": 0,
+   "fill": {
+    "top": "#A0FFD4",
+    "bottom": "#88F6C0"
+   },
+   "strokes": [
+    {
+     "color": "#071627",
+     "w": 2
+    }
+   ],
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#030A11",
+    "opacity": 0.7
+   },
+   "italic_skew": 0.2,
+   "wght": 520,
+   "wdth": 140
+  }
+ ]
+}

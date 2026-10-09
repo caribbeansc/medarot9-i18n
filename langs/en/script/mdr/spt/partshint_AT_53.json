@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_53.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bcd9f20af9d7",
+   "t": "<c:00ff00>Action:<c> {{canceller}}\nA melee attack that\napplies the {{canceller}}\n{{status}}.\n<c:00ffff>{{status|cap}}:<c> {{canceller}}\nOne of its {{part|pl}} becomes\nunusable. Also, if {{hit}}\nwhile prepping, its action\nis interrupted."
+  }
+ ]
+}

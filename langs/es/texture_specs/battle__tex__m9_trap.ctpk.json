@@ -1,0 +1,84 @@
+{
+ "rel": "battle/tex/m9_trap.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    152,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    1,
+    147,
+    30
+   ],
+   "erase": "none",
+   "text": "TRAMPA  ACTIVADA!",
+   "font": "sf-compressed",
+   "italic_skew": 0.2,
+   "cap": 17.5,
+   "tracking": 0.2,
+   "pad": 0,
+   "min_scale_x": 0.7,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFEEFF"
+     ],
+     [
+      0.08,
+      "#EECCFF"
+     ],
+     [
+      0.42,
+      "#FFEEFF"
+     ],
+     [
+      0.5,
+      "#DDAAFF"
+     ],
+     [
+      0.6,
+      "#BB66FF"
+     ],
+     [
+      0.78,
+      "#CC77FF"
+     ],
+     [
+      1,
+      "#EEBBFF"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#8822AA",
+     "w": 1.3
+    },
+    {
+     "color": "#660088",
+     "w": 1.2
+    },
+    {
+     "color": "#FFFFFF",
+     "w": 1.0
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#FFFFFF",
+    "opacity": 1
+   }
+  }
+ ]
+}

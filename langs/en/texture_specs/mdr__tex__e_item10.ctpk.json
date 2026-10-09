@@ -1,0 +1,30 @@
+{
+ "rel": "mdr/tex/e_item10.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    73,
+    4,
+    40,
+    8
+   ],
+   "erase_box": [
+    71,
+    4,
+    23,
+    8
+   ],
+   "erase": "hfill",
+   "text": "STUDENT ID",
+   "font": "sf-cond-heavy",
+   "cap": 6,
+   "tracking": 0.3,
+   "fill": "#E2E8FF",
+   "stroke": null,
+   "pad": 0,
+   "align": "left",
+   "valign": "middle"
+  }
+ ]
+}

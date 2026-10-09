@@ -1,0 +1,61 @@
+{
+ "rel": "mdr/tex/m9_bt_t_taisen2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "font": "avenir-cond",
+  "cap": 7,
+  "fill": {
+   "top": "#FFFFFF",
+   "bottom": "#CFE8F1"
+  },
+  "pad": 0,
+  "crisp": 0.4
+ },
+ "items": [
+  {
+   "box": [
+    29,
+    59,
+    84,
+    14
+   ],
+   "erase_box": [
+    31,
+    61,
+    78,
+    11
+   ],
+   "text": "Downloaded rules",
+   "stroke": "#0B3D6B",
+   "stroke_w": 1.0,
+   "erase": "hfill",
+   "font": "sf-cond",
+   "fill": "#FFFFFF",
+   "crisp": 0.6,
+   "cap": 8
+  },
+  {
+   "box": [
+    29,
+    77,
+    84,
+    14
+   ],
+   "erase_box": [
+    36,
+    81,
+    72,
+    10
+   ],
+   "text": "Fixed rules",
+   "stroke": "#0B4A3A",
+   "stroke_w": 1.0,
+   "erase": "hfill",
+   "font": "sf-cond",
+   "fill": "#FFFFFF",
+   "crisp": 0.6,
+   "cap": 8
+  }
+ ]
+}

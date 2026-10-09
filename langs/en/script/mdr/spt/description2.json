@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "acc6a492612d",
+   "t": "{{medawatch}}"
+  },
+  {
+   "i": 11,
+   "src": "fb32440f8791",
+   "t": "A smartphone {{app}} officially developed and\ndistributed by the {{medabot}} company for managing\n<c:ffff00>{{medabot|pl}}<c>.\n\nIt integrates the apps with the functions {{medabot|pl}}\nneed, such as setup and command orders during a\n<c:ffff00>{{robattle}}<c>."
+  }
+ ]
+}

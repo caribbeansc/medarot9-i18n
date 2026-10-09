@@ -1,0 +1,120 @@
+{
+ "file": "story/spt/model_mot_test_mc.spt",
+ "lines": [
+  {
+   "i": 1114,
+   "src": "e05364da33fd",
+   "t": "{{ally_battle_term|cap}}"
+  },
+  {
+   "i": 1127,
+   "src": "f72d4c0035a6",
+   "t": "{{enemy|cap}}"
+  },
+  {
+   "i": 1140,
+   "src": "ab0754caa2fa",
+   "t": "Fixed Point"
+  },
+  {
+   "i": 1805,
+   "src": "bf9e5305166a",
+   "t": "Standby"
+  },
+  {
+   "i": 1808,
+   "src": "f85aafacdae5",
+   "t": "{{medachange}}"
+  },
+  {
+   "i": 1811,
+   "src": "5af0deee358f",
+   "t": "Charge"
+  },
+  {
+   "i": 1814,
+   "src": "7b343e776c90",
+   "t": "Stance"
+  },
+  {
+   "i": 1817,
+   "src": "3bc9379e22bf",
+   "t": "{{guard}} {{left_item}}"
+  },
+  {
+   "i": 1820,
+   "src": "3a062b385747",
+   "t": "{{guard}} Right"
+  },
+  {
+   "i": 1823,
+   "src": "4a4d834da67d",
+   "t": "{{evade}}"
+  },
+  {
+   "i": 1826,
+   "src": "f2b0dbb74878",
+   "t": "{{hit|cap}} {{head_part_slot}}"
+  },
+  {
+   "i": 1829,
+   "src": "b51dbcea8d01",
+   "t": "{{hit|cap}} {{left_item}}"
+  },
+  {
+   "i": 1832,
+   "src": "a7def6c1bdd6",
+   "t": "{{hit|cap}} Right"
+  },
+  {
+   "i": 1835,
+   "src": "0b12b568cc0d",
+   "t": "{{hit|cap}} Legs"
+  },
+  {
+   "i": 1838,
+   "src": "b9237866913a",
+   "t": "{{hit|cap}} Tornado"
+  },
+  {
+   "i": 1841,
+   "src": "278afe977cf9",
+   "t": "CF Prep"
+  },
+  {
+   "i": 1844,
+   "src": "5f7049aef151",
+   "t": "{{victory}}"
+  },
+  {
+   "i": 1847,
+   "src": "98ae605af0f2",
+   "t": "{{thunder}}"
+  },
+  {
+   "i": 1850,
+   "src": "db1bf0019f82",
+   "t": "Dash"
+  },
+  {
+   "i": 1853,
+   "src": "562d745bd83a",
+   "t": "{{tornado}}"
+  },
+  {
+   "i": 1856,
+   "src": "5fe96ecfc345",
+   "t": "Drive A"
+  },
+  {
+   "i": 1859,
+   "src": "5b40fd8e809e",
+   "t": "Drive B"
+  },
+  {
+   "i": 1862,
+   "src": "dbb83edfaab8",
+   "t": "Drive C"
+  }
+ ]
+}

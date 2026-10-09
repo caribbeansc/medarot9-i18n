@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_rescue_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1047,
+   "src": "e6d6f879f5a2",
+   "t": "Sorry."
+  },
+  {
+   "i": 1050,
+   "src": "4e93c3209269",
+   "t": "I can't spare a moment right now."
+  }
+ ]
+}

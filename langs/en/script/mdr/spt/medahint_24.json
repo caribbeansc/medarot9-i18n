@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_24.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3da544fdeaa9",
+   "t": "Firefly-{{type}} {{medabot}}\nthat emits a\nfantastic light from\nits legs.\n \nSpecialized in {{anti_sea}}\nattacks, it is very strong\nagainst {{submarine}}\n{{medabot|pl}}."
+  }
+ ]
+}

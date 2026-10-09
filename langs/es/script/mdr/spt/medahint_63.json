@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_63.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "d5a76aec46d3",
+   "t": "{{medabot}} {{type}} araña,\ncon varios sensores\ninquietantes en la {{head_part_slot}}.\n \nComo si tejiera su tela,\ntiende trampas con todo\nel cuerpo y atrapa a su\n{{target}} con astucia."
+  }
+ ]
+}

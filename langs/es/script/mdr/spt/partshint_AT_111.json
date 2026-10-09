@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_111.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6ccdbfcccd9b",
+   "t": "<c:00ff00>Técnica:<c>Limpiar {{trap|cap}}\nElimina la {{trap}} que el\n{{opponent}} colocó en el propio\ncampo."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "acc6a492612d",
+   "t": "{{medawatch}}"
+  },
+  {
+   "i": 11,
+   "src": "fb32440f8791",
+   "t": "{{app|cap}} para smartphone que la {{medabot_company}}\ndesarrolla y distribuye oficialmente para gestionar a\nlos <c:ffff00>{{medabot|pl}}<c>.\n\nUnifica las apps que ofrecen las funciones que\nnecesitan los {{medabot|pl}}, como la {{settings}} y las\nórdenes de comando en la <c:ffff00>{{robattle}}<c>."
+  }
+ ]
+}

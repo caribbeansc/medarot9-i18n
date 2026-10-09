@@ -1,0 +1,219 @@
+{
+ "rel": "story/mdl/m009.bcmdl",
+ "tex": "m009_poster",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    87,
+    111,
+    83,
+    16
+   ],
+   "erase_box": [
+    86,
+    110,
+    85,
+    17
+   ],
+   "erase": "glyph",
+   "thr": 40,
+   "grow": 1,
+   "text": "EXITO EN CINES!!",
+   "font": "sf-cond-heavy",
+   "cap": 10,
+   "pad": 0,
+   "fill": "#E2E2E2",
+   "strokes": [
+    {
+     "color": "#1A1A1A",
+     "w": 1.6
+    }
+   ]
+  },
+  {
+   "box": [
+    174,
+    3,
+    80,
+    19
+   ],
+   "erase_box": [
+    172,
+    2,
+    84,
+    22
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 40,
+   "grow": 1,
+   "text": "BENTO SURTIDO",
+   "font": "anton",
+   "cap": 13,
+   "pad": 0,
+   "fill": "#E0DDDD",
+   "strokes": [
+    {
+     "color": "#A8504A",
+     "w": 1.5
+    }
+   ]
+  },
+  {
+   "box": [
+    176,
+    97,
+    66,
+    11
+   ],
+   "erase_box": [
+    175,
+    96,
+    68,
+    12
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 40,
+   "grow": 1,
+   "text": "MUY ABUNDANTE",
+   "font": "sf-cond",
+   "cap": 8,
+   "pad": 0,
+   "fill": "#EAD9CC",
+   "stroke": null
+  },
+  {
+   "box": [
+    242,
+    114,
+    11,
+    12
+   ],
+   "erase_box": [
+    241,
+    113,
+    13,
+    14
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 40,
+   "grow": 1,
+   "text": "Y",
+   "font": "sf-heavy",
+   "cap": 9,
+   "pad": 0,
+   "fill": "#DCCCCC",
+   "stroke": "#A05A40",
+   "stroke_w": 0.5
+  },
+  {
+   "box": [
+    89,
+    169,
+    40,
+    31
+   ],
+   "erase_box": [
+    88,
+    168,
+    36,
+    34
+   ],
+   "erase": "glyph",
+   "thr": 40,
+   "grow": 1,
+   "text": "Agua\ncercana\nal cuerpo",
+   "font": "sf-cond",
+   "cap": 7,
+   "pad": 0,
+   "fill": "#DDE6F2",
+   "stroke": null,
+   "align": "left",
+   "leading": 1.05
+  },
+  {
+   "box": [
+    177,
+    142,
+    70,
+    6
+   ],
+   "erase_box": [
+    176,
+    141,
+    30,
+    8
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 40,
+   "grow": 1,
+   "text": "DIRECTO DE ORIGEN",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "pad": 0,
+   "fill": "#767680",
+   "stroke": null,
+   "crisp": 1.0,
+   "align": "left"
+  },
+  {
+   "box": [
+    178,
+    153,
+    76,
+    15
+   ],
+   "erase_box": [
+    177,
+    152,
+    77,
+    16
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 50,
+   "grow": 1,
+   "text": "Onigiri",
+   "font": "sf",
+   "wght": 420,
+   "cap": 12,
+   "pad": 0,
+   "fill": "#22222A",
+   "stroke": null,
+   "align": "left",
+   "tracking": 3
+  },
+  {
+   "box": [
+    245,
+    243,
+    10,
+    8
+   ],
+   "erase_box": [
+    245,
+    243,
+    10,
+    8
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "thr": 30,
+   "grow": 1,
+   "text": "Y",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "scale_x": 1,
+   "pad": 0,
+   "fill": "#7A7A84",
+   "stroke": null,
+   "crisp": 1.0
+  }
+ ]
+}

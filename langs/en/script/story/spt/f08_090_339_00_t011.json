@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f08_090_339_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9fdb222b5c11",
+   "t": "Up ahead is..."
+  },
+  {
+   "i": 1035,
+   "src": "408ae233854e",
+   "t": "A cliff."
+  },
+  {
+   "i": 1054,
+   "src": "3c0149a6bdec",
+   "t": "There's a river way down below."
+  },
+  {
+   "i": 1057,
+   "src": "19a17ab18be2",
+   "t": "If you fall, you'll be smashed to pieces."
+  },
+  {
+   "i": 1065,
+   "src": "51432a482a59",
+   "t": "No good."
+  }
+ ]
+}

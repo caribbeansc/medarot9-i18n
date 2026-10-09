@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/free06_02_03_99_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "ebde58bca570",
+   "t": "¡{{mission|cap}} 'Recolección de {{medalia|pl}}:\n{{mountain_stream|cap}}' completada!"
+  },
+  {
+   "i": 1011,
+   "src": "913e0c661d21",
+   "t": "¡Los logros del {{exploration_club}}\naumentaron!"
+  }
+ ]
+}

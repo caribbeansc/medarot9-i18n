@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description125.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "680335f399e9",
+   "t": "Combo Attack"
+  },
+  {
+   "i": 11,
+   "src": "ce438b3f416e",
+   "t": "An attack that, together with allies, focuses a\n<c:ffff00>Crossfire<c> <c:ffff00>attack<c> and a <c:ffff00>trigger<c> attack on a single\n<c:ffff00>{{target}}<c> at the same time.\nThe target can only choose its <c:ffff00>{{response}}<c> once, and\nresponds to all the attacks with the same <c:ffff00>{{part}}<c>.\nIf <c:ffff00>evading<c> the combo attack fails, evasion will also\nfail against the following attacks of that combo. If\nthe responding {{part}} is <c:ffff00>destroyed<c>, the target will\n<c:ffff00>{{take_it}}<c> with its <c:ffff00>head<c> for all those attacks."
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f07_060_167_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1040,
+   "src": "a355806beda9",
+   "t": "Maybe we can work something out."
+  },
+  {
+   "i": 1051,
+   "src": "4edf4a22891d",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1056,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1062,
+   "src": "3b64cecc1771",
+   "t": "It's that {{medabot}}'s leg {{part}}."
+  },
+  {
+   "i": 1070,
+   "src": "5ae10874a6fd",
+   "t": "I once saw a stray Medabot"
+  },
+  {
+   "i": 1073,
+   "src": "9fce90f00550",
+   "t": "with the same type of part. It's a rare\npart,"
+  },
+  {
+   "i": 1081,
+   "src": "ac47d2fb7eda",
+   "t": "so it stuck in my memory. If I could get"
+  },
+  {
+   "i": 1084,
+   "src": "8a875197414a",
+   "t": "that one, maybe I can make it work."
+  },
+  {
+   "i": 1092,
+   "src": "9ba095ec81a6",
+   "t": "I wasn't sure, so I couldn't"
+  },
+  {
+   "i": 1095,
+   "src": "a308d652e7bb",
+   "t": "bring it up back there..."
+  },
+  {
+   "i": 1103,
+   "src": "89dfd944fffa",
+   "t": "Where did you see it?"
+  },
+  {
+   "i": 1108,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1114,
+   "src": "38f34dd1874c",
+   "t": "I think it was around the watermill..."
+  }
+ ]
+}

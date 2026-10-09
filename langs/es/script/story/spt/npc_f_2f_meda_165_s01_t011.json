@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_2f_meda_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f5489d59cc8e",
+   "t": "{{la_pucelle}}"
+  },
+  {
+   "i": 1038,
+   "src": "4eca8cc9f6c2",
+   "t": "Amo esta isla, hay muchos lugares."
+  },
+  {
+   "i": 1041,
+   "src": "56a9879af978",
+   "t": "Acantilados, grandes cascadas..."
+  },
+  {
+   "i": 1049,
+   "src": "d0b50405f8ca",
+   "t": "¡Hasta hay un barco naufragado!"
+  },
+  {
+   "i": 1052,
+   "src": "b0d58476403a",
+   "t": "Pero ese lugar lo guardo en secreto."
+  }
+ ]
+}

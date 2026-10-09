@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/free08_01_02_02_t014.spt",
+ "lines": [
+  {
+   "i": 1026,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1037,
+   "src": "65cbf7d2dacc",
+   "t": "Mejor no lo hagas..."
+  },
+  {
+   "i": 1040,
+   "src": "61e9cb78339d",
+   "t": "Me da mala espina esa {{medalia}}..."
+  },
+  {
+   "i": 1051,
+   "src": "75c9472c9749",
+   "t": "¿Mala... espina?"
+  },
+  {
+   "i": 1056,
+   "src": "140b1e4058e0",
+   "t": "{{sarara}}"
+  },
+  {
+   "i": 1065,
+   "src": "d86eb9525aa6",
+   "t": "Yo puedo oírla."
+  },
+  {
+   "i": 1068,
+   "src": "61d1f4257c5f",
+   "t": "La voz de su dueño..."
+  },
+  {
+   "i": 1076,
+   "src": "2aabb38e11d0",
+   "t": "Devuélvela..."
+  },
+  {
+   "i": 1079,
+   "src": "b567a5bbe885",
+   "t": "Deja esa {{medalia}} donde estaba..."
+  },
+  {
+   "i": 1086,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1092,
+   "src": "5fc6b122ee33",
+   "t": "Con solo devolverla no bastará."
+  },
+  {
+   "i": 1095,
+   "src": "071a35ca1c06",
+   "t": "Debemos purificarla..."
+  }
+ ]
+}

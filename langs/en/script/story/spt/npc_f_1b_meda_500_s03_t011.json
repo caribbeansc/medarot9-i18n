@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1b_meda_500_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "493406945551",
+   "t": "{{swimmermate}}"
+  },
+  {
+   "i": 1035,
+   "src": "d188abcd4604",
+   "t": "{{master}}, you worry too much! There's"
+  },
+  {
+   "i": 1038,
+   "src": "284bdc5567ea",
+   "t": "nothing to fear, I'll protect you for sure."
+  }
+ ]
+}

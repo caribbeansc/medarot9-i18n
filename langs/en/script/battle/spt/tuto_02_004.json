@@ -1,0 +1,15 @@
+{
+ "file": "battle/spt/tuto_02_004.spt",
+ "lines": [
+  {
+   "i": 1198,
+   "src": "a8a16440ff59",
+   "t": "Charge until the gauge hits 100%!   "
+  },
+  {
+   "i": 1207,
+   "src": "f7baca2811ff",
+   "t": "I told you to Charge until the\ngauge hit 100%!    "
+  }
+ ]
+}

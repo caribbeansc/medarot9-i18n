@@ -1,0 +1,65 @@
+{
+ "file": "battle/spt/battle_tuto2.spt",
+ "lines": [
+  {
+   "i": 1143,
+   "src": "03f8b3934122",
+   "t": "¡La {{melt}} inflige 10 de {{damage}}\nal {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1176,
+   "src": "1bb0b5b9c68d",
+   "t": "¡La Planta de Reparación recupera\nel {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1209,
+   "src": "6a34eb989750",
+   "t": "¡{{leg_trait|cap}} activado!"
+  },
+  {
+   "i": 1239,
+   "src": "c86a76021a03",
+   "t": " termina su {{guard_stance}}!"
+  },
+  {
+   "i": 1274,
+   "src": "f908f403053e",
+   "t": "¡El {{fire}} inflige 10 de {{damage}}\nal {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1308,
+   "src": "00dd8c1bfaab",
+   "t": "¡La {{continued_fix}} recupera\nel {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1498,
+   "src": "03f8b3934122",
+   "t": "¡La {{melt}} inflige 10 de {{damage}}\nal {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1762,
+   "src": "f908f403053e",
+   "t": "¡El {{fire}} inflige 10 de {{damage}}\nal {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1795,
+   "src": "00dd8c1bfaab",
+   "t": "¡La {{continued_fix}} recupera\nel {{armor}} de todas las {{part|pl}}!"
+  },
+  {
+   "i": 1828,
+   "src": "c86a76021a03",
+   "t": " termina su {{guard_stance}}!"
+  },
+  {
+   "i": 2653,
+   "src": "7a88cf80e09f",
+   "t": "Esperando la entrada del {{opponent}}"
+  },
+  {
+   "i": 2941,
+   "src": "7a88cf80e09f",
+   "t": "Esperando la entrada del {{opponent}}"
+  }
+ ]
+}

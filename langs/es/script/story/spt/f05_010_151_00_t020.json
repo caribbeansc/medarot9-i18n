@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/f05_010_151_00_t020.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "deccc03c2c7b",
+   "t": "Eh, qué raro."
+  },
+  {
+   "i": 1004,
+   "src": "aaf87f6e49b9",
+   "t": "Las {{part|pl}} no aparecen..."
+  }
+ ]
+}

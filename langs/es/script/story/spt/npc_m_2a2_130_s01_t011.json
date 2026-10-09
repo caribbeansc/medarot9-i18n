@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_2a2_130_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "49a78514fc0e",
+   "t": "{{kagetora}}"
+  },
+  {
+   "i": 1038,
+   "src": "9cb84c5f2af1",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1046,
+   "src": "65bee234505a",
+   "t": "¿Una {{visit}}?"
+  },
+  {
+   "i": 1054,
+   "src": "d50cf4694c6a",
+   "t": "Ya veo..."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f03_030_230_10_t002.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "7b228d8ba5c6",
+   "t": "Sin datos de ubicación... vaya."
+  },
+  {
+   "i": 1057,
+   "src": "3334c926dce5",
+   "t": "Aun así, qué {{cave}} tan enorme."
+  },
+  {
+   "i": 1060,
+   "src": "7c8f783339c9",
+   "t": "Esto seguro era una {{mine}}... ¿verdad?"
+  },
+  {
+   "i": 1065,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1071,
+   "src": "33d4f62b7710",
+   "t": "Probablemente."
+  },
+  {
+   "i": 1079,
+   "src": "bdc4e3ecd081",
+   "t": "Por su escala e instalaciones,"
+  },
+  {
+   "i": 1082,
+   "src": "d3198ad59187",
+   "t": "fue una {{mine}} bastante grande..."
+  }
+ ]
+}

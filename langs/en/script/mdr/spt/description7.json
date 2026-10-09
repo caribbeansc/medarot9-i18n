@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description7.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8046ea9bcde0",
+   "t": "{{slot|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "7201da75f9c8",
+   "t": "Refers to where <c:ffff00>{{part|pl}}<c> are equipped on the\nhumanoid form of the <c:ffff00>{{tinpet}}<c>.\n\n  <c:ffff00>{{head}}<c> (sometimes written H)\n  <c:ffff00>{{right_arm}}<c> (sometimes R)\n  <c:ffff00>{{left_arm}}<c> (sometimes L)\n  <c:ffff00>{{legs}}<c> (sometimes F)\n\nThere are 4 types, each with a different role."
+  }
+ ]
+}

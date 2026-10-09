@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/f04_010_117_00_t007.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "ce0abb48bdaf",
+   "t": "Perdón por hacerte esperar."
+  },
+  {
+   "i": 1041,
+   "src": "94ec34925d95",
+   "t": "¡Pasa adelante, {{saika}}-san!"
+  }
+ ]
+}

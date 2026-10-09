@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description14.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "2f91fee14b85",
+   "t": "{{original|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "f728daca616b",
+   "t": "A <c:ffff00>{{medabot}}<c> with all 4 <c:ffff00>slots<c> equipped with a full set\nof <c:ffff00>{{part|pl}}<c> of the same <c:ffff00>{{model_number}}<c>. It has the\nappearance and abilities it was designed with.\n\nCertain {{original|cap}} {{medabot|pl}} can perform <c:ffff00>{{medachange}}<c>."
+  }
+ ]
+}

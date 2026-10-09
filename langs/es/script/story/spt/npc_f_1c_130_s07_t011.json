@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_f_1c_130_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "ef13acadc69f",
+   "t": "{{masumi}}"
+  },
+  {
+   "i": 1038,
+   "src": "15c9c4c35d8c",
+   "t": "Los clubes descansan en el festival."
+  },
+  {
+   "i": 1041,
+   "src": "24f198bcf23f",
+   "t": "¡No estoy emocionada para nada!"
+  },
+  {
+   "i": 1049,
+   "src": "dcc2aaef4e76",
+   "t": "¡Qué lástima!"
+  }
+ ]
+}

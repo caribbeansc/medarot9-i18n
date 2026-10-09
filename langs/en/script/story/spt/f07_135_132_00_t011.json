@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f07_135_132_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f115b77c680c",
+   "t": "{{fuka}}"
+  },
+  {
+   "i": 1035,
+   "src": "cabcb2e15df2",
+   "t": "Hey! We're rehearsing!"
+  },
+  {
+   "i": 1038,
+   "src": "afea5b9ee546",
+   "t": "Please don't get up on the stage!"
+  },
+  {
+   "i": 1049,
+   "src": "0c9f770f446c",
+   "t": "Ah, sorry!"
+  }
+ ]
+}

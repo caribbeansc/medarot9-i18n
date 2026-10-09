@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_62.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "cf04f85d9256",
+   "t": "<c:00ff00>Leg Trait:<c> {{charge_fight}}\nWith {{charge_gauge}} at\n100%, melee attacks gain\n{{mobility}} and {{fighting}}\n{{stats}} +5."
+  }
+ ]
+}

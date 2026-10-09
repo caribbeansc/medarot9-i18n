@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_33.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ed41cd18f835",
+   "t": "<c:00ff00>{{mf}}:<c> {{protection}}\nNullifies {{gravity}}, blast and\n{{optical}} {{damage}} and\nnegative statuses for your\nwhole team.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "file": "battle/spt/battle.spt",
+ "lines": [
+  {
+   "i": 1497,
+   "src": "96f724b21d69",
+   "t": "{{melt}}: 10 {{damage}}\nto every {{part}}!"
+  },
+  {
+   "i": 1528,
+   "src": "d6990d92fd8d",
+   "t": "{{repair_plant}} restored\narmor on all {{part|pl}}!"
+  },
+  {
+   "i": 1559,
+   "src": "555a7be6b3a2",
+   "t": " {{guard}} Stance Ended!"
+  },
+  {
+   "i": 1649,
+   "src": "58bab22016fe",
+   "t": "{{stealth}}"
+  },
+  {
+   "i": 1659,
+   "src": "df44bd3f1484",
+   "t": "{{fire}}"
+  },
+  {
+   "i": 1669,
+   "src": "46b152aebfa0",
+   "t": "{{melt}}"
+  },
+  {
+   "i": 1679,
+   "src": "0f642e4644c6",
+   "t": "{{wave}}"
+  },
+  {
+   "i": 1689,
+   "src": "ba364708ea49",
+   "t": "{{hold}}"
+  },
+  {
+   "i": 1699,
+   "src": "98ae605af0f2",
+   "t": "{{thunder}}"
+  },
+  {
+   "i": 1709,
+   "src": "fa56263764d1",
+   "t": "{{freeze}}"
+  },
+  {
+   "i": 1719,
+   "src": "d5f44ec483f5",
+   "t": "Attack"
+  },
+  {
+   "i": 1824,
+   "src": "19d0a839eecd",
+   "t": "\nRecovered armor to all {{part|pl}}!"
+  },
+  {
+   "i": 1940,
+   "src": "96f724b21d69",
+   "t": "{{melt}} caused\n10 {{damage}} to all armor {{part|pl}}!"
+  },
+  {
+   "i": 2146,
+   "src": "19d0a839eecd",
+   "t": "\nRecovered armor to all {{part|pl}}!"
+  },
+  {
+   "i": 2173,
+   "src": "555a7be6b3a2",
+   "t": " {{guard}} Stance Ended!"
+  },
+  {
+   "i": 3158,
+   "src": "58844e438216",
+   "t": "Waiting for their input."
+  },
+  {
+   "i": 3314,
+   "src": "e01527c47954",
+   "t": "Activated leg ability {{brilliance}}!"
+  },
+  {
+   "i": 3316,
+   "src": "d7dba5ede7ac",
+   "t": "recovered armor to all {{part|pl}}!"
+  },
+  {
+   "i": 3324,
+   "src": "a02e13931cab",
+   "t": "Activated leg ability Dejavu!"
+  },
+  {
+   "i": 3326,
+   "src": "da74a98451d3",
+   "t": "recovered from {{status}} effects!"
+  },
+  {
+   "i": 3334,
+   "src": "8ab9ccd86d02",
+   "t": "Activated leg ability {{illusion}}!"
+  },
+  {
+   "i": 3336,
+   "src": "5d25808ca153",
+   "t": "is in an invisible state!"
+  },
+  {
+   "i": 3344,
+   "src": "fdf8240f8358",
+   "t": "{{leg_trait|cap}} {{clairvoyance}} activated!\n"
+  },
+  {
+   "i": 3346,
+   "src": "f1bc96fefb46",
+   "t": "is in a detecting state!"
+  },
+  {
+   "i": 3354,
+   "src": "aedaa0adbf22",
+   "t": "Activated leg ability {{generator}}!"
+  },
+  {
+   "i": 3356,
+   "src": "9a610afdfafd",
+   "t": "is in a heating state!"
+  },
+  {
+   "i": 3364,
+   "src": "365f8c9e0d0d",
+   "t": "Activated leg ability {{radiator}}!"
+  },
+  {
+   "i": 3366,
+   "src": "c37b0a6f693b",
+   "t": "is now in a cooling state!"
+  },
+  {
+   "i": 3374,
+   "src": "e161699437ae",
+   "t": "Activated leg ability Barrier!"
+  },
+  {
+   "i": 3376,
+   "src": "ea64137a6b53",
+   "t": "is now in a guard boost state!"
+  },
+  {
+   "i": 3384,
+   "src": "3fd2052d3a2c",
+   "t": "Activated leg ability {{accel}}!"
+  },
+  {
+   "i": 3386,
+   "src": "ec666204757b",
+   "t": "is now in a mobile boost state!"
+  },
+  {
+   "i": 3394,
+   "src": "82381f51c50c",
+   "t": "Activated leg ability {{assail}}!"
+  },
+  {
+   "i": 3396,
+   "src": "e7165ec38013",
+   "t": "is now in a shoot boost state!"
+  },
+  {
+   "i": 3404,
+   "src": "81499e7525c2",
+   "t": "Activated leg ability {{rumbling}}!"
+  },
+  {
+   "i": 3406,
+   "src": "2e41f9cdc351",
+   "t": "is now in a fight boost state!"
+  },
+  {
+   "i": 3414,
+   "src": "24572cc2ac9d",
+   "t": "Activated leg ability Brave!"
+  },
+  {
+   "i": 3416,
+   "src": "19bbdd1c2e05",
+   "t": "is now in a desperate state!"
+  },
+  {
+   "i": 3424,
+   "src": "7c0e802bbb77",
+   "t": "Activated leg ability {{mirage}}!"
+  },
+  {
+   "i": 3426,
+   "src": "2c7e913917f2",
+   "t": "is now in a concealed state!"
+  },
+  {
+   "i": 3434,
+   "src": "c8b232b42537",
+   "t": "Activated leg ability {{nest}}!\nIncreased durability of trap plants!"
+  },
+  {
+   "i": 3442,
+   "src": "0a6d410c35cc",
+   "t": "Activated leg ability {{shape_memory}}!"
+  },
+  {
+   "i": 3444,
+   "src": "2feeea2cb6b8",
+   "t": "part has been reconstructed!"
+  },
+  {
+   "i": 3614,
+   "src": "58844e438216",
+   "t": "Waiting for their input."
+  },
+  {
+   "i": 3636,
+   "src": "2e80a44c5b8a",
+   "t": "Forfeit has been selected."
+  }
+ ]
+}

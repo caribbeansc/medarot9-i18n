@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3d2_000_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2b1fd07bd562",
+   "t": "{{homare}}"
+  },
+  {
+   "i": 1038,
+   "src": "edacb2b4e00f",
+   "t": "Al festival no entra gente de fuera, ¿no?"
+  },
+  {
+   "i": 1041,
+   "src": "1c85e045e2c8",
+   "t": "La gente de afuera tiene curiosidad."
+  },
+  {
+   "i": 1049,
+   "src": "8b7dcb779276",
+   "t": "Deberíamos abrirlo una vez al año."
+  },
+  {
+   "i": 1052,
+   "src": "bf3b5cc46ee4",
+   "t": "Total, no ocultamos ningún secreto."
+  }
+ ]
+}

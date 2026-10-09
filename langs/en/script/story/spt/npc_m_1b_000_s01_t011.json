@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_1b_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1038,
+   "src": "9cfed387c6ed",
+   "t": "Hey, {{transfer_student}}!"
+  },
+  {
+   "i": 1041,
+   "src": "fe669dcd0523",
+   "t": "Already checking out the clubs?"
+  },
+  {
+   "i": 1049,
+   "src": "9cb0a972df5c",
+   "t": "Me? I'm in the Marine Sports {{club|cap}}!"
+  },
+  {
+   "i": 1052,
+   "src": "c9365213a178",
+   "t": "I'm going for a swim in the sea today\ntoo!"
+  }
+ ]
+}

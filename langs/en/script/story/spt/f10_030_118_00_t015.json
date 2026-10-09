@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f10_030_118_00_t015.spt",
+ "lines": [
+  {
+   "i": 1040,
+   "src": "bfa18efb41d9",
+   "t": "Select Captain"
+  },
+  {
+   "i": 1051,
+   "src": "980749043d35",
+   "t": "Our opinion differs."
+  },
+  {
+   "i": 1058,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1064,
+   "src": "eaa0924d76f9",
+   "t": "What did you say?"
+  },
+  {
+   "i": 1071,
+   "src": "bfa18efb41d9",
+   "t": "Select Captain"
+  },
+  {
+   "i": 1077,
+   "src": "f521d59870a2",
+   "t": "This is an opportunity."
+  },
+  {
+   "i": 1089,
+   "src": "04dfef68e4ba",
+   "t": "The perfect chance to put the monster\nto sleep for eternity!"
+  },
+  {
+   "i": 1104,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1112,
+   "src": "61a114df8c93",
+   "t": "One question."
+  },
+  {
+   "i": 1115,
+   "src": "0d67f264edb0",
+   "t": "Who does 'we' refer to?"
+  },
+  {
+   "i": 1122,
+   "src": "bfa18efb41d9",
+   "t": "Select Captain"
+  },
+  {
+   "i": 1128,
+   "src": "7ed155f0d355",
+   "t": "Please consider it the will of the\n{{conglomerate}}."
+  }
+ ]
+}

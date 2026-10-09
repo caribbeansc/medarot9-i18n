@@ -1,0 +1,58 @@
+{
+ "rel": "mdr/tex/m9_enc03.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "~/Library/Fonts/JetBrainsMono.ttf",
+  "wght": 650,
+  "cap": 20,
+  "scale_x": 0.82,
+  "tracking": 0.2,
+  "pad": 0,
+  "snap": true,
+  "align": "left",
+  "baseline": 23,
+  "erase": "none",
+  "strokes": [
+   {
+    "color": "#2784A9A2",
+    "w": 1
+   },
+   {
+    "color": "#00223344",
+    "w": 1
+   }
+  ]
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    228,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    1,
+    155,
+    28
+   ],
+   "text": "ROBOBATALLA",
+   "fill": "#66FFAA"
+  },
+  {
+   "box": [
+    158,
+    1,
+    70,
+    28
+   ],
+   "text": "LISTA",
+   "fill": "#88FFCC"
+  }
+ ]
+}

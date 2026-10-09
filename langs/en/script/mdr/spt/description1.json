@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c1802064a4af",
+   "t": "{{medabot}}"
+  },
+  {
+   "i": 11,
+   "src": "6678d33d9c29",
+   "t": "A robot made up of:\n  - the <c:ffff00>{{medal}}<c>, which is its brain\n  - the <c:ffff00>{{tinpet}}<c>, which works as nerves and skeleton\n  - <c:ffff00>{{part|pl}}<c> for 4 <c:ffff00>slots<c>:\n    <c:ffff00>head<c>, <c:ffff00>right arm<c>, <c:ffff00>left arm<c> and <c:ffff00>legs<c>\n\nSold mainly as toys, they are common all over the\nworld."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description125.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "680335f399e9",
+   "t": "Ataque combinado"
+  },
+  {
+   "i": 11,
+   "src": "ce438b3f416e",
+   "t": "Ataque que, junto a aliados, concentra a la vez el\n<c:ffff00>ataque<c> de <c:ffff00>fuego cruzado<c> y el <c:ffff00>disparador<c> sobre un\nsolo <c:ffff00>{{target}}<c>.\nEl {{target}} solo puede elegir su <c:ffff00>{{response}}<c> una vez y\nresponde a todos los ataques con la misma <c:ffff00>{{part}}<c>.\nSi falla la <c:ffff00>{{evade}}<c> del ataque combinado, fallará\ntambién contra los ataques siguientes de ese\ncombinado. Si se <c:ffff00>destruye<c> la {{part}} de {{response}},\n<c:ffff00>recibirá<c> con la <c:ffff00>{{head}}<c> todos esos ataques."
+  }
+ ]
+}

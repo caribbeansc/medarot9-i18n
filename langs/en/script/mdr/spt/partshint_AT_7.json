@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_7.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "667cb23b7e27",
+   "t": "<c:00ff00>Action:<c> {{hyper_beam}}\nA ranged attack: {{power}}\ndoubles with the Charge\nGauge at 50% or more,\nand triples with the\n{{charge_gauge}} at\n100%. Has piercing."
+  }
+ ]
+}

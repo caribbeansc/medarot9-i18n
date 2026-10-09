@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description88.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1d059c296d29",
+   "t": "{{assist}} (Style)"
+  },
+  {
+   "i": 11,
+   "src": "280d0d8af2f1",
+   "t": "A <c:ffff00>{{robattle_style}}<c> that prioritizes action efficiency.\n\n<c:ffff00>{{stats|cap}}<c> that rise:\n  <c:ffff00>{{prep}}<c> +12, <c:ffff00>{{cooldown}}<c> +12\n\n{{condition_rotation|cap}} to raise the <c:ffff00>{{charge_gauge}}<c>:\n+2% for every <c:ffff00>action<c> taken."
+  }
+ ]
+}

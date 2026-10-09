@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description74.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a5b049cd38cd",
+   "t": "{{underwater|cap}} ({{field}})"
+  },
+  {
+   "i": 11,
+   "src": "f2f0fb849103",
+   "t": "Un tipo de <c:ffff00>{{field}}<c> donde se hace la <c:ffff00>{{robattle}}<c>.\n{{terrain|cap}} con agua que sumerge todo el cuerpo.\n\nSolo pueden participar los <c:ffff00>{{medabot|pl}}<c> con <c:ffff00>tipo de<c>\n<c:ffff00>{{legs}}<c> <c:ffff00>{{submarine}}<c>. Los de otro tipo y los <c:ffff00>destruidos<c>\nse hunden y quedan al instante <c:ffff00>{{knocked_out}}<c>.\n\nPor la <c:ffff00>{{terrain_affinity}}<c>, la <c:ffff00>{{mobility}}<c>, el <c:ffff00>{{fighting}}<c> y\nel <c:ffff00>{{shooting}}<c> del tipo {{submarine}} suben +6."
+  }
+ ]
+}

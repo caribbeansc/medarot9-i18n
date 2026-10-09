@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_rival_117_s01_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1038,
+   "src": "e4dad924d3ff",
+   "t": "¡Me quedé pasmado!"
+  },
+  {
+   "i": 1046,
+   "src": "6c23a7a31667",
+   "t": "¡Son demasiado débiles!"
+  },
+  {
+   "i": 1054,
+   "src": "55a5a1087895",
+   "t": "No es cuestión de fuerza."
+  },
+  {
+   "i": 1057,
+   "src": "377e0c8126c1",
+   "t": "¡No entienden nada de {{robattle|pl}}!"
+  },
+  {
+   "i": 1065,
+   "src": "8ad5c120aff3",
+   "t": "¡Me estoy enojando conmigo!"
+  },
+  {
+   "i": 1068,
+   "src": "db1340fb4e66",
+   "t": "Y yo esperaba a alguien como tú..."
+  },
+  {
+   "i": 1076,
+   "src": "7505aa369219",
+   "t": "Ah, da igual."
+  },
+  {
+   "i": 1079,
+   "src": "dc10bc873f41",
+   "t": "¡Lo sudaré para olvidarlo!"
+  },
+  {
+   "i": 1087,
+   "src": "4bbcbb186742",
+   "t": "¡Nos vemos!"
+  }
+ ]
+}

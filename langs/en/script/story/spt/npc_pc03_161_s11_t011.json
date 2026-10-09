@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc03_161_s11_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "43c887541b69",
+   "t": "A battle is sure to be waiting outside."
+  },
+  {
+   "i": 1041,
+   "src": "aff8e5870fa7",
+   "t": "Let's get properly ready before we go."
+  }
+ ]
+}

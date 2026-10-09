@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_050_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1006,
+   "src": "fc016092d884",
+   "t": "Perdón por la espera, {{main}}-chan."
+  },
+  {
+   "i": 1009,
+   "src": "f023009b2491",
+   "t": "Terminamos las mediciones que pediste."
+  },
+  {
+   "i": 1017,
+   "src": "42804c8e2fc5",
+   "t": "Publiqué los resultados en el tablón..."
+  },
+  {
+   "i": 1027,
+   "src": "e1122e337b77",
+   "t": "¿Qué tal?"
+  },
+  {
+   "i": 1030,
+   "src": "48a99dfc9f6d",
+   "t": "¿Crees que servirán...?"
+  }
+ ]
+}

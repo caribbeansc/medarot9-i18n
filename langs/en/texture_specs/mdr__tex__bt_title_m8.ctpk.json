@@ -1,0 +1,290 @@
+{
+ "rel": "mdr/tex/bt_title_m8.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "sf-cond",
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "align": "center",
+  "valign": "middle",
+  "crisp": 0.3,
+  "min_scale_x": 0.8
+ },
+ "items": [
+  {
+   "box": [
+    2,
+    9,
+    112,
+    14
+   ],
+   "erase_box": [
+    0,
+    0,
+    116,
+    24
+   ],
+   "text": "Check for updates",
+   "cap": 9
+  },
+  {
+   "box": [
+    118,
+    9,
+    134,
+    14
+   ],
+   "erase_box": [
+    116,
+    0,
+    138,
+    24
+   ],
+   "text": "Buy more content",
+   "cap": 9
+  },
+  {
+   "box": [
+    2,
+    34,
+    92,
+    14
+   ],
+   "erase_box": [
+    0,
+    24,
+    98,
+    25
+   ],
+   "text": "SpotPass",
+   "cap": 9.5,
+   "dy": -1
+  },
+  {
+   "box": [
+    130,
+    34,
+    124,
+    14
+   ],
+   "erase_box": [
+    128,
+    24,
+    128,
+    24
+   ],
+   "text": "Internet Battle",
+   "cap": 9
+  },
+  {
+   "box": [
+    3,
+    52,
+    72,
+    14
+   ],
+   "erase_box": [
+    0,
+    51,
+    76,
+    16
+   ],
+   "text": "New Game",
+   "cap": 10
+  },
+  {
+   "box": [
+    2,
+    69,
+    72,
+    14
+   ],
+   "erase_box": [
+    0,
+    68,
+    76,
+    16
+   ],
+   "text": "Continue",
+   "cap": 10
+  },
+  {
+   "box": [
+    157,
+    81,
+    68,
+    14
+   ],
+   "erase_box": [
+    155,
+    72,
+    100,
+    24
+   ],
+   "text": "StreetPass",
+   "cap": 10,
+   "align": "right"
+  },
+  {
+   "box": [
+    2,
+    85,
+    58,
+    13
+   ],
+   "erase_box": [
+    0,
+    84,
+    62,
+    16
+   ],
+   "text": "AR Card",
+   "cap": 9
+  },
+  {
+   "box": [
+    63,
+    85,
+    64,
+    13
+   ],
+   "erase_box": [
+    62,
+    84,
+    66,
+    15
+   ],
+   "text": "content",
+   "cap": 9,
+   "align": "left"
+  },
+  {
+   "box": [
+    168,
+    105,
+    84,
+    14
+   ],
+   "erase_box": [
+    167,
+    96,
+    88,
+    24
+   ],
+   "text": "Local Battle",
+   "cap": 9
+  },
+  {
+   "box": [
+    0,
+    108,
+    26,
+    14
+   ],
+   "erase_box": [
+    0,
+    100,
+    124,
+    24
+   ],
+   "text": "More",
+   "cap": 9,
+   "align": "right"
+  },
+  {
+   "box": [
+    30,
+    108,
+    92,
+    14
+   ],
+   "erase": "none",
+   "text": "events to play",
+   "cap": 9,
+   "align": "left"
+  },
+  {
+   "box": [
+    2,
+    132,
+    68,
+    14
+   ],
+   "erase_box": [
+    0,
+    123,
+    72,
+    24
+   ],
+   "text": "Part Transfer",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    75,
+    132,
+    68,
+    14
+   ],
+   "erase_box": [
+    73,
+    123,
+    72,
+    24
+   ],
+   "text": "Change Name",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    147,
+    125,
+    66,
+    13
+   ],
+   "erase_box": [
+    144,
+    123,
+    72,
+    16
+   ],
+   "text": "Password",
+   "cap": 9
+  },
+  {
+   "box": [
+    1,
+    148,
+    120,
+    13
+   ],
+   "erase_box": [
+    0,
+    147,
+    124,
+    16
+   ],
+   "text": "Receive gift",
+   "cap": 9.5
+  },
+  {
+   "box": [
+    0,
+    196,
+    156,
+    14
+   ],
+   "erase_box": [
+    0,
+    196,
+    156,
+    14
+   ],
+   "text": "Enter a name.",
+   "cap": 9.5,
+   "dy": -0.7
+  }
+ ]
+}

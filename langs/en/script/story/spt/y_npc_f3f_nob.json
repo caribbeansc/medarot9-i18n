@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3f_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1057,
+   "src": "deee517201f9",
+   "t": "Soorry."
+  },
+  {
+   "i": 1060,
+   "src": "7f3a759632a4",
+   "t": "Not now, but ask me again!"
+  }
+ ]
+}

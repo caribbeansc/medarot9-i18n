@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1e2_meda_140_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "5b9fdd4c0442",
+   "t": "{{ready_go}}"
+  },
+  {
+   "i": 1035,
+   "src": "92a49f93ab9d",
+   "t": "Shiny-chan"
+  },
+  {
+   "i": 1038,
+   "src": "e8c173b54949",
+   "t": "Go for it~."
+  }
+ ]
+}

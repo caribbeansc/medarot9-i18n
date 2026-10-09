@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f02_110_210_00_t005.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1049,
+   "src": "a7ecc9a89e31",
+   "t": "Para una prueba no está mal."
+  },
+  {
+   "i": 1052,
+   "src": "fa20a2f3fc89",
+   "t": "Funcionó casi como esperaba."
+  },
+  {
+   "i": 1060,
+   "src": "2c8a8fdf1c0e",
+   "t": "Entonces,"
+  },
+  {
+   "i": 1063,
+   "src": "c583ec0abf16",
+   "t": "¿Ya terminaron los ajustes?"
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "9783fd95ec2f",
+   "t": "En cuanto a las {{robattle|pl}}."
+  },
+  {
+   "i": 1082,
+   "src": "8aa7caa60f61",
+   "t": "Sigue la prueba de {{terrain}}."
+  },
+  {
+   "i": 1085,
+   "src": "f3256d96549d",
+   "t": "Hay que llevarlo al {{river}} o al mar."
+  },
+  {
+   "i": 1093,
+   "src": "a033e28a2aac",
+   "t": "Pero no hay tiempo de ir lejos..."
+  },
+  {
+   "i": 1096,
+   "src": "a1accdcd334a",
+   "t": "Bueno, será mañana."
+  }
+ ]
+}

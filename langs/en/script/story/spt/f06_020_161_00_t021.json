@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f06_020_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "be8f55742378",
+   "t": "Yup."
+  },
+  {
+   "i": 1045,
+   "src": "83d7c060c6dc",
+   "t": "Everyone's here."
+  },
+  {
+   "i": 1060,
+   "src": "baa282b60266",
+   "t": "You've got a lot of free time, even in\nsummer."
+  },
+  {
+   "i": 1063,
+   "src": "b4993a7a804f",
+   "t": "Nothing to do? Ahaha."
+  },
+  {
+   "i": 1073,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1082,
+   "src": "aec15deb48d0",
+   "t": "You're the one who called us here,"
+  },
+  {
+   "i": 1085,
+   "src": "e69afbd2ce4a",
+   "t": "you blockhead."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_71.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e78862bf485e",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nMira Fina S\nAl apuntar con precisión,\nhay un 50% de\nprobabilidad de no ser\nbloqueado por la guardia\ninterceptora."
+  }
+ ]
+}

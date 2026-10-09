@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description94.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c9a03ab0d96d",
+   "t": "Action"
+  },
+  {
+   "i": 11,
+   "src": "bc1edf88735d",
+   "t": "An <c:ffff00>action<c> that uses a <c:ffff00>{{part}}<c> of the <c:ffff00>{{head}}<c>, <c:ffff00>{{right_arm}}<c> or\n<c:ffff00>{{left_arm}}<c>, or the <c:ffff00>Drive<c> during <c:ffff00>{{medachange}}<c>.\nIt belongs to one of the 6 <c:ffff00>skills<c>, or is <c:ffff00>Special<c>.\n\n<c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c> times and effects vary with the\n<c:ffff00>{{stats}}<c> of the <c:ffff00>{{acting_part}}<c> and the <c:ffff00>legs<c>, and the <c:ffff00>skill<c>\n<c:ffff00>level<c> of the <c:ffff00>{{medal}}<c>."
+  }
+ ]
+}

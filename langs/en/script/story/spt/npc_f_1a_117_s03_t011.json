@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_f_1a_117_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1035,
+   "src": "7da60b2fd8cd",
+   "t": "Ugh, I don't wanna!"
+  },
+  {
+   "i": 1038,
+   "src": "66231defb204",
+   "t": "I don't wanna go to {{club}}!"
+  },
+  {
+   "i": 1046,
+   "src": "4752b184a47a",
+   "t": "Why does {{ms_tomigiku}} always give me"
+  },
+  {
+   "i": 1049,
+   "src": "bb83762a33db",
+   "t": "the hardest practice..."
+  },
+  {
+   "i": 1057,
+   "src": "3269065569e8",
+   "t": "I bet she hates me!"
+  },
+  {
+   "i": 1060,
+   "src": "6283bd4e56dd",
+   "t": "It's got to be that!"
+  },
+  {
+   "i": 1072,
+   "src": "6b8a642fe27e",
+   "t": "-kun, you think so too, right!?"
+  },
+  {
+   "i": 1083,
+   "src": "ad3cb5700c50",
+   "t": "Huh?"
+  },
+  {
+   "i": 1086,
+   "src": "f0655c2b048b",
+   "t": "W-well, no..."
+  }
+ ]
+}

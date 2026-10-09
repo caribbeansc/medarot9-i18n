@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f02_150_211_00_t003.spt",
+ "lines": [
+  {
+   "i": 1037,
+   "src": "e84d1056e9c1",
+   "t": "Pensé que deberíamos tomarnos un\ndescanso por un tiempo."
+  },
+  {
+   "i": 1045,
+   "src": "3907fdaef9b9",
+   "t": "Pensé que sería mejor para {{mio}}."
+  },
+  {
+   "i": 1056,
+   "src": "4edf4a22891d",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1070,
+   "src": "860bb9462c6f",
+   "t": "{{mio}} solo habla conmigo. Dice que"
+  },
+  {
+   "i": 1073,
+   "src": "f5f2f5d980b8",
+   "t": "no precisa amigos si yo estoy cerca."
+  },
+  {
+   "i": 1081,
+   "src": "92881ed9318f",
+   "t": "Incluso tras unirse al {{idol_club}}, sigue"
+  },
+  {
+   "i": 1084,
+   "src": "759e399e5479",
+   "t": "igual. Casi no habla con nadie y"
+  },
+  {
+   "i": 1092,
+   "src": "bda9879bbfb3",
+   "t": "practica aparte. Entonces, un día, {{aoi}}..."
+  }
+ ]
+}

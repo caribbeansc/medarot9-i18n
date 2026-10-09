@@ -1,0 +1,254 @@
+{
+ "rel": "story/mdl/m116_e_picture.bcmdl",
+ "tex": "m116_picture",
+ "also": "auto",
+ "base": "jp",
+ "styles": {
+  "tag": {
+   "font": "sf-cond",
+   "fill": "#F2F0F6",
+   "stroke": "#3E3848",
+   "stroke_w": 0.8,
+   "crisp": 0.3,
+   "pad": 0
+  },
+  "bar": {
+   "erase": "glyph:bg",
+   "bg": "#595959",
+   "thr": 60,
+   "grow": 1,
+   "font": "sf-cond-heavy",
+   "fill": "#F4F4F4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.3
+  }
+ },
+ "defaults": {
+  "erase": "glyph",
+  "thr": 40,
+  "grow": 1,
+  "style": "tag"
+ },
+ "items": [
+  {
+   "box": [
+    52,
+    3,
+    72,
+    11
+   ],
+   "erase_box": [
+    51,
+    2,
+    74,
+    13
+   ],
+   "text": "Oficial Academia MEDA",
+   "cap": 6.0
+  },
+  {
+   "box": [
+    88,
+    14,
+    37,
+    20
+   ],
+   "erase_box": [
+    95,
+    14,
+    30,
+    12
+   ],
+   "text": "Globo\nterraqueo",
+   "align": "right",
+   "valign": "top",
+   "cap": 6.5,
+   "leading": 1.0
+  },
+  {
+   "style": "bar",
+   "box": [
+    17,
+    37,
+    44,
+    6
+   ],
+   "erase_box": [
+    17,
+    37,
+    44,
+    6
+   ],
+   "text": "IVA incluido",
+   "cap": 5.5,
+   "scale_x": 1.2
+  },
+  {
+   "box": [
+    64,
+    72,
+    58,
+    10
+   ],
+   "erase_box": [
+    70,
+    71,
+    52,
+    12
+   ],
+   "text": "256 colores",
+   "align": "right",
+   "cap": 7.5,
+   "scale_x": 1.2
+  },
+  {
+   "box": [
+    48,
+    84,
+    74,
+    9
+   ],
+   "erase_box": [
+    48,
+    83,
+    74,
+    11
+   ],
+   "text": "Marcadores de color",
+   "align": "right",
+   "cap": 6.5
+  },
+  {
+   "style": "bar",
+   "box": [
+    45,
+    101,
+    43,
+    6
+   ],
+   "erase_box": [
+    45,
+    101,
+    43,
+    6
+   ],
+   "text": "IVA incluido",
+   "cap": 5.5,
+   "scale_x": 1.2
+  },
+  {
+   "box": [
+    62,
+    140,
+    61,
+    10
+   ],
+   "erase_box": [
+    82,
+    138,
+    42,
+    10
+   ],
+   "text": "Recien llegado!!",
+   "align": "right",
+   "cap": 6,
+   "scale_x": 1.18
+  },
+  {
+   "style": "bar",
+   "box": [
+    5,
+    167,
+    43,
+    7
+   ],
+   "erase_box": [
+    5,
+    167,
+    43,
+    7
+   ],
+   "text": "IVA incluido",
+   "cap": 5.5,
+   "scale_x": 1.2
+  },
+  {
+   "box": [
+    48,
+    195,
+    69,
+    10
+   ],
+   "erase_box": [
+    47,
+    194,
+    71,
+    12
+   ],
+   "text": "Suave al tacto",
+   "cap": 6.5,
+   "fill": "#7B6E80",
+   "stroke": "#F6EAD0",
+   "scale_x": 1.27
+  },
+  {
+   "box": [
+    11,
+    204,
+    110,
+    18
+   ],
+   "erase_box": [
+    10,
+    203,
+    112,
+    20
+   ],
+   "text": "Cuaderno Kumatan",
+   "font": "sf-rounded",
+   "cap": 9.5,
+   "fill": "#6F6473",
+   "stroke": "#F3DDFF",
+   "stroke_w": 1.2
+  },
+  {
+   "style": "bar",
+   "box": [
+    21,
+    247,
+    44,
+    5
+   ],
+   "erase_box": [
+    21,
+    247,
+    44,
+    5
+   ],
+   "text": "IVA incluido",
+   "cap": 5,
+   "scale_x": 1.2
+  },
+  {
+   "box": [
+    104,
+    243,
+    12,
+    10
+   ],
+   "erase_box": [
+    104,
+    243,
+    12,
+    10
+   ],
+   "text": "Y",
+   "font": "sf-heavy",
+   "cap": 8,
+   "fill": "#F29898",
+   "stroke": "#FFFFFF",
+   "stroke_w": 0.8
+  }
+ ]
+}

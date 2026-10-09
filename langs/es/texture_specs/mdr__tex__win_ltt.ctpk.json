@@ -1,0 +1,241 @@
+{
+ "rel": "mdr/tex/win_ltt.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    2,
+    1,
+    60,
+    12
+   ],
+   "erase_box": [
+    2,
+    1,
+    60,
+    12
+   ],
+   "erase": "glyph",
+   "bg": "mode",
+   "grow": 1,
+   "text": "Rotacion",
+   "font": "sf-rounded-heavy",
+   "cap": 8.5,
+   "tracking": 0,
+   "fill": "#9BECF6",
+   "stroke": null,
+   "pad": 0,
+   "align": "center",
+   "valign": "middle",
+   "crisp": 0.5
+  },
+  {
+   "copy": [
+    74,
+    2,
+    3,
+    13
+   ],
+   "to": [
+    81,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    78,
+    2,
+    2,
+    13
+   ],
+   "to": [
+    84,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    106,
+    2,
+    3,
+    13
+   ],
+   "to": [
+    113,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    110,
+    2,
+    2,
+    13
+   ],
+   "to": [
+    116,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    138,
+    2,
+    3,
+    13
+   ],
+   "to": [
+    145,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    142,
+    2,
+    2,
+    13
+   ],
+   "to": [
+    148,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    170,
+    2,
+    3,
+    13
+   ],
+   "to": [
+    177,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    174,
+    2,
+    2,
+    13
+   ],
+   "to": [
+    180,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    202,
+    2,
+    3,
+    13
+   ],
+   "to": [
+    209,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    206,
+    2,
+    2,
+    13
+   ],
+   "to": [
+    212,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    234,
+    2,
+    3,
+    13
+   ],
+   "to": [
+    241,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    238,
+    2,
+    2,
+    13
+   ],
+   "to": [
+    244,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    266,
+    2,
+    3,
+    13
+   ],
+   "to": [
+    273,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    270,
+    2,
+    2,
+    13
+   ],
+   "to": [
+    276,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    298,
+    2,
+    3,
+    13
+   ],
+   "to": [
+    305,
+    2
+   ],
+   "blend": "replace"
+  },
+  {
+   "copy": [
+    302,
+    2,
+    2,
+    13
+   ],
+   "to": [
+    308,
+    2
+   ],
+   "blend": "replace"
+  }
+ ]
+}

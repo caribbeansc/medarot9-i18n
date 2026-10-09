@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1d_meda_150_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "8f441470e0e9",
+   "t": "{{lily_madonna}}"
+  },
+  {
+   "i": 1038,
+   "src": "21b6174c3082",
+   "t": "What's a diet?"
+  },
+  {
+   "i": 1041,
+   "src": "3907d23983c4",
+   "t": "Is it a shortcut?"
+  }
+ ]
+}

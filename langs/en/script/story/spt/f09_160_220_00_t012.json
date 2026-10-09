@@ -1,0 +1,255 @@
+{
+ "file": "story/spt/f09_160_220_00_t012.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "5f91ae9c3634",
+   "t": "...Oh."
+  },
+  {
+   "i": 1040,
+   "src": "e4433fbab24e",
+   "t": "It's the old {{mine_cart}} station."
+  },
+  {
+   "i": 1043,
+   "src": "a31ff77e3387",
+   "t": "So it did lead here after all."
+  },
+  {
+   "i": 1053,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1059,
+   "src": "08ce9359408b",
+   "t": "...Hey."
+  },
+  {
+   "i": 1069,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1075,
+   "src": "91908cc727dc",
+   "t": "What is it?"
+  },
+  {
+   "i": 1082,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1088,
+   "src": "09c72774210c",
+   "t": "It's late to bring this up after coming\nthis far,\nbut..."
+  },
+  {
+   "i": 1108,
+   "src": "2ce8fff7dd59",
+   "t": "are we getting any closer to the right\nanswer?"
+  },
+  {
+   "i": 1115,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1121,
+   "src": "899259392439",
+   "t": "What right answer?"
+  },
+  {
+   "i": 1128,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1138,
+   "src": "4a491f48b0d1",
+   "t": "-kun? You mean where he is?"
+  },
+  {
+   "i": 1145,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1154,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1162,
+   "src": "e9c13a42567c",
+   "t": "We don't even have anything like a lead."
+  },
+  {
+   "i": 1165,
+   "src": "ec529ccd7cba",
+   "t": "We just went into places we couldn't\nbefore."
+  },
+  {
+   "i": 1173,
+   "src": "e5911ddde14f",
+   "t": "Maybe we're"
+  },
+  {
+   "i": 1176,
+   "src": "9f62f9ad2df7",
+   "t": "doing something completely off the\nmark?"
+  },
+  {
+   "i": 1183,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1189,
+   "src": "4f9b9c1db681",
+   "t": "Hmm, well..."
+  },
+  {
+   "i": 1196,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1205,
+   "src": "dbbcf45e315e",
+   "t": "Should we go back to the {{clubroom}}\nfor a moment...?"
+  },
+  {
+   "i": 1239,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1260,
+   "src": "a2c12ef38eb8",
+   "t": "It's my fault."
+  },
+  {
+   "i": 1266,
+   "src": "31e92d776225",
+   "t": "It's all my fault."
+  },
+  {
+   "i": 1288,
+   "src": "30af5aa6b9cb",
+   "t": "If I'd stayed with him the whole time,"
+  },
+  {
+   "i": 1291,
+   "src": "3325cf576668",
+   "t": "this wouldn't have happened..."
+  },
+  {
+   "i": 1297,
+   "src": "2733d67b4c90",
+   "t": "If I'd stayed by his side,"
+  },
+  {
+   "i": 1300,
+   "src": "91bb3418f5b5",
+   "t": "this wouldn't have happened..."
+  },
+  {
+   "i": 1311,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1320,
+   "src": "c8b8fdf8300f",
+   "t": "Hey, "
+  },
+  {
+   "i": 1324,
+   "src": "b947673ab70f",
+   "t": "stop saying ominous things."
+  },
+  {
+   "i": 1334,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1343,
+   "src": "3a6910788f63",
+   "t": "That's right."
+  },
+  {
+   "i": 1346,
+   "src": "46a78b277c3c",
+   "t": "We don't even know if he came here\nyet."
+  },
+  {
+   "i": 1375,
+   "src": "ce0428193a9b",
+   "t": "Then where is he?"
+  },
+  {
+   "i": 1378,
+   "src": "d2678e819298",
+   "t": "Where the heck should I look?"
+  },
+  {
+   "i": 1384,
+   "src": "ce0428193a9b",
+   "t": "Then where is he?"
+  },
+  {
+   "i": 1387,
+   "src": "d4410d8ed2eb",
+   "t": "Where the heck should I look?"
+  },
+  {
+   "i": 1404,
+   "src": "3b734b7dbbf9",
+   "t": "Calm down."
+  },
+  {
+   "i": 1407,
+   "src": "136fc15fc4ac",
+   "t": "My Medafighter is not at fault."
+  },
+  {
+   "i": 1436,
+   "src": "35e5317be63c",
+   "t": "I know that!"
+  },
+  {
+   "i": 1439,
+   "src": "2e4443bab5db",
+   "t": "But..."
+  },
+  {
+   "i": 1445,
+   "src": "1c7b61705983",
+   "t": "I know that!"
+  },
+  {
+   "i": 1448,
+   "src": "2e4443bab5db",
+   "t": "But..."
+  },
+  {
+   "i": 1459,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1465,
+   "src": "ba5ce278dc84",
+   "t": "Oh?"
+  }
+ ]
+}

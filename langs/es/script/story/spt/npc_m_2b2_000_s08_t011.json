@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2b2_000_s08_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "083c499b7b51",
+   "t": "{{ichi}}"
+  },
+  {
+   "i": 1038,
+   "src": "113f66ced3d9",
+   "t": "Hay {{medalia|pl}} en el suelo,"
+  },
+  {
+   "i": 1041,
+   "src": "f95a4005e88c",
+   "t": "o las tienen {{medabot|pl}} salvajes. Ojo."
+  },
+  {
+   "i": 1049,
+   "src": "b6bea14a2679",
+   "t": "Es muy frustrante cuando un"
+  },
+  {
+   "i": 1052,
+   "src": "037ef3511f03",
+   "t": "Medabot salvaje fuerte sale a saludarte."
+  }
+ ]
+}

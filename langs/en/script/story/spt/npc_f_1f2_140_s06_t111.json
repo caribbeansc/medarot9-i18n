@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_1f2_140_s06_t111.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2fcba1bd9f86",
+   "t": "{{suiro}}"
+  },
+  {
+   "i": 1035,
+   "src": "adb811495baa",
+   "t": "Beginners? No way."
+  },
+  {
+   "i": 1038,
+   "src": "43d7becbb63c",
+   "t": "That's definitely a lie."
+  },
+  {
+   "i": 1046,
+   "src": "af6565843724",
+   "t": "They were holding back, but they've got\nserious experience."
+  },
+  {
+   "i": 1049,
+   "src": "afe4c31e7b01",
+   "t": "Both of them... Who ARE they??"
+  }
+ ]
+}

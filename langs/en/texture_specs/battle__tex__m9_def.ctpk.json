@@ -1,0 +1,74 @@
+{
+ "rel": "battle/tex/m9_def.ctpk",
+ "base": "jp",
+ "styles": {
+  "azul": {
+   "font": "avenir-cond-heavy-italic",
+   "italic_skew": 0.15,
+   "pad": 0,
+   "min_scale_x": 0.75,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#F0FFFF"
+     ],
+     [
+      0.4,
+      "#AEEEFF"
+     ],
+     [
+      0.7,
+      "#5CC0EE"
+     ],
+     [
+      1,
+      "#3A9AD8"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#004488",
+     "w": 1.2
+    },
+    {
+     "color": "#2277BB",
+     "w": 0.6
+    }
+   ],
+   "shadow": {
+    "dx": 0,
+    "dy": 1.5,
+    "color": "#FFFFFF",
+    "opacity": 1
+   }
+  }
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    200,
+    32
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "azul",
+   "box": [
+    2,
+    1,
+    194,
+    29
+   ],
+   "erase": "none",
+   "text": "GUARD!",
+   "cap": 22,
+   "tracking": 0.6,
+   "scale_x": 1.37
+  }
+ ]
+}

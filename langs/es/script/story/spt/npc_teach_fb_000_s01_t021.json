@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_teach_fb_000_s01_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c900beb5f769",
+   "t": "{{ms_koimari}}"
+  },
+  {
+   "i": 1038,
+   "src": "b805965dbfc2",
+   "t": "Esta es la {{infirmary}}. No deberías venir"
+  },
+  {
+   "i": 1041,
+   "src": "ecfb536f8d8c",
+   "t": "tan seguido si estás bien de salud."
+  },
+  {
+   "i": 1049,
+   "src": "5e083a374acf",
+   "t": "Si no, la gente pensará que solo estás"
+  },
+  {
+   "i": 1052,
+   "src": "f70178cf75e5",
+   "t": "saltándote las clases. Jeje."
+  }
+ ]
+}

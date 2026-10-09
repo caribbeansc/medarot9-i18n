@@ -1,0 +1,165 @@
+{
+ "file": "mdr/spt/resultslist.spt",
+ "lines": [
+  {
+   "i": 855,
+   "src": "f65ca6554100",
+   "t": "Titania"
+  },
+  {
+   "i": 858,
+   "src": "98e643d01909",
+   "t": "{{tai_chan}}"
+  },
+  {
+   "i": 1403,
+   "src": "3788dd7bd48e",
+   "t": "Lista de actividades　　　　　　"
+  },
+  {
+   "i": 1404,
+   "src": "f9570bd0b6cf",
+   "t": "Perfil del miembro　　　　　　"
+  },
+  {
+   "i": 1416,
+   "src": "3788dd7bd48e",
+   "t": "Lista de actividades　　　　　　"
+  },
+  {
+   "i": 1428,
+   "src": "f9570bd0b6cf",
+   "t": "Perfil del miembro　　　　　　"
+  },
+  {
+   "i": 1960,
+   "src": "a6c7534fc7bf",
+   "t": "Cumple: 15/2  Sangre: A\nMejor asignatura: Ninguna\nAficiones: {{medabot|pl}}"
+  },
+  {
+   "i": 1967,
+   "src": "e471931e9d59",
+   "t": "Tipo de Medalla: "
+  },
+  {
+   "i": 1969,
+   "src": "9c6dd04317f5",
+   "t": "\nTalento: {{robattle}}"
+  },
+  {
+   "i": 1973,
+   "src": "e471931e9d59",
+   "t": "Tipo de Medalla: "
+  },
+  {
+   "i": 1975,
+   "src": "7351769e4f56",
+   "t": "\nTalento: esgrima"
+  },
+  {
+   "i": 1981,
+   "src": "87c0e9c465e3",
+   "t": "1-C"
+  },
+  {
+   "i": 1994,
+   "src": "5789c39a0e10",
+   "t": "{{mio}} Shirakabe"
+  },
+  {
+   "i": 2012,
+   "src": "4b2f3fa3b6d0",
+   "t": "Cumple: 5/11  Sangre: AB\nMejor asignatura: Lengua\nAficiones: Baile"
+  },
+  {
+   "i": 2015,
+   "src": "e471931e9d59",
+   "t": "Tipo de Medalla: "
+  },
+  {
+   "i": 2017,
+   "src": "ef7f893a5740",
+   "t": "\nTalento: baile"
+  },
+  {
+   "i": 2023,
+   "src": "87c0e9c465e3",
+   "t": "1-C"
+  },
+  {
+   "i": 2036,
+   "src": "baf14056c889",
+   "t": "K. Shinozaki"
+  },
+  {
+   "i": 2054,
+   "src": "2f35b6231a68",
+   "t": "Cumple: 17/9  Sangre: O\nMejor asignatura: Sociales\nAficiones: {{term}}"
+  },
+  {
+   "i": 2057,
+   "src": "e471931e9d59",
+   "t": "Tipo de Medalla: "
+  },
+  {
+   "i": 2059,
+   "src": "9d0332cc6caa",
+   "t": "\nTalento: sanar al {{master}}"
+  },
+  {
+   "i": 2065,
+   "src": "5e1c577d074f",
+   "t": "3-D"
+  },
+  {
+   "i": 2078,
+   "src": "7c55e1f60a1f",
+   "t": "{{main}} Konishi"
+  },
+  {
+   "i": 2096,
+   "src": "77558ef6d468",
+   "t": "Cumple: 8/3  Sangre: B\nMejor asignatura: Todas\nAficiones: Inventar"
+  },
+  {
+   "i": 2099,
+   "src": "e471931e9d59",
+   "t": "Tipo de Medalla: "
+  },
+  {
+   "i": 2101,
+   "src": "899df47b940c",
+   "t": "\nTalento: bl43A_|blR-|"
+  },
+  {
+   "i": 2107,
+   "src": "fa9f3f7ab4c4",
+   "t": "2-A"
+  },
+  {
+   "i": 2120,
+   "src": "1db5940e611e",
+   "t": "{{ryoma}} Kikusui"
+  },
+  {
+   "i": 2138,
+   "src": "7e1d2856dc94",
+   "t": "Cumple: 14/5  Sangre: B\nMejor asignatura: Ciencias\nAficiones: Aventura y taller"
+  },
+  {
+   "i": 2141,
+   "src": "e471931e9d59",
+   "t": "Tipo de Medalla: "
+  },
+  {
+   "i": 2143,
+   "src": "f9cf5b242e89",
+   "t": "\nTalento: conducir"
+  },
+  {
+   "i": 2149,
+   "src": "8faacfaf2778",
+   "t": "2-B"
+  }
+ ]
+}

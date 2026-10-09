@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f10_070_234_00_t032.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1050,
+   "src": "19054510e8f0",
+   "t": "¡{{metabee}}!"
+  },
+  {
+   "i": 1056,
+   "src": "b1774c7ee4ac",
+   "t": "¡{{rokusho}}!"
+  },
+  {
+   "i": 1083,
+   "src": "53d21cb927b8",
+   "t": "Ha vuelto a la vida..."
+  },
+  {
+   "i": 1089,
+   "src": "d4abcee20f98",
+   "t": "Ha resucitado..."
+  },
+  {
+   "i": 1097,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1103,
+   "src": "a59bb4dd56ef",
+   "t": "¡Tú también deberías retroceder!"
+  },
+  {
+   "i": 1129,
+   "src": "299d18f3b14b",
+   "t": "Lo siento, {{master}}"
+  },
+  {
+   "i": 1132,
+   "src": "62dacd7f54ac",
+   "t": "No pude cumplir mi promesa..."
+  },
+  {
+   "i": 1138,
+   "src": "d2bf2a0a0f04",
+   "t": "Perdóname, {{master}}"
+  },
+  {
+   "i": 1141,
+   "src": "3bb9a2634cbc",
+   "t": "No logré cumplir mi promesa..."
+  },
+  {
+   "i": 1156,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1162,
+   "src": "f8f35263d80d",
+   "t": "¡Aún no!"
+  },
+  {
+   "i": 1165,
+   "src": "158f19102e66",
+   "t": "¡Esto aún no termina!"
+  }
+ ]
+}

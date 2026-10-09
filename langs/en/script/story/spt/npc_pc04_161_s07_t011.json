@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/npc_pc04_161_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "e612a1dcb9f9",
+   "t": "The {{idol_club}}, huh."
+  },
+  {
+   "i": 1041,
+   "src": "c7ba05acc68b",
+   "t": "I think it was no boys allowed, right?"
+  },
+  {
+   "i": 1049,
+   "src": "08581c005dd0",
+   "t": "No boys allowed?"
+  },
+  {
+   "i": 1052,
+   "src": "0c347ef25da2",
+   "t": "Was it...?"
+  },
+  {
+   "i": 1060,
+   "src": "0d306da1daef",
+   "t": "Well, isn't that fine?"
+  },
+  {
+   "i": 1063,
+   "src": "6bab04812833",
+   "t": "They haven't kicked us out so far."
+  },
+  {
+   "i": 1068,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1074,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1082,
+   "src": "76bf0a64a09d",
+   "t": "You're no different from the president..."
+  }
+ ]
+}

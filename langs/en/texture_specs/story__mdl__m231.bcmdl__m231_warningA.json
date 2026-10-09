@@ -1,0 +1,55 @@
+{
+ "rel": "story/mdl/m231.bcmdl",
+ "tex": "m231_warningA",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "grow": 1,
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    11,
+    15,
+    42,
+    10
+   ],
+   "baseline": 24,
+   "erase_box": [
+    9,
+    16,
+    46,
+    10
+   ],
+   "text": "STAFF ONLY",
+   "font": "din",
+   "cap": 8,
+   "fill": "#101414",
+   "stroke": null
+  },
+  {
+   "box": [
+    11,
+    27,
+    42,
+    14
+   ],
+   "baseline": 40,
+   "erase_box": [
+    9,
+    26,
+    46,
+    16
+   ],
+   "text": "KEEP OUT",
+   "font": "din",
+   "cap": 12,
+   "fill": "#961212",
+   "stroke": null,
+   "tracking": 0.3
+  }
+ ]
+}

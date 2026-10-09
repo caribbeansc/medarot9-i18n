@@ -1,0 +1,186 @@
+{
+ "rel": "battle/tex/cp1_turnt.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "sf-compressed",
+  "cap": 12.5,
+  "pad": 0,
+  "valign": "middle",
+  "crisp": 0
+ },
+ "styles": {
+  "azul": {
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#88FFEE"
+     ],
+     [
+      0.5,
+      "#99FFFF"
+     ],
+     [
+      1,
+      "#AAFFFF"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#114477B8",
+     "w": 1.0
+    },
+    {
+     "color": "#11335560",
+     "w": 1.0
+    }
+   ]
+  },
+  "ambar": {
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#FFFF88"
+     ],
+     [
+      0.5,
+      "#FFFF77"
+     ],
+     [
+      1,
+      "#FFEE66"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#772211B8",
+     "w": 1.0
+    },
+    {
+     "color": "#66221160",
+     "w": 1.0
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "erase": "transparent",
+   "erase_box": [
+    0,
+    69,
+    142,
+    23
+   ],
+   "text": ""
+  },
+  {
+   "style": "azul",
+   "box": [
+    1,
+    70,
+    100,
+    21
+   ],
+   "text": "YOUR TEAM -",
+   "align": "right",
+   "cap": 12.5,
+   "tracking": 0.5
+  },
+  {
+   "style": "azul",
+   "box": [
+    102,
+    70,
+    40,
+    21
+   ],
+   "text": "ACTION",
+   "align": "center",
+   "cap": 12.5
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    0,
+    93,
+    142,
+    23
+   ],
+   "text": ""
+  },
+  {
+   "style": "ambar",
+   "box": [
+    1,
+    94,
+    100,
+    21
+   ],
+   "text": "RIVAL TEAM -",
+   "align": "right",
+   "cap": 12.5,
+   "tracking": 0.5
+  },
+  {
+   "style": "ambar",
+   "box": [
+    102,
+    94,
+    40,
+    21
+   ],
+   "text": "ACTION",
+   "align": "center",
+   "cap": 12.5
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    201,
+    21,
+    40,
+    23
+   ],
+   "text": ""
+  },
+  {
+   "style": "azul",
+   "box": [
+    202,
+    22,
+    38,
+    21
+   ],
+   "text": "ATTACK",
+   "align": "center",
+   "cap": 12.5
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    201,
+    45,
+    40,
+    23
+   ],
+   "text": ""
+  },
+  {
+   "style": "ambar",
+   "box": [
+    202,
+    46,
+    38,
+    21
+   ],
+   "text": "ATTACK",
+   "align": "center",
+   "cap": 12.5
+  }
+ ]
+}

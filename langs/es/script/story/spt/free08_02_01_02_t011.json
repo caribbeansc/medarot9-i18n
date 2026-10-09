@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/free08_02_01_02_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "187d6ff29116",
+   "t": "¿...Eh?"
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "d668a707c8a5",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1054,
+   "src": "11b697ecd721",
+   "t": "Hay un letrero."
+  },
+  {
+   "i": 1057,
+   "src": "43c1099b21c6",
+   "t": "Mira, justo aquí..."
+  }
+ ]
+}

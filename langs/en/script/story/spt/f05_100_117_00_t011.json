@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f05_100_117_00_t011.spt",
+ "lines": [
+  {
+   "i": 1029,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1040,
+   "src": "7a63638cd834",
+   "t": "All right, I'll hand back your tests now~."
+  },
+  {
+   "i": 1043,
+   "src": "a9eee239a7fc",
+   "t": "...{{shintaro}}-kun."
+  },
+  {
+   "i": 1050,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1059,
+   "src": "342c20413c8f",
+   "t": "Yes!"
+  }
+ ]
+}

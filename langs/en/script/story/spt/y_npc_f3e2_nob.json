@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f3e2_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "de26ecb1d409",
+   "t": "{{seiko}}"
+  },
+  {
+   "i": 1035,
+   "src": "87423d118fa9",
+   "t": "Sorry."
+  },
+  {
+   "i": 1038,
+   "src": "ab165971b801",
+   "t": "I'm kind of busy right now. Another\ntime."
+  }
+ ]
+}

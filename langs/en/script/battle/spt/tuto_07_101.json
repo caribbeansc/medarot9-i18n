@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_07_101.spt",
+ "lines": [
+  {
+   "i": 1186,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1192,
+   "src": "a7ab24d01466",
+   "t": "First, fill the {{charge_gauge}}\nup to 100%."
+  },
+  {
+   "i": 1200,
+   "src": "04b551043bbf",
+   "t": "Okay, charge it up, "
+  },
+  {
+   "i": 1202,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  }
+ ]
+}

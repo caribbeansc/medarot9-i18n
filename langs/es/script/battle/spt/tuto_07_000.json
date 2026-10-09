@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_07_000.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1123,
+   "src": "ba717d144e93",
+   "t": "<c:ff00ff>{{medachange}}<c>, o sea <c:ff00ff>transformarse<c>,\n<c:ff00ff>consume el 10%<c> de la <c:ff00ff>{{charge_gauge}}<c>."
+  },
+  {
+   "i": 1128,
+   "src": "d75305e1f03f",
+   "t": "Para empezar, llena la barra\nde carga al 100%.               "
+  },
+  {
+   "i": 1136,
+   "src": "b1726b608c21",
+   "t": "¡Bien, a cargar!      "
+  }
+ ]
+}

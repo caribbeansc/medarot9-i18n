@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_m_2a2_meda_130_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "57b0e6beef55",
+   "t": "Rollstar"
+  },
+  {
+   "i": 1038,
+   "src": "8301983886c2",
+   "t": "I might not like summer much."
+  },
+  {
+   "i": 1046,
+   "src": "8acfa5b901ae",
+   "t": "Because in summer the floor gets damp"
+  },
+  {
+   "i": 1049,
+   "src": "9a3957360c91",
+   "t": "and isn't smooth anymore."
+  }
+ ]
+}

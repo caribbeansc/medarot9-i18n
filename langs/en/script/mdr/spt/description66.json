@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description66.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1c8339b37ca8",
+   "t": "{{terrain|cap}} {{affinity|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "49a200f19fa4",
+   "t": "How well the movement mechanism of a <c:ffff00>{{medabot}}<c>'s\n<c:ffff00>leg<c> <c:ffff00>{{part}}<c> suits each <c:ffff00>{{field}}<c>.\n\n{{terrain_affinity|cap}} differs by <c:ffff00>{{leg_type}}<c>.\n\nOn a favorable {{terrain}}, the {{leg_part}}'s <c:ffff00>{{mobility}}<c>,\n<c:ffff00>{{fighting}}<c> and <c:ffff00>{{shooting}}<c> rise; on an unfavorable one,\nthey fall."
+  }
+ ]
+}

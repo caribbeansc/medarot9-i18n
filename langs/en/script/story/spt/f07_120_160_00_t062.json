@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f07_120_160_00_t062.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2ebc46fccac9",
+   "t": "{{akitora}}"
+  },
+  {
+   "i": 1038,
+   "src": "e880767c46d5",
+   "t": "Pardon me!!"
+  },
+  {
+   "i": 1048,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1054,
+   "src": "7dfc2af72946",
+   "t": "Welcome, welcome."
+  }
+ ]
+}

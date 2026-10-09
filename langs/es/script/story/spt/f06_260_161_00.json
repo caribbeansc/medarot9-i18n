@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/f06_260_161_00.spt",
+ "lines": [
+  {
+   "i": 1045,
+   "src": "3b9af88825d2",
+   "t": "¿Con quién deberíamos hablar?"
+  },
+  {
+   "i": 1049,
+   "src": "52570d03b7c2",
+   "t": "Pres. Consejo"
+  },
+  {
+   "i": 1050,
+   "src": "813c39d91c1f",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1051,
+   "src": "50490ede1021",
+   "t": "{{vice_principal|cap}}"
+  },
+  {
+   "i": 1055,
+   "src": "52570d03b7c2",
+   "t": "Pres. Consejo"
+  },
+  {
+   "i": 1064,
+   "src": "813c39d91c1f",
+   "t": "{{principal|cap}}"
+  }
+ ]
+}

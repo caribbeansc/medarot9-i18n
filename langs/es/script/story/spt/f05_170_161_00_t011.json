@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f05_170_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "b0b197f2fef8",
+   "t": "Qué rayos es esto... ¿Es un {{medabot}}?"
+  },
+  {
+   "i": 1004,
+   "src": "c7117abf3f95",
+   "t": "Nah, seguro es solo un robot común..."
+  },
+  {
+   "i": 1012,
+   "src": "9030362b5ba0",
+   "t": "Hasta hace poco esto no estaba, ¿no?"
+  },
+  {
+   "i": 1015,
+   "src": "60dbebd34a56",
+   "t": "Me pregunto si {{main}}-chan lo trajo..."
+  }
+ ]
+}

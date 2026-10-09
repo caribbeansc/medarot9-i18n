@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f05_080_154_00_t014.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1052,
+   "src": "564191cdaf3b",
+   "t": "You're late!"
+  },
+  {
+   "i": 1055,
+   "src": "f66b1007705c",
+   "t": "Hurry up and save me!"
+  },
+  {
+   "i": 1069,
+   "src": "13fb261d4283",
+   "t": "Well, even if you say that, um, uh,"
+  },
+  {
+   "i": 1077,
+   "src": "9c4304d252c1",
+   "t": "What were you doing?"
+  },
+  {
+   "i": 1089,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1098,
+   "src": "f2954b3a07d6",
+   "t": "Don't ask! How should I know!?"
+  },
+  {
+   "i": 1101,
+   "src": "f3bc6b513ca1",
+   "t": "By the time I noticed, it was like this!"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f11_110_000_00_t014.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1042,
+   "src": "02af760f2d17",
+   "t": "Uh."
+  },
+  {
+   "i": 1050,
+   "src": "49164a63e9ab",
+   "t": "¿Qué pasa?"
+  },
+  {
+   "i": 1055,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1061,
+   "src": "99a5d1f70dcd",
+   "t": "Es una llamada."
+  },
+  {
+   "i": 1068,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1077,
+   "src": "ec3349d272eb",
+   "t": "¿De quién?"
+  },
+  {
+   "i": 1084,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1093,
+   "src": "6e2683f98bb2",
+   "t": "De la presidenta del Consejo. Quiere"
+  },
+  {
+   "i": 1096,
+   "src": "03ebbfa29851",
+   "t": "hablar y nos pidió ir a verla."
+  },
+  {
+   "i": 1104,
+   "src": "e086f56fdcf4",
+   "t": "La {{student_council_room}}..."
+  },
+  {
+   "i": 1116,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1125,
+   "src": "92a624ca0783",
+   "t": "Ahora que lo pienso, seguramente"
+  },
+  {
+   "i": 1128,
+   "src": "12f663731826",
+   "t": "faltamos al festival deportivo, ¿verdad?"
+  },
+  {
+   "i": 1142,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1151,
+   "src": "bc7a57ddd507",
+   "t": "Seguro que será un sermón."
+  },
+  {
+   "i": 1154,
+   "src": "99e847004565",
+   "t": "Qué fastidio."
+  },
+  {
+   "i": 1161,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1167,
+   "src": "a702f404baa2",
+   "t": "Si sigues diciendo eso, solo se va a\nvolver más y más molesto."
+  },
+  {
+   "i": 1181,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1187,
+   "src": "6a33d4ddf66c",
+   "t": "Ya lo sé."
+  },
+  {
+   "i": 1190,
+   "src": "9ec101488dfd",
+   "t": "Ya voy."
+  }
+ ]
+}

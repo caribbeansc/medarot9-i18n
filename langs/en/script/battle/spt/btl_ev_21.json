@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/btl_ev_21.spt",
+ "lines": [
+  {
+   "i": 1121,
+   "src": "912ea188b90c",
+   "t": "!\n{{destroy|cap}} the traps first!"
+  },
+  {
+   "i": 1137,
+   "src": "8c4f8fdb6d84",
+   "t": "Why?"
+  },
+  {
+   "i": 1146,
+   "src": "8c4f8fdb6d84",
+   "t": "Why?"
+  },
+  {
+   "i": 1156,
+   "src": "320750513610",
+   "t": " please,please,do what i say!"
+  },
+  {
+   "i": 1172,
+   "src": "892cb6a50ecd",
+   "t": "Just this once!"
+  },
+  {
+   "i": 1181,
+   "src": "892cb6a50ecd",
+   "t": "Just this once!"
+  }
+ ]
+}

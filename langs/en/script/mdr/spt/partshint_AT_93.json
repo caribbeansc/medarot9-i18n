@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_93.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "741d86138fa0",
+   "t": "<c:00ff00>Action:<c> {{arm_change}}\nThe {{part}} you used\ntransforms into another\n{{part}}."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2a_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e373d0412f12",
+   "t": "{{madoka}}"
+  },
+  {
+   "i": 1038,
+   "src": "7f54332e3b98",
+   "t": "This is the {{club_building}}."
+  },
+  {
+   "i": 1041,
+   "src": "e651c1a40124",
+   "t": "It mostly houses the culture clubs'\nrooms."
+  }
+ ]
+}

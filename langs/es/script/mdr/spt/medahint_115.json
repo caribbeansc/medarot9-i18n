@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_115.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b85c4238dca8",
+   "t": "{{medabot}} {{type}} tortuga de\núltima generación,\nespecializado en apoyo.\n \nUna {{unit}} confiable que\nprotege a sus aliados con\n{{guard_boost}}, que\nmejora la {{defend}}, y\ndisparos láser de apoyo."
+  }
+ ]
+}

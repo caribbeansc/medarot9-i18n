@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f08_090_339_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9fdb222b5c11",
+   "t": "Lo que hay más adelante..."
+  },
+  {
+   "i": 1035,
+   "src": "408ae233854e",
+   "t": "¿Un acantilado?"
+  },
+  {
+   "i": 1054,
+   "src": "3c0149a6bdec",
+   "t": "Veo un {{river}} muy abajo, allá en el fondo."
+  },
+  {
+   "i": 1057,
+   "src": "19a17ab18be2",
+   "t": "Si te caes, te harás pedazos."
+  },
+  {
+   "i": 1065,
+   "src": "51432a482a59",
+   "t": "Ni hablar."
+  }
+ ]
+}

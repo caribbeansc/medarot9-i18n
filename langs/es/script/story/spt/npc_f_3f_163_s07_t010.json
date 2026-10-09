@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3f_163_s07_t010.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "b6687125c75b",
+   "t": "{{lauri}}"
+  },
+  {
+   "i": 1038,
+   "src": "4223d91e5747",
+   "t": "Sigue igual, ¿verdad? Pero ahora"
+  },
+  {
+   "i": 1041,
+   "src": "78e4a8cfe28c",
+   "t": "importa más el panorama general."
+  },
+  {
+   "i": 1049,
+   "src": "29a16215dce7",
+   "t": "Habrá que aguantar su actitud"
+  },
+  {
+   "i": 1052,
+   "src": "1065020d3b23",
+   "t": "para que el festival sea un éxito..."
+  }
+ ]
+}

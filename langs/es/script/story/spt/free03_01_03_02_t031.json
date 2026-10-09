@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/free03_01_03_02_t031.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "750bafc58bbc",
+   "t": "Oh."
+  },
+  {
+   "i": 1053,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1062,
+   "src": "0da5f14abd5f",
+   "t": "Qué linda vista..."
+  },
+  {
+   "i": 1080,
+   "src": "bdf017420547",
+   "t": "¡Bien!"
+  },
+  {
+   "i": 1083,
+   "src": "dc7e253ac173",
+   "t": "¡Por fin cruzamos la isla!"
+  },
+  {
+   "i": 1088,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1094,
+   "src": "aa1953d80b7e",
+   "t": "Sí."
+  },
+  {
+   "i": 1105,
+   "src": "14703104653c",
+   "t": "Eso llena otro hueco del mapa."
+  },
+  {
+   "i": 1108,
+   "src": "ee21dcded1f5",
+   "t": "Bueno, hora de volver."
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+Unofficial fan project. Not affiliated with, endorsed by, or connected to Imagineer, Rocket Company, Delta Arts or
+Nintendo. Medarot / Medabots and all related names and characters are trademarks of their respective owners.
+
+This repository contains no game: no ROM, no Japanese script. Language packs store a translation next to a one-way
+fingerprint of the line it replaces; binary patches store only the bytes the translation writes (copies point into
+the player's own file). The tools read the files from the player's own legally obtained, decrypted dump and cannot
+obtain the game.
+
+English text: the English language pack is based on the fan translation by Omnija & Sotaeko
+(https://github.com/Omnija/Medarot-9-3ds-Translations): their menu, battle and item texts are kept as they wrote
+them, with serious errors corrected; the rest was translated from the Japanese for this project. Thanks to them, and
+to roks70 (https://github.com/roks70/Medabots9-Translations), whose repository this project started from.
+
+Prior art and tools this project builds on, with thanks:
+- Azahar (https://azahar-emu.org) and Citra, for LayeredFS mod loading and the debugging that made the fixes
+  possible.
+- The 3DS file format documentation of 3dbrew (https://www.3dbrew.org): NCSD/NCCH/ExeFS/RomFS, CTPK, BCFNT, CGFX.
+- The Medabots wikis (medabots.fandom.com, wikiwiki.jp/medarotdb) for the official names.

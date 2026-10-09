@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description55.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e191c38101a5",
+   "t": "Charging Stance"
+  },
+  {
+   "i": 11,
+   "src": "254aeeed71b0",
+   "t": "A state of <c:ffff00>charging<c> for a set time without using\n<c:ffff00>{{part|pl}}<c>. The <c:ffff00>{{charge_gauge}}<c> rises little by little.\n\nThe <c:ffff00>{{acting_part}}<c> is the <c:ffff00>legs<c>. No other <c:ffff00>act<c> can be\nperformed and the Medabot becomes <c:ffff00>unable to<c>\n<c:ffff00>evade<c>.\n\nIf any {{part}} is <c:ffff00>destroyed<c>, charging is interrupted and\nthe next command is chosen right away."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_116.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f1fa0a940d2a",
+   "t": "<c:00ff00>Técnica:<c>Súper Reparación\nRecupera el {{damage}} de todas\nlas {{part|pl}} de un\n{{medabot}} {{ally_battle_term}}."
+  }
+ ]
+}

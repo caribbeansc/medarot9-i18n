@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f2f.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "20c7843a7345",
+   "t": "{{homura}}"
+  },
+  {
+   "i": 1665,
+   "src": "9a81820754da",
+   "t": "¡Claro que sí!"
+  },
+  {
+   "i": 1668,
+   "src": "f446dfe736e0",
+   "t": "¡Hagámoslo!"
+  }
+ ]
+}

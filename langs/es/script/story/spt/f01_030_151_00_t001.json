@@ -1,0 +1,175 @@
+{
+ "file": "story/spt/f01_030_151_00_t001.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "3ebca3176996",
+   "t": "¿Así que este va a ser mi cuarto?"
+  },
+  {
+   "i": 1065,
+   "src": "a9b2013b3008",
+   "t": "Qué cuarto tan pequeño."
+  },
+  {
+   "i": 1073,
+   "src": "e343118400ff",
+   "t": "Tal vez, pero está bastante bien~"
+  },
+  {
+   "i": 1076,
+   "src": "13dd17c101a0",
+   "t": "Como era de esperar de una élite-"
+  },
+  {
+   "i": 1087,
+   "src": "0dd766cf556c",
+   "t": "Pero espera..., "
+  },
+  {
+   "i": 1089,
+   "src": "7d9d809ecbf1",
+   "t": ".            "
+  },
+  {
+   "i": 1092,
+   "src": "3a35ff4c4a99",
+   "t": "¿Tú qué sabes de tamaños de cuartos?"
+  },
+  {
+   "i": 1103,
+   "src": "ffde5173e2b9",
+   "t": "Si te acaban de activar."
+  },
+  {
+   "i": 1122,
+   "src": "d0789b39fc09",
+   "t": "Claro que sé."
+  },
+  {
+   "i": 1125,
+   "src": "60b758a60041",
+   "t": "El cuarto de antes era más grande."
+  },
+  {
+   "i": 1133,
+   "src": "03e2c0431801",
+   "t": "¡Claro que lo era!"
+  },
+  {
+   "i": 1136,
+   "src": "7d8c3a6879d8",
+   "t": "Era la {{principal_s_office}}, ¿no?"
+  },
+  {
+   "i": 1155,
+   "src": "a2a05d7bd78b",
+   "t": "Oficina del director."
+  },
+  {
+   "i": 1158,
+   "src": "b8b63025d128",
+   "t": "¿Qué es eso?"
+  },
+  {
+   "i": 1166,
+   "src": "c61a38127744",
+   "t": "La {{principal_s_office}} es...~"
+  },
+  {
+   "i": 1181,
+   "src": "169238eadd5e",
+   "t": "...Uf."
+  },
+  {
+   "i": 1189,
+   "src": "6662718d8357",
+   "t": "Pasaron tantas cosas de golpe"
+  },
+  {
+   "i": 1192,
+   "src": "6f5ebe0820e3",
+   "t": "que ahora estoy hecho un lío."
+  },
+  {
+   "i": 1200,
+   "src": "ca777af577c6",
+   "t": "De pronto aprobé, corrí a transferirme,"
+  },
+  {
+   "i": 1203,
+   "src": "e50d4150be6d",
+   "t": "y luego otra vez-"
+  },
+  {
+   "i": 1227,
+   "src": "77af09e9b555",
+   "t": "¿Qué pasa? ¿Te duele algo?"
+  },
+  {
+   "i": 1230,
+   "src": "6e1062f8a31f",
+   "t": "¿Te golpeaste?"
+  },
+  {
+   "i": 1236,
+   "src": "1fd8e213d3cf",
+   "t": "¿Qué pasa? ¿Te lastimaste?"
+  },
+  {
+   "i": 1239,
+   "src": "6061622d826e",
+   "t": "¿Te averiaste?"
+  },
+  {
+   "i": 1248,
+   "src": "cc02e30fe3db",
+   "t": "No es nada."
+  },
+  {
+   "i": 1256,
+   "src": "a173cf072b88",
+   "t": "¡Da igual!"
+  },
+  {
+   "i": 1259,
+   "src": "58725347b0b0",
+   "t": "No sirve de nada pensarlo tanto ahora."
+  },
+  {
+   "i": 1274,
+   "src": "6edbe0b129f5",
+   "t": "Entré a la {{academy|cap}} MEDA, mi sueño."
+  },
+  {
+   "i": 1277,
+   "src": "49c09e571775",
+   "t": "Debo esforzarme... ¡Bien!"
+  },
+  {
+   "i": 1285,
+   "src": "4f85c7993ea2",
+   "t": "¡Vamos al {{classroom}}, "
+  },
+  {
+   "i": 1287,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1306,
+   "src": "6d174ca82ce6",
+   "t": "¿El aula?"
+  },
+  {
+   "i": 1314,
+   "src": "0cb3a246a292",
+   "t": "¡Lo entenderás cuando llegues!"
+  },
+  {
+   "i": 1317,
+   "src": "8fab9fdc6a3e",
+   "t": "¡Vamos!"
+  }
+ ]
+}

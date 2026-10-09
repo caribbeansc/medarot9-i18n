@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description70.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bc50f825fc84",
+   "t": "{{sand}} ({{field|cap}})"
+  },
+  {
+   "i": 11,
+   "src": "870bc75f6873",
+   "t": "A type of <c:ffff00>{{field}}<c> where a <c:ffff00>{{robattle}}<c> is held.\n{{terrain|cap}} covered in sand and gravel, with unstable\nfooting.\n<c:ffff00>{{terrain_affinity|cap}}<c> changes the <c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> and\n<c:ffff00>{{shooting}}<c> of each <c:ffff00>{{leg_type}}<c>:\n  <c:ffff00>{{biped|cap}}<c> -6, <c:ffff00>{{multi_leg}}<c> 0, <c:ffff00>{{vehicle}}<c> -4, <c:ffff00>{{tank}}<c> 0,\n  <c:ffff00>{{hover}}<c> +4, <c:ffff00>{{flying}}<c> +6, <c:ffff00>{{submarine}}<c> -4."
+  }
+ ]
+}

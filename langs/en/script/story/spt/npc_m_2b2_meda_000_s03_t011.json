@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2b2_meda_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d0f3e43d8d58",
+   "t": "{{ours_blanc}}"
+  },
+  {
+   "i": 1035,
+   "src": "c4b8ee6d3efd",
+   "t": "Yeah, leave it to me!"
+  },
+  {
+   "i": 1038,
+   "src": "fb7a61572dca",
+   "t": "I won't give you guys time to charge!"
+  }
+ ]
+}

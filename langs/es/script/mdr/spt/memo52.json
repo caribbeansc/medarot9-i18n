@@ -1,0 +1,35 @@
+{
+ "file": "mdr/spt/memo52.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "c09742232081",
+   "t": "\"Explorar: {{entrance|cap}} de {{mine_shaft}}\"\n"
+  },
+  {
+   "i": 32,
+   "src": "29dcbb202303",
+   "t": "Investiguemos la {{entrance}} este de la {{medalia_mine}}.\nSe podrá bajar desde algún punto del sendero.\n"
+  },
+  {
+   "i": 42,
+   "src": "1748cf39a123",
+   "t": "Al parecer hay escalones de piedra junto al sendero.\n"
+  },
+  {
+   "i": 52,
+   "src": "83927206a7ed",
+   "t": "Bajamos escalones ruinosos y cruzamos la hierba...\n"
+  },
+  {
+   "i": 62,
+   "src": "4ff67f1165c1",
+   "t": "Llegamos a la {{entrance}}, pero parece que no abre.\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 72,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

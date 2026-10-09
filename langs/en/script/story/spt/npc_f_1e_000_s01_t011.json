@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_f_1e_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1035,
+   "src": "03b3b42522de",
+   "t": "Hey, hey, Senpai. Is it true that years\nago"
+  },
+  {
+   "i": 1038,
+   "src": "485add26504a",
+   "t": "there was a big accident on this island?"
+  },
+  {
+   "i": 1045,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1051,
+   "src": "bdf5aeeb237b",
+   "t": "Seems so... and they say"
+  },
+  {
+   "i": 1054,
+   "src": "7598d1e91ece",
+   "t": "a lot of people died. The rumor is that"
+  },
+  {
+   "i": 1062,
+   "src": "70fe2b636f19",
+   "t": "if you go into the dorm bath alone at\nmidnight,"
+  },
+  {
+   "i": 1065,
+   "src": "16281bb872b7",
+   "t": "you hear groaning even though no one's\nthere--"
+  },
+  {
+   "i": 1072,
+   "src": "f17ca7bda199",
+   "t": "{{nene}}"
+  },
+  {
+   "i": 1078,
+   "src": "4ec7827eb805",
+   "t": "Nooo!"
+  },
+  {
+   "i": 1081,
+   "src": "5f4015c1eb4e",
+   "t": "Please stop saying stuff like that,\nSenpaaai!"
+  }
+ ]
+}

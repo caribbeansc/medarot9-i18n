@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2e_meda_165_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e5d5c2111d8c",
+   "t": "{{banisher}}"
+  },
+  {
+   "i": 1038,
+   "src": "f03e839827a1",
+   "t": "It's nice out, so I want to do field\ntraining."
+  },
+  {
+   "i": 1041,
+   "src": "6edd7adfe26b",
+   "t": "Well, the weather's always nice here,\nthough."
+  }
+ ]
+}

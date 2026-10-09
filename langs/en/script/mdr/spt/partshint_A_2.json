@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_2.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "006ff5d41654",
+   "t": "<c:00ff00>{{mf}}:<c> Stealth Attack\nWhile prepping, evades\nevery attack and strikes at\nthe same time.\n<c:00ffff>{{required_parts}}<c> One or\nmore attack {{part|pl}}"
+  }
+ ]
+}

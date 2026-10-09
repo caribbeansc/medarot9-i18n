@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f02_120_210_20_t003.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "e59d2a426b1e",
+   "t": "She fell!"
+  },
+  {
+   "i": 1054,
+   "src": "32a146ff75af",
+   "t": "She fell!"
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1068,
+   "src": "c6f28c20652a",
+   "t": "The floor must have gotten brittle."
+  },
+  {
+   "i": 1071,
+   "src": "61f3b9638d5c",
+   "t": "It's an old building, after all."
+  },
+  {
+   "i": 1079,
+   "src": "1a385ca0d206",
+   "t": "Hey!"
+  },
+  {
+   "i": 1097,
+   "src": "7dab38cef8ff",
+   "t": "No answer..."
+  },
+  {
+   "i": 1102,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1108,
+   "src": "be124d3611da",
+   "t": "Hmm, it's too dark to see well."
+  },
+  {
+   "i": 1120,
+   "src": "c293d1f8d588",
+   "t": "-chan, please."
+  },
+  {
+   "i": 1136,
+   "src": "db0ef275c62b",
+   "t": "Leave it to me."
+  }
+ ]
+}

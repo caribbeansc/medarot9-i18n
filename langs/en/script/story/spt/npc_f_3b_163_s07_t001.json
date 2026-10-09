@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3b_163_s07_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1038,
+   "src": "92096b5c8590",
+   "t": "Ah~, that {{lauri}},"
+  },
+  {
+   "i": 1041,
+   "src": "68e78bc87825",
+   "t": "she's really agonizing over it~."
+  },
+  {
+   "i": 1049,
+   "src": "78b23526daa0",
+   "t": "Well, no wonder... opinions are split\nright down the middle."
+  },
+  {
+   "i": 1052,
+   "src": "f612e64ce20d",
+   "t": "Being {{club_president}} is really tough~."
+  }
+ ]
+}

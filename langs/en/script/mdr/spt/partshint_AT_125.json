@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_125.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3550fb1e3572",
+   "t": "<c:00ff00>Action:<c> {{charge_repair}}\nRecovers {{damage}} on one\n{{part}} of one allied\n{{medabot}}. Adds the\nCharge\nGauge % to the amount\nrecovered."
+  }
+ ]
+}

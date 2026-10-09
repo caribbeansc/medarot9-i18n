@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_73.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b5468aa11afe",
+   "t": "<c:00ff00>Leg Trait:<c> {{adversity}}\nFor every {{negative_status}},\n{{mobility}}, {{shooting}} and\n{{fighting}} {{stats}} +5."
+  }
+ ]
+}

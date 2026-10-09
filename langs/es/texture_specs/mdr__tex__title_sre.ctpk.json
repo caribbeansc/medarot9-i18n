@@ -1,0 +1,306 @@
+{
+ "rel": "mdr/tex/title_sre.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    65,
+    41,
+    46,
+    14
+   ],
+   "erase_box": [
+    64,
+    40,
+    48,
+    16
+   ],
+   "font": "impact",
+   "cap": 8.5,
+   "italic_skew": 0.22,
+   "baseline": 52.3,
+   "tracking": 0.3,
+   "crisp": 0,
+   "fill": {
+    "stops": [
+     [
+      0,
+      "#F7F09A"
+     ],
+     [
+      0.4,
+      "#F9E55E"
+     ],
+     [
+      0.6,
+      "#F2B21C"
+     ],
+     [
+      1,
+      "#E49A0C"
+     ]
+    ]
+   },
+   "strokes": [
+    {
+     "color": "#613700",
+     "w": 1.1
+    }
+   ],
+   "text": "Especial"
+  },
+  {
+   "segments": [
+    [
+     16,
+     0,
+     88,
+     24,
+     0,
+     0
+    ],
+    [
+     120,
+     0,
+     8,
+     16,
+     88,
+     8
+    ]
+   ],
+   "box": [
+    5,
+    0,
+    91,
+    24
+   ],
+   "sample_box": [
+    16,
+    0,
+    88,
+    24
+   ],
+   "font": "sf-cond",
+   "cap": 10,
+   "baseline": 20,
+   "fill": "auto",
+   "stroke": null,
+   "align": "left",
+   "crisp": 0.3,
+   "text": "Lista de StreetPass"
+  },
+  {
+   "segments": [
+    [
+     64,
+     56,
+     48,
+     8,
+     0,
+     0
+    ],
+    [
+     112,
+     32,
+     16,
+     8,
+     48,
+     0
+    ]
+   ],
+   "box": [
+    1,
+    0,
+    62,
+    8
+   ],
+   "sample_box": [
+    64,
+    56,
+    48,
+    8
+   ],
+   "font": "sf-cond-heavy",
+   "cap": 6.5,
+   "baseline": 7,
+   "fill": "auto",
+   "stroke": null,
+   "align": "left",
+   "crisp": 0.4,
+   "text": "Fecha de cruce"
+  },
+  {
+   "box": [
+    104,
+    2,
+    16,
+    12
+   ],
+   "erase_box": [
+    104,
+    0,
+    16,
+    16
+   ],
+   "sample_box": [
+    104,
+    0,
+    16,
+    16
+   ],
+   "font": "din",
+   "cap": 7.5,
+   "baseline": 10.5,
+   "fill": "auto",
+   "stroke": null,
+   "crisp": 0.4,
+   "text": "pers."
+  },
+  {
+   "box": [
+    17,
+    25,
+    86,
+    13
+   ],
+   "erase_box": [
+    15,
+    24,
+    89,
+    16
+   ],
+   "sample_box": [
+    17,
+    24,
+    87,
+    16
+   ],
+   "font": "sf-rounded",
+   "cap": 9,
+   "baseline": 36,
+   "fill": "auto",
+   "stroke": "auto",
+   "stroke_w": 1.2,
+   "align": "left",
+   "crisp": 0.4,
+   "text": "Borrar datos"
+  },
+  {
+   "erase_box": [
+    0,
+    40,
+    64,
+    8
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    112,
+    40,
+    16,
+    8
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    49,
+    48,
+    14
+   ],
+   "erase_box": [
+    0,
+    48,
+    48,
+    16
+   ],
+   "sample_box": [
+    0,
+    48,
+    48,
+    16
+   ],
+   "font": "sf-rounded-heavy",
+   "cap": 8.5,
+   "baseline": 59.5,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D4D4D4"
+   },
+   "stroke": "#000000DD",
+   "stroke_w": 1.0,
+   "crisp": 0.2,
+   "text": "Historial"
+  },
+  {
+   "box": [
+    49,
+    49,
+    14,
+    14
+   ],
+   "erase_box": [
+    49,
+    48,
+    15,
+    16
+   ],
+   "sample_box": [
+    49,
+    48,
+    15,
+    16
+   ],
+   "font": "din",
+   "cap": 7,
+   "baseline": 59.5,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D4D4D4"
+   },
+   "stroke": "#000000DD",
+   "stroke_w": 1.0,
+   "crisp": 0.2,
+   "text": "Part."
+  },
+  {
+   "box": [
+    112,
+    49,
+    16,
+    14
+   ],
+   "erase_box": [
+    112,
+    48,
+    16,
+    16
+   ],
+   "sample_box": [
+    112,
+    48,
+    16,
+    16
+   ],
+   "font": "din",
+   "cap": 7,
+   "baseline": 59.5,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D4D4D4"
+   },
+   "stroke": "#000000DD",
+   "stroke_w": 1.0,
+   "crisp": 0.2,
+   "text": "Vic."
+  }
+ ]
+}

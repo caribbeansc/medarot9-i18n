@@ -1,0 +1,95 @@
+{
+ "file": "story/spt/f05_160_150_10_t011.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "e3e9848937c8",
+   "t": "Hmm..."
+  },
+  {
+   "i": 1009,
+   "src": "d7897567902b",
+   "t": "To get to the warehouse,"
+  },
+  {
+   "i": 1013,
+   "src": "c0de24bbf3b8",
+   "t": "."
+  },
+  {
+   "i": 1021,
+   "src": "50c4bc76c7a7",
+   "t": "First, if "
+  },
+  {
+   "i": 1023,
+   "src": "75eed1071935",
+   "t": "--"
+  },
+  {
+   "i": 1031,
+   "src": "998a088b6ed8",
+   "t": "Wait, if "
+  },
+  {
+   "i": 1033,
+   "src": "ac36de029b51",
+   "t": " is found,"
+  },
+  {
+   "i": 1036,
+   "src": "5ba02efc9ec2",
+   "t": "So no need to go to the warehouse?"
+  },
+  {
+   "i": 1044,
+   "src": "e111d5c25341",
+   "t": "B-but still,"
+  },
+  {
+   "i": 1047,
+   "src": "1d9c13d3b950",
+   "t": "what if "
+  },
+  {
+   "i": 1049,
+   "src": "c4ee79f9d079",
+   "t": " is in the warehouse...?"
+  },
+  {
+   "i": 1057,
+   "src": "79810665350c",
+   "t": "Let's see?"
+  },
+  {
+   "i": 1060,
+   "src": "8241096458b9",
+   "t": "So that means...?"
+  },
+  {
+   "i": 1078,
+   "src": "464ee4b751f1",
+   "t": "Whatever the case, we can't go on like\nthis."
+  },
+  {
+   "i": 1082,
+   "src": "a7047b6db771",
+   "t": ", or--"
+  },
+  {
+   "i": 1090,
+   "src": "129fdc12ea86",
+   "t": "Or else, instead of "
+  },
+  {
+   "i": 1092,
+   "src": "48dea1419d14",
+   "t": ", let's"
+  },
+  {
+   "i": 1095,
+   "src": "db2e00b391d3",
+   "t": "find a {{medabot}} who'll fight for us."
+  }
+ ]
+}

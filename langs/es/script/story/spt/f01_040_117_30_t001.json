@@ -1,0 +1,90 @@
+{
+ "file": "story/spt/f01_040_117_30_t001.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "5081eec42a79",
+   "t": "*Murmullos*..."
+  },
+  {
+   "i": 1138,
+   "src": "27da6d98251b",
+   "t": "{{ichiru}}"
+  },
+  {
+   "i": 1149,
+   "src": "602989d025a4",
+   "t": "No puede ser..."
+  },
+  {
+   "i": 1156,
+   "src": "76f19e978d2a",
+   "t": "{{junpei}}"
+  },
+  {
+   "i": 1165,
+   "src": "d941f85ed460",
+   "t": "¿De verdad ganó peleando de esa\nforma...?"
+  },
+  {
+   "i": 1172,
+   "src": "c5fb01c2d1cf",
+   "t": "{{aya}}"
+  },
+  {
+   "i": 1181,
+   "src": "953510b3a44a",
+   "t": "Es fuerte, sin duda."
+  },
+  {
+   "i": 1184,
+   "src": "32090b432888",
+   "t": "Pero, no sé, algo no me cuadra~"
+  },
+  {
+   "i": 1198,
+   "src": "cf78bd892f21",
+   "t": "¡Oye, "
+  },
+  {
+   "i": 1200,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1203,
+   "src": "ab9ec40417af",
+   "t": "¡¿Por qué no haces caso a tu {{master}}?!"
+  },
+  {
+   "i": 1230,
+   "src": "3d80bd6596fa",
+   "t": "¿Acaso tengo que hacerte caso?"
+  },
+  {
+   "i": 1233,
+   "src": "8c4f8fdb6d84",
+   "t": "¿Por qué?"
+  },
+  {
+   "i": 1239,
+   "src": "cd6bb83c6de5",
+   "t": "¿Acaso debo hacerte caso a ti?"
+  },
+  {
+   "i": 1242,
+   "src": "8c4f8fdb6d84",
+   "t": "¿Por qué?"
+  },
+  {
+   "i": 1250,
+   "src": "e7f3ec3d8e5b",
+   "t": "{{shintaro}}"
+  },
+  {
+   "i": 1256,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

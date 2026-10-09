@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_18.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "3f0aeed89ebc",
+   "t": "<c:00ff00>Técnica:<c>Sello {{defend|cap}}\nAtaque de {{shooting}} que\naplica el {{status}} sello de\n{{defend}}.\n<c:00ffff>{{status|cap}}:<c>sello {{defend}}\nImpide la {{defend}} sin\nimportar el {{condition}} de las\n{{part|pl}}."
+  }
+ ]
+}

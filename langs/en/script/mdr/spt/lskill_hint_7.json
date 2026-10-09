@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_7.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b72abf612b1b",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>Vitality Field\nHealing action recovery on {{part|pl}}\nincreased to 150%"
+  }
+ ]
+}

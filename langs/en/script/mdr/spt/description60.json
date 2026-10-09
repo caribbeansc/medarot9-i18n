@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description60.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e0bc7cbc794f",
+   "t": "{{medachange}} Form"
+  },
+  {
+   "i": 11,
+   "src": "abb04ddf8e00",
+   "t": "The state of a <c:ffff00>{{medabot}}<c> after <c:ffff00>{{medachange}}<c>. Its <c:ffff00>{{stats}}<c>,\n<c:ffff00>Leg Type<c> and <c:ffff00>Leg Trait<c> change, and instead of its\n<c:ffff00>{{part|pl}}<c>' <c:ffff00>actions<c> it can use a unique action, <c:ffff00>Drive<c>. The\n<c:ffff00>{{armor}}<c> of the 4 {{part|pl}} merges into one, and the\n<c:ffff00>{{response}}<c> to an <c:ffff00>attack<c> is <c:ffff00>{{defend}}<c> or <c:ffff00>{{evade}}<c>. <c:ffff00>{{revert}}<c>\nbecomes usable, but not <c:ffff00>{{medaforce}}<c>. Each <c:ffff00>act<c> uses\n10% of the {{charge_gauge}}, and <c:ffff00>charging<c> doesn't\nraise it; below 10%, it is forcibly reverted."
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "file": "story/spt/f04_030_115_00_t031.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1047,
+   "src": "a670749c592b",
+   "t": "Oye"
+  },
+  {
+   "i": 1050,
+   "src": "d9140b7d159c",
+   "t": "Tengo una pregunta rápida para ti."
+  },
+  {
+   "i": 1064,
+   "src": "0088446def05",
+   "t": "¿Qué, qué sucede?"
+  },
+  {
+   "i": 1072,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1081,
+   "src": "7fa08e8ca34d",
+   "t": "¿Este {{medabot}} es tu {{partner}}?"
+  },
+  {
+   "i": 1093,
+   "src": "e365cdceaa74",
+   "t": "?"
+  },
+  {
+   "i": 1096,
+   "src": "4238bc80ad63",
+   "t": "Sí, así es."
+  },
+  {
+   "i": 1104,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1113,
+   "src": "82d05dd4f59e",
+   "t": "¿Cuánto llevan juntos ustedes dos?"
+  },
+  {
+   "i": 1124,
+   "src": "5a84c1663645",
+   "t": "Apenas hace poco."
+  },
+  {
+   "i": 1127,
+   "src": "20b505a2f762",
+   "t": "Nos conocimos en esta {{academy}}..."
+  },
+  {
+   "i": 1132,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1141,
+   "src": "150cfc4666a0",
+   "t": "¿Qué pasó con tu"
+  },
+  {
+   "i": 1144,
+   "src": "9e1e0783ddfe",
+   "t": "compañero de antes?"
+  },
+  {
+   "i": 1164,
+   "src": "479ddddfcb03",
+   "t": "B-bueno, ya sabes, pasaron cosas"
+  },
+  {
+   "i": 1167,
+   "src": "c8b83e19dd9b",
+   "t": "y decidimos disolver el equipo..."
+  },
+  {
+   "i": 1172,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1181,
+   "src": "fe0defe933d5",
+   "t": "Entonces"
+  },
+  {
+   "i": 1184,
+   "src": "c5d988561a4e",
+   "t": "¿no se han visto desde entonces?"
+  },
+  {
+   "i": 1195,
+   "src": "be8f55742378",
+   "t": "Así es."
+  },
+  {
+   "i": 1200,
+   "src": "8e9ad391ccf6",
+   "t": "{{saika}}"
+  },
+  {
+   "i": 1209,
+   "src": "501c7d701421",
+   "t": "Uf, espera, me estoy confundiendo."
+  },
+  {
+   "i": 1212,
+   "src": "1faf470c7766",
+   "t": "Entonces tú y el {{medabot}} anterior..."
+  }
+ ]
+}

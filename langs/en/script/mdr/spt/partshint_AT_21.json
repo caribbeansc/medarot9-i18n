@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_21.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "303703c8a62b",
+   "t": "<c:00ff00>Action:<c> {{freeze_shot}}\nA ranged attack that\napplies {{freeze}}.\n<c:00ffff>{{status|cap}}:<c> {{freeze}}\nPauses the action for a\nwhile; cannot evade or\ndefend. Released when\nattacked."
+  }
+ ]
+}

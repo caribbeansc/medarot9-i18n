@@ -1,0 +1,51 @@
+{
+ "rel": "mdr/tex/enc.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf-black-italic",
+  "italic_skew": 0.08,
+  "fill": "#FF9900",
+  "stroke": null,
+  "pad": 0,
+  "cap": 23,
+  "crisp": 0.6,
+  "min_scale_x": 0.8
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    393,
+    196,
+    60
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    0,
+    389,
+    194,
+    40
+   ],
+   "erase": "none",
+   "text": "Listo para la",
+   "align": "left",
+   "baseline": 419,
+   "dx": 1
+  },
+  {
+   "box": [
+    11,
+    424,
+    176,
+    30
+   ],
+   "erase": "none",
+   "text": "robobatalla",
+   "align": "left",
+   "baseline": 450
+  }
+ ]
+}

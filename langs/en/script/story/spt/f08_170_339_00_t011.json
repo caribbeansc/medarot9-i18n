@@ -1,0 +1,115 @@
+{
+ "file": "story/spt/f08_170_339_00_t011.spt",
+ "lines": [
+  {
+   "i": 1050,
+   "src": "be26549908ec",
+   "t": "My fault?"
+  },
+  {
+   "i": 1053,
+   "src": "8c4f8fdb6d84",
+   "t": "Why?"
+  },
+  {
+   "i": 1084,
+   "src": "7ff103953de2",
+   "t": "You fell because you went jumping\naround recklessly."
+  },
+  {
+   "i": 1087,
+   "src": "4c677123a61a",
+   "t": "It's your fault."
+  },
+  {
+   "i": 1093,
+   "src": "9271c6f378c1",
+   "t": "You fell because you went jumping\naround recklessly."
+  },
+  {
+   "i": 1096,
+   "src": "5c65297c6cb6",
+   "t": "It's your fault!"
+  },
+  {
+   "i": 1107,
+   "src": "6360f2277402",
+   "t": "What did you say?!"
+  },
+  {
+   "i": 1110,
+   "src": "41017dfea6a1",
+   "t": "You're the one who acted on your own!"
+  },
+  {
+   "i": 1125,
+   "src": "cf02e71f259a",
+   "t": "Why don't you ever"
+  },
+  {
+   "i": 1128,
+   "src": "ee773620f458",
+   "t": "listen to what your {{master}} says?!"
+  },
+  {
+   "i": 1147,
+   "src": "3545c952bcc1",
+   "t": "Ever?"
+  },
+  {
+   "i": 1168,
+   "src": "d6625cf3e0d5",
+   "t": "It's not like we're in a {{robattle}},"
+  },
+  {
+   "i": 1171,
+   "src": "c4321b15b51b",
+   "t": "so why do I have to listen to you?"
+  },
+  {
+   "i": 1177,
+   "src": "d6625cf3e0d5",
+   "t": "It's not like we're in a {{robattle}}."
+  },
+  {
+   "i": 1180,
+   "src": "380dca38534b",
+   "t": "Why must I listen to you?"
+  },
+  {
+   "i": 1202,
+   "src": "8036381eb606",
+   "t": "Do I always have to tag along"
+  },
+  {
+   "i": 1205,
+   "src": "1a5fbbe348b4",
+   "t": "right behind you?"
+  },
+  {
+   "i": 1211,
+   "src": "218674d6a7a1",
+   "t": "Must this one always tag along"
+  },
+  {
+   "i": 1214,
+   "src": "1a5fbbe348b4",
+   "t": "right behind you?"
+  },
+  {
+   "i": 1223,
+   "src": "dbc5ea25e4c6",
+   "t": "~~~Grr!"
+  },
+  {
+   "i": 1238,
+   "src": "865a5220c18b",
+   "t": "Argh, fine, whatever!"
+  },
+  {
+   "i": 1241,
+   "src": "1926df9beafd",
+   "t": "Then do whatever you want!"
+  }
+ ]
+}

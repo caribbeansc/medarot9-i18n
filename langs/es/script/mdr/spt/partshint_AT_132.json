@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_132.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fbea72d11553",
+   "t": "<c:00ff00>Técnica:<c>{{guard}} Gravedad\nAdopta una postura de\nguardia que intercepta\nataques a aliados.\nAl interceptar, anula el\n{{damage}} si es prensa,\nquiebre o martillo de\nquiebre."
+  }
+ ]
+}

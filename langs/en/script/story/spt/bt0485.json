@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/bt0485.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "9d002433b612",
+   "t": "{{mr_izumo}}"
+  },
+  {
+   "i": 872,
+   "src": "75ce676badfe",
+   "t": "A {{robattle}}, huh..."
+  },
+  {
+   "i": 875,
+   "src": "901d98e40127",
+   "t": "All right, let's see what you've got."
+  }
+ ]
+}

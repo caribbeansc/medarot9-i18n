@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_A_51.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "ad9e5a7745c5",
+   "t": "<c:00ff00>{{mf}}:<c> Brave\nTakes the hit for allies and\ndodges by a hair's\nbreadth.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ]
+}

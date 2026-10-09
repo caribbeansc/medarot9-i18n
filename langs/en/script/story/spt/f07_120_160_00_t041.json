@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f07_120_160_00_t041.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1045,
+   "src": "3ac536f6d45b",
+   "t": "What!"
+  },
+  {
+   "i": 1056,
+   "src": "b118c314ccbd",
+   "t": "You can tell where {{medalia|pl}} are?"
+  },
+  {
+   "i": 1059,
+   "src": "db2a5c302574",
+   "t": "Seriously!?"
+  },
+  {
+   "i": 1073,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1079,
+   "src": "25769eeb717e",
+   "t": "Dead serious. Search the whole"
+  },
+  {
+   "i": 1082,
+   "src": "dd3c9e3ba77f",
+   "t": "island and you can find tons of them."
+  },
+  {
+   "i": 1089,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1095,
+   "src": "4980caae9364",
+   "t": "That's incredible!!"
+  },
+  {
+   "i": 1098,
+   "src": "65c5596fb6f4",
+   "t": "So how do I get it working!?"
+  },
+  {
+   "i": 1105,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1111,
+   "src": "3de7beec16c4",
+   "t": "This password--"
+  }
+ ]
+}

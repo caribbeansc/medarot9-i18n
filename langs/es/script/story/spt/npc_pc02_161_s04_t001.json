@@ -1,0 +1,130 @@
+{
+ "file": "story/spt/npc_pc02_161_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "4d60e33d6fe8",
+   "t": "Oye, {{mio}}. Hay torneo."
+  },
+  {
+   "i": 1038,
+   "src": "5b10e894d5c9",
+   "t": "¡Qué ganas le tengo!"
+  },
+  {
+   "i": 1048,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1054,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1065,
+   "src": "a670749c592b",
+   "t": "Oye"
+  },
+  {
+   "i": 1068,
+   "src": "1102129d6b12",
+   "t": "Tengo una pregunta..."
+  },
+  {
+   "i": 1079,
+   "src": "504e8bc66809",
+   "t": "¿Qué-qué?"
+  },
+  {
+   "i": 1084,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1093,
+   "src": "04a14375e99c",
+   "t": "¿El torneo es en formato de equipos\nde tres personas?"
+  },
+  {
+   "i": 1104,
+   "src": "d9cb664f7379",
+   "t": "B-bueno, supongo que sí..."
+  },
+  {
+   "i": 1112,
+   "src": "4734c285b58f",
+   "t": "Pero solo para ese combate. Si"
+  },
+  {
+   "i": 1115,
+   "src": "f6a5edf4825f",
+   "t": "ganas, podrás elegir tu equipo de nuevo."
+  },
+  {
+   "i": 1120,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1129,
+   "src": "39eb530f04e8",
+   "t": "Si ganas--"
+  },
+  {
+   "i": 1132,
+   "src": "0b36ddd2d5a8",
+   "t": "Sí, el torneo es por eliminación."
+  },
+  {
+   "i": 1143,
+   "src": "4a0bc80dff15",
+   "t": "Probablemente. Los torneos"
+  },
+  {
+   "i": 1146,
+   "src": "952b8b5bbe44",
+   "t": "oficiales de {{robattle|pl}} suelen ser así."
+  },
+  {
+   "i": 1151,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1160,
+   "src": "c57f22fd8399",
+   "t": "Un torneo oficial de {{robattle|pl}}...\nvaya, interesante."
+  },
+  {
+   "i": 1171,
+   "src": "9677a2192774",
+   "t": "{{mio}}, ¿acaso no has participado en un"
+  },
+  {
+   "i": 1174,
+   "src": "6c3a4bf5e98f",
+   "t": "torneo oficial de {{robattle|pl}} antes?"
+  },
+  {
+   "i": 1179,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1188,
+   "src": "3f9d6ed01ac1",
+   "t": "¿Y eso qué?"
+  },
+  {
+   "i": 1199,
+   "src": "e5ef07d6dfd8",
+   "t": "N-no."
+  },
+  {
+   "i": 1202,
+   "src": "fff802a63977",
+   "t": "Por nada."
+  }
+ ]
+}

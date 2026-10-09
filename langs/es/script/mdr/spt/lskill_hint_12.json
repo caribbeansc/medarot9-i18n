@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_12.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "1546f50441ca",
+   "t": "<c:00ff00>{{effect|cap}} de {{leader|cap}}:<c> {{quick_change}}\nElimina la espera de la {{trans_part}}\n"
+  }
+ ]
+}

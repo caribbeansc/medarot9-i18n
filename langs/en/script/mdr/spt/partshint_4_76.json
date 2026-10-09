@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_76.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b8b624de9fea",
+   "t": "<c:00ff00>Leg Trait:<c> {{auto_guard}}\nIf you have Blast {{guard}},\n{{optical_guard}} or\n{{gravity_guard}} equipped,\neach is nullified\nautomatically."
+  }
+ ]
+}

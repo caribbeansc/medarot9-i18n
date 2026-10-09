@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2f_meda_320_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f5489d59cc8e",
+   "t": "{{la_pucelle}}"
+  },
+  {
+   "i": 1038,
+   "src": "55b30d164498",
+   "t": "Where are we going today?"
+  },
+  {
+   "i": 1041,
+   "src": "a194a41ac7b2",
+   "t": "I wonder if this setup will be okay."
+  }
+ ]
+}

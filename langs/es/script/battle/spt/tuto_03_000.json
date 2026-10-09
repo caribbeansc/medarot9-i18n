@@ -1,0 +1,85 @@
+{
+ "file": "battle/spt/tuto_03_000.spt",
+ "lines": [
+  {
+   "i": 1117,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1123,
+   "src": "f7ca6a40504a",
+   "t": "<c:ff00ff>Puntería<c>: solo {{part|pl}} de {{shooting}} con\nesa <c:ff00ff>subhabilidad<c>. "
+  },
+  {
+   "i": 1137,
+   "src": "2df08e882afe",
+   "t": "Son las {{part|pl}} con este comando\nde puntería.   "
+  },
+  {
+   "i": 1163,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1169,
+   "src": "c8d087d149df",
+   "t": "Primero, usa la <c:ff00ff>cruceta<c> para elegir\nuna {{part}} compatible con puntería.           "
+  },
+  {
+   "i": 1245,
+   "src": "34560d71e4e5",
+   "t": "Al elegir la {{part}}, vuelve a presionar\n<c:ff00ff>la misma dirección de la cruceta<c>.  "
+  },
+  {
+   "i": 1320,
+   "src": "ca14e77f0ff3",
+   "t": "¿Eh?\n¿<c:ff00ff>Ha bajado la {{prep}}<c>...?  "
+  },
+  {
+   "i": 1333,
+   "src": "c115047f9adb",
+   "t": "Para apuntar con precisión hace falta\nmás tiempo de {{prep}} de lo normal."
+  },
+  {
+   "i": 1342,
+   "src": "c115047f9adb",
+   "t": "Para apuntar con precisión hace falta\nmás tiempo de {{prep}} de lo normal."
+  },
+  {
+   "i": 1354,
+   "src": "c180ba0a76b4",
+   "t": "Ya veo..."
+  },
+  {
+   "i": 1359,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1365,
+   "src": "9c05d1d72e1f",
+   "t": "Confirma el comando con $*.           "
+  },
+  {
+   "i": 1395,
+   "src": "eb5e55fb5901",
+   "t": "Normalmente esto basta. En puntería,\nademás eliges a qué {{part}} {{opponent}} apuntar.                            "
+  },
+  {
+   "i": 1406,
+   "src": "df56be0b6ad2",
+   "t": "Aquí ves la <c:ff00ff>{{success_rate}}<c> de la puntería.\nVaría según la <c:ff00ff>{{slot}}<c> a la que apuntes.                                               "
+  },
+  {
+   "i": 1417,
+   "src": "c7a40892c50b",
+   "t": "Bien, apuntemos al <c:ff00ff>brazo<c>, que parece\nfácil de acertar. Elijo con la <c:ff00ff>cruceta<c>...                                            "
+  },
+  {
+   "i": 1451,
+   "src": "058daddad73d",
+   "t": "Y luego confirmo con el botón $*.   "
+  }
+ ]
+}

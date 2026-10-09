@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f07_080_130_00_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "2c829704438d",
+   "t": "Espera."
+  },
+  {
+   "i": 1041,
+   "src": "c22bb1fbfb21",
+   "t": "Aquí no."
+  },
+  {
+   "i": 1055,
+   "src": "8c4f8fdb6d84",
+   "t": "¿Por qué?"
+  },
+  {
+   "i": 1063,
+   "src": "e8491d91607f",
+   "t": "Los que están en aquel escenario"
+  },
+  {
+   "i": 1066,
+   "src": "752a1b8ae89f",
+   "t": "son los del {{idol_club}}, no--"
+  },
+  {
+   "i": 1071,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1080,
+   "src": "23990b64c426",
+   "t": "¡Solo hazlo!"
+  },
+  {
+   "i": 1088,
+   "src": "e2d89e7ec18a",
+   "t": "¡Primero vamos a la sala del {{idol_club}}!"
+  },
+  {
+   "i": 1091,
+   "src": "529b6e163a6e",
+   "t": "¡Vamos, apúrate!"
+  },
+  {
+   "i": 1102,
+   "src": "44c4fa2de7a3",
+   "t": "¿...?"
+  },
+  {
+   "i": 1105,
+   "src": "5583370fcb8f",
+   "t": "Está bien, está bien..."
+  }
+ ]
+}

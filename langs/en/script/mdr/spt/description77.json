@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description77.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e25521f994a6",
+   "t": "Medal Level"
+  },
+  {
+   "i": 11,
+   "src": "f589af065cbb",
+   "t": "The <c:ffff00>{{medal}}<c>'s overall strength: the total of its <c:ffff00>skill<c>\n<c:ffff00>levels<c>, which rise as you use <c:ffff00>actions<c> in <c:ffff00>{{robattle}}<c> up\nto the current <c:ffff00>{{activity_level}}<c> (max 150).\n1/3 of the {{medal_level}} becomes the <c:ffff00>{{level_bonus}}<c>,\nwhich raises all skill levels, even untrained ones.\nA high level speeds up the <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c> of\n<c:ffff00>{{medaforce}}<c> and <c:ffff00>{{medachange}}<c> and, depending on the\n{{opponent}}, raises <c:ffff00>{{defend}}<c> and <c:ffff00>{{evade}}<c> too. It also\nchanges the <c:ffff00>{{rank}}<c> ({{silver}}, {{gold}})."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_2c2_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "2ce65ecb0f8d",
+   "t": "{{yukino}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  }
+ ]
+}

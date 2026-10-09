@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3e_101_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "4c27f3813e67",
+   "t": "3rd-Yr Boy E"
+  },
+  {
+   "i": 1035,
+   "src": "460d3a5e9cc4",
+   "t": "Want to see the clubs?"
+  },
+  {
+   "i": 1038,
+   "src": "012b3e76b505",
+   "t": "The {{club_building}} is best."
+  },
+  {
+   "i": 1046,
+   "src": "d2bbcbb85975",
+   "t": "Oh, for sports clubs, the field or the\ngym."
+  },
+  {
+   "i": 1049,
+   "src": "22b15f365bd3",
+   "t": "Either way, go right from here and you'll\nfind it."
+  }
+ ]
+}

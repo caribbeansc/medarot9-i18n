@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_kocho.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1653,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  },
+  {
+   "i": 1656,
+   "src": "83d2658212a0",
+   "t": "¿Lo hacemos?"
+  }
+ ]
+}

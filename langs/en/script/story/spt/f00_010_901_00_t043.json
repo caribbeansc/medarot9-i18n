@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f00_010_901_00_t043.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "4f9055e32bb2",
+   "t": "{{rubberobo_gang}}"
+  },
+  {
+   "i": 1038,
+   "src": "4b46777d21d4",
+   "t": "I don't know how, but I bought some\ntime, {{robo}}."
+  },
+  {
+   "i": 1041,
+   "src": "c40adea97f5e",
+   "t": "Now I'm all set, {{robo}}."
+  },
+  {
+   "i": 1052,
+   "src": "b25379da1a84",
+   "t": "I won't lose in a {{robattle}}, {{robo}}!"
+  },
+  {
+   "i": 1055,
+   "src": "a3ff3d4cf7af",
+   "t": "Here I come, {{robo}}!"
+  }
+ ]
+}

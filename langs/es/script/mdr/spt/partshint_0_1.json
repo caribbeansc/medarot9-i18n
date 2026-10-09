@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_1.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "de3f30a59b75",
+   "t": "<c:00ff00>Estilo robobatalla:<c>\n{{speed}}\n{{prep|cap}} +8 Enfriam +8\n{{mobility|cap}} +8\nAl esquivar con {{success}} la\n{{charge_gauge}} sube 5%"
+  }
+ ]
+}

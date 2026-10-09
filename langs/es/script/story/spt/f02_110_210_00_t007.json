@@ -1,0 +1,75 @@
+{
+ "file": "story/spt/f02_110_210_00_t007.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "aa71167638bc",
+   "t": "Sobre esa prueba de {{terrain}}..."
+  },
+  {
+   "i": 1041,
+   "src": "0c0d5015e134",
+   "t": "{{ryoma}}-kun."
+  },
+  {
+   "i": 1051,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1057,
+   "src": "40d49e26581c",
+   "t": "¿...Qué pasa?"
+  },
+  {
+   "i": 1064,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1070,
+   "src": "35e5a594b744",
+   "t": "No tienes que ir hasta el {{river}}."
+  },
+  {
+   "i": 1073,
+   "src": "d61754a8f41b",
+   "t": "Hay un lugar perfecto aquí cerca."
+  },
+  {
+   "i": 1080,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1086,
+   "src": "c808741ef2b8",
+   "t": "¿Qué?"
+  },
+  {
+   "i": 1093,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1099,
+   "src": "2363f4504ab0",
+   "t": "¿Quieres ir juntos ahora mismo?"
+  },
+  {
+   "i": 1106,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1112,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

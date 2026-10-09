@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/1st_set.spt",
+ "lines": [
+  {
+   "i": 781,
+   "src": "f65ca6554100",
+   "t": "Titania"
+  },
+  {
+   "i": 784,
+   "src": "98e643d01909",
+   "t": "{{tai_chan}}"
+  },
+  {
+   "i": 1076,
+   "src": "2de003c96660",
+   "t": "Zipper"
+  },
+  {
+   "i": 1080,
+   "src": "db4514fdd90a",
+   "t": "Souen"
+  },
+  {
+   "i": 1083,
+   "src": "2eb1581425ee",
+   "t": "Lapis"
+  },
+  {
+   "i": 1086,
+   "src": "dc5f06e91299",
+   "t": "Coral"
+  },
+  {
+   "i": 1089,
+   "src": "f65ca6554100",
+   "t": "Titania"
+  },
+  {
+   "i": 1092,
+   "src": "2fb791d1c0b6",
+   "t": "{{ginsei}}"
+  }
+ ]
+}

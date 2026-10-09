@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description40.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b326d5fe8d42",
+   "t": "{{evade|cap}} ({{response}})"
+  },
+  {
+   "i": 11,
+   "src": "ef26128c068e",
+   "t": "<c:ffff00>{{response|cap}}<c> que esquiva con rapidez el <c:ffff00>ataque<c> del\n{{opponent}} justo antes de que impacte.\nA diferencia de la <c:ffff00>{{defend}}<c>, depende de la\nprobabilidad: cuanto mayor es el <c:ffff00>poder de {{evade}}<c>,\nmás fácil es el {{success}}. Si tiene {{success}}, no se recibe\nningún <c:ffff00>{{damage}}<c> ni efectos como los <c:ffff00>síntomas<c>\n<c:ffff00>negativos<c>; si falla, la <c:ffff00>{{part}} de {{legs}}<c> recibe {{damage}}.\nEl {{damage}} recibido se reduce un poco con el <c:ffff00>poder de<c>\n<c:ffff00>{{defend}}<c> normal."
+  }
+ ]
+}

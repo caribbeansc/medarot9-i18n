@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_f2b_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3cca1a4047ff",
+   "t": "{{shoko}}"
+  },
+  {
+   "i": 1035,
+   "src": "4f25d40aa9a4",
+   "t": "Sorry, not right now."
+  },
+  {
+   "i": 1038,
+   "src": "d729cfad9582",
+   "t": "Please ask me next time~."
+  }
+ ]
+}

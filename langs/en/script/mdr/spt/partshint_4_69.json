@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_69.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e828badb43b6",
+   "t": "<c:00ff00>Leg Trait:<c> {{vigilance}}\nAttacks from opponents\nwith a lower {{mobility}} stat\nthan yours never land\ncriticals."
+  }
+ ]
+}

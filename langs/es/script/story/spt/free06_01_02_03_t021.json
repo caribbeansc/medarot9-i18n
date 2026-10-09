@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_01_02_03_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "b44ca6783c4d",
+   "t": "¿El camino viejo?"
+  },
+  {
+   "i": 1038,
+   "src": "6294f14d41cc",
+   "t": "¿No será un sendero de animales?"
+  },
+  {
+   "i": 1048,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1057,
+   "src": "969ce3c85fc8",
+   "t": "No, antes era un camino bien cuidado."
+  },
+  {
+   "i": 1060,
+   "src": "14c1af29711a",
+   "t": "Es solo difícil caminar entre la maleza."
+  }
+ ]
+}

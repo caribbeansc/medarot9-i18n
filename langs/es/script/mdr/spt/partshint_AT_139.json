@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_139.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bf72cdb54283",
+   "t": "<c:00ff00>Técnica:<c>{{fight_guard}}\n{{guard}} contra ataques de\n{{fighting}} a aliados.\nAl interceptar, anula el\n{{damage}} de {{fighting}}.\nTermina si aliados actúan\n4 veces o pasa un\ntiempo."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description101.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e9b83e44cefa",
+   "t": "Heal (skill)"
+  },
+  {
+   "i": 11,
+   "src": "9d640101a1ae",
+   "t": "A <c:ffff00>support type<c> <c:ffff00>skill<c>: the ability to handle <c:ffff00>{{part|pl}}<c> that\nrepair <c:ffff00>{{medabot|pl}}<c>. Covers <c:ffff00>actions<c> that <c:ffff00>{{recover}}<c>,\n<c:ffff00>{{restore}}<c> or <c:ffff00>{{revive}}<c>.\n\nA higher <c:ffff00>{{skill_level}}<c> means faster <c:ffff00>{{prep}}<c> and\n<c:ffff00>{{cooldown}}<c>, higher <c:ffff00>defense power<c> and <c:ffff00>evasion<c>\n<c:ffff00>power<c>, and more <c:ffff00>{{armor}}<c> recovered.\nOn Heal {{part|pl}}, <c:ffff00>{{prep}}<c> rises when the <c:ffff00>{{charge_gauge}}<c>\nfills."
+  }
+ ]
+}

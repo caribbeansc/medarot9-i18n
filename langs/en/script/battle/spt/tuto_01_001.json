@@ -1,0 +1,25 @@
+{
+ "file": "battle/spt/tuto_01_001.spt",
+ "lines": [
+  {
+   "i": 1083,
+   "src": "5fcb44005397",
+   "t": "You can guess the action order on\nthe <c:ff00ff>field screen<c> below.           "
+  },
+  {
+   "i": 1097,
+   "src": "b666cc440c38",
+   "t": "My {{medabot}} is shown on the left\nand the foe on the right.            "
+  },
+  {
+   "i": 1102,
+   "src": "1ad38837d74b",
+   "t": "To use an \"action,\" a {{part}} needs a\nprep time called \"<c:ff00ff>{{prep}}<c>.\"                                               "
+  },
+  {
+   "i": 1119,
+   "src": "ad477e54435e",
+   "t": "The blue gauge rises after a command\nis set; it shows the prep time.                         "
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_f_3c_101_s05_t002.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7e6a995feead",
+   "t": "{{sawahime}}"
+  },
+  {
+   "i": 1038,
+   "src": "9f235be18887",
+   "t": "Someone who knows the net and\nprogramming?"
+  },
+  {
+   "i": 1041,
+   "src": "eeec2d6bdab0",
+   "t": "Then wouldn't a culture club be best?"
+  },
+  {
+   "i": 1049,
+   "src": "0ef870fed865",
+   "t": "But there's a test tomorrow, so I wonder\nabout the {{clubroom}}..."
+  },
+  {
+   "i": 1052,
+   "src": "7c0a02bcf930",
+   "t": "I bet everyone's holed up in the dorms\nstudying."
+  },
+  {
+   "i": 1060,
+   "src": "ecf809d768d9",
+   "t": "Huh, me? It's fine!"
+  },
+  {
+   "i": 1063,
+   "src": "e71edc6bc5b6",
+   "t": "I reached enlightenment long ago,\nahaha!"
+  }
+ ]
+}

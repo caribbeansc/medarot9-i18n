@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1f_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "6f44aac5ccc4",
+   "t": "{{seekamar}}"
+  },
+  {
+   "i": 1038,
+   "src": "6c9b213bb16f",
+   "t": "No sirve de nada hablarle."
+  },
+  {
+   "i": 1041,
+   "src": "f930a6d07a8a",
+   "t": "Mi {{master}} está muy ocupado ahora."
+  }
+ ]
+}

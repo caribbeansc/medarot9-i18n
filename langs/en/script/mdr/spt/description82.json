@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description82.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "0c96f5bc8028",
+   "t": "Best {{legs}}"
+  },
+  {
+   "i": 11,
+   "src": "686bcf955f5d",
+   "t": "The 5 <c:ffff00>leg types<c> with good compatibility that each\n<c:ffff00>{{medal}}<c> has.\n\nA leg <c:ffff00>{{part}}<c> whose type matches a best {{leg_type}} gets\na boost to these <c:ffff00>{{stats}}<c>: <c:ffff00>{{mobility}}<c>, <c:ffff00>{{fighting}}<c> and\n<c:ffff00>{{shooting}}<c>.\n\nThe amount depends on <c:ffff00>{{rank}}<c>: {{bronze}} +2, {{silver}} +4,\n{{gold}} +6."
+  }
+ ]
+}

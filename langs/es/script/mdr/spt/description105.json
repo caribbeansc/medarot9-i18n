@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description105.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "00b2f07adddb",
+   "t": "{{stats|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "ffdf2bb01349",
+   "t": "Valor numérico que mide la fuerza y los efectos de\n<c:ffff00>{{part|pl}}<c> y <c:ffff00>objetos<c> para poder compararlos entre sí.\nHay 9 tipos; el contenido varía según la <c:ffff00>{{slot}}<c> de la\n{{part}} o el {{effect}} del {{object}}:\n  <c:ffff00>{{armor|cap}}<c> ({{head}}, brazos, {{legs}})\n  <c:ffff00>{{success|cap}}<c> y <c:ffff00>{{power}}<c> ({{head}}, brazos)\n  <c:ffff00>{{prep|cap}}<c> y <c:ffff00>{{cooldown}}<c> ({{head}}, brazos)\n  <c:ffff00>{{uses|cap}}<c> ({{head}})\n  <c:ffff00>{{mobility|cap}}<c>, <c:ffff00>{{fighting}}<c> y <c:ffff00>{{shooting}}<c> ({{legs}})"
+  }
+ ]
+}

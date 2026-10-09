@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_53.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f8061c31d6b0",
+   "t": "Defense-specialized\nknight-{{type}} {{medabot}} with\nevery {{part}} reinforced with\n{{guard}}.\n \nBreaking its shields to\nreach its head takes\nenormous effort."
+  }
+ ]
+}

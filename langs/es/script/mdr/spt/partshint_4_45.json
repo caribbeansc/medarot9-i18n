@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_45.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f50dafb37e12",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nRompetrampas\nAl activarse una {{trap}} la\nanula y la elimina.\n*No puede anular trampas\nque no se activen."
+  }
+ ]
+}

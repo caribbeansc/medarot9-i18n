@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/memo16.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "2cf7063bdb46",
+   "t": "Explore the unknown areas."
+  },
+  {
+   "i": 32,
+   "src": "28136a286b6a",
+   "t": "3 Duct Opened\n"
+  },
+  {
+   "i": 42,
+   "src": "005742242b50",
+   "t": "3 Arrival at the {{mine_entrance}}\n"
+  },
+  {
+   "i": 52,
+   "src": "fc8f1fb1c265",
+   "t": "3 {{metabee}} at the {{mine_entrance}}\n"
+  },
+  {
+   "i": 62,
+   "src": "25220b5bd547",
+   "t": "3 {{robattle}} with {{metabee}}\n"
+  }
+ ]
+}

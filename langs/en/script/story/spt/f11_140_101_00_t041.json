@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_140_101_00_t041.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1035,
+   "src": "342221b409ee",
+   "t": "Not yet!"
+  },
+  {
+   "i": 1042,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1048,
+   "src": "6c81e81f1125",
+   "t": "They're so persistent!"
+  }
+ ]
+}

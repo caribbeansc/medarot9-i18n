@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_janit.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "1f4aaee4c632",
+   "t": "{{janitor_character}}"
+  },
+  {
+   "i": 1653,
+   "src": "7a55e4b79e23",
+   "t": "Oh, a {{robattle}}?"
+  },
+  {
+   "i": 1656,
+   "src": "ed7a42d1fd3c",
+   "t": "Heh, of course I'll do it. Glad you asked."
+  }
+ ]
+}

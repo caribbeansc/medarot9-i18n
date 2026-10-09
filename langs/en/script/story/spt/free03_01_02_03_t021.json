@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/free03_01_02_03_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "7b402b0d42e4",
+   "t": "Stairs... right?"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "899862e4d9e8",
+   "t": "Yeah, probably from the mining days."
+  },
+  {
+   "i": 1050,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1059,
+   "src": "6311cf2cc4cf",
+   "t": "They're so worn out they look ready to\ncollapse any moment..."
+  },
+  {
+   "i": 1066,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1075,
+   "src": "89f201adcb0a",
+   "t": "Almost there."
+  }
+ ]
+}

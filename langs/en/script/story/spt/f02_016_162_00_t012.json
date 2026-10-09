@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/f02_016_162_00_t012.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1049,
+   "src": "3d00c5054c47",
+   "t": "Yep, that's about it."
+  },
+  {
+   "i": 1057,
+   "src": "aa2fb5eb8080",
+   "t": "Well, let's go."
+  },
+  {
+   "i": 1060,
+   "src": "815119972247",
+   "t": "What was it again, um."
+  },
+  {
+   "i": 1068,
+   "src": "838150a4d23d",
+   "t": "...Door-to-door questioning?"
+  },
+  {
+   "i": 1080,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1086,
+   "src": "743ea3532966",
+   "t": "That's the one."
+  },
+  {
+   "i": 1094,
+   "src": "0da76305051f",
+   "t": "We're looking for the {{medabot}}\nkidnapper."
+  },
+  {
+   "i": 1097,
+   "src": "85fe4f45e426",
+   "t": "The idol girl is the suspect, right?"
+  },
+  {
+   "i": 1105,
+   "src": "41c885ef3614",
+   "t": "Let's go."
+  }
+ ]
+}

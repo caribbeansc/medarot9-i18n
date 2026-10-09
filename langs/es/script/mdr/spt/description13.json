@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description13.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "ed96e1ae43df",
+   "t": "{{model_number|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "d152b74e3ac8",
+   "t": "Número de producto asignado para identificar el\n{{type}} de una <c:ffff00>{{part}}<c> al fabricarla. Se asigna según el\nconcepto de diseño y la versión de desarrollo.\n\nEn principio las {{part|pl}} se desarrollan y diseñan\njuntas para las 4 <c:ffff00>zonas<c>, así que existe una {{part}} con\nel mismo {{model_number}} por cada {{slot}}. Un\n<c:ffff00>{{medabot}}<c> con el juego completo de esas 4 {{part|pl}} del\nmismo modelo se llama <c:ffff00>{{original}}<c>."
+  }
+ ]
+}

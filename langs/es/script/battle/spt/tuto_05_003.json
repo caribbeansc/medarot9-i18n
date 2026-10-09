@@ -1,0 +1,35 @@
+{
+ "file": "battle/spt/tuto_05_003.spt",
+ "lines": [
+  {
+   "i": 1108,
+   "src": "37c412d6d633",
+   "t": "{{celery}}"
+  },
+  {
+   "i": 1114,
+   "src": "1ddd1935ef9d",
+   "t": "Vamos, muéstrame el poder oculto\nen la {{medal}}!"
+  },
+  {
+   "i": 1122,
+   "src": "4cca761e2fd6",
+   "t": "¡Ve, "
+  },
+  {
+   "i": 1124,
+   "src": "3a56fd31ee59",
+   "t": "!"
+  },
+  {
+   "i": 1137,
+   "src": "e92677fa99e9",
+   "t": "¡¡Uooooooooooo!!"
+  },
+  {
+   "i": 1146,
+   "src": "e92677fa99e9",
+   "t": "¡¡Uooooooooooh!!"
+  }
+ ]
+}

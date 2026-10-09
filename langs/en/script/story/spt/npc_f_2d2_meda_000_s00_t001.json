@@ -1,0 +1,15 @@
+{
+ "file": "story/spt/npc_f_2d2_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dc847932ab89",
+   "t": "{{ptolemy}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hello."
+  }
+ ]
+}

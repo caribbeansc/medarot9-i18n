@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc04_161_s06_t051.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1038,
+   "src": "f7dae5fb4d34",
+   "t": "I'm not feeling it... but we have to go."
+  },
+  {
+   "i": 1041,
+   "src": "63551e93d81b",
+   "t": "Not being able to set up would be\nworse."
+  }
+ ]
+}

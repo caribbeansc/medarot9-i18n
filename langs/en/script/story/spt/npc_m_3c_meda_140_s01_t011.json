@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3c_meda_140_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f7af0c618128",
+   "t": "{{wild_ukon}}"
+  },
+  {
+   "i": 1038,
+   "src": "1e530a011fb1",
+   "t": "My master just has a loud voice."
+  },
+  {
+   "i": 1041,
+   "src": "4fef75fbdb52",
+   "t": "He's not actually angry."
+  }
+ ]
+}

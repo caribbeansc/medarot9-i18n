@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description3.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "213d3992e485",
+   "t": "{{medafighter|cap}}"
+  },
+  {
+   "i": 11,
+   "src": "8762fdeb729d",
+   "t": "Humano que posee un <c:ffff00>{{medawatch}}<c> y gestiona\n<c:ffff00>{{medabot|pl}}<c>. En raras ocasiones hay {{medafighter|pl}}\nque no son humanos.\n\nEn una <c:ffff00>{{robattle}}<c> da órdenes a los {{medabot|pl}} a\ntravés del {{medawatch}}. Sus propios {{medabot|pl}}\ntambién lo llaman {{master}}."
+  }
+ ]
+}

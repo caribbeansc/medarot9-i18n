@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_2c_meda_131_s04_t001.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e2d11d6f76f2",
+   "t": "{{cordy}}"
+  },
+  {
+   "i": 1038,
+   "src": "9233e83aabc2",
+   "t": "I'm getting nervous!"
+  },
+  {
+   "i": 1041,
+   "src": "9b9bf0d091b4",
+   "t": "Hurry up and be over!"
+  }
+ ]
+}

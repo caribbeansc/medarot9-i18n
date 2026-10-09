@@ -1,0 +1,335 @@
+{
+ "file": "story/spt/f05_030_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1041,
+   "src": "9f3aad9ff3b2",
+   "t": "¿¡Está vacío...!?"
+  },
+  {
+   "i": 1049,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1055,
+   "src": "dca96c8734de",
+   "t": "Con razón no podía configurarlo."
+  },
+  {
+   "i": 1065,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1071,
+   "src": "8af65f849db3",
+   "t": "Creí que era falla del sistema,"
+  },
+  {
+   "i": 1074,
+   "src": "b38f06d0a6d3",
+   "t": "pero de veras estaba vacío."
+  },
+  {
+   "i": 1084,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1093,
+   "src": "49e9c11a3c7c",
+   "t": "¿Cuál es la causa?"
+  },
+  {
+   "i": 1107,
+   "src": "2a0f7464fd16",
+   "t": "Alguien debió llevárselo..."
+  },
+  {
+   "i": 1110,
+   "src": "db8a9f284b5d",
+   "t": "Me pregunto."
+  },
+  {
+   "i": 1118,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1127,
+   "src": "825e34d3c6a4",
+   "t": "¿Desde aquí?"
+  },
+  {
+   "i": 1130,
+   "src": "e6e44fc3ffe0",
+   "t": "¿Lo sacaron y se lo llevaron así...?"
+  },
+  {
+   "i": 1144,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1153,
+   "src": "0eb109957502",
+   "t": "Difícil, son muy grandes y pesados."
+  },
+  {
+   "i": 1156,
+   "src": "39a37a189b6f",
+   "t": "Tal vez un grupo grande, pero..."
+  },
+  {
+   "i": 1166,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1172,
+   "src": "f5720916e9fe",
+   "t": "¿Es posible que lo hayan hackeado?"
+  },
+  {
+   "i": 1183,
+   "src": "cd0d839f7bed",
+   "t": "Hackeo... ¿Eso significa"
+  },
+  {
+   "i": 1186,
+   "src": "66a1e0d057ba",
+   "t": "transferencia por acceso ilegal?"
+  },
+  {
+   "i": 1198,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1204,
+   "src": "be8f55742378",
+   "t": "Sí."
+  },
+  {
+   "i": 1207,
+   "src": "ac8c5189b271",
+   "t": "Eso es más probable."
+  },
+  {
+   "i": 1215,
+   "src": "af72abfd23da",
+   "t": "Llevo un rato investigándolo"
+  },
+  {
+   "i": 1218,
+   "src": "9b826df87bb8",
+   "t": "porque me quedó la duda..."
+  },
+  {
+   "i": 1236,
+   "src": "34b6f162a3eb",
+   "t": "Hay algo que no cuadra."
+  },
+  {
+   "i": 1239,
+   "src": "60abc61cf543",
+   "t": "Está demasiado limpio, ¿sabes?"
+  },
+  {
+   "i": 1249,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1258,
+   "src": "2a152027e013",
+   "t": "¿Qué quieres decir?"
+  },
+  {
+   "i": 1265,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1274,
+   "src": "1d48080f53ce",
+   "t": "No hay rastro de entrada ni"
+  },
+  {
+   "i": 1277,
+   "src": "afac68359f25",
+   "t": "registros, como si no hubiera nada."
+  },
+  {
+   "i": 1284,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1290,
+   "src": "75009c35a527",
+   "t": "Eso sí que es raro. Si lo hubieran"
+  },
+  {
+   "i": 1293,
+   "src": "9a8e23d06f9e",
+   "t": "robado, no sería así."
+  },
+  {
+   "i": 1300,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1306,
+   "src": "b368003fd97a",
+   "t": "Sí, desde abrir y cerrar la caja hasta"
+  },
+  {
+   "i": 1309,
+   "src": "75c7a89ce94f",
+   "t": "cualquier cosa, siempre quedan rastros."
+  },
+  {
+   "i": 1317,
+   "src": "6cf38ab8214d",
+   "t": "Y si fue hackeo, es muy refinado."
+  },
+  {
+   "i": 1320,
+   "src": "7ea7260fafe6",
+   "t": "Salvo que fuera un hacker experto."
+  },
+  {
+   "i": 1333,
+   "src": "d3838666f35c",
+   "t": "¿¡Un hacker muy habilidoso!?"
+  },
+  {
+   "i": 1341,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1347,
+   "src": "e24055f69fb5",
+   "t": "Te ves feliz, "
+  },
+  {
+   "i": 1349,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1364,
+   "src": "342c20413c8f",
+   "t": "¡Sí!"
+  },
+  {
+   "i": 1367,
+   "src": "ba86cb01c42e",
+   "t": "¡Es mi trabajo soñado número uno!"
+  },
+  {
+   "i": 1375,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1384,
+   "src": "459cbbbac448",
+   "t": "¿Eres tonto o qué?"
+  },
+  {
+   "i": 1387,
+   "src": "7436b3cf21ed",
+   "t": "...Y bien, ¿qué vas a hacer al respecto?"
+  },
+  {
+   "i": 1394,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1403,
+   "src": "f05657ecaade",
+   "t": "Sí, es difícil cuando"
+  },
+  {
+   "i": 1406,
+   "src": "6d0d01d4756b",
+   "t": "no hay ninguna pista..."
+  },
+  {
+   "i": 1414,
+   "src": "6c2f653c6416",
+   "t": "Aun así, mejor reunir información."
+  },
+  {
+   "i": 1417,
+   "src": "0f3058f1f7d8",
+   "t": "Busquemos gente hábil en programar."
+  },
+  {
+   "i": 1424,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1430,
+   "src": "4678125258c7",
+   "t": "Programación..."
+  },
+  {
+   "i": 1433,
+   "src": "9183150c047c",
+   "t": "Entonces, por el Club Medabot, ¿no?"
+  },
+  {
+   "i": 1441,
+   "src": "2ac7ffcc02cf",
+   "t": "Pero estamos en receso de exámenes."
+  },
+  {
+   "i": 1444,
+   "src": "3dad3ac84cfd",
+   "t": "¿No están todos de descanso?"
+  },
+  {
+   "i": 1451,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1457,
+   "src": "71beeacc486c",
+   "t": "Tal vez. Pero no es que"
+  },
+  {
+   "i": 1460,
+   "src": "946d887f7366",
+   "t": "no haya absolutamente nadie por ahí."
+  },
+  {
+   "i": 1468,
+   "src": "56cbc9d2b861",
+   "t": "Quizá sea inútil, pero probemos."
+  },
+  {
+   "i": 1471,
+   "src": "7e89e746eda4",
+   "t": "Esto se complica si se alarga."
+  },
+  {
+   "i": 1486,
+   "src": "3faaf0da07c8",
+   "t": "Entendido."
+  },
+  {
+   "i": 1489,
+   "src": "e0fc361ae0c5",
+   "t": "¡Vamos!"
+  }
+ ]
+}

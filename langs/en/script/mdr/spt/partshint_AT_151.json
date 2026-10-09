@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_151.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "76c458d7fd34",
+   "t": "<c:00ff00>Action:<c> {{shooting_trap}}\nSets a trap that deals\n{{damage}} when it reacts to\nranged attacks on allies.\nSetting it repeatedly\nraises its {{armor}} and\n{{damage}}."
+  }
+ ]
+}

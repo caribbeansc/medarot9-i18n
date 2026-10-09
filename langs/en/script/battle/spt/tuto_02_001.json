@@ -1,0 +1,140 @@
+{
+ "file": "battle/spt/tuto_02_001.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "8920f16c7ff5",
+   "t": "Next, use <c:ff00ff>Aimshot<c>!"
+  },
+  {
+   "i": 1138,
+   "src": "ad240cf75e58",
+   "t": "Next, I'll use a Berserk attack.  "
+  },
+  {
+   "i": 1143,
+   "src": "9b7b062115c8",
+   "t": "My left arm's Berserk attack can\n{{damage}} all of the foe's {{part|pl}}."
+  },
+  {
+   "i": 1148,
+   "src": "1207724eb518",
+   "t": "With the left arm's \"{{picopeco_hammer}}\"\nI'll find the {{leader}}!      "
+  },
+  {
+   "i": 1168,
+   "src": "624846ef992a",
+   "t": "Aimshot's sub-command is showing...\nthat's the right {{arm_part}}, right?   "
+  },
+  {
+   "i": 1180,
+   "src": "b65c0d053181",
+   "t": "{{left_item}} arm... the one showing the\nBerserk sub-command, right?"
+  },
+  {
+   "i": 1221,
+   "src": "2e96c3675b95",
+   "t": "Exactly! Use the D-Pad to pick first\n\"<c:ff00ff>{{meta_revolver}}<c>\"!              "
+  },
+  {
+   "i": 1233,
+   "src": "9e0b8b025244",
+   "t": "That's the one. Use the D-Pad to\nselect \"{{picopeco_hammer}}\" first.                "
+  },
+  {
+   "i": 1316,
+   "src": "23bb630baddb",
+   "t": "Once the {{part}} is selected, press\n<c:ff00ff>the same D-Pad direction<c> again!"
+  },
+  {
+   "i": 1393,
+   "src": "d54193785f68",
+   "t": "Huh?\nDid the <c:ff00ff>{{prep}} rating drop<c>...?    "
+  },
+  {
+   "i": 1404,
+   "src": "867c9abd93b8",
+   "t": "To aim precisely, you need a longer\nprep time than usual."
+  },
+  {
+   "i": 1413,
+   "src": "191fd1f0485c",
+   "t": "Huh?\nDid the <c:ff00ff>{{power}} rating go up<c>...?      "
+  },
+  {
+   "i": 1424,
+   "src": "d458324e92ae",
+   "t": "Berserk uses momentum: the higher the\nleg {{mobility}}, the more power.                       "
+  },
+  {
+   "i": 1444,
+   "src": "c180ba0a76b4",
+   "t": "I see..."
+  },
+  {
+   "i": 1450,
+   "src": "0c3aeb94d999",
+   "t": "Ah, so that's it...          "
+  },
+  {
+   "i": 1464,
+   "src": "9f007ac53409",
+   "t": "Confirm the command with the $*\nbutton!    "
+  },
+  {
+   "i": 1473,
+   "src": "24cdb3d293c8",
+   "t": "Confirm the command with the $*\nbutton.     "
+  },
+  {
+   "i": 1524,
+   "src": "9aca370a68f7",
+   "t": "Which {{medabot}} do I attack?!"
+  },
+  {
+   "i": 1532,
+   "src": "a2ba5cc96640",
+   "t": "Switch the attack <c:ff00ff>target<c> with\nleft and right on the <c:ff00ff>D-Pad<c>.                              "
+  },
+  {
+   "i": 1537,
+   "src": "63c7f621d363",
+   "t": "Gauge their armor and action order,\npick a target and confirm with $*.                         "
+  },
+  {
+   "i": 1542,
+   "src": "306200c1ff2a",
+   "t": "Well, the {{leader}}'s likely the middle\none. Aim for it.                          "
+  },
+  {
+   "i": 1730,
+   "src": "58d31228bdcd",
+   "t": "I said aim for the middle one!\nMess around and you'll lose!    "
+  },
+  {
+   "i": 1739,
+   "src": "199f52cef339",
+   "t": "I told you to aim for the middle one!       "
+  },
+  {
+   "i": 1780,
+   "src": "21f94bfb420a",
+   "t": "Normal {{part|pl}} are done here, but with\nAimshot you also choose the slot.  "
+  },
+  {
+   "i": 1791,
+   "src": "e181110a59e3",
+   "t": "Check the Aimshot <c:ff00ff>{{hit_rate}}<c> on the\nlower screen. It depends on the <c:ff00ff>{{slot}}<c>!       "
+  },
+  {
+   "i": 1802,
+   "src": "492e01de13b4",
+   "t": "Okay, let's aim for the <c:ff00ff>arm<c>, which\nlooks easy to hit. Pick with the <c:ff00ff>D-Pad<c>...                                          "
+  },
+  {
+   "i": 1836,
+   "src": "058daddad73d",
+   "t": "Then confirm with the $* button.    "
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/free06_02_02_02_t011.spt",
+ "lines": [
+  {
+   "i": 1034,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1045,
+   "src": "a94413cd314f",
+   "t": "¿Cómo va la señal de la {{app}} detectora?"
+  },
+  {
+   "i": 1060,
+   "src": "7cf2231bf769",
+   "t": "Mmm..."
+  },
+  {
+   "i": 1065,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1071,
+   "src": "f5596c001a6c",
+   "t": "Yo tampoco detecto nada todavía."
+  },
+  {
+   "i": 1074,
+   "src": "947d24397b4e",
+   "t": "Quizá camine un poco más."
+  }
+ ]
+}

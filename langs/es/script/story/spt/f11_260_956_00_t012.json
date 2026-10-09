@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f11_260_956_00_t012.spt",
+ "lines": [
+  {
+   "i": 1122,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1133,
+   "src": "3fddfba2c40f",
+   "t": "Eso es..."
+  },
+  {
+   "i": 1144,
+   "src": "57fbeaece908",
+   "t": "Luz..."
+  },
+  {
+   "i": 1149,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1155,
+   "src": "24ed4284d508",
+   "t": "¡¡Corran!!"
+  },
+  {
+   "i": 1171,
+   "src": "c203df294381",
+   "t": "*Ataque final del {{medal_eater}}"
+  },
+  {
+   "i": 1174,
+   "src": "71897c95b71f",
+   "t": "(¿Un rayo? Con efectos)"
+  }
+ ]
+}

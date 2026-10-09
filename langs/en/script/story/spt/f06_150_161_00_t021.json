@@ -1,0 +1,50 @@
+{
+ "file": "story/spt/f06_150_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1035,
+   "src": "b90495a554c2",
+   "t": "This is a map... a view of the whole\nisland."
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1051,
+   "src": "d1324e078a5c",
+   "t": "What are these pie-chart-like things"
+  },
+  {
+   "i": 1054,
+   "src": "aaa125a748c4",
+   "t": "overlapping all over the map?"
+  },
+  {
+   "i": 1061,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1070,
+   "src": "dee172fb266b",
+   "t": "It's the sound wave observation range."
+  },
+  {
+   "i": 1073,
+   "src": "501c0d4d8a8e",
+   "t": "It's based on the data you all measured."
+  },
+  {
+   "i": 1083,
+   "src": "970f3e9d66f7",
+   "t": "I narrowed down suspicious waveforms\nand analyzed the source."
+  }
+ ]
+}

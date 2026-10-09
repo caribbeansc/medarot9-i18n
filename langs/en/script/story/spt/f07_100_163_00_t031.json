@@ -1,0 +1,65 @@
+{
+ "file": "story/spt/f07_100_163_00_t031.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1038,
+   "src": "f036ccf70cdc",
+   "t": "Well, well, well."
+  },
+  {
+   "i": 1041,
+   "src": "1d85e413f121",
+   "t": "You really show up everywhere, don't\nyou?"
+  },
+  {
+   "i": 1051,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1060,
+   "src": "91053abb75ee",
+   "t": "I'll return those words right back to you."
+  },
+  {
+   "i": 1063,
+   "src": "f03d2b9c732c",
+   "t": "By the way, the {{exploration_club}} booth\nlooks untouched."
+  },
+  {
+   "i": 1074,
+   "src": "54916a17c3fa",
+   "t": "Huh?"
+  },
+  {
+   "i": 1079,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1088,
+   "src": "f46e83a5b6b2",
+   "t": "The {{culture_festival}} is tomorrow."
+  },
+  {
+   "i": 1091,
+   "src": "ad02269bd837",
+   "t": "Preparing all night? That's tough."
+  },
+  {
+   "i": 1101,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1110,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

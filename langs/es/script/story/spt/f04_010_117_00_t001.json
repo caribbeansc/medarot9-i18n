@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f04_010_117_00_t001.spt",
+ "lines": [
+  {
+   "i": 1127,
+   "src": "ccd49bcf3870",
+   "t": "{{ms_kotobuki}}"
+  },
+  {
+   "i": 1138,
+   "src": "338fd875fc6e",
+   "t": "A todos"
+  },
+  {
+   "i": 1141,
+   "src": "738fa4b674fc",
+   "t": "¡buenos días!"
+  },
+  {
+   "i": 1157,
+   "src": "7a783ea033ef",
+   "t": "¡Buenos díaaas!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3a_meda_320_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "8b3dd2004e2b",
+   "t": "{{windclap}}"
+  },
+  {
+   "i": 1038,
+   "src": "84540aea5921",
+   "t": "Hey, did you know?"
+  },
+  {
+   "i": 1041,
+   "src": "d9d42aacf46d",
+   "t": "There's a huge crater in the island's\ncenter."
+  },
+  {
+   "i": 1049,
+   "src": "53d6204642c6",
+   "t": "No lie, you can see it from the sky."
+  },
+  {
+   "i": 1052,
+   "src": "48ca02fe59e1",
+   "t": "Deep in the mountains, hard to reach on\nfoot."
+  }
+ ]
+}

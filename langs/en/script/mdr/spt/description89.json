@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description89.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "62b5204c996c",
+   "t": "{{guard}} (Style)"
+  },
+  {
+   "i": 11,
+   "src": "495aa9b4b25a",
+   "t": "A <c:ffff00>{{robattle_style}}<c> that prioritizes durability.\n\n<c:ffff00>Stat<c> that rises:\n  <c:ffff00>{{armor}}<c> +40\n\n{{condition_rotation|cap}} to raise the <c:ffff00>{{charge_gauge}}<c>:\n+5% for every <c:ffff00>defense<c> or <c:ffff00>{{interrupt_guard}}<c>."
+  }
+ ]
+}

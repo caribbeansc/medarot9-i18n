@@ -1,0 +1,234 @@
+{
+ "rel": "mdr/tex/mk_maru2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "helv-cond-black",
+  "cap": 7.0,
+  "fill": "#DF5F70EC",
+  "stroke": null,
+  "crisp": 0.6,
+  "pad": 0,
+  "min_scale_x": 0.7
+ },
+ "items": [
+  {
+   "box": [
+    33,
+    9,
+    22,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    34,
+    15,
+    20,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Prep",
+   "baseline": 22.0,
+   "tracking": 0.2
+  },
+  {
+   "box": [
+    3,
+    25,
+    17,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    31,
+    19,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Pow",
+   "baseline": 38.0,
+   "tracking": 0.7
+  },
+  {
+   "box": [
+    26,
+    25,
+    18,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    31,
+    19,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Succ.",
+   "baseline": 38.0,
+   "tracking": 0.2
+  },
+  {
+   "box": [
+    3,
+    40,
+    17,
+    7
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    47,
+    19,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Fight",
+   "baseline": 54.0
+  },
+  {
+   "box": [
+    25,
+    41,
+    21,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    47,
+    19,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Cool",
+   "baseline": 54.0,
+   "tracking": 0.5
+  },
+  {
+   "box": [
+    4,
+    57,
+    15,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    63,
+    20,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Mob",
+   "baseline": 70.0,
+   "tracking": 0.5
+  },
+  {
+   "box": [
+    26,
+    57,
+    19,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    63,
+    20,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Shoot",
+   "baseline": 70.0,
+   "tracking": 0.4
+  },
+  {
+   "box": [
+    2,
+    73,
+    20,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    79,
+    20,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Def",
+   "baseline": 86.0,
+   "tracking": 0.7
+  },
+  {
+   "box": [
+    28,
+    73,
+    16,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    26,
+    79,
+    20,
+    9
+   ],
+   "erase": "transparent",
+   "text": "Eva",
+   "baseline": 86.0,
+   "tracking": 0.7
+  },
+  {
+   "box": [
+    2,
+    89,
+    28,
+    6
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    2,
+    95,
+    30,
+    10
+   ],
+   "erase": "transparent",
+   "text": "All",
+   "baseline": 102.0,
+   "tracking": 1.2
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_m_2f_160_s02_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2f059fcc4851",
+   "t": "{{sakkara}}"
+  },
+  {
+   "i": 1038,
+   "src": "0c341941cfd0",
+   "t": "What's up, looking for someone?"
+  },
+  {
+   "i": 1041,
+   "src": "d82e2018f60b",
+   "t": "{{aoi}}-chan?"
+  },
+  {
+   "i": 1049,
+   "src": "46d149f09597",
+   "t": "Oh, I know her. A girl from the {{idol_club}}."
+  },
+  {
+   "i": 1052,
+   "src": "d067c0df343a",
+   "t": "She's one of my heroine candidates!"
+  },
+  {
+   "i": 1060,
+   "src": "ecdc74a3007c",
+   "t": "She just greeted me a moment ago"
+  },
+  {
+   "i": 1063,
+   "src": "250e2bbfe780",
+   "t": "in her cute voice, ha ha."
+  },
+  {
+   "i": 1071,
+   "src": "2a413a33311d",
+   "t": "Huh, where she was headed?"
+  },
+  {
+   "i": 1074,
+   "src": "024216061bfb",
+   "t": "I didn't ask."
+  },
+  {
+   "i": 1082,
+   "src": "cb25de347865",
+   "t": "But she walked toward the school\nbuilding."
+  },
+  {
+   "i": 1085,
+   "src": "8781d0d1f99d",
+   "t": "By my reckoning, she's at the shop by\nnow."
+  }
+ ]
+}

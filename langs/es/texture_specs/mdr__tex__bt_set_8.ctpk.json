@@ -1,0 +1,39 @@
+{
+ "rel": "mdr/tex/bt_set_8.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    20,
+    0,
+    66,
+    16
+   ],
+   "erase_box": [
+    18,
+    0,
+    80,
+    16
+   ],
+   "erase": "transparent",
+   "text": "Configuracion",
+   "font": "sf-cond-heavy",
+   "cap": 9,
+   "baseline": 12,
+   "align": "left",
+   "pad": 0,
+   "dx": 2,
+   "fill": "#222B3C",
+   "stroke": "#FFFFFFA0",
+   "stroke_w": 0.8,
+   "min_scale_x": 0.75,
+   "crisp": 0.6,
+   "sample_box": [
+    21,
+    0,
+    66,
+    16
+   ]
+  }
+ ]
+}

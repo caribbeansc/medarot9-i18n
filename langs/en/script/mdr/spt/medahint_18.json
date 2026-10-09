@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_18.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "747d0aa01d00",
+   "t": "{{medabot}} {{themed_on}} the\nEastern dragon soaring\nthrough the sky.\n \nRare for a male-{{type}}, it\nhas healing {{part|pl}} and\nwields the mystical\npower\nof healing and revival."
+  }
+ ]
+}

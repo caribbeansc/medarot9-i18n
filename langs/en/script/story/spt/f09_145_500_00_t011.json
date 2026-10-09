@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f09_145_500_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "75887f6660b6",
+   "t": "Um,"
+  },
+  {
+   "i": 1038,
+   "src": "a03269669fde",
+   "t": "wasn't this the beach?"
+  },
+  {
+   "i": 1046,
+   "src": "f7dde4bb1fd5",
+   "t": "Let's skip it. I'm a bit busy now,"
+  },
+  {
+   "i": 1049,
+   "src": "1cbe85ed3d6a",
+   "t": "and it's too chilly to swim anyway."
+  }
+ ]
+}

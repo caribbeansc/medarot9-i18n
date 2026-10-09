@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_123.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "b348bd544285",
+   "t": "<c:00ff00>Técnica:<c>Reversa\nRevive a un {{medabot}}\n{{ally_battle_term}} que dejó de\nfuncionar."
+  }
+ ]
+}

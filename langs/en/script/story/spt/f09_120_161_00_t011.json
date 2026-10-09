@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f09_120_161_00_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "398362255bc4",
+   "t": "Thanks for procuring the materials. "
+  },
+  {
+   "i": 1038,
+   "src": "0c488c905fd3",
+   "t": "Thanks to you, we finished preparations\non schedule."
+  },
+  {
+   "i": 1046,
+   "src": "7229be34257f",
+   "t": "The {{student_council}} will handle the\nrest."
+  },
+  {
+   "i": 1049,
+   "src": "decd07a43150",
+   "t": "Feel free to relax until the opening\nceremony."
+  }
+ ]
+}

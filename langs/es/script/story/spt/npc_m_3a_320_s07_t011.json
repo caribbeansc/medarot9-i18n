@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3a_320_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c6a5ebef3d35",
+   "t": "{{miyuki}}"
+  },
+  {
+   "i": 1038,
+   "src": "5aaa37e08c89",
+   "t": "El {{culture_festival}}, eh... Parece"
+  },
+  {
+   "i": 1041,
+   "src": "bf9f584ebdf2",
+   "t": "que me graduaré sin ir a ninguno."
+  }
+ ]
+}

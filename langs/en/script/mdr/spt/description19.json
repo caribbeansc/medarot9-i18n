@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description19.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a12f616e504d",
+   "t": "Result Decision"
+  },
+  {
+   "i": 11,
+   "src": "7a43c8b158f7",
+   "t": "The method for deciding the outcome when the <c:ffff00>time<c>\n<c:ffff00>limit<c> reaches 0 in a <c:ffff00>{{robattle}}<c> without either <c:ffff00>{{leader}}<c>\nhaving been <c:ffff00>{{knocked_out}}<c>.\n\nThe teams are compared by these criteria: 1)\nnumber of <c:ffff00>{{medabot|pl}}<c> {{knocked_out}}; 2) number of\n<c:ffff00>{{part|pl}}<c> <c:ffff00>destroyed<c>; 3) total <c:ffff00>{{damage}}<c> dealt.\nComparison starts with criterion 1 and, if tied,\nmoves on to the next."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_pc03_110_s06_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "b0ee470a969f",
+   "t": "Is it this one?"
+  },
+  {
+   "i": 1043,
+   "src": "e1afa5d169e7",
+   "t": "No, wait... Hmm..."
+  },
+  {
+   "i": 1051,
+   "src": "d718c55ef3ed",
+   "t": "W-what are you doing? Really, you"
+  },
+  {
+   "i": 1054,
+   "src": "3f180373b444",
+   "t": "shouldn't touch everything..."
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1069,
+   "src": "f58308913ade",
+   "t": "-kun, help me look too."
+  },
+  {
+   "i": 1077,
+   "src": "bdcbe0b8d6ce",
+   "t": "Look for what?"
+  },
+  {
+   "i": 1082,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1088,
+   "src": "cd5ab11f3c05",
+   "t": "Something, you know. I think there's\nsome kind of"
+  },
+  {
+   "i": 1091,
+   "src": "3257189a7ad0",
+   "t": "trick or mechanism in this room."
+  }
+ ]
+}

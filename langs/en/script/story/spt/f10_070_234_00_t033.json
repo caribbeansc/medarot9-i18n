@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f10_070_234_00_t033.spt",
+ "lines": [
+  {
+   "i": 1036,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1047,
+   "src": "2e54438405a7",
+   "t": "What have you been protecting it for?!"
+  },
+  {
+   "i": 1050,
+   "src": "c2885b4c5ead",
+   "t": "To punch it one day, wasn't it!"
+  },
+  {
+   "i": 1070,
+   "src": "58182d3f4bee",
+   "t": "We're not finished yet!"
+  },
+  {
+   "i": 1073,
+   "src": "89d1f68db062",
+   "t": "I won't let it end here, {{metabee}}!"
+  },
+  {
+   "i": 1079,
+   "src": "58182d3f4bee",
+   "t": "We're not finished yet!"
+  },
+  {
+   "i": 1082,
+   "src": "926ada2b97d8",
+   "t": "I won't let it end here, {{rokusho}}!"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f09_150_500_00_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "e586c7b2d27f",
+   "t": "What's with those guys?"
+  },
+  {
+   "i": 1038,
+   "src": "efc05334bdad",
+   "t": "They're in black and show up\neverywhere, just like--"
+  },
+  {
+   "i": 1045,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1051,
+   "src": "67db359d8671",
+   "t": "Ah, no."
+  },
+  {
+   "i": 1054,
+   "src": "41bab1f6a207",
+   "t": "Please don't say it~."
+  },
+  {
+   "i": 1061,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1070,
+   "src": "28b5aef94c6f",
+   "t": "Never mind that. Look..."
+  }
+ ]
+}

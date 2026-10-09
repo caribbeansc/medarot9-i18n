@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_2f2_140_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2c4550885f42",
+   "t": "{{kuheiji}}"
+  },
+  {
+   "i": 1038,
+   "src": "8d5911d4b808",
+   "t": "Me gusta bastante el {{culture_festival}}."
+  },
+  {
+   "i": 1041,
+   "src": "e72e8b2cfa21",
+   "t": "Hay actuaciones impresionantes."
+  },
+  {
+   "i": 1049,
+   "src": "15b58b172db9",
+   "t": "¡El baile del {{idol_club}} es casi de pro!"
+  },
+  {
+   "i": 1052,
+   "src": "5993e1aec148",
+   "t": "Ya quiero ver qué harán este año."
+  }
+ ]
+}

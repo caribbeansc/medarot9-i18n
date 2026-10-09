@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_27.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "8f8e7318c740",
+   "t": "Caterpillar-{{type}} {{medabot}}\nthat inflicts negative\nstatuses on foes.\n \nOn emerging it breaks\nfree\nof {{gravity}} as a butterfly\nthat sets traps against\nshooting and melee."
+  }
+ ]
+}

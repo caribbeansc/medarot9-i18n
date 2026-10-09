@@ -1,0 +1,77 @@
+{
+ "rel": "mdr/tex/bt_help_play.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "font": "compact-rounded-heavy",
+  "cap": 9,
+  "crisp": 0.6,
+  "baseline": 18,
+  "dx": -1.5
+ },
+ "items": [
+  {
+   "box": [
+    24,
+    6,
+    28,
+    17
+   ],
+   "erase_box": [
+    23,
+    7,
+    30,
+    14
+   ],
+   "text": "Play",
+   "fill": "auto-grad",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#F4F4F4",
+    "opacity": 0.8
+   }
+  },
+  {
+   "box": [
+    96,
+    6,
+    28,
+    17
+   ],
+   "erase_box": [
+    95,
+    6,
+    30,
+    15
+   ],
+   "text": "Play",
+   "fill": "auto-grad",
+   "stroke": null
+  },
+  {
+   "box": [
+    168,
+    6,
+    28,
+    17
+   ],
+   "erase_box": [
+    167,
+    7,
+    30,
+    14
+   ],
+   "text": "Play",
+   "fill": "#4B4E56",
+   "stroke": null,
+   "shadow": {
+    "dx": 0,
+    "dy": 1,
+    "color": "#8C8C8C",
+    "opacity": 0.7
+   }
+  }
+ ]
+}

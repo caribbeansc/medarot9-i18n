@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3b_163_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1038,
+   "src": "85edafb8e029",
+   "t": "La presidenta del {{club}} no está."
+  },
+  {
+   "i": 1041,
+   "src": "b6e06f4490ab",
+   "t": "Tiene reunión por el nuevo PV."
+  },
+  {
+   "i": 1049,
+   "src": "604347f1c0ca",
+   "t": "Cómo tarda... me pregunto si las"
+  },
+  {
+   "i": 1052,
+   "src": "a4e54fa23922",
+   "t": "negociaciones no van muy bien."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/bt0028.spt",
+ "lines": [
+  {
+   "i": 859,
+   "src": "b756b29efe5d",
+   "t": "{{medabot}} {{stray|cap}}"
+  },
+  {
+   "i": 864,
+   "src": "7627bff2d069",
+   "t": "{{robattle|cap}} en puente estrecho"
+  },
+  {
+   "i": 867,
+   "src": "7627bff2d069",
+   "t": "{{robattle|cap}} en puente estrecho"
+  },
+  {
+   "i": 870,
+   "src": "9d567fcedd28",
+   "t": "¡Es un {{match}} de 1 contra 1!"
+  },
+  {
+   "i": 884,
+   "src": "53c2d0e585a7",
+   "t": "Oye, oye...\nDeja esa pieza aquí..."
+  }
+ ]
+}

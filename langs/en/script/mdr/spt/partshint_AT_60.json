@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_60.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "04d2702ea83e",
+   "t": "<c:00ff00>Action:<c> {{break_hammer}}\nA melee attack that adds\n1/2 of the {{charge_gauge}}\n% to {{success}}. Ignores the\nfoe's {{defend}} boost. The\nmore Heavy parts the foe\nhas, the more {{damage}}.\nHas piercing."
+  }
+ ]
+}

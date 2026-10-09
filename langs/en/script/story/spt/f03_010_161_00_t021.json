@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/f03_010_161_00_t021.spt",
+ "lines": [
+  {
+   "i": 1031,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1042,
+   "src": "ff57655f6533",
+   "t": "Oh right, about that {{medalia}} from\nbefore,"
+  },
+  {
+   "i": 1045,
+   "src": "8c9f1c3820c0",
+   "t": "I made it shared {{club}} property."
+  },
+  {
+   "i": 1053,
+   "src": "cb3d3763a753",
+   "t": "Open the {{medal}} tab in the Settings app"
+  },
+  {
+   "i": 1056,
+   "src": "52d345f3b22b",
+   "t": "and pick a {{medalia}} to set it."
+  },
+  {
+   "i": 1071,
+   "src": "7d37f42d974f",
+   "t": "No reason not to use the powerful\neffects of {{medalia|pl}}."
+  },
+  {
+   "i": 1074,
+   "src": "68de852ec42b",
+   "t": "Try them out, don't hold back."
+  }
+ ]
+}

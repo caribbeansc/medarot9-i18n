@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_16.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "5b3e4bcef41a",
+   "t": "<c:00ff00>{{leader|cap}} {{effect|cap}}:<c>{{charge_halt}}\nEach time you attack the enemy team, you\nreduce their Charge Gauge by 5%"
+  }
+ ]
+}

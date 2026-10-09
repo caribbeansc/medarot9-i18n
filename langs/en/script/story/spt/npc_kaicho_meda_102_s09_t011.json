@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_kaicho_meda_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "276dee70715c",
+   "t": "{{zakuro}}"
+  },
+  {
+   "i": 1035,
+   "src": "92295b982697",
+   "t": "Hey, hey, Suzune-chan."
+  },
+  {
+   "i": 1038,
+   "src": "051c621d8544",
+   "t": "What about lunch? When shall we eat~?"
+  }
+ ]
+}

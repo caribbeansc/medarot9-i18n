@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_m_3e_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1038,
+   "src": "460d3a5e9cc4",
+   "t": "¿Quieres observar los clubes? "
+  },
+  {
+   "i": 1041,
+   "src": "5d83cf445c83",
+   "t": "Ve al {{club_building}}."
+  },
+  {
+   "i": 1049,
+   "src": "9f6f834e82e2",
+   "t": "Revisa sus áreas de práctica: el"
+  },
+  {
+   "i": 1052,
+   "src": "243c5c025727",
+   "t": "campo, el {{gymnasium}} o el {{dojo}}."
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "file": "story/spt/f02_130_211_10_t002.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "94ab0a635948",
+   "t": "El ambiente aquí es bastante\ndistinto al de la superficie, ¿no?"
+  },
+  {
+   "i": 1037,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1043,
+   "src": "1b7a7f8d0e0c",
+   "t": "Sí. Seguramente fue una"
+  },
+  {
+   "i": 1046,
+   "src": "b341e654cb9d",
+   "t": "instalación de investigación de antaño."
+  },
+  {
+   "i": 1054,
+   "src": "4aa3737e9dac",
+   "t": "De antaño..."
+  },
+  {
+   "i": 1057,
+   "src": "a9f58a3cd2d3",
+   "t": "Ya lo dijiste antes también, ¿verdad?"
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1068,
+   "src": "6031142eb02a",
+   "t": "Oh, ¿no lo sabías? Aquí solía"
+  },
+  {
+   "i": 1071,
+   "src": "ebe73e71e89a",
+   "t": "haber una {{medalia_mine}} en esta isla."
+  },
+  {
+   "i": 1079,
+   "src": "586a230b5f2c",
+   "t": "¡Una {{medalia_mine}}!"
+  },
+  {
+   "i": 1084,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1090,
+   "src": "670c2bb54963",
+   "t": "En el terreno de esa vieja {{mine}} "
+  },
+  {
+   "i": 1093,
+   "src": "06f0e006dd8d",
+   "t": "fue construida esta {{academy}}."
+  },
+  {
+   "i": 1101,
+   "src": "5b8bf3e54094",
+   "t": "Antaño había enormes instalaciones"
+  },
+  {
+   "i": 1104,
+   "src": "01bcc9260258",
+   "t": "mas casi todas fueron arrasadas."
+  },
+  {
+   "i": 1112,
+   "src": "84e48d5d59ee",
+   "t": "Sitios como este, intactos,"
+  },
+  {
+   "i": 1115,
+   "src": "c4187eb26611",
+   "t": "casi no quedan ya."
+  },
+  {
+   "i": 1122,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1128,
+   "src": "826327f33b8c",
+   "t": "Está bajo tierra, después de todo."
+  },
+  {
+   "i": 1131,
+   "src": "7bb0d5c6692c",
+   "t": "Quizá lo olvidaron y no lo demolieron."
+  },
+  {
+   "i": 1139,
+   "src": "0b2bfbea3b55",
+   "t": "Una instalación de investigación\nolvidada..."
+  }
+ ]
+}

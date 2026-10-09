@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f06_220_161_00_t013.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "c065cb1d5aa7",
+   "t": "I picked out the areas with stronger\nreactions."
+  },
+  {
+   "i": 1038,
+   "src": "032779c597a5",
+   "t": "It's far away, so I can't be sure, though."
+  },
+  {
+   "i": 1046,
+   "src": "6d52d189db11",
+   "t": "Let's try going here first."
+  },
+  {
+   "i": 1049,
+   "src": "18fdc65a13d2",
+   "t": "Let's look for {{medalia}} while doing a\nquest."
+  }
+ ]
+}

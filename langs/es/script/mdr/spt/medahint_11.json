@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_11.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c0b2d74a0e95",
+   "t": "{{medabot}} camaleón que se\ncamufla con su color.\n \nEspecialista en ocultarse:\n{{stealth}} evita la detección\nenemiga y {{conceal}}\nbloquea la línea de tiro,\nabriendo tácticas\nespeciales."
+  }
+ ]
+}

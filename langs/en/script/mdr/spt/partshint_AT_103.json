@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_103.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bff7eee389fb",
+   "t": "<c:00ff00>Action:<c> {{desperate}}\nGreatly raises the {{power}}\nof your attack {{part|pl}} for a\nwhile. But you take\n1/2 of the {{damage}} you\ndeal."
+  }
+ ]
+}

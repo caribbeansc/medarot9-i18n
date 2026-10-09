@@ -1,0 +1,55 @@
+{
+ "file": "story/spt/free03_01_03_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "01fb2bf6f169",
+   "t": "{{mission|cap}} '{{explore|cap}}: {{misty_deep_forest}}'..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "390e31aa0331",
+   "t": "In the island's northeast there's a forest"
+  },
+  {
+   "i": 1049,
+   "src": "3c1941403b29",
+   "t": "that's always wrapped in deep fog."
+  },
+  {
+   "i": 1057,
+   "src": "2206b1308c8f",
+   "t": "The thick fog blocked our view and\nslowed us down,"
+  },
+  {
+   "i": 1060,
+   "src": "2c90264ac766",
+   "t": "but recently I found a safe route."
+  },
+  {
+   "i": 1068,
+   "src": "866950ef27ea",
+   "t": "You know the east coast beach already,\nright?"
+  },
+  {
+   "i": 1071,
+   "src": "324c3223785d",
+   "t": "It's past the coastal forest road north of\nthere."
+  },
+  {
+   "i": 1079,
+   "src": "4149da2743bf",
+   "t": "A solid path leads into the Misty Deep\nForest."
+  },
+  {
+   "i": 1082,
+   "src": "aa0364cd5647",
+   "t": "Want to {{explore}} it?"
+  }
+ ]
+}

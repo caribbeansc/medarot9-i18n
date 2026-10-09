@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_0_3.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "34cc98130c58",
+   "t": "<c:00ff00>Robattle Style:<c> {{hunter}}\n{{power}} +8 {{success}} +8\n{{fighting}} +10\nWhen you {{destroy}} 1 {{part}},\n{{charge_gauge}} +10%"
+  }
+ ]
+}

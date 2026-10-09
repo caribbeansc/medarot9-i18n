@@ -1,0 +1,35 @@
+{
+ "file": "story/spt/npc_m_2e_165_s01_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "c922c1e823ba",
+   "t": "{{hanzo}}"
+  },
+  {
+   "i": 1038,
+   "src": "c04657ae4204",
+   "t": "What, the president turned you down?"
+  },
+  {
+   "i": 1046,
+   "src": "33db30d392f6",
+   "t": "I see. Well, don't be too down."
+  },
+  {
+   "i": 1049,
+   "src": "fb356af12637",
+   "t": "Actually, it might be for the best."
+  },
+  {
+   "i": 1057,
+   "src": "ee528b1ab654",
+   "t": "Think of it as dodging the hellish rookie\ntraining."
+  },
+  {
+   "i": 1060,
+   "src": "6f2d7303fe9c",
+   "t": "Heh heh."
+  }
+ ]
+}

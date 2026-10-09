@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_46.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "425fa3a57c66",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nSúper Armadura\nAnula los efectos de\n{{thunder}},\n{{freeze}} y {{tornado}}."
+  }
+ ]
+}

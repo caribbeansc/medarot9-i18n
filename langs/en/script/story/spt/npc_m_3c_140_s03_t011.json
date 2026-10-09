@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/npc_m_3c_140_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "2ebc46fccac9",
+   "t": "{{akitora}}"
+  },
+  {
+   "i": 1038,
+   "src": "0d9b86106f9e",
+   "t": "Who are you?!"
+  },
+  {
+   "i": 1041,
+   "src": "59fd65ce744c",
+   "t": "What brings you here?"
+  },
+  {
+   "i": 1049,
+   "src": "6b0edd0eb094",
+   "t": "What?!"
+  },
+  {
+   "i": 1052,
+   "src": "4fd7226b1800",
+   "t": "You say you have no business here?"
+  },
+  {
+   "i": 1060,
+   "src": "01a21b7166a9",
+   "t": "I see!"
+  },
+  {
+   "i": 1063,
+   "src": "0cfc4269c58a",
+   "t": "But no problem!"
+  },
+  {
+   "i": 1071,
+   "src": "fbb0135e8c66",
+   "t": "We welcome anyone who comes!"
+  },
+  {
+   "i": 1074,
+   "src": "155d44f3d7ed",
+   "t": "We don't chase anyone who leaves!"
+  },
+  {
+   "i": 1082,
+   "src": "22720c57463c",
+   "t": "Spend your time however you like!"
+  },
+  {
+   "i": 1085,
+   "src": "616e00eededb",
+   "t": "Come on in!"
+  }
+ ]
+}

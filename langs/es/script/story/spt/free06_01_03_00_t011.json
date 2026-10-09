@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/free06_01_03_00_t011.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "9fe9ed0e53b3",
+   "t": "{{mission|cap}} 'Observación de Ondas:\n{{summit|cap}} de la Montaña'..."
+  },
+  {
+   "i": 1040,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1046,
+   "src": "5d96bedab0ce",
+   "t": "En fin, queremos los datos de ondas"
+  },
+  {
+   "i": 1049,
+   "src": "9b0092d1b45a",
+   "t": "del punto más alto de la isla."
+  },
+  {
+   "i": 1057,
+   "src": "275f918fe0df",
+   "t": "Escalar montañas, eh..."
+  }
+ ]
+}

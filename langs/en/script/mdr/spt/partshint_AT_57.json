@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_57.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "f2710d3d919b",
+   "t": "<c:00ff00>Action:<c> {{charge_drain}}\nA melee attack that drains\nfrom the {{opponent}}'s\n{{charge_gauge}} half of the\n{{damage}} you dealt."
+  }
+ ]
+}

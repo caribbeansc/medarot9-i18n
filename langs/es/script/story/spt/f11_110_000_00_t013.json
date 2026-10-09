@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f11_110_000_00_t013.spt",
+ "lines": [
+  {
+   "i": 1035,
+   "src": "69a57e581934",
+   "t": "Eh."
+  },
+  {
+   "i": 1040,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1046,
+   "src": "70fa2dd8cb17",
+   "t": "Es mi {{smartphone}}."
+  },
+  {
+   "i": 1049,
+   "src": "fe78bfbc0ee1",
+   "t": "Un correo..."
+  }
+ ]
+}

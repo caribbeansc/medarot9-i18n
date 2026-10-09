@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_177.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a149d523bbc5",
+   "t": "Parrot-{{type}} {{medabot}} that\nadapts to all kinds of\nenvironments.\n \nWith {{mirror_guard}}, it\nparrots back the ranged\nattack it blocked."
+  }
+ ]
+}

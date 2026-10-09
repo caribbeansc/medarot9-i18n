@@ -1,0 +1,25 @@
+{
+ "file": "mdr/spt/memo53.spt",
+ "lines": [
+  {
+   "i": 10,
+   "src": "3a764322da85",
+   "t": "\"Explorar: {{misty_deep_forest}}\""
+  },
+  {
+   "i": 32,
+   "src": "d77f6a06c469",
+   "t": "Exploremos el {{misty_deep_forest}} hasta la costa norte.\nDesde la playa, sigamos la ruta tras el {{deep_forest}} costero.\n"
+  },
+  {
+   "i": 42,
+   "src": "a3f7ea470e48",
+   "t": "¡Cruzamos la isla y vimos el mar desde el acantilado!\nVolvamos a la {{clubroom}}.\n"
+  },
+  {
+   "i": 52,
+   "src": "cb5e594b7879",
+   "t": "¡Volvimos a la {{clubroom}} y completamos la {{mission}}!\n"
+  }
+ ]
+}

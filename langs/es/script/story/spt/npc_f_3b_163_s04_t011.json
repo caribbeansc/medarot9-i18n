@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_f_3b_163_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1035,
+   "src": "99e9dc3de8c2",
+   "t": "¿Cuál será el premio de este año?"
+  },
+  {
+   "i": 1038,
+   "src": "6c142eaef68a",
+   "t": "Ojalá sea una {{medalia}}."
+  },
+  {
+   "i": 1049,
+   "src": "05cf8ad0c210",
+   "t": "Ah, no hablo del premio por ganar--"
+  },
+  {
+   "i": 1052,
+   "src": "ce3d7ca1d55c",
+   "t": "¡Hablo del premio por participar!"
+  }
+ ]
+}

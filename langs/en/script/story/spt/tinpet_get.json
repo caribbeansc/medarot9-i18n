@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/tinpet_get.spt",
+ "lines": [
+  {
+   "i": 831,
+   "src": "5789c39a0e10",
+   "t": "{{mio}} Shirakabe"
+  },
+  {
+   "i": 853,
+   "src": "baf14056c889",
+   "t": "Kunigiku Shinozaki"
+  },
+  {
+   "i": 875,
+   "src": "7c55e1f60a1f",
+   "t": "{{main}} Konishi"
+  },
+  {
+   "i": 897,
+   "src": "1db5940e611e",
+   "t": "{{ryoma}} Kikusui"
+  }
+ ]
+}

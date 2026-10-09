@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_43.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e0457757e84e",
+   "t": "<c:00ff00>Técnica:<c>Fire\nAtaque de {{fighting}} que\naplica el {{status}} {{fire}}.\n<c:00ffff>{{status|cap}}:<c>{{fire}}\nPor un tiempo, al\nterminar\ncada acción causa 10 de\n{{damage}} a todas las {{part|pl}}.\nNo identifica al {{leader}}."
+  }
+ ]
+}

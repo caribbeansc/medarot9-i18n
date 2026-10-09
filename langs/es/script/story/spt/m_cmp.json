@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/m_cmp.spt",
+ "lines": [
+  {
+   "i": 1401,
+   "src": "548dc5688bec",
+   "t": "¿Qué será esta máquina...?"
+  },
+  {
+   "i": 1404,
+   "src": "35a1f592dd49",
+   "t": "¿¿¿Una lavadora???"
+  },
+  {
+   "i": 1432,
+   "src": "548dc5688bec",
+   "t": "¿Qué será esta máquina...?"
+  },
+  {
+   "i": 1435,
+   "src": "35a1f592dd49",
+   "t": "¿¿¿Una lavadora???"
+  },
+  {
+   "i": 1465,
+   "src": "f64ffe039634",
+   "t": "Activé la Máquina de Síntesis de\n{{medalia|pl}}."
+  },
+  {
+   "i": 1471,
+   "src": "b92cfc42b818",
+   "t": "¿Usar la máquina?"
+  },
+  {
+   "i": 1472,
+   "src": "3f7592b3e4ba",
+   "t": "Usar"
+  },
+  {
+   "i": 1473,
+   "src": "0d74d434a083",
+   "t": "No usar"
+  },
+  {
+   "i": 1477,
+   "src": "3f7592b3e4ba",
+   "t": "Usar"
+  },
+  {
+   "i": 1486,
+   "src": "0d74d434a083",
+   "t": "No usar"
+  },
+  {
+   "i": 1490,
+   "src": "f085b763bb45",
+   "t": "La Máquina de {{medalia_fusion|cap}} se\ndetuvo."
+  }
+ ]
+}

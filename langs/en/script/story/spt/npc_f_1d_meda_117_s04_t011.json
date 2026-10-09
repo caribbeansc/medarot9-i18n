@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_1d_meda_117_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "8f441470e0e9",
+   "t": "{{lily_madonna}}"
+  },
+  {
+   "i": 1038,
+   "src": "c1dd72663a34",
+   "t": "It's the tournament!"
+  },
+  {
+   "i": 1041,
+   "src": "af2815ed82eb",
+   "t": "I'm so excited~"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free08_01_01_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "La {{mission}} en la que trabajo ahora es"
+  },
+  {
+   "i": 1004,
+   "src": "b9b4e55d12f0",
+   "t": "'Recolección de {{medalia|pl}}: {{crater|cap}}'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Revisa la app de misiones para los\ndetalles."
+  }
+ ]
+}

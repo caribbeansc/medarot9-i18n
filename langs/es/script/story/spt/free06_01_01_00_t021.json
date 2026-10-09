@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/free06_01_01_00_t021.spt",
+ "lines": [
+  {
+   "i": 1032,
+   "src": "70e984420e73",
+   "t": "¡{{mission|cap}} 'Observación de Ondas: Puerto\nViejo' iniciada!"
+  },
+  {
+   "i": 1037,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1043,
+   "src": "2083fe833d2d",
+   "t": "La ruta más corta a {{old_harbor_town}}"
+  },
+  {
+   "i": 1046,
+   "src": "945438b1bcd1",
+   "t": "es al oeste desde la {{mine}}."
+  }
+ ]
+}

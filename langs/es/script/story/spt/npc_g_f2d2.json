@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_g_f2d2.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "7d90acad81e4",
+   "t": "{{amaneko}}"
+  },
+  {
+   "i": 1038,
+   "src": "bc2b118a06a1",
+   "t": "¿No crees que el {{sports_field}} de la"
+  },
+  {
+   "i": 1041,
+   "src": "e01fd98468fd",
+   "t": "escuela es enorme? Quiero una bici."
+  }
+ ]
+}

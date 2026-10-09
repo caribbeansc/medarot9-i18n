@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/npc_f_2c_164_s06_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "aad3aec7dd49",
+   "t": "{{misuzu}}"
+  },
+  {
+   "i": 1038,
+   "src": "15ac82ddddba",
+   "t": "Últimamente {{hiroki}}-kun no ha aparecido"
+  },
+  {
+   "i": 1041,
+   "src": "fcb24ad35283",
+   "t": "por el {{club}}. Me pregunto qué le pasará."
+  },
+  {
+   "i": 1049,
+   "src": "d648f6631e1b",
+   "t": "Son vacaciones y el {{club}} no"
+  },
+  {
+   "i": 1052,
+   "src": "4c14763b6827",
+   "t": "es obligatorio, pero... no sé."
+  },
+  {
+   "i": 1060,
+   "src": "26a62da11ce0",
+   "t": "aun así... Ojalá no haya agarrado\nmalas costumbres por ahí... aunque,"
+  },
+  {
+   "i": 1068,
+   "src": "96c9d32b85ff",
+   "t": "En la isla no hay donde"
+  },
+  {
+   "i": 1071,
+   "src": "68143015e243",
+   "t": "aprender algo así. Ajaja."
+  }
+ ]
+}

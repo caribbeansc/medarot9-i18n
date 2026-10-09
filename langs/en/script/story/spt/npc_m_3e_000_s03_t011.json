@@ -1,0 +1,40 @@
+{
+ "file": "story/spt/npc_m_3e_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "fc0090a3156a",
+   "t": "{{yurige}}"
+  },
+  {
+   "i": 1038,
+   "src": "a0b9fa768aa3",
+   "t": "On our Newspaper {{club|cap}}'s web news,"
+  },
+  {
+   "i": 1041,
+   "src": "11d28228c380",
+   "t": "we're doing a feature on the next\ntournament..."
+  },
+  {
+   "i": 1049,
+   "src": "9fe2a424929b",
+   "t": "But it just isn't getting people excited."
+  },
+  {
+   "i": 1052,
+   "src": "08e7dc8a6e11",
+   "t": "The {{rescue_club}}'s too strong to call a\nwinner."
+  },
+  {
+   "i": 1060,
+   "src": "2e90def18b82",
+   "t": "I wish a dark horse would show up."
+  },
+  {
+   "i": 1063,
+   "src": "e48523dd67e1",
+   "t": "Then our readership would go up."
+  }
+ ]
+}

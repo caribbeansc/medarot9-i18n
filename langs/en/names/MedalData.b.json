@@ -1,0 +1,1022 @@
+{
+ "file": "param/MedalData.b",
+ "slots": [
+  {
+   "off": 1,
+   "size": 12,
+   "src": "9f5a6a5245d0",
+   "t": "Hercules",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 24,
+   "size": 12,
+   "src": "822663dfa15d",
+   "t": "Actaeon",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 47,
+   "size": 12,
+   "src": "4e9410dd15c9",
+   "t": "Neptune",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 70,
+   "size": 12,
+   "src": "65e357054288",
+   "t": "Kabuto",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 93,
+   "size": 12,
+   "src": "d8ca8423cc13",
+   "t": "Caucasus",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 116,
+   "size": 12,
+   "src": "69542dba6577",
+   "t": "Elephas",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 139,
+   "size": 12,
+   "src": "dbbd364ed2aa",
+   "t": "Giraffa",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 162,
+   "size": 12,
+   "src": "15536b96442c",
+   "t": "Judaicus",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 185,
+   "size": 12,
+   "src": "72abfb57e7d9",
+   "t": "Grandis",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 208,
+   "size": 12,
+   "src": "982dd7d909e1",
+   "t": "Mandib",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 231,
+   "size": 12,
+   "src": "e9f275d3164f",
+   "t": "Kuwagata",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 254,
+   "size": 12,
+   "src": "ad8317af6942",
+   "t": "Tarandus",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 277,
+   "size": 12,
+   "src": "616db0dcfcb8",
+   "t": "Swallowtail",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 300,
+   "size": 12,
+   "src": "719d4fae79f5",
+   "t": "Gossamer",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 323,
+   "size": 12,
+   "src": "a896566be41e",
+   "t": "Butterfly",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 346,
+   "size": 12,
+   "src": "4b06446713cf",
+   "t": "Brushfoot",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 369,
+   "size": 12,
+   "src": "c66d52f517f3",
+   "t": "Madara",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 392,
+   "size": 12,
+   "src": "0cee64e4ae74",
+   "t": "Morpho",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 415,
+   "size": 12,
+   "src": "cc966a355561",
+   "t": "Salamander",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 438,
+   "size": 12,
+   "src": "9c00570dca3d",
+   "t": "Sylph",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 461,
+   "size": 12,
+   "src": "6231cd326a0d",
+   "t": "Dryad",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 484,
+   "size": 12,
+   "src": "c73060b22267",
+   "t": "Gnome",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 507,
+   "size": 12,
+   "src": "e2c5132dd89e",
+   "t": "Succubus",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 530,
+   "size": 12,
+   "src": "1a7fa21038bb",
+   "t": "Undine",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 553,
+   "size": 12,
+   "src": "72b04363d972",
+   "t": "Sleipnir",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 576,
+   "size": 12,
+   "src": "24c9d391bb3d",
+   "t": "Pegasus",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 599,
+   "size": 12,
+   "src": "56d2e92d56f5",
+   "t": "Kelpie",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 622,
+   "size": 12,
+   "src": "af2fd8084d13",
+   "t": "Centaur",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 645,
+   "size": 12,
+   "src": "5160a4bf0812",
+   "t": "Nightmare",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 668,
+   "size": 12,
+   "src": "87b9faa83472",
+   "t": "Unicorn",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 691,
+   "size": 12,
+   "src": "336bac28036d",
+   "t": "King",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 714,
+   "size": 12,
+   "src": "a6a2f1c16309",
+   "t": "Queen",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 737,
+   "size": 12,
+   "src": "fcc1bf0b4df3",
+   "t": "Pawn",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 760,
+   "size": 12,
+   "src": "3b7c6aed80ea",
+   "t": "Bishop",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 783,
+   "size": 12,
+   "src": "ced79d651602",
+   "t": "Rook",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 806,
+   "size": 12,
+   "src": "8cd767b4cf91",
+   "t": "Knight",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 829,
+   "size": 12,
+   "src": "a5bb9f9c863d",
+   "t": "Dragon",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 852,
+   "size": 12,
+   "src": "2c9e891aa5e8",
+   "t": "Heart",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 875,
+   "size": 12,
+   "src": "2406a1ec771d",
+   "t": "Lion",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 898,
+   "size": 12,
+   "src": "7ece6f32e8b9",
+   "t": "Bastet",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 921,
+   "size": 12,
+   "src": "cb1b8fb39a4e",
+   "t": "Cat",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 944,
+   "size": 12,
+   "src": "81d429815f3b",
+   "t": "Shrimp",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 967,
+   "size": 12,
+   "src": "da2af4e4a0dd",
+   "t": "Turtle",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 990,
+   "size": 12,
+   "src": "46d73b0903cd",
+   "t": "Tortoise",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1013,
+   "size": 12,
+   "src": "def81d65cf73",
+   "t": "Wolf",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1036,
+   "size": 12,
+   "src": "5a3175e05147",
+   "t": "Anubis",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1059,
+   "size": 12,
+   "src": "e34738045a21",
+   "t": "Dog",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1082,
+   "size": 12,
+   "src": "0eb73e702504",
+   "t": "Scorpion",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1105,
+   "size": 12,
+   "src": "18b35ced50f8",
+   "t": "Spider",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1128,
+   "size": 12,
+   "src": "ecc59f4c6693",
+   "t": "Lizard",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1151,
+   "size": 12,
+   "src": "51005adec3ed",
+   "t": "Chameleon",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1174,
+   "size": 12,
+   "src": "70deb0b37d27",
+   "t": "{{stealth}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1197,
+   "size": 12,
+   "src": "53871c62d2b4",
+   "t": "Gorgon",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1220,
+   "size": 12,
+   "src": "98221dba553f",
+   "t": "Aegis",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1243,
+   "size": 12,
+   "src": "b0171ee4f1f4",
+   "t": "Snake",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1266,
+   "size": 12,
+   "src": "df0cea0041e2",
+   "t": "{{sniper}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1289,
+   "size": 12,
+   "src": "579a2865489d",
+   "t": "Gunman",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1312,
+   "size": 12,
+   "src": "2aa91bfe303f",
+   "t": "Spy",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1335,
+   "size": 12,
+   "src": "74d33ad81fc8",
+   "t": "{{hunter}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1358,
+   "size": 12,
+   "src": "58bd8f7753e1",
+   "t": "Emperor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1381,
+   "size": 12,
+   "src": "be6fd5110cdb",
+   "t": "Empress",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1404,
+   "size": 12,
+   "src": "e81cdeebf82b",
+   "t": "Chariot",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1427,
+   "size": 12,
+   "src": "96d07d1232a3",
+   "t": "Chaos",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1450,
+   "size": 12,
+   "src": "df6cce5e7405",
+   "t": "{{assassin}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1473,
+   "size": 12,
+   "src": "20bb6e11e1b6",
+   "t": "Jonin",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1496,
+   "size": 12,
+   "src": "26d4be681064",
+   "t": "Ninja",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1519,
+   "size": 12,
+   "src": "ca40df455380",
+   "t": "Shogun",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1542,
+   "size": 12,
+   "src": "ab64a29711d2",
+   "t": "Daimyo",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1565,
+   "size": 12,
+   "src": "e6fa89d01ba6",
+   "t": "{{samurai}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1588,
+   "size": 12,
+   "src": "cd795cb1ddd6",
+   "t": "Bat",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1611,
+   "size": 12,
+   "src": "bed177988b10",
+   "t": "{{devil}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1634,
+   "size": 12,
+   "src": "55573d172567",
+   "t": "Monkey",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1657,
+   "size": 12,
+   "src": "0a8bd1c15574",
+   "t": "Angel",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1680,
+   "size": 12,
+   "src": "ced1c910d941",
+   "t": "Nurse",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1703,
+   "size": 12,
+   "src": "5c882ccc7d49",
+   "t": "Wyvern",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1726,
+   "size": 12,
+   "src": "9358343de69c",
+   "t": "Hydra",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1749,
+   "size": 12,
+   "src": "1ddc6cafe66c",
+   "t": "Dolphin",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1772,
+   "size": 12,
+   "src": "25b0cb66a8df",
+   "t": "Mermaid",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1795,
+   "size": 12,
+   "src": "3e3ded80e345",
+   "t": "Melody",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1818,
+   "size": 12,
+   "src": "a4f100a40fa8",
+   "t": "Vampire",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1841,
+   "size": 12,
+   "src": "ed9d344746eb",
+   "t": "{{ghost}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1864,
+   "size": 12,
+   "src": "e7c7ba2dd6a0",
+   "t": "Flower",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1887,
+   "size": 12,
+   "src": "b4f2afd6ca0c",
+   "t": "{{plant}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1910,
+   "size": 12,
+   "src": "6b5b3d56f797",
+   "t": "Hawk",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1933,
+   "size": 12,
+   "src": "1852f9d7713b",
+   "t": "Sky",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1956,
+   "size": 12,
+   "src": "321e6c421392",
+   "t": "Hornet",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 1979,
+   "size": 12,
+   "src": "63b832c2388e",
+   "t": "Shark",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2002,
+   "size": 12,
+   "src": "78df80ab4965",
+   "t": "Marine",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2025,
+   "size": 12,
+   "src": "b5ff743430d0",
+   "t": "Rabbit",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2048,
+   "size": 12,
+   "src": "1d5292259cf5",
+   "t": "Mole",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2071,
+   "size": 12,
+   "src": "662b118dddf4",
+   "t": "Earth",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2094,
+   "size": 12,
+   "src": "91a2cf6f4918",
+   "t": "Thunderbird",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2117,
+   "size": 12,
+   "src": "f61e54821ae4",
+   "t": "{{thunder}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2140,
+   "size": 12,
+   "src": "46b1cce864cd",
+   "t": "{{fire}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2163,
+   "size": 12,
+   "src": "f1f6f2439284",
+   "t": "Fenrir",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2186,
+   "size": 12,
+   "src": "c6dba4917839",
+   "t": "{{ice}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2209,
+   "size": 12,
+   "src": "0dd7eeeb2516",
+   "t": "Star",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2232,
+   "size": 12,
+   "src": "ceba70e24c0a",
+   "t": "Moon",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2255,
+   "size": 12,
+   "src": "b9689b70fa5d",
+   "t": "Mantis",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2278,
+   "size": 12,
+   "src": "19b210c32de0",
+   "t": "Kraken",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2301,
+   "size": 12,
+   "src": "67c2708a2df8",
+   "t": "Tiger",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2324,
+   "size": 12,
+   "src": "001bd2a3ad00",
+   "t": "Cockroach",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2347,
+   "size": 12,
+   "src": "f2c0a985e106",
+   "t": "Minotaur",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2370,
+   "size": 12,
+   "src": "05be35de58d2",
+   "t": "Ox",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2393,
+   "size": 12,
+   "src": "20226bf090f3",
+   "t": "Companion",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2416,
+   "size": 12,
+   "src": "60a385249af5",
+   "t": "Wizard",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2439,
+   "size": 12,
+   "src": "e618a46a9cc1",
+   "t": "Magician",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2462,
+   "size": 12,
+   "src": "bb50d8fe6afd",
+   "t": "Elephant",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2485,
+   "size": 12,
+   "src": "7479c65eb724",
+   "t": "Doctor",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2508,
+   "size": 12,
+   "src": "58081c4be064",
+   "t": "{{master}}",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2531,
+   "size": 12,
+   "src": "adc55b3ed9d0",
+   "t": "Gear",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2554,
+   "size": 12,
+   "src": "8fb9ed765778",
+   "t": "Bear",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  },
+  {
+   "off": 2623,
+   "size": 12,
+   "src": "96d07d1232a3",
+   "t": "Chaos",
+   "fill": "nul",
+   "head": 0,
+   "tail": 0
+  }
+ ]
+}

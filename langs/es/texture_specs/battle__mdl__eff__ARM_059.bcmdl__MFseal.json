@@ -1,0 +1,114 @@
+{
+ "rel": "battle/mdl/eff/ARM_059.bcmdl",
+ "tex": "MFseal",
+ "also": "auto",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    0,
+    0,
+    64,
+    64
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    31,
+    0,
+    32,
+    20
+   ],
+   "erase": "none",
+   "text": "MEDA-",
+   "font": "anton",
+   "cap": 10.5,
+   "fill": "#8A0E8A",
+   "stroke": null,
+   "pad": 0,
+   "align": "center"
+  },
+  {
+   "box": [
+    31,
+    21,
+    32,
+    20
+   ],
+   "erase": "none",
+   "text": "FUER-",
+   "font": "anton",
+   "cap": 10.5,
+   "fill": "#8A0E8A",
+   "stroke": null,
+   "pad": 0,
+   "align": "center"
+  },
+  {
+   "box": [
+    31,
+    42,
+    32,
+    20
+   ],
+   "erase": "none",
+   "text": "ZA",
+   "font": "anton",
+   "cap": 10.5,
+   "fill": "#8A0E8A",
+   "stroke": null,
+   "pad": 0,
+   "align": "center"
+  },
+  {
+   "box": [
+    0,
+    5,
+    32,
+    20
+   ],
+   "erase": "none",
+   "text": "PRO-",
+   "font": "anton",
+   "cap": 10.5,
+   "fill": "#8A0E8A",
+   "stroke": null,
+   "pad": 0,
+   "align": "center"
+  },
+  {
+   "box": [
+    0,
+    25,
+    32,
+    20
+   ],
+   "erase": "none",
+   "text": "HIBI-",
+   "font": "anton",
+   "cap": 10.5,
+   "fill": "#8A0E8A",
+   "stroke": null,
+   "pad": 0,
+   "align": "center"
+  },
+  {
+   "box": [
+    0,
+    45,
+    32,
+    20
+   ],
+   "erase": "none",
+   "text": "DA",
+   "font": "anton",
+   "cap": 10.5,
+   "fill": "#8A0E8A",
+   "stroke": null,
+   "pad": 0,
+   "align": "center"
+  }
+ ]
+}

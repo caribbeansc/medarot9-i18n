@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description5.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dfc6a6f8c5e0",
+   "t": "{{tinpet}}"
+  },
+  {
+   "i": 11,
+   "src": "09f1b86bf860",
+   "t": "Marco básico del <c:ffff00>{{medabot}}<c>, que une las funciones de\nnervios y esqueleto. Al colocarle una <c:ffff00>{{medal}}<c> y\n<c:ffff00>{{part|pl}}<c>, el {{medabot}} queda completo.\n\nHay dos <c:ffff00>géneros<c>, {{type}} masculino y {{type}} femenino, y\nsolo se pueden colocar {{part|pl}} del mismo {{gender}}."
+  }
+ ]
+}

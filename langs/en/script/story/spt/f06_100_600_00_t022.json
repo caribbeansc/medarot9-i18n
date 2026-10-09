@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f06_100_600_00_t022.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1035,
+   "src": "bf5b5d6f07f0",
+   "t": "Let's settle this!"
+  },
+  {
+   "i": 1043,
+   "src": "3774e560670f",
+   "t": "Let's have a contest to see which of us"
+  },
+  {
+   "i": 1046,
+   "src": "4e72836873b0",
+   "t": "can hunt more {{stray}} {{medabot|pl}}!"
+  },
+  {
+   "i": 1056,
+   "src": "b07e604ac6e3",
+   "t": "{{rescue_club_pres}}"
+  },
+  {
+   "i": 1062,
+   "src": "6265afb5efdf",
+   "t": "...{{ryusei}}."
+  },
+  {
+   "i": 1069,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1075,
+   "src": "e102f39ddd2f",
+   "t": "Ah..."
+  }
+ ]
+}

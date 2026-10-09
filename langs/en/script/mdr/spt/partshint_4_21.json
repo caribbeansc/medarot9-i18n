@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_21.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "dfcc1930eed7",
+   "t": "<c:00ff00>Leg Trait:<c> {{fair_charge}}\nAfter each {{part}}'s action,\n{{charge_gauge}} increases\nby\n1/20 of the {{armor}} of your\nset Traps and Plants."
+  }
+ ]
+}

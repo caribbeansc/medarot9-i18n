@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/lskill_hint_2.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "72e955d3fafe",
+   "t": "<c:00ff00>{{effect|cap}} {{leader|cap}}:<c>Formación de Asalto\nSube a 110% el {{damage}} que recibes del {{opponent}}\n{{legs|cap}}: Mov. +10, {{prep|cap}} +10 en ataque"
+  }
+ ]
+}

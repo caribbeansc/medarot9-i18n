@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description62.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "9e95492ecb37",
+   "t": "{{revert}}"
+  },
+  {
+   "i": 11,
+   "src": "a21192eeee55",
+   "t": "An <c:ffff00>act<c> that returns a <c:ffff00>{{medabot}}<c> in <c:ffff00>{{medachange_form}}<c>\nto its original state. The higher the <c:ffff00>{{medal_level}}<c>, the\nfaster <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c> are.\nIt can be used at any time; in addition, if the <c:ffff00>Charge<c>\n<c:ffff00>Gauge<c> falls below 10% in {{medachange_form}}, it is\nforcibly reverted.\nWhen reverting, the <c:ffff00>{{armor}}<c> is split evenly among the\n4 <c:ffff00>slots<c> and all <c:ffff00>negative statuses<c> disappear."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/npc_pc02_161_meda_s05_t001.spt",
+ "lines": [
+  {
+   "i": 1038,
+   "src": "741472e6106d",
+   "t": "Lately {{mio}} and I talk about {{robattle|pl}} a\nlot."
+  },
+  {
+   "i": 1041,
+   "src": "be06ecdc85ef",
+   "t": "She never used to be interested at all."
+  },
+  {
+   "i": 1049,
+   "src": "b0f1982e2e04",
+   "t": "I wonder if it's because she joined the\n{{club|cap}}."
+  },
+  {
+   "i": 1052,
+   "src": "f70178cf75e5",
+   "t": "Hee hee."
+  }
+ ]
+}

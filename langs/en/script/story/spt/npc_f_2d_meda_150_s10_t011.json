@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_2d_meda_150_s10_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "bc0f987f256d",
+   "t": "{{noir_katze}}"
+  },
+  {
+   "i": 1038,
+   "src": "f3c83611fec8",
+   "t": "{{master}}, I'm tired!"
+  },
+  {
+   "i": 1041,
+   "src": "59dc85f2b4e8",
+   "t": "Let's go home early and rest today!"
+  }
+ ]
+}

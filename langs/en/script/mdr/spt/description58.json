@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description58.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "66a3be4dbc02",
+   "t": "{{medaforce}}"
+  },
+  {
+   "i": 11,
+   "src": "d5b2575ce231",
+   "t": "A grand move that draws out the full latent power of\nthe <c:ffff00>{{medal}}<c>. Once thought dangerous as a {{medal}}'s\n{{runaway}} power, it is now an officially recognized <c:ffff00>act<c>\nin a <c:ffff00>{{robattle}}<c>.\nIt needs the <c:ffff00>{{charge_gauge}}<c> at 100% and uses it all.\nBy <c:ffff00>{{rank}}<c>, a <c:ffff00>{{medal}}<c> can use up to 3 types.\nA higher <c:ffff00>{{medal_level}}<c> speeds <c:ffff00>{{prep}}<c> and <c:ffff00>{{cooldown}}<c>.\nThe <c:ffff00>{{acting_part}}<c> is the <c:ffff00>head<c>; other <c:ffff00>slots<c> join by type."
+  }
+ ]
+}

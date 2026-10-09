@@ -1,0 +1,70 @@
+{
+ "file": "mdr/spt/setup_rotation.spt",
+ "lines": [
+  {
+   "i": 2168,
+   "src": "1055a93cd59b",
+   "t": "Cancel routine setup"
+  },
+  {
+   "i": 2171,
+   "src": "dcce1ad912b3",
+   "t": "Want to return?"
+  },
+  {
+   "i": 2884,
+   "src": "c21cc4febb39",
+   "t": "Overwriting erases the old data."
+  },
+  {
+   "i": 2887,
+   "src": "cb0371b12f0c",
+   "t": "Is it Ok?"
+  },
+  {
+   "i": 2900,
+   "src": "72ef20a82be6",
+   "t": "Do you want to save?"
+  },
+  {
+   "i": 2987,
+   "src": "c7d94dad4fc4",
+   "t": "Saving..."
+  },
+  {
+   "i": 3031,
+   "src": "d6c3b809bdb1",
+   "t": "Save completed."
+  },
+  {
+   "i": 3037,
+   "src": "cbf2f9db8b90",
+   "t": "Save failed."
+  },
+  {
+   "i": 3085,
+   "src": "d6c3b809bdb1",
+   "t": "Save completed."
+  },
+  {
+   "i": 3198,
+   "src": "e8b0ff4cafbf",
+   "t": "Delete the save data??"
+  },
+  {
+   "i": 3237,
+   "src": "27589dbfa5bb",
+   "t": "Deleting..."
+  },
+  {
+   "i": 3288,
+   "src": "a198b2c22212",
+   "t": "Removed rotation."
+  },
+  {
+   "i": 3338,
+   "src": "a198b2c22212",
+   "t": "Removed rotation."
+  }
+ ]
+}

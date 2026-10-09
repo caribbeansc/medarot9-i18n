@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f07_150_132_00.spt",
+ "lines": [
+  {
+   "i": 807,
+   "src": "4478533689c8",
+   "t": "I snuck out"
+  },
+  {
+   "i": 808,
+   "src": "5345352efc0e",
+   "t": "Heading back now"
+  },
+  {
+   "i": 812,
+   "src": "4478533689c8",
+   "t": "I snuck out"
+  },
+  {
+   "i": 838,
+   "src": "4478533689c8",
+   "t": "I snuck out"
+  },
+  {
+   "i": 839,
+   "src": "5345352efc0e",
+   "t": "Heading back now"
+  },
+  {
+   "i": 840,
+   "src": "7021b4feb2d3",
+   "t": "{{aoi}}'s waiting"
+  },
+  {
+   "i": 844,
+   "src": "4478533689c8",
+   "t": "I snuck out"
+  },
+  {
+   "i": 858,
+   "src": "5345352efc0e",
+   "t": "Heading back now"
+  },
+  {
+   "i": 894,
+   "src": "23f80a66f86e",
+   "t": "I never said that"
+  },
+  {
+   "i": 895,
+   "src": "b33a55957088",
+   "t": "It's not {{mio}}'s fault"
+  },
+  {
+   "i": 899,
+   "src": "23f80a66f86e",
+   "t": "I never said that"
+  }
+ ]
+}

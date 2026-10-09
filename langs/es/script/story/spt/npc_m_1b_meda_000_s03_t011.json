@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_1b_meda_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "5c5b43b2f274",
+   "t": "{{bustroyer}}"
+  },
+  {
+   "i": 1038,
+   "src": "ea986d7e12a6",
+   "t": "¡No estoy nada solo!"
+  },
+  {
+   "i": 1041,
+   "src": "4cbba6c72ad5",
+   "t": "¡Estoy bien porque tengo a mi {{master}}!"
+  }
+ ]
+}

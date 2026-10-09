@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description106.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "20f909235983",
+   "t": "{{armor}} (stat)"
+  },
+  {
+   "i": 11,
+   "src": "3880af377b46",
+   "t": "A type of <c:ffff00>stat<c> for head, arm and leg <c:ffff00>{{part|pl}}<c> and\n<c:ffff00>objects<c>: how much <c:ffff00>{{damage}}<c> they can withstand.\n\nIt drops when taking {{enemy}} <c:ffff00>attacks<c>; at 0, the {{part}} or\n{{object}} is <c:ffff00>destroyed<c>.\n<c:ffff00>{{recover|cap}}<c> <c:ffff00>actions<c> or <c:ffff00>positive effects<c> raise it up to its\ninitial value.\nIt fully recovers when the <c:ffff00>{{robattle}}<c> ends."
+  }
+ ]
+}

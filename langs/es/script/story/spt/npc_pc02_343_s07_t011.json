@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_pc02_343_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1038,
+   "src": "6982525531e0",
+   "t": "¡¿Qué-qué?! 'Porque sí' es 'porque sí'."
+  },
+  {
+   "i": 1041,
+   "src": "48b6b71a134f",
+   "t": "No le des tantas vueltas."
+  }
+ ]
+}

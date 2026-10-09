@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_cvs_501_s09_t021.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "dbb20c5975c0",
+   "t": "{{time_faller}}"
+  },
+  {
+   "i": 1035,
+   "src": "0cf9834c70ed",
+   "t": "¡Muchas gracias!"
+  },
+  {
+   "i": 1038,
+   "src": "3eb545e76eda",
+   "t": "¡Vuelva pronto!"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_kaicho_102_s09_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1035,
+   "src": "6772034842c3",
+   "t": "Fool."
+  },
+  {
+   "i": 1038,
+   "src": "d196722be549",
+   "t": "Did you really think I hadn't noticed...?"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_idol_nob.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "305a55e7acfe",
+   "t": "{{aoi}}"
+  },
+  {
+   "i": 1067,
+   "src": "8e088be5a9b7",
+   "t": "Eh, with me? Sorry, not right now..."
+  },
+  {
+   "i": 1070,
+   "src": "ebfe22b6c953",
+   "t": "Please ask me another time."
+  }
+ ]
+}

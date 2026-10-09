@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/free03_01_01_99_t001.spt",
+ "lines": [
+  {
+   "i": 1001,
+   "src": "fbc84c5a0de5",
+   "t": "Mi {{mission}} actual es 'Exploración:"
+  },
+  {
+   "i": 1004,
+   "src": "b8fa30be15af",
+   "t": "{{storehouse_underground_facility}}'."
+  },
+  {
+   "i": 1012,
+   "src": "53175787df74",
+   "t": "Revisa la app de misiones para más\ndetalles."
+  }
+ ]
+}

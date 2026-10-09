@@ -1,0 +1,85 @@
+{
+ "rel": "mdr/tex/m9_mum7.ctpk",
+ "base": "jp",
+ "styles": {},
+ "items": [
+  {
+   "erase": "transparent",
+   "box": [
+    100,
+    8,
+    26,
+    16
+   ],
+   "erase_box": [
+    100,
+    8,
+    26,
+    16
+   ],
+   "text": "NAME",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "crisp": 0,
+   "scale_x": 1,
+   "pad": 0,
+   "align": "center",
+   "baseline": 19
+  },
+  {
+   "erase": "transparent",
+   "box": [
+    100,
+    24,
+    28,
+    5
+   ],
+   "erase_box": [
+    100,
+    24,
+    28,
+    5
+   ],
+   "text": "CLASS",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "crisp": 0,
+   "scale_x": 1,
+   "pad": 0,
+   "align": "left",
+   "tracking": 2.0,
+   "baseline": 29
+  },
+  {
+   "erase": "transparent",
+   "box": [
+    1,
+    101,
+    36,
+    12
+   ],
+   "erase_box": [
+    0,
+    101,
+    37,
+    12
+   ],
+   "text": "STUDENT\nNUMBER",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "crisp": 0,
+   "scale_x": 1,
+   "pad": 0,
+   "align": "left",
+   "tracking": 1.0,
+   "leading": 0.6,
+   "baseline": 107
+  }
+ ]
+}

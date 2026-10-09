@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3e_meda_000_s04_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "72ccd9007406",
+   "t": "{{aimflash}}"
+  },
+  {
+   "i": 1035,
+   "src": "0dda06912a46",
+   "t": "Let's go to the gym, {{master}}."
+  },
+  {
+   "i": 1038,
+   "src": "064cecc34441",
+   "t": "We have to cover the pre-tournament\nscene."
+  }
+ ]
+}

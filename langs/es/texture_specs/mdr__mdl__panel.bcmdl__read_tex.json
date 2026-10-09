@@ -1,0 +1,63 @@
+{
+ "rel": "mdr/mdl/panel.bcmdl",
+ "tex": "read_tex",
+ "also": "auto",
+ "defaults": {
+  "erase": "transparent",
+  "font": "verdana",
+  "cap": 8.5,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0.3,
+  "scale_x": 1.1,
+  "dx": -4
+ },
+ "items": [
+  {
+   "box": [
+    14,
+    6,
+    100,
+    13
+   ],
+   "erase_box": [
+    12,
+    5,
+    104,
+    15
+   ],
+   "text": "LIDER"
+  },
+  {
+   "box": [
+    6,
+    30,
+    116,
+    13
+   ],
+   "erase_box": [
+    8,
+    29,
+    112,
+    15
+   ],
+   "text": "COMPANERO 1"
+  },
+  {
+   "box": [
+    6,
+    54,
+    116,
+    13
+   ],
+   "erase_box": [
+    8,
+    53,
+    112,
+    15
+   ],
+   "text": "COMPANERO 2"
+  }
+ ]
+}

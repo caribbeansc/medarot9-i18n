@@ -1,0 +1,70 @@
+{
+ "file": "story/spt/f02_160_161_00_t002.spt",
+ "lines": [
+  {
+   "i": 1033,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1044,
+   "src": "6f360fb2e0a7",
+   "t": "¿...Y bien?"
+  },
+  {
+   "i": 1051,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1060,
+   "src": "7498d1e46398",
+   "t": "¿Eh?"
+  },
+  {
+   "i": 1067,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1076,
+   "src": "cd5556229f70",
+   "t": "¿Ya reuniste suficientes?"
+  },
+  {
+   "i": 1083,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1092,
+   "src": "5114be417975",
+   "t": "¿Qué cosa?"
+  },
+  {
+   "i": 1099,
+   "src": "3ac371823de8",
+   "t": "{{council_pres_suzune}}"
+  },
+  {
+   "i": 1108,
+   "src": "3d4aed484be1",
+   "t": "No te hagas el tonto."
+  },
+  {
+   "i": 1116,
+   "src": "4aa9519245ff",
+   "t": "Los miembros del {{club}}."
+  },
+  {
+   "i": 1130,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1139,
+   "src": "7a5d2746e482",
+   "t": "Jajaja."
+  }
+ ]
+}

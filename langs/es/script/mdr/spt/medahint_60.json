@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/medahint_60.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bd34e3b441a5",
+   "t": "{{medabot}} creado como\nespíritu del fuego.\n \nLleva {{heater}} y {{fire}},\ny todo su cuerpo está a\naltísima temperatura: al\naccionar esas {{part|pl}} se\nvuelve agresivo y\nbelicoso."
+  }
+ ]
+}

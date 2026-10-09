@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_m_3f2_140_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "39f12f1955b9",
+   "t": "{{momotaro}}"
+  },
+  {
+   "i": 1035,
+   "src": "90550c433286",
+   "t": "Heh heh heh, you fell for it."
+  },
+  {
+   "i": 1038,
+   "src": "0626690b4b58",
+   "t": "This strategy... works!"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "mdr/spt/mlp_wm.spt",
+ "lines": [
+  {
+   "i": 1210,
+   "src": "071d5d8596d5",
+   "t": "Te desconectarás\nsi pulsas el menú HOME\ndurante tu robobatalla."
+  },
+  {
+   "i": 1487,
+   "src": "4b8c97ada080",
+   "t": "Verifica que todos usen la\nactualización de Medarot 9\n\"<c:ffC000>Ver1.1<c>\".\nPuedes descargar la versión\nactualizada en Nintendo eShop.\n<c:00B0f0>Si tienes dudas:<c>\nLa pantalla de título mostrará\n\"<c:ffC000>Ver.1.1<c>\" si está actualizada."
+  },
+  {
+   "i": 2027,
+   "src": "18352f047d9c",
+   "t": " será tu rival."
+  },
+  {
+   "i": 2223,
+   "src": "35f9656f5199",
+   "t": "Partida local cancelada."
+  },
+  {
+   "i": 2284,
+   "src": "8da23e5bb198",
+   "t": "Se cambiarán\nreglas y {{field}}."
+  }
+ ]
+}

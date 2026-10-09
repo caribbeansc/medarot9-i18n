@@ -1,0 +1,52 @@
+{
+ "rel": "mdr/tex/bt_arl_album.ctpk",
+ "base": "jp",
+ "defaults": {
+  "font": "sf-rounded-heavy",
+  "cap": 12.5,
+  "fill": "#FFFFFF",
+  "align": "center",
+  "valign": "middle",
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    34,
+    8,
+    140,
+    24
+   ],
+   "erase": "hfill",
+   "text": "Photo Album",
+   "stroke": "#000000B0",
+   "stroke_w": 1.2,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 2,
+    "color": "#000000",
+    "opacity": 0.6
+   }
+  },
+  {
+   "box": [
+    34,
+    48,
+    140,
+    24
+   ],
+   "erase": "hfill",
+   "text": "Photo Album",
+   "stroke": "#4A4A4A",
+   "stroke_w": 1.2,
+   "shadow": {
+    "dx": 0,
+    "dy": 0,
+    "blur": 2,
+    "color": "#303030",
+    "opacity": 0.5
+   }
+  }
+ ]
+}

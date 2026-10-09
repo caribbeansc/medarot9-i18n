@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/npc_f_3e_164_s06_t021.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "1f52894300b9",
+   "t": "{{ginrei}}"
+  },
+  {
+   "i": 1038,
+   "src": "e4070bbae6ff",
+   "t": "Hola, ¡bienvenido al Club Medabot!"
+  },
+  {
+   "i": 1041,
+   "src": "20e65397de11",
+   "t": "No hay mucho, pero ponte cómodo."
+  }
+ ]
+}

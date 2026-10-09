@@ -1,0 +1,45 @@
+{
+ "file": "story/spt/f09_230_810_00_t031.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1035,
+   "src": "e3f4b8ebe74b",
+   "t": "Ni de chiste vamos a esperar."
+  },
+  {
+   "i": 1038,
+   "src": "f27d9325592e",
+   "t": "Eres un verdadero idiota."
+  },
+  {
+   "i": 1045,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1054,
+   "src": "dbe54d70fb68",
+   "t": "Aun así, sería un problema si de verdad"
+  },
+  {
+   "i": 1057,
+   "src": "bb1b099d8493",
+   "t": "volvieran. Apurémonos."
+  },
+  {
+   "i": 1083,
+   "src": "c1207b63f83c",
+   "t": "¡Bien!"
+  },
+  {
+   "i": 1089,
+   "src": "869257bf8222",
+   "t": "¡Entendido!"
+  }
+ ]
+}

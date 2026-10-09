@@ -1,0 +1,33 @@
+{
+ "rel": "story/mdl/m210_e_boat.bcmdl",
+ "tex": "m210_boat",
+ "also": "auto",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "grow": 1,
+  "font": "sf-cond-heavy",
+  "cap": 11,
+  "fill": "#576783",
+  "stroke": null,
+  "pad": 0
+ },
+ "items": [
+  {
+   "box": [
+    141,
+    15,
+    76,
+    19
+   ],
+   "erase_box": [
+    139,
+    15,
+    79,
+    19
+   ],
+   "text": "Bote inflable"
+  }
+ ]
+}

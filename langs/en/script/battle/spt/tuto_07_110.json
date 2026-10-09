@@ -1,0 +1,30 @@
+{
+ "file": "battle/spt/tuto_07_110.spt",
+ "lines": [
+  {
+   "i": 1111,
+   "src": "a70fa8c29b6a",
+   "t": "The enemy is attacking!\n...Huh?      "
+  },
+  {
+   "i": 1125,
+   "src": "3bb7ece2adab",
+   "t": "{{laurel}}"
+  },
+  {
+   "i": 1131,
+   "src": "7249ed523d57",
+   "t": "While Medachanged, the {{armor}} Gauges\nof your\n4 {{part|pl}} are combined into one.                      "
+  },
+  {
+   "i": 1136,
+   "src": "dba653f3e754",
+   "t": "And your {{defense}} actions are\n{{defend}} or {{evade}}.    "
+  },
+  {
+   "i": 1141,
+   "src": "4c12668f29af",
+   "t": "Of course, if your {{armor}} hits 0 from\ndamage, you'll shut down. Be careful.                                   "
+  }
+ ]
+}

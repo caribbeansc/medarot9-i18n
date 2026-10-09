@@ -1,0 +1,15 @@
+{
+ "file": "mdr/spt/description101.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e9b83e44cefa",
+   "t": "Curación (habilidad)"
+  },
+  {
+   "i": 11,
+   "src": "9d640101a1ae",
+   "t": "<c:ffff00>Habilidad<c> <c:ffff00>auxiliar<c>: capacidad de manejar <c:ffff00>{{part|pl}}<c> con\nmecanismo de curación para <c:ffff00>{{medabot|pl}}<c> dañados.\nIncluye <c:ffff00>técnicas<c> de <c:ffff00>{{recover}}<c>, <c:ffff00>{{restore}}<c> y <c:ffff00>{{revive}}<c>.\n\nA mayor <c:ffff00>{{skill_level}}<c>: <c:ffff00>{{prep}}<c> y <c:ffff00>{{cooldown}}<c> más\nrápidos, mayores <c:ffff00>poder de {{defend}}<c> y <c:ffff00>poder de<c>\n<c:ffff00>{{evade}}<c>, y más <c:ffff00>{{armor}}<c> recuperado.\nEn las {{part|pl}} de curación, el <c:ffff00>{{stats}} de {{prep}}<c>\nsube al llenarse la <c:ffff00>{{charge_gauge}}<c>."
+  }
+ ]
+}

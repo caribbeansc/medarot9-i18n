@@ -1,0 +1,80 @@
+{
+ "file": "story/spt/f08_140_339_00_t011.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "ee918ede110b",
+   "t": "You're slow."
+  },
+  {
+   "i": 1059,
+   "src": "bb148cab37f5",
+   "t": "Hey!"
+  },
+  {
+   "i": 1062,
+   "src": "befc740fcf3d",
+   "t": "Don't act on your own!"
+  },
+  {
+   "i": 1081,
+   "src": "4f3abe4ded87",
+   "t": "On my own?"
+  },
+  {
+   "i": 1089,
+   "src": "f203b5e069dc",
+   "t": "I told you to wait!"
+  },
+  {
+   "i": 1113,
+   "src": "c91507ad1f26",
+   "t": "I heard you say \"Okay,\" didn't I?"
+  },
+  {
+   "i": 1119,
+   "src": "43e4934ea03e",
+   "t": "I heard you say \"Very well,\" did I not?"
+  },
+  {
+   "i": 1128,
+   "src": "1b584b9e4e62",
+   "t": "That was after that!"
+  },
+  {
+   "i": 1131,
+   "src": "9f29dfc39337",
+   "t": "I said wait while I talk to the president!"
+  },
+  {
+   "i": 1150,
+   "src": "8c4f8fdb6d84",
+   "t": "Why?"
+  },
+  {
+   "i": 1171,
+   "src": "4b308d1367d5",
+   "t": "I already talked it over with you."
+  },
+  {
+   "i": 1174,
+   "src": "1a14bab6dbd1",
+   "t": "Why would you talk to the president?"
+  },
+  {
+   "i": 1180,
+   "src": "91891574ded2",
+   "t": "I did consult with you, remember."
+  },
+  {
+   "i": 1183,
+   "src": "eff02ccad964",
+   "t": "Why must you consult the president?"
+  },
+  {
+   "i": 1192,
+   "src": "da9038e35380",
+   "t": "W-well, he's the {{exploration_club}}..."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_4_12.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "91c70cb562d8",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\nAtaque Plus\nAl realizar acción Atacar\n{{stats}} de {{prep}} de\n{{part}} +10."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/npc_pc03_343_s07_t011.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1035,
+   "src": "ef584176825e",
+   "t": "Así que fuiste por las {{legs_part_slot}},"
+  },
+  {
+   "i": 1038,
+   "src": "219df0378471",
+   "t": "pero te las robaron... ya veo."
+  },
+  {
+   "i": 1049,
+   "src": "194a8910bcf9",
+   "t": "Es la clásica historia del cazador"
+  },
+  {
+   "i": 1052,
+   "src": "56268d0515fe",
+   "t": "que termina cazado."
+  }
+ ]
+}

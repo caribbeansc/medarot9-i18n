@@ -1,0 +1,215 @@
+{
+ "file": "story/spt/f07_120_160_00_t012.spt",
+ "lines": [
+  {
+   "i": 1042,
+   "src": "54906cb2fbdd",
+   "t": "{{ryusei}}..."
+  },
+  {
+   "i": 1052,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1058,
+   "src": "38a679272d2f",
+   "t": "Hey, hey, it's the {{culture_festival}},"
+  },
+  {
+   "i": 1061,
+   "src": "a9cd0c274930",
+   "t": "so why are you chilling in this corner?"
+  },
+  {
+   "i": 1069,
+   "src": "fe46cca64783",
+   "t": "...Huh?"
+  },
+  {
+   "i": 1072,
+   "src": "a1b08a9eccc9",
+   "t": "This is the {{exploration_club}}'s booth!?"
+  },
+  {
+   "i": 1080,
+   "src": "3a5cbd11dcaa",
+   "t": "There's nothing here!"
+  },
+  {
+   "i": 1083,
+   "src": "13cd1894dbed",
+   "t": "How lame!"
+  },
+  {
+   "i": 1098,
+   "src": "8eb62d3f6407",
+   "t": "What a fake act..."
+  },
+  {
+   "i": 1101,
+   "src": "33c61005a247",
+   "t": "If you've got no business here, go away."
+  },
+  {
+   "i": 1106,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1112,
+   "src": "1eb26001bb08",
+   "t": "Come on, don't be so cold."
+  },
+  {
+   "i": 1115,
+   "src": "8642e0b91b07",
+   "t": "At least tell me what you're doing."
+  },
+  {
+   "i": 1123,
+   "src": "0d578cf8a70c",
+   "t": "A lounge?"
+  },
+  {
+   "i": 1126,
+   "src": "06ba122b5462",
+   "t": "Or an exhibit of lazy {{club}} members?"
+  },
+  {
+   "i": 1134,
+   "src": "f2e6238a0c39",
+   "t": "...It's a target game."
+  },
+  {
+   "i": 1139,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1145,
+   "src": "7498d1e46398",
+   "t": "Huh?"
+  },
+  {
+   "i": 1153,
+   "src": "a7412e08b8b0",
+   "t": "Hit more targets than us and win"
+  },
+  {
+   "i": 1156,
+   "src": "cd3ab8cbf128",
+   "t": "a handy {{app}} as a prize!"
+  },
+  {
+   "i": 1161,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1167,
+   "src": "5e6f739c6d6a",
+   "t": "A handy {{app}}..."
+  },
+  {
+   "i": 1170,
+   "src": "cb82dd17e6c0",
+   "t": "Don't need it!"
+  },
+  {
+   "i": 1178,
+   "src": "e52ed09e8d1f",
+   "t": "Then leave us alone."
+  },
+  {
+   "i": 1183,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1189,
+   "src": "b27d05932a51",
+   "t": "Still, I like a contest. I've got to"
+  },
+  {
+   "i": 1192,
+   "src": "8c65b2178ba2",
+   "t": "pay back that debt from before, once\nand for all."
+  },
+  {
+   "i": 1200,
+   "src": "76ea1442caaa",
+   "t": "Again? Whatever. This is just a game,"
+  },
+  {
+   "i": 1203,
+   "src": "55ab57e2f8b2",
+   "t": "it's not a {{robattle}}--"
+  },
+  {
+   "i": 1211,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1217,
+   "src": "f08bd1ef812d",
+   "t": "Now, now, "
+  },
+  {
+   "i": 1219,
+   "src": "5a0b151c2252",
+   "t": "-kun."
+  },
+  {
+   "i": 1230,
+   "src": "2f526da01f0e",
+   "t": "President."
+  },
+  {
+   "i": 1235,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1241,
+   "src": "c4bccce42d1f",
+   "t": "You mustn't be rude to the customers."
+  },
+  {
+   "i": 1244,
+   "src": "f240f3d5f18a",
+   "t": "We should serve them gladly."
+  },
+  {
+   "i": 1252,
+   "src": "24bdfd47510e",
+   "t": "Sigh..."
+  },
+  {
+   "i": 1260,
+   "src": "7d1cab492889",
+   "t": "{{ryusei}}"
+  },
+  {
+   "i": 1266,
+   "src": "f0ab4e9fe5c7",
+   "t": "Heh. As expected of the president,"
+  },
+  {
+   "i": 1269,
+   "src": "c899b9300b4b",
+   "t": "he gets it, unlike a certain someone."
+  },
+  {
+   "i": 1276,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1282,
+   "src": "d19401565d7c",
+   "t": "Yes... All right."
+  }
+ ]
+}

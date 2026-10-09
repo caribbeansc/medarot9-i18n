@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_49.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "fb3f15c6e84f",
+   "t": "<c:00ff00>Action:<c> {{virus}}\nA melee attack that\napplies the {{virus}} {{status}}.\n<c:00ffff>{{status|cap}}:<c> {{virus}}\n{{cannot_evade|cap}} until\nprepping or cooldown\ncompletes. If {{hit}} while\nprepping or {{waiting}}, its\naction fails."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "file": "story/spt/f02_140_211_00_t001.spt",
+ "lines": [
+  {
+   "i": 1046,
+   "src": "4581f91be422",
+   "t": "Nothing but junk..."
+  },
+  {
+   "i": 1054,
+   "src": "82bcd2292058",
+   "t": "How long is the President going to stay\nhere?"
+  },
+  {
+   "i": 1057,
+   "src": "adc204fdd9ad",
+   "t": "Did he forget our goal?"
+  },
+  {
+   "i": 1081,
+   "src": "5e7460cf1408",
+   "t": "Oh?"
+  },
+  {
+   "i": 1087,
+   "src": "bbc2c0173a67",
+   "t": "Hm?"
+  }
+ ]
+}

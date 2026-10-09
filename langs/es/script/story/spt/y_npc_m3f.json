@@ -1,0 +1,20 @@
+{
+ "file": "story/spt/y_npc_m3f.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "9d367f1dbef7",
+   "t": "{{bodinton}}"
+  },
+  {
+   "i": 1653,
+   "src": "75ce676badfe",
+   "t": "Una {{robattle}}, eh... Que quede claro:"
+  },
+  {
+   "i": 1656,
+   "src": "d97f62178265",
+   "t": "no soy de los que se contienen."
+  }
+ ]
+}

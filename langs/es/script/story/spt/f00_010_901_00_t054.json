@@ -1,0 +1,25 @@
+{
+ "file": "story/spt/f00_010_901_00_t054.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "0c88b33fb0a0",
+   "t": "{{term}}"
+  },
+  {
+   "i": 1038,
+   "src": "a0d01191844e",
+   "t": "Ellos no tienen nada."
+  },
+  {
+   "i": 1041,
+   "src": "49d3049ddfca",
+   "t": "Es inútil seguir registrándolos."
+  },
+  {
+   "i": 1065,
+   "src": "cc0584a6ce59",
+   "t": "..."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_139.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bf72cdb54283",
+   "t": "<c:00ff00>Action:<c> {{fight_guard}}\nA {{guard_stance}} that reacts\nto melee attacks on allies.\nWhen intercepting,\nnullifies melee {{damage}}.\nEnds after allies act 4\ntimes or time passes."
+  }
+ ]
+}

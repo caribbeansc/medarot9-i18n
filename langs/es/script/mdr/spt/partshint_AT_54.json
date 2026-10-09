@@ -1,0 +1,10 @@
+{
+ "file": "mdr/spt/partshint_AT_54.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "e8fd470590aa",
+   "t": "<c:00ff00>Técnica:<c>{{charge_blade}}\nAtaque de {{fighting}} que\nsuma el % de la barra de\ncarga a la {{power}}.\nCon {{success}} 40 o más, gana\n{{effect}} de {{pierce}}.\nTras actuar, consume\n10%\nde la {{charge_gauge}}."
+  }
+ ]
+}

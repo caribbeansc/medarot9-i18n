@@ -1,0 +1,60 @@
+{
+ "file": "story/spt/f02_120_210_20_t003.spt",
+ "lines": [
+  {
+   "i": 1048,
+   "src": "e59d2a426b1e",
+   "t": "¡Se cayó!"
+  },
+  {
+   "i": 1054,
+   "src": "32a146ff75af",
+   "t": "¡Se ha caído!"
+  },
+  {
+   "i": 1062,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1068,
+   "src": "c6f28c20652a",
+   "t": "El piso debía estar débil."
+  },
+  {
+   "i": 1071,
+   "src": "61f3b9638d5c",
+   "t": "Después de todo, es un edificio viejo."
+  },
+  {
+   "i": 1079,
+   "src": "1a385ca0d206",
+   "t": "¡Oye!"
+  },
+  {
+   "i": 1097,
+   "src": "7dab38cef8ff",
+   "t": "No responde..."
+  },
+  {
+   "i": 1102,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres_kunigiku}}"
+  },
+  {
+   "i": 1108,
+   "src": "be124d3611da",
+   "t": "Mmm, está muy oscuro para ver bien."
+  },
+  {
+   "i": 1120,
+   "src": "c293d1f8d588",
+   "t": "-chan, por favor."
+  },
+  {
+   "i": 1136,
+   "src": "db0ef275c62b",
+   "t": "Déjamelo a mí."
+  }
+ ]
+}
