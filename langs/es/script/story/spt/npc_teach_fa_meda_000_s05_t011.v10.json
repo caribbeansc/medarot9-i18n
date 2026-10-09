@@ -1,0 +1,21 @@
+{
+ "file": "story/spt/npc_teach_fa_meda_000_s05_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e895c1be5156",
+   "t": "{{moon_dragon}}"
+  },
+  {
+   "i": 1038,
+   "src": "03ee24ba7d27",
+   "t": "No es un paseo, es una ronda."
+  },
+  {
+   "i": 1041,
+   "src": "8814b10bca4c",
+   "t": "Una escuela vacía se siente amplia."
+  }
+ ],
+ "game": "1.0"
+}

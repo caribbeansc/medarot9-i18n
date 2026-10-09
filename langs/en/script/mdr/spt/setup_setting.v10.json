@@ -1,0 +1,121 @@
+{
+ "file": "mdr/spt/setup_setting.spt",
+ "lines": [
+  {
+   "i": 1135,
+   "src": "905c78baa128",
+   "t": "<c> can be used"
+  },
+  {
+   "i": 1139,
+   "src": "e35ec0998aee",
+   "t": "you need to put it in that state."
+  },
+  {
+   "i": 1742,
+   "src": "fa64120a70af",
+   "t": "There are no medabots"
+  },
+  {
+   "i": 1743,
+   "src": "4d9bee91c648",
+   "t": "that can robattle."
+  },
+  {
+   "i": 3203,
+   "src": "68860c1db94a",
+   "t": "Toss this medallia away?"
+  },
+  {
+   "i": 5769,
+   "src": "1fb2105f8c64",
+   "t": "Recall preset. "
+  },
+  {
+   "i": 5788,
+   "src": "38d485d370b7",
+   "t": "Missing {{part}}"
+  },
+  {
+   "i": 5789,
+   "src": "83588c332f91",
+   "t": "cannot equip preset."
+  },
+  {
+   "i": 5800,
+   "src": "cdb64d2a6089",
+   "t": "{{medalia}} is missing"
+  },
+  {
+   "i": 5801,
+   "src": "83588c332f91",
+   "t": "cannot equip preset."
+  },
+  {
+   "i": 5812,
+   "src": "13f5d1aeb022",
+   "t": "{{medalia}} already in use"
+  },
+  {
+   "i": 5813,
+   "src": "83588c332f91",
+   "t": "cannot equip preset."
+  },
+  {
+   "i": 5824,
+   "src": "9c40e196cd8e",
+   "t": "Missing medallia slots"
+  },
+  {
+   "i": 5825,
+   "src": "83588c332f91",
+   "t": "cannot equip preset."
+  },
+  {
+   "i": 5836,
+   "src": "9d0eba2b674d",
+   "t": "{{gender|cap}} does not match"
+  },
+  {
+   "i": 5837,
+   "src": "83588c332f91",
+   "t": "cannot equip preset."
+  },
+  {
+   "i": 5923,
+   "src": "4765336bb1b5",
+   "t": "Register preset. "
+  },
+  {
+   "i": 5930,
+   "src": "38e910d6db98",
+   "t": "Registering preset. "
+  },
+  {
+   "i": 5969,
+   "src": "9c24f93076bf",
+   "t": "Preset registered. "
+  },
+  {
+   "i": 5977,
+   "src": "bed8aff55cce",
+   "t": "Preset equip failed."
+  },
+  {
+   "i": 6279,
+   "src": "b3ed96cff9f9",
+   "t": "Return with out confirming?"
+  },
+  {
+   "i": 7353,
+   "src": "01cd213bbad6",
+   "t": "{{medal}} changed to <c:00ff00>"
+  },
+  {
+   "i": 7355,
+   "src": "b22f8865c0fc",
+   "t": "<c>!"
+  }
+ ],
+ "game": "1.0"
+}

@@ -1,0 +1,76 @@
+{
+ "file": "mdr/spt/map_warp.spt",
+ "lines": [
+  {
+   "i": 1234,
+   "src": "2b1812577d2f",
+   "t": "{{class_1_c}}"
+  },
+  {
+   "i": 1244,
+   "src": "71fd3356bde9",
+   "t": "{{shop}}"
+  },
+  {
+   "i": 1254,
+   "src": "b888e3c02c35",
+   "t": "{{infirmary}}     "
+  },
+  {
+   "i": 1264,
+   "src": "2cf9ed9d053e",
+   "t": "{{principal_s_office}}"
+  },
+  {
+   "i": 1274,
+   "src": "b0dfea91e671",
+   "t": "Vice-Principal Office"
+  },
+  {
+   "i": 1284,
+   "src": "378c99ec5184",
+   "t": "{{student_council_room}}"
+  },
+  {
+   "i": 1294,
+   "src": "5ef9e3e0c8b8",
+   "t": "{{staff_room}} "
+  },
+  {
+   "i": 1310,
+   "src": "15f9e671a6a0",
+   "t": "{{exploration_club}}"
+  },
+  {
+   "i": 1320,
+   "src": "6ccf4614da83",
+   "t": "{{medabot_research_club}}"
+  },
+  {
+   "i": 1330,
+   "src": "90d2b5be1978",
+   "t": "{{rescue_club}}"
+  },
+  {
+   "i": 1340,
+   "src": "1fc6dd49959f",
+   "t": "{{idol_club}}"
+  },
+  {
+   "i": 1350,
+   "src": "3d88ede28094",
+   "t": "{{locker_room}}"
+  },
+  {
+   "i": 1360,
+   "src": "7881c883c8b0",
+   "t": "TBD"
+  },
+  {
+   "i": 1370,
+   "src": "7881c883c8b0",
+   "t": "TBD"
+  }
+ ],
+ "game": "1.0"
+}

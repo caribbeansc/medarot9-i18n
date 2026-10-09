@@ -15,6 +15,14 @@ For contributors who know Python but have never modified a 3DS game. Everything 
   sees OUR file. A file in the mod must therefore be built on the version the game would load (1.3 when the update
   has it), or it silently reverts the update's change.
 - `code.bin` is stored compressed (BLZ, backward LZ77) in the ExeFS; mods may hold it decompressed.
+- The game looks for EVERY file in the update first (checked in the emulator: a translated update whose RomFS also
+  carries files the original update does not have shows them translated). That is why a translated copy of the
+  update alone is enough to install with FBI (`m9/cia.py`).
+- **Version 1.0** (no update): 3,828 of the 3,882 translated scripts and almost every other file are the same as in
+  1.3.0. What the update changed has a 1.0 variant in the pack (`<name>.v10.json`, made by `tools/port_v10.py`); the
+  build picks for each game file the variant whose fingerprints / SHA-1 match. `code.bin` 1.0: `.rodata` and `.data`
+  are byte for byte those of 1.3.0 one page (0x1000) lower, except pointer words; the translated strings in `.text`
+  are found by their Japanese bytes.
 
 ## Scripts (`.spt`)
 
@@ -71,3 +79,12 @@ result as patches.
 ## The language pack format
 
 See `m9/script.py` (script lines with fingerprints), `m9/patch.py` (binary patches) and `m9/terms.py` (term keys).
+1.0 variants: same formats with `"game": "1.0"`, next to the 1.3.0 file.
+
+## Installable copies (`m9/cia.py`)
+
+The RomFS is rebuilt from scratch (level 3 directory/file tables and data, then the IVFC SHA-256 tree over 4 KiB
+blocks), the ExeFS gets the translated `.code` stored decompressed (extended header flag cleared), and the NCCH and
+CIA headers get their new sizes and hashes; certificates, ticket, e-manual and meta block are copied from the player's
+`.cia`. The copies are decrypted and not signed by Nintendo: a console with Luma3DS (or Azahar) installs them.
+A `.3ds` input gives a `.3ds` (GodMode9 builds the `.cia` on the console with the console's own certificates).

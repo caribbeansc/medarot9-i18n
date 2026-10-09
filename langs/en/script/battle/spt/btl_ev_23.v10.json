@@ -1,0 +1,116 @@
+{
+ "file": "battle/spt/btl_ev_23.spt",
+ "lines": [
+  {
+   "i": 1120,
+   "src": "1f84efa36515",
+   "t": "I'll show you!"
+  },
+  {
+   "i": 1123,
+   "src": "c8943ef3b0da",
+   "t": "My combo!"
+  },
+  {
+   "i": 1139,
+   "src": "9df26106b0f4",
+   "t": "Hey "
+  },
+  {
+   "i": 1143,
+   "src": "f234977e8991",
+   "t": "What's a combo?"
+  },
+  {
+   "i": 1152,
+   "src": "9df26106b0f4",
+   "t": "Hey "
+  },
+  {
+   "i": 1156,
+   "src": "9b7315cdce86",
+   "t": "What's a combo?"
+  },
+  {
+   "i": 1166,
+   "src": "ecff0d12b65f",
+   "t": ",a combo..."
+  },
+  {
+   "i": 1169,
+   "src": "581987f35099",
+   "t": "is a series of attacks at once."
+  },
+  {
+   "i": 1185,
+   "src": "b2cc6899f715",
+   "t": "What!"
+  },
+  {
+   "i": 1186,
+   "src": "10e2f5e866fe",
+   "t": "I want to use it too!"
+  },
+  {
+   "i": 1195,
+   "src": "b2cc6899f715",
+   "t": "What!"
+  },
+  {
+   "i": 1196,
+   "src": "e4ed7563d23e",
+   "t": "I want to use it too!"
+  },
+  {
+   "i": 1205,
+   "src": "39ba6a6cbf6e",
+   "t": "I see...                      "
+  },
+  {
+   "i": 1208,
+   "src": "7c1f001c3d76",
+   "t": "Never used it, though.  "
+  },
+  {
+   "i": 1213,
+   "src": "b8e0f68e239d",
+   "t": "But sorry, "
+  },
+  {
+   "i": 1217,
+   "src": "55f196d54f2c",
+   "t": "I forgot the Medabots combo settings."
+  },
+  {
+   "i": 1222,
+   "src": "0e906f3a5936",
+   "t": "I'll make it usable from next time,     "
+  },
+  {
+   "i": 1225,
+   "src": "e87d017befc5",
+   "t": "Let's go with out a combo for now, ok?      "
+  },
+  {
+   "i": 1241,
+   "src": "d418548124d5",
+   "t": "Can't be helped....         "
+  },
+  {
+   "i": 1250,
+   "src": "01f53f8d6085",
+   "t": "It can't be helped. "
+  },
+  {
+   "i": 1259,
+   "src": "928b50d87d85",
+   "t": "Why are you messing around!     "
+  },
+  {
+   "i": 1262,
+   "src": "1c8b841ffea0",
+   "t": "Let's get started!        "
+  }
+ ],
+ "game": "1.0"
+}

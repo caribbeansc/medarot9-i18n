@@ -1,0 +1,26 @@
+{
+ "file": "mdr/spt/mlp_wm.spt",
+ "lines": [
+  {
+   "i": 1180,
+   "src": "071d5d8596d5",
+   "t": "Te desconectarás\nsi pulsas el menú HOME\ndurante tu robobatalla."
+  },
+  {
+   "i": 1982,
+   "src": "18352f047d9c",
+   "t": " será tu rival."
+  },
+  {
+   "i": 2178,
+   "src": "35f9656f5199",
+   "t": "Partida local cancelada."
+  },
+  {
+   "i": 2239,
+   "src": "8da23e5bb198",
+   "t": "Se cambiarán\nreglas y {{field}}."
+  }
+ ],
+ "game": "1.0"
+}

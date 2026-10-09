@@ -1,0 +1,71 @@
+{
+ "file": "mdr/spt/setup_tutorial.spt",
+ "lines": [
+  {
+   "i": 3155,
+   "src": "4c561ad0db2b",
+   "t": "This is a {{tinpet}}..."
+  },
+  {
+   "i": 3159,
+   "src": "506fb590d6bd",
+   "t": "It ’s the {{medabot|pl}} skeleton,\nSet medals and {{part|pl}} on this."
+  },
+  {
+   "i": 3163,
+   "src": "cbd08574f017",
+   "t": "{{head}}, right arm, left arm, leg {{part|pl}}\n{{medabot|pl}} can be both a weapon and armor.              "
+  },
+  {
+   "i": 3309,
+   "src": "8af833db1c74",
+   "t": "And a medal..."
+  },
+  {
+   "i": 3313,
+   "src": "c5032627f8ad",
+   "t": "{{medal|pl}} are like human brains\nPersonalities for each individual one."
+  },
+  {
+   "i": 3317,
+   "src": "25bb202aed30",
+   "t": "The medal is the heart & soul."
+  },
+  {
+   "i": 3371,
+   "src": "edbbf1e8c3b4",
+   "t": "Lets get started with building\nFirst, switch to the {{part|pl}} setting with\nR..."
+  },
+  {
+   "i": 3395,
+   "src": "953aab3ed671",
+   "t": "First set the head {{part}}.\nPress left or right on the D-Pad to\nselect a {{part}}..."
+  },
+  {
+   "i": 3430,
+   "src": "3655e98fe17b",
+   "t": "Next, right {{arm_part}}...    "
+  },
+  {
+   "i": 3471,
+   "src": "ac17c689e75a",
+   "t": "{{left_item}} {{arm_part}}...    "
+  },
+  {
+   "i": 3512,
+   "src": "d7d980214b58",
+   "t": "And leg {{part|pl}}"
+  },
+  {
+   "i": 3555,
+   "src": "7570c1f8a061",
+   "t": "Finally, press X to finish the {{settings}}."
+  },
+  {
+   "i": 3582,
+   "src": "4bb8bd012efe",
+   "t": "Okay, {{medabot}} completed!"
+  }
+ ],
+ "game": "1.0"
+}

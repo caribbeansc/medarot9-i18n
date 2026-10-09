@@ -1,0 +1,1086 @@
+{
+ "file": "mdr/spt/medarocchi.spt",
+ "lines": [
+  {
+   "i": 23,
+   "src": "58d9656930b7",
+   "t": "Prólogo"
+  },
+  {
+   "i": 31,
+   "src": "47512091f4df",
+   "t": "Antes del {{exam}} 1"
+  },
+  {
+   "i": 39,
+   "src": "07ced37220c9",
+   "t": "Antes del {{exam}}, fin"
+  },
+  {
+   "i": 47,
+   "src": "5a9eca567a15",
+   "t": "Llegada a la oficina"
+  },
+  {
+   "i": 55,
+   "src": "cc7e46153478",
+   "t": "{{exam|cap}}"
+  },
+  {
+   "i": 63,
+   "src": "893ce718984e",
+   "t": "Informe de aprobación"
+  },
+  {
+   "i": 71,
+   "src": "efcc6319cbca",
+   "t": "Cap. 1: Carta de aviso"
+  },
+  {
+   "i": 79,
+   "src": "2f6f022c7749",
+   "t": "Obtención de la {{app}}"
+  },
+  {
+   "i": 87,
+   "src": "7a6e9504ecf0",
+   "t": "Cap. 1: Deducción de la carta"
+  },
+  {
+   "i": 95,
+   "src": "9cb793b21ac5",
+   "t": "Medabot de Oro"
+  },
+  {
+   "i": 103,
+   "src": "4ad72fb91484",
+   "t": "Visita al director del museo"
+  },
+  {
+   "i": 111,
+   "src": "f880e8c6e8a3",
+   "t": "Aparece el informante"
+  },
+  {
+   "i": 119,
+   "src": "b14f531a4a2b",
+   "t": "Turmeric 1"
+  },
+  {
+   "i": 127,
+   "src": "e0a4a0eb6b26",
+   "t": "Turmeric, fin"
+  },
+  {
+   "i": 135,
+   "src": "6b1ed0a38cea",
+   "t": "Aparece el ladrón fantasma 1"
+  },
+  {
+   "i": 143,
+   "src": "b758ed1e9d36",
+   "t": "Aparece el ladrón fantasma, fin"
+  },
+  {
+   "i": 151,
+   "src": "5505c89dfe82",
+   "t": "Carga 1"
+  },
+  {
+   "i": 159,
+   "src": "7145b6be2cee",
+   "t": "Carga, fin"
+  },
+  {
+   "i": 167,
+   "src": "93e8210cacd5",
+   "t": "{{medal}} de Turmeric"
+  },
+  {
+   "i": 175,
+   "src": "cd863b928bd4",
+   "t": "Falso detective"
+  },
+  {
+   "i": 183,
+   "src": "8dc74b15f6a1",
+   "t": "Lesión de {{laurel}}"
+  },
+  {
+   "i": 191,
+   "src": "42e909553f11",
+   "t": "Persecución en el metro"
+  },
+  {
+   "i": 199,
+   "src": "4887dbf29b75",
+   "t": "Cap. 1: Caso resuelto"
+  },
+  {
+   "i": 207,
+   "src": "c479b1b6022b",
+   "t": "Prueba de {{move}}"
+  },
+  {
+   "i": 215,
+   "src": "4b15a8c51c76",
+   "t": "1 Ceremonia de {{enroll}} a solas"
+  },
+  {
+   "i": 223,
+   "src": "53f7765be707",
+   "t": "1 Primera vez en el {{classroom}}"
+  },
+  {
+   "i": 231,
+   "src": "22fcf944b336",
+   "t": "1 Reclutamiento de los clubes"
+  },
+  {
+   "i": 239,
+   "src": "526111c6811e",
+   "t": "1 Primera vez en el {{club_building}}"
+  },
+  {
+   "i": 247,
+   "src": "6c40cb655bea",
+   "t": "1 Primera vez en el Club Medabot"
+  },
+  {
+   "i": 255,
+   "src": "c913664a55eb",
+   "t": "1 No puede {{join_the_club}}"
+  },
+  {
+   "i": 263,
+   "src": "f7e0c9669d48",
+   "t": "1 Escalera sospechosa"
+  },
+  {
+   "i": 271,
+   "src": "141e5fac87a5",
+   "t": "1 Primera vez en el {{exploration_club}}"
+  },
+  {
+   "i": 279,
+   "src": "ef107a8483a6",
+   "t": "1 {{exploration_club}}: encuentro"
+  },
+  {
+   "i": 287,
+   "src": "203eb22e060d",
+   "t": "1 {{exploration_club}}: aparece jefe intermedio"
+  },
+  {
+   "i": 303,
+   "src": "81394b578012",
+   "t": "{{reserve|cap}} 1-A"
+  },
+  {
+   "i": 311,
+   "src": "3b39cd7e4724",
+   "t": "{{reserve|cap}} 1-B"
+  },
+  {
+   "i": 319,
+   "src": "faca3de4f436",
+   "t": "{{reserve|cap}} 1-C"
+  },
+  {
+   "i": 327,
+   "src": "0ed2ed6def94",
+   "t": "2 Informe de ingreso al {{club}}"
+  },
+  {
+   "i": 335,
+   "src": "fc9ce6b40715",
+   "t": "2 El {{club_president}} y {{mio}}"
+  },
+  {
+   "i": 343,
+   "src": "588e26634fa7",
+   "t": "2 Explicación en la {{clubroom}}"
+  },
+  {
+   "i": 351,
+   "src": "b570a8a29a7e",
+   "t": "2 Práctica de {{aoi}} terminada"
+  },
+  {
+   "i": 367,
+   "src": "53c8f16be793",
+   "t": "2 Contacto con {{aoi}}"
+  },
+  {
+   "i": 375,
+   "src": "dbac6c1540db",
+   "t": "2 Información de testigos sobre {{aoi}}"
+  },
+  {
+   "i": 383,
+   "src": "da7e6f47c68e",
+   "t": "2 Al {{dormitory}} femenino"
+  },
+  {
+   "i": 391,
+   "src": "d00bf67df258",
+   "t": "2 Hallazgo de {{aoi}}"
+  },
+  {
+   "i": 399,
+   "src": "77715b804f20",
+   "t": "2 Cuarto de {{aoi}}"
+  },
+  {
+   "i": 407,
+   "src": "55d65740d8c4",
+   "t": "2 Cuarto de {{aoi}}, fin"
+  },
+  {
+   "i": 415,
+   "src": "b4141ae1a69c",
+   "t": "2 Saltar desde el {{dormitory}} femenino"
+  },
+  {
+   "i": 423,
+   "src": "f9732e1dd2ec",
+   "t": "2 {{abandoned_mine|cap}} desbloqueada"
+  },
+  {
+   "i": 431,
+   "src": "715f58817e8d",
+   "t": "2 Primera vez en el {{storehouse}}"
+  },
+  {
+   "i": 439,
+   "src": "25d94d693656",
+   "t": "2 Aparece {{ryoma}}"
+  },
+  {
+   "i": 447,
+   "src": "39c01f37d136",
+   "t": "2 Hallazgo de Ladybug 1"
+  },
+  {
+   "i": 455,
+   "src": "1a7f08dcd1cf",
+   "t": "2 Hallazgo de Ladybug 2"
+  },
+  {
+   "i": 463,
+   "src": "ee5ccdf5bae5",
+   "t": "2 Ladybug en peligro"
+  },
+  {
+   "i": 471,
+   "src": "6e19b986c07b",
+   "t": "2 {{ryoma}} acompaña"
+  },
+  {
+   "i": 479,
+   "src": "12cf85550aa8",
+   "t": "2 Al {{storehouse_basement}}"
+  },
+  {
+   "i": 487,
+   "src": "9b4f54d244f6",
+   "t": "2 Energía del {{storehouse_basement}}"
+  },
+  {
+   "i": 495,
+   "src": "f3222db33971",
+   "t": "2 Hallazgo de {{medalia}}"
+  },
+  {
+   "i": 503,
+   "src": "cc6b6920c596",
+   "t": "2 Acercamiento a Ladybug"
+  },
+  {
+   "i": 511,
+   "src": "13082d4ec5c5",
+   "t": "2 {{mio}} se une al grupo"
+  },
+  {
+   "i": 527,
+   "src": "5b1e73177f02",
+   "t": "{{reserve|cap}} 2-A"
+  },
+  {
+   "i": 535,
+   "src": "cc951bb5051d",
+   "t": "{{reserve|cap}} 2-B"
+  },
+  {
+   "i": 543,
+   "src": "9aff1ce483ce",
+   "t": "{{reserve|cap}} 2-C"
+  },
+  {
+   "i": 551,
+   "src": "4636f23be523",
+   "t": "3 {{exploration_club}} en marcha"
+  },
+  {
+   "i": 559,
+   "src": "978b04e80449",
+   "t": "3 Reinvestigar {{storehouse_basement}}"
+  },
+  {
+   "i": 567,
+   "src": "9521e2c02431",
+   "t": "3 Conducto abierto"
+  },
+  {
+   "i": 575,
+   "src": "40d49b177a19",
+   "t": "3 Energía de la vía de carga"
+  },
+  {
+   "i": 583,
+   "src": "4f142adf2392",
+   "t": "3 Llegada a la {{mine_entrance}}"
+  },
+  {
+   "i": 591,
+   "src": "ce9815d14eeb",
+   "t": "3 {{metabee}} en la {{mine_entrance}}"
+  },
+  {
+   "i": 599,
+   "src": "e2a33ef566c9",
+   "t": "3 {{robattle|cap}} con {{metabee}}"
+  },
+  {
+   "i": 607,
+   "src": "e3331f951f70",
+   "t": "3 De la {{mine_entrance}} al exterior"
+  },
+  {
+   "i": 615,
+   "src": "3ff2c676d5bb",
+   "t": "3 Pelea con {{ryusei}}"
+  },
+  {
+   "i": 623,
+   "src": "c04ac61610a8",
+   "t": "3 Reinvestigar {{storehouse_basement}}: completado"
+  },
+  {
+   "i": 639,
+   "src": "0713042aa9b6",
+   "t": "{{reserve|cap}} 3-A"
+  },
+  {
+   "i": 647,
+   "src": "7783ca3448ab",
+   "t": "{{reserve|cap}} 3-B"
+  },
+  {
+   "i": 655,
+   "src": "285b27aca78a",
+   "t": "{{reserve|cap}} 3-C"
+  },
+  {
+   "i": 663,
+   "src": "946eb5ed5230",
+   "t": "4 Día del {{robattle_tournament}}"
+  },
+  {
+   "i": 671,
+   "src": "bef6439e7174",
+   "t": "4 Contacto con la alumna transferida"
+  },
+  {
+   "i": 679,
+   "src": "f6b8e8f74c8a",
+   "t": "4 Justo antes del torneo"
+  },
+  {
+   "i": 687,
+   "src": "dfefaeb5a506",
+   "t": "4 Preparación del torneo OK"
+  },
+  {
+   "i": 703,
+   "src": "0b510655f6a6",
+   "t": "{{reserve|cap}} 4-A"
+  },
+  {
+   "i": 711,
+   "src": "451c5aa961e0",
+   "t": "{{reserve|cap}} 4-B"
+  },
+  {
+   "i": 719,
+   "src": "38bad68f0756",
+   "t": "{{reserve|cap}} 4-C"
+  },
+  {
+   "i": 727,
+   "src": "3509399fa43e",
+   "t": "5 Llamado de {{ryoma}}"
+  },
+  {
+   "i": 735,
+   "src": "c62c5fa6e517",
+   "t": "5 Caja vacía"
+  },
+  {
+   "i": 743,
+   "src": "2daba2bc3169",
+   "t": "5 Información de {{main}} A"
+  },
+  {
+   "i": 751,
+   "src": "2e5bd7872678",
+   "t": "5 Información de {{main}} B"
+  },
+  {
+   "i": 759,
+   "src": "67328cd0c54a",
+   "t": "5 {{dormitory|cap}} femenino otra vez 1"
+  },
+  {
+   "i": 767,
+   "src": "7d4078032c96",
+   "t": "5 {{dormitory|cap}} femenino otra vez 2"
+  },
+  {
+   "i": 775,
+   "src": "16200a344d34",
+   "t": "5 Cuarto de {{main}}"
+  },
+  {
+   "i": 783,
+   "src": "21df0b9154b5",
+   "t": "5 Rescate de {{mio}}"
+  },
+  {
+   "i": 791,
+   "src": "6e51872484ba",
+   "t": "5 {{main}} se une al grupo"
+  },
+  {
+   "i": 799,
+   "src": "45205e5d0ad3",
+   "t": "5 Resultados del examen"
+  },
+  {
+   "i": 807,
+   "src": "500216ef54b1",
+   "t": "5 Despierta en plena noche"
+  },
+  {
+   "i": 815,
+   "src": "ef9d9de14ac5",
+   "t": "5 {{medabot|pl}} se apresuran al {{storehouse}}"
+  },
+  {
+   "i": 823,
+   "src": "01e5460602c0",
+   "t": "5 Obtención de Buriki-Oh"
+  },
+  {
+   "i": 831,
+   "src": "13d8dccbdaa7",
+   "t": "5 Reunión de {{medabot|pl}}"
+  },
+  {
+   "i": 847,
+   "src": "8cf91ef0a528",
+   "t": "{{reserve|cap}} 5-A"
+  },
+  {
+   "i": 855,
+   "src": "4a678687dbb7",
+   "t": "{{reserve|cap}} 5-B"
+  },
+  {
+   "i": 863,
+   "src": "2a9d9dab2b9d",
+   "t": "{{reserve|cap}} 5-C"
+  },
+  {
+   "i": 871,
+   "src": "ba6c54bda6c5",
+   "t": "6 Medición de ondas: {{start}}"
+  },
+  {
+   "i": 879,
+   "src": "3cf8f4072e9c",
+   "t": "6 Medición de ondas: completada"
+  },
+  {
+   "i": 887,
+   "src": "faec313ab9e4",
+   "t": "6 Informe: medición de ondas completada"
+  },
+  {
+   "i": 895,
+   "src": "ba06faa5b4eb",
+   "t": "6 {{app|cap}} de {{detect}} terminada 1"
+  },
+  {
+   "i": 903,
+   "src": "79010759b73d",
+   "t": "6 Encargo de la presidenta del Consejo"
+  },
+  {
+   "i": 911,
+   "src": "09abe6ef1a97",
+   "t": "6 Llegada a la playa"
+  },
+  {
+   "i": 919,
+   "src": "247f0a931b67",
+   "t": "6 {{defeat_achievement|cap}} en la playa: 1 combate terminado"
+  },
+  {
+   "i": 927,
+   "src": "70ff733d6b07",
+   "t": "6 {{defeat_achievement|cap}} en competencia con el {{rescue_club}}"
+  },
+  {
+   "i": 935,
+   "src": "5946ea343210",
+   "t": "6 {{defeat_achievement|cap}} en la playa: avance 1"
+  },
+  {
+   "i": 943,
+   "src": "553a375570cd",
+   "t": "6 {{defeat_achievement|cap}} en la playa: avance 2"
+  },
+  {
+   "i": 951,
+   "src": "9694208c9e89",
+   "t": "6 {{defeat_achievement|cap}} en la playa: resultados"
+  },
+  {
+   "i": 959,
+   "src": "04e16d44abe6",
+   "t": "6 {{defeat_achievement|cap}} en la playa: completado"
+  },
+  {
+   "i": 967,
+   "src": "0b2f39e99caa",
+   "t": "6 Punto sospechoso identificado"
+  },
+  {
+   "i": 975,
+   "src": "eee96ac51331",
+   "t": "6 Infiltrarse en la {{principal_s_office}}"
+  },
+  {
+   "i": 983,
+   "src": "a319d7b7ba56",
+   "t": "6 Pasadizo secreto descubierto"
+  },
+  {
+   "i": 991,
+   "src": "d060c2900ec9",
+   "t": "6 Apagar dispositivo de ondas sonoras"
+  },
+  {
+   "i": 999,
+   "src": "67cb21db505d",
+   "t": "6 {{app|cap}} de {{detect}} terminada 2"
+  },
+  {
+   "i": 1007,
+   "src": "b23da7d6dba9",
+   "t": "6 Salida de la {{principal_s_office}}"
+  },
+  {
+   "i": 1015,
+   "src": "235de2fb1078",
+   "t": "6 De la {{vice_principal_s_office}} a la {{clubroom}}"
+  },
+  {
+   "i": 1023,
+   "src": "5883f34166e3",
+   "t": "6 Por fin: {{app}} de {{detect}} terminada"
+  },
+  {
+   "i": 1031,
+   "src": "70dd6c077144",
+   "t": "6 {{app|cap}} de {{detect}} detenida"
+  },
+  {
+   "i": 1039,
+   "src": "13cc13fda5f2",
+   "t": "6 {{app|cap}} de {{detect}}: uso prohibido"
+  },
+  {
+   "i": 1055,
+   "src": "04a9cfb032dc",
+   "t": "{{reserve|cap}} 6-A"
+  },
+  {
+   "i": 1063,
+   "src": "99630b70bbcd",
+   "t": "{{reserve|cap}} 6-B"
+  },
+  {
+   "i": 1071,
+   "src": "d04e31b41282",
+   "t": "{{reserve|cap}} 6-C"
+  },
+  {
+   "i": 1079,
+   "src": "f159e7d69525",
+   "t": "7 Se acerca el {{culture_festival}}"
+  },
+  {
+   "i": 1087,
+   "src": "43f3c2811efb",
+   "t": "7 {{mission|cap}} de mejora terminada"
+  },
+  {
+   "i": 1095,
+   "src": "b3555a067aeb",
+   "t": "7 Petición del {{idol_club}} 1"
+  },
+  {
+   "i": 1103,
+   "src": "5a0412b05f01",
+   "t": "7 Petición del {{idol_club}} 4"
+  },
+  {
+   "i": 1111,
+   "src": "326830f84e3e",
+   "t": "7 {{mio}} del {{idol_club}}"
+  },
+  {
+   "i": 1119,
+   "src": "12db4af72491",
+   "t": "7 Hablar con el Medabot de Aoi"
+  },
+  {
+   "i": 1127,
+   "src": "28ee344a64b8",
+   "t": "7 Propuesta de {{ryoma}}"
+  },
+  {
+   "i": 1135,
+   "src": "71ec6ad2299e",
+   "t": "7 {{water_mill|cap}}: {{mio}} y Lapis"
+  },
+  {
+   "i": 1143,
+   "src": "7ce410e6efb6",
+   "t": "7 Obtención de {{part}} de {{legs_part_slot}}"
+  },
+  {
+   "i": 1151,
+   "src": "ef170edd113a",
+   "t": "7 Entrega de {{part}} de {{legs_part_slot}}"
+  },
+  {
+   "i": 1159,
+   "src": "d2f95e4410e0",
+   "t": "7 Salir del {{idol_club}}"
+  },
+  {
+   "i": 1167,
+   "src": "22b59d121bd5",
+   "t": "7 {{culture_festival|cap}}: {{start}}"
+  },
+  {
+   "i": 1175,
+   "src": "3d90a120b821",
+   "t": "7 {{culture_festival|cap}}: {{aoi}}"
+  },
+  {
+   "i": 1183,
+   "src": "0f187c701fc9",
+   "t": "7 {{culture_festival|cap}}: {{mio}}"
+  },
+  {
+   "i": 1191,
+   "src": "0e2fd50c9d90",
+   "t": "7 {{culture_festival|cap}}: charla de las dos"
+  },
+  {
+   "i": 1207,
+   "src": "63e6b6fe9bb3",
+   "t": "{{reserve|cap}} 7-A"
+  },
+  {
+   "i": 1215,
+   "src": "fa7a61336ddc",
+   "t": "{{reserve|cap}} 7-B"
+  },
+  {
+   "i": 1223,
+   "src": "4f25303c7308",
+   "t": "8 Comienza la {{medalia_rush}}"
+  },
+  {
+   "i": 1231,
+   "src": "345c5b3f47a5",
+   "t": "8 Entra el {{exploration_club}}"
+  },
+  {
+   "i": 1239,
+   "src": "1f74e39a19f7",
+   "t": "8 {{mission|cap}} A aceptada"
+  },
+  {
+   "i": 1247,
+   "src": "a3808cc3f91f",
+   "t": "8 Encuentro con el {{rescue_club}}"
+  },
+  {
+   "i": 1255,
+   "src": "8404445d8e99",
+   "t": "8 Acercamiento al {{crater}}"
+  },
+  {
+   "i": 1263,
+   "src": "2bee0a830076",
+   "t": "8 {{mission|cap}} A terminada"
+  },
+  {
+   "i": 1271,
+   "src": "12dfd2cc943b",
+   "t": "8 {{mission|cap}} B aceptada"
+  },
+  {
+   "i": 1279,
+   "src": "54123fd14269",
+   "t": "8 Cae el {{suspension_bridge}}"
+  },
+  {
+   "i": 1287,
+   "src": "e30b5a7557b6",
+   "t": "8 No hay camino de regreso 1"
+  },
+  {
+   "i": 1295,
+   "src": "b0a35940a7d7",
+   "t": "8 Llamado por Sector"
+  },
+  {
+   "i": 1303,
+   "src": "e6d7b74ad2de",
+   "t": "8 Hablar con Sector 1"
+  },
+  {
+   "i": 1311,
+   "src": "c9fd4ce6a085",
+   "t": "8 Se derrumba la ruta de escape"
+  },
+  {
+   "i": 1319,
+   "src": "b5beee34b55a",
+   "t": "8 Hablar con Sector 2"
+  },
+  {
+   "i": 1327,
+   "src": "a94b6a353eb2",
+   "t": "8 No hay camino de regreso 2"
+  },
+  {
+   "i": 1335,
+   "src": "c375d68ab789",
+   "t": "8 Aparece el equipo de rescate"
+  },
+  {
+   "i": 1351,
+   "src": "b97f6eb51e11",
+   "t": "{{reserve|cap}} 8-A"
+  },
+  {
+   "i": 1359,
+   "src": "e6aa2ae38002",
+   "t": "{{reserve|cap}} 8-B"
+  },
+  {
+   "i": 1367,
+   "src": "7700b92e0d4f",
+   "t": "{{reserve|cap}} 8-C"
+  },
+  {
+   "i": 1375,
+   "src": "7c3e1ee56156",
+   "t": "9 Ir al puerto a solas"
+  },
+  {
+   "i": 1383,
+   "src": "1d3d1afa129b",
+   "t": "9 El {{vice_principal}} y la {{rubberobo_gang}}"
+  },
+  {
+   "i": 1391,
+   "src": "e97f23a998be",
+   "t": "9 {{metabee}} contra la {{rubberobo_gang}}"
+  },
+  {
+   "i": 1399,
+   "src": "17492b56c707",
+   "t": "9 Identidad de la alumna transferida"
+  },
+  {
+   "i": 1407,
+   "src": "a73bb4db5259",
+   "t": "9 De la {{mine_entrance}} a la escuela"
+  },
+  {
+   "i": 1415,
+   "src": "4d802b70b243",
+   "t": "9 Entrega de {{metabee}} a {{main}}"
+  },
+  {
+   "i": 1423,
+   "src": "8b7fff438c84",
+   "t": "9 Ir a ver al {{vice_principal}}"
+  },
+  {
+   "i": 1431,
+   "src": "cc721946d0a6",
+   "t": "9 Secuestro en la {{vice_principal_s_office}}"
+  },
+  {
+   "i": 1439,
+   "src": "b5f8baa02966",
+   "t": "9 {{change}} de protagonista"
+  },
+  {
+   "i": 1447,
+   "src": "b7b671aa72c8",
+   "t": "9 {{mine_cart|cap}} hallada en el puerto"
+  },
+  {
+   "i": 1455,
+   "src": "73746bc69c2c",
+   "t": "9 Reparar la línea de vagonetas"
+  },
+  {
+   "i": 1463,
+   "src": "d56d5df7f130",
+   "t": "9 Despierta el protagonista"
+  },
+  {
+   "i": 1471,
+   "src": "ee892a97f3ea",
+   "t": "9 Llegada al faro"
+  },
+  {
+   "i": 1479,
+   "src": "ca60b119eb8a",
+   "t": "9 Acercamiento al faro"
+  },
+  {
+   "i": 1487,
+   "src": "e9105be3bf52",
+   "t": "9 Examinar la {{entrance}} del faro"
+  },
+  {
+   "i": 1495,
+   "src": "c8aaa4edb78e",
+   "t": "9 Turno del protagonista"
+  },
+  {
+   "i": 1503,
+   "src": "797a3a42af15",
+   "t": "9 Revive el {{principal}}"
+  },
+  {
+   "i": 1511,
+   "src": "1457e39ac014",
+   "t": "9 {{robattle|cap}} con el líder Rubberobo"
+  },
+  {
+   "i": 1527,
+   "src": "5d9a01bae287",
+   "t": "{{reserve|cap}} 9-A"
+  },
+  {
+   "i": 1535,
+   "src": "10c5989a7a74",
+   "t": "{{reserve|cap}} 9-B"
+  },
+  {
+   "i": 1543,
+   "src": "d3996d419669",
+   "t": "{{reserve|cap}} 9-C"
+  },
+  {
+   "i": 1551,
+   "src": "45768e063b5f",
+   "t": "10 Helicóptero aterriza en la {{rooftop}}"
+  },
+  {
+   "i": 1559,
+   "src": "87525bf58010",
+   "t": "10 Reinicio de {{metabee}}"
+  },
+  {
+   "i": 1567,
+   "src": "0b02757e0dd5",
+   "t": "10 Revive el {{medal_eater}}"
+  },
+  {
+   "i": 1583,
+   "src": "f990b22c8057",
+   "t": "{{reserve|cap}} 10-A"
+  },
+  {
+   "i": 1591,
+   "src": "f98066789b1a",
+   "t": "{{reserve|cap}} 10-B"
+  },
+  {
+   "i": 1599,
+   "src": "e07b9d504bda",
+   "t": "{{reserve|cap}} 10-C"
+  },
+  {
+   "i": 1607,
+   "src": "2c6159089105",
+   "t": "11 Reinicio desde la {{clubroom}}"
+  },
+  {
+   "i": 1615,
+   "src": "0ef41b9fa9f9",
+   "t": "11 Ataque de Medabots salvajes"
+  },
+  {
+   "i": 1623,
+   "src": "bf6822b027ae",
+   "t": "11 Intrusión de Medabots salvajes"
+  },
+  {
+   "i": 1631,
+   "src": "29a677d5640b",
+   "t": "11 Repeler a los Medabots salvajes"
+  },
+  {
+   "i": 1639,
+   "src": "9889b094f648",
+   "t": "11 Charla en la {{student_council_room}}"
+  },
+  {
+   "i": 1647,
+   "src": "93427776551b",
+   "t": "11 Ataque de Medabots de élite"
+  },
+  {
+   "i": 1655,
+   "src": "da84e96843fd",
+   "t": "11 Combates seguidos con Medabots de élite"
+  },
+  {
+   "i": 1671,
+   "src": "5fde5aa72c19",
+   "t": "{{reserve|cap}} 11-A"
+  },
+  {
+   "i": 1679,
+   "src": "bf4183803dde",
+   "t": "{{reserve|cap}} 11-B"
+  },
+  {
+   "i": 1687,
+   "src": "cb8de1698a41",
+   "t": "{{reserve|cap}} 11-C"
+  },
+  {
+   "i": 1695,
+   "src": "535da1432f08",
+   "t": "Historia completada"
+  },
+  {
+   "i": 3008,
+   "src": "e9022b3c92a6",
+   "t": "    Ignorar colisiones="
+  },
+  {
+   "i": 3010,
+   "src": "ee73d4e9f297",
+   "t": "(Botón X)"
+  },
+  {
+   "i": 3013,
+   "src": "16104743ea0b",
+   "t": "    Sin encuentros="
+  },
+  {
+   "i": 3015,
+   "src": "e9fbc910de5a",
+   "t": "(Botón Y)"
+  },
+  {
+   "i": 3018,
+   "src": "ad5216410556",
+   "t": "    Ignorar eventos="
+  },
+  {
+   "i": 3020,
+   "src": "063daa26c744",
+   "t": "(Botón A)"
+  },
+  {
+   "i": 4796,
+   "src": "18e2e6d0fbff",
+   "t": "Guarda tus actividades hasta ahora"
+  },
+  {
+   "i": 4803,
+   "src": "888d671010a2",
+   "t": "Configura tus {{medabot|pl}}"
+  },
+  {
+   "i": 4817,
+   "src": "3b624a1c3d64",
+   "t": "Consulta tu información"
+  },
+  {
+   "i": 4821,
+   "src": "7d7bb7f0cb4a",
+   "t": "View profile & achievements"
+  },
+  {
+   "i": 4829,
+   "src": "db8ad828bbd8",
+   "t": "Consulta la información de las {{part|pl}}"
+  },
+  {
+   "i": 4836,
+   "src": "60fdeb7b0c01",
+   "t": "Consulta el mapa y elige el destino"
+  },
+  {
+   "i": 4843,
+   "src": "6105ba1a7d0f",
+   "t": "Consulta el progreso de las misiones"
+  },
+  {
+   "i": 4850,
+   "src": "da18f5438c63",
+   "t": "Mira el álbum de {{medabot|pl}}"
+  },
+  {
+   "i": 4857,
+   "src": "a51efcbba00c",
+   "t": "Cambia {{part|pl}} y {{robattle}} en red"
+  },
+  {
+   "i": 4864,
+   "src": "e502fd3bad01",
+   "t": "Consulta y usa tus objetos"
+  },
+  {
+   "i": 4871,
+   "src": "76e70360d81b",
+   "t": "Cambia los ajustes de {{robattle}}"
+  },
+  {
+   "i": 4878,
+   "src": "640e66a4d558",
+   "t": "Reglas y {{terms}} de {{robattle}}"
+  }
+ ],
+ "game": "1.0"
+}

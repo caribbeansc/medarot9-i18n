@@ -1,0 +1,16 @@
+{
+ "file": "story/spt/npc_teach_fa_meda_000_s00_t001.spt",
+ "lines": [
+  {
+   "i": 1024,
+   "src": "e895c1be5156",
+   "t": "{{moon_dragon}}"
+  },
+  {
+   "i": 1035,
+   "src": "b709b1ab1433",
+   "t": "Hola."
+  }
+ ],
+ "game": "1.0"
+}

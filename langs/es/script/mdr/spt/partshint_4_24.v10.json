@@ -1,0 +1,11 @@
+{
+ "file": "mdr/spt/partshint_4_24.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "4f64dac312df",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Portador\nAl atacar transfiere uno de\ntus estados negativos al\nobjetivo del ataque.\n*Sin efecto si el golpe\nfalla."
+  }
+ ],
+ "game": "1.0"
+}

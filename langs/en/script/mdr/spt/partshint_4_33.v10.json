@@ -1,0 +1,11 @@
+{
+ "file": "mdr/spt/partshint_4_33.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "bacad49a912b",
+   "t": "<c:00ff00>Leg Trait:<c> {{illusion}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"{{stealth}}\"."
+  }
+ ],
+ "game": "1.0"
+}

@@ -1,0 +1,11 @@
+{
+ "file": "mdr/spt/partshint_4_57.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "53b6421b7755",
+   "t": "<c:00ff00>Leg Trait:<c> {{artillery}}\nWhile prepping an attack,\ncannot evade or defend.\n{{power}} and {{success}} {{stats}}\n+10."
+  }
+ ],
+ "game": "1.0"
+}

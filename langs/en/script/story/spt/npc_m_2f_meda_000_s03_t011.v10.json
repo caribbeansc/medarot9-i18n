@@ -1,0 +1,31 @@
+{
+ "file": "story/spt/npc_m_2f_meda_000_s03_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "9356f0822883",
+   "t": "{{dokoka_no_oji}}"
+  },
+  {
+   "i": 1038,
+   "src": "33175a63f792",
+   "t": "Promo videos are fine, but I want a\nmovie."
+  },
+  {
+   "i": 1041,
+   "src": "663e0589a4b4",
+   "t": "Like a detective story starring\n{{medabot|pl}}."
+  },
+  {
+   "i": 1049,
+   "src": "a5974a5a610f",
+   "t": "Great Detective Pipebrain! ...or\nsomething."
+  },
+  {
+   "i": 1052,
+   "src": "3778762cb6d8",
+   "t": "Its left hand's Criminal Eye sees\nthrough everything."
+  }
+ ],
+ "game": "1.0"
+}

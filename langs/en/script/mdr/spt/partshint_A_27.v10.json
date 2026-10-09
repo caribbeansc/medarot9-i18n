@@ -1,0 +1,11 @@
+{
+ "file": "mdr/spt/partshint_A_27.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5a3bd387649e",
+   "t": "<c:00ff00>{{mf}}:<c> {{overdrive}}\nGreatly raises the {{prep}}\nand\n{{cooldown}} stats of your\nwhole team.\n<c:00ffff>{{required_parts}}<c>\nNone"
+  }
+ ],
+ "game": "1.0"
+}

@@ -1,0 +1,375 @@
+{
+ "file": "param/ArmLParts.b",
+ "slots": [
+  {
+   "off": 18984,
+   "size": 22,
+   "src": "cd367e619125",
+   "t": "{{step_away}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19040,
+   "size": 23,
+   "src": "ec54507e1462",
+   "t": "{{ninjato}}     ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19096,
+   "size": 22,
+   "src": "1b43f3f1dd81",
+   "t": "{{cut_radar}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19152,
+   "size": 22,
+   "src": "5d2ed82d576b",
+   "t": "{{battle_rifle}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19208,
+   "size": 23,
+   "src": "abad45e4f1fc",
+   "t": "{{picopeco_hammer}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19376,
+   "size": 22,
+   "src": "06567b201860",
+   "t": "{{meta_machinegun}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19432,
+   "size": 22,
+   "src": "564b107ed900",
+   "t": "{{meta_machinegun}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19488,
+   "size": 22,
+   "src": "9a3dab7ae636",
+   "t": "{{meta_machinegun}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 19544,
+   "size": 22,
+   "src": "d07c54ed3de6",
+   "t": "{{junk_left}}   ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24192,
+   "size": 22,
+   "src": "ab9342b849c3",
+   "t": "{{target}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24248,
+   "size": 22,
+   "src": "444306d714de",
+   "t": "{{rock}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24304,
+   "size": 22,
+   "src": "6936e7354c7b",
+   "t": "{{rock}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24360,
+   "size": 22,
+   "src": "1db52d9a3bef",
+   "t": "{{rock}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24416,
+   "size": 22,
+   "src": "ab52d6d8e74d",
+   "t": "{{target}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24640,
+   "size": 22,
+   "src": "24cbfd6d232c",
+   "t": "{{door}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24696,
+   "size": 22,
+   "src": "fd3ea48104c5",
+   "t": "Misslle",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24752,
+   "size": 22,
+   "src": "c14a9763af1c",
+   "t": "{{rifle}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24808,
+   "size": 22,
+   "src": "e9afa3aa03c1",
+   "t": "{{laser}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24864,
+   "size": 22,
+   "src": "df8ad3f0cf09",
+   "t": "{{gatling}}",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24920,
+   "size": 22,
+   "src": "f66f65f87e02",
+   "t": "{{box}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 24976,
+   "size": 22,
+   "src": "79de79c0e0a2",
+   "t": "{{debris}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25032,
+   "size": 22,
+   "src": "2db474b41b62",
+   "t": "{{debris}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25088,
+   "size": 22,
+   "src": "c1d7541c4678",
+   "t": "{{debris}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25144,
+   "size": 22,
+   "src": "0cc4055a8248",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25200,
+   "size": 22,
+   "src": "53bfe9e41a9c",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25256,
+   "size": 22,
+   "src": "416a36f57ba7",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25312,
+   "size": 22,
+   "src": "74833482ada3",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25368,
+   "size": 22,
+   "src": "be50c0b6461d",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25424,
+   "size": 22,
+   "src": "2830e3d1d16f",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25480,
+   "size": 22,
+   "src": "cf7fd8122f23",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25536,
+   "size": 22,
+   "src": "346a747377e3",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25592,
+   "size": 22,
+   "src": "17e26bb69d3b",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25648,
+   "size": 22,
+   "src": "9e672480ca45",
+   "t": "{{trap}}  ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25704,
+   "size": 22,
+   "src": "861fcce21c6a",
+   "t": "{{plant}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25760,
+   "size": 22,
+   "src": "ab768b9a2336",
+   "t": "{{plant}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25816,
+   "size": 22,
+   "src": "6aae55bc0d22",
+   "t": "{{plant}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25872,
+   "size": 22,
+   "src": "8119ff6d08ce",
+   "t": "{{plant}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25928,
+   "size": 22,
+   "src": "7e4698c8d44a",
+   "t": "{{plant}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 25984,
+   "size": 22,
+   "src": "d21ee8889fcb",
+   "t": "{{plant}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26040,
+   "size": 22,
+   "src": "0413ab7a1c3b",
+   "t": "{{plant}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  },
+  {
+   "off": 26096,
+   "size": 22,
+   "src": "e291727fdf4f",
+   "t": "{{plant}} ",
+   "fill": "nul",
+   "head": 2,
+   "tail": 0
+  }
+ ],
+ "game": "1.0"
+}

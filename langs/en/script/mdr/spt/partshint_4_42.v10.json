@@ -1,0 +1,11 @@
+{
+ "file": "mdr/spt/partshint_4_42.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "c62ff34af01c",
+   "t": "<c:00ff00>Leg Trait:<c>\n{{weapon_master}}\nOn a ranged attack, adds\n1/2 of {{fighting}} to the\n{{leg_part}}'s {{shooting}}. On\na melee attack, adds 1/2\nof {{shooting}} to its\n{{fighting}}."
+  }
+ ],
+ "game": "1.0"
+}

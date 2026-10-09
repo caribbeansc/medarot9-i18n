@@ -1,0 +1,11 @@
+{
+ "file": "mdr/spt/partshint_4_66.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "a70d284af339",
+   "t": "<c:00ff00>Leg Trait:<c> No Guard\nWhile prepping a melee\nattack, cannot evade or\ndefend.\n{{prep}} and {{success}} {{stats}}\n+10."
+  }
+ ],
+ "game": "1.0"
+}

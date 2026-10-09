@@ -1,0 +1,196 @@
+{
+ "file": "mdr/spt/shop.spt",
+ "lines": [
+  {
+   "i": 2815,
+   "src": "2c1a2276f5b1",
+   "t": "Buy"
+  },
+  {
+   "i": 2816,
+   "src": "5c893202cbb2",
+   "t": "Sell"
+  },
+  {
+   "i": 2827,
+   "src": "2c1a2276f5b1",
+   "t": "Buy"
+  },
+  {
+   "i": 2847,
+   "src": "5c893202cbb2",
+   "t": "Sell"
+  },
+  {
+   "i": 2918,
+   "src": "fb2ce0904770",
+   "t": "{{part|pl|cap}}"
+  },
+  {
+   "i": 2919,
+   "src": "f60815100faa",
+   "t": "Consumables"
+  },
+  {
+   "i": 2926,
+   "src": "fb2ce0904770",
+   "t": "{{part|pl|cap}}"
+  },
+  {
+   "i": 2927,
+   "src": "3155ccaa3075",
+   "t": "{{medalia}}"
+  },
+  {
+   "i": 2928,
+   "src": "f60815100faa",
+   "t": "Consumables"
+  },
+  {
+   "i": 2944,
+   "src": "fb2ce0904770",
+   "t": "{{part|pl|cap}}"
+  },
+  {
+   "i": 2952,
+   "src": "3155ccaa3075",
+   "t": "{{medalia}}"
+  },
+  {
+   "i": 2960,
+   "src": "f60815100faa",
+   "t": "Consumables"
+  },
+  {
+   "i": 3040,
+   "src": "6b7aeb13e003",
+   "t": "　　　　　　　　　　　　　　　{{head}}"
+  },
+  {
+   "i": 3041,
+   "src": "ca857646f0c5",
+   "t": "　　　　　　　　　　　　　　　{{right_arm}}"
+  },
+  {
+   "i": 3042,
+   "src": "65f38fc9f9d0",
+   "t": "　　　　　　　　　　　　　　　{{left_arm}}"
+  },
+  {
+   "i": 3043,
+   "src": "a7a552102f12",
+   "t": "　　　　　　　　　　　　　　　{{legs}}"
+  },
+  {
+   "i": 3044,
+   "src": "e246ab750abe",
+   "t": "　　　　　　　　　　　　　　　Set"
+  },
+  {
+   "i": 3051,
+   "src": "6b7aeb13e003",
+   "t": "　　　　　　　　　　　　　　　{{head}}"
+  },
+  {
+   "i": 3052,
+   "src": "ca857646f0c5",
+   "t": "　　　　　　　　　　　　　　　{{right_arm}}"
+  },
+  {
+   "i": 3053,
+   "src": "65f38fc9f9d0",
+   "t": "　　　　　　　　　　　　　　　{{left_arm}}"
+  },
+  {
+   "i": 3054,
+   "src": "a7a552102f12",
+   "t": "　　　　　　　　　　　　　　　{{legs}}"
+  },
+  {
+   "i": 3065,
+   "src": "6b7aeb13e003",
+   "t": "　　　　　　　　　　　　　　　{{head}}"
+  },
+  {
+   "i": 3073,
+   "src": "ca857646f0c5",
+   "t": "　　　　　　　　　　　　　　　{{right_arm}}"
+  },
+  {
+   "i": 3081,
+   "src": "65f38fc9f9d0",
+   "t": "　　　　　　　　　　　　　　　{{left_arm}}"
+  },
+  {
+   "i": 3089,
+   "src": "a7a552102f12",
+   "t": "　　　　　　　　　　　　　　　{{legs}}"
+  },
+  {
+   "i": 3097,
+   "src": "e246ab750abe",
+   "t": "　　　　　　　　　　　　　　　Set"
+  },
+  {
+   "i": 4238,
+   "src": "2375a0e51baa",
+   "t": "Not enough money."
+  },
+  {
+   "i": 4253,
+   "src": "887be9728e26",
+   "t": "Cannot buy anymore."
+  },
+  {
+   "i": 4316,
+   "src": "dfccf264d425",
+   "t": "Cannot sell your only {{part}}."
+  },
+  {
+   "i": 4329,
+   "src": "a597f96e2935",
+   "t": "Equiped {{part|pl}} cannot be sold. "
+  },
+  {
+   "i": 5179,
+   "src": "3d065d4e1362",
+   "t": "Striking"
+  },
+  {
+   "i": 5187,
+   "src": "07cd98f836fa",
+   "t": "Shooting"
+  },
+  {
+   "i": 5195,
+   "src": "d93e9a646712",
+   "t": "Support"
+  },
+  {
+   "i": 5203,
+   "src": "4a0567b1fe55",
+   "t": "Heal"
+  },
+  {
+   "i": 5211,
+   "src": "bc17bb6afea9",
+   "t": "Block"
+  },
+  {
+   "i": 5219,
+   "src": "f44bb303f465",
+   "t": "Set-up"
+  },
+  {
+   "i": 5223,
+   "src": "56dd90ad4c5c",
+   "t": "{{medalia}}("
+  },
+  {
+   "i": 5225,
+   "src": "c2949a05eb05",
+   "t": ")"
+  }
+ ],
+ "game": "1.0"
+}

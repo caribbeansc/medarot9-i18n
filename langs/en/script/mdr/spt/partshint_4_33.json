@@ -4,7 +4,7 @@
   {
    "i": 8,
    "src": "1ff2c54c7480",
-   "t": "<c:00ff00>Leg Trait:<c> {{illusion}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"{{stealth}}\"."
+   "t": "<c:00ff00>Leg Trait:<c> {{illusion}}\nWhen the {{charge_gauge}}\nhits 100%, gives you the\nsame {{effect}} as\n\"{{stealth}}\".\n*Once per {{robattle}}."
   }
  ]
 }

@@ -1,0 +1,31 @@
+{
+ "file": "mdr/spt/prebattle_main.spt",
+ "lines": [
+  {
+   "i": 1425,
+   "src": "659ddcb97acb",
+   "t": "Saving"
+  },
+  {
+   "i": 1486,
+   "src": "cbf2f9db8b90",
+   "t": "No se guardó"
+  },
+  {
+   "i": 1511,
+   "src": "644615b4ba1f",
+   "t": "Cancelar la {{robattle}}?"
+  },
+  {
+   "i": 1515,
+   "src": "6289a02e0012",
+   "t": "Cambiar reglas y {{field}}?"
+  },
+  {
+   "i": 2838,
+   "src": "977ed518cb2c",
+   "t": "Waiting for leader"
+  }
+ ],
+ "game": "1.0"
+}

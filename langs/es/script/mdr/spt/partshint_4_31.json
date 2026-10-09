@@ -4,7 +4,7 @@
   {
    "i": 8,
    "src": "89fd9c286391",
-   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Brillo\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"Súper Reparación\"."
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>Brillo\nCuando la {{charge_gauge}}\nllega al 100%, repara el\ndaño de todas tus\n{{part|pl}}.\n*Solo una vez por\n{{robattle}}."
   }
  ]
 }

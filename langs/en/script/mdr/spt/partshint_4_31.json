@@ -4,7 +4,7 @@
   {
    "i": 8,
    "src": "89fd9c286391",
-   "t": "<c:00ff00>Leg Trait:<c> {{brilliance}}\nWhen charging completes,\ngives you the same {{effect}}\nas\n\"Super Repair\"."
+   "t": "<c:00ff00>Leg Trait:<c> {{brilliance}}\nWhen the {{charge_gauge}}\nhits 100%, repairs the\ndamage of all your parts.\n*Once per {{robattle}}."
   }
  ]
 }

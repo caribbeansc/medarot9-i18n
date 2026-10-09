@@ -1,0 +1,96 @@
+{
+ "file": "story/spt/member_p.spt",
+ "lines": [
+  {
+   "i": 1263,
+   "src": "9862fb13b84e",
+   "t": " volvió"
+  },
+  {
+   "i": 1266,
+   "src": "ceb480e73e06",
+   "t": "al grupo."
+  },
+  {
+   "i": 1285,
+   "src": "2eb1581425ee",
+   "t": "Lapis"
+  },
+  {
+   "i": 1370,
+   "src": "1e52ed43bbf1",
+   "t": "{{mio}}"
+  },
+  {
+   "i": 1371,
+   "src": "a1432ffee269",
+   "t": " "
+  },
+  {
+   "i": 1374,
+   "src": "fd85ad011b2e",
+   "t": "se unió al grupo.    "
+  },
+  {
+   "i": 1393,
+   "src": "dc5f06e91299",
+   "t": "Coral"
+  },
+  {
+   "i": 1529,
+   "src": "f1f3a69763ae",
+   "t": "{{exploration_club_pres}}: Kunigiku    "
+  },
+  {
+   "i": 1530,
+   "src": "a1432ffee269",
+   "t": " "
+  },
+  {
+   "i": 1533,
+   "src": "fd85ad011b2e",
+   "t": "se unió al grupo.    "
+  },
+  {
+   "i": 1552,
+   "src": "f65ca6554100",
+   "t": "Titania"
+  },
+  {
+   "i": 1748,
+   "src": "d5ffc2c5cce7",
+   "t": "{{main}}"
+  },
+  {
+   "i": 1749,
+   "src": "a1432ffee269",
+   "t": " "
+  },
+  {
+   "i": 1752,
+   "src": "fd85ad011b2e",
+   "t": "se unió al grupo.    "
+  },
+  {
+   "i": 1771,
+   "src": "2fb791d1c0b6",
+   "t": "{{ginsei}}"
+  },
+  {
+   "i": 1918,
+   "src": "c12c268fadf2",
+   "t": "{{ryoma}}"
+  },
+  {
+   "i": 1919,
+   "src": "a1432ffee269",
+   "t": " "
+  },
+  {
+   "i": 1922,
+   "src": "fd85ad011b2e",
+   "t": "se unió al grupo.    "
+  }
+ ],
+ "game": "1.0"
+}

@@ -1,0 +1,21 @@
+{
+ "file": "story/spt/y_npc_sel01.spt",
+ "lines": [
+  {
+   "i": 1642,
+   "src": "6e42ea108b7b",
+   "t": "{{select_corps}}"
+  },
+  {
+   "i": 1653,
+   "src": "c28d2fd5dd56",
+   "t": "Sir! A {{robattle}}, correct!"
+  },
+  {
+   "i": 1656,
+   "src": "9efbd1510500",
+   "t": "It would be my pleasure to face you, sir!"
+  }
+ ],
+ "game": "1.0"
+}

@@ -1,0 +1,26 @@
+{
+ "file": "story/spt/portal_m150_01.spt",
+ "lines": [
+  {
+   "i": 1366,
+   "src": "d9c7a4c417d3",
+   "t": "Go back to your room?"
+  },
+  {
+   "i": 1367,
+   "src": "981eed5f69d8",
+   "t": "Go"
+  },
+  {
+   "i": 1368,
+   "src": "d3e89dd94333",
+   "t": "Cancel"
+  },
+  {
+   "i": 1372,
+   "src": "d3e89dd94333",
+   "t": "Cancel"
+  }
+ ],
+ "game": "1.0"
+}

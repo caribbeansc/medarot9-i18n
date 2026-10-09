@@ -1,0 +1,11 @@
+{
+ "file": "mdr/spt/partshint_4_44.spt",
+ "lines": [
+  {
+   "i": 8,
+   "src": "6a75a4c6f21a",
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>\n{{quick_attack}}\nLas {{part|pl}} de {{fighting}}\ncon {{power}} 40 o menos\nganan el {{effect}} \"Cadena\".\n<c:00ffff>Cadena:<c> En un combo,\nuna {{part}} con este {{effect}}\nda {{stats}} de {{prep}}\n+10."
+  }
+ ],
+ "game": "1.0"
+}

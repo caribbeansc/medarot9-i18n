@@ -1,0 +1,111 @@
+{
+ "file": "story/spt/f01_000_110_00.spt",
+ "lines": [
+  {
+   "i": 1275,
+   "src": "f65ca6554100",
+   "t": "Titania"
+  },
+  {
+   "i": 1278,
+   "src": "98e643d01909",
+   "t": "{{tai_chan}}"
+  },
+  {
+   "i": 1891,
+   "src": "f71322c5c57d",
+   "t": "{{principal|cap}}"
+  },
+  {
+   "i": 1902,
+   "src": "1e495a4ac50d",
+   "t": "Also, I'll give you a spare {{part}}."
+  },
+  {
+   "i": 1905,
+   "src": "7d7e5a0351b2",
+   "t": "Pick whichever one you like."
+  },
+  {
+   "i": 1917,
+   "src": "4dacdf800979",
+   "t": "Saikacchis"
+  },
+  {
+   "i": 1918,
+   "src": "952399e41943",
+   "t": "GranBeetle"
+  },
+  {
+   "i": 1919,
+   "src": "fe2c6bdc85bb",
+   "t": "Chrotojil"
+  },
+  {
+   "i": 1920,
+   "src": "a38d1848b30c",
+   "t": "GunNose"
+  },
+  {
+   "i": 1932,
+   "src": "4dacdf800979",
+   "t": "Saikacchis"
+  },
+  {
+   "i": 1940,
+   "src": "952399e41943",
+   "t": "GranBeetle"
+  },
+  {
+   "i": 1948,
+   "src": "fe2c6bdc85bb",
+   "t": "Chrotojil"
+  },
+  {
+   "i": 1956,
+   "src": "a38d1848b30c",
+   "t": "GunNose"
+  },
+  {
+   "i": 1969,
+   "src": "ac355ea4e6e9",
+   "t": "Dorcus"
+  },
+  {
+   "i": 1970,
+   "src": "45e5a6f163cb",
+   "t": "SonicStag"
+  },
+  {
+   "i": 1971,
+   "src": "082d4bbabb98",
+   "t": "Shinzan"
+  },
+  {
+   "i": 1972,
+   "src": "71b1a6d50799",
+   "t": "Sanjuro"
+  },
+  {
+   "i": 1984,
+   "src": "ac355ea4e6e9",
+   "t": "Dorcus"
+  },
+  {
+   "i": 1992,
+   "src": "45e5a6f163cb",
+   "t": "SonicStag"
+  },
+  {
+   "i": 2000,
+   "src": "082d4bbabb98",
+   "t": "Shinzan"
+  },
+  {
+   "i": 2008,
+   "src": "71b1a6d50799",
+   "t": "Sanjuro"
+  }
+ ],
+ "game": "1.0"
+}

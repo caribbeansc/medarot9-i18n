@@ -1,0 +1,21 @@
+{
+ "file": "story/spt/npc_teach_fa_meda_000_s01_t011.spt",
+ "lines": [
+  {
+   "i": 1027,
+   "src": "e895c1be5156",
+   "t": "{{moon_dragon}}"
+  },
+  {
+   "i": 1038,
+   "src": "c402781b953b",
+   "t": "My {{master}} is a language {{teacher}}."
+  },
+  {
+   "i": 1041,
+   "src": "3e05a668bbc1",
+   "t": "She's fluent in six languages. It's\namazing."
+  }
+ ],
+ "game": "1.0"
+}

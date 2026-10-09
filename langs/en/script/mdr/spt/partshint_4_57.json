@@ -4,7 +4,7 @@
   {
    "i": 8,
    "src": "b99818d2e6dd",
-   "t": "<c:00ff00>Leg Trait:<c> {{artillery}}\nWhile prepping an attack,\ncannot evade or defend.\n{{power}} and {{success}} {{stats}}\n+10."
+   "t": "<c:00ff00>Leg Trait:<c> {{artillery}}\nWhile prepping a ranged\nattack, cannot evade or\ndefend.\n{{power}} and {{success}} {{stats}}\n+10."
   }
  ]
 }

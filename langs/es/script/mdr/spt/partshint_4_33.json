@@ -4,7 +4,7 @@
   {
    "i": 8,
    "src": "1ff2c54c7480",
-   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{illusion}}\nAl completar la carga, te\naplica un {{effect}} igual al\nde\n\"{{stealth}}\"."
+   "t": "<c:00ff00>{{leg_trait|cap}}:<c>{{illusion}}\nCuando la {{charge_gauge}}\nllega al 100%, te aplica\nun {{effect}} igual al de\n\"{{stealth}}\".\n*Solo una vez por\n{{robattle}}."
   }
  ]
 }

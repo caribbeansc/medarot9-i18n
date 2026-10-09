@@ -1,0 +1,26 @@
+{
+ "file": "mdr/spt/mlp_wm.spt",
+ "lines": [
+  {
+   "i": 1180,
+   "src": "071d5d8596d5",
+   "t": "You will be disconnected\nif you press the HOME menu\nduring your Robattle match."
+  },
+  {
+   "i": 1982,
+   "src": "18352f047d9c",
+   "t": " will be your opponent."
+  },
+  {
+   "i": 2178,
+   "src": "35f9656f5199",
+   "t": "Local match was canceled."
+  },
+  {
+   "i": 2239,
+   "src": "8da23e5bb198",
+   "t": "Rules and {{field}} settings\nselected."
+  }
+ ],
+ "game": "1.0"
+}

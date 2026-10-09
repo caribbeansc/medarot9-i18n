@@ -4,7 +4,7 @@
   {
    "i": 19,
    "src": "644c9f090109",
-   "t": "<c:00ff00>{{mf}}:<c> {{overdrive}}\nGreatly raises the {{prep}}\nand\n{{cooldown}} stats of your\nwhole team.\n<c:00ffff>{{required_parts}}<c>\nNone"
+   "t": "<c:00ff00>{{mf}}:<c> {{overdrive}}\nCuts the {{prep}} and\n{{cooldown}} time of your\nwhole team to 2/3.\n<c:00ffff>{{required_parts}}<c>\nNone"
   }
  ]
 }

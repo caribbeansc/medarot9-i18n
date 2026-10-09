@@ -1,0 +1,11 @@
+{
+ "file": "mdr/spt/partshint_A_27.spt",
+ "lines": [
+  {
+   "i": 19,
+   "src": "5a3bd387649e",
+   "t": "<c:00ff00>{{mf}}:<c>{{overdrive}}\nSube bastante la {{prep}} y\nrefrigeración de todo tu\nequipo.\n<c:00ffff>*{{required_parts|cap}}<c>\nNinguna"
+  }
+ ],
+ "game": "1.0"
+}

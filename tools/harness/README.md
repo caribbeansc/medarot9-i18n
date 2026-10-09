@@ -18,6 +18,7 @@ deterministically and at maximum speed, capture both screens, save/load states, 
 | `test_codebin_variant.py` | Tests code.bin variants in the tutorial robattle (`--mode raw` reproduces crash #2) |
 | `smoke.py` | Final smoke suite: normal boot + Continue with the save + menu, tutorial and 20 maps |
 | `compare_newgame.py` | New game with the JAPANESE game (mods set aside) and with the patch, same button presses: compares e.g. the Medabots of the first robattle |
+| `test_scene.py` | Jumps to a story event (developer's chapter selector with its chapter 2 branch rewritten for the run: the player's Medal name, story step, warp to the event's map, the map's event script) and plays it pressing A: the patch, the Japanese game (`--jp`) or another patch (`--mod-romfs/--mod-exefs`, `--no-update`), Kuwagata or `--kabuto` |
 
 ## Building the bench Azahar
 ```bash
@@ -87,3 +88,8 @@ number of instructions, so no relative jump shifts).
   the mod files on demand.
 - All maps: `python tools/harness/sweep_maps.py` (results in `experiments/harness/sweep_maps.json`).
 - PANIC at boot: `tools/harness/bisect_boot.py` (bisection by mod files).
+- A story event (cutscene) on its own: `python tools/harness/test_scene.py tracks|interview [--jp]` (presets = story step,
+  warp and event script; a cutscene script cannot be started alone: without its map it crashes even in the Japanese game).
+  The developer's selector always makes 3 harmless unmapped accesses when an option is chosen (filtered).
+  "Without problems" only means no PANIC/unmapped/hang: check the screenshots to see that the event really played
+  (a code.bin of the other edition loads the other boot script; both are overlaid).
