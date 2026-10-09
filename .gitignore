@@ -4,9 +4,9 @@
 *.cia
 *.cxi
 *.app
-*.bin
-romfs/
-exefs/
+/*.bin
+/romfs/
+/exefs/
 
 # Everything built from your own dump.
 build/
