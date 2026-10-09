@@ -20,8 +20,8 @@ It ships two translations, both covering the game's full text:
 | Español (Latinoamérica) | 100% | 413 textures | playable, played in Azahar (PC and Android) |
 | English | 100% | 347 textures | playable, tested in Azahar |
 
-Both are made for the **Kuwagata Ver.** with its **1.3.0 update**: you need both (install the update in your emulator
-or console too).
+Both editions are supported, **Kabuto Ver.** and **Kuwagata Ver.**, with their **1.3.0 update**: you need the game
+and its update (install the update in your emulator or console too). The patcher tells the editions apart on its own.
 
 > **You need your own copy of the game.** These tools read the files from your own decrypted dump. They do not
 > contain the game and cannot get it for you.
@@ -46,7 +46,8 @@ repository and contains nothing from the game.
 
 ### Then, on either system
 
-1. Point the patcher at your own copy of the game, **decrypted** (GodMode9 on your console does it):
+1. Point the patcher at your own copy of the game (Kabuto or Kuwagata), **decrypted** (GodMode9 on your console
+   does it; files named `*.piratelegit.cia` and other encrypted dumps are refused):
    - the game: a `.3ds`/`.cci` cartridge dump or a `.cia`; or a RomFS folder dumped with Azahar
      (right click the game → *Dump RomFS*);
    - its **1.3.0 update** (`.cia`, or a dumped folder): required, the translation is made for it.

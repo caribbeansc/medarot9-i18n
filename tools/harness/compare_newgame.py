@@ -3,7 +3,8 @@
 Japanese game (mods set aside) and with the patch, and save parallel screenshots to compare them (e.g. that the
 first robattle uses the same Medabots: historical bug "the Medabot of the test battle changes").
 
-  python tools/harness/compare_newgame.py [--presses 500] [--every 5] [--only es|jp]
+  python tools/harness/compare_newgame.py [--presses 500] [--every 5] [--only es|jp] [--kabuto]
+--kabuto plays the Kabuto edition (its ROM and mod folder 0004000000174E00) instead of Kuwagata.
 Screenshots: experiments/harness/shots/cmp_<jp|es>/p<NNNN>.png. The bench mod is ALWAYS restored at the end.
 """
 import argparse
@@ -18,6 +19,9 @@ from azahar_rpc import launch, shutdown, USER_DIR, REPO, RPCError  # noqa: E402
 
 MODS = USER_DIR / 'load' / 'mods' / '0004000000174F00'
 PARKED = USER_DIR / 'load' / 'mods_parked_0004000000174F00'
+KABUTO_ROM = REPO / '0004000000174E00 メダロット９ - カブトVer. (CTR-P-BA9J) (v0.2.0) (J)-decrypted.cci'
+ROM = None
+FRESH = False          # no save yet: New Game is the first option (UP would select the SpotPass option)
 H = [sys.executable, str(HERE / 'h.py')]
 REF_NAMING = REPO / 'experiments' / 'harness' / 'shots' / 'newgame' / 'g021.png'
 
@@ -35,13 +39,14 @@ def play(tag, presses, every):
         shutil.rmtree(out)
     out.mkdir(parents=True)
     subprocess.run(H + ['testmod', 'debug_menu', 'off'], capture_output=True)
-    emu = launch()
+    emu = launch(ROM) if ROM else launch()
     emu.pause()
     log = []
     try:
         emu.run(900)
         emu.press('START', hold=6, after=240)
-        emu.press('UP', hold=6, after=60)
+        if not FRESH:                                    # with a save, New Game is above Continue
+            emu.press('UP', hold=6, after=60)
         emu.press('A', hold=6, after=300)
         named = False
         for i in range(1, presses + 1):
@@ -69,7 +74,15 @@ def main():
     ap.add_argument('--presses', type=int, default=500)
     ap.add_argument('--every', type=int, default=5)
     ap.add_argument('--only', choices=['es', 'jp'])
+    ap.add_argument('--kabuto', action='store_true')
+    ap.add_argument('--fresh', action='store_true', help='no save data: New Game is the first menu option')
     a = ap.parse_args()
+    global MODS, PARKED, ROM, FRESH
+    FRESH = a.fresh
+    if a.kabuto:
+        ROM = KABUTO_ROM
+        MODS = USER_DIR / 'load' / 'mods' / '0004000000174E00'
+        PARKED = USER_DIR / 'load' / 'mods_parked_0004000000174E00'
     if a.only != 'jp':
         print('ES:', play('es', a.presses, a.every))
     if a.only != 'es':

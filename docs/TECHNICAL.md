@@ -5,7 +5,10 @@ For contributors who know Python but have never modified a 3DS game. Everything 
 
 ## The game and its update
 
-- Title `0004000000174F00` (Kuwagata Ver.; Kabuto Ver. is `0004000000174E00`), update 1.3.0 = `0004000E00174F00`.
+- Two editions: Kuwagata Ver. (title `0004000000174F00`, update `0004000E00174F00`) and Kabuto Ver.
+  (`0004000000174E00`, update `0004000E00174E00`). With the 1.3.0 update both have exactly the same RomFS files;
+  only `code.bin` differs (`.text` is 8 bytes shorter in Kabuto, `.rodata`/`.data` at the same addresses), so a
+  language pack has one code patch per edition and shares everything else.
 - The update ships a **partial** RomFS (994 files against the base game's ~23,000): the game loads a file from the
   update when the update has it, and from the base game otherwise. `m9/dump.py` reproduces that rule.
 - Azahar (and Luma3DS) apply the mod folder of the base title to the update too: for every path in the mod, the game

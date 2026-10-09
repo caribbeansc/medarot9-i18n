@@ -8,7 +8,6 @@ ROOT = Path(__file__).resolve().parents[1]           # the repository (or the pa
 # where to write: the repository when run from source; the user's home folder for the frozen patcher app
 HOME = Path.home() / 'Medarot9-Patcher' if getattr(__import__('sys'), 'frozen', False) else ROOT
 CONFIG = HOME / 'm9.config.json'
-TITLE = '0004000000174F00'
 
 
 class Config:

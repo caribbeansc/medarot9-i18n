@@ -1,7 +1,9 @@
 """Builds the translated game files (a LayeredFS mod) from the player's dump and a language pack.
 
-  out/0004000000174F00/romfs/...      scripts, data tables, map files, fonts, textures
-  out/0004000000174F00/exefs/code.bin the game's code with the translated built-in texts
+  out/<title>/romfs/...      scripts, data tables, map files, fonts, textures
+  out/<title>/exefs/code.bin the game's code with the translated built-in texts
+<title> is 0004000000174F00 (Kuwagata) or 0004000000174E00 (Kabuto). Both editions share every file; each has its
+own code.bin patch (binary/exefs/code.bin.json for Kuwagata, code.bin.kabuto.json for Kabuto).
 
 Azahar loads mods from its "load/mods/<title id>/" folder; on a real console Luma3DS loads them from
 "/luma/titles/<title id>/". With the 1.3.0 update installed, the mod of the base title also covers the update.
@@ -15,7 +17,6 @@ from m9 import names, patch, script, terms
 from m9.dump import Dump
 
 REPO = Path(__file__).resolve().parents[1]
-TID = '0004000000174F00'
 
 
 class BuildError(Exception):
@@ -29,7 +30,7 @@ def build(dump: Dump, lang: str, out: Path, log=print):
     if dump.version != '1.3':
         raise BuildError('the translation is made for the game WITH its 1.3.0 update: point me at the update too '
                          '(its decrypted .cia, or a dumped folder), and install it in your emulator or console')
-    root = Path(out) / TID
+    root = Path(out) / dump.title
     if root.exists():
         shutil.rmtree(root)
     romfs, exefs = root / 'romfs', root / 'exefs'
@@ -52,16 +53,25 @@ def build(dump: Dump, lang: str, out: Path, log=print):
 
     # binary patches (data tables, maps, code)
     n = 0
+    code = dump.code()
+    code_sha = patch.sha1(code) if code else None
+    code_done = False
     for f in sorted((pack / 'binary').rglob('*.json')):
         p = patch.load(f)
         if p['file'] == 'exefs/code.bin':
-            (exefs / 'code.bin').write_bytes(patch.apply(p, dump.code()))
+            if p['src'] != code_sha:                # the other edition's code
+                continue
+            (exefs / 'code.bin').write_bytes(patch.apply(p, code))
+            code_done = True
         else:
             dst = romfs / p['file']
             dst.parent.mkdir(parents=True, exist_ok=True)
             dst.write_bytes(patch.apply(p, dump.read(p['file'])))
         n += 1
     log(f'binary patches: {n}')
+    if not code_done:
+        raise BuildError(f'this language pack has no code patch for your code.bin (Medarot 9 {dump.edition.title()} '
+                         f'{dump.version}): is it the original 1.3.0 update?')
 
     # names in the data tables, from the terms (a changed term reaches them too)
     n = 0

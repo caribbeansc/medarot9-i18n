@@ -1,7 +1,8 @@
 """Reading the game from the player's own dump.
 
-Medarot 9 (Kuwagata) is title 0004000000174F00; its 1.3.0 update is 0004000E00174F00. The tools need the
-Japanese files of both. Accepted sources, for the game and for the update alike:
+Medarot 9 comes in two editions: Kuwagata (title 0004000000174F00, update 0004000E00174F00) and Kabuto
+(0004000000174E00, update 0004000E00174E00). With the 1.3.0 update both have exactly the same files; only their code
+(code.bin) differs. The tools need the Japanese files of the game and of its update. Accepted sources, for both:
 
   - a decrypted cartridge image (.3ds / .cci) or a decrypted .cia (game or update);
   - a folder: a dumped RomFS (with Azahar: right click the game -> Dump RomFS), optionally next to an
@@ -37,7 +38,9 @@ class _Ncch:
         f.seek(base)
         h = f.read(0x200)
         if h[0x100:0x104] != b'NCCH':
-            raise DumpError(f'{label}: no NCCH header (not a 3DS image, or still encrypted)')
+            raise DumpError(f'{label}: this file is still ENCRYPTED (or is not a 3DS game). Decrypt it first, e.g. with '
+                            f'GodMode9 on your console ("decrypt" on the .cia / cartridge dump), then choose the '
+                            f'"-decrypted" file.')
         flags = h[0x188:0x190]
         self.encrypted = not (flags[7] & 0x04)
         self.title_id = struct.unpack_from('<Q', h, 0x118)[0]
@@ -219,17 +222,46 @@ class Source:
         return self._ncch.code() if self._ncch.exefs[1] else None
 
 
+EDITIONS = {'kuwagata': (0x0004000000174F00, 0x0004000E00174F00, b'MDR9KWG'),
+            'kabuto': (0x0004000000174E00, 0x0004000E00174E00, b'MDR9KBT')}
+
+
 class Dump:
     """Base game + optional update: `read` gives the file the game really loads."""
-
-    GAME, UPDATE = 0x0004000000174F00, 0x0004000E00174F00
 
     def __init__(self, game, update=None):
         self.game = Source(game)
         self.update = Source(update) if update else None
-        for src, want in ((self.game, self.GAME), (self.update, self.UPDATE)):
-            if src and src.title_id and src.title_id != want:
-                raise DumpError(f'{src.label}: title {src.title_id:016X}, expected {want:016X} (Medarot 9 Kuwagata)')
+        self.edition = self._edition()
+
+    def _edition(self):
+        for src, k in ((self.game, 0), (self.update, 1)):
+            if src and src.title_id:
+                ed = next((e for e, ids in EDITIONS.items() if ids[k] == src.title_id), None)
+                if ed is None:
+                    raise DumpError(f'{src.label}: title {src.title_id:016X} is not Medarot 9 '
+                                    f'({"game" if k == 0 else "update"} expected)')
+                return self._check(ed)
+        has_code = any(getattr(src, '_code_file', None) for src in (self.game, self.update) if src)
+        code = self.code() if has_code else None
+        if code:
+            for ed, ids in EDITIONS.items():
+                if ids[2] in code[:0x400]:
+                    return self._check(ed)
+        return 'kuwagata'
+
+    def _check(self, ed):
+        ids = EDITIONS[ed]
+        for src, k in ((self.game, 0), (self.update, 1)):
+            if src and src.title_id and src.title_id != ids[k]:
+                raise DumpError(f'{src.label} is not the {"game" if k == 0 else "update"} of Medarot 9 {ed.title()} '
+                                f'(the game and its update must be the same edition)')
+        return ed
+
+    @property
+    def title(self) -> str:
+        """Title ID of the base game: the folder name of its mod."""
+        return f'{EDITIONS[self.edition][0]:016X}'
 
     @property
     def version(self):

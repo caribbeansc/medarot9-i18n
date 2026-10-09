@@ -6,7 +6,7 @@ import sys
 import zipfile
 from pathlib import Path
 
-from m9.config import HOME, ROOT, TITLE, Config, azahar_mods
+from m9.config import HOME, ROOT, Config, azahar_mods
 from m9.dump import Dump, DumpError
 
 BUILD = HOME / 'build'
@@ -37,7 +37,7 @@ def cmd_game(a, cfg):
     cfg.save()
     print(f'game:   {cfg.game}')
     print(f'update: {cfg.update or "(none yet: the translation needs the 1.3.0 update too)"}')
-    print(f'version {d.version}; {len(d.files())} files')
+    print(f'Medarot 9 {d.edition.title()} ({d.title}), version {d.version}; {len(d.files())} files')
     return 0
 
 
@@ -45,13 +45,13 @@ def _build(a, cfg):
     from m9.build import build
     d = _dump(cfg)
     out = BUILD / a.language
-    print(f'Building {a.language} for game version {d.version} into {out} ...')
+    print(f'Building {a.language} for Medarot 9 {d.edition.title()} {d.version} into {out} ...')
     problems = build(d, a.language, out)
     for p in problems[:20]:
         print('  problem:', p)
     if problems:
         print(f'{len(problems)} lines were not written (see above).')
-    return out / TITLE
+    return out / d.title
 
 
 def cmd_build(a, cfg):
@@ -61,7 +61,7 @@ def cmd_build(a, cfg):
 
 def cmd_install(a, cfg):
     mod = _build(a, cfg)
-    dst = azahar_mods(a.azahar or cfg.azahar) / TITLE
+    dst = azahar_mods(a.azahar or cfg.azahar) / mod.name
     if dst.exists():
         shutil.rmtree(dst)
     shutil.copytree(mod, dst)
@@ -76,7 +76,7 @@ def cmd_zip(a, cfg):
     with zipfile.ZipFile(z, 'w', zipfile.ZIP_DEFLATED) as zf:
         for f in sorted(mod.rglob('*')):
             if f.is_file():
-                zf.write(f, f'luma/titles/{TITLE}/' + f.relative_to(mod).as_posix())
+                zf.write(f, f'luma/titles/{mod.name}/' + f.relative_to(mod).as_posix())
     print(f'{z}: unzip it at the root of your SD card (Luma3DS: enable "game patching").')
     return 0
 
@@ -111,7 +111,7 @@ def cmd_languages(a, cfg):
 
 
 def main(argv=None):
-    ap = argparse.ArgumentParser(prog='m9.py', description='Medarot 9 (Kuwagata) translation toolkit')
+    ap = argparse.ArgumentParser(prog='m9.py', description='Medarot 9 (Kabuto / Kuwagata) translation toolkit')
     sub = ap.add_subparsers(dest='cmd')
     s = sub.add_parser('game', help='point me at your game (and its 1.3.0 update)')
     s.add_argument('path', nargs='?')
@@ -145,7 +145,7 @@ def main(argv=None):
 
 def menu(cfg):
     langs = [l['code'] for l in languages()]
-    print('Medarot 9 (Kuwagata) — translation toolkit\n')
+    print('Medarot 9 (Kabuto / Kuwagata) — translation toolkit\n')
     print(f'  game:   {cfg.game or "(not set)"}')
     print(f'  update: {cfg.update or "(not set)"}\n')
     print('  1  Point me at the game')

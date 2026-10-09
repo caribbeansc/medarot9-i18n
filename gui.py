@@ -15,7 +15,7 @@ import tkinter as tk  # noqa: E402
 from tkinter import filedialog, ttk  # noqa: E402
 
 from m9.cli import BUILD, DIST, languages  # noqa: E402
-from m9.config import TITLE, Config, azahar_mods  # noqa: E402
+from m9.config import Config, azahar_mods  # noqa: E402
 
 GAME_TYPES = [('3DS game', '*.3ds *.cci *.cia *.cxi'), ('All files', '*')]
 
@@ -23,7 +23,7 @@ GAME_TYPES = [('3DS game', '*.3ds *.cci *.cia *.cxi'), ('All files', '*')]
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title('Medarot 9 — translation patcher')
+        self.title('Medarot 9 — translation patcher (Kabuto / Kuwagata)')
         self.resizable(False, False)
         self.cfg = Config()
         self.langs = languages()
@@ -88,14 +88,14 @@ class App(tk.Tk):
         from m9.dump import Dump
         try:
             d = Dump(self.cfg.game, self.cfg.update)
-            self._say(f'Game version {d.version}. Building {code}…')
+            self._say(f'Medarot 9 {d.edition.title()}, version {d.version}. Building {code}…')
             out = BUILD / code
             problems = build(d, code, out, log=self._say)
-            mod = out / TITLE
+            mod = out / d.title
             if problems:
                 self._say(f'{len(problems)} lines were not written (your dump differs?).')
             if what == 'install':
-                dst = azahar_mods(self.cfg.azahar) / TITLE
+                dst = azahar_mods(self.cfg.azahar) / mod.name
                 if dst.exists():
                     shutil.rmtree(dst)
                 shutil.copytree(mod, dst)
@@ -106,13 +106,14 @@ class App(tk.Tk):
                 with zipfile.ZipFile(z, 'w', zipfile.ZIP_DEFLATED) as zf:
                     for f in sorted(mod.rglob('*')):
                         if f.is_file():
-                            zf.write(f, f'luma/titles/{TITLE}/' + f.relative_to(mod).as_posix())
+                            zf.write(f, f'luma/titles/{mod.name}/' + f.relative_to(mod).as_posix())
                 self._say(f'Done: {z}. Unzip it at the root of your SD card and enable game patching in Luma3DS.')
             else:
                 self._say(f'Done: {mod}')
         except Exception as e:  # shown to the player, not raised
             self._say(f'Error: {e}')
-            self._say(traceback.format_exc(limit=2))
+            if type(e).__name__ not in ('DumpError', 'BuildError', 'PatchError'):     # a bug: details help to report it
+                self._say(traceback.format_exc(limit=2))
         finally:
             for w in self.buttons:
                 self.after(0, lambda w=w: w.state(['!disabled']))

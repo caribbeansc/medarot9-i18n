@@ -47,6 +47,12 @@ class Packs(unittest.TestCase):
                     room = s['size'] - s.get('head', 0) - s.get('tail', 0) - (1 if s.get('fill', 'nul') == 'nul' else 0)
                     self.assertLessEqual(len(body), room, f'{f}: {s["t"]} does not fit its slot')
 
+    def test_code_patches_for_both_editions(self):
+        for lang in LANGS:
+            d = ROOT / 'langs' / lang / 'binary' / 'exefs'
+            eds = {patch.load(f).get('edition', 'kuwagata') for f in d.glob('code.bin*.json')}
+            self.assertEqual(eds, {'kuwagata', 'kabuto'}, f'{lang}: code.bin patches')
+
     def test_binary_patches(self):
         for lang in LANGS:
             for f in list((ROOT / 'langs' / lang / 'binary').rglob('*.json')) + \
