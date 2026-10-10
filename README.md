@@ -35,8 +35,7 @@ patcher tells the editions and versions apart on its own.
    - Windows: **`Medarot9-Patcher-Windows.exe`**, double-click it. The first time Windows may say it doesn't
      recognise the app (free software without a paid certificate): **More info** → **Run anyway**.
    - macOS: **`Medarot9-Patcher-macOS.zip`**, double-click it, then **right-click the app → Open** the first time.
-2. **Have your own decrypted copy** of the game (GodMode9 on your console makes it; encrypted dumps such as
-   `*.piratelegit.cia` are refused):
+2. **Have your own decrypted copy** of the game (GodMode9 on your console makes it; encrypted dumps are refused):
    - the game: a `.3ds` / `.cci` cartridge dump or a `.cia` (or a RomFS folder dumped with an emulator);
    - its **1.3.0 update** `.cia`, if you want to play with the update (recommended: it fixes and adds things).
 3. **In the patcher**, choose the game (and the update), then:
