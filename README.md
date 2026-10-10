@@ -38,21 +38,133 @@ patcher tells the editions and versions apart on its own.
 2. **Have your own decrypted copy** of the game (GodMode9 on your console makes it; encrypted dumps are refused):
    - the game: a `.3ds` / `.cci` cartridge dump or a `.cia` (or a RomFS folder dumped with an emulator);
    - its **1.3.0 update** `.cia`, if you want to play with the update (recommended: it fixes and adds things).
-3. **In the patcher**, choose the game (and the update), then:
-   - **Version**: *With the 1.3.0 update* or *Without the update (1.0)*;
-   - **Language**;
-   - **What to make**, from the table below; then click **Make**.
+3. **Follow the steps for where you play** (click to open). In the patcher you always fill in *Your game*, *Its
+   1.3.0 update* (leave it empty for version 1.0), *Version*, *Language* and *What to make*, then click **Make**.
+   What it makes goes to the **`Medarot9-Patcher/dist`** folder in your user folder (`dist/` when run from source).
 
-| You play on | Choose | Then |
-|---|---|---|
-| **An emulator** on this computer (Azahar, Citra, Lime3DS, AzaharPlus…) | *Install into an emulator* | The patcher finds the emulator's mods folder (or pick it: in the emulator, right-click the game → *Open Mods Location*). Start the game. Version 1.0: uninstall the 1.3.0 update in the emulator. |
-| **An emulator on Android** | *Installable .cia* | Copy the .cia to the phone and install it in the emulator (*Install CIA*). |
-| **A real 3DS** with Luma3DS — **easiest** | *SD card ZIP* | Unzip it at the **root** of the SD card. Install the game as usual (and the 1.3.0 update, if you chose it). Hold **SELECT** while turning the 3DS on and enable **"Enable game patching"** (once). |
-| **A real 3DS**, installing with **FBI** | *Installable .cia* | **With the update**: install your **original** game, then the translated **update** `.cia`. **Without it**: install the translated game `.cia` instead of the original (from a `.3ds` you get a `.3ds`: in GodMode9 choose it → *NCSD image options* → *Build CIA from file*), and don't install the update. No game patching needed. |
-| Rebuilding the game yourself (**PackHack** / HackingToolkit3DS) | *Files only* | You get `update/` (with the update) or `game/` (without it), each with `exefs/code.bin` and `romfs/`: drop them into the extracted **update** or **game** (*ExtractedExeFS* / *ExtractedRomFS*), rebuild it, and install it. |
+<details>
+<summary><b>An emulator on this computer</b> (Azahar, Citra, Lime3DS, AzaharPlus…)</summary>
 
-Nothing else changes: your saves stay the same, and removing the translation (the mod folder, the SD card folder, or
-reinstalling the original `.cia`) gives you the Japanese game back.
+**With the 1.3.0 update** (recommended)
+
+1. In the emulator, add your game as usual and install its original 1.3.0 update (*File → Install CIA…*).
+2. In the patcher: *Your game* = your game; *Its 1.3.0 update* = the update `.cia`.
+3. *Version*: **With the 1.3.0 update** · *Language*: yours · *What to make*: **Install into an emulator on this
+   computer**.
+4. *Emulator*: the patcher lists the emulators it finds. If yours is missing, choose **Other folder…** and pick its
+   `load/mods` folder (in the emulator, right-click the game → *Open Mods Location* opens `load/mods/<title id>`: pick
+   the `mods` folder one level up).
+5. Click **Make**, then start (or restart) the game.
+
+**Without the update (version 1.0)**
+
+1. In the emulator, if the 1.3.0 update is installed, remove it (right-click the game → *Remove* → *Remove
+   Installed Update*).
+2. In the patcher: only *Your game*; *Version*: **Without the update (version 1.0)**; then steps 3-5 above.
+
+**Back to Japanese:** delete the game's folder inside `load/mods`.
+
+</details>
+
+<details>
+<summary><b>An emulator on Android</b> (Azahar, Lime3DS…)</summary>
+
+The patcher runs on a computer; you copy what it makes to the phone.
+
+**With the 1.3.0 update** (recommended)
+
+1. In the patcher: *Your game* = your game; *Its 1.3.0 update* = the update `.cia` (a `.cia` file, not a folder).
+2. *Version*: **With the 1.3.0 update** · *Language*: yours · *What to make*: **Installable .cia for a real 3DS
+   (FBI)** (it works in emulators too). Click **Make**.
+3. You get **`Medarot 9 <edition> (<language>) (update 1.3.0).cia`**: a translated copy of the update. Copy it to
+   the phone.
+4. In the emulator, add your original game as usual, then install the translated update with its **Install CIA**
+   option. If the original update was installed, this one replaces it.
+
+**Without the update (version 1.0)**
+
+1. In the patcher: only *Your game*; *Version*: **Without the update (version 1.0)**; *What to make*: **Installable
+   .cia for a real 3DS (FBI)**. Click **Make**.
+2. You get a translated copy of the **game**: a `.cia` if your game was a `.cia`, a `.3ds` if it was a `.3ds`/`.cci`.
+   Copy it to the phone.
+3. A `.3ds`: put it in your games folder and open it. A `.cia`: install it with **Install CIA** instead of the
+   original game.
+4. The 1.3.0 update must not be installed in the emulator.
+
+**Back to Japanese:** reinstall your original update `.cia` (or your original game, for 1.0).
+
+</details>
+
+<details>
+<summary><b>A real 3DS with Luma3DS: game patching</b> (easiest on a console)</summary>
+
+1. In the patcher: *Your game*, and *Its 1.3.0 update* if you play with it; *Version*; *Language*; *What to make*:
+   **SD card ZIP for a real 3DS (Luma3DS game patching)**. Click **Make**.
+2. You get **`medarot9-<edition>-<version>-<language>-sdcard.zip`**.
+3. Turn the 3DS off, put its SD card in the computer and unzip the ZIP at the **root** of the card. It creates
+   `luma/titles/<title id>/` with `code.bin` and `romfs/`.
+4. Install your original game as usual (unchanged).
+   - **With the update:** install your original 1.3.0 update too.
+   - **Without it (1.0):** the update must not be installed (to remove it: FBI → *Titles* → the update → *Delete
+     Title*).
+5. Hold **SELECT** while turning the 3DS on, enable **"Enable game patching"** in the Luma3DS menu and press
+   **START** to save. Only the first time.
+6. Start the game.
+
+**Back to Japanese:** delete `luma/titles/<title id>/` from the SD card.
+
+</details>
+
+<details>
+<summary><b>A real 3DS, installing a .cia with FBI</b> (no game patching)</summary>
+
+**With the 1.3.0 update** (recommended)
+
+1. In the patcher: *Your game* = your game **and** *Its 1.3.0 update* = the update `.cia`. It needs both: the
+   update only contains the files that the update changed, and the translated update has to carry every translated
+   file.
+2. *Version*: **With the 1.3.0 update** · *Language*: yours · *What to make*: **Installable .cia for a real 3DS
+   (FBI)**. Click **Make**.
+3. You get **`Medarot 9 <edition> (<language>) (update 1.3.0).cia`**: a translated copy of the update. Copy it to
+   the SD card.
+4. On the 3DS, install your **original** Japanese game as usual (don't patch it).
+5. In FBI: *SD* → the folder where you copied it → the `.cia` → **Install CIA**. If the original update was
+   installed, this one replaces it.
+6. Start the game. You don't need Luma's game patching; don't also put the SD card ZIP on the card.
+
+**Without the update (version 1.0)**
+
+1. In the patcher: only *Your game*; *Version*: **Without the update (version 1.0)**; *What to make*: **Installable
+   .cia for a real 3DS (FBI)**. Click **Make**.
+2. You get a translated copy of the **game**: **`Medarot 9 <edition> (<language>).cia`** if your game was a `.cia`,
+   or a `.3ds` if it was a `.3ds`/`.cci`.
+3. From a `.3ds`: copy it to the SD card; in GodMode9 select it → *NCSD image options* → *Build CIA from file*
+   (the `.cia` goes to `gm9/out/`).
+4. In FBI, install the translated `.cia` **instead of** the original game (if the original is installed, this one
+   replaces it).
+5. Don't install the 1.3.0 update (to remove it: FBI → *Titles* → the update → *Delete Title*).
+
+**Back to Japanese:** reinstall your original update `.cia` (or your original game, for 1.0).
+
+</details>
+
+<details>
+<summary><b>Rebuilding the game yourself</b> (PackHack / HackingToolkit3DS)</summary>
+
+1. In the patcher: *Your game*, and *Its 1.3.0 update* if you play with it; *Version*; *Language*; *What to make*:
+   **Files only**. Click **Make**.
+2. You get a folder with **`update/`** (with the update) or **`game/`** (without it), each with `exefs/code.bin` and
+   `romfs/`.
+3. With your tool, extract your original **update** `.cia` (with the update) or your original **game** (without it).
+4. Replace `code.bin` in *ExtractedExeFS* with `exefs/code.bin`, and copy everything in `romfs/` into
+   *ExtractedRomFS*, overwriting.
+5. Rebuild it and install it:
+   - **with the update:** your original game, then this rebuilt update;
+   - **without it:** this rebuilt game instead of the original, and no 1.3.0 update.
+
+</details>
+
+Nothing else changes: your saves stay the same, and removing the translation gives you the Japanese game back.
 
 ## About the translations
 
