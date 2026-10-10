@@ -10,8 +10,8 @@
 [Play it](#play-it--the-easy-way-no-python-no-terminal) below.
 
 **What this repository is for:** translating the game without reverse-engineering anything. Point it at your own
-dump and it builds the translated files for the Azahar emulator, a real console running Luma3DS, or an installable
-.cia; a language
+dump and it builds the translated files for a 3DS emulator (Azahar, Citra, Lime3DS…), a real console running
+Luma3DS, or an installable .cia; a language
 is a folder (`langs/<code>/`), and every name and game term lives in one table you can change.
 
 It ships two translations, both covering the game's full text:
@@ -37,7 +37,7 @@ patcher tells the editions and versions apart on its own.
    - macOS: **`Medarot9-Patcher-macOS.zip`**, double-click it, then **right-click the app → Open** the first time.
 2. **Have your own decrypted copy** of the game (GodMode9 on your console makes it; encrypted dumps such as
    `*.piratelegit.cia` are refused):
-   - the game: a `.3ds` / `.cci` cartridge dump or a `.cia` (or a RomFS folder dumped with Azahar);
+   - the game: a `.3ds` / `.cci` cartridge dump or a `.cia` (or a RomFS folder dumped with an emulator);
    - its **1.3.0 update** `.cia`, if you want to play with the update (recommended: it fixes and adds things).
 3. **In the patcher**, choose the game (and the update), then:
    - **Version**: *With the 1.3.0 update* or *Without the update (1.0)*;
@@ -46,8 +46,8 @@ patcher tells the editions and versions apart on its own.
 
 | You play on | Choose | Then |
 |---|---|---|
-| **Azahar** on this computer | *Install into Azahar* | Start the game. Version 1.0: uninstall the 1.3.0 update in Azahar. |
-| **Azahar on Android** | *Installable .cia* | Copy the .cia to the phone and install it in Azahar (*Install CIA*). |
+| **An emulator** on this computer (Azahar, Citra, Lime3DS, AzaharPlus…) | *Install into an emulator* | The patcher finds the emulator's mods folder (or pick it: in the emulator, right-click the game → *Open Mods Location*). Start the game. Version 1.0: uninstall the 1.3.0 update in the emulator. |
+| **An emulator on Android** | *Installable .cia* | Copy the .cia to the phone and install it in the emulator (*Install CIA*). |
 | **A real 3DS** with Luma3DS — **easiest** | *SD card ZIP* | Unzip it at the **root** of the SD card. Install the game as usual (and the 1.3.0 update, if you chose it). Hold **SELECT** while turning the 3DS on and enable **"Enable game patching"** (once). |
 | **A real 3DS**, installing with **FBI** | *Installable .cia* | **With the update**: install your **original** game, then the translated **update** `.cia`. **Without it**: install the translated game `.cia` instead of the original (from a `.3ds` you get a `.3ds`: in GodMode9 choose it → *NCSD image options* → *Build CIA from file*), and don't install the update. No game patching needed. |
 | Rebuilding the game yourself (**PackHack** / HackingToolkit3DS) | *Files only* | You get `update/` (with the update) or `game/` (without it), each with `exefs/code.bin` and `romfs/`: drop them into the extracted **update** or **game** (*ExtractedExeFS* / *ExtractedRomFS*), rebuild it, and install it. |
@@ -82,7 +82,7 @@ The menu walks you through it; or directly:
 
 ```
 python m9.py game <your game .3ds/.cia/folder> --update <your update .cia/folder>   # --update is optional
-python m9.py install es        # build and install into Azahar
+python m9.py install es        # build and install into an emulator (the first found; --mods <its load/mods>)
 python m9.py zip en            # build a ZIP for a real console (Luma3DS game patching)
 python m9.py cia es            # an installable translated .cia (the update's, or the game's for 1.0)
 python m9.py files es          # exefs/ + romfs/ to rebuild the game yourself (PackHack)

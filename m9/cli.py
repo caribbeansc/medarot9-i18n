@@ -70,17 +70,17 @@ def cmd_build(a, cfg):
 
 def cmd_install(a, cfg):
     mod = _build(a, cfg)
-    dst = azahar_mods(a.azahar or cfg.azahar) / mod.name
+    dst = azahar_mods(a.mods or cfg.azahar) / mod.name
     if dst.exists():
         shutil.rmtree(dst)
     shutil.copytree(mod, dst)
-    print(f'Installed into {dst}. Restart the game in Azahar.')
+    print(f'Installed into {dst}. Restart the game in the emulator.')
     return 0
 
 
 def _luma_path(mod, f):
     """Path inside the SD card for Luma3DS game patching: romfs/ as it is, and code.bin at the title folder's root
-    (Luma3DS reads /luma/titles/<title>/code.bin, not exefs/code.bin as Azahar does)."""
+    (Luma3DS reads /luma/titles/<title>/code.bin, not exefs/code.bin as the emulators do)."""
     rel = f.relative_to(mod).as_posix()
     if rel.startswith('exefs/'):
         rel = rel[len('exefs/'):]
@@ -111,10 +111,10 @@ def cmd_cia(a, cfg):
     mod = _build(a, cfg, d)
     out = cia.make(d, mod, DIST, output_name(d, a.language))
     if d.version == '1.3':
-        print(f'{out}\nInstall your ORIGINAL game, then this translated update, with FBI (Luma3DS). In Azahar: '
-              f'File > Install CIA. It replaces the 1.3.0 update; nothing else is needed (no game patching).')
+        print(f'{out}\nInstall your ORIGINAL game, then this translated update: FBI on a 3DS (Luma3DS), or "Install '
+              f'CIA" in an emulator. It replaces the 1.3.0 update; nothing else is needed (no game patching).')
     elif str(out).endswith('.3ds'):
-        print(f'{out}\nA translated .3ds of the game (1.0). Azahar opens it directly. For a console, copy it to the '
+        print(f'{out}\nA translated .3ds of the game (1.0). Emulators open it directly. For a console, copy it to the '
               f'SD card and in GodMode9 choose it > NCSD image options > Build CIA from file, then install that '
               f'.cia with FBI. Do not install the 1.3.0 update.')
     else:
@@ -173,7 +173,8 @@ def main(argv=None):
     s.add_argument('--update')
     s.set_defaults(fn=cmd_game)
     for name, fn, h in (('build', cmd_build, 'build the translated files into build/<language>/'),
-                        ('install', cmd_install, 'build and install into Azahar'),
+                        ('install', cmd_install, "build and install into an emulator's mods folder (Azahar, Citra, "
+                                                 "Lime3DS...: the first one found, or --mods)"),
                         ('zip', cmd_zip, 'build a ZIP for the SD card of a real console (Luma3DS)'),
                         ('cia', cmd_cia, 'build an installable translated .cia (FBI) into dist/'),
                         ('files', cmd_files, 'build the files to rebuild the game yourself (PackHack) into dist/')):
@@ -182,7 +183,8 @@ def main(argv=None):
         s.add_argument('--no-update', action='store_true',
                        help='for the game WITHOUT its 1.3.0 update (version 1.0), even if an update is set')
         if name == 'install':
-            s.add_argument('--azahar', help="Azahar's mods folder, if not the default one")
+            s.add_argument('--mods', '--azahar', dest='mods',
+                           help="the emulator's mods folder (<its user folder>/load/mods), if not the one found")
         s.set_defaults(fn=fn)
     s = sub.add_parser('extract', help='write work/<language>/: each line next to the Japanese of your dump')
     s.add_argument('language')
@@ -208,7 +210,7 @@ def menu(cfg):
     print(f'  game:   {cfg.game or "(not set)"}')
     print(f'  update: {cfg.update or "(not set)"}\n')
     print('  1  Point me at the game')
-    print('  2  Install a language into Azahar')
+    print('  2  Install a language into an emulator (Azahar, Citra, Lime3DS...)')
     print('  3  Make a ZIP for a real console (Luma3DS game patching)')
     print('  4  Make an installable .cia (real console, FBI)')
     print('  5  Make the files to rebuild the game yourself (PackHack)')

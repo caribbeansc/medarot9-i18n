@@ -11,7 +11,7 @@ Thanks for wanting to help. The short version: fix lines, keep the windows happy
    - codes exactly as they are: colour tags `<c:ff00ff>…<c>`, button icons `$*` `$ｸ`…, variables, `%d` `%s`;
    - term keys: write `{{robattle}}`, not the word, so the name stays changeable in one place;
    - the window: dialogue boxes show 2 lines of about 36 characters and do not scroll; a line break is `\n`.
-4. `python m9.py build es` and try it in Azahar (the build refuses lines whose Japanese does not match your dump).
+4. `python m9.py build es` and try it in an emulator (the build refuses lines whose Japanese does not match your dump).
 5. Commit `langs/` only. Pull requests that touch `build/`, `dist/`, `work/` or any game file will be asked to
    slim down.
 

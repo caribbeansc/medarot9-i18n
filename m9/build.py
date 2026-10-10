@@ -5,8 +5,9 @@
 <title> is 0004000000174F00 (Kuwagata) or 0004000000174E00 (Kabuto). Both editions share every file; each has its
 own code.bin patch (binary/exefs/code.bin.json for Kuwagata, code.bin.kabuto.json for Kabuto).
 
-Azahar loads mods from its "load/mods/<title id>/" folder; on a real console Luma3DS loads them from
-"/luma/titles/<title id>/". With the 1.3.0 update installed, the mod of the base title also covers the update.
+Emulators of the Citra family (Azahar, Citra, Lime3DS...) load mods from their "load/mods/<title id>/" folder; on a
+real console Luma3DS loads them from "/luma/titles/<title id>/". With the 1.3.0 update installed, the mod of the base
+title also covers the update.
 
 A pack is made for the game with its 1.3.0 update; what the update changed also has a 1.0 variant (`<name>.v10.json`,
 tools/port_v10.py), so the same pack builds for the game without the update (version 1.0) too.

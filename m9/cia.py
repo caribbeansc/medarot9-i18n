@@ -11,7 +11,7 @@ dump, like everything else; nothing of the game is stored in this repository.
     Build CIA from file").
 
 The copies are decrypted ("NoCrypto") and their signatures are not Nintendo's: a console with custom firmware
-(Luma3DS) installs them; Azahar too.
+(Luma3DS) installs them; emulators too.
 
 Formats (3dbrew.org): RomFS = IVFC hash tree (levels 1-2 of SHA-256 over 4 KiB blocks) over level 3 (directory and
 file tables + data); ExeFS = 0x200 header (names, offsets, SHA-256 in reverse order) + files; NCCH = header +

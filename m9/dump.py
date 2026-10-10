@@ -5,7 +5,7 @@ Medarot 9 comes in two editions: Kuwagata (title 0004000000174F00, update 000400
 (code.bin) differs. The tools need the Japanese files of the game and of its update. Accepted sources, for both:
 
   - a decrypted cartridge image (.3ds / .cci) or a decrypted .cia (game or update);
-  - a folder: a dumped RomFS (with Azahar: right click the game -> Dump RomFS), optionally next to an
+  - a folder: a dumped RomFS (Azahar, Citra...: right click the game -> Dump RomFS), optionally next to an
     `exefs/` folder holding `code.bin` (decompressed or not).
 
 Encrypted images are refused with a clear message: decrypt them first with your own console (GodMode9) or tool.

@@ -15,28 +15,29 @@ import tkinter as tk  # noqa: E402
 from tkinter import filedialog, ttk  # noqa: E402
 
 from m9.cli import BUILD, DIST, languages, output_name, version_note  # noqa: E402
-from m9.config import Config, azahar_mods  # noqa: E402
+from m9.config import Config, azahar_mods, emulator_mods  # noqa: E402
 
 GAME_TYPES = [('3DS game', '*.3ds *.cci *.cia *.cxi'), ('All files', '*')]
 
 VERSIONS = [('13', 'With the 1.3.0 update (recommended)'),
             ('10', 'Without the update (version 1.0)')]
-OUTPUTS = [('azahar', 'Install into Azahar (emulator)'),
+OUTPUTS = [('azahar', 'Install into an emulator on this computer (Azahar, Citra, Lime3DS…)'),
            ('zip', 'SD card ZIP for a real 3DS (Luma3DS game patching)'),
            ('cia', 'Installable .cia for a real 3DS (FBI)'),
            ('files', 'Files only (to rebuild the game yourself: PackHack / HackingToolkit3DS)')]
 HINTS = {
-    ('azahar', '13'): 'Install the game and its 1.3.0 update in Azahar as usual; the translation goes into its mods '
-                      'folder.',
-    ('azahar', '10'): 'The game must NOT have the 1.3.0 update installed in Azahar (uninstall it).',
+    ('azahar', '13'): 'Install the game and its 1.3.0 update in your emulator as usual; the translation goes into its '
+                      'mods folder (in the emulator: right click the game > Open Mods Location).',
+    ('azahar', '10'): 'The translation goes into the emulator\'s mods folder. The game must NOT have the 1.3.0 update '
+                      'installed in the emulator (uninstall it).',
     ('zip', '13'): 'Unzip at the root of the SD card. Install the game and its 1.3.0 update as usual. Hold SELECT '
                    'while turning the 3DS on and enable "Enable game patching".',
     ('zip', '10'): 'Unzip at the root of the SD card. Install the game only, NOT the 1.3.0 update. Hold SELECT '
                    'while turning the 3DS on and enable "Enable game patching".',
-    ('cia', '13'): 'You get a translated copy of the UPDATE. Install your original game, then this .cia with FBI. '
-                   'No game patching needed. (Needs the update as a .cia file.)',
-    ('cia', '10'): 'You get a translated copy of the GAME (.cia from a .cia, .3ds from a .3ds). Install it with FBI '
-                   'instead of the original; do NOT install the 1.3.0 update.',
+    ('cia', '13'): 'You get a translated copy of the UPDATE. Install your original game, then this .cia (FBI on a 3DS, '
+                   '"Install CIA" in an emulator, Android too). No game patching needed. (Needs the update as a .cia.)',
+    ('cia', '10'): 'You get a translated copy of the GAME (.cia from a .cia, .3ds from a .3ds). Install it (FBI, or '
+                   '"Install CIA" in an emulator; a .3ds opens directly) instead of the original; no 1.3.0 update.',
     ('files', '13'): 'An "update" folder (exefs/code.bin, romfs/): drop them into the extracted UPDATE '
                      '(ExtractedExeFS / ExtractedRomFS) and rebuild it. The game stays original.',
     ('files', '10'): 'A "game" folder (exefs/code.bin, romfs/): drop them into the extracted GAME '
@@ -97,6 +98,21 @@ class App(tk.Tk):
         for i, (k, label) in enumerate(OUTPUTS):
             ttk.Radiobutton(outp, text=label, value=k, variable=self.output, command=self._hint).grid(
                 row=i, column=0, sticky='w')
+        emu = ttk.Frame(outp)
+        emu.grid(row=len(OUTPUTS), column=0, sticky='w', pady=(6, 0))
+        ttk.Label(emu, text='Emulator:').grid(row=0, column=0, sticky='w')
+        self.emus = {name: str(path) for name, path in emulator_mods()}
+        if self.cfg.azahar:
+            self.emus.setdefault('Chosen folder', self.cfg.azahar)
+        self.emu = tk.StringVar(value=next(iter(self.emus), 'Azahar'))
+        if not self.emus:
+            self.emus['Azahar'] = str(azahar_mods())
+        box = ttk.Combobox(emu, textvariable=self.emu, values=list(self.emus) + ['Other folder…'], state='readonly',
+                           width=16)
+        box.grid(row=0, column=1, padx=4)
+        box.bind('<<ComboboxSelected>>', self._emu_chosen)
+        self.emu_path = ttk.Label(emu, text=self.emus.get(self.emu.get(), ''), foreground='#555')
+        self.emu_path.grid(row=1, column=0, columnspan=2, sticky='w')
         r += 1
         self.hint = ttk.Label(f, wraplength=640, foreground='#555')
         self.hint.grid(row=r, column=0, columnspan=3, sticky='w', pady=(0, 6))
@@ -108,6 +124,16 @@ class App(tk.Tk):
         self.log.grid(row=r, column=0, columnspan=3)
         self._hint()
         self.after(100, self._poll)
+
+    def _emu_chosen(self, _=None):
+        if self.emu.get() == 'Other folder…':
+            p = filedialog.askdirectory(title="The emulator's mods folder (…/load/mods)")
+            if p:
+                self.emus['Chosen folder'] = p
+                self.emu.set('Chosen folder')
+            else:
+                self.emu.set(next(iter(self.emus)))
+        self.emu_path.configure(text=self.emus.get(self.emu.get(), ''))
 
     def _hint(self):
         self.hint.configure(text=HINTS[(self.output.get(), self.version.get())])
@@ -137,6 +163,8 @@ class App(tk.Tk):
             self._say('Version 1.3.0 needs the update too (or choose "Without the update (version 1.0)").')
             return
         self.cfg.game, self.cfg.update = self.game.get(), self.update_.get() or None
+        if self.emu.get() == 'Chosen folder':
+            self.cfg.azahar = self.emus['Chosen folder']
         self.cfg.save()
         self.make.state(['disabled'])
         threading.Thread(target=self._work, args=(self.output.get(), self.version.get(), code), daemon=True).start()
@@ -156,11 +184,11 @@ class App(tk.Tk):
             if problems:
                 self._say(f'{len(problems)} lines were not written (your dump differs?).')
             if what == 'azahar':
-                dst = azahar_mods(self.cfg.azahar) / mod.name
+                dst = Path(self.emus.get(self.emu.get()) or azahar_mods(self.cfg.azahar)) / mod.name
                 if dst.exists():
                     shutil.rmtree(dst)
                 shutil.copytree(mod, dst)
-                self._say(f'Done: installed into {dst}. Start (or restart) the game in Azahar.')
+                self._say(f'Done: installed into {dst}. Start (or restart) the game in {self.emu.get()}.')
             elif what == 'zip':
                 DIST.mkdir(exist_ok=True)
                 z = DIST / f'medarot9-{d.edition}-{d.version}-{code}-sdcard.zip'
