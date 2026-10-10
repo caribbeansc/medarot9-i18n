@@ -55,6 +55,10 @@ language).
   identical pixels; `sheets` → contact sheets to review by eye; `show`/`where`).
 - `tools/tex/ctpk_inventory.py`: inventory of ALL the CTPK files (`scan` → `translation-work/tex/ctpk_inv/index.json`
   with group: oleadas, candidata, retrato, medabot, piloto, prueba; `sheets --grupo G` → contact sheets; `show`).
+- `tools/tex/pack_texture.py <spec name>...`: after editing a spec of `translation-work/tex/specs/`, renders it
+  (`data/romfs_tex_<lang>`), writes its language-pack patch (`langs/<lang>/textures/<rel>.json.gz`, against the
+  Japanese texture) and the published spec (`langs/<lang>/texture_specs/`, without the `_` working notes). This is the
+  way to change a texture now that `langs/` is the source of truth (Oct 2026).
 - `tools/tex/acd.py`: reads the 2D screens (`*.acd`) structurally: animations (`normal`, `select`, `push`,
   `disable`...) → frames → sprites (rectangle on screen, rectangle in the texture, color that multiplies it, `u8`
   texture index and, if present, an SJIS label that the game draws with the font; format in its docstring, checked

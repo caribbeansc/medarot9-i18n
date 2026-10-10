@@ -1,13 +1,22 @@
 {
  "file": "story/gdn_kbt/m149.gdn",
  "src": "2b0b726b364ce8fd41162465477ba4a14b5ade0f",
- "out": "5b26c3a70b4b05183276b2bf5feaeaeefe8b4ebd",
- "size": 9813,
+ "out": "5ddd632ddee13fea7162b0a86d59d54df6f3d8a7",
+ "size": 9816,
  "ops": [
   [
    "=",
    0,
-   8356
+   4
+  ],
+  [
+   "+",
+   "0900446f726d69746f7279"
+  ],
+  [
+   "=",
+   12,
+   8344
   ],
   [
    "+",

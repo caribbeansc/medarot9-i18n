@@ -1,0 +1,22 @@
+{
+ "file": "story/gdn_kbt/m162.gdn",
+ "src": "5780cdb1eac2c87c3fb10fd061b4c9a83efabc6b",
+ "out": "db790a64daf4a51b5c5a46a0cabbe3bd17eb7e25",
+ "size": 10719,
+ "ops": [
+  [
+   "=",
+   0,
+   4
+  ],
+  [
+   "+",
+   "08004a756e6b79617264"
+  ],
+  [
+   "=",
+   20,
+   10705
+  ]
+ ]
+}

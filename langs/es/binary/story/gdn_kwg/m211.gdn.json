@@ -1,0 +1,22 @@
+{
+ "file": "story/gdn_kwg/m211.gdn",
+ "src": "275f8af4dd3d6ec61cdd4d149d073af44ec02ae8",
+ "out": "aaa24ba3eb7cea3aa6b7779ab9ee4504c253ddda",
+ "size": 18341,
+ "ops": [
+  [
+   "=",
+   0,
+   4
+  ],
+  [
+   "+",
+   "14005375627375656c6f2064656c20416c6d6163c16e"
+  ],
+  [
+   "=",
+   14,
+   18315
+  ]
+ ]
+}

@@ -5,8 +5,8 @@
   "font": "~/Library/Fonts/JetBrainsMono.ttf",
   "wght": 650,
   "cap": 20,
-  "scale_x": 0.82,
-  "tracking": 0.2,
+  "scale_x": 0.72,
+  "tracking": 0.15,
   "pad": 0,
   "snap": true,
   "align": "left",
@@ -38,7 +38,7 @@
    "box": [
     1,
     1,
-    155,
+    138,
     28
    ],
    "text": "ROBOBATALLA",
@@ -46,9 +46,9 @@
   },
   {
    "box": [
-    158,
+    141,
     1,
-    70,
+    66,
     28
    ],
    "text": "LISTA",

@@ -308,34 +308,22 @@
    "baseline": 29
   },
   {
+   "font": "din",
+   "fill": "#FFFFFF",
+   "stroke": "#233031",
+   "stroke_w": 2.4,
+   "crisp": 0.8,
    "box": [
-    199,
-    19,
+    198,
     17,
-    12
-   ],
-   "erase": "solid:#233031",
-   "text": "",
-   "pad": 0
-  },
-  {
-   "box": [
-    200,
-    19,
-    15,
-    12
+    20,
+    16
    ],
    "erase": "none",
-   "text": "DORM",
-   "cap": 5,
+   "text": "Dorm",
+   "cap": 7,
    "pad": 0,
-   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
-   "scale_x": 1,
-   "crisp": 0,
-   "align": "left",
-   "baseline": 29,
-   "fill": "#FFFFFF",
-   "stroke": null
+   "baseline": 28
   },
   {
    "font": "din",
@@ -465,9 +453,9 @@
   },
   {
    "box": [
-    404,
+    403,
     20,
-    14,
+    16,
     9
    ],
    "erase": "solid:#000000",
@@ -476,13 +464,13 @@
   },
   {
    "box": [
-    405,
+    403,
     20,
-    12,
+    16,
     9
    ],
    "erase": "none",
-   "text": "DOR",
+   "text": "DORM",
    "cap": 5,
    "pad": 0,
    "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",

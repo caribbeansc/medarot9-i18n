@@ -29,6 +29,7 @@ REPO = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO))
 from m9 import patch, script, names  # noqa: E402
 from m9.dump import Dump  # noqa: E402
+import effect_pool_fix as epf  # noqa: E402  (tools/: the crash fix of long robattles, re-applied per program)
 
 # Fields the 1.3.0 update rewrote, as the 1.0 game has them: {lang: {(file, Japanese 1.0 text): text}}.
 # 'SAME' = the 1.3.0 translation says it as well (typo fixes, same meaning).
@@ -443,8 +444,12 @@ def main():
                     continue
                 dd = eds[ed]
                 c13, c10 = dd.update.code(), dd.game.code()
-                out13 = patch.apply(p, c13)
+                e13, e10 = dd.update.exheader(), dd.game.exheader()
+                # the effect-pool fix (tools/effect_pool_fix.py) has branches that depend on the addresses: it is
+                # left out of the port and applied again to the 1.0 program
+                out13 = epf.strip(c13, patch.apply(p, c13), e13)
                 out10 = port_code(c13, out13, c10, layout(dd.update), layout(dd.game), report)
+                out10 = epf.apply(c10, out10, e10)
                 q = patch.make(rel, c10, out10)
                 q['edition'] = ed
                 q['game'] = '1.0'

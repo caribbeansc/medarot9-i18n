@@ -1,0 +1,22 @@
+{
+ "file": "story/gdn_kwg/m454.gdn",
+ "src": "f17e6ddb63ecde6cdfc83875a1f160480b6acfad",
+ "out": "62a0f03c9edeef07abe269cb3aec9c8bea88800a",
+ "size": 18873,
+ "ops": [
+  [
+   "=",
+   0,
+   4
+  ],
+  [
+   "+",
+   "05004265616368"
+  ],
+  [
+   "=",
+   12,
+   18862
+  ]
+ ]
+}

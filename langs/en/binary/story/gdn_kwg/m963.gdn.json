@@ -1,13 +1,22 @@
 {
  "file": "story/gdn_kwg/m963.gdn",
  "src": "cf165d747c27981facf13f9b3f9e9642f89e314a",
- "out": "81b59d29ccfd8a6558b1dc1edcfa2785d35b7052",
- "size": 24483,
+ "out": "ff511b51af1d45ff0f9a4349e3b5d623e9e3d2de",
+ "size": 24489,
  "ops": [
   [
    "=",
    0,
-   23762
+   4
+  ],
+  [
+   "+",
+   "0c005363686f6f6c2046726f6e74"
+  ],
+  [
+   "=",
+   12,
+   23750
   ],
   [
    "+",

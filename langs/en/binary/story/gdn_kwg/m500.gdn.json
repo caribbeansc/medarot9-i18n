@@ -1,13 +1,22 @@
 {
  "file": "story/gdn_kwg/m500.gdn",
  "src": "9178ddd4f75046e6abdc237ddfa72851838ca154",
- "out": "c60195d16d4de50becff5aaf9b893e931331ee38",
- "size": 24744,
+ "out": "0fc544967c26fdeade1d4edd583553df1ad5c2f0",
+ "size": 24751,
  "ops": [
   [
    "=",
    0,
-   24243
+   4
+  ],
+  [
+   "+",
+   "0b00486172626f7220546f776e"
+  ],
+  [
+   "=",
+   10,
+   24233
   ],
   [
    "+",

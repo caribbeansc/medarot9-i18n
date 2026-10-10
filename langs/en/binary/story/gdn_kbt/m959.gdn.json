@@ -1,13 +1,22 @@
 {
  "file": "story/gdn_kbt/m959.gdn",
  "src": "42fc0fbcbcc31c1d4a19685bc08e974749abddf1",
- "out": "f6b4cf41f7ab5b239d9fbe3c583f09bc751a4272",
- "size": 24684,
+ "out": "bd3b4c0fec128eb69bf2463b1e5e8fb85b6ebe93",
+ "size": 24690,
  "ops": [
   [
    "=",
    0,
-   23812
+   4
+  ],
+  [
+   "+",
+   "0c005363686f6f6c2046726f6e74"
+  ],
+  [
+   "=",
+   12,
+   23800
   ],
   [
    "+",
