@@ -14,12 +14,12 @@
   {
    "i": 1050,
    "src": "482bd994f680",
-   "t": "Up the stream, past the Misty Deep\nForest."
+   "t": "Up the stream, past the Misty Deep"
   },
   {
    "i": 1053,
    "src": "a08eaacdc2dc",
-   "t": "Shall we go take a look?"
+   "t": "Forest. Shall we go take a look?"
   },
   {
    "i": 1067,
@@ -39,12 +39,12 @@
   {
    "i": 1097,
    "src": "cf6220e985aa",
-   "t": "Once {{flora}}'s leg is fixed,"
+   "t": "Once {{flora}}'s leg is fixed, {{mio}} won't be"
   },
   {
    "i": 1100,
    "src": "f097a57e174c",
-   "t": "{{mio}} won't be able to dance anymore,\nright?"
+   "t": "able to dance anymore, right?"
   },
   {
    "i": 1108,
@@ -74,12 +74,12 @@
   {
    "i": 1140,
    "src": "ca454d4a9b8b",
-   "t": "{{mio}} is already a member of the\n{{exploration_club}}."
+   "t": "{{mio}}'s one of the {{exploration_club}} now."
   },
   {
    "i": 1143,
    "src": "356db2120d20",
-   "t": "We'd be in trouble without her in the\n{{club}}."
+   "t": "We'd be stuck without her in the {{club}}."
   },
   {
    "i": 1151,
@@ -89,7 +89,7 @@
   {
    "i": 1159,
    "src": "48c79a6f291d",
-   "t": "N-no, come on, that goes without\nsaying."
+   "t": "C-come on, that goes without saying."
   },
   {
    "i": 1162,

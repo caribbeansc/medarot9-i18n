@@ -29,22 +29,22 @@
   {
    "i": 1172,
    "src": "194c5a666b05",
-   "t": "After school today,"
+   "t": "After school today, there's an inter-club"
   },
   {
    "i": 1175,
    "src": "2cd2445b2f1d",
-   "t": "there's an inter-club {{robattle}}\ntournament."
+   "t": "{{robattle}} tournament."
   },
   {
    "i": 1183,
    "src": "d9cb3b263e70",
-   "t": "As soon as class ends,"
+   "t": "As soon as class ends, head to the gym"
   },
   {
    "i": 1186,
    "src": "26cbe8977f09",
-   "t": "head to the gym and follow your {{club}}'s\ninstructions."
+   "t": "and follow your {{club}}'s instructions."
   },
   {
    "i": 1202,
@@ -59,7 +59,7 @@
   {
    "i": 1231,
    "src": "f8b799b41b8c",
-   "t": "By the way, is anyone planning to\nenter?"
+   "t": "By the way, anyone planning to enter?"
   },
   {
    "i": 1234,

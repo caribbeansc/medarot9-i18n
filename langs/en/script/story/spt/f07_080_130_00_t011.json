@@ -44,12 +44,12 @@
   {
    "i": 1088,
    "src": "e2d89e7ec18a",
-   "t": "First we're going to the {{idol_club}}\n{{clubroom}}!"
+   "t": "First we're going to the {{idol_club}}"
   },
   {
    "i": 1091,
    "src": "529b6e163a6e",
-   "t": "Come on, hurry up!"
+   "t": "{{clubroom}}! Come on, hurry up!"
   },
   {
    "i": 1102,

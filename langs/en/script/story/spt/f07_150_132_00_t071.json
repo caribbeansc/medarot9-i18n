@@ -24,12 +24,12 @@
   {
    "i": 1064,
    "src": "278cb37c6cd5",
-   "t": "{{aoi}} said so."
+   "t": "{{aoi}} said so. She has something she"
   },
   {
    "i": 1067,
    "src": "5f4c86f1a66a",
-   "t": "She has something she wants to tell\n{{mio}}."
+   "t": "wants to tell {{mio}}."
   },
   {
    "i": 1072,
@@ -64,7 +64,7 @@
   {
    "i": 1120,
    "src": "00a37c029f67",
-   "t": "Hasn't she been trying to tell you all\nalong?"
+   "t": "Wasn't she trying to tell you all along?"
   },
   {
    "i": 1123,

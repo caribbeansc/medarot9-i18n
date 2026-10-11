@@ -39,7 +39,7 @@
   {
    "i": 1085,
    "src": "b84f4d80d932",
-   "t": "We did it, it's finally finished,\n{{main}}-chan."
+   "t": "We did it! It's finally done, {{main}}-chan."
   },
   {
    "i": 1088,
@@ -64,12 +64,12 @@
   {
    "i": 1123,
    "src": "806521a25c5f",
-   "t": "...Hey, how much do you think the\n{{medalia}} we found"
+   "t": "...Hey, the {{medalia}} we found..."
   },
   {
    "i": 1126,
    "src": "702b9c93bddb",
-   "t": "would go for if we sold it?"
+   "t": "how much would it fetch if we sold it?"
   }
  ]
 }

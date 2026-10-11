@@ -19,12 +19,12 @@
   {
    "i": 1048,
    "src": "e3b3a3c08f1e",
-   "t": "The blueprints are a program that\ncaptures"
+   "t": "It's a program to catch the sound waves"
   },
   {
    "i": 1051,
    "src": "9a0505fa09be",
-   "t": "Medalia's sound waves and maps their\nsource!"
+   "t": "Medalia emits and map their source!"
   },
   {
    "i": 1058,
@@ -59,12 +59,12 @@
   {
    "i": 1097,
    "src": "2659ce116493",
-   "t": "A device picks up waves, sends them to\na PC"
+   "t": "A device catches waves for PC analysis,"
   },
   {
    "i": 1100,
    "src": "ea27330f6084",
-   "t": "for analysis, and gets back just the right\nlocation data."
+   "t": "and only valid location data comes back."
   },
   {
    "i": 1108,
@@ -89,7 +89,7 @@
   {
    "i": 1136,
    "src": "dd962fa29540",
-   "t": "Keep your {{medawatch}} on and it'll\nrespond by itself."
+   "t": "Run the {{medawatch}}; it'll react by itself."
   },
   {
    "i": 1143,

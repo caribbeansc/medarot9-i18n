@@ -4,12 +4,12 @@
   {
    "i": 1018,
    "src": "92b9ed22023f",
-   "t": "*As soon as the scene starts,"
+   "t": "*Right away, the {{exploration_club}}"
   },
   {
    "i": 1021,
    "src": "b14f38081aea",
-   "t": "the {{exploration_club}} (protagonist) runs\nout of school"
+   "t": "(protagonist) dashes out of the school."
   },
   {
    "i": 1026,
@@ -19,12 +19,12 @@
   {
    "i": 1031,
    "src": "db5e615739e6",
-   "t": "*{{select_corps}} robots surround the\n{{rescue_club}}"
+   "t": "*{{select_corps}} bots ring the {{rescue_club}}"
   },
   {
    "i": 1034,
    "src": "820f4b6bdcea",
-   "t": "~gradually cornering them (as much as\npossible) while"
+   "t": "~closing in slowly (if possible) while"
   },
   {
    "i": 1045,

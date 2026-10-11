@@ -14,12 +14,12 @@
   {
    "i": 1150,
    "src": "9824c88c1dc9",
-   "t": "Starting today, she'll be studying in this\n{{class}} with you."
+   "t": "Starting today, she'll be studying in this"
   },
   {
    "i": 1153,
    "src": "4694cd7d6c3e",
-   "t": "This is {{saika}}-san."
+   "t": "{{class}} with you. This is {{saika}}-san."
   },
   {
    "i": 1169,
@@ -44,7 +44,7 @@
   {
    "i": 1202,
    "src": "e16f1eb5d9c1",
-   "t": "Because of my family, I got here a bit\nlate,"
+   "t": "For family reasons, I got here a bit late,"
   },
   {
    "i": 1205,

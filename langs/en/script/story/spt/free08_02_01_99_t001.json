@@ -4,12 +4,12 @@
   {
    "i": 1001,
    "src": "fbc84c5a0de5",
-   "t": "The quest I'm working on now is"
+   "t": "My current quest is '{{medalia}} Gathering:"
   },
   {
    "i": 1004,
    "src": "48140e2d42f8",
-   "t": "'{{medalia}} Gathering: Blocked Mountain\nPath'."
+   "t": "Blocked {{mountain_path}}'."
   },
   {
    "i": 1012,

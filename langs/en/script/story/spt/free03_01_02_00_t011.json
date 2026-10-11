@@ -44,12 +44,12 @@
   {
    "i": 1084,
    "src": "862d502502bb",
-   "t": "It's on the east side, around the crater\nrim."
+   "t": "It's east, near the {{outer_rim}}, up the trail"
   },
   {
    "i": 1087,
    "src": "f4b048391994",
-   "t": "Just past where the {{mountains}} and\n{{deep_forest}} {{area}} meets the trail."
+   "t": "from {{mountains_and_deep_forest}}."
   }
  ]
 }

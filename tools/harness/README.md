@@ -41,6 +41,8 @@ cmake --build build --target citra_meta -j 9          # ~20 min the first time, 
 Its own config (RPC enabled, no confirmations), a copy of `nand`/`sysdata` and of the user's save, the
 1.3.0 update installed and its own mods. **It never touches the user's Azahar.**
 Install a CIA on the bench: `azahar -i <cia>` with the bench binary (thanks to the `user` link).
+The game file it boots is `roms/Medarot 9 - Kuwagata Ver. (Japan).3ds`; set `M9_BENCH_ROM=<path>` to boot another
+copy (a `.3ds` or the program `.cxi` extracted from a `.cia`), e.g. when the card that holds the dump is not mounted.
 Deploy the patch to the bench: `python python/deploy-es.py --fps60 --mods-dir experiments/harness/run/user/load/mods`.
 
 ## Harness mode (`AZAHAR_HARNESS=1`, set by `launch()`)

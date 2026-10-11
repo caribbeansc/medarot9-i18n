@@ -49,7 +49,7 @@
   {
    "i": 1141,
    "src": "1d0852c2d489",
-   "t": "A {{medabot}} can sense when its\nMedafighter is near. "
+   "t": "A {{medabot}} knows if its master is close. "
   },
   {
    "i": 1144,
@@ -84,22 +84,22 @@
   {
    "i": 1210,
    "src": "affcfdc464b9",
-   "t": "You two haven't known each other long.\nYou'll"
+   "t": "You two just met, right? From now on,"
   },
   {
    "i": 1213,
    "src": "7399165c6e7b",
-   "t": "come to understand each other more\nand more."
+   "t": "you can get to know each other better."
   },
   {
    "i": 1221,
    "src": "4804db1685a1",
-   "t": "You've already learned how to tell\nwhere he is."
+   "t": "You've already learned how to tell"
   },
   {
    "i": 1224,
    "src": "19c4aa165635",
-   "t": "That's a big step!"
+   "t": "where he is. That's a big step!"
   },
   {
    "i": 1231,

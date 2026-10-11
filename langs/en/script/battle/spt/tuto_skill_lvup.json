@@ -49,12 +49,12 @@
   {
    "i": 1151,
    "src": "f06526eb553f",
-   "t": "With this, <c:ff00ff>{{prep}}<c> and <c:ff00ff>{{cooldown}}<c> will be\nfaster than ever.\nIt looks like you can use your actions\neven more effectively."
+   "t": "Now <c:ff00ff>{{prep}}<c> and <c:ff00ff>{{cooldown}}<c> get faster, so\nyou can use actions more effectively."
   },
   {
    "i": 1159,
    "src": "a0e5697f7e0a",
-   "t": "Overall strength, <c:ff00ff>Medal Level<c> included,\ngoes up too,\nso your <c:ff00ff>{{evade}}<c> and <c:ff00ff>{{defend}}<c> rise and you\nshould last longer in a fight!"
+   "t": "Your <c:ff00ff>Medal Level<c> rises too, so <c:ff00ff>{{evade}}<c>\nand <c:ff00ff>{{defend}}<c> go up and you'll last longer!"
   }
  ]
 }

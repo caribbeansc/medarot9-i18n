@@ -4,17 +4,17 @@
   {
    "i": 1001,
    "src": "eef22e4f1135",
-   "t": "{{mission|cap}} '{{explore|cap}}: {{storehouse}}\nUnderground\nFacility' begins!"
+   "t": "{{mission|cap}} '{{explore|cap}}: {{storehouse}}\nUnderground Facility' begins!"
   },
   {
    "i": 1009,
    "src": "2c9489003bf4",
-   "t": "To get to the storehouse basement,"
+   "t": "To get to the storehouse basement, use"
   },
   {
    "i": 1012,
    "src": "f9c508801e2d",
-   "t": "use the elevator at the back of the\nstorehouse."
+   "t": "the elevator at the back of the building."
   }
  ]
 }

@@ -4,7 +4,7 @@
   {
    "i": 1120,
    "src": "cd22e771eaf2",
-   "t": "Time to attack with {{medachange}}!\n...Huh? Is the {{charge_gauge}} going\ndown?        "
+   "t": "Okay, {{medachange}} attack, go! ...Huh?\nThe {{charge_gauge}} is going down?        "
   },
   {
    "i": 1125,
@@ -24,7 +24,7 @@
   {
    "i": 1141,
    "src": "3141ccdd923b",
-   "t": "And when the {{charge_gauge}} hits 10%\nor less,\n{{medachange}} ends.                   "
+   "t": "And when the {{charge_gauge}} hits 10%\nor less, {{medachange}} ends.                   "
   },
   {
    "i": 1146,
@@ -39,7 +39,7 @@
   {
    "i": 1156,
    "src": "ba57c76e4dcd",
-   "t": "When you {{medachange}}, you can't use\nyour\noriginal head and arm {{part|pl}}."
+   "t": "When you {{medachange}}, you can't use\nyour original head and arm {{part|pl}}."
   },
   {
    "i": 1161,
@@ -54,7 +54,7 @@
   {
    "i": 1171,
    "src": "72219b51021c",
-   "t": "Many Medachange commands are\npowerful,\nso they can help you win a {{robattle}}.                                                              "
+   "t": "Many Medachange commands are\npowerful, so they can give you the edge.                                                              "
   },
   {
    "i": 1176,

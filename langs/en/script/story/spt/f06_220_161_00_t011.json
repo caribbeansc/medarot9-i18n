@@ -24,12 +24,12 @@
   {
    "i": 1059,
    "src": "9a2a3976b5ce",
-   "t": "Reactions I remember are deleted\nautomatically."
+   "t": "Reactions I remember are auto-deleted."
   },
   {
    "i": 1062,
    "src": "6043b541d163",
-   "t": "You'll only see unknown {{medalia}}\nreactions."
+   "t": "Only unknown {{medalia}} reactions show."
   }
  ]
 }

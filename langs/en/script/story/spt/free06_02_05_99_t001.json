@@ -4,12 +4,12 @@
   {
    "i": 1001,
    "src": "fbc84c5a0de5",
-   "t": "The {{mission}} in progress is"
+   "t": "The {{mission}} in progress is '{{medalia}}"
   },
   {
    "i": 1004,
    "src": "8d49ccd8c8f9",
-   "t": "'{{medalia}} Gathering: {{old_harbor_town}}\nCoast'."
+   "t": "Gathering: {{old_harbor_town}} Coast'."
   },
   {
    "i": 1012,

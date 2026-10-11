@@ -14,7 +14,7 @@
   {
    "i": 1043,
    "src": "5e1aec939f30",
-   "t": "If you go west from the Misty Deep\nForest,"
+   "t": "West of the {{misty_deep_forest}},"
   },
   {
    "i": 1046,
@@ -29,12 +29,12 @@
   {
    "i": 1059,
    "src": "1d958470756d",
-   "t": "{{medalia|pl}} were apparently found mostly\nalong rivers."
+   "t": "{{medalia|pl}} were mostly found by rivers."
   },
   {
    "i": 1062,
    "src": "9eeb2f1399f8",
-   "t": "It wouldn't be strange if some are still\nleft."
+   "t": "It wouldn't be odd if some were left."
   }
  ]
 }

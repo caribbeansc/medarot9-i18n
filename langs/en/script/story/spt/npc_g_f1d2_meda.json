@@ -14,7 +14,7 @@
   {
    "i": 1044,
    "src": "bb1882b47ee6",
-   "t": "When that happens, I change my\n{{settings}} and refresh my mood."
+   "t": "Then I change my {{settings}} for a refresh."
   }
  ]
 }

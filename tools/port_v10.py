@@ -30,6 +30,7 @@ sys.path.insert(0, str(REPO))
 from m9 import patch, script, names  # noqa: E402
 from m9.dump import Dump  # noqa: E402
 import effect_pool_fix as epf  # noqa: E402  (tools/: the crash fix of long robattles, re-applied per program)
+import luma_update_mount as lum  # noqa: E402  (tools/: the update mount name Luma3DS redirects; 1.3.0 only)
 
 # Fields the 1.3.0 update rewrote, as the 1.0 game has them: {lang: {(file, Japanese 1.0 text): text}}.
 # 'SAME' = the 1.3.0 translation says it as well (typo fixes, same meaning).
@@ -52,7 +53,7 @@ V10_TEXT = {
         ('mdr/spt/partshint_4_57.spt', 'アーティラリー'): HDR + 'Leg Trait:<c> {{artillery}}\nWhile prepping an attack,\ncannot evade or defend.\n{{power}} and {{success}} {{stats}}\n+10.',
         ('mdr/spt/partshint_4_66.spt', 'ノーガード'): HDR + 'Leg Trait:<c> No Guard\nWhile prepping a melee\nattack, cannot evade or\ndefend.\n{{prep}} and {{success}} {{stats}}\n+10.',
         ('mdr/spt/partshint_A_27.spt', 'オーバードライブ'): HDR + '{{mf}}:<c> {{overdrive}}\nGreatly raises the {{prep}}\nand\n{{cooldown}} stats of your\nwhole team.\n<c:00ffff>{{required_parts}}<c>\nNone',
-        ('story/spt/npc_m_2f_meda_000_s03_t011.spt', '左手'): "Its left hand's Criminal Eye sees\nthrough everything.",
+        ('story/spt/npc_m_2f_meda_000_s03_t011.spt', '左手'): "Its left hand's Criminal Eye sees all!",
         ('story/spt/npc_teach_fa_meda_000_s00_t001.spt', 'ムーンドラゴン'): '{{moon_dragon}}',
         ('story/spt/npc_teach_fa_meda_000_s01_t011.spt', 'ムーンドラゴン'): '{{moon_dragon}}',
         ('story/spt/npc_teach_fa_meda_000_s05_t011.spt', 'ムーンドラゴン'): '{{moon_dragon}}',
@@ -446,16 +447,19 @@ def main():
                 c13, c10 = dd.update.code(), dd.game.code()
                 e13, e10 = dd.update.exheader(), dd.game.exheader()
                 # the effect-pool fix (tools/effect_pool_fix.py) has branches that depend on the addresses: it is
-                # left out of the port and applied again to the 1.0 program
-                out13 = epf.strip(c13, patch.apply(p, c13), e13)
+                # left out of the port and applied again to the 1.0 program; the update mount name
+                # (tools/luma_update_mount.py) is left out too (1.0 has no update mount)
+                out13 = lum.strip(c13, epf.strip(c13, patch.apply(p, c13), e13))
                 out10 = port_code(c13, out13, c10, layout(dd.update), layout(dd.game), report)
-                out10 = epf.apply(c10, out10, e10)
+                out10 = lum.apply(c10, epf.apply(c10, out10, e10))
                 q = patch.make(rel, c10, out10)
                 q['edition'] = ed
                 q['game'] = '1.0'
                 print(f'{lang}: code.bin {ed}: {len(p["ops"])} runs -> {len(q["ops"])} on 1.0')
                 if not a.dry_run:
                     patch.save(q, v10_name(f))
+                continue
+            if rel.endswith('.gdn'):        # map files: tools/gdn_area_names.py writes their 1.0 variants itself
                 continue
             if not (d.game.has(rel) and d.update.has(rel)) or d.update.read(rel) == d.game.read(rel):
                 continue

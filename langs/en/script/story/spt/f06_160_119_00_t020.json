@@ -49,12 +49,12 @@
   {
    "i": 1096,
    "src": "80ccbc5d10f4",
-   "t": "Hold the door for me."
+   "t": "Hold the door for me. This kind locks"
   },
   {
    "i": 1099,
    "src": "3d3e4d1c90af",
-   "t": "This kind locks automatically when it\ncloses."
+   "t": "automatically when it closes."
   }
  ]
 }

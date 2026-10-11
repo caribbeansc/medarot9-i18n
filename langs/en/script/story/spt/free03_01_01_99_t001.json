@@ -4,12 +4,12 @@
   {
    "i": 1001,
    "src": "fbc84c5a0de5",
-   "t": "The {{mission}} I'm on now is"
+   "t": "The {{mission}} I'm on now is '{{explore|cap}}:"
   },
   {
    "i": 1004,
    "src": "b8fa30be15af",
-   "t": "'{{explore|cap}}: {{storehouse}} Underground\nFacility'."
+   "t": "{{storehouse}} Underground Facility'."
   },
   {
    "i": 1012,

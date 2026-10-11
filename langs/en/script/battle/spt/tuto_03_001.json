@@ -19,7 +19,7 @@
   {
    "i": 1127,
    "src": "a709ca288f54",
-   "t": "On success, <c:ff00ff>the foe can't defend or\nevade<c>\nand <c:ff00ff>the targeted {{part}} takes {{damage}}<c>.                                               "
+   "t": "If it hits, <c:ff00ff>the foe can't defend or evade<c>\nand <c:ff00ff>your target {{part}} takes {{damage}}<c>.                                               "
   },
   {
    "i": 1135,

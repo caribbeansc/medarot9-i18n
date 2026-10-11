@@ -4,12 +4,12 @@
   {
    "i": 1985,
    "src": "68234849d32e",
-   "t": "Your deduction accuracy and {{robattle}}\nresults decide the protagonist's rating,\nand"
+   "t": "Deduction accuracy and {{robattle}} results"
   },
   {
    "i": 1988,
    "src": "808ca121ffbb",
-   "t": "{{laurel}} pays you a salary based on that\nrating."
+   "t": "set your rating, and with it {{laurel}}'s pay."
   }
  ]
 }

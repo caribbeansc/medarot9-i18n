@@ -29,7 +29,7 @@
   {
    "i": 1069,
    "src": "018b01233aa5",
-   "t": "In the basement of the old warehouse\nbuilding"
+   "t": "In the basement of the old warehouse,"
   },
   {
    "i": 1072,
@@ -139,12 +139,12 @@
   {
    "i": 1219,
    "src": "9e9db2b7f7e5",
-   "t": "Detection works normally now."
+   "t": "Detection works normally now. It can"
   },
   {
    "i": 1222,
    "src": "f0e71b76abab",
-   "t": "It can pick up reactions despite\ninterference."
+   "t": "pick up reactions despite interference."
   },
   {
    "i": 1229,

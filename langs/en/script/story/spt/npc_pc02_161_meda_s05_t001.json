@@ -4,7 +4,7 @@
   {
    "i": 1038,
    "src": "741472e6106d",
-   "t": "Lately {{mio}} and I talk about {{robattle|pl}} a\nlot."
+   "t": "Lately {{mio}} and I talk {{robattle|pl}} a lot."
   },
   {
    "i": 1041,
@@ -14,12 +14,12 @@
   {
    "i": 1049,
    "src": "b0f1982e2e04",
-   "t": "I wonder if it's because she joined the\n{{club|cap}}."
+   "t": "I wonder if it's because she joined the"
   },
   {
    "i": 1052,
    "src": "f70178cf75e5",
-   "t": "Hee hee."
+   "t": "{{club|cap}}. Hee hee."
   }
  ]
 }

@@ -19,12 +19,12 @@
   {
    "i": 1054,
    "src": "5920583c08fd",
-   "t": "Ha ha, you won't believe it, but this\nisland"
+   "t": "Ha ha, you won't believe it, but this"
   },
   {
    "i": 1057,
    "src": "4c3319ec46b7",
-   "t": "has a ski slope just for our {{club}}!"
+   "t": "island has a ski slope just for our {{club}}!"
   },
   {
    "i": 1065,
@@ -34,7 +34,7 @@
   {
    "i": 1068,
    "src": "91ab9d816b04",
-   "t": "Well, the Mega {{conglomerate}} is our\nsponsor, after all."
+   "t": "Perks of a Mega {{conglomerate}} sponsor!"
   }
  ]
 }

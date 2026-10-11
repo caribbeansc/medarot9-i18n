@@ -9,12 +9,12 @@
   {
    "i": 1038,
    "src": "c5e089e0ea5a",
-   "t": "If you join now, a {{culture_club}} is\nprobably better."
+   "t": "If you're joining now, a {{culture_club}}"
   },
   {
    "i": 1041,
    "src": "70c70625945c",
-   "t": "Why not try the {{club_building}}?"
+   "t": "might be better. Try the {{club_building}}?"
   }
  ]
 }

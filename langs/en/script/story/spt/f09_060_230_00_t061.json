@@ -34,12 +34,12 @@
   {
    "i": 1084,
    "src": "bcdb3f50c6b5",
-   "t": "So you infiltrated the {{academy}} as a\n{{transfer_student}}"
+   "t": "So you snuck in as a {{transfer_student}}"
   },
   {
    "i": 1087,
    "src": "c83a6b4e08d8",
-   "t": "and started snooping around..."
+   "t": "to snoop around the {{academy}}..."
   },
   {
    "i": 1099,
@@ -49,12 +49,12 @@
   {
    "i": 1108,
    "src": "ba149939ec84",
-   "t": "Lucky I can still pass for a student at\nmy age~."
+   "t": "Lucky I can still pass for a student at"
   },
   {
    "i": 1111,
    "src": "d2c61a696379",
-   "t": "Ohohohoho!"
+   "t": "my age~. Ohohohoho!"
   },
   {
    "i": 1122,
@@ -69,12 +69,12 @@
   {
    "i": 1136,
    "src": "13f56250f7cd",
-   "t": "It's all thanks to the {{medalia}} detection\nsystem."
+   "t": "It's all thanks to the {{medalia}} detection"
   },
   {
    "i": 1139,
    "src": "6e0d5b1e627e",
-   "t": "I'm grateful to you all."
+   "t": "system. I'm grateful to you all."
   }
  ]
 }

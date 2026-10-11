@@ -14,22 +14,22 @@
   {
    "i": 1027,
    "src": "608158c1a256",
-   "t": "Something's off."
+   "t": "Something's off. It's so smooth I can't"
   },
   {
    "i": 1030,
    "src": "70c51aeaa201",
-   "t": "It's so smooth I can't even tell what\nkind of {{medal}} it is..."
+   "t": "even tell what kind of {{medal}} it is..."
   },
   {
    "i": 1038,
    "src": "d4c94c95b92e",
-   "t": "Could it be a {{fake_medal}}?"
+   "t": "Could it be a {{fake_medal}}? Why would"
   },
   {
    "i": 1041,
    "src": "62c11a250662",
-   "t": "Why would something like this be\nhere...?"
+   "t": "something like this be here...?"
   }
  ]
 }

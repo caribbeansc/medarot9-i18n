@@ -195,12 +195,13 @@ def compose_outlined(f: Font, ch: str):
     left, gw, cw = f.width(base)
     core = _core(src)
     keep = {(x, y): src.getpixel((x, y)) for (x, y) in core}
-    if base == 'i':                                   # i without dot: drop the top component (the dot)
-        comps = sorted(_components(core), key=lambda c: min(y for _, y in c))
-        if len(comps) > 1:
-            for q in comps[0]:
-                keep.pop(q)
-            core = set(keep)
+    if base == 'i':                                   # i without dot: drop everything above the x-height (the dot)
+        # (The dot and the stem may touch through grey antialiasing pixels that _core counts, so they are not always
+        # two components: until 10-oct-2026 the í of font14 kept its dot under the accent and looked "double".)
+        xtop = min(y for _, y in _core(f.cell('n')))
+        for q in [q for q in keep if q[1] < xtop]:
+            keep.pop(q)
+        core = set(keep)
     top = min(y for _, y in core)
     xs = [x for x, _ in core]
     x0, x1 = min(xs), max(xs)

@@ -14,22 +14,22 @@
   {
    "i": 1046,
    "src": "034b31a7abf4",
-   "t": "It's read 'tatekou yagura.'"
+   "t": "It's read 'tatekou yagura.' A shaft tower"
   },
   {
    "i": 1049,
    "src": "ff75b0a5cb0c",
-   "t": "A shaft tower is a relic of the mining\ndays."
+   "t": "is a relic of the mining days."
   },
   {
    "i": 1057,
    "src": "096e03cabf2c",
-   "t": "A large transport facility, with a deep\nshaft right under the tower."
+   "t": "A big hauling facility over a deep shaft."
   },
   {
    "i": 1060,
    "src": "d5368755c7c7",
-   "t": "So {{main}} wants to pick up sounds from\nunderground."
+   "t": "So {{main}} wants to pick up sounds below."
   }
  ]
 }

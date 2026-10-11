@@ -9,12 +9,12 @@
   {
    "i": 1052,
    "src": "57b6dcb26a11",
-   "t": "I modified the program to recognize that\nwaveform"
+   "t": "I set the program to spot that waveform"
   },
   {
    "i": 1055,
    "src": "bca6ade2c495",
-   "t": "and exclude it from the measurement\ndata."
+   "t": "and exclude it from the measurements."
   },
   {
    "i": 1065,

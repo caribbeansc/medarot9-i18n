@@ -24,12 +24,12 @@
   {
    "i": 1087,
    "src": "b19faa0b035b",
-   "t": "Tell me."
+   "t": "Tell me. Who are you--"
   },
   {
    "i": 1090,
    "src": "894da7f48949",
-   "t": "Who are you-- who exactly are you\npeople?"
+   "t": "who exactly are you people?"
   },
   {
    "i": 1103,
@@ -54,12 +54,12 @@
   {
    "i": 1139,
    "src": "a193f052d64f",
-   "t": "My name is {{saika}}."
+   "t": "My name is {{saika}}. Being a"
   },
   {
    "i": 1142,
    "src": "1812fe36f43e",
-   "t": "Being a {{transfer_student}} was just a\ndisguise!"
+   "t": "{{transfer_student}} was just a disguise!"
   },
   {
    "i": 1150,

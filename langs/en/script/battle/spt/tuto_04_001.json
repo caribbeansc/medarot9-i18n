@@ -44,7 +44,7 @@
   {
    "i": 1171,
    "src": "8656ab8e31da",
-   "t": "In other words, during the <c:ff00ff>{{cooldown}}<c>\nafter\na Berserk attack, you can't evade or\ndefend.  "
+   "t": "So during the <c:ff00ff>{{cooldown}}<c> after a Berserk\nattack, you can't evade or defend.  "
   },
   {
    "i": 1187,
@@ -69,7 +69,7 @@
   {
    "i": 1216,
    "src": "b65f396e6a96",
-   "t": "A hit with no {{defend}} or {{evade}} is\nalways a <c:ff00ff>{{critical}}<c> and does heavy\n{{damage}}.                                                                     "
+   "t": "A hit with no {{defend}} or {{evade}} is always\na <c:ff00ff>{{critical}}<c> and does heavy {{damage}}.                                                                     "
   },
   {
    "i": 1224,

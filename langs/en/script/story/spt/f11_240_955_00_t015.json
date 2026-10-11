@@ -9,7 +9,7 @@
   {
    "i": 1049,
    "src": "34a586ee71b9",
-   "t": "You're different from the Rubberobo\nGang\nand the {{select_corps}}."
+   "t": "You're different from the\n{{rubberobo_gang}} and the {{select_corps}}."
   },
   {
    "i": 1056,
@@ -34,7 +34,7 @@
   {
    "i": 1085,
    "src": "e66730193504",
-   "t": "Because you are students educated at\nthis academy."
+   "t": "Because you studied at this academy."
   },
   {
    "i": 1088,

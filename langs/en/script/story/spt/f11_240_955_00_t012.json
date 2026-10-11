@@ -54,7 +54,7 @@
   {
    "i": 1130,
    "src": "26e52f1eae28",
-   "t": "It cancels out the specific sound waves\nthe {{medalia}} emit."
+   "t": "It cancels the specific waves of {{medalia}}."
   },
   {
    "i": 1140,
@@ -84,12 +84,12 @@
   {
    "i": 1184,
    "src": "76b4f901db62",
-   "t": "The sound waves aren't coming from\nthe {{medalia}}."
+   "t": "The {{medalia}} aren't emitting the waves."
   },
   {
    "i": 1187,
    "src": "d4464acb2d4d",
-   "t": "That monster-- the {{medal_eater}}-- is\nemitting them."
+   "t": "That monster-- the {{medal_eater}}-- is."
   },
   {
    "i": 1195,
@@ -109,7 +109,7 @@
   {
    "i": 1212,
    "src": "43d4ed31ea4c",
-   "t": "behave as if they were making the\nsound themselves."
+   "t": "act as if making the sound themselves."
   },
   {
    "i": 1232,
@@ -119,7 +119,7 @@
   {
    "i": 1235,
    "src": "660f046fcbcf",
-   "t": "It uses them as food gatherers and calls\nthem back once they're used up."
+   "t": "It makes them forage, then recalls them."
   },
   {
    "i": 1243,
@@ -129,12 +129,12 @@
   {
    "i": 1254,
    "src": "205fb59ecbd9",
-   "t": "Ultrasound is its greatest weapon, and\nsealing that"
+   "t": "Ultrasound is its main weapon; sealing it"
   },
   {
    "i": 1257,
    "src": "2b07213da359",
-   "t": "was the role of the {{medalium}}.\nProbably..."
+   "t": "was the {{medalium}}'s role. Probably..."
   },
   {
    "i": 1264,
@@ -159,12 +159,12 @@
   {
    "i": 1301,
    "src": "f74521a6db69",
-   "t": "Both the monster and the {{medalium}}\ncame from space."
+   "t": "The monster and {{medalium}} are alien."
   },
   {
    "i": 1304,
    "src": "cbe379eabb41",
-   "t": "With our knowledge, we can't say for\ncertain."
+   "t": "We can't be certain with what we know."
   },
   {
    "i": 1324,
@@ -174,7 +174,7 @@
   {
    "i": 1327,
    "src": "df06786f164d",
-   "t": "The {{medalium}} is gradually deteriorating\nand growing brittle. "
+   "t": "The {{medalium}} is slowly growing brittle. "
   },
   {
    "i": 1338,
@@ -189,12 +189,12 @@
   {
    "i": 1349,
    "src": "ef5882f8c8b2",
-   "t": "By resonating with the sound waves the\n{{medal_eater}} emits,"
+   "t": "By resonating with {{medal_eater}} waves,"
   },
   {
    "i": 1352,
    "src": "f7da8fcb85c1",
-   "t": "the {{medalium}} kept accumulating\n{{damage}}."
+   "t": "the {{medalium}} kept building up {{damage}}."
   },
   {
    "i": 1375,
@@ -234,32 +234,32 @@
   {
    "i": 1433,
    "src": "39b88bd16d77",
-   "t": "The armor protecting it is thick, tough\n{{medalium}}."
+   "t": "Its armor is thick, tough {{medalium}}."
   },
   {
    "i": 1436,
    "src": "f38aab26804e",
-   "t": "As long as that's there, don't expect\nfatal {{damage}}."
+   "t": "With that on, don't expect fatal {{damage}}."
   },
   {
    "i": 1444,
    "src": "e8012fd8cc2c",
-   "t": "If we stop the {{jamming_waves}}, its\nbonding strength weakens"
+   "t": "If we stop the {{jamming_waves}}, its bond"
   },
   {
    "i": 1447,
    "src": "1b079fb6e4d6",
-   "t": "and the {{medalium}} will peel off."
+   "t": "weakens and the {{medalium}} will peel off."
   },
   {
    "i": 1455,
    "src": "f5c6d8e6014b",
-   "t": "Then its main body will appear. {{damage|cap}}\nwill go through."
+   "t": "Then its main body will appear. {{damage|cap}}"
   },
   {
    "i": 1458,
    "src": "afd98dd37d75",
-   "t": "In other words--"
+   "t": "will go through. In other words--"
   }
  ]
 }

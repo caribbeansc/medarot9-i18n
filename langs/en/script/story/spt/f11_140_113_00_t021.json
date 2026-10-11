@@ -59,22 +59,22 @@
   {
    "i": 1115,
    "src": "7b3bbc0d9067",
-   "t": "As you can see, Stollen."
+   "t": "As you can see, Stollen. Once you know"
   },
   {
    "i": 1118,
    "src": "7b6a62836a66",
-   "t": "Once you know them, they aren't that\nstrong."
+   "t": "them, they aren't that strong."
   },
   {
    "i": 1126,
    "src": "f0cbaf46cb69",
-   "t": "Go to the dormitory and, with the XX\n{{club|cap}},"
+   "t": "Go to the dorms with the XX {{club|cap}}"
   },
   {
    "i": 1129,
    "src": "ec1784a0da5e",
-   "t": "hold off the ones coming from the back\ngate."
+   "t": "and hold off those from the back gate."
   },
   {
    "i": 1136,
@@ -114,7 +114,7 @@
   {
    "i": 1209,
    "src": "ba06ec36c7af",
-   "t": "*{{rescue_club_pres}} moves a little\ntoward"
+   "t": "*{{rescue_club_pres}} moves a bit toward"
   },
   {
    "i": 1212,
@@ -239,12 +239,12 @@
   {
    "i": 1377,
    "src": "f3dd6b19bdbc",
-   "t": "Seriously, what's with you all of a\nsudden?"
+   "t": "Seriously, what's with you all of a"
   },
   {
    "i": 1380,
    "src": "284997821eca",
-   "t": "It's like--"
+   "t": "sudden? It's like--"
   },
   {
    "i": 1387,
@@ -259,22 +259,22 @@
   {
    "i": 1409,
    "src": "a2cf339e4bf7",
-   "t": "*Turn to face front"
+   "t": "*Turn to face front ~camera moves"
   },
   {
    "i": 1412,
    "src": "98031a3d2508",
-   "t": "~camera moves slightly toward the main\ngate"
+   "t": "slightly toward the main gate"
   },
   {
    "i": 1417,
    "src": "56c28b5a03fe",
-   "t": "*Multiple {{medabot|pl}} invade"
+   "t": "*Multiple {{medabot|pl}} invade ~while the"
   },
   {
    "i": 1420,
    "src": "489fed193f9b",
-   "t": "~the {{exploration_club}} moves to face\nthem while"
+   "t": "{{exploration_club}} moves to face them"
   },
   {
    "i": 1431,
@@ -349,7 +349,7 @@
   {
    "i": 1538,
    "src": "11ac3e0ba4ad",
-   "t": "*Want text here based on who's\ndeployed"
+   "t": "*Want text here per who's deployed"
   },
   {
    "i": 1541,

@@ -34,7 +34,7 @@
   {
    "i": 1068,
    "src": "97b5ba570e85",
-   "t": "From what I can see, this door has an\nautomatic lock."
+   "t": "From what I see, this door locks itself."
   },
   {
    "i": 1071,
@@ -49,12 +49,12 @@
   {
    "i": 1090,
    "src": "c4f55161f531",
-   "t": "I don't get it."
+   "t": "I don't get it. The question is how to get"
   },
   {
    "i": 1093,
    "src": "e365cfd85910",
-   "t": "The question is how to get to the inside,\nright?"
+   "t": "to the inside, right?"
   },
   {
    "i": 1100,
@@ -64,12 +64,12 @@
   {
    "i": 1109,
    "src": "02a33ba8c5c2",
-   "t": "The air here isn't stale, for being\nunderground."
+   "t": "For underground, the air here isn't stale."
   },
   {
    "i": 1112,
    "src": "65e760fad60b",
-   "t": "There has to be another way through\nbesides this door..."
+   "t": "There must be a way around this door..."
   },
   {
    "i": 1120,

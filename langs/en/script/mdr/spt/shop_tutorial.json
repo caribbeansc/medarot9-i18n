@@ -29,12 +29,12 @@
   {
    "i": 8375,
    "src": "2239f68e36c9",
-   "t": "If you're short on money, you have to\n<c:ff00ff>sell<c>"
+   "t": "If you're short on money, you have to"
   },
   {
    "i": 8378,
    "src": "f950d4cd11ec",
-   "t": "your parts for cash, but..."
+   "t": "<c:ff00ff>sell<c> your parts for cash, but..."
   },
   {
    "i": 8386,
@@ -54,7 +54,7 @@
   {
    "i": 8416,
    "src": "b77c9711dde7",
-   "t": "Besides {{part|pl}}, there are consumable\nitems too."
+   "t": "There are consumables, not just {{part|pl}}."
   },
   {
    "i": 8424,

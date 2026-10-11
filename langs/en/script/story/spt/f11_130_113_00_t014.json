@@ -9,12 +9,12 @@
   {
    "i": 1042,
    "src": "5cef400baffc",
-   "t": "Word from the {{ski_club}}. "
+   "t": "Word from the {{ski_club}}: {{stray}} {{medabot|pl}} "
   },
   {
    "i": 1045,
    "src": "36d09d5c856d",
-   "t": "{{stray|cap}} {{medabot|pl}} have revived in the\n{{clubroom}} building too!"
+   "t": "revived in the {{clubroom}} building too!"
   },
   {
    "i": 1055,

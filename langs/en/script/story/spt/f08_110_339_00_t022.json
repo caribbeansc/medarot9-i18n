@@ -19,12 +19,12 @@
   {
    "i": 1051,
    "src": "e3434aae8120",
-   "t": "No choice, I guess. The school--"
+   "t": "No choice, I guess. The school-- Should"
   },
   {
    "i": 1054,
    "src": "f9ee0f2461f6",
-   "t": "Should we try contacting the Rescue\n{{club|cap}}?"
+   "t": "we try contacting the Rescue {{club|cap}}?"
   },
   {
    "i": 1062,
@@ -49,7 +49,7 @@
   {
    "i": 1092,
    "src": "60fa58518d17",
-   "t": "I'd like to find a way back on our own,\num--"
+   "t": "I'd like to find our own way back, um--"
   },
   {
    "i": 1097,
@@ -59,22 +59,22 @@
   {
    "i": 1103,
    "src": "84880f74cb8b",
-   "t": "Oh yeah, you and that first-year over\nthere"
+   "t": "Oh right, you and that first-year there"
   },
   {
    "i": 1106,
    "src": "c50b78d29f3d",
-   "t": "were always going at each other,\nweren't you?"
+   "t": "always butted heads, didn't you?"
   },
   {
    "i": 1114,
    "src": "49dc53fb15ef",
-   "t": "But given the situation, just grin and\nbear it."
+   "t": "But given the situation, just bear with it."
   },
   {
    "i": 1117,
    "src": "810952b8a686",
-   "t": "This is exactly what the {{rescue_club}} is\nfor."
+   "t": "This is what the {{rescue_club}} is for."
   },
   {
    "i": 1125,
@@ -84,7 +84,7 @@
   {
    "i": 1128,
    "src": "e41c38da591c",
-   "t": "the teachers or the Student Council, I\nthink."
+   "t": "the teachers or the Council, I think."
   },
   {
    "i": 1136,

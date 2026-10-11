@@ -9,12 +9,12 @@
   {
    "i": 1653,
    "src": "898f53f025f4",
-   "t": "A Robattle, robo?"
+   "t": "A Robattle, robo? Wow, of course, {{robo}}!"
   },
   {
    "i": 1656,
    "src": "b3ee4fb5964d",
-   "t": "Wow, of course, {{robo}}! I won't lose,\n{{robo}}~!"
+   "t": "I won't lose, {{robo}}~!"
   }
  ],
  "game": "1.0"

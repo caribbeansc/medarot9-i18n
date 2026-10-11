@@ -54,12 +54,12 @@
   {
    "i": 1121,
    "src": "2d9fc9a91f69",
-   "t": "It's a simulator. It shows, step by step"
+   "t": "It's a simulator. It plots, step by step,"
   },
   {
    "i": 1124,
    "src": "b5187e13a6c6",
-   "t": "and numerically, how a {{medabot}}'s\nneural network"
+   "t": "how a {{medabot}}'s neural network"
   },
   {
    "i": 1132,

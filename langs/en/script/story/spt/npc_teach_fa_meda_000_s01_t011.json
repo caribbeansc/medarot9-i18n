@@ -9,12 +9,12 @@
   {
    "i": 1038,
    "src": "c402781b953b",
-   "t": "My {{master}} is a language {{teacher}}."
+   "t": "My {{master}} is a language {{teacher}}. She's"
   },
   {
    "i": 1041,
    "src": "3e05a668bbc1",
-   "t": "She's fluent in six languages. It's\namazing."
+   "t": "fluent in six languages. It's amazing."
   }
  ]
 }

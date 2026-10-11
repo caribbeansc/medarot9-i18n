@@ -19,7 +19,7 @@
   {
    "i": 1060,
    "src": "9e6917649e52",
-   "t": "So, um, have you decided which club to\njoin,"
+   "t": "So, um, have you decided on a club yet,"
   },
   {
    "i": 1064,
@@ -74,17 +74,17 @@
   {
    "i": 1119,
    "src": "ad64ba321464",
-   "t": "Club activities are really important here,\nand..."
+   "t": "Club activities matter a lot here, and..."
   },
   {
    "i": 1134,
    "src": "4fc43d0b07de",
-   "t": "if you join a {{club}} that suits you,"
+   "t": "if you join a {{club}} that suits you, your"
   },
   {
    "i": 1137,
    "src": "a37c8a4abe70",
-   "t": "your {{activity_level}} will rise naturally, I\nthink."
+   "t": "{{activity_level}} will rise naturally, I think."
   },
   {
    "i": 1145,
@@ -109,22 +109,22 @@
   {
    "i": 1167,
    "src": "afccccaf3df9",
-   "t": "A {{medal}}'s strength--its {{medal_level}}--can\nonly"
+   "t": "A {{medal}}'s strength--its {{medal_level}}--can"
   },
   {
    "i": 1170,
    "src": "7a1d011c4332",
-   "t": "grow as high as your {{activity_level}},"
+   "t": "only grow as high as your {{activity_level}},"
   },
   {
    "i": 1178,
    "src": "e74c02ecac56",
-   "t": "and to raise your {{activity_level}},"
+   "t": "and to raise your {{activity_level}}, you need"
   },
   {
    "i": 1181,
    "src": "e80a1c9a3c57",
-   "t": "you need to build up all sorts of\nachievements."
+   "t": "to build up all sorts of achievements."
   },
   {
    "i": 1189,
@@ -134,7 +134,7 @@
   {
    "i": 1192,
    "src": "ab40e37556b7",
-   "t": "that suits you and take part in its\nactivities."
+   "t": "that suits you and take part in it."
   },
   {
    "i": 1200,
@@ -239,12 +239,12 @@
   {
    "i": 1319,
    "src": "f4e8f627bf3f",
-   "t": "Of course~."
+   "t": "Of course~. It's on the 2nd floor of the"
   },
   {
    "i": 1322,
    "src": "4e6e627b9c91",
-   "t": "It's on the 2nd floor of the {{club|cap}}\nBuilding."
+   "t": "{{club|cap}} Building."
   },
   {
    "i": 1330,

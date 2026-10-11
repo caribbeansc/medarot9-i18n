@@ -14,7 +14,7 @@
   {
    "i": 1057,
    "src": "2c6987d6a63e",
-   "t": "A top-class {{medafighter}} needs top-class\nstamina!"
+   "t": "Top {{medafighter|pl}} need top stamina too!"
   },
   {
    "i": 1060,
@@ -54,12 +54,12 @@
   {
    "i": 1116,
    "src": "83aea9b9e4d6",
-   "t": "If you have any trouble, come talk to\nme."
+   "t": "If you have any trouble, come talk to"
   },
   {
    "i": 1119,
    "src": "23d50fff5cf1",
-   "t": "I'll listen to anything, hehe."
+   "t": "me. I'll listen to anything, hehe."
   },
   {
    "i": 1126,
@@ -69,7 +69,7 @@
   {
    "i": 1135,
    "src": "878dba2f0c71",
-   "t": "The other teachers are in class and\ncan't be here,"
+   "t": "The other teachers are in class now,"
   },
   {
    "i": 1138,
@@ -79,12 +79,12 @@
   {
    "i": 1146,
    "src": "bb852f3a54c2",
-   "t": "And last of all,"
+   "t": "And last of all, the only {{student}} here as"
   },
   {
    "i": 1149,
    "src": "6cd5faf42d92",
-   "t": "the only {{student}} here as the {{student}}\nrepresentative--"
+   "t": "the {{student}} representative--"
   },
   {
    "i": 1159,

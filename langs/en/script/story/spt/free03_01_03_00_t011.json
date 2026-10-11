@@ -24,7 +24,7 @@
   {
    "i": 1057,
    "src": "2206b1308c8f",
-   "t": "The thick fog blocked our view and\nslowed us down,"
+   "t": "Thick fog blocked our view, slowing us,"
   },
   {
    "i": 1060,
@@ -34,22 +34,22 @@
   {
    "i": 1068,
    "src": "866950ef27ea",
-   "t": "You know the east coast beach already,\nright?"
+   "t": "You know the {{east_coast}} beach, right?"
   },
   {
    "i": 1071,
    "src": "324c3223785d",
-   "t": "It's past the coastal forest road north of\nthere."
+   "t": "Past the coastal forest road north of it."
   },
   {
    "i": 1079,
    "src": "4149da2743bf",
-   "t": "A solid path leads into the Misty Deep\nForest."
+   "t": "A solid path leads into the Misty Deep"
   },
   {
    "i": 1082,
    "src": "aa0364cd5647",
-   "t": "Want to {{explore}} it?"
+   "t": "Forest. Want to {{explore}} it?"
   }
  ]
 }

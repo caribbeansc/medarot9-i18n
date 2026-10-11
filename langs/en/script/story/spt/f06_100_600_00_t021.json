@@ -39,12 +39,12 @@
   {
    "i": 1095,
    "src": "34f5ea45d781",
-   "t": "The Council asked me. I'm hunting"
+   "t": "The Council asked me. I'm hunting {{stray}}"
   },
   {
    "i": 1098,
    "src": "69e4ec79791d",
-   "t": "{{stray}} {{medabot|pl}} ahead of the fireworks\nfestival."
+   "t": "{{medabot|pl}} before the fireworks festival."
   },
   {
    "i": 1106,

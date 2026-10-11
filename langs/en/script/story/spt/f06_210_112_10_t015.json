@@ -19,7 +19,7 @@
   {
    "i": 1053,
    "src": "5379a50234e8",
-   "t": "If you shut down that device in the\nhidden room,"
+   "t": "If you stop that hidden room's device,"
   },
   {
    "i": 1056,
@@ -69,7 +69,7 @@
   {
    "i": 1121,
    "src": "e4b991311676",
-   "t": "The interference source matched the\nhypothesis."
+   "t": "The interference fit the hypothesis."
   },
   {
    "i": 1124,
@@ -84,12 +84,12 @@
   {
    "i": 1143,
    "src": "518f73203a35",
-   "t": "So your goal wasn't to eliminate the\n{{jamming_waves}},"
+   "t": "So you didn't break in to stop the"
   },
   {
    "i": 1146,
    "src": "604ef1a6aa11",
-   "t": "but strictly to find the cause?"
+   "t": "{{jamming_waves}}, just to find the cause?"
   },
   {
    "i": 1153,
@@ -109,12 +109,12 @@
   {
    "i": 1178,
    "src": "ff92be682576",
-   "t": "Hmm... That's a way of thinking"
+   "t": "Hmm... That's a way of thinking that's"
   },
   {
    "i": 1181,
    "src": "4ae28dc5877e",
-   "t": "that's hard for ordinary people to\ngrasp..."
+   "t": "hard for ordinary people to grasp..."
   }
  ]
 }

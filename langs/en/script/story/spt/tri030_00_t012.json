@@ -29,7 +29,7 @@
   {
    "i": 1073,
    "src": "4d0c6ca1f745",
-   "t": "I'm Kunigiku, president of the\nExploration\n{{club|cap}}."
+   "t": "I'm Kunigiku, president of the\nExploration {{club|cap}}."
   },
   {
    "i": 1087,
@@ -109,22 +109,22 @@
   {
    "i": 1196,
    "src": "c6bf24c42aa8",
-   "t": "It transfers a {{part}} to a {{medabot}}\nmid-{{robattle}}."
+   "t": "It sends a {{part}} to a {{medabot}} in battle."
   },
   {
    "i": 1199,
    "src": "b1ba99a53c64",
-   "t": "It was adopted in the latest official\nrules."
+   "t": "Adopted in the latest official rules."
   },
   {
    "i": 1207,
    "src": "7891c9d37b88",
-   "t": "Only once per {{robattle}}, and only to the\n{{leader}}."
+   "t": "Only once per {{robattle}}, and only to the"
   },
   {
    "i": 1210,
    "src": "806fcf4a4752",
-   "t": "But only for preset EX {{part|pl}}."
+   "t": "{{leader}}. But only for preset EX {{part|pl}}."
   },
   {
    "i": 1218,
@@ -139,12 +139,12 @@
   {
    "i": 1229,
    "src": "67ff56ce7f01",
-   "t": "If you're going to {{robattle}} at this\nacademy,"
+   "t": "If you're going to {{robattle}} at this"
   },
   {
    "i": 1232,
    "src": "128dff55f66c",
-   "t": "you'd better learn to master it."
+   "t": "academy, you'd better learn to master it."
   },
   {
    "i": 1239,

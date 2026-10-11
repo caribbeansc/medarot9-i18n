@@ -39,7 +39,7 @@
   {
    "i": 1237,
    "src": "54bafe419a00",
-   "t": "If you evade successfully, you take no\n{{damage}}.\nIf you fail, it's a direct hit for big\n{{damage}}."
+   "t": "If you evade, you take no {{damage}}. If you\nfail, it's a direct hit for big {{damage}}."
   },
   {
    "i": 1248,

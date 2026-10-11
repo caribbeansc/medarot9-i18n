@@ -39,7 +39,7 @@
   {
    "i": 1086,
    "src": "746676d73b95",
-   "t": "A {{medafighter}} paired with a {{medabot}}\nmust"
+   "t": "A {{medafighter}} and their {{medabot}} must"
   },
   {
    "i": 1089,
@@ -59,12 +59,12 @@
   {
    "i": 1102,
    "src": "d4fdc67ffda2",
-   "t": "The ID proves your bond with your\n{{medabot}}."
+   "t": "The ID proves your bond with your"
   },
   {
    "i": 1105,
    "src": "d2a1a647b579",
-   "t": "Both of you must carry it!"
+   "t": "{{medabot}}. Both of you must carry it!"
   },
   {
    "i": 1117,

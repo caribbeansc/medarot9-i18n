@@ -9,12 +9,12 @@
   {
    "i": 1035,
    "src": "9b7b440a9342",
-   "t": "A genius... I wonder if there's one\nsomewhere."
+   "t": "A genius... Isn't there one somewhere?"
   },
   {
    "i": 1038,
    "src": "5932cb1a33e2",
-   "t": "No, not just somewhere. To my school!"
+   "t": "No, not just somewhere. In our school!"
   },
   {
    "i": 1046,
@@ -29,12 +29,12 @@
   {
    "i": 1057,
    "src": "6290ba6c66d9",
-   "t": "The {{student_council_president}}... is out\nof the question."
+   "t": "The {{student_council_president}}... is out."
   },
   {
    "i": 1060,
    "src": "a8ef23dfc3c6",
-   "t": "Maybe I'll ask the Medabot Research\nClub, hmm... "
+   "t": "Maybe I'll ask Medabot Research, hmm... "
   }
  ],
  "game": "1.0"

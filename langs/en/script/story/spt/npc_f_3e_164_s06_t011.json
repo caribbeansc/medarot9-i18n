@@ -9,7 +9,7 @@
   {
    "i": 1038,
    "src": "e4070bbae6ff",
-   "t": "Hey, welcome to the Medabot Research\nClub!"
+   "t": "Hey, welcome to Medabot Research!"
   },
   {
    "i": 1041,
@@ -19,12 +19,12 @@
   {
    "i": 1049,
    "src": "4f308142a5fe",
-   "t": "Oh ho, you two!"
+   "t": "Oh ho, you two! The {{exploration_club}}"
   },
   {
    "i": 1052,
    "src": "d81be640fabf",
-   "t": "Aren't you the {{exploration_club}} that\nkidnapped {{main}}-chan?"
+   "t": "that kidnapped {{main}}-chan, aren't you?"
   },
   {
    "i": 1063,
@@ -44,22 +44,22 @@
   {
    "i": 1085,
    "src": "1a589912bd40",
-   "t": "{{main}}-chan isn't an official member of\nours."
+   "t": "{{main}}-chan isn't an official member."
   },
   {
    "i": 1088,
    "src": "d9d9ff389253",
-   "t": "We just asked her to put her name on\nour roster."
+   "t": "We just asked her to be on our roster."
   },
   {
    "i": 1096,
    "src": "22fd2a3a82a0",
-   "t": "If it's what she wants, it can't be\nhelped."
+   "t": "If it's what she wants,"
   },
   {
    "i": 1099,
    "src": "91a308a9240d",
-   "t": "It's a shame, though."
+   "t": "it can't be helped. It's a shame, though."
   }
  ]
 }

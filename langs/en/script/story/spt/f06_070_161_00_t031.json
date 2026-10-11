@@ -34,12 +34,12 @@
   {
    "i": 1090,
    "src": "3e2251329bde",
-   "t": "It's been decided that the Council will\nhost"
+   "t": "On the last day of summer vacation,"
   },
   {
    "i": 1093,
    "src": "2608b0c736a5",
-   "t": "a fireworks festival on the last day of\nsummer vacation."
+   "t": "the Council hosts a fireworks festival."
   },
   {
    "i": 1100,
@@ -49,12 +49,12 @@
   {
    "i": 1109,
    "src": "dacc07e1da2c",
-   "t": "Oh ho, that sounds fun."
+   "t": "Oh ho, that sounds fun. But why would"
   },
   {
    "i": 1112,
    "src": "0771bf83a36c",
-   "t": "But why would you leave the fireworks\nhere?"
+   "t": "you leave the fireworks here?"
   },
   {
    "i": 1119,
@@ -64,12 +64,12 @@
   {
    "i": 1128,
    "src": "84b013b5ad62",
-   "t": "I don't want explosives in an unattended\nstoreroom."
+   "t": "I won't store explosives out of sight."
   },
   {
    "i": 1131,
    "src": "eac130480a12",
-   "t": "And this place is needlessly big. That's\nthe reason."
+   "t": "And it's needlessly big here. That's why."
   },
   {
    "i": 1145,
@@ -109,12 +109,12 @@
   {
    "i": 1209,
    "src": "deceae1ad2be",
-   "t": "We want you to clear the stray\nMedabots"
+   "t": "I want you to clear the {{stray}} {{medabot|pl}}"
   },
   {
    "i": 1212,
    "src": "577483d055d2",
-   "t": "from the beach where the event will be\nheld."
+   "t": "off the beach where it's to be held."
   },
   {
    "i": 1220,

@@ -9,7 +9,7 @@
   {
    "i": 1035,
    "src": "0c0a81280aae",
-   "t": "Teachers must not get involved in\n{{student}}\n{{club}} activities at all!"
+   "t": "Teachers must not get involved in\n{{student}} {{club}} activities at all!"
   },
   {
    "i": 1046,
@@ -24,12 +24,12 @@
   {
    "i": 1057,
    "src": "d015405b365f",
-   "t": "I want to mix in and exercise with\neveryone too!"
+   "t": "I want to exercise with everyone too!"
   },
   {
    "i": 1060,
    "src": "2b0292eb73dd",
-   "t": "Just watching from the sidelines is so\nboring~."
+   "t": "Watching from the sidelines is boring~."
   }
  ]
 }

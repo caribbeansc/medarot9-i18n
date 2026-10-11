@@ -14,12 +14,12 @@
   {
    "i": 1043,
    "src": "56ef8a1e577c",
-   "t": "First, let's take the mountain trail from\nthe {{mountains}} {{area}}."
+   "t": "First, from {{mountains_and_deep_forest}},"
   },
   {
    "i": 1046,
    "src": "0120b1d83fb5",
-   "t": "Let's aim for the suspension bridge."
+   "t": "up the trail to the suspension bridge."
   },
   {
    "i": 1054,

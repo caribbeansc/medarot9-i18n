@@ -19,12 +19,12 @@
   {
    "i": 1127,
    "src": "c38ca8c1c3a9",
-   "t": "You can't {{medachange}} if even one {{part}}\nis destroyed,\nso be careful if you get targeted during\n{{prep}}."
+   "t": "One destroyed {{part}} blocks {{medachange}},\nso be careful if targeted during {{prep}}."
   },
   {
    "i": 1132,
    "src": "fa4b1e4bf71e",
-   "t": "This time you charged to 100%, but you\ncan\n{{medachange}} with 20% or more on the\ngauge.                                                "
+   "t": "You charged to 100% this time, but\n20% or more lets you {{medachange}}.                                                "
   }
  ]
 }

@@ -14,12 +14,12 @@
   {
    "i": 1043,
    "src": "9e11f21d7061",
-   "t": "The stream... Let's pass through the\n{{misty_deep_forest}}."
+   "t": "The stream... Let's go through the"
   },
   {
    "i": 1046,
    "src": "ed7dedffcbfd",
-   "t": "Let's enter from the {{east_coast}} {{area}}."
+   "t": "{{misty_deep_forest}}, from the {{east_coast}}."
   }
  ]
 }

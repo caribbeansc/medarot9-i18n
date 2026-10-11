@@ -31,7 +31,8 @@ REPO = Path(__file__).resolve().parents[2]
 HARNESS = REPO / 'experiments' / 'harness'
 AZAHAR_BIN = HARNESS / 'azahar-src' / 'build' / 'bin' / 'Release' / 'azahar.app' / 'Contents' / 'MacOS' / 'azahar'
 USER_DIR = HARNESS / 'run' / 'user'
-ROM = REPO / 'roms' / 'Medarot 9 - Kuwagata Ver. (Japan).3ds'
+ROM = Path(os.environ['M9_BENCH_ROM']) if os.environ.get('M9_BENCH_ROM') else \
+    REPO / 'roms' / 'Medarot 9 - Kuwagata Ver. (Japan).3ds'      # M9_BENCH_ROM: another copy (.3ds/.cxi) of the game
 TITLE_ID = 0x0004000000174F00
 
 PORT = 45987

@@ -4,12 +4,12 @@
   {
    "i": 1001,
    "src": "fbc84c5a0de5",
-   "t": "The {{mission}} we're on now is"
+   "t": "The {{mission}} we're on now is '{{medalia}}"
   },
   {
    "i": 1004,
    "src": "3ea60f35308b",
-   "t": "'{{medalia}} Collection: {{mountain_stream}}',\nhuh."
+   "t": "Collection: {{mountain_stream}}', huh."
   },
   {
    "i": 1012,

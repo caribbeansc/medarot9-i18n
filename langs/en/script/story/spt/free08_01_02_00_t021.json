@@ -14,12 +14,12 @@
   {
    "i": 1046,
    "src": "2a19ac46d703",
-   "t": "{{old_harbor_town}} is far past the Cart\nStation."
+   "t": "The town is far past the Cart Station."
   },
   {
    "i": 1049,
    "src": "61185ce7f55c",
-   "t": "Let's head west from the {{mine}}\nEntrance."
+   "t": "Let's go west from the {{mine_entrance}}."
   }
  ]
 }

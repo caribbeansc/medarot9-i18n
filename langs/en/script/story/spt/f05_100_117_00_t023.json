@@ -39,12 +39,12 @@
   {
    "i": 1082,
    "src": "52d12a8b8a0e",
-   "t": "Huh? What?"
+   "t": "Huh? What? What kind of interview did"
   },
   {
    "i": 1085,
    "src": "d2925050a14e",
-   "t": "What kind of interview did you just\nsay...?"
+   "t": "you just say...?"
   },
   {
    "i": 1090,
@@ -59,7 +59,7 @@
   {
    "i": 1102,
    "src": "3ac4cbfba17d",
-   "t": "individual interviews with each partner\n{{medabot}}."
+   "t": "interviews with each of your {{medabot|pl}}."
   },
   {
    "i": 1110,

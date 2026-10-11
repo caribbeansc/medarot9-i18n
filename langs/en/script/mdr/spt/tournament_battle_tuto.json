@@ -29,12 +29,12 @@
   {
    "i": 1131,
    "src": "aa312c4a2d63",
-   "t": "A {{survival_robattle}} is"
+   "t": "A {{survival_robattle}} is an all-out fight"
   },
   {
    "i": 1134,
    "src": "d272afe5ea4d",
-   "t": "an all-out fight until you <c:ff00ff>defeat all of\nthe {{opponent}}'s {{medabot|pl}}<c>!"
+   "t": "until you <c:ff00ff>defeat all enemy {{medabot|pl}}<c>!"
   },
   {
    "i": 1141,
@@ -44,7 +44,7 @@
   {
    "i": 1147,
    "src": "88833c5df176",
-   "t": "In Medabot Select for Survival\n{{robattle|pl}},"
+   "t": "In {{survival_robattle}} Medabot Select,"
   },
   {
    "i": 1150,
@@ -54,12 +54,12 @@
   {
    "i": 1155,
    "src": "ba27f66529b1",
-   "t": "When a {{medabot}} is shut down,"
+   "t": "When a {{medabot}} is shut down, the next"
   },
   {
    "i": 1158,
    "src": "c37e71bede19",
-   "t": "the next {{medabot}} joins the {{robattle}} in\nits place."
+   "t": "{{medabot}} joins the {{robattle}} in its place."
   },
   {
    "i": 1165,
@@ -69,12 +69,12 @@
   {
    "i": 1171,
    "src": "81d829a797ce",
-   "t": "The more {{medabot|pl}} you can send out,\nthe better,"
+   "t": "The more {{medabot|pl}} you can send out,"
   },
   {
    "i": 1174,
    "src": "d165399e69e3",
-   "t": "so set up all of your {{tinpet|pl}}!"
+   "t": "the better, so set up all of your {{tinpet|pl}}!"
   }
  ]
 }

@@ -9,7 +9,7 @@
   {
    "i": 1038,
    "src": "20c0d529200f",
-   "t": "{{medalia}} effects are divided into several\nattributes. "
+   "t": "{{medalia}} effects are split into attributes. "
   },
   {
    "i": 1041,
@@ -24,7 +24,7 @@
   {
    "i": 1052,
    "src": "e110d22ef2fe",
-   "t": "the same attribute, only one {{effect}} takes\nhold."
+   "t": "the same attribute, only one takes hold."
   }
  ]
 }

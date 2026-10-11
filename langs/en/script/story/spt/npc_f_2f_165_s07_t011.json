@@ -9,12 +9,12 @@
   {
    "i": 1038,
    "src": "775feb96578e",
-   "t": "The {{rescue_club}} can't run a festival\nbooth."
+   "t": "No festival booth for the {{rescue_club}}."
   },
   {
    "i": 1041,
    "src": "5d7623b430d8",
-   "t": "It overlaps with the pre-tournament\ncrunch."
+   "t": "It always clashes with tournament prep."
   }
  ]
 }

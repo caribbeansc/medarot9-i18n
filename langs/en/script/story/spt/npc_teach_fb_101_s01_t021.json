@@ -24,12 +24,12 @@
   {
    "i": 1048,
    "src": "6577546f1dd5",
-   "t": "If you're going to look around the clubs,\ngo straight down the road on the other\nside."
+   "t": "To visit the clubs, go straight down the"
   },
   {
    "i": 1051,
    "src": "453d28699aab",
-   "t": "The {{club_building}} is there."
+   "t": "other road. The {{club_building}} is there."
   }
  ]
 }

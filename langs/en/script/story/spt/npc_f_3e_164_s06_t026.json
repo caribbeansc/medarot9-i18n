@@ -9,12 +9,12 @@
   {
    "i": 1035,
    "src": "7384a2e31611",
-   "t": "The more similar the traits of the\n{{medalia}} you fuse,"
+   "t": "You know the more similar the {{medalia}}"
   },
   {
    "i": 1038,
    "src": "9768bdfea2e5",
-   "t": "the stronger the result. You know that\nalready, right?"
+   "t": "you fuse, the stronger the result, right?"
   },
   {
    "i": 1046,
@@ -29,27 +29,27 @@
   {
    "i": 1057,
    "src": "c276862be233",
-   "t": "If you fuse five {{medalia}} whose color,\nshape, or skills"
+   "t": "If you fuse five {{medalia}} that differ from"
   },
   {
    "i": 1060,
    "src": "e82c3d8f75e3",
-   "t": "all differ from the base {{medalia}},"
+   "t": "the base in color, shape, or skills,"
   },
   {
    "i": 1068,
    "src": "1cedb4c169c4",
-   "t": "you can end up with a {{medalia}}"
+   "t": "you can end up with a {{medalia}} whose"
   },
   {
    "i": 1071,
    "src": "a143d312ce80",
-   "t": "whose traits have changed from the\nbase."
+   "t": "traits have changed from the base."
   },
   {
    "i": 1079,
    "src": "b6ca03adc0aa",
-   "t": "It's a bit of a gamble to sink valuable\n{{medalia}} into it,"
+   "t": "It's a bit of a gamble with rare {{medalia}},"
   },
   {
    "i": 1082,

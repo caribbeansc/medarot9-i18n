@@ -14,12 +14,12 @@
   {
    "i": 1043,
    "src": "efa48ce88356",
-   "t": "All right, let's go through the Mountain\nPath {{area}} to the top."
+   "t": "Right, up the {{mountain_path}} to the top."
   },
   {
    "i": 1046,
    "src": "f1f7fa326b71",
-   "t": "Once we cross the suspension bridge,\nit's a straight line to the summit."
+   "t": "Past the suspension bridge, it's direct."
   }
  ]
 }

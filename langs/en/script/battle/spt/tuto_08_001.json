@@ -9,7 +9,7 @@
   {
    "i": 1124,
    "src": "a251dca814f8",
-   "t": "The Crossfire you just set is \"Shooting\",\nso make the next one a \"Fighting\"\nCrossfire.          "
+   "t": "The Crossfire you set is \"Shooting\", so\ngive the next {{medabot}} a \"Fighting\" one.          "
   },
   {
    "i": 1129,

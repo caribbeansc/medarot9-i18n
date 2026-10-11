@@ -14,42 +14,42 @@
   {
    "i": 1045,
    "src": "983ede961746",
-   "t": "The {{stray}} {{medabot|pl}} that invaded the\n{{classroom}}"
+   "t": "The {{classroom}} and {{clubroom}} buildings"
   },
   {
    "i": 1048,
    "src": "24cb74ae0b47",
-   "t": "building and clubroom building have\nbeen wiped out."
+   "t": "are confirmed clear of {{stray}} {{medabot|pl}}."
   },
   {
    "i": 1056,
    "src": "d0f006e97ff6",
-   "t": "Those with energy to spare, please go to\nthe gate or behind"
+   "t": "Those with energy left, go to the gate or"
   },
   {
    "i": 1059,
    "src": "f298bd69e996",
-   "t": "the dorms and support the clubs on\ndefense."
+   "t": "behind the dorms and aid the defenders."
   },
   {
    "i": 1067,
    "src": "124acc379f11",
-   "t": "The injured should go to the gym, and\nfor"
+   "t": "The injured, to the gym. Broken partners"
   },
   {
    "i": 1070,
    "src": "9260ee9a55cb",
-   "t": "broken partners, see the {{medabot}}\nResearch Club."
+   "t": "should see the {{medabot_research_club}}."
   },
   {
    "i": 1078,
    "src": "609ccf1e20fa",
-   "t": "I'll notify you again if there's any\ndevelopment."
+   "t": "I'll notify you again if there's any"
   },
   {
    "i": 1081,
    "src": "995533852dee",
-   "t": "That is all."
+   "t": "development. That is all."
   }
  ]
 }

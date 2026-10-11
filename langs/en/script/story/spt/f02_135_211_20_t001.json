@@ -4,12 +4,12 @@
   {
    "i": 1001,
    "src": "d567d06b9e1a",
-   "t": "An elevator. The car seems to be up\ntop..."
+   "t": "An elevator. The car's up top, it seems..."
   },
   {
    "i": 1004,
    "src": "ba68b8aa4b34",
-   "t": "It doesn't come down when I press the\nbutton."
+   "t": "Pushing the button won't bring it down."
   }
  ]
 }

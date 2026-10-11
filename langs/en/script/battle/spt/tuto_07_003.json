@@ -19,12 +19,12 @@
   {
    "i": 1136,
    "src": "57ebead24180",
-   "t": "<c:ff00ff>You can't {{transform}} if even one {{part}} is\ndestroyed<c>,\n"
+   "t": "<c:ff00ff>Lose one {{part}} and you can't {{transform}}<c>,\n"
   },
   {
    "i": 1137,
    "src": "319a6a0e34fc",
-   "t": "so be careful not to get destroyed\nbefore you {{transform}}."
+   "t": "so protect them until you {{transform}}."
   },
   {
    "i": 1142,

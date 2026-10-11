@@ -34,17 +34,17 @@
   {
    "i": 1077,
    "src": "db688f9433da",
-   "t": "and transfer them right before a\n{{robattle}}."
+   "t": "and transfer them just before {{robattle|pl}}."
   },
   {
    "i": 1085,
    "src": "7007fe9ae4fb",
-   "t": "{{part|pl|cap}} you {{obtain}} are sent here\nautomatically,"
+   "t": "{{part|pl|cap}} you {{obtain}} go here automatically,"
   },
   {
    "i": 1088,
    "src": "0a793f58283b",
-   "t": "so you don't need to do anything at the\nbox."
+   "t": "so no need to do anything at the box."
   },
   {
    "i": 1096,

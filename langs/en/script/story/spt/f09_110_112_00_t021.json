@@ -4,12 +4,12 @@
   {
    "i": 1001,
    "src": "dcf10fdcddf3",
-   "t": "Please tell me, Vice-Principal."
+   "t": "Please tell me, Vice-Principal. Why did"
   },
   {
    "i": 1004,
    "src": "41e5be6fbe25",
-   "t": "Why did you give permission to use the\n{{app}}?"
+   "t": "you give permission to use the {{app}}?"
   },
   {
    "i": 1012,
@@ -24,12 +24,12 @@
   {
    "i": 1023,
    "src": "493b0021fc8a",
-   "t": "Maybe you knew"
+   "t": "Maybe you knew they were looking for"
   },
   {
    "i": 1026,
    "src": "6fabddf10375",
-   "t": "they were looking for the detection\n{{app}}--"
+   "t": "the detection {{app}}--"
   },
   {
    "i": 1034,
@@ -44,22 +44,22 @@
   {
    "i": 1055,
    "src": "4d255cbaa831",
-   "t": "Please tell me."
+   "t": "Please tell me. What is happening on"
   },
   {
    "i": 1058,
    "src": "6a00a1aaa01a",
-   "t": "What is happening on this island right\nnow?"
+   "t": "this island right now?"
   },
   {
    "i": 1066,
    "src": "d8b5cde19efc",
-   "t": "The {{rubberobo_gang}}-- you and the\n{{conglomerate}} people,"
+   "t": "The {{rubberobo_gang}}-- you and the"
   },
   {
    "i": 1069,
    "src": "35ceda471eed",
-   "t": "what are you trying to do by opening\nthe mine?"
+   "t": "{{conglomerate}}, why open the mine?"
   },
   {
    "i": 1077,

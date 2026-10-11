@@ -9,22 +9,22 @@
   {
    "i": 1038,
    "src": "9b3f54c19a64",
-   "t": "At MEDA {{academy}}, {{club_activities}}"
+   "t": "At MEDA {{academy}}, {{club_activities}} are"
   },
   {
    "i": 1041,
    "src": "adb247ea8dcf",
-   "t": "are left up to the students' own\ninitiative."
+   "t": "left up to the students' own initiative."
   },
   {
    "i": 1049,
    "src": "affe5d730758",
-   "t": "That's why there are no faculty\nadvisors."
+   "t": "So there are no faculty advisors. It's all"
   },
   {
    "i": 1052,
    "src": "6a5d2c708f4c",
-   "t": "Everything is entrusted to the clubs and\nthe {{student_council}}."
+   "t": "up to the clubs and the {{student_council}}."
   }
  ]
 }

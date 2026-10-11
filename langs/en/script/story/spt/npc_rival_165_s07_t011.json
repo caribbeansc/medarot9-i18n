@@ -9,22 +9,22 @@
   {
    "i": 1035,
    "src": "7c23894db6ef",
-   "t": "Huh? Oh, it's just you."
+   "t": "Huh? Oh, it's just you. Don't hang"
   },
   {
    "i": 1038,
    "src": "1d48e3a862b3",
-   "t": "Don't hang around in clubs that aren't\nyours."
+   "t": "around in clubs that aren't yours."
   },
   {
    "i": 1046,
    "src": "c107d0613f75",
-   "t": "Unlike you, we have nothing to do with\nthe {{culture_festival}}."
+   "t": "Unlike you, we've got no part in the"
   },
   {
    "i": 1049,
    "src": "4bcbe6af623e",
-   "t": "We're busy like always."
+   "t": "{{culture_festival}}. We're busy like always."
   },
   {
    "i": 1057,
@@ -34,7 +34,7 @@
   {
    "i": 1060,
    "src": "65bea1e1a435",
-   "t": "I wouldn't eat it, though. I'd get a\nstomachache."
+   "t": "Not that I'd eat it. I'd get a bellyache."
   }
  ]
 }

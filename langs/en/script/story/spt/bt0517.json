@@ -9,12 +9,12 @@
   {
    "i": 872,
    "src": "898f53f025f4",
-   "t": "A Robattle, robo?"
+   "t": "A Robattle, robo? Wow, of course I'll do"
   },
   {
    "i": 875,
    "src": "b3ee4fb5964d",
-   "t": "Wow, of course I'll do it, {{robo}}! I won't\nlose, {{robo}}~!"
+   "t": "it, {{robo}}! I won't lose, {{robo}}~!"
   }
  ]
 }
