@@ -202,8 +202,9 @@ python m9.py build es          # just build, into build/es/
 
 Add `--no-update` to make it for the game without its update (version 1.0) when an update is set.
 
-**A save started with an older version** keeps the party Medabots' default names in Japanese (the game stores them
-in the save). With the game closed, `python tools/save_names.py <save folder> --lang es --write` (or `--lang en`)
+**A save started with an older version** keeps the party Medabots' default names in Japanese, or the earlier
+"Coral" instead of "Sango" (the game stores them in the save). With the game closed,
+`python tools/save_names.py <save folder> --lang es --write` (or `--lang en`)
 puts the translated names in and backs the save up first; the save folder is the one with `user1.b` (Azahar:
 `sdmc/Nintendo 3DS/<id>/<id>/title/00040000/00174f00/data/00000001`, Kabuto `00174e00`; or a Checkpoint backup).
 

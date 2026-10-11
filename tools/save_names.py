@@ -9,8 +9,8 @@ records in the save (5 records of 0xA4 bytes at 0x574; the name at +9; scenario 
 can hold the same Japanese name once the member has joined, and the game copies those names back into S10-S13
 (REFLECT_MEDAL_NAME), so both are changed together.
 
-This replaces, in S10-S13 and in the matching Medal records, every Japanese DEFAULT name by the form the pack writes
-in a new game (langs/<lang>/script/story/spt/member_p.json, terms expanded) and recomputes the CRC (CRC-16/ARC, init
+This replaces, in S10-S13 and in the matching Medal records, every Japanese DEFAULT name (or a form an earlier pack
+wrote for it: OLD_FORMS) by the form the pack writes in a new game (langs/<lang>/script/story/spt/member_p.json, terms expanded) and recomputes the CRC (CRC-16/ARC, init
 0xFACE, over the whole file with its u16 at len-4 zeroed). A name the player typed is never touched: S8/S9, or a
 party Medal renamed by the player, change only with an explicit --set SLOT=NAME (S9-S13 also rename the Medal record
 that has the slot's current name). Without --write it only shows what it would do; with --write it first copies the
@@ -39,6 +39,9 @@ SLOT_LEN = 0x12
 MEDALS, MEDAL_LEN, MEDAL_NAME, NAME_LEN = 0x574, 0xA4, 9, 17      # 5 records; name field up to +0x19
 MAX_NAME = 16                                                    # 8 full-width characters, as the keyboard allows
 DEFAULTS = {'S10': 'ラピス', 'S11': 'サンゴ', 'S12': 'タイタニア', 'S13': 'ギンセイ'}   # set by member_p.spt
+# forms that earlier versions of the packs wrote for a default (half-width: the keyboard cannot type them, so they
+# can only come from a pack): replaced like the Japanese ones. サンゴ was 'Coral' up to v2026.10.11-5aee706.
+OLD_FORMS = {'S11': ('Coral',)}
 
 
 def crc16(data: bytes, init=0xFACE) -> int:
@@ -95,14 +98,15 @@ def plan(d: bytes, names: dict, sets: dict):
             continue
         old = slot(d, s)
         jp = DEFAULTS[s].encode('cp932') if s in DEFAULTS else None
+        defaults = {jp} | {o.encode('sjis_es') for o in OLD_FORMS.get(s, ())}
         new = sets.get(s) or names.get(s)
-        if (s in sets or old == jp) and new != old:
+        if (s in sets or old in defaults) and new != old:
             out.append((s, SLOTS[s], SLOT_LEN, old, new))
         if s == 'S8':
             continue
         for k in range(5):        # the Medal record of that slot (scenario index 0 = S9 ... 4 = S13) with that name
             idx, used, name = medal(d, k)
-            if idx == int(s[1:]) - 9 and name and name != new and (name == jp or (s in sets and name == old)):
+            if idx == int(s[1:]) - 9 and name and name != new and (name in defaults or (s in sets and name == old)):
                 out.append((f'Medal record {k} ({"in use" if used else "not in use"}) of {s}',
                             MEDALS + k * MEDAL_LEN + MEDAL_NAME, NAME_LEN, name, new))
     return out

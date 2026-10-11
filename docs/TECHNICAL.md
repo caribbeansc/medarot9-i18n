@@ -44,8 +44,9 @@ A script is a list of fields separated by NUL bytes. A field starting with a lon
 - Furigana is written `<kanji@NN reading>`; translations drop the wrapper. Colour: `<c:RRGGBB>…<c>`. Button icons:
   `$` followed by one byte (`$*` = A, `$ｸ`...).
 - The name-entry keyboard used to need a full-width default name (`テンマ`): `ifnospace` only counted double-byte
-  characters, so a half-width name left OK disabled. `tools/keyboard_ok_fix.py` makes it count half-width ones too
-  (the defaults are still the Japanese ones).
+  characters, so a half-width name left OK disabled. `tools/keyboard_ok_fix.py` makes it count half-width ones too.
+  The suggested names (player, first Medal, new rotation) are translated in full-width letters, like the ones the
+  keyboard types: `tools/keyboard_defaults.py`.
 
 ## Data tables (`romfs/param/*.b`)
 
