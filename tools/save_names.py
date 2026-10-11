@@ -9,6 +9,10 @@ records in the save (5 records of 0xA4 bytes at 0x574; the name at +9; scenario 
 can hold the same Japanese name once the member has joined, and the game copies those names back into S10-S13
 (REFLECT_MEDAL_NAME), so both are changed together.
 
+It also translates the PLACE of the save summary («Lugar»: the global string S3, 0x40 bytes at 0x39E8, the name of
+the map where the game was saved, from the map file's header): a save made before the map names were translated
+(tools/gdn_area_names.py, 10-oct-2026) keeps showing it in Japanese until it is saved again.
+
 This replaces, in S10-S13 and in the matching Medal records, every Japanese DEFAULT name (or a form an earlier pack
 wrote for it: OLD_FORMS) by the form the pack writes in a new game (langs/<lang>/script/story/spt/member_p.json, terms expanded) and recomputes the CRC (CRC-16/ARC, init
 0xFACE, over the whole file with its u16 at len-4 zeroed). A name the player typed is never touched: S8/S9, or a
@@ -42,6 +46,7 @@ DEFAULTS = {'S10': 'ラピス', 'S11': 'サンゴ', 'S12': 'タイタニア', 'S
 # forms that earlier versions of the packs wrote for a default (half-width: the keyboard cannot type them, so they
 # can only come from a pack): replaced like the Japanese ones. サンゴ was 'Coral' up to v2026.10.11-5aee706.
 OLD_FORMS = {'S11': ('Coral',)}
+PLACE, PLACE_LEN = 0x39E8, 0x40                                  # S3, the save summary's place (map header name)
 
 
 def crc16(data: bytes, init=0xFACE) -> int:
@@ -75,6 +80,16 @@ def pack_names(lang: str) -> dict:
     return out
 
 
+def place_names(lang: str) -> dict:
+    """{fingerprint of a Japanese map name: translated name (bytes)}: langs/<lang>/save_places.json, written by
+    tools/gdn_area_names.py from the names it puts in the map headers."""
+    import json
+    f = REPO / 'langs' / lang / 'save_places.json'
+    if not f.exists():
+        return {}
+    return {fp: tr.encode('sjis_es') for fp, tr in json.loads(f.read_text(encoding='utf-8')).items()}
+
+
 def slot(d: bytes, s: str) -> bytes:
     o = SLOTS[s]
     return bytes(d[o:o + SLOT_LEN]).split(b'\0')[0]
@@ -90,9 +105,14 @@ def show(b: bytes) -> str:
     return b.decode('sjis_es', 'replace') if b else '(empty)'
 
 
-def plan(d: bytes, names: dict, sets: dict):
+def plan(d: bytes, names: dict, sets: dict, places=None):
     """[(what, offset, field length, old, new)]"""
     out = []
+    if places:
+        old = bytes(d[PLACE:PLACE + PLACE_LEN]).split(b'\0')[0]
+        new = places.get(script.fingerprint(old)) if old else None
+        if new and new != old and len(new) < PLACE_LEN:
+            out.append(('S3 place', PLACE, PLACE_LEN, old, new))
     for s in SLOTS:
         if s not in sets and s not in DEFAULTS:
             continue
@@ -141,7 +161,8 @@ def main():
     names = pack_names(a.lang)
     for s in SLOTS:
         print(f'  {s:3} {show(slot(d, s))}')
-    changes = plan(d, names, sets)
+    print(f'  S3  {show(bytes(d[PLACE:PLACE + PLACE_LEN]).split(chr(0).encode())[0])} (place)')
+    changes = plan(d, names, sets, place_names(a.lang))
     if not changes:
         print('nothing to change')
         return 0
