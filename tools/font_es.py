@@ -108,10 +108,15 @@ class Font:
         return self.sheets[i]
 
     def _loc(self, code):
+        """(glyph index, sheet, x, y) of the glyph's cell. Every cell has a 1-pixel border on its LEFT and TOP (checked
+        on the 9 Japanese fonts: column 0 and row 0 of every (w+1) x (h+1) period are always empty, the last column and
+        row hold ink), so the cell itself starts one pixel right and down; the game draws its first `glyph width`
+        columns. Until 11-oct-2026 this returned the border corner: the accents drawn into the top row (capitals of the
+        small fonts) never showed, and the last column/row of a base letter was lost."""
         gi = self.cmap[code]
         per = self.cols * self.rows
         s, k = divmod(gi, per)
-        return gi, s, (k % self.cols) * (self.cellw + 1), (k // self.cols) * (self.cellh + 1)
+        return gi, s, (k % self.cols) * (self.cellw + 1) + 1, (k // self.cols) * (self.cellh + 1) + 1
 
     def cell(self, ch):
         gi, s, x, y = self._loc(self.code(ch))
@@ -138,6 +143,14 @@ class Font:
             assert len(enc) == self.ssize, (len(enc), self.ssize)
             self.data[o:o + self.ssize] = enc
         return bytes(self.data)
+
+
+def _drawn_width(f, img, w):
+    """The base letter's widths with the glyph width widened to the composed glyph's ink (an accent wider than a
+    1-pixel stem: í in font12/fotfont10/font10), never past the cell; the advance (char width) is unchanged."""
+    left, gw, cw = w
+    a = img.getchannel('A').point(lambda v: 255 if v > 0 else 0).getbbox()
+    return (left, min(max(gw, a[2]) if a else gw, f.cellw), cw)
 
 
 def _ink(img, thr=40):
@@ -238,7 +251,7 @@ def compose_outlined(f: Font, ch: str):
     for q in acc:
         if 0 <= q[0] < src.width and 0 <= q[1] < src.height:
             out.putpixel(q, (255, 255, 255, 255))
-    return out, (left, gw, cw)
+    return out, _drawn_width(f, out, (left, gw, cw))
 
 
 # SMALL fonts (cell <= 15 px: font12, font12new, fotfont12, fotfont10, font10): the Japanese marks do not fit
@@ -305,9 +318,7 @@ def compose_small(f: Font, ch: str):
         for i, c in enumerate(r):
             if c == '#' and 0 <= ax + i < img.width and 0 <= y0 + j < img.height:
                 img.putpixel((ax + i, y0 + j), (255, 255, 255, 255))
-    nb = _ink(img)
-    gw2 = max(gw, nb[2] - max(left, 0)) if nb else gw
-    return img, (left, min(gw2, f.cellw), cw)
+    return img, _drawn_width(f, img, (left, gw, cw))
 
 
 def compose(f: Font, ch: str):
@@ -324,7 +335,7 @@ def compose(f: Font, ch: str):
         part = img.crop(bb).rotate(180)
         out = Image.new('RGBA', img.size, (0, 0, 0, 0))
         out.paste(part, (x0, y0))
-        return out, (left, gw, cw)
+        return out, _drawn_width(f, out, (left, gw, cw))
     xtop = _ink(f.cell('x'))[1]
     captop = _ink(f.cell('E'))[1]
     if base == 'i':                                   # i without dot: erase whatever is above the height of the x
@@ -349,9 +360,7 @@ def compose(f: Font, ch: str):
     dx = int(round(cx - acc.width / 2.0 + (0.5 if mark == 'acute' else 0)))
     dx = max(0, min(img.width - acc.width, dx))
     _paste_ink(img, acc, dx, top)
-    nb = _ink(img)
-    gw2 = max(gw, nb[2] - max(left, 0)) if nb else gw
-    return img, (left, min(gw2, f.cellw), cw)
+    return img, _drawn_width(f, img, (left, gw, cw))
 
 
 def patch_font(name: str) -> bytes:

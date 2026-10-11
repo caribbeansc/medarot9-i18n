@@ -73,6 +73,11 @@ one byte each, never used by the game's text) are redrawn as those letters in th
 the width of their base letter. Two-byte characters cannot be used: they always advance the font's fixed width. The
 codec `sjis_es` (`m9/codec.py`) maps the letters to those bytes.
 
+A font sheet holds its glyphs in cells of (cell width + 1) x (cell height + 1) pixels with the extra column and row on
+the LEFT and TOP: a glyph is at (column x (w + 1) + 1, row x (h + 1) + 1), w x h, and the game draws its first
+`glyph width` columns (CWDH) at the pen position plus `left`. `tools/font_es.py` composes the Spanish letters inside
+that cell and widens the glyph width to the accent when it is wider than the base letter's stem (í in the small fonts).
+
 ## Textures
 
 Labels drawn in textures (`.ctpk`, and signs inside `.bcmdl` models, CGFX) are relabelled by `tools/tex/` from a
