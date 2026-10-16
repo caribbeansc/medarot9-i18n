@@ -1092,6 +1092,217 @@
    ],
    "text": "Girar",
    "align": "left"
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "Medalla",
+   "box": [
+    33,
+    41,
+    40,
+    14
+   ],
+   "fill": {
+    "top": "#7B7B7B",
+    "bottom": "#676767"
+   }
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "Estilo",
+   "box": [
+    74,
+    41,
+    40,
+    14
+   ],
+   "fill": {
+    "top": "#7B7B7B",
+    "bottom": "#676767"
+   }
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "Medalla",
+   "box": [
+    33,
+    57,
+    40,
+    14
+   ],
+   "fill": {
+    "top": "#89F7F6",
+    "mid": "#4FDFDD",
+    "bottom": "#19CFCD"
+   }
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "Estilo",
+   "box": [
+    74,
+    57,
+    40,
+    14
+   ],
+   "fill": {
+    "top": "#89F7F6",
+    "mid": "#4FDFDD",
+    "bottom": "#19CFCD"
+   }
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "Piezas",
+   "box": [
+    164,
+    72,
+    37,
+    13
+   ],
+   "fill": {
+    "top": "#7B7B7B",
+    "bottom": "#676767"
+   }
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "Info",
+   "box": [
+    212,
+    72,
+    28,
+    13
+   ],
+   "fill": {
+    "top": "#7B7B7B",
+    "bottom": "#676767"
+   },
+   "erase_box": [
+    212,
+    72,
+    28,
+    14
+   ]
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "Piezas",
+   "box": [
+    164,
+    89,
+    37,
+    14
+   ],
+   "fill": {
+    "top": "#89F7F6",
+    "mid": "#4FDFDD",
+    "bottom": "#19CFCD"
+   }
+  },
+  {
+   "erase": "transparent",
+   "font": "sf-cond-heavy",
+   "cap": 8.5,
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "pad": 0,
+   "crisp": 0,
+   "align": "center",
+   "valign": "middle",
+   "text": "Info",
+   "box": [
+    212,
+    89,
+    28,
+    14
+   ],
+   "fill": {
+    "top": "#89F7F6",
+    "mid": "#4FDFDD",
+    "bottom": "#19CFCD"
+   }
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+   "cap": 5,
+   "fill": "#F0F0F0",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    180,
+    0,
+    40,
+    7
+   ],
+   "box": [
+    181,
+    0,
+    39,
+    7
+   ],
+   "text": "PIEZAS",
+   "baseline": 6
   }
  ]
 }

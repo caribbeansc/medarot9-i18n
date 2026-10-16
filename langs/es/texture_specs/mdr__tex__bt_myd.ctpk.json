@@ -215,6 +215,134 @@
    "align": "left",
    "crisp": 0.3,
    "baseline": 43
+  },
+  {
+   "box": [
+    73,
+    5,
+    31,
+    11
+   ],
+   "erase_box": [
+    72,
+    0,
+    21,
+    16
+   ],
+   "text": "Tiempo",
+   "align": "left",
+   "font": "sf-cond",
+   "cap": 7,
+   "fill": "#F8F8F8",
+   "stroke": "#BBBBBB",
+   "stroke_w": 0.5,
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    105,
+    5,
+    30,
+    11
+   ],
+   "erase_box": [
+    104,
+    0,
+    32,
+    16
+   ],
+   "text": "Nombre",
+   "align": "left",
+   "font": "sf-cond",
+   "cap": 7,
+   "fill": "#F8F8F8",
+   "stroke": "#BBBBBB",
+   "stroke_w": 0.5,
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    144,
+    20,
+    80,
+    12
+   ],
+   "erase_box": [
+    [
+     144,
+     16,
+     78,
+     16
+    ],
+    [
+     222,
+     20,
+     6,
+     12
+    ]
+   ],
+   "text": "Medabot en robobatalla",
+   "align": "left",
+   "font": "sf-cond",
+   "cap": 7,
+   "fill": "#F8F8F8",
+   "stroke": "#BBBBBB",
+   "stroke_w": 0.5,
+   "crisp": 0.4
+  },
+  {
+   "erase_box": [
+    222,
+    28,
+    34,
+    13
+   ],
+   "text": "",
+   "erase": "transparent"
+  },
+  {
+   "erase_box": [
+    0,
+    48,
+    136,
+    16
+   ],
+   "text": "",
+   "erase": "transparent"
+  },
+  {
+   "box": [
+    2,
+    50,
+    62,
+    13
+   ],
+   "erase": "none",
+   "text": "Restricciones",
+   "align": "left",
+   "font": "sf-cond",
+   "cap": 7,
+   "fill": "#F8F8F8",
+   "stroke": "#BBBBBB",
+   "stroke_w": 0.5,
+   "crisp": 0.4
+  },
+  {
+   "box": [
+    67,
+    50,
+    68,
+    13
+   ],
+   "erase": "none",
+   "text": "BGM de robobatalla",
+   "align": "left",
+   "font": "sf-cond",
+   "cap": 7,
+   "fill": "#F8F8F8",
+   "stroke": "#BBBBBB",
+   "stroke_w": 0.5,
+   "crisp": 0.4
   }
  ]
 }

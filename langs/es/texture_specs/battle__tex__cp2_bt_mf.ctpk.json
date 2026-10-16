@@ -1,0 +1,229 @@
+{
+ "rel": "battle/tex/cp2_bt_mf.ctpk",
+ "base": "jp",
+ "styles": {
+  "titulo": {
+   "erase": "none",
+   "font": "sf-rounded-heavy",
+   "pad": 0,
+   "min_scale_x": 0.8,
+   "fill": {
+    "top": "#FBF9F9",
+    "bottom": "#CFC1C1"
+   },
+   "stroke": "#000000A0",
+   "stroke_w": 1.0,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#000000",
+    "opacity": 0.6
+   },
+   "align": "left"
+  },
+  "msg": {
+   "erase": "none",
+   "font": "sf-heavy",
+   "pad": 0,
+   "min_scale_x": 0.8,
+   "fill": {
+    "top": "#FFFFFF",
+    "bottom": "#D8D8D8"
+   },
+   "stroke": "#000000B0",
+   "stroke_w": 1.0,
+   "align": "left",
+   "tracking": 0.2
+  }
+ },
+ "items": [
+  {
+   "erase_box": [
+    32,
+    0,
+    96,
+    31
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    32,
+    31,
+    96,
+    25
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    26,
+    50,
+    72,
+    29
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    32,
+    88,
+    96,
+    48
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    32,
+    136,
+    96,
+    14
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    22,
+    143,
+    24,
+    18
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    24,
+    148,
+    104,
+    22
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    213,
+    128,
+    43
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "style": "titulo",
+   "box": [
+    34,
+    3,
+    92,
+    22
+   ],
+   "text": "Rendirse",
+   "cap": 13,
+   "baseline": 21
+  },
+  {
+   "style": "titulo",
+   "box": [
+    34,
+    32,
+    92,
+    22
+   ],
+   "text": "Robobatalla",
+   "cap": 11.5,
+   "baseline": 50
+  },
+  {
+   "style": "titulo",
+   "box": [
+    32,
+    56,
+    64,
+    22
+   ],
+   "text": "auto!",
+   "cap": 13,
+   "baseline": 74
+  },
+  {
+   "style": "msg",
+   "box": [
+    33,
+    88,
+    94,
+    16
+   ],
+   "text": "Nota:  si  inicias",
+   "cap": 9.5,
+   "baseline": 100
+  },
+  {
+   "style": "msg",
+   "box": [
+    33,
+    104,
+    94,
+    16
+   ],
+   "text": "la  robobatalla",
+   "cap": 9.5,
+   "baseline": 116
+  },
+  {
+   "style": "msg",
+   "box": [
+    33,
+    120,
+    94,
+    16
+   ],
+   "text": "auto,  no  podras",
+   "cap": 9.5,
+   "baseline": 132
+  },
+  {
+   "style": "msg",
+   "box": [
+    46,
+    136,
+    81,
+    14
+   ],
+   "text": "cancelarla",
+   "cap": 9.5,
+   "baseline": 148
+  },
+  {
+   "style": "msg",
+   "box": [
+    2,
+    216,
+    124,
+    17
+   ],
+   "text": "Te  rindes?",
+   "cap": 11,
+   "baseline": 230
+  },
+  {
+   "style": "msg",
+   "box": [
+    2,
+    236,
+    124,
+    18
+   ],
+   "text": "hasta  el  final.",
+   "cap": 11,
+   "baseline": 250
+  }
+ ]
+}

@@ -544,6 +544,581 @@
     38,
     14
    ]
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    3,
+    3,
+    44,
+    12
+   ],
+   "box": [
+    5,
+    3,
+    50,
+    12
+   ],
+   "text": "NOMBRE",
+   "baseline": 11
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    51,
+    3,
+    28,
+    12
+   ],
+   "box": [
+    53,
+    3,
+    34,
+    12
+   ],
+   "text": "HABIL.",
+   "baseline": 11
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    83,
+    3,
+    19,
+    12
+   ],
+   "box": [
+    85,
+    3,
+    25,
+    12
+   ],
+   "text": "TEC.",
+   "baseline": 11
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    105,
+    3,
+    28,
+    12
+   ],
+   "box": [
+    107,
+    3,
+    32,
+    12
+   ],
+   "text": "GENERO",
+   "baseline": 11
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    138,
+    3,
+    49,
+    12
+   ],
+   "box": [
+    140,
+    3,
+    54,
+    12
+   ],
+   "text": "USO/TIENES",
+   "baseline": 11
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    193,
+    3,
+    63,
+    12
+   ],
+   "box": [
+    195,
+    3,
+    61,
+    12
+   ],
+   "text": "TIPO PIERNAS",
+   "baseline": 11
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    2,
+    17,
+    44,
+    12
+   ],
+   "box": [
+    4,
+    17,
+    50,
+    12
+   ],
+   "text": "NOMBRE",
+   "baseline": 26
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    50,
+    17,
+    35,
+    12
+   ],
+   "box": [
+    52,
+    17,
+    41,
+    12
+   ],
+   "text": "ESTILO",
+   "baseline": 26
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    90,
+    17,
+    34,
+    12
+   ],
+   "box": [
+    92,
+    17,
+    38,
+    12
+   ],
+   "text": "TOTAL",
+   "baseline": 26
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    129,
+    17,
+    23,
+    12
+   ],
+   "box": [
+    131,
+    17,
+    29,
+    12
+   ],
+   "text": "USO",
+   "baseline": 26
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    33,
+    33,
+    61,
+    12
+   ],
+   "box": [
+    35,
+    33,
+    67,
+    12
+   ],
+   "text": "NOMBRE",
+   "baseline": 42
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    107,
+    33,
+    28,
+    12
+   ],
+   "box": [
+    109,
+    33,
+    32,
+    12
+   ],
+   "text": "GENERO",
+   "baseline": 42
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    140,
+    33,
+    25,
+    12
+   ],
+   "box": [
+    142,
+    33,
+    31,
+    12
+   ],
+   "text": "CAB.",
+   "baseline": 42
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    168,
+    33,
+    25,
+    12
+   ],
+   "box": [
+    170,
+    33,
+    31,
+    12
+   ],
+   "text": "BR.D.",
+   "baseline": 42
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    197,
+    33,
+    24,
+    12
+   ],
+   "box": [
+    199,
+    33,
+    30,
+    12
+   ],
+   "text": "BR.I.",
+   "baseline": 42
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    225,
+    33,
+    29,
+    12
+   ],
+   "box": [
+    227,
+    33,
+    35,
+    12
+   ],
+   "text": "PIER.",
+   "baseline": 42
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    42,
+    49,
+    44,
+    12
+   ],
+   "box": [
+    44,
+    49,
+    50,
+    12
+   ],
+   "text": "NOMBRE",
+   "baseline": 58
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    104,
+    49,
+    35,
+    12
+   ],
+   "box": [
+    106,
+    49,
+    41,
+    12
+   ],
+   "text": "ESTILO",
+   "baseline": 58
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    156,
+    49,
+    29,
+    12
+   ],
+   "box": [
+    158,
+    49,
+    32,
+    12
+   ],
+   "text": "BRONCE",
+   "baseline": 58
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    190,
+    49,
+    29,
+    12
+   ],
+   "box": [
+    192,
+    49,
+    35,
+    12
+   ],
+   "text": "PLATA",
+   "baseline": 58
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    223,
+    49,
+    29,
+    12
+   ],
+   "box": [
+    225,
+    49,
+    35,
+    12
+   ],
+   "text": "ORO",
+   "baseline": 58
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    3,
+    65,
+    44,
+    12
+   ],
+   "box": [
+    5,
+    65,
+    50,
+    12
+   ],
+   "text": "NOMBRE",
+   "baseline": 74
+  },
+  {
+   "erase": "transparent",
+   "font": "translation-work/tex/fuentes_pixel/pix4x5.ttf",
+   "cap": 5,
+   "fill": "#B4B4B4",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0,
+   "scale_x": 1,
+   "align": "left",
+   "erase_box": [
+    51,
+    65,
+    27,
+    12
+   ],
+   "box": [
+    53,
+    65,
+    26,
+    12
+   ],
+   "text": "PREC.",
+   "baseline": 74
   }
  ]
 }

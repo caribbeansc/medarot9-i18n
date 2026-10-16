@@ -375,6 +375,101 @@
    "align": "left",
    "valign": "middle",
    "erase": "none"
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    0,
+    33,
+    64,
+    14
+   ],
+   "text": ""
+  },
+  {
+   "font": "sf-cond-heavy",
+   "fill": "#FFFFFFE5",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "erase": "none",
+   "box": [
+    1,
+    32,
+    37,
+    9
+   ],
+   "text": "Piernas:",
+   "cap": 7,
+   "baseline": 39.7
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    65,
+    33,
+    62,
+    14
+   ],
+   "text": ""
+  },
+  {
+   "font": "sf-cond-heavy",
+   "fill": "#FFFFFFE5",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "erase": "none",
+   "box": [
+    66,
+    33,
+    60,
+    12
+   ],
+   "text": "Medabot",
+   "cap": 7.5
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    90,
+    65,
+    37,
+    14
+   ],
+   "text": ""
+  },
+  {
+   "font": "sf-cond-heavy",
+   "fill": "#FFFFFFE5",
+   "stroke": null,
+   "pad": 0,
+   "crisp": 0.4,
+   "align": "left",
+   "valign": "middle",
+   "erase": "none",
+   "box": [
+    91,
+    65,
+    36,
+    12
+   ],
+   "text": "Medalla",
+   "cap": 7.5
+  },
+  {
+   "erase": "transparent",
+   "erase_box": [
+    90,
+    97,
+    14,
+    15
+   ],
+   "text": ""
   }
  ]
 }

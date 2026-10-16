@@ -137,6 +137,123 @@
      8
     ]
    ]
+  },
+  {
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#D9D9D9"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "align": "left",
+   "font": "tahoma",
+   "cap": 7.5,
+   "box": [
+    3,
+    3,
+    60,
+    20
+   ],
+   "erase_box": [
+    2,
+    2,
+    61,
+    21
+   ],
+   "text": "Play\nTime",
+   "leading": 0.95
+  },
+  {
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#E5E5E5"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "align": "left",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "box": [
+    66,
+    1,
+    88,
+    13
+   ],
+   "erase_box": [
+    65,
+    1,
+    84,
+    14
+   ],
+   "text": "Rubberobo Medal"
+  },
+  {
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#E5E5E5"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "align": "left",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "box": [
+    161,
+    1,
+    70,
+    13
+   ],
+   "erase_box": [
+    160,
+    0,
+    72,
+    15
+   ],
+   "text": "Casino Chips"
+  },
+  {
+   "fill": {
+    "top": "#F9F9F9",
+    "bottom": "#E5E5E5"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "align": "left",
+   "font": "sf-cond",
+   "cap": 8.5,
+   "box": [
+    66,
+    17,
+    93,
+    13
+   ],
+   "erase_box": [
+    65,
+    17,
+    94,
+    14
+   ],
+   "text": "Medagacha Coins"
+  },
+  {
+   "erase_box": [
+    128,
+    56,
+    16,
+    8
+   ],
+   "text": "",
+   "erase": "transparent"
+  },
+  {
+   "erase_box": [
+    198,
+    35,
+    2,
+    5
+   ],
+   "text": "",
+   "erase": "transparent"
   }
  ]
 }

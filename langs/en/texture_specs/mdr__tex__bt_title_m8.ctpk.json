@@ -285,6 +285,103 @@
    "text": "Enter a name.",
    "cap": 9.5,
    "dy": -0.7
+  },
+  {
+   "box": [
+    131,
+    52,
+    123,
+    16
+   ],
+   "erase_box": [
+    129,
+    48,
+    127,
+    23
+   ],
+   "text": "More scenarios to play",
+   "cap": 9
+  },
+  {
+   "box": [
+    78,
+    70,
+    40,
+    13
+   ],
+   "erase_box": [
+    76,
+    60,
+    42,
+    24
+   ],
+   "text": "Buy",
+   "cap": 9
+  },
+  {
+   "erase_box": [
+    0,
+    162,
+    256,
+    34
+   ],
+   "text": "",
+   "check": false
+  },
+  {
+   "box": [
+    0,
+    172,
+    31,
+    14
+   ],
+   "erase": "none",
+   "text": "Buy",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    35,
+    172,
+    30,
+    14
+   ],
+   "erase": "none",
+   "text": "Get",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    68,
+    172,
+    30,
+    14
+   ],
+   "erase": "none",
+   "text": "Delete",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    99,
+    172,
+    77,
+    14
+   ],
+   "erase": "none",
+   "text": "Add funds",
+   "cap": 8.5
+  },
+  {
+   "box": [
+    178,
+    172,
+    34,
+    14
+   ],
+   "erase": "none",
+   "text": "Exit",
+   "cap": 8.5
   }
  ]
 }

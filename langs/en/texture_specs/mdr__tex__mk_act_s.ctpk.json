@@ -188,6 +188,126 @@
     "bottom": "#52C8FF"
    },
    "stroke": "#201E22"
+  },
+  {
+   "copy": [
+    96,
+    16,
+    32,
+    16
+   ],
+   "to": [
+    0,
+    0
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    2,
+    1,
+    28,
+    14
+   ],
+   "erase": "none",
+   "text": "Strike",
+   "baseline": 12,
+   "fill": {
+    "top": "#FD9CD4",
+    "mid": "#F65E79",
+    "bottom": "#F5505F"
+   },
+   "stroke": "#260D12"
+  },
+  {
+   "copy": [
+    96,
+    16,
+    32,
+    16
+   ],
+   "to": [
+    96,
+    0
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    98,
+    1,
+    28,
+    14
+   ],
+   "erase": "none",
+   "text": "Bers.",
+   "baseline": 12,
+   "fill": {
+    "top": "#FD9CD4",
+    "mid": "#F65E79",
+    "bottom": "#F5505F"
+   },
+   "stroke": "#260D12"
+  },
+  {
+   "copy": [
+    96,
+    16,
+    32,
+    16
+   ],
+   "to": [
+    32,
+    16
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    34,
+    17,
+    28,
+    14
+   ],
+   "erase": "none",
+   "text": "Aim",
+   "baseline": 28,
+   "fill": {
+    "top": "#98FFFE",
+    "mid": "#7AE4FE",
+    "bottom": "#52C8FF"
+   },
+   "stroke": "#201E22"
+  },
+  {
+   "copy": [
+    96,
+    16,
+    32,
+    16
+   ],
+   "to": [
+    64,
+    16
+   ],
+   "blend": "replace"
+  },
+  {
+   "box": [
+    66,
+    17,
+    28,
+    14
+   ],
+   "erase": "none",
+   "text": "Shot",
+   "baseline": 28,
+   "fill": {
+    "top": "#98FFFE",
+    "mid": "#7AE4FE",
+    "bottom": "#52C8FF"
+   },
+   "stroke": "#201E22"
   }
  ]
 }

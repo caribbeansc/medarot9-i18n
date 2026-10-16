@@ -1,0 +1,51 @@
+{
+ "rel": "mdr/tex/mk_kentei_7_2.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "glyph",
+  "bg": "mode",
+  "grow": 1,
+  "font": "translation-work/tex/fuentes_pixel/pix3x5.ttf",
+  "cap": 5,
+  "fill": "#EEE26A",
+  "stroke": null,
+  "pad": 0,
+  "crisp": 0,
+  "align": "center",
+  "scale_x": 1
+ },
+ "items": [
+  {
+   "box": [
+    3,
+    7,
+    51,
+    6
+   ],
+   "erase_box": [
+    8,
+    7,
+    42,
+    6
+   ],
+   "baseline": 13,
+   "text": "BATTLE RIFLE"
+  },
+  {
+   "box": [
+    60,
+    7,
+    46,
+    6
+   ],
+   "erase_box": [
+    62,
+    7,
+    40,
+    6
+   ],
+   "baseline": 13,
+   "text": "AIM RIFLE"
+  }
+ ]
+}

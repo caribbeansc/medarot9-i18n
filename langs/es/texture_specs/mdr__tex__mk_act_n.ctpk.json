@@ -300,6 +300,17 @@
    "text": "BONO",
    "baseline": 108,
    "fill": "#E8E8E8"
+  },
+  {
+   "erase_box": [
+    6,
+    108,
+    18,
+    1
+   ],
+   "erase": "transparent",
+   "text": "",
+   "check": false
   }
  ]
 }

@@ -1,0 +1,147 @@
+{
+ "rel": "mdr/tex/news_mdrive.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "compact-rounded-heavy",
+  "cap": 9,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "align": "center",
+  "min_scale_x": 0.75
+ },
+ "items": [
+  {
+   "erase_box": [
+    0,
+    0,
+    512,
+    112
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    0,
+    284,
+    16
+   ],
+   "text": "La luna que flota en el cielo es el hogar de los Medabots."
+  },
+  {
+   "box": [
+    292,
+    0,
+    218,
+    16
+   ],
+   "text": "segun ha averiguado este reportero."
+  },
+  {
+   "box": [
+    4,
+    16,
+    276,
+    16
+   ],
+   "text": "Alli hay una gran ciudad"
+  },
+  {
+   "box": [
+    284,
+    16,
+    226,
+    16
+   ],
+   "text": "Esa llave se llama \"M Drive\"."
+  },
+  {
+   "box": [
+    4,
+    32,
+    284,
+    16
+   ],
+   "text": "donde, al parecer, viven muchos Medabots."
+  },
+  {
+   "box": [
+    292,
+    32,
+    218,
+    16
+   ],
+   "text": "Hay seis en total, y si se reunen"
+  },
+  {
+   "box": [
+    4,
+    48,
+    228,
+    16
+   ],
+   "text": "Pero para entrar en esa ciudad"
+  },
+  {
+   "box": [
+    236,
+    48,
+    274,
+    16
+   ],
+   "text": "todas, se abrira el camino a la ciudad"
+  },
+  {
+   "box": [
+    4,
+    64,
+    276,
+    16
+   ],
+   "text": "hace falta cierta \"llave\","
+  },
+  {
+   "box": [
+    284,
+    64,
+    226,
+    16
+   ],
+   "text": "imperial de los Medabots... o eso dicen."
+  },
+  {
+   "box": [
+    0,
+    80,
+    74,
+    16
+   ],
+   "text": "Erika Amazake",
+   "align": "left"
+  },
+  {
+   "box": [
+    76,
+    81,
+    210,
+    19
+   ],
+   "text": "Esa llave se llama \"M Drive\"",
+   "cap": 11
+  },
+  {
+   "box": [
+    0,
+    96,
+    40,
+    16
+   ],
+   "text": "Texto:",
+   "align": "left",
+   "cap": 10
+  }
+ ]
+}

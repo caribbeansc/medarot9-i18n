@@ -61,6 +61,69 @@
     9
    ],
    "text": "Crossfire"
+  },
+  {
+   "box": [
+    0,
+    8,
+    20,
+    9
+   ],
+   "text": "DEF",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7
+  },
+  {
+   "box": [
+    20,
+    8,
+    20,
+    9
+   ],
+   "text": "EVA",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7
+  },
+  {
+   "box": [
+    40,
+    8,
+    20,
+    9
+   ],
+   "text": "OK",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7
+  },
+  {
+   "box": [
+    60,
+    8,
+    20,
+    9
+   ],
+   "text": "NO",
+   "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+   "cap": 7
+  },
+  {
+   "box": [
+    0,
+    0,
+    25,
+    7
+   ],
+   "text": "PIERCE"
+  },
+  {
+   "box": [
+    0,
+    18,
+    82,
+    8
+   ],
+   "erase": "transparent",
+   "text": ""
   }
  ]
 }

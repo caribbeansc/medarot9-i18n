@@ -990,6 +990,345 @@
    ],
    "text": "Made",
    "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": {
+    "top": "#9E97FC",
+    "bottom": "#857DED"
+   },
+   "stroke": "#5F56D6",
+   "stroke_w": 0.5,
+   "crisp": 0.4,
+   "box": [
+    164,
+    45,
+    70,
+    12
+   ],
+   "erase_box": [
+    162,
+    44,
+    74,
+    13
+   ],
+   "text": "Rotation",
+   "align": "left"
+  },
+  {
+   "font": "tahoma",
+   "cap": 8,
+   "fill": "#D0AAF9",
+   "stroke": "#996EE0",
+   "stroke_w": 0.5,
+   "crisp": 0.4,
+   "box": [
+    3,
+    61,
+    72,
+    12
+   ],
+   "erase_box": [
+    0,
+    60,
+    76,
+    13
+   ],
+   "text": "Rocket Key",
+   "align": "left"
+  },
+  {
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": {
+    "top": "#FB6E6E",
+    "bottom": "#D0262C"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    108,
+    67,
+    78,
+    14
+   ],
+   "erase_box": [
+    106,
+    62,
+    84,
+    20
+   ],
+   "text": "World Champion",
+   "align": "left"
+  },
+  {
+   "font": "sf-cond",
+   "cap": 9,
+   "fill": {
+    "top": "#9A93FA",
+    "bottom": "#7168E1"
+   },
+   "stroke": null,
+   "crisp": 0.4,
+   "box": [
+    193,
+    67,
+    48,
+    14
+   ],
+   "erase_box": [
+    191,
+    62,
+    50,
+    20
+   ],
+   "text": "Lv. 4 231",
+   "align": "left"
+  },
+  {
+   "erase_box": [
+    0,
+    82,
+    128,
+    9
+   ],
+   "text": "",
+   "erase": "transparent"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    424,
+    165,
+    16,
+    11
+   ],
+   "erase_box": [
+    424,
+    158,
+    16,
+    18
+   ],
+   "text": "Gms.",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    440,
+    165,
+    16,
+    11
+   ],
+   "erase_box": [
+    440,
+    158,
+    16,
+    18
+   ],
+   "text": "Win",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    424,
+    190,
+    16,
+    11
+   ],
+   "erase_box": [
+    424,
+    183,
+    16,
+    19
+   ],
+   "text": "Gms.",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    440,
+    190,
+    16,
+    11
+   ],
+   "erase_box": [
+    440,
+    183,
+    16,
+    19
+   ],
+   "text": "Win",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    424,
+    216,
+    16,
+    11
+   ],
+   "erase_box": [
+    424,
+    209,
+    16,
+    18
+   ],
+   "text": "Gms.",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    440,
+    216,
+    16,
+    11
+   ],
+   "erase_box": [
+    440,
+    209,
+    16,
+    18
+   ],
+   "text": "Win",
+   "align": "center"
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    496,
+    59,
+    8,
+    8
+   ],
+   "erase_box": [
+    496,
+    59,
+    8,
+    8
+   ],
+   "text": "pc.",
+   "align": "center",
+   "baseline": 65
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    496,
+    78,
+    8,
+    8
+   ],
+   "erase_box": [
+    496,
+    78,
+    8,
+    8
+   ],
+   "text": "pc.",
+   "align": "center",
+   "baseline": 84
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    496,
+    97,
+    8,
+    8
+   ],
+   "erase_box": [
+    496,
+    97,
+    8,
+    8
+   ],
+   "text": "pc.",
+   "align": "center",
+   "baseline": 103
+  },
+  {
+   "font": "translation-work/tex/pixfont/Pix3x5.ttf",
+   "cap": 5,
+   "fill": "#989898",
+   "stroke": null,
+   "crisp": 1.0,
+   "min_scale_x": 1,
+   "scale_x": 1,
+   "box": [
+    496,
+    116,
+    8,
+    8
+   ],
+   "erase_box": [
+    496,
+    116,
+    8,
+    8
+   ],
+   "text": "pc.",
+   "align": "center",
+   "baseline": 122
   }
  ]
 }

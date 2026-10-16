@@ -350,6 +350,251 @@
     "bottom": "#B076FF"
    },
    "stroke": "#120E0E"
+  },
+  {
+   "erase_box": [
+    16,
+    0,
+    24,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    16,
+    4,
+    24,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    16,
+    5,
+    24,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    16,
+    11,
+    24,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    17,
+    1,
+    22,
+    14
+   ],
+   "erase": "none",
+   "text": "Disparar",
+   "baseline": 12,
+   "fill": {
+    "top": "#98FFFE",
+    "mid": "#7AE4FE",
+    "bottom": "#52C8FF"
+   },
+   "stroke": "#201E22",
+   "font": "sf-compressed",
+   "cap": 6,
+   "min_scale_x": 0.75
+  },
+  {
+   "erase_box": [
+    0,
+    16,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    20,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    21,
+    40,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    27,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    17,
+    38,
+    14
+   ],
+   "erase": "none",
+   "text": "Golpear",
+   "baseline": 28,
+   "fill": {
+    "top": "#FD9CD4",
+    "mid": "#F65E79",
+    "bottom": "#F5505F"
+   },
+   "stroke": "#260D12"
+  },
+  {
+   "erase_box": [
+    0,
+    32,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    36,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    37,
+    40,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    0,
+    43,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    1,
+    33,
+    38,
+    14
+   ],
+   "erase": "none",
+   "text": "Arremet.",
+   "baseline": 44,
+   "fill": {
+    "top": "#FD9CD4",
+    "mid": "#F65E79",
+    "bottom": "#F5505F"
+   },
+   "stroke": "#260D12"
+  },
+  {
+   "erase_box": [
+    40,
+    32,
+    40,
+    16
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    36,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    37,
+    40,
+    6
+   ],
+   "erase": "solid:#3C3C3C",
+   "text": ""
+  },
+  {
+   "erase_box": [
+    40,
+    43,
+    40,
+    1
+   ],
+   "erase": "solid:#8C8C8C",
+   "text": ""
+  },
+  {
+   "box": [
+    41,
+    33,
+    38,
+    14
+   ],
+   "erase": "none",
+   "text": "Punteria",
+   "baseline": 44,
+   "fill": {
+    "top": "#98FFFE",
+    "mid": "#7AE4FE",
+    "bottom": "#52C8FF"
+   },
+   "stroke": "#201E22"
   }
+ ],
+ "protect": [
+  [
+   0,
+   0,
+   16,
+   16
+  ],
+  [
+   40,
+   0,
+   16,
+   16
+  ]
  ]
 }

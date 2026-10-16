@@ -468,6 +468,26 @@
    "fill": "#79F1DF",
    "stroke": null,
    "crisp": 0
+  },
+  {
+   "box": [
+    130,
+    248,
+    46,
+    8
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    178,
+    247,
+    46,
+    7
+   ],
+   "erase": "transparent",
+   "text": ""
   }
  ]
 }

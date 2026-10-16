@@ -1,0 +1,81 @@
+{
+ "rel": "mdr/tex/p_icon.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "transparent",
+  "font": "translation-work/tex/fuentes_pixel/pix5x7.ttf",
+  "cap": 7,
+  "fill": "#F2F2FA",
+  "stroke": "#232334",
+  "stroke_w": 1,
+  "pad": 0,
+  "crisp": 0,
+  "scale_x": 1
+ },
+ "items": [
+  {
+   "box": [
+    0,
+    32,
+    21,
+    10
+   ],
+   "erase_box": [
+    0,
+    32,
+    20,
+    10
+   ],
+   "text": "DEF",
+   "baseline": 40
+  },
+  {
+   "box": [
+    20,
+    32,
+    21,
+    10
+   ],
+   "erase_box": [
+    20,
+    32,
+    21,
+    10
+   ],
+   "text": "EVA",
+   "baseline": 40
+  },
+  {
+   "box": [
+    0,
+    43,
+    21,
+    10
+   ],
+   "erase_box": [
+    0,
+    43,
+    20,
+    10
+   ],
+   "text": "OK",
+   "baseline": 51
+  },
+  {
+   "box": [
+    20,
+    43,
+    21,
+    10
+   ],
+   "erase_box": [
+    20,
+    43,
+    21,
+    10
+   ],
+   "text": "NO",
+   "baseline": 51
+  }
+ ]
+}

@@ -62,6 +62,25 @@
    "text": "Hira",
    "cap": 8,
    "fill": "#FFFFFF"
+  },
+  {
+   "box": [
+    240,
+    38,
+    16,
+    14
+   ],
+   "erase_box": [
+    240,
+    37,
+    16,
+    16
+   ],
+   "text": "Peq",
+   "cap": 7,
+   "fill": "#0A0A0A",
+   "font": "helv-cond-black",
+   "crisp": 0.5
   }
  ]
 }

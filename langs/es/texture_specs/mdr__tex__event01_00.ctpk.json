@@ -1,0 +1,29 @@
+{
+ "rel": "mdr/tex/event01_00.ctpk",
+ "base": "jp",
+ "items": [
+  {
+   "box": [
+    18,
+    10,
+    320,
+    46
+   ],
+   "erase_box": [
+    14,
+    12,
+    228,
+    42
+   ],
+   "erase": "solid:#000000",
+   "text": "Imagen de evento",
+   "font": "rounded",
+   "cap": 24,
+   "fill": "#FFFFFF",
+   "stroke": null,
+   "align": "left",
+   "pad": 0,
+   "baseline": 48
+  }
+ ]
+}

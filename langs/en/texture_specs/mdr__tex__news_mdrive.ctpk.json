@@ -1,0 +1,147 @@
+{
+ "rel": "mdr/tex/news_mdrive.ctpk",
+ "base": "jp",
+ "defaults": {
+  "erase": "none",
+  "font": "compact-rounded-heavy",
+  "cap": 9,
+  "fill": "#FFFFFF",
+  "stroke": null,
+  "pad": 0,
+  "align": "center",
+  "min_scale_x": 0.75
+ },
+ "items": [
+  {
+   "erase_box": [
+    0,
+    0,
+    512,
+    112
+   ],
+   "erase": "transparent",
+   "text": ""
+  },
+  {
+   "box": [
+    4,
+    0,
+    284,
+    16
+   ],
+   "text": "The moon floating in the sky is the home of the Medabots."
+  },
+  {
+   "box": [
+    292,
+    0,
+    218,
+    16
+   ],
+   "text": "as this reporter has found out."
+  },
+  {
+   "box": [
+    4,
+    16,
+    276,
+    16
+   ],
+   "text": "There lies a great city"
+  },
+  {
+   "box": [
+    284,
+    16,
+    226,
+    16
+   ],
+   "text": "That key is called the \"M Drive\"."
+  },
+  {
+   "box": [
+    4,
+    32,
+    284,
+    16
+   ],
+   "text": "where, it is said, many Medabots live."
+  },
+  {
+   "box": [
+    292,
+    32,
+    218,
+    16
+   ],
+   "text": "There are six in all, and gathering"
+  },
+  {
+   "box": [
+    4,
+    48,
+    228,
+    16
+   ],
+   "text": "But to enter that city,"
+  },
+  {
+   "box": [
+    236,
+    48,
+    274,
+    16
+   ],
+   "text": "them all opens the road to the"
+  },
+  {
+   "box": [
+    4,
+    64,
+    276,
+    16
+   ],
+   "text": "a certain \"key\" is needed,"
+  },
+  {
+   "box": [
+    284,
+    64,
+    226,
+    16
+   ],
+   "text": "Medabots' imperial city... or so they say."
+  },
+  {
+   "box": [
+    0,
+    80,
+    74,
+    16
+   ],
+   "text": "Erika Amazake",
+   "align": "left"
+  },
+  {
+   "box": [
+    76,
+    81,
+    210,
+    19
+   ],
+   "text": "That key is called the \"M Drive\"",
+   "cap": 11
+  },
+  {
+   "box": [
+    0,
+    96,
+    40,
+    16
+   ],
+   "text": "Text:",
+   "align": "left",
+   "cap": 10
+  }
+ ]
+}
